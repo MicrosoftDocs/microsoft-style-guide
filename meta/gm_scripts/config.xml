@@ -1,0 +1,6 @@
+<UserScriptConfig>
+	<Script basedir="MS_Style_Guide_Content" checkRemoteUpdates="1" dependhash="da39a3ee5e6b4b0d3255bfef95601890afd80709" description="" enabled="true" filename="MS_Style_Guide_Content.user.js" installTime="1509206894017" modified="1509208781932" name="MS Style Guide Content" namespace="myscript" noframes="false" runAt="document-end" updateMetaStatus="unknown" uuid="fa73b425-c990-4fdb-8664-48b060226a86" version="1" installurl="file:///C:/Users/v-anpasi/AppData/Roaming/Mozilla/Firefox/Profiles/oox8w6k2.default/gm_scripts/MS_Style_Guide_Content/MS_Style_Guide_Content.user.js" updateurl="file:///C:/Users/v-anpasi/AppData/Roaming/Mozilla/Firefox/Profiles/oox8w6k2.default/gm_scripts/MS_Style_Guide_Content/MS_Style_Guide_Content.user.js">
+		<Grant>none</Grant>
+		<Include>https://worldready.cloudapp.net/StyleGuide/*</Include>
+	</Script>
+</UserScriptConfig>
