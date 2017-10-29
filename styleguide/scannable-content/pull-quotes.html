@@ -1,0 +1,361 @@
+<!DOCTYPE html>
+<html style="" class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients no-cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Microsoft Style Guides</title>
+    
+    <link href="https://worldready.cloudapp.net/Content/Images/styleguide_favicon.ico" rel="icon" type="image/x-icon">    
+    <link href="pull-quotes_files/css.css" rel="stylesheet">
+
+    <link href="pull-quotes_files/mastercss.css" rel="stylesheet">
+
+    <script src="pull-quotes_files/master"></script>
+
+
+</head>
+<body>
+    <noscript><div class="noscriptTag">Your browser does not support JavaScript. Please enable the Javascript.</div></noscript>
+    <input id="hdnloggeduserid" value="16406" type="hidden">
+    <div class="loadingicon" style="display: none;">
+        <div class="page-loading">Loading...</div>
+    </div>
+    <div class="body">
+
+        
+
+
+
+
+    </div>
+        
+    <div class="main">
+
+        
+
+
+<script>
+    $(document).ready(function () {
+        $('.viewStyleGuide').show();
+
+        buildNavMenu('2700', 'Microsoft Writing Style Guide', '36414');
+
+        $('.menu-img').live('click', function () {
+            subTopicToggle(this);
+        });
+
+        $(".menu-img").live('keydown', function (e) {
+            var event = e.KeyCode || e.which;
+            if (event == 13) {
+                subTopicToggle(this);
+            }
+        });
+
+        $('.topicNameView').live('click', function () {
+            var topicId = $(this).attr('data-topicid');
+            $('.topic-menu').each(function () {
+                if ($(this).hasClass('selectedDiv')) {
+                    $(this).removeClass('selectedDiv');
+                }
+            });
+
+            $('.topic-menu[data-topicid="' + topicId + '"]').addClass('selectedDiv');
+            var styleGuideId = $('.topic-element[data-topicid="' + topicId + '"]').attr('data-styleguideid');
+            getTopicData(topicId, styleGuideId);
+        });
+
+        $(".topicNameView").live('keydown', function (e) {
+            var event = e.KeyCode || e.which;
+            if (event == 13) {
+                var topicId = $(this).attr('data-topicid');
+                $('.topic-menu').each(function () {
+                    if ($(this).hasClass('selectedDiv')) {
+                        $(this).removeClass('selectedDiv');
+                    }
+                });
+
+                $('.topic-menu[data-topicid="' + topicId + '"]').addClass('selectedDiv');
+                var styleGuideId = $('.topic-element[data-topicid="' + topicId + '"]').attr('data-styleguideid');
+                getTopicData(topicId, styleGuideId);
+            }
+        });
+
+        $('#sgDownload').live('click', function () {
+            var styleGuideId = $('#sgDownload').attr('data-styleguideid');
+            window.location = '/StyleGuide/DownloadStyleGuide?styleGuideId=' + styleGuideId + '&styleGuideDraftId=' + 0 + '&isEdit=0';
+            return false;
+        });
+
+        $("#sgDownload").live('keydown', function (e) {
+            var event = e.KeyCode || e.which;
+            if (event == 13) {
+                var styleGuideId = $('#sgDownload').attr('data-styleguideid');
+                window.location = '/StyleGuide/DownloadStyleGuide?styleGuideId=' + styleGuideId + '&styleGuideDraftId=' + 0 + '&isEdit=0';
+                return false;
+            }
+        });
+
+        $('#sgEditStyleGuide').live('click', function () {
+            var styleGuideId = $('#sgEditStyleGuide').attr('data-styleguideid');
+            window.location = '/StyleGuide/Edit?id=' + styleGuideId + '';
+            return false;
+        });
+
+        $("#sgEditStyleGuide").live('keydown', function (e) {
+            var event = e.KeyCode || e.which;
+            if (event == 13) {
+                var styleGuideId = $('#sgEditStyleGuide').attr('data-styleguideid');
+                window.location = '/StyleGuide/Edit?id=' + styleGuideId + '';
+                return false;
+            }
+        });
+
+        $('.topicDownload').live('click', function () {
+            downloadTopic(this);
+        });
+
+        $('.topicEdit').live('click', function () {
+            var topicId = $(this).attr('data-topicid');
+            var topicElem = $('.topic-element[data-topicid="' + topicId + '"]');
+            var styleGuideId = $('.navigationTitleView').attr('data-styleguideid');
+
+            window.location = '/StyleGuide/Edit?Id=' + styleGuideId + '&topicId=' + topicId + '&styleGuideDraftId=' + 0 + '&isEdit=1';
+            return false;
+        });
+
+        $('#divCopyURL').live('click', function () {
+            copyTopicURL($(this), 'Styleguide', 'Read', '2700');
+        });
+
+        $('#divCopyURL').live('keydown', function (e) {
+            var event = e.KeyCode || e.which;
+            if (event == 13) {
+                copyTopicURL($(this), 'Styleguide', 'Read', '2700');
+            }
+        });
+
+        $('.topicDownload').live('keydown', function (e) {
+            var event = e.KeyCode || e.which;
+            if (event == 13) {
+                downloadTopic(this);
+            }
+        });
+
+        $('.topicEdit').live('keydown', function (e) {
+            var event = e.KeyCode || e.which;
+            if (event == 13) {
+                editTopic(this);
+            }
+        });
+        hideLoadingIcon();
+        $('.navigationTitleView').focus();
+    });
+
+    function SearchTopic() {
+        var searchTerm = $("#searchTopic").val().trim();
+        if (searchTerm != "") {
+            //if (searchTerm.length > 2)
+            //{
+            $("#searchTerm").val(searchTerm);
+            $("#searchresults").submit();
+            //}
+            //else
+            //{
+            //    alert('ERROR: Invalid search entry!\n\n'
+            //        +' Search entries must be between 3 and 255 characters and may only'
+            //        + ' contain alphanumeric characters, quotation marks, and minus signs.');
+            //    return false;
+            //}
+        }
+        else {
+            alert('Please enter a keyword to search');
+            return false;
+        }
+    }
+
+    function clickSearchButton(e) {
+        var evt = e ? e : window.event;
+        if (evt.keyCode == 13) {
+            SearchTopic();
+            return false;
+        }
+    }
+
+</script>
+
+<div class="viewStyleGuide" style="">
+    <div id="container2">
+        <div id="container1">
+            
+            <div class="topicContent">
+                
+                <div class="cl-b"></div>
+                <div id="topicInfo">
+    <div class="topicView" data-id="44662" data-topicid="36414">
+        <div class="fl topicTitleView" data-id="44662" data-topicid="36414" title="Pull quotes">Pull quotes</div>
+        <div class="topicButtons">
+            <div tabindex="0" id="divCopyURL" title="Copy URL" class="clickable-div" data-topicid="36414">
+                <img class="button-image" src="pull-quotes_files/Copy.png" alt="Copy URL">
+                <span class="button-text">Copy URL</span>
+            </div>
+            <div tabindex="0" class="topicDownload clickable-div" data-id="44662" data-topicid="36414">
+                <img class="button-image" src="pull-quotes_files/Download.png" alt="Download">
+                <div class="button-text">Download topic</div>
+            </div>
+        </div>
+        <div class="cl-b"></div>
+        <div class="editable" data-id="44662" data-topicid="36414"><p><span><span style="color: rgb(0, 0, 0); font-family: Segoe UI; font-size: small;">Pull quotes</span><span style="color: rgb(0, 0, 0); font-family: Segoe UI Semibold; font-size: small;">&nbsp;</span></span><span style="font-size: small;">are short sentences—usually a quote&nbsp;from someone important to the story, but sometimes just a short, interesting&nbsp;</span><span style="font-family: Segoe UI; font-size: small;">sentence—set off from body text to&nbsp;grab the</span><span style="font-size: small;"> reader’s attention. </span></p><p><img src="data:image/png;base64,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"></p><p><span style="font-size: small;"><span style="color: rgb(0, 0, 0); font-family: Segoe UI; font-size: small;">Pull quotes</span><span style="font-size: small;">
+ should be short—from a few words to a few lines.&nbsp;If the quote is 
+from a person or publication, include the author’s name, title,&nbsp;and
+ organization with the pull quote.</span></span></p><p><span style="color: rgb(0, 102, 0); font-family: Segoe UI; font-size: small;">Exception</span>&nbsp;<span style="font-size: small;">If the content is entirely about the person being quoted, you don’t need to include the attribution.</span></p><p><span style="font-size: small;">Use
+ pull quotes sparingly. If the quote is from a person 
+or&nbsp;publication, make sure you have permission to use it in your 
+content—even if&nbsp;you're quoting someone who works for Microsoft. For
+ legal&nbsp;information about&nbsp;using&nbsp;quotations, see </span><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=26696"><span style="font-size: small;">Copyrights&nbsp;and trademarks</span></a><span style="font-size: small;">.</span></p></div>
+        
+        <br>
+        
+        
+
+</div></div>
+                <div class="activity-indicator centered" style="display: none;">
+                    <img src="pull-quotes_files/activity-large.gif" alt="In progress">
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
+<script id="navListTempl" type="text/x-jquery-tmpl" data-jsv-tmpl="_0">
+    <div class="topic-element" data-id="{{: StyleGuideTopicID}}" data-topicid="{{: TopicID}}" data-parenttopicid="{{: ParentTopicID}}" data-styleguideid="{{: StyleGuideID}}">
+        <div class="topic-menu" data-topicid="{{: TopicID}}">
+            <div class="menu-img-div" data-topicid="{{: TopicID}}">
+                <img tabindex="0" class="menu-img" data-topicid="{{: TopicID}}" data-parenttopicid="{{: ParentTopicID}}" src="/Content/Images/menu-normal.png" alt="Menu" />
+                <div tabindex="0" class="fl clickable topicNameView levelView{{: TopicLevel}}" data-id="{{: StyleGuideTopicID}}" data-topicid="{{: TopicID}}" title="{{: TopicName}}">{{: TopicName}}</div>
+            </div>
+            <div class="cl-b" data-topicid="{{: TopicID}}"></div>
+            <hr class="topicNavSeparator" data-topicid="{{: TopicID}}" />
+        </div>
+        
+        {{if ChildTopics}}
+        <div class="subTopics" style="padding-left: 0.8em; display: none;" data-parenttopicid="{{: TopicID}}">
+            {{for ChildTopics tmpl="#navListTempl" /}}
+        </div>
+        {{/if}}
+    </div>
+</script>
+
+
+<script id="topicContentTempl" type="text/x-jquery-tmpl" data-jsv-tmpl="_1">
+    <div class="topicView" data-id="{{: StyleGuideTopicID}}" data-topicid="{{: TopicID}}">
+        <div class="fl topicTitleView" data-id="{{: StyleGuideTopicID}}" data-topicid="{{: TopicID}}" title="{{: TopicName}}">{{: TopicName}}</div>
+        <div class="topicButtons">
+            <div tabindex="0" id="divCopyURL" title="Copy URL" class="clickable-div" data-topicid="{{: TopicID}}">
+                <img class="button-image" src="/Content/Images/Copy.png" alt="Copy URL" />
+                <span class="button-text">Copy URL</span>
+            </div>
+            <div tabindex="0" class="topicDownload clickable-div" data-id="{{: StyleGuideTopicID}}" data-topicid="{{: TopicID}}">
+                <img class="button-image" src="/Content/Images/Download.png" alt="Download" />
+                <div class="button-text">Download topic</div>
+            </div>
+        </div>
+        <div class="cl-b"></div>
+        <div class="editable" data-id="{{: StyleGuideTopicID}}" data-topicid="{{: TopicID}}">{{: TopicContent}}</div>
+        
+        <br />
+        
+        
+
+<script>
+    function copyTopicURL(topicElement, type, page,id) {
+        $("#txtTopicURL").val("");
+        var topicId = topicElement.attr('data-topicid');
+        
+        var topicURL = get_hostname(window.location.href) + '/' + type + '/' + page + '?id=' + id + '&topicid=' + topicId.toString();
+
+        $('#copyTopicURLSection').dialog({
+            autoOpen: false,
+            width: 950,
+            height: 200,
+            resizable: false,
+            title: 'Copy topic URL',
+            modal: true,
+            closeOnEscape: true,
+            draggable: true,
+            open: function () {
+                $(".ui-dialog-titlebar").attr('alt', 'Close');
+                $(".ui-dialog-titlebar-close").addClass('ui-dialog-titlebar-close-custom').attr('title', 'Close');
+                $("#txtTopicURL").val($(this).data('topicURL'));
+            },
+            buttons: [
+                {
+                    id: "btnCancelTag",
+                    text: "CLOSE",
+                    title: "close",
+                    "class": "button-add-disp",
+                    click: function () {
+                        $('#copyTopicURLSection').dialog('close');
+                    }
+                }
+            ]
+        });
+
+        $('#copyTopicURLSection')
+        .data({
+            'topicURL': topicURL
+        })
+        .dialog('open');
+
+        return false;
+    }
+</script>
+
+<div id="copyTopicURLSection" style="display: none;">
+    <br>
+    <div>URL : </div>
+    <br>
+    <input id="txtTopicURL" class="TopicURL" rows="5" onfocus="javascript:this.select();" type="text">
+</div>
+
+
+        <br>
+    </div>
+    <div class="cl-b"></div>
+
+
+<form action="/Search/Index" method="post" name="searchresults" id="searchresults" novalidate="novalidate">
+    <input name="searchTerm" id="searchTerm" value="" type="hidden">
+    <input name="styleguideIds" id="styleguideIds" value="2700" type="hidden">
+    <input name="fromURL" id="fromURL" value="styleguideread" type="hidden">
+</form>
+
+
+    
+    
+
+    
+    <script src="pull-quotes_files/viewStyleGuide.js"></script>
+    <link rel="stylesheet" type="text/css" href="pull-quotes_files/template.css">
+    <style>
+        .editable {
+            font-size: 12pt;
+            font-family: Segoe UI;
+        }
+
+        .main {
+            height: 50.2em;
+        }
+        p {
+        margin: 0 0 1em;
+        padding-left: 0.6em;
+    }
+    </style>
+
+     
+
+
+
+</body></html>

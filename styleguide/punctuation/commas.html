@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<html style="" class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients no-cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Microsoft Style Guides</title>
+    
+    <link href="https://worldready.cloudapp.net/Content/Images/styleguide_favicon.ico" rel="icon" type="image/x-icon">    
+    <link href="commas_files/css.css" rel="stylesheet">
+
+    <link href="commas_files/mastercss.css" rel="stylesheet">
+
+    <script src="commas_files/master"></script>
+
+
+</head>
+<body>
+    <noscript><div class="noscriptTag">Your browser does not support JavaScript. Please enable the Javascript.</div></noscript>
+    <input id="hdnloggeduserid" value="16406" type="hidden">
+    <div class="loadingicon" style="display: none;">
+        <div class="page-loading">Loading...</div>
+    </div>
+    <div class="body">
+
+        
+
+
+
+
+    </div>
+        
+    <div class="main">
+
+        
+
+
+<script>
+    $(document).ready(function () {
+        $('.viewStyleGuide').show();
+
+        buildNavMenu('2700', 'Microsoft Writing Style Guide', '28752');
+
+        $('.menu-img').live('click', function () {
+            subTopicToggle(this);
+        });
+
+        $(".menu-img").live('keydown', function (e) {
+            var event = e.KeyCode || e.which;
+            if (event == 13) {
+                subTopicToggle(this);
+            }
+        });
+
+        $('.topicNameView').live('click', function () {
+            var topicId = $(this).attr('data-topicid');
+            $('.topic-menu').each(function () {
+                if ($(this).hasClass('selectedDiv')) {
+                    $(this).removeClass('selectedDiv');
+                }
+            });
+
+            $('.topic-menu[data-topicid="' + topicId + '"]').addClass('selectedDiv');
+            var styleGuideId = $('.topic-element[data-topicid="' + topicId + '"]').attr('data-styleguideid');
+            getTopicData(topicId, styleGuideId);
+        });
+
+        $(".topicNameView").live('keydown', function (e) {
+            var event = e.KeyCode || e.which;
+            if (event == 13) {
+                var topicId = $(this).attr('data-topicid');
+                $('.topic-menu').each(function () {
+                    if ($(this).hasClass('selectedDiv')) {
+                        $(this).removeClass('selectedDiv');
+                    }
+                });
+
+                $('.topic-menu[data-topicid="' + topicId + '"]').addClass('selectedDiv');
+                var styleGuideId = $('.topic-element[data-topicid="' + topicId + '"]').attr('data-styleguideid');
+                getTopicData(topicId, styleGuideId);
+            }
+        });
+
+        $('#sgDownload').live('click', function () {
+            var styleGuideId = $('#sgDownload').attr('data-styleguideid');
+            window.location = '/StyleGuide/DownloadStyleGuide?styleGuideId=' + styleGuideId + '&styleGuideDraftId=' + 0 + '&isEdit=0';
+            return false;
+        });
+
+        $("#sgDownload").live('keydown', function (e) {
+            var event = e.KeyCode || e.which;
+            if (event == 13) {
+                var styleGuideId = $('#sgDownload').attr('data-styleguideid');
+                window.location = '/StyleGuide/DownloadStyleGuide?styleGuideId=' + styleGuideId + '&styleGuideDraftId=' + 0 + '&isEdit=0';
+                return false;
+            }
+        });
+
+        $('#sgEditStyleGuide').live('click', function () {
+            var styleGuideId = $('#sgEditStyleGuide').attr('data-styleguideid');
+            window.location = '/StyleGuide/Edit?id=' + styleGuideId + '';
+            return false;
+        });
+
+        $("#sgEditStyleGuide").live('keydown', function (e) {
+            var event = e.KeyCode || e.which;
+            if (event == 13) {
+                var styleGuideId = $('#sgEditStyleGuide').attr('data-styleguideid');
+                window.location = '/StyleGuide/Edit?id=' + styleGuideId + '';
+                return false;
+            }
+        });
+
+        $('.topicDownload').live('click', function () {
+            downloadTopic(this);
+        });
+
+        $('.topicEdit').live('click', function () {
+            var topicId = $(this).attr('data-topicid');
+            var topicElem = $('.topic-element[data-topicid="' + topicId + '"]');
+            var styleGuideId = $('.navigationTitleView').attr('data-styleguideid');
+
+            window.location = '/StyleGuide/Edit?Id=' + styleGuideId + '&topicId=' + topicId + '&styleGuideDraftId=' + 0 + '&isEdit=1';
+            return false;
+        });
+
+        $('#divCopyURL').live('click', function () {
+            copyTopicURL($(this), 'Styleguide', 'Read', '2700');
+        });
+
+        $('#divCopyURL').live('keydown', function (e) {
+            var event = e.KeyCode || e.which;
+            if (event == 13) {
+                copyTopicURL($(this), 'Styleguide', 'Read', '2700');
+            }
+        });
+
+        $('.topicDownload').live('keydown', function (e) {
+            var event = e.KeyCode || e.which;
+            if (event == 13) {
+                downloadTopic(this);
+            }
+        });
+
+        $('.topicEdit').live('keydown', function (e) {
+            var event = e.KeyCode || e.which;
+            if (event == 13) {
+                editTopic(this);
+            }
+        });
+        hideLoadingIcon();
+        $('.navigationTitleView').focus();
+    });
+
+    function SearchTopic() {
+        var searchTerm = $("#searchTopic").val().trim();
+        if (searchTerm != "") {
+            //if (searchTerm.length > 2)
+            //{
+            $("#searchTerm").val(searchTerm);
+            $("#searchresults").submit();
+            //}
+            //else
+            //{
+            //    alert('ERROR: Invalid search entry!\n\n'
+            //        +' Search entries must be between 3 and 255 characters and may only'
+            //        + ' contain alphanumeric characters, quotation marks, and minus signs.');
+            //    return false;
+            //}
+        }
+        else {
+            alert('Please enter a keyword to search');
+            return false;
+        }
+    }
+
+    function clickSearchButton(e) {
+        var evt = e ? e : window.event;
+        if (evt.keyCode == 13) {
+            SearchTopic();
+            return false;
+        }
+    }
+
+</script>
+
+<div class="viewStyleGuide" style="">
+    <div id="container2">
+        <div id="container1">
+            
+            <div class="topicContent">
+                
+                <div class="cl-b"></div>
+                <div id="topicInfo">
+    <div class="topicView" data-id="38040" data-topicid="28752">
+        <div class="fl topicTitleView" data-id="38040" data-topicid="28752" title="Commas">Commas</div>
+        <div class="topicButtons">
+            <div tabindex="0" id="divCopyURL" title="Copy URL" class="clickable-div" data-topicid="28752">
+                <img class="button-image" src="commas_files/Copy.png" alt="Copy URL">
+                <span class="button-text">Copy URL</span>
+            </div>
+            <div tabindex="0" class="topicDownload clickable-div" data-id="38040" data-topicid="28752">
+                <img class="button-image" src="commas_files/Download.png" alt="Download">
+                <div class="button-text">Download topic</div>
+            </div>
+        </div>
+        <div class="cl-b"></div>
+        <div class="editable" data-id="38040" data-topicid="28752"><h4><span style="font-family: Segoe UI Semibold; font-size: small;"></span></h4><h4><span style="font-family: Segoe UI Semibold; font-size: small;">Use a comma:</span></h4><ul style="margin-left: 30px;"><li><span style="font-size: small;">In
+ a list of three or more items, include a comma before the conjunction. 
+(The comma that comes before the conjunction is known as the Oxford or 
+serial comma.)</span></li></ul><p style="margin-left: 60px;"><span style="color: rgb(0, 102, 0); font-family: Segoe UI; font-size: small;">Examples</span><span style="color: rgb(0, 0, 0); font-size: small;"><span style="font-size: small;"><br></span></span><span style="font-size: small;"><span style="font-size: small;">Outlook includes Mail, Calendar, People, and Tasks.<br></span><span style="font-size: small;">Save your file to a&nbsp;hard drive, an external drive, or OneDrive.</span></span></p><p style="margin-left: 60px;"><span><span style="color: rgb(0, 0, 0); font-family: Segoe UI Semibold; font-size: small;">Writing tip</span></span><span> </span><span style="font-size: small;">If a series contains more than three items or the&nbsp;items are long, consider a bulleted list to improve readability.</span></p><ul style="margin-left: 30px;"><li><span style="font-size: small;">Following an introductory phrase. </span></li></ul><p style="margin-left: 60px;"><span style="color: rgb(0, 102, 0); font-family: Segoe UI; font-size: small;">Example</span><span style="font-size: small;"> With the Skype app, you&nbsp;can call any phone.</span></p><ul style="margin-left: 30px;"><li><span style="font-size: small;">To join independent clauses with a&nbsp;conjunction, such as </span><em><span style="font-size: small;">and, or, but, </span></em><span style="font-size: small;">or&nbsp;</span><em><span style="font-size: small;">so.</span></em></li></ul><p style="margin-left: 60px;"><span style="color: rgb(0, 102, 0); font-family: Segoe UI; font-size: small;">Example</span> <span style="line-height: 107%; font-family: Segoe UI; font-size: small;"><span style="font-family: Segoe UI; font-size: small;">Select </span></span><span style="line-height: 107%; font-family: Segoe UI Semibold; font-size: small;">Options</span><span style="line-height: 107%; font-family: Segoe UI; font-size: small;"><span style="font-family: Segoe UI; font-size: small;">,&nbsp;and then select </span></span><a target="_blank"><span style="line-height: 107%; font-family: &quot;Segoe UI Light&quot;,sans-serif; font-size: 10pt;"><span style="color: rgb(34, 34, 34); font-family: Segoe UI Semibold; font-size: small;">Enable</span></span></a> <span style="line-height: 107%; font-family: Segoe UI Semibold; font-size: small;">fast&nbsp;saves</span><span style="line-height: 107%; font-family: Segoe UI; font-size: small;">.</span></p><p style="margin-left: 60px;"><span><span style="color: rgb(0, 0, 0); font-family: Segoe UI Semibold; font-size: small;">Writing tip</span></span><span> </span><span style="font-size: small;">If the sentence is long or complex, consider&nbsp;rewriting as two sentences.</span></p><ul style="margin-left: 30px;"><li><span style="font-size: small;">To surround the year when you use a complete&nbsp;date&nbsp;within a sentence.</span></li></ul><p style="margin-left: 60px;"><span style="color: rgb(0, 102, 0); font-family: Segoe UI; font-size: small;">Example</span> <span style="font-size: small;">See the product reviews in&nbsp;the February 4, 2015,&nbsp;issue of the </span><em><span style="font-size: small;">New&nbsp;York Times.</span></em></p><p style="margin-left: 30px;"><em></em><span style="font-family: Segoe UI; font-size: small; mso-fareast-font-family: Calibri; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA; mso-fareast-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-bidi-font-size: 11.0pt;"><span style="font-family: Segoe UI; font-size: small;">For information about using commas in numbers,&nbsp;see </span><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=36307"></a><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=33688">Numbers</a><span style="font-family: Segoe UI; font-size: small;">.</span></span><em></em></p><h4><span style="font-family: Segoe UI Semibold; font-size: small;">Don’t use a comma:</span></h4><ul style="margin-left: 30px;"><li><span style="font-size: small;">To join independent clauses&nbsp;when you don't use a&nbsp;conjunction. (Use a semicolon instead.)</span></li></ul><p style="margin-left: 60px;"><span style="color: rgb(0, 102, 0); font-family: Segoe UI; font-size: small;">Example</span><span style="font-size: small;"> Select </span><span style="font-family: Segoe UI Semibold; font-size: small;">Options</span><span style="font-size: small;"><span style="font-size: small;">; then select </span></span><span style="font-family: Segoe UI Semibold; font-size: small;">Enable fast saves</span><span style="font-size: small;">.</span></p><ul style="margin-left: 30px;"><li><span style="font-size: small;">Between verbs in a compound predicate (when two verbs apply to&nbsp;a single subject).</span></li></ul><p style="margin-left: 60px;"><span style="color: rgb(0, 102, 0); font-family: Segoe UI; font-size: small;">Example</span><span style="font-size: small;"> The program&nbsp;evaluates your computer&nbsp;system and then copies the essential files to the target location.&nbsp;</span></p><p style="margin-left: 60px;"><span><span style="color: rgb(0, 0, 0); font-family: Segoe UI Semibold; font-size: small;">Writing tip</span></span><span> </span><span style="font-size: small;">Consider replacing a compound predicate with two&nbsp;sentences. Or add a subject for the second verb. </span></p><p style="margin-left: 60px;"><span style="color: rgb(0, 102, 0); font-family: Segoe UI; font-size: small;">Examples</span><span style="color: rgb(0, 0, 0); font-size: small;"> <span style="font-size: small;"><br></span></span><span style="font-size: small;"><span style="font-size: small;">The program evaluates your computer system. Then it copies the&nbsp;essential files to the target location. &nbsp;<br></span><span style="font-size: small;">The program evaluates your computer system, and then it&nbsp;copies the essential files to the target location. </span></span></p><ul style="margin-left: 30px;"><li><span style="font-size: small;">Between the month and the year</span><span style="font-family: &quot;Segoe UI&quot;,sans-serif;"> </span><span style="font-size: small;">when a specific date isn’t mentioned</span><span style="font-family: &quot;Segoe UI&quot;,sans-serif; font-size: small;">.</span></li></ul><p style="margin-left: 60px;"></p></div>
+        
+        <br>
+        
+        
+
+</div></div>
+                <div class="activity-indicator centered" style="display: none;">
+                    <img src="commas_files/activity-large.gif" alt="In progress">
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
+<script id="navListTempl" type="text/x-jquery-tmpl" data-jsv-tmpl="_0">
+    <div class="topic-element" data-id="{{: StyleGuideTopicID}}" data-topicid="{{: TopicID}}" data-parenttopicid="{{: ParentTopicID}}" data-styleguideid="{{: StyleGuideID}}">
+        <div class="topic-menu" data-topicid="{{: TopicID}}">
+            <div class="menu-img-div" data-topicid="{{: TopicID}}">
+                <img tabindex="0" class="menu-img" data-topicid="{{: TopicID}}" data-parenttopicid="{{: ParentTopicID}}" src="/Content/Images/menu-normal.png" alt="Menu" />
+                <div tabindex="0" class="fl clickable topicNameView levelView{{: TopicLevel}}" data-id="{{: StyleGuideTopicID}}" data-topicid="{{: TopicID}}" title="{{: TopicName}}">{{: TopicName}}</div>
+            </div>
+            <div class="cl-b" data-topicid="{{: TopicID}}"></div>
+            <hr class="topicNavSeparator" data-topicid="{{: TopicID}}" />
+        </div>
+        
+        {{if ChildTopics}}
+        <div class="subTopics" style="padding-left: 0.8em; display: none;" data-parenttopicid="{{: TopicID}}">
+            {{for ChildTopics tmpl="#navListTempl" /}}
+        </div>
+        {{/if}}
+    </div>
+</script>
+
+
+<script id="topicContentTempl" type="text/x-jquery-tmpl" data-jsv-tmpl="_1">
+    <div class="topicView" data-id="{{: StyleGuideTopicID}}" data-topicid="{{: TopicID}}">
+        <div class="fl topicTitleView" data-id="{{: StyleGuideTopicID}}" data-topicid="{{: TopicID}}" title="{{: TopicName}}">{{: TopicName}}</div>
+        <div class="topicButtons">
+            <div tabindex="0" id="divCopyURL" title="Copy URL" class="clickable-div" data-topicid="{{: TopicID}}">
+                <img class="button-image" src="/Content/Images/Copy.png" alt="Copy URL" />
+                <span class="button-text">Copy URL</span>
+            </div>
+            <div tabindex="0" class="topicDownload clickable-div" data-id="{{: StyleGuideTopicID}}" data-topicid="{{: TopicID}}">
+                <img class="button-image" src="/Content/Images/Download.png" alt="Download" />
+                <div class="button-text">Download topic</div>
+            </div>
+        </div>
+        <div class="cl-b"></div>
+        <div class="editable" data-id="{{: StyleGuideTopicID}}" data-topicid="{{: TopicID}}">{{: TopicContent}}</div>
+        
+        <br />
+        
+        
+
+<script>
+    function copyTopicURL(topicElement, type, page,id) {
+        $("#txtTopicURL").val("");
+        var topicId = topicElement.attr('data-topicid');
+        
+        var topicURL = get_hostname(window.location.href) + '/' + type + '/' + page + '?id=' + id + '&topicid=' + topicId.toString();
+
+        $('#copyTopicURLSection').dialog({
+            autoOpen: false,
+            width: 950,
+            height: 200,
+            resizable: false,
+            title: 'Copy topic URL',
+            modal: true,
+            closeOnEscape: true,
+            draggable: true,
+            open: function () {
+                $(".ui-dialog-titlebar").attr('alt', 'Close');
+                $(".ui-dialog-titlebar-close").addClass('ui-dialog-titlebar-close-custom').attr('title', 'Close');
+                $("#txtTopicURL").val($(this).data('topicURL'));
+            },
+            buttons: [
+                {
+                    id: "btnCancelTag",
+                    text: "CLOSE",
+                    title: "close",
+                    "class": "button-add-disp",
+                    click: function () {
+                        $('#copyTopicURLSection').dialog('close');
+                    }
+                }
+            ]
+        });
+
+        $('#copyTopicURLSection')
+        .data({
+            'topicURL': topicURL
+        })
+        .dialog('open');
+
+        return false;
+    }
+</script>
+
+<div id="copyTopicURLSection" style="display: none;">
+    <br>
+    <div>URL : </div>
+    <br>
+    <input id="txtTopicURL" class="TopicURL" rows="5" onfocus="javascript:this.select();" type="text">
+</div>
+
+
+        <br>
+    </div>
+    <div class="cl-b"></div>
+
+
+<form action="/Search/Index" method="post" name="searchresults" id="searchresults" novalidate="novalidate">
+    <input name="searchTerm" id="searchTerm" value="" type="hidden">
+    <input name="styleguideIds" id="styleguideIds" value="2700" type="hidden">
+    <input name="fromURL" id="fromURL" value="styleguideread" type="hidden">
+</form>
+
+
+    
+    
+
+    
+    <script src="commas_files/viewStyleGuide.js"></script>
+    <link rel="stylesheet" type="text/css" href="commas_files/template.css">
+    <style>
+        .editable {
+            font-size: 12pt;
+            font-family: Segoe UI;
+        }
+
+        .main {
+            height: 50.2em;
+        }
+        p {
+        margin: 0 0 1em;
+        padding-left: 0.6em;
+    }
+    </style>
+
+     
+
+
+
+</body></html>

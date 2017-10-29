@@ -44,8 +44,14 @@ send, {enter} ; save the page
 sleep, 350
 Send, +!{ESC}
 sleep, 350
-send, {right}{right}x
-send, {down}{left}
+send, {right}
+sleep, 350
+send, {right}
+sleep, 350
+send, x
+send, {down}
+sleep, 350
+send, {left}
 sleep, 350
 }
 return

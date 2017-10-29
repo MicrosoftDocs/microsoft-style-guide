@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html style="" class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients no-cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Microsoft Style Guides</title>
+    
+    <link href="https://worldready.cloudapp.net/Content/Images/styleguide_favicon.ico" rel="icon" type="image/x-icon">    
+    <link href="video_files/css.css" rel="stylesheet">
+
+    <link href="video_files/mastercss.css" rel="stylesheet">
+
+    <script src="video_files/master"></script>
+
+
+</head>
+<body>
+    <noscript><div class="noscriptTag">Your browser does not support JavaScript. Please enable the Javascript.</div></noscript>
+    <input id="hdnloggeduserid" value="16406" type="hidden">
+    <div class="loadingicon" style="display: none;">
+        <div class="page-loading">Loading...</div>
+    </div>
+    <div class="body">
+
+        
+
+
+
+
+    </div>
+        
+    <div class="main">
+
+        
+
+
+<script>
+    $(document).ready(function () {
+        $('.viewStyleGuide').show();
+
+        buildNavMenu('2700', 'Microsoft Writing Style Guide', '36407');
+
+        $('.menu-img').live('click', function () {
+            subTopicToggle(this);
+        });
+
+        $(".menu-img").live('keydown', function (e) {
+            var event = e.KeyCode || e.which;
+            if (event == 13) {
+                subTopicToggle(this);
+            }
+        });
+
+        $('.topicNameView').live('click', function () {
+            var topicId = $(this).attr('data-topicid');
+            $('.topic-menu').each(function () {
+                if ($(this).hasClass('selectedDiv')) {
+                    $(this).removeClass('selectedDiv');
+                }
+            });
+
+            $('.topic-menu[data-topicid="' + topicId + '"]').addClass('selectedDiv');
+            var styleGuideId = $('.topic-element[data-topicid="' + topicId + '"]').attr('data-styleguideid');
+            getTopicData(topicId, styleGuideId);
+        });
+
+        $(".topicNameView").live('keydown', function (e) {
+            var event = e.KeyCode || e.which;
+            if (event == 13) {
+                var topicId = $(this).attr('data-topicid');
+                $('.topic-menu').each(function () {
+                    if ($(this).hasClass('selectedDiv')) {
+                        $(this).removeClass('selectedDiv');
+                    }
+                });
+
+                $('.topic-menu[data-topicid="' + topicId + '"]').addClass('selectedDiv');
+                var styleGuideId = $('.topic-element[data-topicid="' + topicId + '"]').attr('data-styleguideid');
+                getTopicData(topicId, styleGuideId);
+            }
+        });
+
+        $('#sgDownload').live('click', function () {
+            var styleGuideId = $('#sgDownload').attr('data-styleguideid');
+            window.location = '/StyleGuide/DownloadStyleGuide?styleGuideId=' + styleGuideId + '&styleGuideDraftId=' + 0 + '&isEdit=0';
+            return false;
+        });
+
+        $("#sgDownload").live('keydown', function (e) {
+            var event = e.KeyCode || e.which;
+            if (event == 13) {
+                var styleGuideId = $('#sgDownload').attr('data-styleguideid');
+                window.location = '/StyleGuide/DownloadStyleGuide?styleGuideId=' + styleGuideId + '&styleGuideDraftId=' + 0 + '&isEdit=0';
+                return false;
+            }
+        });
+
+        $('#sgEditStyleGuide').live('click', function () {
+            var styleGuideId = $('#sgEditStyleGuide').attr('data-styleguideid');
+            window.location = '/StyleGuide/Edit?id=' + styleGuideId + '';
+            return false;
+        });
+
+        $("#sgEditStyleGuide").live('keydown', function (e) {
+            var event = e.KeyCode || e.which;
+            if (event == 13) {
+                var styleGuideId = $('#sgEditStyleGuide').attr('data-styleguideid');
+                window.location = '/StyleGuide/Edit?id=' + styleGuideId + '';
+                return false;
+            }
+        });
+
+        $('.topicDownload').live('click', function () {
+            downloadTopic(this);
+        });
+
+        $('.topicEdit').live('click', function () {
+            var topicId = $(this).attr('data-topicid');
+            var topicElem = $('.topic-element[data-topicid="' + topicId + '"]');
+            var styleGuideId = $('.navigationTitleView').attr('data-styleguideid');
+
+            window.location = '/StyleGuide/Edit?Id=' + styleGuideId + '&topicId=' + topicId + '&styleGuideDraftId=' + 0 + '&isEdit=1';
+            return false;
+        });
+
+        $('#divCopyURL').live('click', function () {
+            copyTopicURL($(this), 'Styleguide', 'Read', '2700');
+        });
+
+        $('#divCopyURL').live('keydown', function (e) {
+            var event = e.KeyCode || e.which;
+            if (event == 13) {
+                copyTopicURL($(this), 'Styleguide', 'Read', '2700');
+            }
+        });
+
+        $('.topicDownload').live('keydown', function (e) {
+            var event = e.KeyCode || e.which;
+            if (event == 13) {
+                downloadTopic(this);
+            }
+        });
+
+        $('.topicEdit').live('keydown', function (e) {
+            var event = e.KeyCode || e.which;
+            if (event == 13) {
+                editTopic(this);
+            }
+        });
+        hideLoadingIcon();
+        $('.navigationTitleView').focus();
+    });
+
+    function SearchTopic() {
+        var searchTerm = $("#searchTopic").val().trim();
+        if (searchTerm != "") {
+            //if (searchTerm.length > 2)
+            //{
+            $("#searchTerm").val(searchTerm);
+            $("#searchresults").submit();
+            //}
+            //else
+            //{
+            //    alert('ERROR: Invalid search entry!\n\n'
+            //        +' Search entries must be between 3 and 255 characters and may only'
+            //        + ' contain alphanumeric characters, quotation marks, and minus signs.');
+            //    return false;
+            //}
+        }
+        else {
+            alert('Please enter a keyword to search');
+            return false;
+        }
+    }
+
+    function clickSearchButton(e) {
+        var evt = e ? e : window.event;
+        if (evt.keyCode == 13) {
+            SearchTopic();
+            return false;
+        }
+    }
+
+</script>
+
+<div class="viewStyleGuide" style="">
+    <div id="container2">
+        <div id="container1">
+            
+            <div class="topicContent">
+                
+                <div class="cl-b"></div>
+                <div id="topicInfo">
+    <div class="topicView" data-id="44655" data-topicid="36407">
+        <div class="fl topicTitleView" data-id="44655" data-topicid="36407" title="Video">Video</div>
+        <div class="topicButtons">
+            <div tabindex="0" id="divCopyURL" title="Copy URL" class="clickable-div" data-topicid="36407">
+                <img class="button-image" src="video_files/Copy.png" alt="Copy URL">
+                <span class="button-text">Copy URL</span>
+            </div>
+            <div tabindex="0" class="topicDownload clickable-div" data-id="44655" data-topicid="36407">
+                <img class="button-image" src="video_files/Download.png" alt="Download">
+                <div class="button-text">Download topic</div>
+            </div>
+        </div>
+        <div class="cl-b"></div>
+        <div class="editable" data-id="44655" data-topicid="36407"><p><span style="font-size:small;">Done
+ well, video often communicates faster and more clearly than text and 
+static&nbsp;images. But video usually takes longer and costs more to 
+produce, requires more&nbsp;bandwidth to view, can be expensive to 
+localize, and may not meet your accessibility&nbsp;goals. Balance the 
+tradeoffs, and do what’s best for your customers and your business 
+goals.</span></p><p><span style="font-size:small;">Follow these guidelines:</span></p><ul><li><span style="font-size:small;">Keep
+ videos short—under 90 seconds when you can.&nbsp;For more complex 
+subjects, consider creating several short segments and 
+combining&nbsp;them in a playlist.</span></li><br><li><span style="font-size:small;">Write video titles that describe the content clearly.&nbsp;Include the video length. </span></li><br><li><span style="font-size:small;">Lead
+ with what’s most important. Make your key points&nbsp;clear and 
+memorable. Get to them quickly, without lengthy introductions, and 
+stick&nbsp;to them. Don't include extraneous detail or try to 
+communicate more than the viewer&nbsp;can take in.</span></li><br><li><span style="font-size:small;">Tell
+ a story with a beginning, a middle, and an end. Simple&nbsp;narratives 
+are best. Start by telling&nbsp;viewers what they'll learn. End with a 
+call to action to try it themselves.</span></li><br><li><span style="font-size:small;">Use the same voice principles that you use in other&nbsp;content. For more information, see&nbsp;</span><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=28361"><span style="font-size:small;">Brand voice</span></a><span style="font-size:small;">. </span></li><br><li><span style="font-size:small;">Maintain
+ a consistent pace and ratio of audio to&nbsp;video. Don't talk too fast
+ or too slowly. Practice timing your actions with your words. <br><br></span></li><li><span style="font-size:small;">Speak&nbsp;and enunciate clearly.&nbsp;</span><br><br></li><li><span style="font-size:small;">Don’t
+ be afraid to be silent while you&nbsp;complete the actions, and don’t 
+worry about explaining every action. Visual images&nbsp;can communicate 
+simple, common actions, such as selecting </span><span style="font-family:Segoe UI Semibold;font-size:small;">OK</span><span style="font-size:small;">.<br><br></span></li><li><span style="font-size:small;">Don’t
+ refer back to&nbsp;earlier parts of the video unless 
+it’s&nbsp;necessary. If you must refer to earlier parts of the video, 
+keep it general. </span></li></ul><p style="margin-left:30px;"><span style="color:#000000;font-size:small;"></span><span style="color:#006600;font-family:Segoe UI;font-size:small;">Example</span><span style="font-size:small;"><br></span><span style="font-size:small;">Earlier, you saw how to add&nbsp;<em>x</em> to&nbsp;<em>z.</em> Here's something else you can do with <em>x </em>....</span><em><span style="font-size:small;"><br></span></em></p><ul><li><span style="font-size:small;">Include
+ captions for accessibility. If possible,&nbsp;break closed-captioning 
+into short, one-sentence chunks, so they're easier to read.<br><br></span></li><li><span style="font-size:small;">Avoid
+ mentioning dates and product versions&nbsp;or showing images that will 
+date your content. This will keep your video relevant longer. <br><br></span></li><li><span style="font-size:small;">Close a video with a URL where the viewer can learn more. <br><br></span></li><li><span style="font-size:small;">Use brand elements and colors for opening and closing frames.&nbsp;The easiest way to do that is to use the <a href="https://microsoft.sharepoint.com/teams/BrandCentral/Pages/Bundles/Microsoft_logo_endcard_animation.aspx" target="_blank">Microsoft end-card </a></span><span style="font-size:small;"><a href="https://microsoft.sharepoint.com/teams/BrandCentral/Pages/Bundles/Microsoft_logo_endcard_animation.aspx" target="_blank">animation and guidelines</a>.&nbsp;</span><span style="font-size:small;">(This page requires Microsoft network access.) </span><span style="font-size:small;">Clearly&nbsp;identifying Microsoft as&nbsp;the source gives your video added credibility.</span></li></ul><p><span><span style="color:#000000;font-family:Segoe UI Semibold;font-size:small;">Learn more</span></span></p><ul type="disc"><li style="tab-stops:list 1.0in;"><a href="https://microsoft.sharepoint.com/teams/cssclp/_layouts/15/WopiFrame.aspx?sourcedoc={0C43A47E-BC20-44B3-A1E7-4FDC06EAF830}&amp;file=Video%20Production%20Guide.docx&amp;action=default&amp;DefaultItemOpen=1" target="_blank"><span style="font-family:Segoe UI;font-size:small;">CSS&nbsp;video production guide</span></a>&nbsp;<span style="font-size:small;">(This page requires Microsoft network access.)</span></li><li style="tab-stops:list 1.0in;"><a href="http://www.reelseo.com/how-video-sitemaps/" target="_blank"><span style="font-family:Segoe UI;font-size:small;">Google video site map guidance</span></a></li><li style="tab-stops:list 1.0in;"><a href="http://www.nngroup.com/articles/talking-head-video-is-boring-online/" target="_blank"><span style="font-family:Segoe UI;font-size:small;">Jakob Nielsen’s Talking-Head Video is Boring Online</span></a></li></ul></div>
+        
+        <br>
+        
+        
+
+</div></div>
+                <div class="activity-indicator centered" style="display: none;">
+                    <img src="video_files/activity-large.gif" alt="In progress">
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
+<script id="navListTempl" type="text/x-jquery-tmpl" data-jsv-tmpl="_0">
+    <div class="topic-element" data-id="{{: StyleGuideTopicID}}" data-topicid="{{: TopicID}}" data-parenttopicid="{{: ParentTopicID}}" data-styleguideid="{{: StyleGuideID}}">
+        <div class="topic-menu" data-topicid="{{: TopicID}}">
+            <div class="menu-img-div" data-topicid="{{: TopicID}}">
+                <img tabindex="0" class="menu-img" data-topicid="{{: TopicID}}" data-parenttopicid="{{: ParentTopicID}}" src="/Content/Images/menu-normal.png" alt="Menu" />
+                <div tabindex="0" class="fl clickable topicNameView levelView{{: TopicLevel}}" data-id="{{: StyleGuideTopicID}}" data-topicid="{{: TopicID}}" title="{{: TopicName}}">{{: TopicName}}</div>
+            </div>
+            <div class="cl-b" data-topicid="{{: TopicID}}"></div>
+            <hr class="topicNavSeparator" data-topicid="{{: TopicID}}" />
+        </div>
+        
+        {{if ChildTopics}}
+        <div class="subTopics" style="padding-left: 0.8em; display: none;" data-parenttopicid="{{: TopicID}}">
+            {{for ChildTopics tmpl="#navListTempl" /}}
+        </div>
+        {{/if}}
+    </div>
+</script>
+
+
+<script id="topicContentTempl" type="text/x-jquery-tmpl" data-jsv-tmpl="_1">
+    <div class="topicView" data-id="{{: StyleGuideTopicID}}" data-topicid="{{: TopicID}}">
+        <div class="fl topicTitleView" data-id="{{: StyleGuideTopicID}}" data-topicid="{{: TopicID}}" title="{{: TopicName}}">{{: TopicName}}</div>
+        <div class="topicButtons">
+            <div tabindex="0" id="divCopyURL" title="Copy URL" class="clickable-div" data-topicid="{{: TopicID}}">
+                <img class="button-image" src="/Content/Images/Copy.png" alt="Copy URL" />
+                <span class="button-text">Copy URL</span>
+            </div>
+            <div tabindex="0" class="topicDownload clickable-div" data-id="{{: StyleGuideTopicID}}" data-topicid="{{: TopicID}}">
+                <img class="button-image" src="/Content/Images/Download.png" alt="Download" />
+                <div class="button-text">Download topic</div>
+            </div>
+        </div>
+        <div class="cl-b"></div>
+        <div class="editable" data-id="{{: StyleGuideTopicID}}" data-topicid="{{: TopicID}}">{{: TopicContent}}</div>
+        
+        <br />
+        
+        
+
+<script>
+    function copyTopicURL(topicElement, type, page,id) {
+        $("#txtTopicURL").val("");
+        var topicId = topicElement.attr('data-topicid');
+        
+        var topicURL = get_hostname(window.location.href) + '/' + type + '/' + page + '?id=' + id + '&topicid=' + topicId.toString();
+
+        $('#copyTopicURLSection').dialog({
+            autoOpen: false,
+            width: 950,
+            height: 200,
+            resizable: false,
+            title: 'Copy topic URL',
+            modal: true,
+            closeOnEscape: true,
+            draggable: true,
+            open: function () {
+                $(".ui-dialog-titlebar").attr('alt', 'Close');
+                $(".ui-dialog-titlebar-close").addClass('ui-dialog-titlebar-close-custom').attr('title', 'Close');
+                $("#txtTopicURL").val($(this).data('topicURL'));
+            },
+            buttons: [
+                {
+                    id: "btnCancelTag",
+                    text: "CLOSE",
+                    title: "close",
+                    "class": "button-add-disp",
+                    click: function () {
+                        $('#copyTopicURLSection').dialog('close');
+                    }
+                }
+            ]
+        });
+
+        $('#copyTopicURLSection')
+        .data({
+            'topicURL': topicURL
+        })
+        .dialog('open');
+
+        return false;
+    }
+</script>
+
+<div id="copyTopicURLSection" style="display: none;">
+    <br>
+    <div>URL : </div>
+    <br>
+    <input id="txtTopicURL" class="TopicURL" rows="5" onfocus="javascript:this.select();" type="text">
+</div>
+
+
+        <br>
+    </div>
+    <div class="cl-b"></div>
+
+
+<form action="/Search/Index" method="post" name="searchresults" id="searchresults" novalidate="novalidate">
+    <input name="searchTerm" id="searchTerm" value="" type="hidden">
+    <input name="styleguideIds" id="styleguideIds" value="2700" type="hidden">
+    <input name="fromURL" id="fromURL" value="styleguideread" type="hidden">
+</form>
+
+
+    
+    
+
+    
+    <script src="video_files/viewStyleGuide.js"></script>
+    <link rel="stylesheet" type="text/css" href="video_files/template.css">
+    <style>
+        .editable {
+            font-size: 12pt;
+            font-family: Segoe UI;
+        }
+
+        .main {
+            height: 50.2em;
+        }
+        p {
+        margin: 0 0 1em;
+        padding-left: 0.6em;
+    }
+    </style>
+
+     
+
+
+
+</body></html>
