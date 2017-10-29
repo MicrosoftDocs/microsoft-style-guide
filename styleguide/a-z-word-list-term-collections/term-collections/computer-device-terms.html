@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html style="" class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients no-cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Microsoft Style Guides</title>
+    
+    <link href="https://worldready.cloudapp.net/Content/Images/styleguide_favicon.ico" rel="icon" type="image/x-icon">    
+    <link href="computer-device-terms_files/css.css" rel="stylesheet">
+
+    <link href="computer-device-terms_files/mastercss.css" rel="stylesheet">
+
+    <script src="computer-device-terms_files/master"></script>
+
+
+</head>
+<body>
+    <noscript><div class="noscriptTag">Your browser does not support JavaScript. Please enable the Javascript.</div></noscript>
+    <input id="hdnloggeduserid" value="16406" type="hidden">
+    <div class="loadingicon" style="display: none;">
+        <div class="page-loading">Loading...</div>
+    </div>
+    <div class="body">
+
+        
+
+
+
+
+    </div>
+        
+    <div class="main">
+
+        
+
+
+<script>
+    $(document).ready(function () {
+        $('.viewStyleGuide').show();
+
+        buildNavMenu('2700', 'Microsoft Writing Style Guide', '26597');
+
+        $('.menu-img').live('click', function () {
+            subTopicToggle(this);
+        });
+
+        $(".menu-img").live('keydown', function (e) {
+            var event = e.KeyCode || e.which;
+            if (event == 13) {
+                subTopicToggle(this);
+            }
+        });
+
+        $('.topicNameView').live('click', function () {
+            var topicId = $(this).attr('data-topicid');
+            $('.topic-menu').each(function () {
+                if ($(this).hasClass('selectedDiv')) {
+                    $(this).removeClass('selectedDiv');
+                }
+            });
+
+            $('.topic-menu[data-topicid="' + topicId + '"]').addClass('selectedDiv');
+            var styleGuideId = $('.topic-element[data-topicid="' + topicId + '"]').attr('data-styleguideid');
+            getTopicData(topicId, styleGuideId);
+        });
+
+        $(".topicNameView").live('keydown', function (e) {
+            var event = e.KeyCode || e.which;
+            if (event == 13) {
+                var topicId = $(this).attr('data-topicid');
+                $('.topic-menu').each(function () {
+                    if ($(this).hasClass('selectedDiv')) {
+                        $(this).removeClass('selectedDiv');
+                    }
+                });
+
+                $('.topic-menu[data-topicid="' + topicId + '"]').addClass('selectedDiv');
+                var styleGuideId = $('.topic-element[data-topicid="' + topicId + '"]').attr('data-styleguideid');
+                getTopicData(topicId, styleGuideId);
+            }
+        });
+
+        $('#sgDownload').live('click', function () {
+            var styleGuideId = $('#sgDownload').attr('data-styleguideid');
+            window.location = '/StyleGuide/DownloadStyleGuide?styleGuideId=' + styleGuideId + '&styleGuideDraftId=' + 0 + '&isEdit=0';
+            return false;
+        });
+
+        $("#sgDownload").live('keydown', function (e) {
+            var event = e.KeyCode || e.which;
+            if (event == 13) {
+                var styleGuideId = $('#sgDownload').attr('data-styleguideid');
+                window.location = '/StyleGuide/DownloadStyleGuide?styleGuideId=' + styleGuideId + '&styleGuideDraftId=' + 0 + '&isEdit=0';
+                return false;
+            }
+        });
+
+        $('#sgEditStyleGuide').live('click', function () {
+            var styleGuideId = $('#sgEditStyleGuide').attr('data-styleguideid');
+            window.location = '/StyleGuide/Edit?id=' + styleGuideId + '';
+            return false;
+        });
+
+        $("#sgEditStyleGuide").live('keydown', function (e) {
+            var event = e.KeyCode || e.which;
+            if (event == 13) {
+                var styleGuideId = $('#sgEditStyleGuide').attr('data-styleguideid');
+                window.location = '/StyleGuide/Edit?id=' + styleGuideId + '';
+                return false;
+            }
+        });
+
+        $('.topicDownload').live('click', function () {
+            downloadTopic(this);
+        });
+
+        $('.topicEdit').live('click', function () {
+            var topicId = $(this).attr('data-topicid');
+            var topicElem = $('.topic-element[data-topicid="' + topicId + '"]');
+            var styleGuideId = $('.navigationTitleView').attr('data-styleguideid');
+
+            window.location = '/StyleGuide/Edit?Id=' + styleGuideId + '&topicId=' + topicId + '&styleGuideDraftId=' + 0 + '&isEdit=1';
+            return false;
+        });
+
+        $('#divCopyURL').live('click', function () {
+            copyTopicURL($(this), 'Styleguide', 'Read', '2700');
+        });
+
+        $('#divCopyURL').live('keydown', function (e) {
+            var event = e.KeyCode || e.which;
+            if (event == 13) {
+                copyTopicURL($(this), 'Styleguide', 'Read', '2700');
+            }
+        });
+
+        $('.topicDownload').live('keydown', function (e) {
+            var event = e.KeyCode || e.which;
+            if (event == 13) {
+                downloadTopic(this);
+            }
+        });
+
+        $('.topicEdit').live('keydown', function (e) {
+            var event = e.KeyCode || e.which;
+            if (event == 13) {
+                editTopic(this);
+            }
+        });
+        hideLoadingIcon();
+        $('.navigationTitleView').focus();
+    });
+
+    function SearchTopic() {
+        var searchTerm = $("#searchTopic").val().trim();
+        if (searchTerm != "") {
+            //if (searchTerm.length > 2)
+            //{
+            $("#searchTerm").val(searchTerm);
+            $("#searchresults").submit();
+            //}
+            //else
+            //{
+            //    alert('ERROR: Invalid search entry!\n\n'
+            //        +' Search entries must be between 3 and 255 characters and may only'
+            //        + ' contain alphanumeric characters, quotation marks, and minus signs.');
+            //    return false;
+            //}
+        }
+        else {
+            alert('Please enter a keyword to search');
+            return false;
+        }
+    }
+
+    function clickSearchButton(e) {
+        var evt = e ? e : window.event;
+        if (evt.keyCode == 13) {
+            SearchTopic();
+            return false;
+        }
+    }
+
+</script>
+
+<div class="viewStyleGuide" style="">
+    <div id="container2">
+        <div id="container1">
+            
+            <div class="topicContent">
+                
+                <div class="cl-b"></div>
+                <div id="topicInfo">
+    <div class="topicView" data-id="34927" data-topicid="26597">
+        <div class="fl topicTitleView" data-id="34927" data-topicid="26597" title="Computer and device terms">Computer and device terms</div>
+        <div class="topicButtons">
+            <div tabindex="0" id="divCopyURL" title="Copy URL" class="clickable-div" data-topicid="26597">
+                <img class="button-image" src="computer-device-terms_files/Copy.png" alt="Copy URL">
+                <span class="button-text">Copy URL</span>
+            </div>
+            <div tabindex="0" class="topicDownload clickable-div" data-id="34927" data-topicid="26597">
+                <img class="button-image" src="computer-device-terms_files/Download.png" alt="Download">
+                <div class="button-text">Download topic</div>
+            </div>
+        </div>
+        <div class="cl-b"></div>
+        <div class="editable" data-id="34927" data-topicid="26597"><p style="line-height:normal;margin-bottom:6pt;"><span style="font-family:Segoe UI;font-size:small;">In
+ the modern&nbsp;world, customers get things done with whatever device 
+is handy. When you write,&nbsp;focus on what the customer wants to 
+accomplish. If you must write about&nbsp;the device itself, use the most
+ general term that works—</span><span style="font-family:Segoe UI;font-size:small;"><span style="font-family:Segoe UI;font-size:small;">usually, that’s </span><em>device</em><span style="font-family:Segoe UI;font-size:small;">.&nbsp;Sometimes, it’s </span><em>computer,</em> <em>phone, </em><span style="font-family:Segoe UI;font-size:small;">or </span><em>wearable device</em><span style="font-family:Segoe UI;font-size:small;">.&nbsp;Occasionally, it’s </span><em>laptop</em><span style="font-family:Segoe UI;font-size:small;">, </span><em>smartphone</em><span style="font-family:Segoe UI;font-size:small;">, or </span><em>fitness</em> <em>band.</em></span></p><p style="line-height:normal;margin-bottom:6pt;"><span style="font-family:Segoe UI;font-size:small;">When
+ you need&nbsp;to discuss specific hardware made by Microsoft, refer to 
+that product group's editorial style guide for correct spelling and 
+capitalization. If the product is available for retail&nbsp;purchase, 
+alone or as part of another product, refer to the </span><a href="http://www.microsoftstore.com/" target="_blank"><span style="font-family:Segoe UI;font-size:small;">Microsoft Store</span></a><span style="font-family:Segoe UI;"><span style="font-size:small;"><span style="font-family:Segoe UI;font-size:small;">&nbsp;for product and&nbsp;component names. </span></span></span></p><p style="line-height:normal;margin-bottom:6pt;"><span style="color:black;font-family:Segoe UI;font-size:small;mso-fareast-font-family:Calibri;mso-bidi-font-family:'Times New Roman';mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;mso-fareast-theme-font:minor-latin;">Microsoft
+ technology is used in a range of&nbsp;hardware products developed by 
+our partners, from computers and phones to&nbsp;point-of-sale devices 
+and kiosks to cars. For information about referring to&nbsp;these 
+products, contact the team that provides the technology to the 
+hardware&nbsp;partner.</span><span style="color:black;font-family:'Calibri',sans-serif;font-size:11pt;mso-fareast-font-family:Calibri;mso-bidi-font-family:'Times New Roman';mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;mso-fareast-theme-font:minor-latin;"> </span></p><h4 style="line-height:normal;margin-bottom:6pt;"><span style="color:black;font-family:Segoe UI Semibold;font-size:small;mso-fareast-font-family:Calibri;mso-bidi-font-family:'Times New Roman';mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;mso-fareast-theme-font:minor-latin;">Device interaction terms</span></h4><p style="line-height:normal;margin-bottom:6pt;"><span style="font-family:Segoe UI;"><span style="font-size:small;"><span style="font-family:Segoe UI;font-size:small;">Use these verbs to talk about using devices and peripheral devices:</span></span></span></p><ul><li><span style="font-family:Segoe UI;"><span style="font-size:small;"><span style="font-family:Segoe UI;font-size:small;"><span style="font-family:Segoe UI;font-size:small;">Use </span><em>turn on </em><span style="font-family:Segoe UI;font-size:small;">and </span><em>turn off, </em><span style="font-family:Segoe UI;font-size:small;">not&nbsp;</span><em>power on, </em><em>power off, switch on, </em><span style="font-family:Segoe UI;font-size:small;">or </span><em>switch off</em><em>.</em></span></span></span></li><br><li><span style="font-family:Segoe UI;"><span style="font-size:small;"><span style="font-family:Segoe UI;font-size:small;"><span style="font-family:Segoe UI;font-size:small;">Use </span><em>set up </em><span style="font-family:Segoe UI;font-size:small;">to describe preparing hardware or software for first use.</span></span></span></span></li><br><li><span style="font-family:Segoe UI;"><span style="font-size:small;"><span style="font-family:Segoe UI;font-size:small;"><span style="font-family:Segoe UI;font-size:small;">Use </span><em>install </em><span style="font-family:Segoe UI;font-size:small;">and </span><em>uninstall </em><span style="font-family:Segoe UI;font-size:small;">to refer to adding and removing hardware drivers and apps.&nbsp;</span></span></span></span><br>&nbsp;</li><li><span style="font-family:Segoe UI;"><span style="font-size:small;"><span style="font-family:Segoe UI;font-size:small;"><span style="font-family:Segoe UI;font-size:small;">Use </span><em>connect </em><span style="font-family:Segoe UI;font-size:small;">and </span><em>disconnect </em><span style="font-family:Segoe UI;font-size:small;">to
+ refer to establishing a relationship between devices (direct or 
+wireless) and connecting a device to a network or the internet.</span></span></span></span></li></ul><h4><span style="font-family:Segoe UI Semibold;font-size:small;">Preferred device terms</span></h4><div style="margin-left:0.3in;"><table class="kendo-table k-table" style="border:1px solid rgb(225, 225, 233);border-image:none;width:100%;border-collapse:collapse;"><colgroup><col><col></colgroup><tbody><tr style="padding:0.5em;border:1px solid rgb(0, 0, 0);border-image:none;border-collapse:collapse;min-height:1em;background-color:#66ccff;"><td style="padding:0.5em;border:1px solid rgb(0, 0, 0);border-image:none;border-collapse:collapse;min-height:1em;"><span style="font-family:Segoe UI Semibold;font-size:small;">Term</span></td><td style="padding:0.5em;border:1px solid rgb(0, 0, 0);border-image:none;border-collapse:collapse;min-height:1em;background-color:#66ccff;"><span style="font-family:Segoe UI Semibold;font-size:small;">Usage</span></td></tr><tr><td style="padding:0.5em;border:1px solid rgb(0, 0, 0);border-image:none;border-collapse:collapse;min-height:1em;"><div><span style="font-family:Segoe UI Semibold;font-size:small;">device, mobile device</span></div></td><td style="padding:0.5em;border:1px solid rgb(0, 0, 0);border-image:none;border-collapse:collapse;min-height:1em;"><div><span style="font-family:Segoe UI;font-size:small;">Use </span><em><span style="font-family:Segoe UI;font-size:small;">device</span></em><span style="font-family:Segoe UI;font-size:small;"> to refer collectively to all types of computers, phones, and other devices. </span><br><span style="font-family:Segoe UI;font-size:small;"><br>Use </span><em><span style="font-family:Segoe UI;font-size:small;">mobile device</span></em><span style="font-family:Segoe UI;font-size:small;"> only when you need to call out the&nbsp;mobility.</span><br><span style="font-family:Segoe UI;font-size:small;"><span style="font-family:Segoe UI;font-size:small;"><br>It’s OK to modify </span><em>device </em><span style="font-family:Segoe UI;font-size:small;">when it matters. For example, </span></span><em><span style="font-family:Segoe UI;font-size:small;">point-of-sale device.</span></em>
+</div></td></tr><tr><td style="padding:0.5em;border:1px solid rgb(0, 0, 0);border-image:none;border-collapse:collapse;min-height:1em;"><div><span style="font-family:Segoe UI Semibold;font-size:small;">computer, PC</span></div></td><td style="padding:0.5em;border:1px solid rgb(0, 0, 0);border-image:none;border-collapse:collapse;min-height:1em;"><div><span style="font-family:Segoe UI;font-size:small;">Use </span><em><span style="font-family:Segoe UI;font-size:small;">computer</span></em><span style="font-family:Segoe UI;font-size:small;">
+ in the uncommon event that you need to talk&nbsp;about computing 
+devices other than phones, wearable devices, and gaming&nbsp;consoles.</span><br><span style="font-family:Segoe UI;font-size:small;"><br>It’s also OK to use </span><em><span style="font-family:Segoe UI;font-size:small;">PC </span></em><span style="font-family:Segoe UI;font-size:small;">when space is a constraint, but&nbsp;don’t switch between </span><em><span style="font-family:Segoe UI;font-size:small;">PC</span></em><span style="font-family:Segoe UI;font-size:small;"> and </span><em><span style="font-family:Segoe UI;font-size:small;">computer</span></em><span style="font-family:Segoe UI;font-size:small;">.</span><br><span style="font-family:Segoe UI;font-size:small;"><span style="font-family:Segoe UI;font-size:small;"><br>Don't use </span><em>desktop </em><span style="font-family:Segoe UI;font-size:small;">as a synonym for </span><em>PC </em><span style="font-family:Segoe UI;font-size:small;">or </span><em>computer.</em></span><br><span style="font-family:Segoe UI;font-size:small;"><br>Don’t use </span><em><span style="font-family:Segoe UI;font-size:small;">mobile computer, portable computer,</span></em><span style="font-family:Segoe UI;font-size:small;">&nbsp;or </span><em><span style="font-family:Segoe UI;font-size:small;">mobile PC</span></em><span style="font-family:Segoe UI;font-size:small;">.</span>
+</div></td></tr><tr><td style="padding:0.5em;border:1px solid rgb(0, 0, 0);border-image:none;border-collapse:collapse;min-height:1em;"><div><span style="font-family:Segoe UI Semibold;font-size:small;">phone, mobile phone, smartphone</span></div></td><td style="padding:0.5em;border:1px solid rgb(0, 0, 0);border-image:none;border-collapse:collapse;min-height:1em;"><div><span style="font-family:Segoe UI;font-size:small;">Use </span><em><span style="font-family:Segoe UI;font-size:small;">phone</span></em><span style="font-family:Segoe UI;font-size:small;"> most of the time. </span><br><span style="font-family:Segoe UI;font-size:small;"><br>If you need to call out the mobility, use </span><em><span style="font-family:Segoe UI;font-size:small;">mobile phone.</span></em><br><em></em><span style="font-family:Segoe UI;font-size:small;"><br>Use </span><em><span style="font-family:Segoe UI;font-size:small;">smartphone</span></em><span style="font-family:Segoe UI;font-size:small;"> only if you need to distinguish a&nbsp;smartphone from other types of phones. </span><br><span style="font-family:Segoe UI;font-size:small;"><span style="font-family:Segoe UI;font-size:small;"><br>Don't use </span><em>wireless phone, </em><em>cell phone, </em><span style="font-family:Segoe UI;font-size:small;">or </span><em>cellular phone.</em></span>
+</div></td></tr><tr><td style="padding:0.5em;border:1px solid rgb(0, 0, 0);border-image:none;border-collapse:collapse;min-height:1em;"><div><div><span style="font-family:Segoe UI Semibold;font-size:small;">tablet, laptop</span></div></div></td><td style="padding:0.5em;border:1px solid rgb(0, 0, 0);border-image:none;border-collapse:collapse;min-height:1em;"><div><div><span style="font-family:Segoe UI;font-size:small;">Use a more generic term unless you’re talking about a specific&nbsp;class of computers. </span><span style="font-family:Segoe UI;font-size:small;">Use </span><em><span style="font-family:Segoe UI;font-size:small;">tablet</span></em><span style="font-family:Segoe UI;font-size:small;"> only to refer to a touchscreen computer&nbsp;without a permanently attached keyboard. </span><span style="font-family:Segoe UI;font-size:small;">Use </span><em><span style="font-family:Segoe UI;font-size:small;">laptop </span></em><span style="font-family:Segoe UI;font-size:small;">to refer to a portable computer with a permanently&nbsp;attached keyboard, with or without a touchscreen.</span>
+</div></div></td></tr><tr><td style="padding:0.5em;border:1px solid rgb(0, 0, 0);border-image:none;border-collapse:collapse;min-height:1em;"><div><div><span style="font-family:Segoe UI Semibold;font-size:small;">wearable device, fitness band</span></div></div></td><td style="padding:0.5em;border:1px solid rgb(0, 0, 0);border-image:none;border-collapse:collapse;min-height:1em;"><div><div><span style="font-family:Segoe UI;font-size:small;"><span style="font-size:small;"><span style="font-family:Segoe UI;font-size:small;">Use
+ only when it’s necessary to differentiate devices that are&nbsp;meant 
+to be worn from other devices. To avoid confusion with the 
+Microsoft&nbsp;Band product, avoid using </span></span></span><em><span style="font-family:Segoe UI;font-size:small;">band</span></em><span style="font-family:Segoe UI;font-size:small;"> by&nbsp;itself as a noun.</span><br><span style="font-family:Segoe UI;font-size:small;"><br>Avoid using </span><em><span style="font-family:Segoe UI;font-size:small;">wearable </span></em><span style="font-family:Segoe UI;font-size:small;">as&nbsp;a noun</span><em><span style="font-family:Segoe UI;font-size:small;">.</span></em>
+</div></div></td></tr></tbody></table></div><p></p><h4><span style="font-family:Segoe UI Semibold;font-size:small;">Acceptable terms for specific references</span></h4><p><span style="font-family:Segoe UI;font-size:small;"><span style="font-family:Segoe UI;font-size:small;">Use the following terms only when you need to be more&nbsp;specific than you can be by using the preferred terms.</span></span></p><div style="margin-left:0.3in;"><table class="kendo-table k-table" style="border:1px solid rgb(225, 225, 233);border-image:none;width:100%;border-collapse:collapse;"><colgroup><col><col></colgroup><tbody><tr style="padding:0.5em;border:1px solid rgb(0, 0, 0);border-image:none;border-collapse:collapse;min-height:1em;background-color:#66ccff;"><td style="padding:0.5em;border:1px solid rgb(0, 0, 0);border-image:none;border-collapse:collapse;min-height:1em;"><span style="font-family:Segoe UI Semibold;font-size:small;">Term</span></td><td style="padding:0.5em;border:1px solid rgb(0, 0, 0);border-image:none;border-collapse:collapse;min-height:1em;background-color:#66ccff;"><span style="font-family:Segoe UI Semibold;font-size:small;">Usage</span></td></tr><tr><td style="padding:0.5em;border:1px solid rgb(0, 0, 0);border-image:none;border-collapse:collapse;min-height:1em;"><div><div><span style="font-family:Segoe UI Semibold;font-size:small;">handheld&nbsp;device</span></div></div></td><td style="padding:0.5em;border:1px solid rgb(0, 0, 0);border-image:none;border-collapse:collapse;min-height:1em;"><div><div><span style="font-family:Segoe UI;font-size:small;">Use
+ only to&nbsp;refer&nbsp;to a small, limited-use device that accesses, 
+captures, and&nbsp;updates information in real&nbsp;time, such as the 
+devices often used in&nbsp;line-of-business (LOB) applications. </span><span style="font-family:Segoe UI;font-size:small;">If&nbsp;possible, just use </span><em><span style="font-family:Segoe UI;font-size:small;">device. </span></em><br></div><div><span style="font-family:Segoe UI;font-size:small;"><br>Don’t use </span><em><span style="font-family:Segoe UI;font-size:small;">handheld</span></em><span style="font-family:Segoe UI;font-size:small;"> as a noun. </span><br></div><div><span style="font-family:Segoe UI;font-size:small;"><br>Don’t use </span><em><span style="font-family:Segoe UI;font-size:small;">handheld PC </span></em><span style="font-family:Segoe UI;font-size:small;">or </span><em><span style="font-family:Segoe UI;font-size:small;">handheld computer.</span></em></div></div></td></tr><tr><td style="padding:0.5em;border:1px solid rgb(0, 0, 0);border-image:none;border-collapse:collapse;min-height:1em;"><div><span style="font-family:Segoe UI Semibold;font-size:small;">slate</span></div></td><td style="padding:0.5em;border:1px solid rgb(0, 0, 0);border-image:none;border-collapse:collapse;min-height:1em;"><div><span style="font-family:Segoe UI;font-size:small;">Don’t use. </span></div></td></tr><tr><td style="padding:0.5em;border:1px solid rgb(0, 0, 0);border-image:none;border-collapse:collapse;min-height:1em;"><div><span style="font-family:Segoe UI Semibold;font-size:small;">notebook</span></div></td><td style="padding:0.5em;border:1px solid rgb(0, 0, 0);border-image:none;border-collapse:collapse;min-height:1em;"><div><span style="font-family:Segoe UI;font-size:small;">Don’t use. </span></div></td></tr><tr><td style="padding:0.5em;border:1px solid rgb(0, 0, 0);border-image:none;border-collapse:collapse;min-height:1em;"><div><span style="font-family:Segoe UI Semibold;font-size:small;">machine</span></div></td><td style="padding:0.5em;border:1px solid rgb(0, 0, 0);border-image:none;border-collapse:collapse;min-height:1em;"><div><span style="font-family:Segoe UI;font-size:small;">Use only to describe both physical computers and virtual machines in content about&nbsp;virtualization. </span></div></td></tr><tr><td style="padding:0.5em;border:1px solid rgb(0, 0, 0);border-image:none;border-collapse:collapse;min-height:1em;"><div><div><span style="font-family:Segoe UI Semibold;font-size:small;">client&nbsp;or server, box</span></div></div></td><td style="padding:0.5em;border:1px solid rgb(0, 0, 0);border-image:none;border-collapse:collapse;min-height:1em;"><div><div><span style="font-family:Segoe UI;font-size:small;">Use <em>client</em> or <em>server</em> only if&nbsp;it's clear to the reader whether the client or server discussed is hardware&nbsp;or software.</span><br></div><div><span style="font-family:Segoe UI;font-size:small;"><br>Use </span><em><span style="font-family:Segoe UI;font-size:small;">client or server computer</span></em><span style="font-family:Segoe UI;font-size:small;"> if you need&nbsp;to clarify that you're discussing hardware.</span><br></div><div><span style="font-family:Segoe UI;font-size:small;"><br>Don’t use </span><em><span style="font-family:Segoe UI;font-size:small;">box</span></em><span style="font-family:Segoe UI;font-size:small;"> in reference to&nbsp;client and server&nbsp;hardware.</span></div></div></td></tr></tbody></table></div><p></p><h4><span style="font-family:Segoe UI Semibold;font-size:small;"><strong>Peripheral devices and hardware components</strong></span></h4><p><span style="font-family:Segoe UI;font-size:small;"><span style="font-family:Segoe UI;font-size:small;">In general, use the most generic term that describes a&nbsp;peripheral device or hardware component.&nbsp;</span></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p><div style="margin-left:0.3in;"><table class="kendo-table k-table" style="border:1px solid rgb(225, 225, 233);border-image:none;width:100%;border-collapse:collapse;"><colgroup><col><col></colgroup><tbody><tr style="padding:0.5em;border:1px solid rgb(0, 0, 0);border-image:none;border-collapse:collapse;min-height:1em;background-color:#66ccff;"><td style="padding:0.5em;border:1px solid rgb(0, 0, 0);border-image:none;border-collapse:collapse;min-height:1em;"><div><span style="font-family:Segoe UI Semibold;font-size:small;">Term</span></div></td><td style="padding:0.5em;border:1px solid rgb(0, 0, 0);border-image:none;border-collapse:collapse;min-height:1em;background-color:#66ccff;"><span style="font-family:Segoe UI Semibold;font-size:small;">Usage</span></td></tr><tr><td style="padding:0.5em;border:1px solid rgb(0, 0, 0);border-image:none;border-collapse:collapse;min-height:1em;"><span style="font-family:Segoe UI Semibold;font-size:small;">adapter</span></td><td style="padding:0.5em;border:1px solid rgb(0, 0, 0);border-image:none;border-collapse:collapse;min-height:1em;"><div><span style="font-family:Segoe UI;font-size:small;">Use instead&nbsp;of <em>adaptor.</em></span></div></td></tr><tr><td style="padding:0.5em;border:1px solid rgb(0, 0, 0);border-image:none;border-collapse:collapse;min-height:1em;"><span style="font-family:Segoe UI Semibold;font-size:small;">disc</span></td><td style="padding:0.5em;border:1px solid rgb(0, 0, 0);border-image:none;border-collapse:collapse;min-height:1em;"><span style="font-family:Segoe UI;font-size:small;"><span style="font-family:Segoe UI;font-size:small;">Use </span><em>disc, </em>not <em>disk,&nbsp;</em><span style="font-family:Segoe UI;font-size:small;">to refer to a CD or DVD. </span></span><span style="font-family:Segoe UI;font-size:small;"><span style="font-family:Segoe UI;font-size:small;"><br><br>Don't use <em>disk, </em></span><em>fixed disk, hard disk, </em><span style="font-family:Segoe UI;font-size:small;">or </span><em>disk drive. </em>Instead, use <em>hard drive</em> to refer to the drive on a PC where programs are typically stored.</span></td></tr><tr><td style="padding:0.5em;border:1px solid rgb(0, 0, 0);border-image:none;border-collapse:collapse;min-height:1em;"><div><span style="font-family:Segoe UI Semibold;font-size:small;">display, screen, monitor</span></div></td><td style="padding:0.5em;border:1px solid rgb(0, 0, 0);border-image:none;border-collapse:collapse;min-height:1em;"><div><span style="font-family:Segoe UI;font-size:small;">Use </span><em><span style="font-family:Segoe UI;font-size:small;">display</span></em><span style="font-family:Segoe UI;font-size:small;">
+ as a general term for any visual output device, including the built-in 
+display on a computing device&nbsp;and an external monitor or projector.</span><br></div><div><span style="font-family:Segoe UI;font-size:small;"><br>Use </span><em><span style="font-family:Segoe UI;font-size:small;">screen</span></em><span style="font-family:Segoe UI;font-size:small;"> to distinguish the usable&nbsp;portion of the display from its edges.</span><br></div><div><span style="font-family:Segoe UI;font-size:small;"><br>Use </span><em><span style="font-family:Segoe UI;font-size:small;">monitor</span></em><span style="font-family:Segoe UI;font-size:small;">
+ only when you need to refer specifically to a standalone desktop or 
+mounted display device that can be connected to a&nbsp;computing device.
+ </span></div></td></tr><tr><td style="padding:0.5em;border:1px solid rgb(0, 0, 0);border-image:none;border-collapse:collapse;min-height:1em;"><div><span style="font-family:Segoe UI Semibold;font-size:small;">drive</span></div></td><td style="padding:0.5em;border:1px solid rgb(0, 0, 0);border-image:none;border-collapse:collapse;min-height:1em;"><div><span style="font-family:Segoe UI;font-size:small;">Avoid talking about drives when you can. It’s enough to prompt customers&nbsp;to save a file, picture, song, and so on. </span><br></div><div><span style="font-family:Segoe UI;font-size:small;"><br>Use </span><em><span style="font-family:Segoe UI;font-size:small;">drive</span></em><span style="font-family:Segoe UI;font-size:small;"> as the general term for&nbsp;any type of device or service where a customer can save or retrieve files,&nbsp;including </span><em><span style="font-family:Segoe UI;font-size:small;">hard drive</span></em><span style="font-family:Segoe UI;font-size:small;">, </span><em><span style="font-family:Segoe UI;font-size:small;">CD drive, DVD drive, USB flash drive,</span></em><span style="font-family:Segoe UI;font-size:small;"> or any other removable storage device. Avoid referring to the specific type&nbsp;of drive if you can.&nbsp;</span><br><span style="font-family:Segoe UI;font-size:small;"><span style="font-family:Segoe UI;font-size:small;"><br>Don't use </span><em>disk drive.</em></span><span style="font-family:Segoe UI;font-size:small;"><em></em></span><br></div><div><span style="font-family:Segoe UI;font-size:small;"><br>Use </span><em><span style="font-family:Segoe UI;font-size:small;">hard drive</span></em><span style="font-family:Segoe UI;font-size:small;"> to refer to a drive on a PC&nbsp;where programs are typically stored. Don’t use </span><em><span style="font-family:Segoe UI;font-size:small;">hard disk.</span></em><em></em><br></div><div><span style="font-family:Segoe UI;font-size:small;"><br>Use </span><em><span style="font-family:Segoe UI;font-size:small;">drive C</span></em><span style="font-family:Segoe UI;font-size:small;">, not </span><em><span style="font-family:Segoe UI;font-size:small;">drive C:, </span></em><em><span style="font-family:Segoe UI;font-size:small;">drive C&gt;</span></em><span style="font-family:Segoe UI;font-size:small;">,&nbsp;or </span><em><span style="font-family:Segoe UI;font-size:small;">C: drive</span></em><span style="font-family:Segoe UI;font-size:small;">, when necessary.&nbsp;</span><br></div><div><span style="font-family:Segoe UI;font-size:small;"><br></span><span style="font-size:small;">Use <em>network drive,</em> not <em>remote drive,</em> to refer to a logical network drive name. <br></span><span style="color:#000000;font-size:small;">Example</span><span style="font-size:small;"> network drive <em>X</em></span></div></td></tr><tr><td style="padding:0.5em;border:1px solid rgb(0, 0, 0);border-image:none;border-collapse:collapse;min-height:1em;"><div><span style="font-family:Segoe UI Semibold;font-size:small;">input device, mouse, pen, controller, joystick, touchpad, trackball</span></div></td><td style="padding:0.5em;border:1px solid rgb(0, 0, 0);border-image:none;border-collapse:collapse;min-height:1em;"><div><span style="font-family:Segoe UI;font-size:small;">In
+ general,&nbsp;don’t talk about specific input devices. Most of the 
+time, talk about how the&nbsp;customer interacts with the&nbsp;app or 
+game by selecting, choosing,&nbsp;and so on. To learn more, see </span><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=26472"><span style="font-family:Segoe UI;font-size:small;">Describing interactions with UI</span></a><span style="font-family:Segoe UI;font-size:small;">.</span><br><span style="font-family:Segoe UI;font-size:small;"><br>Don’t use </span><em><span style="font-family:Segoe UI;font-size:small;">pointing device </span></em><span style="font-family:Segoe UI;font-size:small;">or </span><em><span style="font-family:Segoe UI;font-size:small;">input device. </span></em><span style="font-family:Segoe UI;font-size:small;">When you must discuss interacting with a specific type of device, use the specific term for that&nbsp;device: </span><em><span style="font-family:Segoe UI;font-size:small;">mouse, pen, controller,&nbsp;trackball,</span></em><span style="font-family:Segoe UI;font-size:small;"> or </span><em><span style="font-family:Segoe UI;font-size:small;">joystick</span></em><span style="font-family:Segoe UI;font-size:small;">. Joysticks have </span><em><span style="font-family:Segoe UI;font-size:small;">controls</span></em><span style="font-family:Segoe UI;font-size:small;"> (not options) for controlling movement on the screen.</span><br></div><div><span style="font-family:Segoe UI;font-size:small;"><br>When
+ you&nbsp;need to refer to a specific input device made by Microsoft, 
+refer to your group's style guide. If the product is&nbsp;available for 
+retail purchase, alone or as part of another product, refer to&nbsp;the </span><a href="http://www.microsoftstore.com/" target="_blank"><span style="font-family:Segoe UI;font-size:small;">Microsoft Store</span></a><span style="font-family:Segoe UI;font-size:small;"> for product&nbsp;and component names.</span></div></td></tr><tr><td style="padding:0.5em;border:1px solid rgb(0, 0, 0);border-image:none;border-collapse:collapse;min-height:1em;"><span style="font-family:Segoe UI Semibold;font-size:small;">network adapter</span></td><td style="padding:0.5em;border:1px solid rgb(0, 0, 0);border-image:none;border-collapse:collapse;min-height:1em;"><span style="font-family:Segoe UI;font-size:small;">Use instead of </span><em><span style="font-family:Segoe UI;font-size:small;">network card</span></em><span style="font-family:Segoe UI;font-size:small;"> to describe hardware that supports connecting a computer to a network.</span></td></tr><tr><td style="padding:0.5em;border:1px solid rgb(0, 0, 0);border-image:none;border-collapse:collapse;min-height:1em;"><div><span style="font-family:Segoe UI Semibold;font-size:small;">pen,&nbsp;stylus</span></div></td><td style="padding:0.5em;border:1px solid rgb(0, 0, 0);border-image:none;border-collapse:collapse;min-height:1em;"><div><span style="font-family:Segoe UI;font-size:small;">Use </span><em><span style="font-family:Segoe UI;font-size:small;">tablet pen </span></em><span style="font-family:Segoe UI;font-size:small;">on first mention, and </span><em><span style="font-family:Segoe UI;font-size:small;">pen</span></em><span style="font-family:Segoe UI;font-size:small;"> thereafter. If you're talking&nbsp;specifically about&nbsp;Surface Pen, use <em>Microsoft </em></span><em><span style="font-family:Segoe UI;font-size:small;">Surface&nbsp;Pen</span></em><span style="font-family:Segoe UI;font-size:small;"> on the first mention. </span><br></div><div><span style="font-family:Segoe UI;font-size:small;"><br>Don’t use </span><em><span style="font-family:Segoe UI;font-size:small;">stylus</span></em><span style="font-family:Segoe UI;font-size:small;">.</span></div></td></tr><tr><td style="padding:0.5em;border:1px solid rgb(0, 0, 0);border-image:none;border-collapse:collapse;min-height:1em;"><div><span style="font-family:Segoe UI Semibold;font-size:small;">touchscreen</span></div></td><td style="padding:0.5em;border:1px solid rgb(0, 0, 0);border-image:none;border-collapse:collapse;min-height:1em;"><div><span style="font-family:Segoe UI;font-size:small;">One
+ word.&nbsp;Use sparingly. Most of the time, talk about how the customer
+ interacts with the app or product by selecting, choosing, and so on. 
+See </span><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=26472"><span style="font-family:Segoe UI;font-size:small;">Describing&nbsp;interactions with UI</span></a><span style="font-family:Segoe UI;font-size:small;"> to learn more.</span></div></td></tr><tr><td style="padding:0.5em;border:1px solid rgb(0, 0, 0);border-image:none;border-collapse:collapse;min-height:1em;"><div><div><span style="font-family:Segoe UI Semibold;font-size:small;">USB</span></div></div></td><td style="padding:0.5em;border:1px solid rgb(0, 0, 0);border-image:none;border-collapse:collapse;min-height:1em;"><div><div><span style="font-family:Segoe UI;font-size:small;">Don’t spell&nbsp;out. Use only as an adjective. <br></span><span style="color:#000000;font-family:Segoe UI;font-size:small;"></span><span style="color:#006600;font-family:Segoe UI;font-size:small;">Examples</span><span style="font-family:Segoe UI;font-size:small;"><br></span><span style="font-family:Segoe UI;font-size:small;">USB drive<br>USB hub<br></span><span style="font-family:Segoe UI;font-size:small;">USB&nbsp;3.0 port</span><span style="font-family:Segoe UI;font-size:small;"> </span></div></div></td></tr></tbody></table></div></div>
+        
+        <br>
+        
+        
+
+</div></div>
+                <div class="activity-indicator centered" style="display: none;">
+                    <img src="computer-device-terms_files/activity-large.gif" alt="In progress">
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
+<script id="navListTempl" type="text/x-jquery-tmpl" data-jsv-tmpl="_0">
+    <div class="topic-element" data-id="{{: StyleGuideTopicID}}" data-topicid="{{: TopicID}}" data-parenttopicid="{{: ParentTopicID}}" data-styleguideid="{{: StyleGuideID}}">
+        <div class="topic-menu" data-topicid="{{: TopicID}}">
+            <div class="menu-img-div" data-topicid="{{: TopicID}}">
+                <img tabindex="0" class="menu-img" data-topicid="{{: TopicID}}" data-parenttopicid="{{: ParentTopicID}}" src="/Content/Images/menu-normal.png" alt="Menu" />
+                <div tabindex="0" class="fl clickable topicNameView levelView{{: TopicLevel}}" data-id="{{: StyleGuideTopicID}}" data-topicid="{{: TopicID}}" title="{{: TopicName}}">{{: TopicName}}</div>
+            </div>
+            <div class="cl-b" data-topicid="{{: TopicID}}"></div>
+            <hr class="topicNavSeparator" data-topicid="{{: TopicID}}" />
+        </div>
+        
+        {{if ChildTopics}}
+        <div class="subTopics" style="padding-left: 0.8em; display: none;" data-parenttopicid="{{: TopicID}}">
+            {{for ChildTopics tmpl="#navListTempl" /}}
+        </div>
+        {{/if}}
+    </div>
+</script>
+
+
+<script id="topicContentTempl" type="text/x-jquery-tmpl" data-jsv-tmpl="_1">
+    <div class="topicView" data-id="{{: StyleGuideTopicID}}" data-topicid="{{: TopicID}}">
+        <div class="fl topicTitleView" data-id="{{: StyleGuideTopicID}}" data-topicid="{{: TopicID}}" title="{{: TopicName}}">{{: TopicName}}</div>
+        <div class="topicButtons">
+            <div tabindex="0" id="divCopyURL" title="Copy URL" class="clickable-div" data-topicid="{{: TopicID}}">
+                <img class="button-image" src="/Content/Images/Copy.png" alt="Copy URL" />
+                <span class="button-text">Copy URL</span>
+            </div>
+            <div tabindex="0" class="topicDownload clickable-div" data-id="{{: StyleGuideTopicID}}" data-topicid="{{: TopicID}}">
+                <img class="button-image" src="/Content/Images/Download.png" alt="Download" />
+                <div class="button-text">Download topic</div>
+            </div>
+        </div>
+        <div class="cl-b"></div>
+        <div class="editable" data-id="{{: StyleGuideTopicID}}" data-topicid="{{: TopicID}}">{{: TopicContent}}</div>
+        
+        <br />
+        
+        
+
+<script>
+    function copyTopicURL(topicElement, type, page,id) {
+        $("#txtTopicURL").val("");
+        var topicId = topicElement.attr('data-topicid');
+        
+        var topicURL = get_hostname(window.location.href) + '/' + type + '/' + page + '?id=' + id + '&topicid=' + topicId.toString();
+
+        $('#copyTopicURLSection').dialog({
+            autoOpen: false,
+            width: 950,
+            height: 200,
+            resizable: false,
+            title: 'Copy topic URL',
+            modal: true,
+            closeOnEscape: true,
+            draggable: true,
+            open: function () {
+                $(".ui-dialog-titlebar").attr('alt', 'Close');
+                $(".ui-dialog-titlebar-close").addClass('ui-dialog-titlebar-close-custom').attr('title', 'Close');
+                $("#txtTopicURL").val($(this).data('topicURL'));
+            },
+            buttons: [
+                {
+                    id: "btnCancelTag",
+                    text: "CLOSE",
+                    title: "close",
+                    "class": "button-add-disp",
+                    click: function () {
+                        $('#copyTopicURLSection').dialog('close');
+                    }
+                }
+            ]
+        });
+
+        $('#copyTopicURLSection')
+        .data({
+            'topicURL': topicURL
+        })
+        .dialog('open');
+
+        return false;
+    }
+</script>
+
+<div id="copyTopicURLSection" style="display: none;">
+    <br>
+    <div>URL : </div>
+    <br>
+    <input id="txtTopicURL" class="TopicURL" rows="5" onfocus="javascript:this.select();" type="text">
+</div>
+
+
+        <br>
+    </div>
+    <div class="cl-b"></div>
+
+
+<form action="/Search/Index" method="post" name="searchresults" id="searchresults" novalidate="novalidate">
+    <input name="searchTerm" id="searchTerm" value="" type="hidden">
+    <input name="styleguideIds" id="styleguideIds" value="2700" type="hidden">
+    <input name="fromURL" id="fromURL" value="styleguideread" type="hidden">
+</form>
+
+
+    
+    
+
+    
+    <script src="computer-device-terms_files/viewStyleGuide.js"></script>
+    <link rel="stylesheet" type="text/css" href="computer-device-terms_files/template.css">
+    <style>
+        .editable {
+            font-size: 12pt;
+            font-family: Segoe UI;
+        }
+
+        .main {
+            height: 50.2em;
+        }
+        p {
+        margin: 0 0 1em;
+        padding-left: 0.6em;
+    }
+    </style>
+
+     
+
+
+
+</body></html>

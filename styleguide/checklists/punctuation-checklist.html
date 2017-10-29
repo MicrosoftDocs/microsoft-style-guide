@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+<html style="" class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients no-cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Microsoft Style Guides</title>
+    
+    <link href="https://worldready.cloudapp.net/Content/Images/styleguide_favicon.ico" rel="icon" type="image/x-icon">    
+    <link href="punctuation-checklist_files/css.css" rel="stylesheet">
+
+    <link href="punctuation-checklist_files/mastercss.css" rel="stylesheet">
+
+    <script src="punctuation-checklist_files/master"></script>
+
+
+</head>
+<body>
+    <noscript><div class="noscriptTag">Your browser does not support JavaScript. Please enable the Javascript.</div></noscript>
+    <input id="hdnloggeduserid" value="16406" type="hidden">
+    <div class="loadingicon" style="display: none;">
+        <div class="page-loading">Loading...</div>
+    </div>
+    <div class="body">
+
+        
+
+
+
+
+    </div>
+        
+    <div class="main">
+
+        
+
+
+<script>
+    $(document).ready(function () {
+        $('.viewStyleGuide').show();
+
+        buildNavMenu('2700', 'Microsoft Writing Style Guide', '26918');
+
+        $('.menu-img').live('click', function () {
+            subTopicToggle(this);
+        });
+
+        $(".menu-img").live('keydown', function (e) {
+            var event = e.KeyCode || e.which;
+            if (event == 13) {
+                subTopicToggle(this);
+            }
+        });
+
+        $('.topicNameView').live('click', function () {
+            var topicId = $(this).attr('data-topicid');
+            $('.topic-menu').each(function () {
+                if ($(this).hasClass('selectedDiv')) {
+                    $(this).removeClass('selectedDiv');
+                }
+            });
+
+            $('.topic-menu[data-topicid="' + topicId + '"]').addClass('selectedDiv');
+            var styleGuideId = $('.topic-element[data-topicid="' + topicId + '"]').attr('data-styleguideid');
+            getTopicData(topicId, styleGuideId);
+        });
+
+        $(".topicNameView").live('keydown', function (e) {
+            var event = e.KeyCode || e.which;
+            if (event == 13) {
+                var topicId = $(this).attr('data-topicid');
+                $('.topic-menu').each(function () {
+                    if ($(this).hasClass('selectedDiv')) {
+                        $(this).removeClass('selectedDiv');
+                    }
+                });
+
+                $('.topic-menu[data-topicid="' + topicId + '"]').addClass('selectedDiv');
+                var styleGuideId = $('.topic-element[data-topicid="' + topicId + '"]').attr('data-styleguideid');
+                getTopicData(topicId, styleGuideId);
+            }
+        });
+
+        $('#sgDownload').live('click', function () {
+            var styleGuideId = $('#sgDownload').attr('data-styleguideid');
+            window.location = '/StyleGuide/DownloadStyleGuide?styleGuideId=' + styleGuideId + '&styleGuideDraftId=' + 0 + '&isEdit=0';
+            return false;
+        });
+
+        $("#sgDownload").live('keydown', function (e) {
+            var event = e.KeyCode || e.which;
+            if (event == 13) {
+                var styleGuideId = $('#sgDownload').attr('data-styleguideid');
+                window.location = '/StyleGuide/DownloadStyleGuide?styleGuideId=' + styleGuideId + '&styleGuideDraftId=' + 0 + '&isEdit=0';
+                return false;
+            }
+        });
+
+        $('#sgEditStyleGuide').live('click', function () {
+            var styleGuideId = $('#sgEditStyleGuide').attr('data-styleguideid');
+            window.location = '/StyleGuide/Edit?id=' + styleGuideId + '';
+            return false;
+        });
+
+        $("#sgEditStyleGuide").live('keydown', function (e) {
+            var event = e.KeyCode || e.which;
+            if (event == 13) {
+                var styleGuideId = $('#sgEditStyleGuide').attr('data-styleguideid');
+                window.location = '/StyleGuide/Edit?id=' + styleGuideId + '';
+                return false;
+            }
+        });
+
+        $('.topicDownload').live('click', function () {
+            downloadTopic(this);
+        });
+
+        $('.topicEdit').live('click', function () {
+            var topicId = $(this).attr('data-topicid');
+            var topicElem = $('.topic-element[data-topicid="' + topicId + '"]');
+            var styleGuideId = $('.navigationTitleView').attr('data-styleguideid');
+
+            window.location = '/StyleGuide/Edit?Id=' + styleGuideId + '&topicId=' + topicId + '&styleGuideDraftId=' + 0 + '&isEdit=1';
+            return false;
+        });
+
+        $('#divCopyURL').live('click', function () {
+            copyTopicURL($(this), 'Styleguide', 'Read', '2700');
+        });
+
+        $('#divCopyURL').live('keydown', function (e) {
+            var event = e.KeyCode || e.which;
+            if (event == 13) {
+                copyTopicURL($(this), 'Styleguide', 'Read', '2700');
+            }
+        });
+
+        $('.topicDownload').live('keydown', function (e) {
+            var event = e.KeyCode || e.which;
+            if (event == 13) {
+                downloadTopic(this);
+            }
+        });
+
+        $('.topicEdit').live('keydown', function (e) {
+            var event = e.KeyCode || e.which;
+            if (event == 13) {
+                editTopic(this);
+            }
+        });
+        hideLoadingIcon();
+        $('.navigationTitleView').focus();
+    });
+
+    function SearchTopic() {
+        var searchTerm = $("#searchTopic").val().trim();
+        if (searchTerm != "") {
+            //if (searchTerm.length > 2)
+            //{
+            $("#searchTerm").val(searchTerm);
+            $("#searchresults").submit();
+            //}
+            //else
+            //{
+            //    alert('ERROR: Invalid search entry!\n\n'
+            //        +' Search entries must be between 3 and 255 characters and may only'
+            //        + ' contain alphanumeric characters, quotation marks, and minus signs.');
+            //    return false;
+            //}
+        }
+        else {
+            alert('Please enter a keyword to search');
+            return false;
+        }
+    }
+
+    function clickSearchButton(e) {
+        var evt = e ? e : window.event;
+        if (evt.keyCode == 13) {
+            SearchTopic();
+            return false;
+        }
+    }
+
+</script>
+
+<div class="viewStyleGuide" style="">
+    <div id="container2">
+        <div id="container1">
+            
+            <div class="topicContent">
+                
+                <div class="cl-b"></div>
+                <div id="topicInfo">
+    <div class="topicView" data-id="35241" data-topicid="26918">
+        <div class="fl topicTitleView" data-id="35241" data-topicid="26918" title="Punctuation checklist">Punctuation checklist</div>
+        <div class="topicButtons">
+            <div tabindex="0" id="divCopyURL" title="Copy URL" class="clickable-div" data-topicid="26918">
+                <img class="button-image" src="punctuation-checklist_files/Copy.png" alt="Copy URL">
+                <span class="button-text">Copy URL</span>
+            </div>
+            <div tabindex="0" class="topicDownload clickable-div" data-id="35241" data-topicid="26918">
+                <img class="button-image" src="punctuation-checklist_files/Download.png" alt="Download">
+                <div class="button-text">Download topic</div>
+            </div>
+        </div>
+        <div class="cl-b"></div>
+        <div class="editable" data-id="35241" data-topicid="26918"><br><p><span style="font-size:small;">Keep it simple.</span></p><ul><li><span style="font-size:small;">Stick to short, simple sentences. </span><span style="font-size:small;">Sentences that contain lots of punctuation tend to&nbsp;be complex and hard to read. </span><span style="font-size:small;"><br><br></span></li><li><span style="font-size:small;">End all sentences with a period, even if they're only two&nbsp;words.&nbsp;<br><br></span></li><li><span style="font-size:small;"><span style="font-size:small;">Use only one space after periods, question marks,&nbsp;exclamation marks, and colons.<br></span><strong></strong><em></em><span style="text-decoration:underline;"></span><sub></sub><sup></sup><strike></strike><br></span></li><li><span style="font-family:Segoe UI;font-size:small;">Include a colon at the end of a phrase that directly introduces&nbsp;a list.</span><ul><li><span style="font-size:small;">If
+ one or more list elements complete the introductory&nbsp;phrase 
+preceding the colon, use a period after every list element.&nbsp;</span></li><li><span style="font-size:small;">If
+ all list elements are short phrases (three&nbsp;words or fewer), don’t 
+end them with periods, even if they form a&nbsp;complete sentence 
+together with the list introduction.&nbsp; </span></li><li><span style="font-size:small;">If
+ one or more list elements are complete&nbsp;sentences, use a period 
+after every element, even if a list&nbsp;element contains three or fewer
+ words.</span></li></ul></li></ul><span style="font-size:small;"><div></div></span> <ul><li><span style="font-size:small;">Include commas after every item in a series, including the last one.<br></span><span style="color:#107C10;font-size:small;">Example </span><span style="font-size:small;">networks, storage, and&nbsp;virtual machines<br><br></span><span style="font-size:small;">You might know that extra comma&nbsp;as the Oxford comma. </span><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=28752"><span style="font-size:small;">Learn&nbsp;more</span></a>.<a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=28752" target="_blank"><span style="font-size:small;"><br><br></span></a></li><li><span style="font-size:small;">Use a comma following an introductory phrase, t</span><span style="font-size:small;">o join independent clauses with a&nbsp;conjunction, and t</span><span style="font-size:small;">o surround the year when you use a complete&nbsp;date&nbsp;within a sentence. <a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=28752">Learn more</a>.<br><br></span></li><li><span style="font-size:small;">Use an apostrophe to indicate a missing letter&nbsp;in a contraction (such as </span><em><span style="font-size:small;">don’t</span></em><span style="font-size:small;">) and&nbsp;to form the possessive </span><span style="font-size:small;">case</span><span style="font-size:small;"> of a noun&nbsp;</span><span style="font-size:small;">(as in </span><em><span style="font-size:small;">Insider’s Guide</span></em><span style="font-size:small;">). </span><span style="font-size:small;">Don’t use an&nbsp;apostrophe for the possessive of <em>it </em></span><em><span style="font-size:small;">(its) </span></em><span style="font-size:small;">to avoid confusion with the contraction </span><em><span style="font-size:small;">it’s. </span></em><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=28753"><span style="font-size:small;">Learn&nbsp;more</span></a>.<a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=28753" target="_blank"><span style="font-size:small;"><br><br></span></a></li><li><span style="font-size:small;">When
+ you use a colon in a sentence, lowercase the word that follows 
+it&nbsp;unless it's a proper noun or the first word of&nbsp;a quotation.
+ <a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=28754">Learn more</a>.<br><br></span></li><li><span style="font-size:small;">A
+ sentence that contains a&nbsp;semicolon might be&nbsp;complex. Try to 
+rewrite the sentence as multiple sentences or break it into a list. <a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=28755">Learn more</a>.<br><br></span></li><li><span style="font-size:small;">Use exclamation points sparingly. Save them for when&nbsp;they count. <br><br></span></li><li><span style="font-size:small;">Use question marks sparingly. Customers&nbsp;expect <em>us</em> to give <em>them</em> answers. </span><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=28756"><span style="font-size:small;">Learn&nbsp;more</span></a>.<a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=28756" target="_blank"><span style="font-size:small;"><br><br></span></a></li><li><span style="font-family:Segoe UI;font-size:small;">Place closing quotation marks:</span><ul><li><span style="font-family:Segoe UI;font-size:small;">Outside commas and periods.</span></li><li><span style="font-family:Segoe UI;font-size:small;">Inside other punctuation.</span></li></ul></li></ul><p style="margin-left:30px;"><span style="color:#107C10;font-family:Segoe UI;font-size:small;">Exception</span><span> <span style="font-family:Segoe UI;font-size:small;">If</span></span><span style="font-family:Segoe UI;font-size:small;"> punctuation is part of the quoted material, place it inside&nbsp;the quotation marks.</span></p><ul><li><span style="font-size:small;">In general, don’t use hyphens unless leaving them&nbsp;out could result in confusion. </span><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=28765"><span style="font-size:small;">Learn&nbsp;more</span></a>.<a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=28765" target="_blank"><span style="font-size:small;"><br><br></span></a></li><li><span style="font-size:small;">Don’t use spaces around em dashes (—). </span><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=28766"><span style="font-size:small;">Learn&nbsp;more</span></a>.<a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=28766" target="_blank"><span style="font-size:small;"><br><br></span></a></li><li><span style="font-size:small;">Don’t use a slash (/) to indicate a</span><span style="font-family:Segoe UI;font-size:small;"> choice or as&nbsp;a substitute for </span><em><span style="font-family:Segoe UI;font-size:small;">or. </span></em><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=28760"><span style="font-family:Segoe UI;font-size:small;">Learn&nbsp;more</span></a><span style="font-family:Segoe UI;font-size:small;">.<br></span><br></li><li><span style="font-family:Segoe UI;font-size:small;">In
+ general, format punctuation in the same font style as the&nbsp;main 
+content of a sentence or phrase unless it's part of an&nbsp;</span><span style="font-size:small;"><span style="font-family:Segoe UI;font-size:small;">element such as a command, option,&nbsp;keyword, placeholder, hyperlink, pop-up text, or user input</span></span><span style="font-family:Segoe UI;font-size:small;">.</span></li></ul><p><span><span style="color:#000000;font-family:Segoe UI Semibold;font-size:small;">Learn more</span></span><span style="font-size:small;"> about&nbsp;</span><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=25519"><span style="font-size:small;">punctuation</span></a><span style="font-size:small;">.</span></p></div>
+        
+        <br>
+        
+        
+
+</div></div>
+                <div class="activity-indicator centered" style="display: none;">
+                    <img src="punctuation-checklist_files/activity-large.gif" alt="In progress">
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
+<script id="navListTempl" type="text/x-jquery-tmpl" data-jsv-tmpl="_0">
+    <div class="topic-element" data-id="{{: StyleGuideTopicID}}" data-topicid="{{: TopicID}}" data-parenttopicid="{{: ParentTopicID}}" data-styleguideid="{{: StyleGuideID}}">
+        <div class="topic-menu" data-topicid="{{: TopicID}}">
+            <div class="menu-img-div" data-topicid="{{: TopicID}}">
+                <img tabindex="0" class="menu-img" data-topicid="{{: TopicID}}" data-parenttopicid="{{: ParentTopicID}}" src="/Content/Images/menu-normal.png" alt="Menu" />
+                <div tabindex="0" class="fl clickable topicNameView levelView{{: TopicLevel}}" data-id="{{: StyleGuideTopicID}}" data-topicid="{{: TopicID}}" title="{{: TopicName}}">{{: TopicName}}</div>
+            </div>
+            <div class="cl-b" data-topicid="{{: TopicID}}"></div>
+            <hr class="topicNavSeparator" data-topicid="{{: TopicID}}" />
+        </div>
+        
+        {{if ChildTopics}}
+        <div class="subTopics" style="padding-left: 0.8em; display: none;" data-parenttopicid="{{: TopicID}}">
+            {{for ChildTopics tmpl="#navListTempl" /}}
+        </div>
+        {{/if}}
+    </div>
+</script>
+
+
+<script id="topicContentTempl" type="text/x-jquery-tmpl" data-jsv-tmpl="_1">
+    <div class="topicView" data-id="{{: StyleGuideTopicID}}" data-topicid="{{: TopicID}}">
+        <div class="fl topicTitleView" data-id="{{: StyleGuideTopicID}}" data-topicid="{{: TopicID}}" title="{{: TopicName}}">{{: TopicName}}</div>
+        <div class="topicButtons">
+            <div tabindex="0" id="divCopyURL" title="Copy URL" class="clickable-div" data-topicid="{{: TopicID}}">
+                <img class="button-image" src="/Content/Images/Copy.png" alt="Copy URL" />
+                <span class="button-text">Copy URL</span>
+            </div>
+            <div tabindex="0" class="topicDownload clickable-div" data-id="{{: StyleGuideTopicID}}" data-topicid="{{: TopicID}}">
+                <img class="button-image" src="/Content/Images/Download.png" alt="Download" />
+                <div class="button-text">Download topic</div>
+            </div>
+        </div>
+        <div class="cl-b"></div>
+        <div class="editable" data-id="{{: StyleGuideTopicID}}" data-topicid="{{: TopicID}}">{{: TopicContent}}</div>
+        
+        <br />
+        
+        
+
+<script>
+    function copyTopicURL(topicElement, type, page,id) {
+        $("#txtTopicURL").val("");
+        var topicId = topicElement.attr('data-topicid');
+        
+        var topicURL = get_hostname(window.location.href) + '/' + type + '/' + page + '?id=' + id + '&topicid=' + topicId.toString();
+
+        $('#copyTopicURLSection').dialog({
+            autoOpen: false,
+            width: 950,
+            height: 200,
+            resizable: false,
+            title: 'Copy topic URL',
+            modal: true,
+            closeOnEscape: true,
+            draggable: true,
+            open: function () {
+                $(".ui-dialog-titlebar").attr('alt', 'Close');
+                $(".ui-dialog-titlebar-close").addClass('ui-dialog-titlebar-close-custom').attr('title', 'Close');
+                $("#txtTopicURL").val($(this).data('topicURL'));
+            },
+            buttons: [
+                {
+                    id: "btnCancelTag",
+                    text: "CLOSE",
+                    title: "close",
+                    "class": "button-add-disp",
+                    click: function () {
+                        $('#copyTopicURLSection').dialog('close');
+                    }
+                }
+            ]
+        });
+
+        $('#copyTopicURLSection')
+        .data({
+            'topicURL': topicURL
+        })
+        .dialog('open');
+
+        return false;
+    }
+</script>
+
+<div id="copyTopicURLSection" style="display: none;">
+    <br>
+    <div>URL : </div>
+    <br>
+    <input id="txtTopicURL" class="TopicURL" rows="5" onfocus="javascript:this.select();" type="text">
+</div>
+
+
+        <br>
+    </div>
+    <div class="cl-b"></div>
+
+
+<form action="/Search/Index" method="post" name="searchresults" id="searchresults" novalidate="novalidate">
+    <input name="searchTerm" id="searchTerm" value="" type="hidden">
+    <input name="styleguideIds" id="styleguideIds" value="2700" type="hidden">
+    <input name="fromURL" id="fromURL" value="styleguideread" type="hidden">
+</form>
+
+
+    
+    
+
+    
+    <script src="punctuation-checklist_files/viewStyleGuide.js"></script>
+    <link rel="stylesheet" type="text/css" href="punctuation-checklist_files/template.css">
+    <style>
+        .editable {
+            font-size: 12pt;
+            font-family: Segoe UI;
+        }
+
+        .main {
+            height: 50.2em;
+        }
+        p {
+        margin: 0 0 1em;
+        padding-left: 0.6em;
+    }
+    </style>
+
+     
+
+
+
+</body></html>
