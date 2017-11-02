@@ -253,6 +253,7 @@
 ./styleguide/a-z-word-list-term-collections/f/fail.html
 ./styleguide/a-z-word-list-term-collections/f/false.html
 ./styleguide/a-z-word-list-term-collections/f/family.html
+./styleguide/a-z-word-list-term-collections/f/far-east.html
 ./styleguide/a-z-word-list-term-collections/f/far-left-far-right.html
 ./styleguide/a-z-word-list-term-collections/f/favorite.html
 ./styleguide/a-z-word-list-term-collections/f/fax.html
