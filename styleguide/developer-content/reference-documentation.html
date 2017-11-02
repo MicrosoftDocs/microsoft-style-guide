@@ -1,0 +1,405 @@
+<!DOCTYPE html>
+<html style="" class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients no-cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Microsoft Style Guides</title>
+    
+    <link href="https://worldready.cloudapp.net/Content/Images/styleguide_favicon.ico" rel="icon" type="image/x-icon">    
+    <link href="reference-documentation_files/css.css" rel="stylesheet">
+
+    <link href="reference-documentation_files/mastercss.css" rel="stylesheet">
+
+    <script src="reference-documentation_files/master"></script>
+
+
+</head>
+<body>
+    <noscript><div class="noscriptTag">Your browser does not support JavaScript. Please enable the Javascript.</div></noscript>
+    <input id="hdnloggeduserid" value="16406" type="hidden">
+    <div class="loadingicon" style="display: none;">
+        <div class="page-loading">Loading...</div>
+    </div>
+    <div class="body">
+
+        
+
+
+
+
+    </div>
+        
+    <div class="main">
+
+        
+
+
+<script>
+    $(document).ready(function () {
+        $('.viewStyleGuide').show();
+
+        buildNavMenu('2700', 'Microsoft Writing Style Guide', '28718');
+
+        $('.menu-img').live('click', function () {
+            subTopicToggle(this);
+        });
+
+        $(".menu-img").live('keydown', function (e) {
+            var event = e.KeyCode || e.which;
+            if (event == 13) {
+                subTopicToggle(this);
+            }
+        });
+
+        $('.topicNameView').live('click', function () {
+            var topicId = $(this).attr('data-topicid');
+            $('.topic-menu').each(function () {
+                if ($(this).hasClass('selectedDiv')) {
+                    $(this).removeClass('selectedDiv');
+                }
+            });
+
+            $('.topic-menu[data-topicid="' + topicId + '"]').addClass('selectedDiv');
+            var styleGuideId = $('.topic-element[data-topicid="' + topicId + '"]').attr('data-styleguideid');
+            getTopicData(topicId, styleGuideId);
+        });
+
+        $(".topicNameView").live('keydown', function (e) {
+            var event = e.KeyCode || e.which;
+            if (event == 13) {
+                var topicId = $(this).attr('data-topicid');
+                $('.topic-menu').each(function () {
+                    if ($(this).hasClass('selectedDiv')) {
+                        $(this).removeClass('selectedDiv');
+                    }
+                });
+
+                $('.topic-menu[data-topicid="' + topicId + '"]').addClass('selectedDiv');
+                var styleGuideId = $('.topic-element[data-topicid="' + topicId + '"]').attr('data-styleguideid');
+                getTopicData(topicId, styleGuideId);
+            }
+        });
+
+        $('#sgDownload').live('click', function () {
+            var styleGuideId = $('#sgDownload').attr('data-styleguideid');
+            window.location = '/StyleGuide/DownloadStyleGuide?styleGuideId=' + styleGuideId + '&styleGuideDraftId=' + 0 + '&isEdit=0';
+            return false;
+        });
+
+        $("#sgDownload").live('keydown', function (e) {
+            var event = e.KeyCode || e.which;
+            if (event == 13) {
+                var styleGuideId = $('#sgDownload').attr('data-styleguideid');
+                window.location = '/StyleGuide/DownloadStyleGuide?styleGuideId=' + styleGuideId + '&styleGuideDraftId=' + 0 + '&isEdit=0';
+                return false;
+            }
+        });
+
+        $('#sgEditStyleGuide').live('click', function () {
+            var styleGuideId = $('#sgEditStyleGuide').attr('data-styleguideid');
+            window.location = '/StyleGuide/Edit?id=' + styleGuideId + '';
+            return false;
+        });
+
+        $("#sgEditStyleGuide").live('keydown', function (e) {
+            var event = e.KeyCode || e.which;
+            if (event == 13) {
+                var styleGuideId = $('#sgEditStyleGuide').attr('data-styleguideid');
+                window.location = '/StyleGuide/Edit?id=' + styleGuideId + '';
+                return false;
+            }
+        });
+
+        $('.topicDownload').live('click', function () {
+            downloadTopic(this);
+        });
+
+        $('.topicEdit').live('click', function () {
+            var topicId = $(this).attr('data-topicid');
+            var topicElem = $('.topic-element[data-topicid="' + topicId + '"]');
+            var styleGuideId = $('.navigationTitleView').attr('data-styleguideid');
+
+            window.location = '/StyleGuide/Edit?Id=' + styleGuideId + '&topicId=' + topicId + '&styleGuideDraftId=' + 0 + '&isEdit=1';
+            return false;
+        });
+
+        $('#divCopyURL').live('click', function () {
+            copyTopicURL($(this), 'Styleguide', 'Read', '2700');
+        });
+
+        $('#divCopyURL').live('keydown', function (e) {
+            var event = e.KeyCode || e.which;
+            if (event == 13) {
+                copyTopicURL($(this), 'Styleguide', 'Read', '2700');
+            }
+        });
+
+        $('.topicDownload').live('keydown', function (e) {
+            var event = e.KeyCode || e.which;
+            if (event == 13) {
+                downloadTopic(this);
+            }
+        });
+
+        $('.topicEdit').live('keydown', function (e) {
+            var event = e.KeyCode || e.which;
+            if (event == 13) {
+                editTopic(this);
+            }
+        });
+        hideLoadingIcon();
+        $('.navigationTitleView').focus();
+    });
+
+    function SearchTopic() {
+        var searchTerm = $("#searchTopic").val().trim();
+        if (searchTerm != "") {
+            //if (searchTerm.length > 2)
+            //{
+            $("#searchTerm").val(searchTerm);
+            $("#searchresults").submit();
+            //}
+            //else
+            //{
+            //    alert('ERROR: Invalid search entry!\n\n'
+            //        +' Search entries must be between 3 and 255 characters and may only'
+            //        + ' contain alphanumeric characters, quotation marks, and minus signs.');
+            //    return false;
+            //}
+        }
+        else {
+            alert('Please enter a keyword to search');
+            return false;
+        }
+    }
+
+    function clickSearchButton(e) {
+        var evt = e ? e : window.event;
+        if (evt.keyCode == 13) {
+            SearchTopic();
+            return false;
+        }
+    }
+
+</script>
+
+<div class="viewStyleGuide" style="">
+    <div id="container2">
+        <div id="container1">
+            
+            <div class="topicContent">
+                
+                <div class="cl-b"></div>
+                <div id="topicInfo">
+    <div class="topicView" data-id="37476" data-topicid="28718">
+        <div class="fl topicTitleView" data-id="37476" data-topicid="28718" title="Reference documentation">Reference documentation</div>
+        <div class="topicButtons">
+            <div tabindex="0" id="divCopyURL" title="Copy URL" class="clickable-div" data-topicid="28718">
+                <img class="button-image" src="reference-documentation_files/Copy.png" alt="Copy URL">
+                <span class="button-text">Copy URL</span>
+            </div>
+            <div tabindex="0" class="topicDownload clickable-div" data-id="37476" data-topicid="28718">
+                <img class="button-image" src="reference-documentation_files/Download.png" alt="Download">
+                <div class="button-text">Download topic</div>
+            </div>
+        </div>
+        <div class="cl-b"></div>
+        <div class="editable" data-id="37476" data-topicid="28718"><p><span style="font-size: small;">Reference
+ documentation provides details about&nbsp;the&nbsp;programming elements
+ associated with technologies and&nbsp;languages: class libraries, 
+object models, and programming language constructs.</span></p><p><span style="font-size: small;">Consistency
+ is essential in reference documentation. A standard topic&nbsp;design, 
+predictable headings and structure, and consistent&nbsp;wording 
+help&nbsp;developers find what they need quickly.&nbsp;</span></p><p><span><span style="color: rgb(0, 0, 0); font-family: Segoe UI Semibold; font-size: small;"><strong>Note</strong></span> </span><span style="font-size: small;">Information&nbsp;such
+ as configuration schemas, compiler&nbsp;options, and error messages 
+might not&nbsp;follow the guidelines described in this section. For 
+information about&nbsp;documenting those features, see your&nbsp;</span><span style="color: black; font-size: small;">group's editorial&nbsp;style guide.</span></p><h4><span style="color: rgb(0, 0, 0); font-family: Segoe UI Semibold; font-size: small;">Topic titles</span></h4><p style="margin-left: 30px;"><span style="font-size: small;">Use
+ the name of a programming element (such as Clear),&nbsp;followed by an 
+element type (such as Class,&nbsp;Method, Property, or Event).&nbsp;If 
+the name is shared by multiple elements, add a differentiator, such as 
+the&nbsp;parent element name or the product or&nbsp;technology name. 
+Differentiators are&nbsp;particularly important in search results, where
+ they help customers find the&nbsp;topic for the correct product or 
+element. </span></p><p style="margin-left: 30px;"><span style="color: rgb(0, 0, 0); font-size: small;">Examples</span><span style="font-size: small;"> <br><span style="font-size: small;">Clear&nbsp;Method&nbsp; </span><br><span style="font-size: small;">Device.Clear Method&nbsp; </span><br><span style="font-size: small;">Clear Method (Microsoft Ajax)</span></span></p><h4><span style="color: rgb(0, 0, 0); font-family: Segoe UI Semibold; font-size: small;">Elements of a reference topic</span></h4><p style="margin-left: 30px;"><span style="font-family: Segoe UI; font-size: small;">The table lists the information typically provided in reference topics. Not all sections appear in all topics. For example, the </span><em><span style="font-family: Segoe UI; font-size: small;">Property value</span></em><span style="font-family: Segoe UI; font-size: small;"> or </span><em><span style="font-family: Segoe UI; font-size: small;">Field value</span></em><span style="font-family: Segoe UI; font-size: small;">
+ section appears only in reference topics for properties. Sections vary 
+depending on the language, product, or technology being documented.</span></p><div style="margin-left: 0.3in;"><table class="kendo-table k-table" style="border: 1px solid rgb(225, 225, 233); border-image: none; width: 100%; border-collapse: collapse;"><colgroup><col><col></colgroup><tbody><tr style="padding: 0.5em; border: 1px solid rgb(0, 0, 0); border-image: none; border-collapse: collapse; min-height: 1em; background-color: rgb(102, 204, 255);"><td style="padding: 0.5em; border: 1px solid rgb(0, 0, 0); border-image: none; border-collapse: collapse; min-height: 1em;"><span style="font-family: Segoe UI Semibold; font-size: small;">Section</span></td><td style="padding: 0.5em; border: 1px solid rgb(0, 0, 0); border-image: none; border-collapse: collapse; min-height: 1em; background-color: rgb(102, 204, 255);"><span style="font-family: Segoe UI Semibold; font-size: small;">Contains</span></td></tr><tr><td style="padding: 0.5em; border: 1px solid rgb(0, 0, 0); border-image: none; border-collapse: collapse; min-height: 1em;"><span style="font-family: Segoe UI Semibold; font-size: small;">Description</span></td><td style="padding: 0.5em; border: 1px solid rgb(0, 0, 0); border-image: none; border-collapse: collapse; min-height: 1em;"><span style="font-family: Segoe UI; font-size: small;">A
+ concise sentence or two describing the element. If possible, explain 
+what the element does or represents without repeating the element name. </span><br><span style="color: rgb(0, 0, 0); font-family: Segoe UI; font-size: small;">Example&nbsp;</span><br><span style="font-family: Segoe UI Semibold; font-size: small;">Control.AllowDrop</span> <span style="font-family: Segoe UI; font-size: small;"><span style="font-size: small;">Gets or sets a value that indicates whether the control can accept data the user drags onto it.</span></span>
+<span style="font-family: &quot;Segoe UI Light&quot;,sans-serif; font-size: small;"></span></td></tr><tr><td style="padding: 0.5em; border: 1px solid rgb(0, 0, 0); border-image: none; border-collapse: collapse; min-height: 1em;"><span style="font-family: Segoe UI Semibold; font-size: small; mso-bidi-font-size: 11.0pt; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">Declaration/Syntax</span></td><td style="padding: 0.5em; border: 1px solid rgb(0, 0, 0); border-image: none; border-collapse: collapse; min-height: 1em;"><span style="font-family: Segoe UI; font-size: small; mso-bidi-font-size: 11.0pt; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">The&nbsp;code
+ signature that defines the element. This section might also provide 
+usage&nbsp;syntax. If the technology can be used&nbsp;with multiple 
+programming&nbsp;languages, provide syntax for each&nbsp;language</span><span style="font-family: &quot;Segoe UI Light&quot;,sans-serif; font-size: small; mso-bidi-font-size: 11.0pt; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">.</span></td></tr><tr><td style="padding: 0.5em; border: 1px solid rgb(0, 0, 0); border-image: none; border-collapse: collapse; min-height: 1em;"><span style="font-family: Segoe UI Semibold; font-size: small;">Parameters</span></td><td style="padding: 0.5em; border: 1px solid rgb(0, 0, 0); border-image: none; border-collapse: collapse; min-height: 1em;"><span style="font-size: small;"><span style="font-size: small;">If
+ the element has parameters, provide a&nbsp;description of each 
+parameter and its data type. If appropriate, indicate&nbsp;whether the 
+parameter is required or optional and whether it represents 
+input&nbsp;or output. Provide as much useful detail as possible. Don’t 
+just repeat the&nbsp;words in the parameter name or the data type.</span><br></span>
+<span style="color: rgb(0, 0, 0); font-size: small;">Examples</span>
+<br><span style="font-size: small;"><em>visible </em></span><span style="font-size: small;"><br><span style="font-size: small;">Type: System.Boolean </span></span><strong><span style="font-size: small;"><br></span></strong><span style="font-size: small;"><span style="font-family: Segoe UI Semibold; font-size: small;">true</span></span><span style="font-size: small;"> to specify the box is&nbsp;rendered; </span><span style="font-family: Segoe UI Semibold; font-size: small;">false</span><span style="font-size: small;"> to specify it's not rendered</span><p></p><em><span style="font-family: &quot;Segoe UI Light&quot;,sans-serif; font-size: small;">Input </span></em><span style="font-family: &quot;Segoe UI Light&quot;,sans-serif; font-size: small;"><br></span><span style="font-family: Segoe UI; font-size: small;"><span style="font-size: small;">Type:&nbsp;System.String </span><br><span style="font-size: small;">The text to convert</span></span></td></tr><tr><td style="padding: 0.5em; border: 1px solid rgb(0, 0, 0); border-image: none; border-collapse: collapse; min-height: 1em;"><span style="font-family: Segoe UI Semibold; font-size: small;">Return value</span></td><td style="padding: 0.5em; border: 1px solid rgb(0, 0, 0); border-image: none; border-collapse: collapse; min-height: 1em;"><span style="font-family: Segoe UI; font-size: small; mso-bidi-font-size: 11.0pt; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">If&nbsp;the
+ element returns a value, describe the value and&nbsp;information about 
+its&nbsp;data type. If the value is a Boolean that indicates 
+the&nbsp;presence of a&nbsp;condition, describe the condition.</span></td></tr><tr><td style="padding: 0.5em; border: 1px solid rgb(0, 0, 0); border-image: none; border-collapse: collapse; min-height: 1em;"><span style="font-family: Segoe UI Semibold; font-size: small; mso-bidi-font-size: 11.0pt; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">Property/Field&nbsp;value</span></td><td style="padding: 0.5em; border: 1px solid rgb(0, 0, 0); border-image: none; border-collapse: collapse; min-height: 1em;"><span style="font-family: Segoe UI; font-size: small; mso-bidi-font-size: 11.0pt; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">A&nbsp;description
+ of the value for a property or field. If the property or field 
+has&nbsp;a default value, describe that as well. Include the data type 
+of the property&nbsp;or field value if applicable.</span></td></tr><tr><td style="padding: 0.5em; border: 1px solid rgb(0, 0, 0); border-image: none; border-collapse: collapse; min-height: 1em;"><span style="font-family: Segoe UI Semibold; font-size: small; mso-bidi-font-size: 11.0pt; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">Exceptions/Error&nbsp;codes</span></td><td style="padding: 0.5em; border: 1px solid rgb(0, 0, 0); border-image: none; border-collapse: collapse; min-height: 1em;"><span style="font-family: Segoe UI; font-size: small; mso-bidi-font-size: 11.0pt; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">If&nbsp;the
+ element can throw exceptions or raise errors when called, list them 
+and&nbsp;describe the&nbsp;conditions under which they occur.</span></td></tr><tr><td style="padding: 0.5em; border: 1px solid rgb(0, 0, 0); border-image: none; border-collapse: collapse; min-height: 1em;"><div><span style="font-family: Segoe UI Semibold; font-size: small;">Permissions</span></div></td><td style="padding: 0.5em; border: 1px solid rgb(0, 0, 0); border-image: none; border-collapse: collapse; min-height: 1em;"><div><span style="font-family: Segoe UI; font-size: small; mso-bidi-font-size: 11.0pt; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">Security&nbsp;permissions that apply to the element, if&nbsp;required.</span></div></td></tr><tr><td style="padding: 0.5em; border: 1px solid rgb(0, 0, 0); border-image: none; border-collapse: collapse; min-height: 1em;"><span style="font-family: Segoe UI Semibold; font-size: small;">Remarks</span></td><td style="padding: 0.5em; border: 1px solid rgb(0, 0, 0); border-image: none; border-collapse: collapse; min-height: 1em;"><span style="font-family: Segoe UI; font-size: small; mso-bidi-font-size: 11.0pt; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">Additional&nbsp;information
+ about the element and important details that may not be 
+obvious&nbsp;from its syntax, parameters, or return value. For example, 
+you might explain&nbsp;what the element does in more&nbsp;detail, 
+compare it with similar elements,&nbsp;and identify potential issues 
+in&nbsp;its use.</span></td></tr><tr><td style="padding: 0.5em; border: 1px solid rgb(0, 0, 0); border-image: none; border-collapse: collapse; min-height: 1em;"><span style="font-family: Segoe UI Semibold; font-size: small;">Example</span></td><td style="padding: 0.5em; border: 1px solid rgb(0, 0, 0); border-image: none; border-collapse: collapse; min-height: 1em;"><span style="font-family: Segoe UI; font-size: small; mso-bidi-font-size: 11.0pt; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">A&nbsp;code
+ example that illustrates how to use the programming element. For more 
+information about writing useful code examples, see </span><span style="font-family: &quot;Segoe UI Light&quot;,sans-serif; font-size: 10pt; mso-bidi-font-size: 11.0pt; mso-fareast-font-family: Calibri; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA; mso-fareast-theme-font: minor-latin; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-theme-font: minor-bidi;"><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=28719" target="_blank"><span style="font-family: Segoe UI; font-size: small; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-bidi-font-family: &quot;Segoe UI Light&quot;;">Code examples</span></a></span><span style="font-family: Segoe UI; font-size: small; mso-bidi-font-size: 11.0pt; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">.</span></td></tr><tr><td style="padding: 0.5em; border: 1px solid rgb(0, 0, 0); border-image: none; border-collapse: collapse; min-height: 1em;"><span style="font-family: Segoe UI Semibold; font-size: small;">Requirements</span></td><td style="padding: 0.5em; border: 1px solid rgb(0, 0, 0); border-image: none; border-collapse: collapse; min-height: 1em;"><span style="font-family: Segoe UI; font-size: small; mso-bidi-font-size: 11.0pt; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">Language&nbsp;or platform requirements for using the element.</span></td></tr><tr><td style="padding: 0.5em; border: 1px solid rgb(0, 0, 0); border-image: none; border-collapse: collapse; min-height: 1em;"><div><span style="font-family: Segoe UI Semibold; font-size: small;">See also</span></div></td><td style="padding: 0.5em; border: 1px solid rgb(0, 0, 0); border-image: none; border-collapse: collapse; min-height: 1em;"><div><span style="font-size: small;"></span><span style="font-family: Segoe UI; font-size: small; mso-bidi-font-size: 11.0pt; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">References&nbsp;or links to more information about&nbsp;how to use the element. References or links to related elements.</span><span style="font-size: small;"></span></div></td></tr></tbody></table></div><p style="margin-left: 30px;"><span style="font-family: Segoe UI; font-size: small;"><br>If
+ you autogenerate reference documentation and comments&nbsp;from the 
+source code, review the quality and appropriateness of the 
+comments.&nbsp;Developers might leave out details that are important to 
+customers. Remove&nbsp;any implementation or internal details that 
+aren’t suitable&nbsp;for&nbsp;documentation. </span></p><p><span><span style="color: rgb(0, 0, 0); font-family: Segoe UI Semibold; font-size: small;">Learn more</span></span><span style="font-family: Segoe UI; font-size: small;"> For&nbsp;examples of technical reference topics, see the </span><a href="http://msdn.microsoft.com/en-us/library/gg145045.aspx" target="_blank"><span style="font-family: Segoe UI; font-size: small;">.NET&nbsp;Framework Class Library</span></a><span style="font-family: Segoe UI; font-size: small;"> section of the </span><a href="http://msdn.microsoft.com/library/" target="_blank"><span style="font-family: Segoe UI; font-size: small;">Microsoft Developer&nbsp;Network (MSDN) Library</span></a><span style="font-family: Segoe UI; font-size: small;">.</span></p></div>
+        
+        <br>
+        
+        
+
+</div></div>
+                <div class="activity-indicator centered" style="display: none;">
+                    <img src="reference-documentation_files/activity-large.gif" alt="In progress">
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
+<script id="navListTempl" type="text/x-jquery-tmpl" data-jsv-tmpl="_0">
+    <div class="topic-element" data-id="{{: StyleGuideTopicID}}" data-topicid="{{: TopicID}}" data-parenttopicid="{{: ParentTopicID}}" data-styleguideid="{{: StyleGuideID}}">
+        <div class="topic-menu" data-topicid="{{: TopicID}}">
+            <div class="menu-img-div" data-topicid="{{: TopicID}}">
+                <img tabindex="0" class="menu-img" data-topicid="{{: TopicID}}" data-parenttopicid="{{: ParentTopicID}}" src="/Content/Images/menu-normal.png" alt="Menu" />
+                <div tabindex="0" class="fl clickable topicNameView levelView{{: TopicLevel}}" data-id="{{: StyleGuideTopicID}}" data-topicid="{{: TopicID}}" title="{{: TopicName}}">{{: TopicName}}</div>
+            </div>
+            <div class="cl-b" data-topicid="{{: TopicID}}"></div>
+            <hr class="topicNavSeparator" data-topicid="{{: TopicID}}" />
+        </div>
+        
+        {{if ChildTopics}}
+        <div class="subTopics" style="padding-left: 0.8em; display: none;" data-parenttopicid="{{: TopicID}}">
+            {{for ChildTopics tmpl="#navListTempl" /}}
+        </div>
+        {{/if}}
+    </div>
+</script>
+
+
+<script id="topicContentTempl" type="text/x-jquery-tmpl" data-jsv-tmpl="_1">
+    <div class="topicView" data-id="{{: StyleGuideTopicID}}" data-topicid="{{: TopicID}}">
+        <div class="fl topicTitleView" data-id="{{: StyleGuideTopicID}}" data-topicid="{{: TopicID}}" title="{{: TopicName}}">{{: TopicName}}</div>
+        <div class="topicButtons">
+            <div tabindex="0" id="divCopyURL" title="Copy URL" class="clickable-div" data-topicid="{{: TopicID}}">
+                <img class="button-image" src="/Content/Images/Copy.png" alt="Copy URL" />
+                <span class="button-text">Copy URL</span>
+            </div>
+            <div tabindex="0" class="topicDownload clickable-div" data-id="{{: StyleGuideTopicID}}" data-topicid="{{: TopicID}}">
+                <img class="button-image" src="/Content/Images/Download.png" alt="Download" />
+                <div class="button-text">Download topic</div>
+            </div>
+        </div>
+        <div class="cl-b"></div>
+        <div class="editable" data-id="{{: StyleGuideTopicID}}" data-topicid="{{: TopicID}}">{{: TopicContent}}</div>
+        
+        <br />
+        
+        
+
+<script>
+    function copyTopicURL(topicElement, type, page,id) {
+        $("#txtTopicURL").val("");
+        var topicId = topicElement.attr('data-topicid');
+        
+        var topicURL = get_hostname(window.location.href) + '/' + type + '/' + page + '?id=' + id + '&topicid=' + topicId.toString();
+
+        $('#copyTopicURLSection').dialog({
+            autoOpen: false,
+            width: 950,
+            height: 200,
+            resizable: false,
+            title: 'Copy topic URL',
+            modal: true,
+            closeOnEscape: true,
+            draggable: true,
+            open: function () {
+                $(".ui-dialog-titlebar").attr('alt', 'Close');
+                $(".ui-dialog-titlebar-close").addClass('ui-dialog-titlebar-close-custom').attr('title', 'Close');
+                $("#txtTopicURL").val($(this).data('topicURL'));
+            },
+            buttons: [
+                {
+                    id: "btnCancelTag",
+                    text: "CLOSE",
+                    title: "close",
+                    "class": "button-add-disp",
+                    click: function () {
+                        $('#copyTopicURLSection').dialog('close');
+                    }
+                }
+            ]
+        });
+
+        $('#copyTopicURLSection')
+        .data({
+            'topicURL': topicURL
+        })
+        .dialog('open');
+
+        return false;
+    }
+</script>
+
+<div id="copyTopicURLSection" style="display: none;">
+    <br>
+    <div>URL : </div>
+    <br>
+    <input id="txtTopicURL" class="TopicURL" rows="5" onfocus="javascript:this.select();" type="text">
+</div>
+
+
+        <br>
+    </div>
+    <div class="cl-b"></div>
+
+
+<form action="/Search/Index" method="post" name="searchresults" id="searchresults" novalidate="novalidate">
+    <input name="searchTerm" id="searchTerm" value="" type="hidden">
+    <input name="styleguideIds" id="styleguideIds" value="2700" type="hidden">
+    <input name="fromURL" id="fromURL" value="styleguideread" type="hidden">
+</form>
+
+
+    
+    
+
+    
+    <script src="reference-documentation_files/viewStyleGuide.js"></script>
+    <link rel="stylesheet" type="text/css" href="reference-documentation_files/template.css">
+    <style>
+        .editable {
+            font-size: 12pt;
+            font-family: Segoe UI;
+        }
+
+        .main {
+            height: 50.2em;
+        }
+        p {
+        margin: 0 0 1em;
+        padding-left: 0.6em;
+    }
+    </style>
+
+     
+
+
+
+</body></html>

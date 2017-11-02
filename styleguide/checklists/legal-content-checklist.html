@@ -1,0 +1,384 @@
+<!DOCTYPE html>
+<html style="" class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients no-cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Microsoft Style Guides</title>
+    
+    <link href="https://worldready.cloudapp.net/Content/Images/styleguide_favicon.ico" rel="icon" type="image/x-icon">    
+    <link href="legal-content-checklist_files/css.css" rel="stylesheet">
+
+    <link href="legal-content-checklist_files/mastercss.css" rel="stylesheet">
+
+    <script src="legal-content-checklist_files/master"></script>
+
+
+</head>
+<body>
+    <noscript><div class="noscriptTag">Your browser does not support JavaScript. Please enable the Javascript.</div></noscript>
+    <input id="hdnloggeduserid" value="16406" type="hidden">
+    <div class="loadingicon" style="display: none;">
+        <div class="page-loading">Loading...</div>
+    </div>
+    <div class="body">
+
+        
+
+
+
+
+    </div>
+        
+    <div class="main">
+
+        
+
+
+<script>
+    $(document).ready(function () {
+        $('.viewStyleGuide').show();
+
+        buildNavMenu('2700', 'Microsoft Writing Style Guide', '26693');
+
+        $('.menu-img').live('click', function () {
+            subTopicToggle(this);
+        });
+
+        $(".menu-img").live('keydown', function (e) {
+            var event = e.KeyCode || e.which;
+            if (event == 13) {
+                subTopicToggle(this);
+            }
+        });
+
+        $('.topicNameView').live('click', function () {
+            var topicId = $(this).attr('data-topicid');
+            $('.topic-menu').each(function () {
+                if ($(this).hasClass('selectedDiv')) {
+                    $(this).removeClass('selectedDiv');
+                }
+            });
+
+            $('.topic-menu[data-topicid="' + topicId + '"]').addClass('selectedDiv');
+            var styleGuideId = $('.topic-element[data-topicid="' + topicId + '"]').attr('data-styleguideid');
+            getTopicData(topicId, styleGuideId);
+        });
+
+        $(".topicNameView").live('keydown', function (e) {
+            var event = e.KeyCode || e.which;
+            if (event == 13) {
+                var topicId = $(this).attr('data-topicid');
+                $('.topic-menu').each(function () {
+                    if ($(this).hasClass('selectedDiv')) {
+                        $(this).removeClass('selectedDiv');
+                    }
+                });
+
+                $('.topic-menu[data-topicid="' + topicId + '"]').addClass('selectedDiv');
+                var styleGuideId = $('.topic-element[data-topicid="' + topicId + '"]').attr('data-styleguideid');
+                getTopicData(topicId, styleGuideId);
+            }
+        });
+
+        $('#sgDownload').live('click', function () {
+            var styleGuideId = $('#sgDownload').attr('data-styleguideid');
+            window.location = '/StyleGuide/DownloadStyleGuide?styleGuideId=' + styleGuideId + '&styleGuideDraftId=' + 0 + '&isEdit=0';
+            return false;
+        });
+
+        $("#sgDownload").live('keydown', function (e) {
+            var event = e.KeyCode || e.which;
+            if (event == 13) {
+                var styleGuideId = $('#sgDownload').attr('data-styleguideid');
+                window.location = '/StyleGuide/DownloadStyleGuide?styleGuideId=' + styleGuideId + '&styleGuideDraftId=' + 0 + '&isEdit=0';
+                return false;
+            }
+        });
+
+        $('#sgEditStyleGuide').live('click', function () {
+            var styleGuideId = $('#sgEditStyleGuide').attr('data-styleguideid');
+            window.location = '/StyleGuide/Edit?id=' + styleGuideId + '';
+            return false;
+        });
+
+        $("#sgEditStyleGuide").live('keydown', function (e) {
+            var event = e.KeyCode || e.which;
+            if (event == 13) {
+                var styleGuideId = $('#sgEditStyleGuide').attr('data-styleguideid');
+                window.location = '/StyleGuide/Edit?id=' + styleGuideId + '';
+                return false;
+            }
+        });
+
+        $('.topicDownload').live('click', function () {
+            downloadTopic(this);
+        });
+
+        $('.topicEdit').live('click', function () {
+            var topicId = $(this).attr('data-topicid');
+            var topicElem = $('.topic-element[data-topicid="' + topicId + '"]');
+            var styleGuideId = $('.navigationTitleView').attr('data-styleguideid');
+
+            window.location = '/StyleGuide/Edit?Id=' + styleGuideId + '&topicId=' + topicId + '&styleGuideDraftId=' + 0 + '&isEdit=1';
+            return false;
+        });
+
+        $('#divCopyURL').live('click', function () {
+            copyTopicURL($(this), 'Styleguide', 'Read', '2700');
+        });
+
+        $('#divCopyURL').live('keydown', function (e) {
+            var event = e.KeyCode || e.which;
+            if (event == 13) {
+                copyTopicURL($(this), 'Styleguide', 'Read', '2700');
+            }
+        });
+
+        $('.topicDownload').live('keydown', function (e) {
+            var event = e.KeyCode || e.which;
+            if (event == 13) {
+                downloadTopic(this);
+            }
+        });
+
+        $('.topicEdit').live('keydown', function (e) {
+            var event = e.KeyCode || e.which;
+            if (event == 13) {
+                editTopic(this);
+            }
+        });
+        hideLoadingIcon();
+        $('.navigationTitleView').focus();
+    });
+
+    function SearchTopic() {
+        var searchTerm = $("#searchTopic").val().trim();
+        if (searchTerm != "") {
+            //if (searchTerm.length > 2)
+            //{
+            $("#searchTerm").val(searchTerm);
+            $("#searchresults").submit();
+            //}
+            //else
+            //{
+            //    alert('ERROR: Invalid search entry!\n\n'
+            //        +' Search entries must be between 3 and 255 characters and may only'
+            //        + ' contain alphanumeric characters, quotation marks, and minus signs.');
+            //    return false;
+            //}
+        }
+        else {
+            alert('Please enter a keyword to search');
+            return false;
+        }
+    }
+
+    function clickSearchButton(e) {
+        var evt = e ? e : window.event;
+        if (evt.keyCode == 13) {
+            SearchTopic();
+            return false;
+        }
+    }
+
+</script>
+
+<div class="viewStyleGuide" style="">
+    <div id="container2">
+        <div id="container1">
+            
+            <div class="topicContent">
+                
+                <div class="cl-b"></div>
+                <div id="topicInfo">
+    <div class="topicView" data-id="35019" data-topicid="26693">
+        <div class="fl topicTitleView" data-id="35019" data-topicid="26693" title="Legal content checklist">Legal content checklist</div>
+        <div class="topicButtons">
+            <div tabindex="0" id="divCopyURL" title="Copy URL" class="clickable-div" data-topicid="26693">
+                <img class="button-image" src="legal-content-checklist_files/Copy.png" alt="Copy URL">
+                <span class="button-text">Copy URL</span>
+            </div>
+            <div tabindex="0" class="topicDownload clickable-div" data-id="35019" data-topicid="26693">
+                <img class="button-image" src="legal-content-checklist_files/Download.png" alt="Download">
+                <div class="button-text">Download topic</div>
+            </div>
+        </div>
+        <div class="cl-b"></div>
+        <div class="editable" data-id="35019" data-topicid="26693"><p><span style="font-size:small;">Knowing
+ and following Microsoft’s legal standards in content&nbsp;helps protect
+ our intellectual property and minimizes legal risks. This checklist 
+provides an overview of the most common legal issues in content. </span><span style="font-size:small;">For&nbsp;complete informatio</span><span style="font-size:small;">n, visit </span><a href="https://microsoft.sharepoint.com/sites/lcaweb/home" target="_blank"><span style="font-size:small;"></span></a><a href="https://microsoft.sharepoint.com/sites/lcaweb/home" target="_blank"><span style="font-size:small;"></span></a><a href="https://microsoft.sharepoint.com/sites/lcaweb/home" target="_blank"><span style="font-size:small;">CELAWeb</span></a><em><span style="font-size:small;">. </span></em><span style="font-family:Segoe UI;font-size:small;">(This</span><span style="font-family:Segoe UI;font-size:small;">&nbsp;site requires Microsoft network access.) </span><span><span style="font-size:small;">If you still have questions, contact</span><em> </em></span><a href="https://microsoft.sharepoint.com/sites/lcaweb/Pages/Applications/LegalContact.aspx" target="_blank"><span style="font-size:small;">your group’s paralegal</span></a><em><span style="font-size:small;">.&nbsp;</span></em><span style="font-family:Segoe UI;font-size:small;">(This&nbsp;page requires Microsoft network access.)</span></p><h4><span style="color:#000000;font-family:Segoe UI Semibold;font-size:small;">Legal issues and content</span></h4><ul><li><span style="font-size:small;">Review&nbsp;</span><a href="https://microsoft.sharepoint.com/sites/LCAWeb/Home/Marketing/Social-Media/Social-Media-Guidelines" target="_blank"><span style="font-size:small;">Guidelines&nbsp;for engaging with social media</span></a><span style="font-size:small;"> before you post, tweet, pin, or otherwise participate&nbsp;in social media sites. </span><span style="font-family:Segoe UI;font-size:small;">(This&nbsp;page requires Microsoft network access.)</span></li><li><span style="font-size:small;">Use&nbsp;the checklists on the </span><a href="https://microsoft.sharepoint.com/sites/lcaweb/Home/Marketing/Checklists" target="_blank"><span style="font-size:small;">Marketing&nbsp;self-service page</span></a><span style="font-size:small;">
+ to make sure you’ve covered all legal bases for specific&nbsp;types of 
+content, including blogs, email, presentations, training 
+material,&nbsp;websites, white papers, and more. </span><span style="font-family:Segoe UI;font-size:small;">(This&nbsp;site requires Microsoft network access.)</span></li><li><span style="font-family:Segoe UI;font-size:small;">Certain words, including <em>bundle, exclusive, free,</em> and <em>new,</em> have specific legal meanings. Review </span><a href="https://microsoft.sharepoint.com/sites/lcaweb/Home/Marketing/Marketing-and-Advertising-Content/Red-Flag-Terms" target="_blank"><span style="font-family:Segoe UI;font-size:small;"><span style="color:#0066cc;">Red flag terms&nbsp;in advertising and marketing</span></span></a><span style="font-family:Segoe UI;font-size:small;"> for the full list of these words and how to use them. </span><span style="font-family:Segoe UI;font-size:small;">(This&nbsp;page requires Microsoft network access.)</span><span style="font-size:small;"></span></li></ul><h4><span style="color:#000000;font-family:Segoe UI Semibold;font-size:small;">Copyrights and trademarks </span></h4><ul><li><span style="font-size:small;">Host&nbsp;websites
+ and blogs on Microsoft.com, where copyright and trademark 
+requirements&nbsp;and other legal requirements are covered in the 
+standard page footer. </span></li><li><span style="font-size:small;">Include&nbsp;a copyright notice on most downloadable or printed content (except marketing&nbsp;materials and press releases). </span><a href="https://microsoft.sharepoint.com/sites/lcaweb/Home/Copyrights-Trademarks-and-Patents/Copyrights/Legal-Notices" target="_blank"><span style="font-size:small;">Learn&nbsp;more.</span></a> <span style="font-family:Segoe UI;font-size:small;">(This&nbsp;page requires Microsoft network access.)</span></li><li><span style="font-size:small;">Don’t
+ use quotations, photos or other images, songs, or&nbsp;bits of text 
+that aren't owned by Microsoft without permission or a 
+license.&nbsp;When you do use copyrighted information, quote it exactly 
+and cite it&nbsp;correctly. </span><a href="https://microsoft.sharepoint.com/sites/lcaweb/Home/Marketing/Marketing-and-Advertising-Content/Photos-and-Other-Media" target="_blank"><span style="font-size:small;">Learn&nbsp;more.</span></a>&nbsp;<span style="font-family:Segoe UI;font-size:small;">(This&nbsp;page requires Microsoft network access.)</span></li><li><span style="font-size:small;">Before&nbsp;distributing
+ content or software globally, make sure Microsoft 
+has&nbsp;international distribution rights and that royalties aren't 
+affected by international&nbsp;distribution. </span></li><li><span style="font-size:small;">Protect&nbsp;Microsoft
+ brands by using approved product and service names, even if the 
+name&nbsp;isn’t trademarked. Always spell out a trademarked name, and 
+don’t use it as a&nbsp;possessive, plural, or&nbsp;verb. </span><a href="https://microsoft.sharepoint.com/sites/lcaweb/home/copyrights-trademarks-and-patents/trademarks/trademark-list-and-usage" target="_blank"><span style="font-size:small;">Learn&nbsp;more.</span></a>&nbsp;<span style="font-family:Segoe UI;font-size:small;">(This&nbsp;page requires Microsoft network access.)</span></li><li><span style="font-size:small;">Only&nbsp;attribute (include a symbol and footnote) third-party trademarks if a specific contract&nbsp;requires it. </span></li><li><span style="font-size:small;">Get&nbsp;approval from a&nbsp;</span><a href="https://microsoft.sharepoint.com/sites/LCAWeb/Home/Copyrights-Trademarks-and-Patents/Trademarks/Contacts" target="_blank"><span style="font-size:small;">trademark licensing&nbsp;paralegal</span></a><span style="font-size:small;"> before using third-party logos. </span><span style="font-family:Segoe UI;font-size:small;">(This&nbsp;page requires Microsoft network access.)</span></li></ul><h4><span style="color:#000000;font-family:Segoe UI Semibold;font-size:small;">Fictitious names, domains, and addresses</span></h4><ul><li><span style="font-size:small;">If&nbsp;you
+ need fictitious names of people, businesses, or products&nbsp;in 
+your&nbsp;content, get them from the CELA-approved list. </span><a href="https://microsoft.sharepoint.com/sites/LCAWeb/Home/Copyrights-Trademarks-and-Patents/Trademarks/Fictitious-Names" target="_blank"><span style="font-size:small;">Learn&nbsp;more.</span></a>&nbsp;<span style="font-family:Segoe UI;font-size:small;">(This&nbsp;page requires Microsoft network access.)</span></li><li><span style="font-size:small;">Before&nbsp;you
+ create new fictitious names, see if you meet the requirements, and 
+then&nbsp;request approval from the trademark group. </span><a href="https://microsoft.sharepoint.com/sites/LCAWeb/Home/Copyrights-Trademarks-and-Patents/Trademarks/Fictitious-Names" target="_blank"><span style="font-size:small;">Learn&nbsp;more.</span></a>&nbsp;<span style="font-family:Segoe UI;font-size:small;">(This&nbsp;page requires Microsoft network access.)</span></li><li><span style="font-size:small;">Use&nbsp;the guidance on CELAWeb to create fictitious addresses, phone numbers, and email&nbsp;addresses. </span><a href="https://microsoft.sharepoint.com/sites/LCAWeb/Home/Copyrights-Trademarks-and-Patents/Trademarks/Fictitious-Names" target="_blank"><span style="font-size:small;">Learn&nbsp;more.</span></a>&nbsp;<span style="font-family:Segoe UI;font-size:small;">(This&nbsp;page requires Microsoft network access.)</span></li><li><span style="font-size:small;">Use&nbsp;Example.com,&nbsp;Example.org,
+ or Example.net as generic domain names, or use&nbsp;Microsoft.com or 
+your product's home page URL.</span></li></ul><h4><span style="color:#000000;font-family:Segoe UI Semibold;font-size:small;">Downloadable software </span></h4><ul><li><span style="font-size:small;">Make&nbsp;sure
+ you have legal distribution rights and distribution is appropriate 
+and&nbsp;permissible from a business standpoint. </span><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=26698"><span style="font-size:small;">Learn&nbsp;more</span></a>.</li><li><span style="font-size:small;">Include&nbsp;disclaimers, disclosures, and Microsoft Software License Terms. Check with </span><a href="https://microsoft.sharepoint.com/sites/lcaweb/Pages/Applications/LegalContact.aspx" target="_blank"><span style="font-size:small;">your&nbsp;group’s paralegal</span></a><span style="font-size:small;"> to learn more. </span><span style="font-family:Segoe UI;font-size:small;">(This&nbsp;page requires Microsoft network access.)</span></li><li><span style="font-size:small;">US
+ laws restrict the delivery of certain information and technology 
+internationally. Verify that providing the download won’t 
+break&nbsp;US&nbsp;laws.</span></li><li><span style="font-size:small;">Before&nbsp;distributing downloadable software or content internationally, check for any worldwide legal issues. </span><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=26917"><span style="font-size:small;">Learn&nbsp;more</span></a>.<span></span></li></ul><h4></h4></div>
+        
+        <br>
+        
+        
+
+</div></div>
+                <div class="activity-indicator centered" style="display: none;">
+                    <img src="legal-content-checklist_files/activity-large.gif" alt="In progress">
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
+<script id="navListTempl" type="text/x-jquery-tmpl" data-jsv-tmpl="_0">
+    <div class="topic-element" data-id="{{: StyleGuideTopicID}}" data-topicid="{{: TopicID}}" data-parenttopicid="{{: ParentTopicID}}" data-styleguideid="{{: StyleGuideID}}">
+        <div class="topic-menu" data-topicid="{{: TopicID}}">
+            <div class="menu-img-div" data-topicid="{{: TopicID}}">
+                <img tabindex="0" class="menu-img" data-topicid="{{: TopicID}}" data-parenttopicid="{{: ParentTopicID}}" src="/Content/Images/menu-normal.png" alt="Menu" />
+                <div tabindex="0" class="fl clickable topicNameView levelView{{: TopicLevel}}" data-id="{{: StyleGuideTopicID}}" data-topicid="{{: TopicID}}" title="{{: TopicName}}">{{: TopicName}}</div>
+            </div>
+            <div class="cl-b" data-topicid="{{: TopicID}}"></div>
+            <hr class="topicNavSeparator" data-topicid="{{: TopicID}}" />
+        </div>
+        
+        {{if ChildTopics}}
+        <div class="subTopics" style="padding-left: 0.8em; display: none;" data-parenttopicid="{{: TopicID}}">
+            {{for ChildTopics tmpl="#navListTempl" /}}
+        </div>
+        {{/if}}
+    </div>
+</script>
+
+
+<script id="topicContentTempl" type="text/x-jquery-tmpl" data-jsv-tmpl="_1">
+    <div class="topicView" data-id="{{: StyleGuideTopicID}}" data-topicid="{{: TopicID}}">
+        <div class="fl topicTitleView" data-id="{{: StyleGuideTopicID}}" data-topicid="{{: TopicID}}" title="{{: TopicName}}">{{: TopicName}}</div>
+        <div class="topicButtons">
+            <div tabindex="0" id="divCopyURL" title="Copy URL" class="clickable-div" data-topicid="{{: TopicID}}">
+                <img class="button-image" src="/Content/Images/Copy.png" alt="Copy URL" />
+                <span class="button-text">Copy URL</span>
+            </div>
+            <div tabindex="0" class="topicDownload clickable-div" data-id="{{: StyleGuideTopicID}}" data-topicid="{{: TopicID}}">
+                <img class="button-image" src="/Content/Images/Download.png" alt="Download" />
+                <div class="button-text">Download topic</div>
+            </div>
+        </div>
+        <div class="cl-b"></div>
+        <div class="editable" data-id="{{: StyleGuideTopicID}}" data-topicid="{{: TopicID}}">{{: TopicContent}}</div>
+        
+        <br />
+        
+        
+
+<script>
+    function copyTopicURL(topicElement, type, page,id) {
+        $("#txtTopicURL").val("");
+        var topicId = topicElement.attr('data-topicid');
+        
+        var topicURL = get_hostname(window.location.href) + '/' + type + '/' + page + '?id=' + id + '&topicid=' + topicId.toString();
+
+        $('#copyTopicURLSection').dialog({
+            autoOpen: false,
+            width: 950,
+            height: 200,
+            resizable: false,
+            title: 'Copy topic URL',
+            modal: true,
+            closeOnEscape: true,
+            draggable: true,
+            open: function () {
+                $(".ui-dialog-titlebar").attr('alt', 'Close');
+                $(".ui-dialog-titlebar-close").addClass('ui-dialog-titlebar-close-custom').attr('title', 'Close');
+                $("#txtTopicURL").val($(this).data('topicURL'));
+            },
+            buttons: [
+                {
+                    id: "btnCancelTag",
+                    text: "CLOSE",
+                    title: "close",
+                    "class": "button-add-disp",
+                    click: function () {
+                        $('#copyTopicURLSection').dialog('close');
+                    }
+                }
+            ]
+        });
+
+        $('#copyTopicURLSection')
+        .data({
+            'topicURL': topicURL
+        })
+        .dialog('open');
+
+        return false;
+    }
+</script>
+
+<div id="copyTopicURLSection" style="display: none;">
+    <br>
+    <div>URL : </div>
+    <br>
+    <input id="txtTopicURL" class="TopicURL" rows="5" onfocus="javascript:this.select();" type="text">
+</div>
+
+
+        <br>
+    </div>
+    <div class="cl-b"></div>
+
+
+<form action="/Search/Index" method="post" name="searchresults" id="searchresults" novalidate="novalidate">
+    <input name="searchTerm" id="searchTerm" value="" type="hidden">
+    <input name="styleguideIds" id="styleguideIds" value="2700" type="hidden">
+    <input name="fromURL" id="fromURL" value="styleguideread" type="hidden">
+</form>
+
+
+    
+    
+
+    
+    <script src="legal-content-checklist_files/viewStyleGuide.js"></script>
+    <link rel="stylesheet" type="text/css" href="legal-content-checklist_files/template.css">
+    <style>
+        .editable {
+            font-size: 12pt;
+            font-family: Segoe UI;
+        }
+
+        .main {
+            height: 50.2em;
+        }
+        p {
+        margin: 0 0 1em;
+        padding-left: 0.6em;
+    }
+    </style>
+
+     
+
+
+
+</body></html>

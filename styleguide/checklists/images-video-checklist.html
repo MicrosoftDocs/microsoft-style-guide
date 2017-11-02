@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html style="" class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients no-cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Microsoft Style Guides</title>
+    
+    <link href="https://worldready.cloudapp.net/Content/Images/styleguide_favicon.ico" rel="icon" type="image/x-icon">    
+    <link href="images-video-checklist_files/css.css" rel="stylesheet">
+
+    <link href="images-video-checklist_files/mastercss.css" rel="stylesheet">
+
+    <script src="images-video-checklist_files/master"></script>
+
+
+</head>
+<body>
+    <noscript><div class="noscriptTag">Your browser does not support JavaScript. Please enable the Javascript.</div></noscript>
+    <input id="hdnloggeduserid" value="16406" type="hidden">
+    <div class="loadingicon" style="display: none;">
+        <div class="page-loading">Loading...</div>
+    </div>
+    <div class="body">
+
+        
+
+
+
+
+    </div>
+        
+    <div class="main">
+
+        
+
+
+<script>
+    $(document).ready(function () {
+        $('.viewStyleGuide').show();
+
+        buildNavMenu('2700', 'Microsoft Writing Style Guide', '36701');
+
+        $('.menu-img').live('click', function () {
+            subTopicToggle(this);
+        });
+
+        $(".menu-img").live('keydown', function (e) {
+            var event = e.KeyCode || e.which;
+            if (event == 13) {
+                subTopicToggle(this);
+            }
+        });
+
+        $('.topicNameView').live('click', function () {
+            var topicId = $(this).attr('data-topicid');
+            $('.topic-menu').each(function () {
+                if ($(this).hasClass('selectedDiv')) {
+                    $(this).removeClass('selectedDiv');
+                }
+            });
+
+            $('.topic-menu[data-topicid="' + topicId + '"]').addClass('selectedDiv');
+            var styleGuideId = $('.topic-element[data-topicid="' + topicId + '"]').attr('data-styleguideid');
+            getTopicData(topicId, styleGuideId);
+        });
+
+        $(".topicNameView").live('keydown', function (e) {
+            var event = e.KeyCode || e.which;
+            if (event == 13) {
+                var topicId = $(this).attr('data-topicid');
+                $('.topic-menu').each(function () {
+                    if ($(this).hasClass('selectedDiv')) {
+                        $(this).removeClass('selectedDiv');
+                    }
+                });
+
+                $('.topic-menu[data-topicid="' + topicId + '"]').addClass('selectedDiv');
+                var styleGuideId = $('.topic-element[data-topicid="' + topicId + '"]').attr('data-styleguideid');
+                getTopicData(topicId, styleGuideId);
+            }
+        });
+
+        $('#sgDownload').live('click', function () {
+            var styleGuideId = $('#sgDownload').attr('data-styleguideid');
+            window.location = '/StyleGuide/DownloadStyleGuide?styleGuideId=' + styleGuideId + '&styleGuideDraftId=' + 0 + '&isEdit=0';
+            return false;
+        });
+
+        $("#sgDownload").live('keydown', function (e) {
+            var event = e.KeyCode || e.which;
+            if (event == 13) {
+                var styleGuideId = $('#sgDownload').attr('data-styleguideid');
+                window.location = '/StyleGuide/DownloadStyleGuide?styleGuideId=' + styleGuideId + '&styleGuideDraftId=' + 0 + '&isEdit=0';
+                return false;
+            }
+        });
+
+        $('#sgEditStyleGuide').live('click', function () {
+            var styleGuideId = $('#sgEditStyleGuide').attr('data-styleguideid');
+            window.location = '/StyleGuide/Edit?id=' + styleGuideId + '';
+            return false;
+        });
+
+        $("#sgEditStyleGuide").live('keydown', function (e) {
+            var event = e.KeyCode || e.which;
+            if (event == 13) {
+                var styleGuideId = $('#sgEditStyleGuide').attr('data-styleguideid');
+                window.location = '/StyleGuide/Edit?id=' + styleGuideId + '';
+                return false;
+            }
+        });
+
+        $('.topicDownload').live('click', function () {
+            downloadTopic(this);
+        });
+
+        $('.topicEdit').live('click', function () {
+            var topicId = $(this).attr('data-topicid');
+            var topicElem = $('.topic-element[data-topicid="' + topicId + '"]');
+            var styleGuideId = $('.navigationTitleView').attr('data-styleguideid');
+
+            window.location = '/StyleGuide/Edit?Id=' + styleGuideId + '&topicId=' + topicId + '&styleGuideDraftId=' + 0 + '&isEdit=1';
+            return false;
+        });
+
+        $('#divCopyURL').live('click', function () {
+            copyTopicURL($(this), 'Styleguide', 'Read', '2700');
+        });
+
+        $('#divCopyURL').live('keydown', function (e) {
+            var event = e.KeyCode || e.which;
+            if (event == 13) {
+                copyTopicURL($(this), 'Styleguide', 'Read', '2700');
+            }
+        });
+
+        $('.topicDownload').live('keydown', function (e) {
+            var event = e.KeyCode || e.which;
+            if (event == 13) {
+                downloadTopic(this);
+            }
+        });
+
+        $('.topicEdit').live('keydown', function (e) {
+            var event = e.KeyCode || e.which;
+            if (event == 13) {
+                editTopic(this);
+            }
+        });
+        hideLoadingIcon();
+        $('.navigationTitleView').focus();
+    });
+
+    function SearchTopic() {
+        var searchTerm = $("#searchTopic").val().trim();
+        if (searchTerm != "") {
+            //if (searchTerm.length > 2)
+            //{
+            $("#searchTerm").val(searchTerm);
+            $("#searchresults").submit();
+            //}
+            //else
+            //{
+            //    alert('ERROR: Invalid search entry!\n\n'
+            //        +' Search entries must be between 3 and 255 characters and may only'
+            //        + ' contain alphanumeric characters, quotation marks, and minus signs.');
+            //    return false;
+            //}
+        }
+        else {
+            alert('Please enter a keyword to search');
+            return false;
+        }
+    }
+
+    function clickSearchButton(e) {
+        var evt = e ? e : window.event;
+        if (evt.keyCode == 13) {
+            SearchTopic();
+            return false;
+        }
+    }
+
+</script>
+
+<div class="viewStyleGuide" style="">
+    <div id="container2">
+        <div id="container1">
+            
+            <div class="topicContent">
+                
+                <div class="cl-b"></div>
+                <div id="topicInfo">
+    <div class="topicView" data-id="52549" data-topicid="36701">
+        <div class="fl topicTitleView" data-id="52549" data-topicid="36701" title="Images and video checklist">Images and video checklist</div>
+        <div class="topicButtons">
+            <div tabindex="0" id="divCopyURL" title="Copy URL" class="clickable-div" data-topicid="36701">
+                <img class="button-image" src="images-video-checklist_files/Copy.png" alt="Copy URL">
+                <span class="button-text">Copy URL</span>
+            </div>
+            <div tabindex="0" class="topicDownload clickable-div" data-id="52549" data-topicid="36701">
+                <img class="button-image" src="images-video-checklist_files/Download.png" alt="Download">
+                <div class="button-text">Download topic</div>
+            </div>
+        </div>
+        <div class="cl-b"></div>
+        <div class="editable" data-id="52549" data-topicid="36701"><p style="font-size:12px;"><span style="font-family:'Segoe UI';font-size:small;">Before using images in content, familiarize yourself with the guidelines for&nbsp;</span><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=26708"><span style="font-family:'Segoe UI';font-size:small;">bias-free communication</span></a><span style="font-family:'Segoe UI';font-size:small;">;&nbsp;</span><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=26700"><span style="font-family:'Segoe UI';font-size:small;">accessible graphics, design, and media</span></a><span style="font-family:'Segoe UI';font-size:small;">; and&nbsp;</span><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=26696"><span style="font-family:'Segoe UI';font-size:small;">copyrights and trademarks</span></a><span style="font-family:'Segoe UI';font-size:small;">.</span></p><ul><li><span style="font-family:'Segoe UI';font-size:small;">If
+ you include text in an image file, make sure it’s easy to edit the 
+text, in case the content is localized. (Screenshots are an exception.)</span></li><li><span style="font-family:'Segoe UI';font-size:small;">If text will overlay images, make sure the text won't obscure any important detail.</span></li><li><span style="font-family:'Segoe UI';font-size:small;">Crop images to eliminate unnecessary detail.</span></li><li><span style="font-family:'Segoe UI';font-size:small;">Make sure you have legal permission to use images. If you’re unsure, reach out to&nbsp;</span><a href="https://microsoft.sharepoint.com/sites/lcaweb/Pages/Applications/LegalContact.aspx" target="_blank"><span style="background:white;font-family:'Segoe UI';font-size:small;">your group’s paralegal</span></a><span style="font-family:'Segoe UI';font-size:small;">. </span><span style="font-family:Segoe UI;font-size:small;">(This&nbsp;page requires Microsoft network access.)</span></li><li><span style="font-family:'Segoe UI';font-size:small;">Describe images using captions or alt text if they convey important information.</span></li></ul><h4><span style="font-family:Segoe UI Semibold;font-size:small;">Photos</span><span style="font-family:'Segoe UI';font-size:small;"><br></span></h4><p><span style="font-family:'Segoe UI';font-size:small;">Use photos that are authentic, optimistic, and brave. </span></p><ul><li><span style="font-family:'Segoe UI';font-size:small;">Avoid purchasing photos—look in the&nbsp;</span><a href="https://microsoft.sharepoint.com/teams/BrandCentral/Search/pages/BCPhotographyResults.aspx" target="_blank"><span style="font-family:'Segoe UI';font-size:small;">Microsoft photo library</span></a><span style="font-family:'Segoe UI';font-size:small;">&nbsp;first. </span><span style="font-family:Segoe UI;font-size:small;">(This&nbsp;site requires Microsoft network access.)</span></li><li><span style="font-family:'Segoe UI';font-size:small;">W</span><span style="font-family:'Segoe UI';font-size:small;">hen you must create or purchase photos, follow the&nbsp;</span><a href="https://microsoft.sharepoint.com/teams/BrandCentral/Pages/The-Microsoft-brand-Core-elements-Photography.aspx" target="_blank"><span style="font-family:'Segoe UI';font-size:small;">Microsoft brand guidelines</span></a><span style="font-family:'Segoe UI';font-size:small;">. </span><span style="font-family:Segoe UI;font-size:small;">(This&nbsp;site requires Microsoft network access.)</span></li></ul><p><span style="color:#000000;font-family:Segoe UI Semibold;font-size:small;">&nbsp;&nbsp;&nbsp;&nbsp; Learn more </span><span style="font-size:small;">about <a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=36403">photos</a>.</span></p><h4><span style="font-family:Segoe UI Semibold;font-size:small;">Illustrations</span></h4><p><span style="font-family:'Segoe UI';font-size:small;">Use vividly colored illustrations, stylized with active geometry, that tell an engaging story. </span></p><ul><li><span style="font-family:'Segoe UI';font-size:small;">If possible, use illustrations from the&nbsp;</span><a href="https://microsoft.sharepoint.com/teams/BrandCentral/Pages/Bundles/Illustrations_Editable_AllCollections.aspx" target="_blank"><span style="font-family:'Segoe UI';font-size:small;">Microsoft illustration library</span></a><span style="font-family:'Segoe UI';font-size:small;">. </span><span style="font-family:Segoe UI;font-size:small;">(This&nbsp;site requires Microsoft network access.)</span></li><li><span style="font-family:'Segoe UI';font-size:small;">When you must create or purchase illustrations, follow the&nbsp;</span><a href="https://microsoft.sharepoint.com/teams/BrandCentral/Pages/The-Microsoft-brand-Core-elements-Illustration.aspx" target="_blank"><span style="font-family:'Segoe UI';font-size:small;">Microsoft brand guidelines</span></a><span style="font-family:'Segoe UI';font-size:small;">. </span><span style="font-family:Segoe UI;font-size:small;">(This site requires Microsoft network access.)</span></li></ul><p><span style="color:#000000;font-family:Segoe UI Semibold;font-size:small;">&nbsp;&nbsp;&nbsp; Learn more </span><span style="font-size:small;">about <a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=36404">illustrations</a><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=36403" target="_blank"></a>.</span></p><h4><span style="font-family:Segoe UI Semibold;font-size:small;">Screenshots</span></h4><p><span style="font-family:'Segoe UI';font-size:small;">Use screenshots sparingly to simplify complex procedures or concepts. </span></p><ul><li><span style="font-family:'Segoe UI';font-size:small;">Follow the guidance for&nbsp;</span><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=26697"><span style="font-family:'Segoe UI';font-size:small;">fictitious names, domains, and addresses</span></a><span style="font-family:'Segoe UI';font-size:small;">. </span></li><li><span style="font-family:'Segoe UI';font-size:small;">Show only the portion of the screen&nbsp;that's necessary to explain the concept or procedure.</span></li><li><span style="font-family:'Segoe UI';font-size:small;">Accompany each screenshot with a caption or other text that reflects Microsoft voice and editorial style. </span></li><li><span style="font-family:'Segoe UI';font-size:small;">Give&nbsp;your localization team or vendor the files and details they need to re-create the screenshot.</span></li></ul><span style="font-family:'Segoe UI';font-size:small;"></span><p><span style="color:#000000;font-family:Segoe UI Semibold;font-size:small;">&nbsp;&nbsp; Learn more </span><span style="font-size:small;">about <a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=36405">screenshots</a><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=36404" target="_blank"></a>.</span></p><h4><span class="TextRun SCX235071348" style="line-height:16px;font-family:Segoe UI Light,Sans-Serif;font-size:9pt;" xml:lang="EN-US"><span class="NormalTextRun SCX235071348" style="font-family:Segoe UI Semibold;font-size:small;background-color:inherit;">Network traffic flows</span></span></h4><div class="OutlineElement Ltr SCX235071348" style="text-indent:0px;margin-left:0px;"><p class="Paragraph SCX235071348" paraeid="{8f91ab79-d9b7-458b-bd77-65c4815febe4}{119}" paraid="2077941907" style="text-align:left;color:windowtext;text-indent:0px;font-family:'Segoe UI',Tahoma,Verdana,'Sans-Serif';font-size:6pt;font-style:normal;font-weight:normal;margin-right:0px;vertical-align:baseline;background-color:transparent;"><span class="TextRun SCX235071348" style="line-height:16px;font-family:Segoe UI Light,Sans-Serif;font-size:9pt;" xml:lang="EN-US"><span class="NormalTextRun SCX235071348" style="font-family:Segoe UI;font-size:small;background-color:inherit;">Illustrate network traffic consistently.</span></span></p></div><ul><li><span class="TextRun SCX235071348" style="line-height:15px;font-family:Segoe UI Light,Sans-Serif;font-size:9pt;" xml:lang="EN-US"><span class="NormalTextRun SCX235071348" style="font-family:Segoe UI;font-size:small;background-color:inherit;">Provide a legend explaining the visual conventions used.</span></span></li><li><span class="TextRun SCX235071348" style="line-height:15px;font-family:Segoe UI Light,Sans-Serif;font-size:9pt;" xml:lang="EN-US"></span><span class="TextRun SCX235071348" style="line-height:15px;font-family:Segoe UI Light,Sans-Serif;font-size:9pt;" xml:lang="EN-US"><span class="NormalTextRun SCX235071348" style="font-family:Segoe UI;font-size:small;background-color:inherit;">Represent one-way communication with </span></span><span class="TextRun SCX235071348" style="line-height:15px;font-family:Segoe UI Light,Sans-Serif;font-size:9pt;" xml:lang="EN-US"><span class="NormalTextRun SCX235071348" style="font-family:Segoe UI;font-size:small;background-color:inherit;">single-headed </span></span><span class="TextRun SCX235071348" style="line-height:15px;font-family:Segoe UI Light,Sans-Serif;font-size:9pt;" xml:lang="EN-US"><span class="NormalTextRun SCX235071348" style="font-family:Segoe UI;font-size:small;background-color:inherit;">arrows and two-way communication with </span></span><span class="TextRun SCX235071348" style="line-height:15px;font-family:Segoe UI Light,Sans-Serif;font-size:9pt;" xml:lang="EN-US"><span class="NormalTextRun SCX235071348" style="font-family:Segoe UI;font-size:small;background-color:inherit;">double-headed </span></span><span class="TextRun SCX235071348" style="line-height:15px;font-family:Segoe UI Light,Sans-Serif;font-size:9pt;" xml:lang="EN-US"><span class="NormalTextRun SCX235071348" style="font-family:Segoe UI;font-size:small;background-color:inherit;">arrows</span></span><span class="TextRun SCX235071348" style="line-height:15px;font-family:Segoe UI Light,Sans-Serif;font-size:9pt;" xml:lang="EN-US"><span class="NormalTextRun SCX235071348" style="font-family:Segoe UI;font-size:small;background-color:inherit;">.</span></span></li><li><span class="TextRun SCX235071348" style="line-height:15px;font-family:Segoe UI Light,Sans-Serif;font-size:9pt;" xml:lang="EN-US"></span><span class="TextRun SCX235071348" style="line-height:15px;font-family:Segoe UI Light,Sans-Serif;font-size:9pt;" xml:lang="EN-US"><span class="NormalTextRun SCX235071348" style="font-family:Segoe UI;font-size:small;background-color:inherit;">Use sentence-style capitalization, not all&nbsp;uppercase or title-style capitalization. To learn more, see </span></span><a class="Hyperlink SCX235071348" href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=33685" style="color:inherit;text-decoration:none;"><span class="TextRun Underlined SCX235071348" style="color:#0000ff;line-height:15px;font-family:Segoe UI Light,Sans-Serif;font-size:9pt;text-decoration:underline;" xml:lang="EN-US"><span class="NormalTextRun SCX235071348" style="font-family:Segoe UI;font-size:small;background-color:inherit;">Capitalization</span></span></a><span style="font-family:Segoe UI;font-size:small;">.</span></li><li><span class="TextRun SCX235071348" style="line-height:15px;font-family:Segoe UI Light,Sans-Serif;font-size:9pt;" xml:lang="EN-US"><span class="NormalTextRun SCX235071348" style="font-family:Segoe UI;font-size:small;background-color:inherit;">Use fonts from the Segoe font family. To learn more, see </span></span><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=36398"><span style="font-family:Segoe UI;font-size:small;">Use the Segoe font family</span></a><span class="TextRun SCX235071348" style="line-height:15px;font-family:Segoe UI Light,Sans-Serif;font-size:9pt;" xml:lang="EN-US"><span class="NormalTextRun SCX235071348" style="font-family:Segoe UI;font-size:small;background-color:inherit;">.</span></span></li><li><span class="TextRun SCX235071348" style="line-height:15px;font-family:Segoe UI Light,Sans-Serif;font-size:9pt;" xml:lang="EN-US"></span><span class="TextRun SCX235071348" style="line-height:15px;font-family:Segoe UI Light,Sans-Serif;font-size:9pt;" xml:lang="EN-US"><span class="NormalTextRun SCX235071348" style="font-family:Segoe UI;font-size:small;background-color:inherit;">Use
+ colors from the Microsoft brand palette. To support customers with low 
+vision, use colors that contrast with the background and that are 
+distinguishable in black and white. </span></span><span class="TextRun SCX235071348" style="line-height:15px;font-family:Segoe UI Light,Sans-Serif;font-size:9pt;" xml:lang="EN-US"><span class="NormalTextRun SCX235071348" style="font-family:Segoe UI;font-size:small;background-color:inherit;"><span style="font-size:small;">To learn more, see the </span><a href="https://microsoft.sharepoint.com/teams/BrandCentral/Pages/The-Microsoft-brand-Core-elements-Color.aspx" target="_blank" title="Color guidelines on Brand Central">brand color guidelines</a><span style="font-size:small;">. (</span></span></span><span style="font-family:Segoe UI;font-size:small;">This&nbsp;site requires Microsoft network access.)</span></li><li><span class="TextRun SCX235071348" style="line-height:15px;font-family:Segoe UI Light,Sans-Serif;font-size:9pt;" xml:lang="EN-US"><span class="NormalTextRun SCX235071348" style="font-family:Segoe UI;font-size:small;background-color:inherit;">Use line styles to distinguish traffic flows.&nbsp;</span></span></li><li><span class="TextRun SCX235071348" style="line-height:15px;font-family:Segoe UI Light,Sans-Serif;font-size:9pt;" xml:lang="EN-US"></span><span class="TextRun SCX235071348" style="line-height:15px;font-family:Segoe UI Light,Sans-Serif;font-size:9pt;" xml:lang="EN-US"><span class="NormalTextRun SCX235071348" style="font-family:Segoe UI;font-size:small;background-color:inherit;">Label specific network traffic, preferably on the line or alternatively as a callout.</span></span></li><li><span class="TextRun SCX235071348" style="line-height:15px;font-family:Segoe UI Light,Sans-Serif;font-size:9pt;" xml:lang="EN-US"></span><span class="TextRun SCX235071348" style="line-height:15px;font-family:Segoe UI Light,Sans-Serif;font-size:9pt;" xml:lang="EN-US"><span class="NormalTextRun SCX235071348" style="font-family:Segoe UI;font-size:small;background-color:inherit;">Represent security boundaries with solid vertical lines. Show traffic crossing them when appropriate.</span></span></li><li><span class="TextRun SCX235071348" style="line-height:15px;font-family:Segoe UI Light,Sans-Serif;font-size:9pt;" xml:lang="EN-US"></span><span class="TextRun SCX235071348" style="line-height:15px;font-family:Segoe UI Light,Sans-Serif;font-size:9pt;" xml:lang="EN-US"><span class="NormalTextRun SCX235071348" style="font-family:Segoe UI;font-size:small;background-color:inherit;">Use standard syntax.</span></span><span class="TextRun SCX235071348" style="color:#000000;line-height:17px;font-family:'Segoe UI Semibold',Sans-Serif;font-size:10pt;" xml:lang="EN-US"></span></li></ul><div class="OutlineElement Ltr SCX235071348" style="text-indent:0px;margin-left:0px;"><p class="Paragraph SCX235071348" paraeid="{8f91ab79-d9b7-458b-bd77-65c4815febe4}{178}" paraid="496305223" style="text-align:left;color:windowtext;text-indent:0px;font-family:'Segoe UI',Tahoma,Verdana,'Sans-Serif';font-size:6pt;font-style:normal;font-weight:normal;margin-right:0px;vertical-align:baseline;background-color:transparent;"><span class="TextRun SCX235071348" style="color:#000000;line-height:18px;font-family:'Segoe UI Semibold',Sans-Serif;font-size:10pt;" xml:lang="EN-US"><span class="NormalTextRun SCX235071348" style="font-family:Segoe UI Semibold;font-size:small;background-color:inherit;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learn more</span> </span><span class="TextRun SCX235071348" style="line-height:16px;font-family:Segoe UI Light,Sans-Serif;font-size:9pt;" xml:lang="EN-US"><span class="NormalTextRun SCX235071348" style="font-family:Segoe UI;font-size:small;background-color:inherit;"><span style="font-size:small;">about </span><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=36406">network traffic flows</a><span style="font-size:small;">.</span></span></span></p></div><div class="OutlineElement Ltr SCX235071348" style="text-indent:0px;margin-left:0px;"></div><h4><span style="color:#000000;font-family:Segoe UI Semibold;font-size:small;">Video</span></h4><p><span style="color:#000000;font-family:Segoe UI;font-size:small;">Video&nbsp;is
+ an interesting and effective way to communicate complex 
+topics.&nbsp;Up-front planning&nbsp;will help you keep your costs down 
+and quality up. </span><span style="font-family:'Segoe UI';font-size:small;"></span></p><ul><li><span style="font-family:'Segoe UI';font-size:small;">Try for&nbsp;90 seconds or shorter. Keep&nbsp;videos short unless they're webcasts or detailed technical content.&nbsp;</span></li><li><span style="font-family:'Segoe UI';font-size:small;">Plan&nbsp;the beginning, middle, and end with storyboards. </span></li><li><span style="font-family:'Segoe UI';font-size:small;">Tell a story. Focus&nbsp;on a few key points with no extraneous details.</span></li><li><span style="font-family:'Segoe UI';font-size:small;">Decide what will be in your audio voice-over and what text will appear on the screen. </span></li><li><span style="font-family:'Segoe UI';font-size:small;">Write&nbsp;clear, benefit-driven titles and descriptions.</span></li><li><span style="font-family:'Segoe UI';font-size:small;">Use sentence-style capitalization in all video content. It’s our style.</span></li><li><span style="font-family:'Segoe UI';font-size:small;">Avoid dates, product versions, or anything else that will date the video. </span></li><li><span style="font-family:'Segoe UI';font-size:small;">When
+ recording the voice-over, speak&nbsp;clearly at a moderate pace. If 
+you’re demonstrating tasks, don’t explain every&nbsp;minor action—show 
+more than you tell.</span></li><li><span style="font-family:'Segoe UI';font-size:small;">Include full script captions for accessibility.</span></li><li><span style="font-family:'Segoe UI';font-size:small;">Use&nbsp;brand elements for opening and closing&nbsp;frames properly. (Check in with your marketing team,&nbsp;or </span><span style="font-size:small;">use the </span><a href="https://microsoft.sharepoint.com/teams/BrandCentral/Pages/Bundles/Microsoft_logo_endcard_animation.aspx" target="_blank"><span style="font-size:small;">Microsoft end-card </span></a><span style="font-size:small;"><a href="https://microsoft.sharepoint.com/teams/BrandCentral/Pages/Bundles/Microsoft_logo_endcard_animation.aspx" target="_blank">animation and guidelines</a></span><span style="font-family:'Segoe UI';font-size:small;">. (</span><span style="font-family:Segoe UI;font-size:small;">This&nbsp;page requires Microsoft network access.)</span></li></ul><p>&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#000000;font-family:Segoe UI Semibold;font-size:small;">Learn more</span> <span style="font-family:Segoe UI;font-size:small;">about </span><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=36407"><span style="font-size:small;">video</span></a><span style="font-size:small;">.</span></p></div>
+        
+        <br>
+        
+        
+
+</div></div>
+                <div class="activity-indicator centered" style="display: none;">
+                    <img src="images-video-checklist_files/activity-large.gif" alt="In progress">
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
+<script id="navListTempl" type="text/x-jquery-tmpl" data-jsv-tmpl="_0">
+    <div class="topic-element" data-id="{{: StyleGuideTopicID}}" data-topicid="{{: TopicID}}" data-parenttopicid="{{: ParentTopicID}}" data-styleguideid="{{: StyleGuideID}}">
+        <div class="topic-menu" data-topicid="{{: TopicID}}">
+            <div class="menu-img-div" data-topicid="{{: TopicID}}">
+                <img tabindex="0" class="menu-img" data-topicid="{{: TopicID}}" data-parenttopicid="{{: ParentTopicID}}" src="/Content/Images/menu-normal.png" alt="Menu" />
+                <div tabindex="0" class="fl clickable topicNameView levelView{{: TopicLevel}}" data-id="{{: StyleGuideTopicID}}" data-topicid="{{: TopicID}}" title="{{: TopicName}}">{{: TopicName}}</div>
+            </div>
+            <div class="cl-b" data-topicid="{{: TopicID}}"></div>
+            <hr class="topicNavSeparator" data-topicid="{{: TopicID}}" />
+        </div>
+        
+        {{if ChildTopics}}
+        <div class="subTopics" style="padding-left: 0.8em; display: none;" data-parenttopicid="{{: TopicID}}">
+            {{for ChildTopics tmpl="#navListTempl" /}}
+        </div>
+        {{/if}}
+    </div>
+</script>
+
+
+<script id="topicContentTempl" type="text/x-jquery-tmpl" data-jsv-tmpl="_1">
+    <div class="topicView" data-id="{{: StyleGuideTopicID}}" data-topicid="{{: TopicID}}">
+        <div class="fl topicTitleView" data-id="{{: StyleGuideTopicID}}" data-topicid="{{: TopicID}}" title="{{: TopicName}}">{{: TopicName}}</div>
+        <div class="topicButtons">
+            <div tabindex="0" id="divCopyURL" title="Copy URL" class="clickable-div" data-topicid="{{: TopicID}}">
+                <img class="button-image" src="/Content/Images/Copy.png" alt="Copy URL" />
+                <span class="button-text">Copy URL</span>
+            </div>
+            <div tabindex="0" class="topicDownload clickable-div" data-id="{{: StyleGuideTopicID}}" data-topicid="{{: TopicID}}">
+                <img class="button-image" src="/Content/Images/Download.png" alt="Download" />
+                <div class="button-text">Download topic</div>
+            </div>
+        </div>
+        <div class="cl-b"></div>
+        <div class="editable" data-id="{{: StyleGuideTopicID}}" data-topicid="{{: TopicID}}">{{: TopicContent}}</div>
+        
+        <br />
+        
+        
+
+<script>
+    function copyTopicURL(topicElement, type, page,id) {
+        $("#txtTopicURL").val("");
+        var topicId = topicElement.attr('data-topicid');
+        
+        var topicURL = get_hostname(window.location.href) + '/' + type + '/' + page + '?id=' + id + '&topicid=' + topicId.toString();
+
+        $('#copyTopicURLSection').dialog({
+            autoOpen: false,
+            width: 950,
+            height: 200,
+            resizable: false,
+            title: 'Copy topic URL',
+            modal: true,
+            closeOnEscape: true,
+            draggable: true,
+            open: function () {
+                $(".ui-dialog-titlebar").attr('alt', 'Close');
+                $(".ui-dialog-titlebar-close").addClass('ui-dialog-titlebar-close-custom').attr('title', 'Close');
+                $("#txtTopicURL").val($(this).data('topicURL'));
+            },
+            buttons: [
+                {
+                    id: "btnCancelTag",
+                    text: "CLOSE",
+                    title: "close",
+                    "class": "button-add-disp",
+                    click: function () {
+                        $('#copyTopicURLSection').dialog('close');
+                    }
+                }
+            ]
+        });
+
+        $('#copyTopicURLSection')
+        .data({
+            'topicURL': topicURL
+        })
+        .dialog('open');
+
+        return false;
+    }
+</script>
+
+<div id="copyTopicURLSection" style="display: none;">
+    <br>
+    <div>URL : </div>
+    <br>
+    <input id="txtTopicURL" class="TopicURL" rows="5" onfocus="javascript:this.select();" type="text">
+</div>
+
+
+        <br>
+    </div>
+    <div class="cl-b"></div>
+
+
+<form action="/Search/Index" method="post" name="searchresults" id="searchresults" novalidate="novalidate">
+    <input name="searchTerm" id="searchTerm" value="" type="hidden">
+    <input name="styleguideIds" id="styleguideIds" value="2700" type="hidden">
+    <input name="fromURL" id="fromURL" value="styleguideread" type="hidden">
+</form>
+
+
+    
+    
+
+    
+    <script src="images-video-checklist_files/viewStyleGuide.js"></script>
+    <link rel="stylesheet" type="text/css" href="images-video-checklist_files/template.css">
+    <style>
+        .editable {
+            font-size: 12pt;
+            font-family: Segoe UI;
+        }
+
+        .main {
+            height: 50.2em;
+        }
+        p {
+        margin: 0 0 1em;
+        padding-left: 0.6em;
+    }
+    </style>
+
+     
+
+
+
+</body></html>

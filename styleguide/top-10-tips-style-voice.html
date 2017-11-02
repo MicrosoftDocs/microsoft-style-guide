@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+<html style="" class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients no-cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Microsoft Style Guides</title>
+    
+    <link href="https://worldready.cloudapp.net/Content/Images/styleguide_favicon.ico" rel="icon" type="image/x-icon">    
+    <link href="top-10-tips-style-voice_files/css.css" rel="stylesheet">
+
+    <link href="top-10-tips-style-voice_files/mastercss.css" rel="stylesheet">
+
+    <script src="top-10-tips-style-voice_files/master"></script>
+
+
+</head>
+<body>
+    <noscript><div class="noscriptTag">Your browser does not support JavaScript. Please enable the Javascript.</div></noscript>
+    <input id="hdnloggeduserid" value="16406" type="hidden">
+    <div class="loadingicon" style="display: none;">
+        <div class="page-loading">Loading...</div>
+    </div>
+    <div class="body">
+
+        
+
+
+
+
+    </div>
+        
+    <div class="main">
+
+        
+
+
+<script>
+    $(document).ready(function () {
+        $('.viewStyleGuide').show();
+
+        buildNavMenu('2700', 'Microsoft Writing Style Guide', '28939');
+
+        $('.menu-img').live('click', function () {
+            subTopicToggle(this);
+        });
+
+        $(".menu-img").live('keydown', function (e) {
+            var event = e.KeyCode || e.which;
+            if (event == 13) {
+                subTopicToggle(this);
+            }
+        });
+
+        $('.topicNameView').live('click', function () {
+            var topicId = $(this).attr('data-topicid');
+            $('.topic-menu').each(function () {
+                if ($(this).hasClass('selectedDiv')) {
+                    $(this).removeClass('selectedDiv');
+                }
+            });
+
+            $('.topic-menu[data-topicid="' + topicId + '"]').addClass('selectedDiv');
+            var styleGuideId = $('.topic-element[data-topicid="' + topicId + '"]').attr('data-styleguideid');
+            getTopicData(topicId, styleGuideId);
+        });
+
+        $(".topicNameView").live('keydown', function (e) {
+            var event = e.KeyCode || e.which;
+            if (event == 13) {
+                var topicId = $(this).attr('data-topicid');
+                $('.topic-menu').each(function () {
+                    if ($(this).hasClass('selectedDiv')) {
+                        $(this).removeClass('selectedDiv');
+                    }
+                });
+
+                $('.topic-menu[data-topicid="' + topicId + '"]').addClass('selectedDiv');
+                var styleGuideId = $('.topic-element[data-topicid="' + topicId + '"]').attr('data-styleguideid');
+                getTopicData(topicId, styleGuideId);
+            }
+        });
+
+        $('#sgDownload').live('click', function () {
+            var styleGuideId = $('#sgDownload').attr('data-styleguideid');
+            window.location = '/StyleGuide/DownloadStyleGuide?styleGuideId=' + styleGuideId + '&styleGuideDraftId=' + 0 + '&isEdit=0';
+            return false;
+        });
+
+        $("#sgDownload").live('keydown', function (e) {
+            var event = e.KeyCode || e.which;
+            if (event == 13) {
+                var styleGuideId = $('#sgDownload').attr('data-styleguideid');
+                window.location = '/StyleGuide/DownloadStyleGuide?styleGuideId=' + styleGuideId + '&styleGuideDraftId=' + 0 + '&isEdit=0';
+                return false;
+            }
+        });
+
+        $('#sgEditStyleGuide').live('click', function () {
+            var styleGuideId = $('#sgEditStyleGuide').attr('data-styleguideid');
+            window.location = '/StyleGuide/Edit?id=' + styleGuideId + '';
+            return false;
+        });
+
+        $("#sgEditStyleGuide").live('keydown', function (e) {
+            var event = e.KeyCode || e.which;
+            if (event == 13) {
+                var styleGuideId = $('#sgEditStyleGuide').attr('data-styleguideid');
+                window.location = '/StyleGuide/Edit?id=' + styleGuideId + '';
+                return false;
+            }
+        });
+
+        $('.topicDownload').live('click', function () {
+            downloadTopic(this);
+        });
+
+        $('.topicEdit').live('click', function () {
+            var topicId = $(this).attr('data-topicid');
+            var topicElem = $('.topic-element[data-topicid="' + topicId + '"]');
+            var styleGuideId = $('.navigationTitleView').attr('data-styleguideid');
+
+            window.location = '/StyleGuide/Edit?Id=' + styleGuideId + '&topicId=' + topicId + '&styleGuideDraftId=' + 0 + '&isEdit=1';
+            return false;
+        });
+
+        $('#divCopyURL').live('click', function () {
+            copyTopicURL($(this), 'Styleguide', 'Read', '2700');
+        });
+
+        $('#divCopyURL').live('keydown', function (e) {
+            var event = e.KeyCode || e.which;
+            if (event == 13) {
+                copyTopicURL($(this), 'Styleguide', 'Read', '2700');
+            }
+        });
+
+        $('.topicDownload').live('keydown', function (e) {
+            var event = e.KeyCode || e.which;
+            if (event == 13) {
+                downloadTopic(this);
+            }
+        });
+
+        $('.topicEdit').live('keydown', function (e) {
+            var event = e.KeyCode || e.which;
+            if (event == 13) {
+                editTopic(this);
+            }
+        });
+        hideLoadingIcon();
+        $('.navigationTitleView').focus();
+    });
+
+    function SearchTopic() {
+        var searchTerm = $("#searchTopic").val().trim();
+        if (searchTerm != "") {
+            //if (searchTerm.length > 2)
+            //{
+            $("#searchTerm").val(searchTerm);
+            $("#searchresults").submit();
+            //}
+            //else
+            //{
+            //    alert('ERROR: Invalid search entry!\n\n'
+            //        +' Search entries must be between 3 and 255 characters and may only'
+            //        + ' contain alphanumeric characters, quotation marks, and minus signs.');
+            //    return false;
+            //}
+        }
+        else {
+            alert('Please enter a keyword to search');
+            return false;
+        }
+    }
+
+    function clickSearchButton(e) {
+        var evt = e ? e : window.event;
+        if (evt.keyCode == 13) {
+            SearchTopic();
+            return false;
+        }
+    }
+
+</script>
+
+<div class="viewStyleGuide" style="">
+    <div id="container2">
+        <div id="container1">
+            
+            <div class="topicContent">
+                
+                <div class="cl-b"></div>
+                <div id="topicInfo">
+    <div class="topicView" data-id="38209" data-topicid="28939">
+        <div class="fl topicTitleView" data-id="38209" data-topicid="28939" title="Top 10 tips for Microsoft style and voice">Top 10 tips for Microsoft style and voice</div>
+        <div class="topicButtons">
+            <div tabindex="0" id="divCopyURL" title="Copy URL" class="clickable-div" data-topicid="28939">
+                <img class="button-image" src="top-10-tips-style-voice_files/Copy.png" alt="Copy URL">
+                <span class="button-text">Copy URL</span>
+            </div>
+            <div tabindex="0" class="topicDownload clickable-div" data-id="38209" data-topicid="28939">
+                <img class="button-image" src="top-10-tips-style-voice_files/Download.png" alt="Download">
+                <div class="button-text">Download topic</div>
+            </div>
+        </div>
+        <div class="cl-b"></div>
+        <div class="editable" data-id="38209" data-topicid="28939"><p><span style="color:#000000;font-family:Segoe UI Semibold;font-size:small;">Use bigger ideas, fewer words</span><span style="color:#000000;font-family:Segoe UI Semibold;font-size:small;"><br></span><span style="color:#330000;font-family:Segoe UI;font-size:small;">Our modern design hinges on crisp minimalism. Shorter is&nbsp;always better. To learn more, see </span><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=28361"><span style="font-size:small;">Brand voice</span></a><span style="color:#330000;font-family:Segoe UI;font-size:small;">.</span></p><p><span style="color:#000000;font-family:Segoe UI;font-size:small;"></span><span style="color:#006600;font-family:Segoe UI;font-size:small;">Example</span><span style="color:#330000;font-family:Segoe UI;font-size:small;"><br></span><span style="color:#000000;font-family:Segoe UI;font-size:small;">Replace this:</span><span style="color:#330000;font-family:Segoe UI;font-size:small;"> If you're ready to purchase Office 365 for your organization, contact your Microsoft account representative.</span></p><p><span style="color:#000000;font-family:Segoe UI;font-size:small;">With this:</span><span style="color:#330000;font-family:Segoe UI;font-size:small;"> Ready to buy? <span style="color:#0033ff;text-decoration:underline;">Contact us</span><span style="color:#222222;">.</span></span></p><p><span style="color:#000000;font-family:Segoe UI Semibold;font-size:small;">Write like you speak<br></span><span style="font-size:small;">Read
+ your text aloud. Does it sound like something a real person would 
+say?&nbsp;Be friendly and&nbsp;conversational. No. Robot. Words. To 
+learn more, see </span><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=28361"><span style="font-size:small;">Brand voice</span></a><span style="font-size:small;">.</span></p><p><span style="color:#000000;font-family:Segoe UI;font-size:small;"></span><span style="color:#006600;font-family:Segoe UI;font-size:small;">Example</span><span style="font-size:small;"><br></span><span style="color:#000000;font-family:Segoe UI;font-size:small;">Replace this: </span><span style="font-family:Segoe UI;font-size:small;">Invalid ID</span></p><p><span style="color:#000000;font-family:Segoe UI;font-size:small;">With this: </span><span style="font-family:Segoe UI;font-size:small;">You need an ID that </span><span style="font-family:Segoe UI;font-size:small;">looks like this: <a href="mailto:someone@example.com">someone@example.com</a></span></p><p><span style="color:#000000;font-family:Segoe UI Semibold;font-size:small;">Project friendliness<br></span><span style="font-size:small;">Use contractions: <em>it’s, you’ll, you’re, we’re, let’s.</em> To learn more, see </span><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=36389"><span style="font-size:small;">Use&nbsp;contractions</span></a><span style="font-size:small;">.</span></p><p><span style="color:#000000;font-family:Segoe UI;font-size:small;"></span><span style="color:#006600;font-family:Segoe UI;font-size:small;">Example</span><span style="font-size:small;"><br><span style="color:#000000;font-family:Segoe UI;">Replace this: </span></span><span style="font-family:Segoe UI;font-size:small;">Your
+ Microsoft Band is not waterproof. Light rain and hand washing should 
+not harm it, but do not immerse your Band in liquids of any kind. Do not
+ wear your Band while swimming or in the shower. </span></p><p><span style="color:#000000;font-family:Segoe UI;font-size:small;">With this: </span><span style="font-family:Segoe UI;font-size:small;">Your
+ Microsoft Band isn't waterproof. Light rain and hand washing shouldn't 
+harm it, but don't immerse it in liquids or wear it while you're 
+swimming or in the shower.</span></p><p><span style="color:#000000;font-family:Segoe UI Semibold;font-size:small;">Get to the point fast<br></span><span style="font-size:small;">Lead
+ with what’s most important. Front-load keywords for scanning. Make 
+customer choices and&nbsp;next steps obvious. To learn more, see <a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=36380">Scannable content</a></span><span style="font-size:small;">.</span></p><p><span style="color:#000000;font-family:Segoe UI;font-size:small;"></span><span style="color:#006600;font-family:Segoe UI;font-size:small;">Example</span><span style="font-size:small;"><br></span><span style="color:#000000;font-family:Segoe UI;font-size:small;">Replace this: </span><span style="font-family:Segoe UI;font-size:small;">Templates
+ provide a starting point for creating new documents. A template can 
+include the styles, formats, and page layouts you use frequently. 
+Consider creating a template if you often use the same page layout and 
+style for documents.</span></p><p><span style="color:#000000;font-family:Segoe UI;font-size:small;">With this: </span><span style="font-family:Segoe UI;font-size:small;">Save
+ time by creating a document template that includes the styles, formats,
+ and page layouts you use most often. Then use the template whenever you
+ create a new document.</span></p><p><span style="color:#000000;font-family:Segoe UI Semibold;font-size:small;">Be brief<br></span><span style="font-size:small;">Give customers just enough information to make decisions&nbsp;confidently. Prune every excess word. To learn more, see <a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=36378">Word choice</a>.</span></p><p><span style="color:#000000;font-family:Segoe UI;font-size:small;"></span><span style="color:#006600;font-family:Segoe UI;font-size:small;">Example</span><span style="font-size:small;"><br></span><span style="color:#000000;font-family:Segoe UI;font-size:small;">Replace this:</span><span style="font-family:Segoe UI;font-size:small;">
+ The Recommended Charts command on the Insert tab recommends charts that
+ are likely to represent your data well. Use the command when you want 
+to visually present data, and you're not sure how to do it. </span></p><p><span style="color:#000000;font-family:Segoe UI;font-size:small;">With this:</span><span style="font-family:Segoe UI;font-size:small;"> Create a chart that's just right for your data by using the Recommend Charts command on the Insert tab.</span></p><p><span style="color:#000000;font-family:Segoe UI Semibold;font-size:small;">When in doubt, don’t capitalize<br></span><span style="font-family:Segoe UI;font-size:small;">Default
+ to sentence-style capitalization—capitalize only the&nbsp;first word of
+ a heading or phrase and any proper nouns or names. Never Use&nbsp;Title
+ Capitalization (Like This). Never Ever. To learn more, see </span><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=33685"><span style="font-family:Segoe UI;font-size:small;">Capitalization</span></a><span style="font-family:Segoe UI;font-size:small;">.</span></p><p><span style="color:#000000;font-family:Segoe UI;font-size:small;"></span><span style="color:#006600;font-family:Segoe UI;font-size:small;">Examples</span><span style="font-family:Segoe UI;font-size:small;"><br><span style="color:#000000;">Replace these: </span></span><span style="font-family:Segoe UI;font-size:small;"><br>Find a Microsoft Partner<br>Office 365 Customer<br>Limited-Time Offer<br>Join Us Online</span></p><p><span style="color:#000000;font-family:Segoe UI;font-size:small;">With these:</span><span style="font-family:Segoe UI;font-size:small;"><br>Find a Microsoft partner<br>Office 365 customer<br>Limited-time offer<br>Join us online</span></p><p><span style="color:#000000;font-family:Segoe UI Semibold;font-size:small;">Skip periods (and : ! ?)<br></span><span style="font-size:small;">Skip
+ end punctuation on titles, headings, subheads, UI&nbsp;titles, and 
+items in a list that are three or fewer words. Save the periods for 
+paragraphs and body copy. To learn&nbsp;more, see </span><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=25519"><span style="font-size:small;">Punctuation</span></a><span style="font-size:small;">,&nbsp;</span><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=36408"><span style="font-size:small;">Headings</span></a><span style="font-size:small;">,&nbsp;and </span><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=36412"><span style="font-size:small;">Lists</span></a><span style="font-size:small;">.&nbsp;</span></p><p><span style="color:#000000;font-family:Segoe UI;font-size:small;"></span><span style="color:#006600;font-family:Segoe UI;font-size:small;">Example</span><span style="font-size:small;"><br></span><span style="color:#000000;font-family:Segoe UI;font-size:small;">Replace this:</span><span style="font-size:small;"><br></span><span style="font-family:Segoe UI Semibold;font-size:small;">Move a tile.</span><span style="font-size:small;"><br><span style="font-family:Segoe UI;">1. Press and hold the tile.</span></span></p><p><span style="color:#000000;font-family:Segoe UI;font-size:small;">With this:</span><span style="font-size:small;"><br></span><span style="font-family:Segoe UI Semibold;font-size:small;">Move a tile</span><span style="font-size:small;"><br><span style="font-family:Segoe UI;">1. Press and hold the tile.</span></span></p><p><span style="color:#000000;font-family:Segoe UI Semibold;font-size:small;">Remember&nbsp;the last comma<br></span><span style="font-size:small;">In a list of three or more items, include a comma before the </span><span style="font-size:small;">conjunction</span><em><span style="font-size:small;">. </span></em><span style="font-size:small;">(The comma that comes before the conjunction is known as the Oxford or serial comma</span><em><span style="font-size:small;">.</span></em><span style="font-size:small;">)</span><em> </em><span style="font-size:small;">To&nbsp;learn more, see </span><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=28752"><span style="font-size:small;">Commas</span></a><span style="font-size:small;">.&nbsp;</span></p><p><span style="color:#006600;font-family:Segoe UI;font-size:small;">Example</span><span style="color:#000000;font-size:small;"><br></span><span style="color:#000000;font-family:Segoe UI;font-size:small;">Replace this: </span><span style="font-family:Segoe UI;font-size:small;">Android, iOS and Windows</span></p><p><span style="color:#000000;font-family:Segoe UI;font-size:small;">With this: </span><span style="font-family:Segoe UI;font-size:small;">Android, iOS, and Windows</span></p><p><span style="color:#000000;font-family:Segoe UI Semibold;font-size:small;">Don’t be spacey<br></span><span style="font-size:small;">Use only one space after periods, question marks, and&nbsp;colons—and no spaces around dashes. To learn more, see </span><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=25519"><span style="font-size:small;">Punctuation</span></a><span style="font-size:small;">.</span></p><p><span style="color:#000000;font-family:Segoe UI;font-size:small;"></span><span style="color:#006600;font-family:Segoe UI;font-size:small;">Example</span><span style="font-size:small;"><br></span><span style="color:#000000;font-family:Segoe UI;font-size:small;">Replace this: </span><span style="font-family:Segoe UI;font-size:small;">Use pipelines </span><span style="line-height:107%;font-family:Segoe UI;font-size:small;">— logical groups of activities — to consolidate activities that are part of a task.</span></p><p><span style="color:#000000;line-height:107%;font-family:Segoe UI;font-size:small;">With this: </span><span style="line-height:107%;font-family:Segoe UI;font-size:small;">Use pipelines—logical groups of activities—to consolidate activities that are part of a task.</span><span style="font-size:small;"></span></p><p><span><span style="color:#000000;font-family:Segoe UI Semibold;font-size:small;font-style:normal;">K</span></span><span style="color:#000000;font-family:Segoe UI Semibold;font-size:small;">ill&nbsp;off weak writing<br></span><span style="font-size:small;">Most of the time, start each statement with a verb. Axe </span><em><span style="font-size:small;">you can</span></em><span style="font-size:small;"> and </span><em><span style="font-size:small;">there is, there are, there were</span></em><span style="font-size:small;">. To learn more, see <a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=25523">Verbs</a> and&nbsp;<a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=36378">Word choice</a></span><span style="font-size:small;">.</span></p><p><span style="color:#000000;font-family:Segoe UI;font-size:small;"></span><span style="color:#006600;font-family:Segoe UI;font-size:small;">Example</span><span style="font-size:small;"><br></span><span style="color:#000000;font-family:Segoe UI;font-size:small;">Replace this: </span><span style="font-family:Segoe UI;font-size:small;">You can access Office apps across your devices, and you get online file storage and sharing.</span></p><p><span style="color:#000000;font-family:Segoe UI;font-size:small;">With this:</span><span style="font-family:Segoe UI;font-size:small;"> Store files online, access them from all your devices, and share them with coworkers.</span></p><p></p><p><span style="color:#000000;font-family:Segoe UI Semibold;font-size:medium;">Poster: Top 10 voice and style tips</span></p><p><img src="top-10-tips-style-voice_files/911998365.png"><br></p><p><span style="font-size:small;">For easy reference, </span><span style="font-size:small;">get </span><span style="font-size:small;">the <a title="Printable top 10 tips poster" href="https://worldready.blob.core.windows.net/document/getting-voice-right_010417.pdf" target="_blank">Top 10 tips poster</a>.</span><br></p></div>
+        
+        <br>
+        
+        
+
+</div></div>
+                <div class="activity-indicator centered" style="display: none;">
+                    <img src="top-10-tips-style-voice_files/activity-large.gif" alt="In progress">
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
+<script id="navListTempl" type="text/x-jquery-tmpl" data-jsv-tmpl="_0">
+    <div class="topic-element" data-id="{{: StyleGuideTopicID}}" data-topicid="{{: TopicID}}" data-parenttopicid="{{: ParentTopicID}}" data-styleguideid="{{: StyleGuideID}}">
+        <div class="topic-menu" data-topicid="{{: TopicID}}">
+            <div class="menu-img-div" data-topicid="{{: TopicID}}">
+                <img tabindex="0" class="menu-img" data-topicid="{{: TopicID}}" data-parenttopicid="{{: ParentTopicID}}" src="/Content/Images/menu-normal.png" alt="Menu" />
+                <div tabindex="0" class="fl clickable topicNameView levelView{{: TopicLevel}}" data-id="{{: StyleGuideTopicID}}" data-topicid="{{: TopicID}}" title="{{: TopicName}}">{{: TopicName}}</div>
+            </div>
+            <div class="cl-b" data-topicid="{{: TopicID}}"></div>
+            <hr class="topicNavSeparator" data-topicid="{{: TopicID}}" />
+        </div>
+        
+        {{if ChildTopics}}
+        <div class="subTopics" style="padding-left: 0.8em; display: none;" data-parenttopicid="{{: TopicID}}">
+            {{for ChildTopics tmpl="#navListTempl" /}}
+        </div>
+        {{/if}}
+    </div>
+</script>
+
+
+<script id="topicContentTempl" type="text/x-jquery-tmpl" data-jsv-tmpl="_1">
+    <div class="topicView" data-id="{{: StyleGuideTopicID}}" data-topicid="{{: TopicID}}">
+        <div class="fl topicTitleView" data-id="{{: StyleGuideTopicID}}" data-topicid="{{: TopicID}}" title="{{: TopicName}}">{{: TopicName}}</div>
+        <div class="topicButtons">
+            <div tabindex="0" id="divCopyURL" title="Copy URL" class="clickable-div" data-topicid="{{: TopicID}}">
+                <img class="button-image" src="/Content/Images/Copy.png" alt="Copy URL" />
+                <span class="button-text">Copy URL</span>
+            </div>
+            <div tabindex="0" class="topicDownload clickable-div" data-id="{{: StyleGuideTopicID}}" data-topicid="{{: TopicID}}">
+                <img class="button-image" src="/Content/Images/Download.png" alt="Download" />
+                <div class="button-text">Download topic</div>
+            </div>
+        </div>
+        <div class="cl-b"></div>
+        <div class="editable" data-id="{{: StyleGuideTopicID}}" data-topicid="{{: TopicID}}">{{: TopicContent}}</div>
+        
+        <br />
+        
+        
+
+<script>
+    function copyTopicURL(topicElement, type, page,id) {
+        $("#txtTopicURL").val("");
+        var topicId = topicElement.attr('data-topicid');
+        
+        var topicURL = get_hostname(window.location.href) + '/' + type + '/' + page + '?id=' + id + '&topicid=' + topicId.toString();
+
+        $('#copyTopicURLSection').dialog({
+            autoOpen: false,
+            width: 950,
+            height: 200,
+            resizable: false,
+            title: 'Copy topic URL',
+            modal: true,
+            closeOnEscape: true,
+            draggable: true,
+            open: function () {
+                $(".ui-dialog-titlebar").attr('alt', 'Close');
+                $(".ui-dialog-titlebar-close").addClass('ui-dialog-titlebar-close-custom').attr('title', 'Close');
+                $("#txtTopicURL").val($(this).data('topicURL'));
+            },
+            buttons: [
+                {
+                    id: "btnCancelTag",
+                    text: "CLOSE",
+                    title: "close",
+                    "class": "button-add-disp",
+                    click: function () {
+                        $('#copyTopicURLSection').dialog('close');
+                    }
+                }
+            ]
+        });
+
+        $('#copyTopicURLSection')
+        .data({
+            'topicURL': topicURL
+        })
+        .dialog('open');
+
+        return false;
+    }
+</script>
+
+<div id="copyTopicURLSection" style="display: none;">
+    <br>
+    <div>URL : </div>
+    <br>
+    <input id="txtTopicURL" class="TopicURL" rows="5" onfocus="javascript:this.select();" type="text">
+</div>
+
+
+        <br>
+    </div>
+    <div class="cl-b"></div>
+
+
+<form action="/Search/Index" method="post" name="searchresults" id="searchresults" novalidate="novalidate">
+    <input name="searchTerm" id="searchTerm" value="" type="hidden">
+    <input name="styleguideIds" id="styleguideIds" value="2700" type="hidden">
+    <input name="fromURL" id="fromURL" value="styleguideread" type="hidden">
+</form>
+
+
+    
+    
+
+    
+    <script src="top-10-tips-style-voice_files/viewStyleGuide.js"></script>
+    <link rel="stylesheet" type="text/css" href="top-10-tips-style-voice_files/template.css">
+    <style>
+        .editable {
+            font-size: 12pt;
+            font-family: Segoe UI;
+        }
+
+        .main {
+            height: 50.2em;
+        }
+        p {
+        margin: 0 0 1em;
+        padding-left: 0.6em;
+    }
+    </style>
+
+     
+
+
+
+</body></html>
