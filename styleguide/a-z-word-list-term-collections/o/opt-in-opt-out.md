@@ -1,6 +1,4 @@
-﻿# 
-
-opt in, opt out
+﻿# opt in, opt out
 
 ![Copy URL](media/opt-in-opt-out/Copy.png)
 Copy URL

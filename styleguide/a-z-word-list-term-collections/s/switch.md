@@ -1,6 +1,4 @@
-# 
-
-switch
+# switch
 
 ![Copy URL](media/switch/Copy.png)
 Copy URL

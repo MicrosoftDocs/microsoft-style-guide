@@ -1,6 +1,4 @@
-# 
-
-turnkey
+# turnkey
 
 ![Copy URL](media/turnkey/Copy.png)
 Copy URL

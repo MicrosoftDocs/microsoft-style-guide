@@ -1,6 +1,4 @@
-# 
-
-applet
+# applet
 
 ![Copy URL](media/applet/Copy.png)
 Copy URL

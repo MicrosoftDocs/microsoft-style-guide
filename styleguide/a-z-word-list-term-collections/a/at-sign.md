@@ -1,6 +1,4 @@
-# 
-
-at sign (@)
+# at sign (@)
 
 ![Copy URL](media/at-sign/Copy.png)
 Copy URL

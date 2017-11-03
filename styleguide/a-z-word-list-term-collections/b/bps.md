@@ -1,6 +1,4 @@
-# 
-
-bps
+# bps
 
 ![Copy URL](media/bps/Copy.png)
 Copy URL

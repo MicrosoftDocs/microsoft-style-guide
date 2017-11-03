@@ -1,6 +1,4 @@
-# 
-
-parent/child
+# parent/child
 
 ![Copy URL](media/parent-child/Copy.png)
 Copy URL

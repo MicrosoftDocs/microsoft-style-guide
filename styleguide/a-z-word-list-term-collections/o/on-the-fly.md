@@ -1,6 +1,4 @@
-# 
-
-on the fly
+# on the fly
 
 ![Copy URL](media/on-the-fly/Copy.png)
 Copy URL

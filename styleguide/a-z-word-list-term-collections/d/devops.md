@@ -1,6 +1,4 @@
-# 
-
-DevOps
+# DevOps
 
 ![Copy URL](media/devops/Copy.png)
 Copy URL

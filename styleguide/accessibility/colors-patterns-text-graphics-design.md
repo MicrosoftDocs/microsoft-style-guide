@@ -1,6 +1,4 @@
-﻿# 
-
-Colors and patterns in text, graphics, and design
+﻿# Colors and patterns in text, graphics, and design
 
 ![Copy URL](media/colors-patterns-text-graphics-design/Copy.png)
 Copy URL

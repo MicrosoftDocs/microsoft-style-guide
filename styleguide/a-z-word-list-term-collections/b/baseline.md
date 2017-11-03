@@ -1,6 +1,4 @@
-# 
-
-badge
+# badge
 
 ![Copy URL](media/baseline/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-﻿# 
-
-line of business, line-of-business
+﻿# line of business, line-of-business
 
 ![Copy URL](media/line-of-business/Copy.png)
 Copy URL

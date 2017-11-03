@@ -1,6 +1,4 @@
-# 
-
-.NET
+# .NET
 
 ![Copy URL](media/net/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-﻿# 
-
-Numbers
+﻿# Numbers
 
 ![Copy URL](media/numbers/Copy.png)
 Copy URL
@@ -142,9 +140,7 @@ Eleven apps are included.
 </tbody>
 </table>
 
-#### 
-
-#### Commas in numbers
+#### #### Commas in numbers
 
 Use commas in numbers that have four or more digits, regardless of how the numbers appear in the UI.
 
@@ -161,9 +157,7 @@ page 1091
 15601 NE 40<sup>th</sup> Street
 1.06377 units
 
-#### 
-
-#### Numbers in dates
+#### #### Numbers in dates
 
 Don’t use ordinal numbers, such as *June* *first* or *October twenty-eighth*, for dates. Use a numeral instead: *June 1, October 28.*
 
@@ -172,17 +166,13 @@ avoid confusion, always spell out the name of the month. The
 positions of the month and day vary by country. For example,
 6/12/2017 might be June 12, 2017 or December 6, 2017.
 
-#### 
-
-#### Negative numbers
+#### #### Negative numbers
 
 Form a negative number with an en dash, not a hyphen:
 
 Example –79
 
-#### 
-
-#### Compound numbers
+#### #### Compound numbers
 
 Hyphenate compound numbers when they're spelled out.
 
@@ -190,9 +180,7 @@ Examples
 twenty-five fonts
 the twenty-first day
 
-#### 
-
-#### Fractions and decimals
+#### #### Fractions and decimals
 
   - Express fractions in words, as symbols, or as decimals, whichever is most appropriate.  
   - In tables, align decimals on the decimal point. 

@@ -1,6 +1,4 @@
-# 
-
-read-only
+# read-only
 
 ![Copy URL](media/read-only/Copy.png)
 Copy URL

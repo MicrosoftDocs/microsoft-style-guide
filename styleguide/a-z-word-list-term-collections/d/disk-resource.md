@@ -1,6 +1,4 @@
-# 
-
-disk resource
+# disk resource
 
 ![Copy URL](media/disk-resource/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-use terms
+# use terms
 
 ![Copy URL](media/use-terms/Copy.png)
 Copy URL

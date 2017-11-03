@@ -1,6 +1,4 @@
-# 
-
-push button, push-button
+# push button, push-button
 
 ![Copy URL](media/push-button/Copy.png)
 Copy URL

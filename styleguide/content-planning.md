@@ -1,6 +1,4 @@
-﻿# 
-
-Content planning
+﻿# Content planning
 
 ![Copy URL](media/content-planning/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-﻿# 
-
-Code names
+﻿# Code names
 
 ![Copy URL](media/code-names/Copy.png)
 Copy URL

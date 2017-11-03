@@ -1,6 +1,4 @@
-# 
-
-displays, appears
+# displays, appears
 
 ![Copy URL](media/displays-appears/Copy.png)
 Copy URL

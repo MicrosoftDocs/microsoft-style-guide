@@ -1,6 +1,4 @@
-# 
-
-administrator, admin
+# administrator, admin
 
 ![Copy URL](media/administrator-admin/Copy.png)
 Copy URL

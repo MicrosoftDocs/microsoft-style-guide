@@ -1,6 +1,4 @@
-﻿# 
-
-Web, software, and HTML considerations
+﻿# Web, software, and HTML considerations
 
 ![Copy URL](media/web-software-html-considerations/Copy.png)
 Copy URL

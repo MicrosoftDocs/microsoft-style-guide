@@ -1,6 +1,4 @@
-# 
-
-machine learning
+# machine learning
 
 ![Copy URL](media/machine-learning/Copy.png)
 Copy URL

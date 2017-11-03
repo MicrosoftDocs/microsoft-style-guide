@@ -1,6 +1,4 @@
-# 
-
-soft copy
+# soft copy
 
 ![Copy URL](media/soft-copy/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-﻿# 
-
-Code examples
+﻿# Code examples
 
 ![Copy URL](media/code-examples/Copy.png)
 Copy URL

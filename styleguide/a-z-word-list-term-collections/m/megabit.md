@@ -1,6 +1,4 @@
-# 
-
-megabit, Mb, Mbit
+# megabit, Mb, Mbit
 
 ![Copy URL](media/megabit/Copy.png)
 Copy URL

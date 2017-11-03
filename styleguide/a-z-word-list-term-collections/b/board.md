@@ -1,6 +1,4 @@
-# 
-
-board
+# board
 
 ![Copy URL](media/board/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-inbound
+# inbound
 
 ![Copy URL](media/inbound/Copy.png)
 Copy URL

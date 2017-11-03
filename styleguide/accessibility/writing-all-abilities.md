@@ -1,6 +1,4 @@
-﻿# 
-
-Writing for all abilities
+﻿# Writing for all abilities
 
 ![Copy URL](media/writing-all-abilities/Copy.png)
 Copy URL
@@ -67,8 +65,6 @@ In procedures and instructions, use generic verbs that apply to all input method
 Learn more [](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26472)[
 Describing interactions with UI](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26472)
 
-## 
-
-![In progress](media/writing-all-abilities/activity-large.gif)
+## ![In progress](media/writing-all-abilities/activity-large.gif)
 
 URL :

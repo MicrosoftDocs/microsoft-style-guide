@@ -1,6 +1,4 @@
-# 
-
-write-protect, write-protected
+# write-protect, write-protected
 
 ![Copy URL](media/write-protect-write-protected/Copy.png)
 Copy URL

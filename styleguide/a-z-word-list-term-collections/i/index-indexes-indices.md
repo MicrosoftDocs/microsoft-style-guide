@@ -1,6 +1,4 @@
-# 
-
-index, indexes, indices
+# index, indexes, indices
 
 ![Copy URL](media/index-indexes-indices/Copy.png)
 Copy URL

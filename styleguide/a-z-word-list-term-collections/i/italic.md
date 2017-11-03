@@ -1,6 +1,4 @@
-# 
-
-italic
+# italic
 
 ![Copy URL](media/italic/Copy.png)
 Copy URL

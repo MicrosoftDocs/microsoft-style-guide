@@ -1,6 +1,4 @@
-# 
-
-smartphone
+# smartphone
 
 ![Copy URL](media/smartphone/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-control-menu box
+# control-menu box
 
 ![Copy URL](media/control-menu-box/Copy.png)
 Copy URL

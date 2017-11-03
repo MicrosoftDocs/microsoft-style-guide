@@ -1,6 +1,4 @@
-﻿# 
-
-Use sentence-style capitalization
+﻿# Use sentence-style capitalization
 
 ![Copy URL](media/use-sentence-style-capitalization/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-access key
+# access key
 
 ![Copy URL](media/access-key/Copy.png)
 Copy URL

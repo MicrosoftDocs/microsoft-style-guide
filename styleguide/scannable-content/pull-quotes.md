@@ -1,6 +1,4 @@
-﻿# 
-
-Pull quotes
+﻿# Pull quotes
 
 ![Copy URL](media/pull-quotes/Copy.png)
 Copy URL

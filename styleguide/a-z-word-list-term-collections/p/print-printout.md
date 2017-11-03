@@ -1,6 +1,4 @@
-# 
-
-print, printout
+# print, printout
 
 ![Copy URL](media/print-printout/Copy.png)
 Copy URL

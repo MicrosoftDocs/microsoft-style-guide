@@ -1,6 +1,4 @@
-# 
-
-shut down, shutdown
+# shut down, shutdown
 
 ![Copy URL](media/shut-down-shutdown/Copy.png)
 Copy URL

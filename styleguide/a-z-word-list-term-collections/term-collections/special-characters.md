@@ -1,6 +1,4 @@
-﻿# 
-
-Special characters
+﻿# Special characters
 
 ![Copy URL](media/special-characters/Copy.png)
 Copy URL

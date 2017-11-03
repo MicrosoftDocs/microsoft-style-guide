@@ -1,6 +1,4 @@
-﻿# 
-
-Graphics, design, and media
+﻿# Graphics, design, and media
 
 ![Copy URL](media/graphics-design-media/Copy.png)
 Copy URL

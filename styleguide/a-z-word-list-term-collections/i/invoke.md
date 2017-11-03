@@ -1,6 +1,4 @@
-# 
-
-invoke
+# invoke
 
 ![Copy URL](media/invoke/Copy.png)
 Copy URL

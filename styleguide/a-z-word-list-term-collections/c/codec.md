@@ -1,6 +1,4 @@
-# 
-
-codec
+# codec
 
 ![Copy URL](media/codec/Copy.png)
 Copy URL

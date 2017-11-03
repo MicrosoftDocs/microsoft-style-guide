@@ -1,6 +1,4 @@
-# 
-
-garbage collection, garbage collector
+# garbage collection, garbage collector
 
 ![Copy URL](media/garbage-collection-garbage-collector/Copy.png)
 Copy URL

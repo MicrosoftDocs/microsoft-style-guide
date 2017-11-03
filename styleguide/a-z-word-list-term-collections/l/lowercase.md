@@ -1,6 +1,4 @@
-# 
-
-lowercase
+# lowercase
 
 ![Copy URL](media/lowercase/Copy.png)
 Copy URL

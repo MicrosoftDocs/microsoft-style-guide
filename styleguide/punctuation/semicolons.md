@@ -1,6 +1,4 @@
-﻿# 
-
-Semicolons
+﻿# Semicolons
 
 ![Copy URL](media/semicolons/Copy.png)
 Copy URL

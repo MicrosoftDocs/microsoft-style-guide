@@ -1,6 +1,4 @@
-# 
-
-fixed disk
+# fixed disk
 
 ![Copy URL](media/fixed-disk/Copy.png)
 Copy URL

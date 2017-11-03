@@ -1,6 +1,4 @@
-# 
-
-disc
+# disc
 
 ![Copy URL](media/disc/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-nanosecond
+# nanosecond
 
 ![Copy URL](media/nanosecond/Copy.png)
 Copy URL

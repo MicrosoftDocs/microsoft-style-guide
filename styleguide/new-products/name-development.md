@@ -1,6 +1,4 @@
-﻿# 
-
-Name development
+﻿# Name development
 
 ![Copy URL](media/name-development/Copy.png)
 Copy URL

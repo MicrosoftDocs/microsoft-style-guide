@@ -1,6 +1,4 @@
-# 
-
-Java, JScript, JavaScript
+# Java, JScript, JavaScript
 
 ![Copy URL](media/java-jscript-javascript/Copy.png)
 Copy URL

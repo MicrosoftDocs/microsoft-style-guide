@@ -1,6 +1,4 @@
-﻿# 
-
-Legal content
+﻿# Legal content
 
 ![Copy URL](media/index/Copy.png)
 Copy URL

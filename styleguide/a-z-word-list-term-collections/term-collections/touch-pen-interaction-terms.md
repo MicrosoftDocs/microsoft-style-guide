@@ -1,6 +1,4 @@
-﻿# 
-
-Touch and pen interaction terms
+﻿# Touch and pen interaction terms
 
 ![Copy URL](media/touch-pen-interaction-terms/Copy.png)
 Copy URL

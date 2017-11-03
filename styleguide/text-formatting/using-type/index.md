@@ -1,6 +1,4 @@
-# 
-
-Using type
+# Using type
 
 ![Copy URL](media/index/Copy.png)
 Copy URL

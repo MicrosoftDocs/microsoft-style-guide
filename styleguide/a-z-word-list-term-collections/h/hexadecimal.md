@@ -1,6 +1,4 @@
-# 
-
-hexadecimal
+# hexadecimal
 
 ![Copy URL](media/hexadecimal/Copy.png)
 Copy URL

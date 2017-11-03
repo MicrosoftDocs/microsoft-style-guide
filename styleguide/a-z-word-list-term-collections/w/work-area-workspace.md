@@ -1,6 +1,4 @@
-# 
-
-work area, workspace
+# work area, workspace
 
 ![Copy URL](media/work-area-workspace/Copy.png)
 Copy URL

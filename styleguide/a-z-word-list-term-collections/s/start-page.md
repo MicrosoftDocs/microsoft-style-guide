@@ -1,6 +1,4 @@
-# 
-
-start page
+# start page
 
 ![Copy URL](media/start-page/Copy.png)
 Copy URL

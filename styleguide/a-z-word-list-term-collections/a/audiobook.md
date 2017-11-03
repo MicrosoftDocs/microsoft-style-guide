@@ -1,6 +1,4 @@
-# 
-
-attribute
+# attribute
 
 ![Copy URL](media/audiobook/Copy.png)
 Copy URL

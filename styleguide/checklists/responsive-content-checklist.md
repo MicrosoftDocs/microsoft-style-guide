@@ -1,6 +1,4 @@
-﻿# 
-
-Responsive content checklist
+﻿# Responsive content checklist
 
 ![Copy URL](media/responsive-content-checklist/Copy.png)
 Copy URL

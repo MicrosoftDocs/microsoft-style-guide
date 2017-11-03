@@ -1,6 +1,4 @@
-﻿# 
-
-turn on, turn off
+﻿# turn on, turn off
 
 ![Copy URL](media/turn-on-turn-off/Copy.png)
 Copy URL

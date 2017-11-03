@@ -1,6 +1,4 @@
-# 
-
-zoom in, zoom out
+# zoom in, zoom out
 
 ![Copy URL](media/zoom-in-zoom-out/Copy.png)
 Copy URL

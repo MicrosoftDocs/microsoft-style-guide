@@ -1,6 +1,4 @@
-﻿# 
-
-store, marketplace, gallery
+﻿# store, marketplace, gallery
 
 ![Copy URL](media/store-marketplace-gallery/Copy.png)
 Copy URL

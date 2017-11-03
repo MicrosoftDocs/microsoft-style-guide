@@ -1,6 +1,4 @@
-# 
-
-data, datum
+# data, datum
 
 ![Copy URL](media/data-datum/Copy.png)
 Copy URL

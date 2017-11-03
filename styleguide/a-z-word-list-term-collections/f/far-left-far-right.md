@@ -1,6 +1,4 @@
-# 
-
-far-left, far-right
+# far-left, far-right
 
 ![Copy URL](media/far-left-far-right/Copy.png)
 Copy URL

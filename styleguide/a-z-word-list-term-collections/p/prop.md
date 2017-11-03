@@ -1,6 +1,4 @@
-# 
-
-prop
+# prop
 
 ![Copy URL](media/prop/Copy.png)
 Copy URL

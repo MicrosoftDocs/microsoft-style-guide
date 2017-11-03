@@ -1,6 +1,4 @@
-# 
-
-text, text message
+# text, text message
 
 ![Copy URL](media/text-text-message/Copy.png)
 Copy URL

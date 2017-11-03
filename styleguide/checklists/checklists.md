@@ -1,6 +1,4 @@
-# 
-
-Checklists
+# Checklists
 
 ![Copy URL](media/checklists/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-﻿# 
-
-active player, active user
+﻿# active player, active user
 
 ![Copy URL](media/active-player-active-user/Copy.png)
 Copy URL

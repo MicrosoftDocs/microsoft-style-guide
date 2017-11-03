@@ -1,6 +1,4 @@
-# 
-
-platform as a service (PaaS)
+# platform as a service (PaaS)
 
 ![Copy URL](media/platform-as-a-service/Copy.png)
 Copy URL

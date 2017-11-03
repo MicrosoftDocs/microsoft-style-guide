@@ -1,6 +1,4 @@
-# 
-
-kilobit, Kbit
+# kilobit, Kbit
 
 ![Copy URL](media/kilobit/Copy.png)
 Copy URL

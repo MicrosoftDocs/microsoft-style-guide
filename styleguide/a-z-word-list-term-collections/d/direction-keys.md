@@ -1,6 +1,4 @@
-# 
-
-direction keys
+# direction keys
 
 ![Copy URL](media/direction-keys/Copy.png)
 Copy URL

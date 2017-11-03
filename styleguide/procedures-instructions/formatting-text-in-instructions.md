@@ -1,6 +1,4 @@
-﻿# 
-
-Formatting text in instructions
+﻿# Formatting text in instructions
 
 ![Copy URL](media/formatting-text-in-instructions/Copy.png)
 Copy URL

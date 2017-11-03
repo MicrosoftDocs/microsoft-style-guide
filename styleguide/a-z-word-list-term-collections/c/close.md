@@ -1,6 +1,4 @@
-# 
-
-close
+# close
 
 ![Copy URL](media/close/Copy.png)
 Copy URL

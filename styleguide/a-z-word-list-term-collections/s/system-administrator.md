@@ -1,6 +1,4 @@
-# 
-
-system administrator
+# system administrator
 
 ![Copy URL](media/system-administrator/Copy.png)
 Copy URL

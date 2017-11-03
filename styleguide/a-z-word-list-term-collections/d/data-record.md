@@ -1,6 +1,4 @@
-# 
-
-data record
+# data record
 
 ![Copy URL](media/data-record/Copy.png)
 Copy URL

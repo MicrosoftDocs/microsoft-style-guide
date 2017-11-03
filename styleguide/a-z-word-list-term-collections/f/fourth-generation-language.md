@@ -1,6 +1,4 @@
-# 
-
-fourth-generation language
+# fourth-generation language
 
 ![Copy URL](media/fourth-generation-language/Copy.png)
 Copy URL

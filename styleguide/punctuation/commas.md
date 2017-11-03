@@ -1,6 +1,4 @@
-﻿# 
-
-Commas
+﻿# Commas
 
 ![Copy URL](media/commas/Copy.png)
 Copy URL
@@ -9,9 +7,7 @@ Copy URL
 
 Download topic
 
-#### 
-
-#### Use a comma:
+#### #### Use a comma:
 
   - In
     a list of three or more items, include a comma before the conjunction.

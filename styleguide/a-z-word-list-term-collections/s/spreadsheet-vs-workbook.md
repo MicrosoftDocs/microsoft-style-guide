@@ -1,6 +1,4 @@
-# 
-
-spreadsheet vs. workbook
+# spreadsheet vs. workbook
 
 ![Copy URL](media/spreadsheet-vs-workbook/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-navigate
+# navigate
 
 ![Copy URL](media/navigate/Copy.png)
 Copy URL

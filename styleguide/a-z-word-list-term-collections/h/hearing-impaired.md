@@ -1,6 +1,4 @@
-# 
-
-hearing-impaired
+# hearing-impaired
 
 ![Copy URL](media/hearing-impaired/Copy.png)
 Copy URL

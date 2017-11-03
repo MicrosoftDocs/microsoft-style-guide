@@ -1,6 +1,4 @@
-﻿# 
-
-Periods
+﻿# Periods
 
 ![Copy URL](media/periods/Copy.png)
 Copy URL

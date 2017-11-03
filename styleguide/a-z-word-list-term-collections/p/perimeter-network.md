@@ -1,6 +1,4 @@
-# 
-
-perimeter network
+# perimeter network
 
 ![Copy URL](media/perimeter-network/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-master/slave, master/subordinate
+# master/slave, master/subordinate
 
 ![Copy URL](media/master-slave-master-subordinate/Copy.png)
 Copy URL

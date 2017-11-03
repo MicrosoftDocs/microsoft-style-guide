@@ -1,6 +1,4 @@
-# 
-
-demilitarized zone (DMZ)
+# demilitarized zone (DMZ)
 
 ![Copy URL](media/demilitarized-zone-dmz/Copy.png)
 Copy URL

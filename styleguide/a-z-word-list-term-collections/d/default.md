@@ -1,6 +1,4 @@
-# 
-
-default
+# default
 
 ![Copy URL](media/default/Copy.png)
 Copy URL

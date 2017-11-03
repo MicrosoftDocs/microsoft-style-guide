@@ -1,6 +1,4 @@
-# 
-
-3D, three-dimensional
+# 3D, three-dimensional
 
 ![Copy URL](media/3d-three-dimensional/Copy.png)
 Copy URL

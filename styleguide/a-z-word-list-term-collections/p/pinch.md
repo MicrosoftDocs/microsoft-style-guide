@@ -1,6 +1,4 @@
-# 
-
-pinch
+# pinch
 
 ![Copy URL](media/pinch/Copy.png)
 Copy URL

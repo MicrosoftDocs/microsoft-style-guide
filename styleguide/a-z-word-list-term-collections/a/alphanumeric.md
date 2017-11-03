@@ -1,6 +1,4 @@
-# 
-
-alphanumeric
+# alphanumeric
 
 ![Copy URL](media/alphanumeric/Copy.png)
 Copy URL

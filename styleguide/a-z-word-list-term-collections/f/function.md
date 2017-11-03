@@ -1,6 +1,4 @@
-# 
-
-function
+# function
 
 ![Copy URL](media/function/Copy.png)
 Copy URL

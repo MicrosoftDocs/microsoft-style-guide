@@ -1,6 +1,4 @@
-﻿# 
-
-Colons
+﻿# Colons
 
 ![Copy URL](media/colons/Copy.png)
 Copy URL

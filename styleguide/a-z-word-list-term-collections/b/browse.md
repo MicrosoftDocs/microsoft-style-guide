@@ -1,6 +1,4 @@
-# 
-
-browse
+# browse
 
 ![Copy URL](media/browse/Copy.png)
 Copy URL

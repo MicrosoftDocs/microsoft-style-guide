@@ -1,6 +1,4 @@
-# 
-
-software as a service (SaaS)
+# software as a service (SaaS)
 
 ![Copy URL](media/software-as-a-service-saas/Copy.png)
 Copy URL

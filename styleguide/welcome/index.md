@@ -1,6 +1,4 @@
-﻿# 
-
-Welcome
+﻿# Welcome
 
 ![Copy URL](media/index/Copy.png)
 Copy URL

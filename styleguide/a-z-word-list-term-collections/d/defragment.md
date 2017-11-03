@@ -1,6 +1,4 @@
-# 
-
-defragment
+# defragment
 
 ![Copy URL](media/defragment/Copy.png)
 Copy URL

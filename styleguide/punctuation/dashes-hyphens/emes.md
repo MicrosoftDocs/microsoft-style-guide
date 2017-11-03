@@ -1,6 +1,4 @@
-﻿# 
-
-Em dashes
+﻿# Em dashes
 
 ![Copy URL](media/emes/Copy.png)
 Copy URL

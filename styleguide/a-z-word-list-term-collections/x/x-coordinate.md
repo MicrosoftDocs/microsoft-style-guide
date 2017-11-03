@@ -1,6 +1,4 @@
-# 
-
-x-coordinate
+# x-coordinate
 
 ![Copy URL](media/x-coordinate/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-normal, normally
+# normal, normally
 
 ![Copy URL](media/normal-normally/Copy.png)
 Copy URL

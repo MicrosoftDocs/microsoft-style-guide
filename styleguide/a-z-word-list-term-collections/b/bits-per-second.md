@@ -1,6 +1,4 @@
-# 
-
-bits per second
+# bits per second
 
 ![Copy URL](media/bits-per-second/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-operating environment, operating system
+# operating environment, operating system
 
 ![Copy URL](media/operating-environment-operating-system/Copy.png)
 Copy URL

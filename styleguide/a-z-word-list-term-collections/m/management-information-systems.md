@@ -1,6 +1,4 @@
-# 
-
-management information systems
+# management information systems
 
 ![Copy URL](media/management-information-systems/Copy.png)
 Copy URL

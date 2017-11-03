@@ -1,6 +1,4 @@
-# 
-
-key combination
+# key combination
 
 ![Copy URL](media/key-combination/Copy.png)
 Copy URL

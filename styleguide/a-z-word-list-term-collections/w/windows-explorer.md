@@ -1,6 +1,4 @@
-# 
-
-Windows Explorer
+# Windows Explorer
 
 ![Copy URL](media/windows-explorer/Copy.png)
 Copy URL

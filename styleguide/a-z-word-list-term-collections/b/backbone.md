@@ -1,6 +1,4 @@
-﻿# 
-
-auto-
+﻿# auto-
 
 ![Copy URL](media/backbone/Copy.png)
 Copy URL

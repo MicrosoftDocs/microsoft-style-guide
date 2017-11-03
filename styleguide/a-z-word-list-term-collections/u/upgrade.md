@@ -1,6 +1,4 @@
-# 
-
-upgrade
+# upgrade
 
 ![Copy URL](media/upgrade/Copy.png)
 Copy URL

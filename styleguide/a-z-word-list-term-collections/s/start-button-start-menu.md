@@ -1,6 +1,4 @@
-﻿# 
-
-Start button, Start menu
+﻿# Start button, Start menu
 
 ![Copy URL](media/start-button-start-menu/Copy.png)
 Copy URL

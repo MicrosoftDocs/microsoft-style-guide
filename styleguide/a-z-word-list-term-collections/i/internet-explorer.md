@@ -1,6 +1,4 @@
-# 
-
-Internet Explorer
+# Internet Explorer
 
 ![Copy URL](media/internet-explorer/Copy.png)
 Copy URL

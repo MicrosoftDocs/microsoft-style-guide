@@ -1,6 +1,4 @@
-# 
-
-e.g.
+# e.g.
 
 ![Copy URL](media/eg/Copy.png)
 Copy URL

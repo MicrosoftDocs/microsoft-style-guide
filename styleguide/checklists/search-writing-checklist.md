@@ -1,6 +1,4 @@
-# 
-
-Search and writing checklist
+# Search and writing checklist
 
 ![Copy URL](media/search-writing-checklist/Copy.png)
 Copy URL

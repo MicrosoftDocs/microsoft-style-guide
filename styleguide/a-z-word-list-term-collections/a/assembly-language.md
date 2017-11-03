@@ -1,6 +1,4 @@
-﻿# 
-
-ask
+﻿# ask
 
 ![Copy URL](media/assembly-language/Copy.png)
 Copy URL

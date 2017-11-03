@@ -1,6 +1,4 @@
-# 
-
-using, by using, with
+# using, by using, with
 
 ![Copy URL](media/using-by-using-with/Copy.png)
 Copy URL

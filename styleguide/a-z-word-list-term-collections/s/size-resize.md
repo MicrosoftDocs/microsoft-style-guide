@@ -1,6 +1,4 @@
-# 
-
-size, resize
+# size, resize
 
 ![Copy URL](media/size-resize/Copy.png)
 Copy URL

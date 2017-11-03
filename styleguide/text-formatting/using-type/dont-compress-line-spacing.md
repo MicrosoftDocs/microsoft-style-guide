@@ -1,6 +1,4 @@
-﻿# 
-
-Don't compress line spacing
+﻿# Don't compress line spacing
 
 ![Copy URL](media/dont-compress-line-spacing/Copy.png)
 Copy URL

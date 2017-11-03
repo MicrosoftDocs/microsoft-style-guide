@@ -1,6 +1,4 @@
-# 
-
-Developer content
+# Developer content
 
 ![Copy URL](media/index/Copy.png)
 Copy URL

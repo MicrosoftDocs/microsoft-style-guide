@@ -1,6 +1,4 @@
-# 
-
-monitor
+# monitor
 
 ![Copy URL](media/monitor/Copy.png)
 Copy URL

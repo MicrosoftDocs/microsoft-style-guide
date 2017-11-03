@@ -1,6 +1,4 @@
-﻿# 
-
-Use simple words, concise sentences
+﻿# Use simple words, concise sentences
 
 ![Copy URL](media/use-simple-words-concise-sentences/Copy.png)
 Copy URL

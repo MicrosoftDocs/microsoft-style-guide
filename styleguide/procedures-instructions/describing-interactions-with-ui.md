@@ -1,6 +1,4 @@
-﻿# 
-
-Describing interactions with UI
+﻿# Describing interactions with UI
 
 ![Copy URL](media/describing-interactions-with-ui/Copy.png)
 Copy URL

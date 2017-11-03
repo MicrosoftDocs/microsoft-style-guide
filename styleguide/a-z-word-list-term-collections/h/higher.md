@@ -1,6 +1,4 @@
-﻿# 
-
-higher
+﻿# higher
 
 ![Copy URL](media/higher/Copy.png)
 Copy URL

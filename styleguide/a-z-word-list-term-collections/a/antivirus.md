@@ -1,6 +1,4 @@
-# 
-
-antivirus
+# antivirus
 
 ![Copy URL](media/antivirus/Copy.png)
 Copy URL

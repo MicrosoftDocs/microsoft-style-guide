@@ -1,6 +1,4 @@
-﻿# 
-
-its vs. it's
+﻿# its vs. it's
 
 ![Copy URL](media/its-vs-its/Copy.png)
 Copy URL

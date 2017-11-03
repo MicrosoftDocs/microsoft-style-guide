@@ -1,6 +1,4 @@
-# 
-
-video card
+# video card
 
 ![Copy URL](media/video-card/Copy.png)
 Copy URL

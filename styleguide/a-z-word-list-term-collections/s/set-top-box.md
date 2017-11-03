@@ -1,6 +1,4 @@
-# 
-
-set-top box
+# set-top box
 
 ![Copy URL](media/set-top-box/Copy.png)
 Copy URL

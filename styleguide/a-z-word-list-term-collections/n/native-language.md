@@ -1,6 +1,4 @@
-# 
-
-native language
+# native language
 
 ![Copy URL](media/native-language/Copy.png)
 Copy URL

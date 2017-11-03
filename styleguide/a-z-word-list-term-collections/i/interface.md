@@ -1,6 +1,4 @@
-# 
-
-interface
+# interface
 
 ![Copy URL](media/interface/Copy.png)
 Copy URL

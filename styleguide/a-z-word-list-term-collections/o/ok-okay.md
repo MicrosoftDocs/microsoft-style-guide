@@ -1,6 +1,4 @@
-# 
-
-OK, okay
+# OK, okay
 
 ![Copy URL](media/ok-okay/Copy.png)
 Copy URL

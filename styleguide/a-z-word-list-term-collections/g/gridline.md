@@ -1,6 +1,4 @@
-# 
-
-gridline
+# gridline
 
 ![Copy URL](media/gridline/Copy.png)
 Copy URL

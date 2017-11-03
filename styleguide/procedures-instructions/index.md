@@ -1,6 +1,4 @@
-﻿# 
-
-Procedures and instructions
+﻿# Procedures and instructions
 
 ![Copy URL](media/index/Copy.png)
 Copy URL

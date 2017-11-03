@@ -1,6 +1,4 @@
-# 
-
-placeholder
+# placeholder
 
 ![Copy URL](media/placeholder/Copy.png)
 Copy URL

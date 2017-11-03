@@ -1,6 +1,4 @@
-# 
-
-runtime
+# runtime
 
 ![Copy URL](media/runtime/Copy.png)
 Copy URL

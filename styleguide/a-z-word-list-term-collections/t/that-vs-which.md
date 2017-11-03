@@ -1,6 +1,4 @@
-﻿# 
-
-that vs. which
+﻿# that vs. which
 
 ![Copy URL](media/that-vs-which/Copy.png)
 Copy URL

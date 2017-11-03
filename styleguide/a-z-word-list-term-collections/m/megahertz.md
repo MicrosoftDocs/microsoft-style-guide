@@ -1,6 +1,4 @@
-# 
-
-megahertz, MHz
+# megahertz, MHz
 
 ![Copy URL](media/megahertz/Copy.png)
 Copy URL

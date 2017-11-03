@@ -1,6 +1,4 @@
-# 
-
-breakpoint
+# breakpoint
 
 ![Copy URL](media/breakpoint/Copy.png)
 Copy URL

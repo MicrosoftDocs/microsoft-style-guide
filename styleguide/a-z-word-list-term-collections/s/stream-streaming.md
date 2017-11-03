@@ -1,6 +1,4 @@
-# 
-
-stream, streaming
+# stream, streaming
 
 ![Copy URL](media/stream-streaming/Copy.png)
 Copy URL

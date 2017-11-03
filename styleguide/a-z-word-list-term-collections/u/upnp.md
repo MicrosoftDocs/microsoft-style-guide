@@ -1,6 +1,4 @@
-﻿# 
-
-UPnP
+﻿# UPnP
 
 ![Copy URL](media/upnp/Copy.png)
 Copy URL

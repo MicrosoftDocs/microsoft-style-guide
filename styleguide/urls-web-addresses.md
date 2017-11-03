@@ -1,6 +1,4 @@
-# 
-
-URLs and web addresses
+# URLs and web addresses
 
 ![Copy URL](media/urls-web-addresses/Copy.png)
 Copy URL

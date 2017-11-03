@@ -1,6 +1,4 @@
-# 
-
-word processing, word-processing
+# word processing, word-processing
 
 ![Copy URL](media/word-processing/Copy.png)
 Copy URL

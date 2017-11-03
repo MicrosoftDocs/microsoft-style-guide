@@ -1,6 +1,4 @@
-# 
-
-arrow keys
+# arrow keys
 
 ![Copy URL](media/arrow-keys/Copy.png)
 Copy URL

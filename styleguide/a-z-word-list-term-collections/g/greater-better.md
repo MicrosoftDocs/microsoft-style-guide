@@ -1,6 +1,4 @@
-# 
-
-greater, better
+# greater, better
 
 ![Copy URL](media/greater-better/Copy.png)
 Copy URL

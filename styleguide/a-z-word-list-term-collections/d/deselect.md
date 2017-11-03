@@ -1,6 +1,4 @@
-# 
-
-deselect
+# deselect
 
 ![Copy URL](media/deselect/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-Question marks
+# Question marks
 
 ![Copy URL](media/question-marks/Copy.png)
 Copy URL

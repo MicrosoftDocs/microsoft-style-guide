@@ -1,6 +1,4 @@
-# 
-
-number sign (\#)
+# number sign (\#)
 
 ![Copy URL](media/number-sign/Copy.png)
 Copy URL

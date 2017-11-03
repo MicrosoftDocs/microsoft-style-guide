@@ -1,6 +1,4 @@
-﻿# 
-
-auto-
+﻿# auto-
 
 ![Copy URL](media/auto/Copy.png)
 Copy URL

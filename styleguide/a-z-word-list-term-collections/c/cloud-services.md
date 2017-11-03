@@ -1,6 +1,4 @@
-# 
-
-cloud services
+# cloud services
 
 ![Copy URL](media/cloud-services/Copy.png)
 Copy URL

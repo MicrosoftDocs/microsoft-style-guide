@@ -1,6 +1,4 @@
-# 
-
-greylist
+# greylist
 
 ![Copy URL](media/greylist/Copy.png)
 Copy URL

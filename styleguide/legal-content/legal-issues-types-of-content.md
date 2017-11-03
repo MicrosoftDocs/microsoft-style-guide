@@ -1,6 +1,4 @@
-﻿# 
-
-Legal issues and types of content
+﻿# Legal issues and types of content
 
 ![Copy URL](media/legal-issues-types-of-content/Copy.png)
 Copy URL

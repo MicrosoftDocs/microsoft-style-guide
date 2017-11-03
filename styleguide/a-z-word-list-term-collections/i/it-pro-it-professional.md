@@ -1,6 +1,4 @@
-﻿# 
-
-IT pro, IT professional
+﻿# IT pro, IT professional
 
 ![Copy URL](media/it-pro-it-professional/Copy.png)
 Copy URL

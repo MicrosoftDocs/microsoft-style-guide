@@ -1,6 +1,4 @@
-# 
-
-Images and video
+# Images and video
 
 ![Copy URL](media/index/Copy.png)
 Copy URL

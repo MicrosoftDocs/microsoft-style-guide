@@ -1,6 +1,4 @@
-# 
-
-appendix, appendices
+# appendix, appendices
 
 ![Copy URL](media/appendix-appendices/Copy.png)
 Copy URL

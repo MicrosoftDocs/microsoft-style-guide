@@ -1,6 +1,4 @@
-﻿# 
-
-Formatting common text elements
+﻿# Formatting common text elements
 
 ![Copy URL](media/formatting-common-text-elements/Copy.png)
 Copy URL

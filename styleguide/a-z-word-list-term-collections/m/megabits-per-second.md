@@ -1,6 +1,4 @@
-# 
-
-megabits per second, Mbps
+# megabits per second, Mbps
 
 ![Copy URL](media/megabits-per-second/Copy.png)
 Copy URL

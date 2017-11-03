@@ -1,6 +1,4 @@
-# 
-
-deprecated
+# deprecated
 
 ![Copy URL](media/deprecated/Copy.png)
 Copy URL

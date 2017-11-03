@@ -1,6 +1,4 @@
-# 
-
-wireframe
+# wireframe
 
 ![Copy URL](media/wireframe/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-system software
+# system software
 
 ![Copy URL](media/system-software/Copy.png)
 Copy URL

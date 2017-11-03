@@ -1,6 +1,4 @@
-# 
-
-palette
+# palette
 
 ![Copy URL](media/palette/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-﻿# 
-
-Mouse and mouse interaction terms
+﻿# Mouse and mouse interaction terms
 
 ![Copy URL](media/mouse-mouse-interaction-terms/Copy.png)
 Copy URL
@@ -87,9 +85,7 @@ When you need to talk specifically about the mouse, mouse interactions, or the p
 </tbody>
 </table>
 
-#### 
-
-#### Mouse devices
+#### #### Mouse devices
 
 <table>
 <tbody>

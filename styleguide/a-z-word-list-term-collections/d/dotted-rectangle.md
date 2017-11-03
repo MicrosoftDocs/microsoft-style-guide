@@ -1,6 +1,4 @@
-# 
-
-dotted rectangle
+# dotted rectangle
 
 ![Copy URL](media/dotted-rectangle/Copy.png)
 Copy URL

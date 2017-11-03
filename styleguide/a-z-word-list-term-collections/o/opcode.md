@@ -1,6 +1,4 @@
-# 
-
-opcode
+# opcode
 
 ![Copy URL](media/opcode/Copy.png)
 Copy URL

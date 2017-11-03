@@ -1,6 +1,4 @@
-# 
-
-call out, callout
+# call out, callout
 
 ![Copy URL](media/call-out-callout/Copy.png)
 Copy URL

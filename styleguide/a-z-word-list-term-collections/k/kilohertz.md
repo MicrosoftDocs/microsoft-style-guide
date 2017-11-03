@@ -1,6 +1,4 @@
-# 
-
-kilohertz, KHz
+# kilohertz, KHz
 
 ![Copy URL](media/kilohertz/Copy.png)
 Copy URL

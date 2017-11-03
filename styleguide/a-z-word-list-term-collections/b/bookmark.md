@@ -1,6 +1,4 @@
-# 
-
-bookmark
+# bookmark
 
 ![Copy URL](media/bookmark/Copy.png)
 Copy URL

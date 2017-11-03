@@ -1,6 +1,4 @@
-# 
-
-from vs. on
+# from vs. on
 
 ![Copy URL](media/from-vs-on/Copy.png)
 Copy URL

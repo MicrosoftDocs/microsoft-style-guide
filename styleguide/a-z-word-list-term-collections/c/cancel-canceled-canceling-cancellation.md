@@ -1,6 +1,4 @@
-# 
-
-can, may
+# can, may
 
 ![Copy URL](media/cancel-canceled-canceling-cancellation/Copy.png)
 Copy URL

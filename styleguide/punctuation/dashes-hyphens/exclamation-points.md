@@ -1,6 +1,4 @@
-# 
-
-Exclamation points
+# Exclamation points
 
 ![Copy URL](media/exclamation-points/Copy.png)
 Copy URL

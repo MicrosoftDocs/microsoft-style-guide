@@ -1,6 +1,4 @@
-# 
-
-and/or
+# and/or
 
 ![Copy URL](media/antialiasing/Copy.png)
 Copy URL

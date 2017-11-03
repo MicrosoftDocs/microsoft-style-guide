@@ -1,6 +1,4 @@
-﻿# 
-
-dialog box, dialog
+﻿# dialog box, dialog
 
 ![Copy URL](media/dialog-box-dialog/Copy.png)
 Copy URL

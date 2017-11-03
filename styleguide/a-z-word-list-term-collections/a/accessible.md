@@ -1,6 +1,4 @@
-# 
-
-accessible
+# accessible
 
 ![Copy URL](media/accessible/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-table of contents
+# table of contents
 
 ![Copy URL](media/table-of-contents/Copy.png)
 Copy URL

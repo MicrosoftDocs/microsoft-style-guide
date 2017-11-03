@@ -1,6 +1,4 @@
-﻿# 
-
-Global communications
+﻿# Global communications
 
 ![Copy URL](media/index/Copy.png)
 Copy URL

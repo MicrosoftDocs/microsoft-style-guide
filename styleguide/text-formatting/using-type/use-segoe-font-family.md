@@ -1,6 +1,4 @@
-# 
-
-Use the Segoe font family
+# Use the Segoe font family
 
 ![Copy URL](media/use-segoe-font-family/Copy.png)
 Copy URL

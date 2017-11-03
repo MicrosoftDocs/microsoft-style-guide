@@ -1,6 +1,4 @@
-﻿# 
-
-Final publishing check
+﻿# Final publishing check
 
 ![Copy URL](media/final-publishing-check/Copy.png)
 Copy URL

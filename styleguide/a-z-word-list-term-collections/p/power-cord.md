@@ -1,6 +1,4 @@
-# 
-
-power cord
+# power cord
 
 ![Copy URL](media/power-cord/Copy.png)
 Copy URL

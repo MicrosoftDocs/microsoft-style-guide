@@ -1,6 +1,4 @@
-﻿# 
-
-disable, disabled
+﻿# disable, disabled
 
 ![Copy URL](media/disable-disabled/Copy.png)
 Copy URL

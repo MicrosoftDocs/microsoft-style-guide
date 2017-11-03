@@ -1,6 +1,4 @@
-# 
-
-time stamp
+# time stamp
 
 ![Copy URL](media/time-stamp/Copy.png)
 Copy URL

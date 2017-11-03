@@ -1,6 +1,4 @@
-﻿# 
-
-euro
+﻿# euro
 
 ![Copy URL](media/euro/Copy.png)
 Copy URL

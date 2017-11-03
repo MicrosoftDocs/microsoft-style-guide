@@ -1,6 +1,4 @@
-# 
-
-W3C
+# W3C
 
 ![Copy URL](media/w3c/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-joystick
+# joystick
 
 ![Copy URL](media/joystick/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-unregister
+# unregister
 
 ![Copy URL](media/unregister/Copy.png)
 Copy URL

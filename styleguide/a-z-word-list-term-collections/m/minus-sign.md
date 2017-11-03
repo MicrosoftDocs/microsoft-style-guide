@@ -1,6 +1,4 @@
-﻿# 
-
-minus sign (–)
+﻿# minus sign (–)
 
 ![Copy URL](media/minus-sign/Copy.png)
 Copy URL

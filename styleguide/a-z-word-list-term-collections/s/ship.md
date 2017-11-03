@@ -1,6 +1,4 @@
-# 
-
-ship
+# ship
 
 ![Copy URL](media/ship/Copy.png)
 Copy URL

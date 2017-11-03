@@ -1,6 +1,4 @@
-# 
-
-message
+# message
 
 ![Copy URL](media/message/Copy.png)
 Copy URL

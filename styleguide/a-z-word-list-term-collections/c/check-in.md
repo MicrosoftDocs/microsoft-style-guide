@@ -1,6 +1,4 @@
-# 
-
-check in
+# check in
 
 ![Copy URL](media/check-in/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-cut, cut-and-paste
+# cut, cut-and-paste
 
 ![Copy URL](media/cut-and-paste/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-command line, command-line
+# command line, command-line
 
 ![Copy URL](media/command-line/Copy.png)
 Copy URL

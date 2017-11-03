@@ -1,6 +1,4 @@
-# 
-
-HTML
+# HTML
 
 ![Copy URL](media/html/Copy.png)
 Copy URL

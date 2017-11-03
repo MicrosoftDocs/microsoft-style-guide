@@ -1,6 +1,4 @@
-# 
-
-virtual
+# virtual
 
 ![Copy URL](media/virtual/Copy.png)
 Copy URL

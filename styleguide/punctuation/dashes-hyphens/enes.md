@@ -1,6 +1,4 @@
-﻿# 
-
-En dashes
+﻿# En dashes
 
 ![Copy URL](media/enes/Copy.png)
 Copy URL

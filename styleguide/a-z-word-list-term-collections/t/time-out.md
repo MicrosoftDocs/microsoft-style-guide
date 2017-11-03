@@ -1,6 +1,4 @@
-# 
-
-time out, time-out
+# time out, time-out
 
 ![Copy URL](media/time-out/Copy.png)
 Copy URL

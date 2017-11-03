@@ -1,6 +1,4 @@
-# 
-
-Formatting punctuation
+# Formatting punctuation
 
 ![Copy URL](media/formatting-punctuation/Copy.png)
 Copy URL

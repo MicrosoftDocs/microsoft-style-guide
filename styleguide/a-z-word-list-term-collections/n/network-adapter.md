@@ -1,6 +1,4 @@
-# 
-
-network adapter
+# network adapter
 
 ![Copy URL](media/network-adapter/Copy.png)
 Copy URL

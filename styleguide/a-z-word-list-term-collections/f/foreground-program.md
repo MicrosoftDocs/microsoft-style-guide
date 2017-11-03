@@ -1,6 +1,4 @@
-# 
-
-foreground program
+# foreground program
 
 ![Copy URL](media/foreground-program/Copy.png)
 Copy URL

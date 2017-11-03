@@ -1,6 +1,4 @@
-# 
-
-SQL, SQL Server
+# SQL, SQL Server
 
 ![Copy URL](media/sql-sql-server/Copy.png)
 Copy URL

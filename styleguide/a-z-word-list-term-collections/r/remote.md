@@ -1,6 +1,4 @@
-# 
-
-remote
+# remote
 
 ![Copy URL](media/remote/Copy.png)
 Copy URL

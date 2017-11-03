@@ -1,6 +1,4 @@
-# 
-
-asterisk (\*)
+# asterisk (\*)
 
 ![Copy URL](media/asterisk/Copy.png)
 Copy URL

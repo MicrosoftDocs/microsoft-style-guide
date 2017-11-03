@@ -1,6 +1,4 @@
-# 
-
-hot spot, hotspot
+# hot spot, hotspot
 
 ![Copy URL](media/hot-spot-hotspot/Copy.png)
 Copy URL

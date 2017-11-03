@@ -1,6 +1,4 @@
-﻿# 
-
-Global communications checklist
+﻿# Global communications checklist
 
 ![Copy URL](media/global-communications-checklist/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-big data
+# big data
 
 ![Copy URL](media/big-data/Copy.png)
 Copy URL

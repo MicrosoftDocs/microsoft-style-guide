@@ -1,6 +1,4 @@
-# 
-
-list box
+# list box
 
 ![Copy URL](media/list-box/Copy.png)
 Copy URL

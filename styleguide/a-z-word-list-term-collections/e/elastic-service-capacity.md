@@ -1,6 +1,4 @@
-# 
-
-elastic service capacity
+# elastic service capacity
 
 ![Copy URL](media/elastic-service-capacity/Copy.png)
 Copy URL

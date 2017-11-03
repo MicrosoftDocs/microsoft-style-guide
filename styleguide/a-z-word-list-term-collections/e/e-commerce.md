@@ -1,6 +1,4 @@
-# 
-
-e-book
+# e-book
 
 ![Copy URL](media/e-commerce/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-﻿# 
-
-Security, safety, and privacy content
+﻿# Security, safety, and privacy content
 
 ![Copy URL](media/security-safety-privacy-content/Copy.png)
 Copy URL

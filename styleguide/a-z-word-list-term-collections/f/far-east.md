@@ -5978,9 +5978,7 @@ Microsoft Writing Style Guide
 
 Download style guide
 
-# 
-
-Far East
+# Far East
 
 ![Copy URL](media/./far-east/Copy.png)
 Copy URL

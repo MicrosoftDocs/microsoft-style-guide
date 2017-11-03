@@ -1,6 +1,4 @@
-# 
-
-edutainment
+# edutainment
 
 ![Copy URL](media/edutainment/Copy.png)
 Copy URL

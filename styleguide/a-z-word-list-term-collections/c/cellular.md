@@ -1,6 +1,4 @@
-﻿# 
-
-cellular
+﻿# cellular
 
 ![Copy URL](media/cellular/Copy.png)
 Copy URL

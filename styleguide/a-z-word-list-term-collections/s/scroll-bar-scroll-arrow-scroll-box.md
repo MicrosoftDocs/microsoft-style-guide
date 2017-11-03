@@ -1,6 +1,4 @@
-# 
-
-scroll bar, scroll arrow, scroll box
+# scroll bar, scroll arrow, scroll box
 
 ![Copy URL](media/scroll-bar-scroll-arrow-scroll-box/Copy.png)
 Copy URL

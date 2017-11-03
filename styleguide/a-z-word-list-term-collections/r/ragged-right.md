@@ -1,6 +1,4 @@
-# 
-
-ragged right
+# ragged right
 
 ![Copy URL](media/ragged-right/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-subaddress
+# subaddress
 
 ![Copy URL](media/subaddress/Copy.png)
 Copy URL

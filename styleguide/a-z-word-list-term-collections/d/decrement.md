@@ -1,6 +1,4 @@
-# 
-
-deceptive software
+# deceptive software
 
 ![Copy URL](media/decrement/Copy.png)
 Copy URL

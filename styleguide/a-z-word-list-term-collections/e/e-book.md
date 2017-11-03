@@ -1,6 +1,4 @@
-# 
-
-e-book
+# e-book
 
 ![Copy URL](media/e-book/Copy.png)
 Copy URL

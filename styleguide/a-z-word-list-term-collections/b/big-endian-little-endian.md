@@ -1,6 +1,4 @@
-# 
-
-big data
+# big data
 
 ![Copy URL](media/big-endian-little-endian/Copy.png)
 Copy URL

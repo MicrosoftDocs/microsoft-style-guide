@@ -1,6 +1,4 @@
-# 
-
-display adapter, display driver
+# display adapter, display driver
 
 ![Copy URL](media/display-adapter-display-driver/Copy.png)
 Copy URL

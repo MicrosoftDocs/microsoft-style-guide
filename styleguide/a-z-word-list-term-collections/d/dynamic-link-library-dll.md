@@ -1,6 +1,4 @@
-﻿# 
-
-dynamic-link library (DLL)
+﻿# dynamic-link library (DLL)
 
 ![Copy URL](media/dynamic-link-library-dll/Copy.png)
 Copy URL

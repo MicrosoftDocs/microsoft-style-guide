@@ -1,6 +1,4 @@
-﻿# 
-
-System requirements
+﻿# System requirements
 
 ![Copy URL](media/system-requirements/Copy.png)
 Copy URL

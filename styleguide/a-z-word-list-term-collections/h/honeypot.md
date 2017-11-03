@@ -1,6 +1,4 @@
-# 
-
-honeypot
+# honeypot
 
 ![Copy URL](media/honeypot/Copy.png)
 Copy URL

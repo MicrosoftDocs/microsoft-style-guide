@@ -1,6 +1,4 @@
-# 
-
-kilobytes per second, KBps
+# kilobytes per second, KBps
 
 ![Copy URL](media/kilobytes-per-second/Copy.png)
 Copy URL

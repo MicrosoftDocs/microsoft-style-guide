@@ -1,6 +1,4 @@
-# 
-
-increment
+# increment
 
 ![Copy URL](media/increment/Copy.png)
 Copy URL

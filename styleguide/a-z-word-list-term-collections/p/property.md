@@ -1,6 +1,4 @@
-# 
-
-property
+# property
 
 ![Copy URL](media/property/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-﻿# 
-
-sorry
+﻿# sorry
 
 ![Copy URL](media/sorry/Copy.png)
 Copy URL

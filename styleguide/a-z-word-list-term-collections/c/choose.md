@@ -1,6 +1,4 @@
-# 
-
-child folder
+# child folder
 
 ![Copy URL](media/choose/Copy.png)
 Copy URL

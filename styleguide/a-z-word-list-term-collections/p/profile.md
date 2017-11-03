@@ -1,6 +1,4 @@
-# 
-
-profile
+# profile
 
 ![Copy URL](media/profile/Copy.png)
 Copy URL

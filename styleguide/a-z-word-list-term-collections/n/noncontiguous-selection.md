@@ -1,6 +1,4 @@
-# 
-
-noncontiguous selection
+# noncontiguous selection
 
 ![Copy URL](media/noncontiguous-selection/Copy.png)
 Copy URL

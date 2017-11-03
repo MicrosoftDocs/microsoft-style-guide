@@ -1,6 +1,4 @@
-# 
-
-metafile
+# metafile
 
 ![Copy URL](media/metafile/Copy.png)
 Copy URL

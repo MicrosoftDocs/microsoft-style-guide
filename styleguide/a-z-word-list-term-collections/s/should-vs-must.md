@@ -1,6 +1,4 @@
-# 
-
-should vs. must
+# should vs. must
 
 ![Copy URL](media/should-vs-must/Copy.png)
 Copy URL

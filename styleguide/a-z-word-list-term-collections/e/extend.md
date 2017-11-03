@@ -1,6 +1,4 @@
-# 
-
-extend
+# extend
 
 ![Copy URL](media/extend/Copy.png)
 Copy URL

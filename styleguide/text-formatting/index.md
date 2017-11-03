@@ -1,6 +1,4 @@
-# 
-
-Text formatting
+# Text formatting
 
 ![Copy URL](media/index/Copy.png)
 Copy URL

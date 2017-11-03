@@ -1,6 +1,4 @@
-# 
-
-home directory
+# home directory
 
 ![Copy URL](media/home-directory/Copy.png)
 Copy URL

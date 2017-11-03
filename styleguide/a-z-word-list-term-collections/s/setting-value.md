@@ -1,6 +1,4 @@
-# 
-
-setting, value
+# setting, value
 
 ![Copy URL](media/setting-value/Copy.png)
 Copy URL

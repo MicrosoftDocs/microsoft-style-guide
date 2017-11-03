@@ -1,6 +1,4 @@
-# 
-
-UK
+# UK
 
 ![Copy URL](media/uk/Copy.png)
 Copy URL

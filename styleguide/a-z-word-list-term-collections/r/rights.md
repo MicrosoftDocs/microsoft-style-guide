@@ -1,6 +1,4 @@
-# 
-
-rights
+# rights
 
 ![Copy URL](media/rights/Copy.png)
 Copy URL

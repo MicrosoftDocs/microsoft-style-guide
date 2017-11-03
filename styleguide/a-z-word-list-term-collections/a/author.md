@@ -1,6 +1,4 @@
-# 
-
-author
+# author
 
 ![Copy URL](media/author/Copy.png)
 Copy URL

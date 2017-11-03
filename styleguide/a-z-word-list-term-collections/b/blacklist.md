@@ -1,6 +1,4 @@
-# 
-
-blacklist
+# blacklist
 
 ![Copy URL](media/blacklist/Copy.png)
 Copy URL

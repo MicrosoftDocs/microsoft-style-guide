@@ -1,6 +1,4 @@
-# 
-
-erase
+# erase
 
 ![Copy URL](media/et-al/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-domain
+# domain
 
 ![Copy URL](media/domain/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-running foot, running head
+# running foot, running head
 
 ![Copy URL](media/running-foot-running-head/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-Content-planning checklist
+# Content-planning checklist
 
 ![Copy URL](media/content-planning-checklist/Copy.png)
 Copy URL

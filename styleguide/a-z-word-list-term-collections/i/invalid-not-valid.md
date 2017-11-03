@@ -1,6 +1,4 @@
-# 
-
-invalid, not valid
+# invalid, not valid
 
 ![Copy URL](media/invalid-not-valid/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-subclass
+# subclass
 
 ![Copy URL](media/subclass/Copy.png)
 Copy URL

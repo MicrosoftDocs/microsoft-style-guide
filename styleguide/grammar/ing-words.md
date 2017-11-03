@@ -1,6 +1,4 @@
-﻿# 
-
-Words ending in -ing
+﻿# Words ending in -ing
 
 ![Copy URL](media/ing-words/Copy.png)
 Copy URL

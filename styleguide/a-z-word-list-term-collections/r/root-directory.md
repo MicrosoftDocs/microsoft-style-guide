@@ -1,6 +1,4 @@
-﻿# 
-
-root directory
+﻿# root directory
 
 ![Copy URL](media/root-directory/Copy.png)
 Copy URL

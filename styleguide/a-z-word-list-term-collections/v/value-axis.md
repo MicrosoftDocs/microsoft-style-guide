@@ -1,6 +1,4 @@
-# 
-
-value axis
+# value axis
 
 ![Copy URL](media/value-axis/Copy.png)
 Copy URL

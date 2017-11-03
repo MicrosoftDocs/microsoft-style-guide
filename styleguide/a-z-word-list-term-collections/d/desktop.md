@@ -1,6 +1,4 @@
-# 
-
-desktop
+# desktop
 
 ![Copy URL](media/desktop/Copy.png)
 Copy URL

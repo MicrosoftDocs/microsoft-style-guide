@@ -1,6 +1,4 @@
-# 
-
-ROM
+# ROM
 
 ![Copy URL](media/rom/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-voicemail
+# voicemail
 
 ![Copy URL](media/voicemail/Copy.png)
 Copy URL

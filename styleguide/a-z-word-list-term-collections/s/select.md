@@ -1,6 +1,4 @@
-# 
-
-select
+# select
 
 ![Copy URL](media/select/Copy.png)
 Copy URL

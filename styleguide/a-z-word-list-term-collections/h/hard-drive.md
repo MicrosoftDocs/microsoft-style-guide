@@ -1,6 +1,4 @@
-# 
-
-hard drive
+# hard drive
 
 ![Copy URL](media/hard-drive/Copy.png)
 Copy URL

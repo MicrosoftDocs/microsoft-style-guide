@@ -1,6 +1,4 @@
-# 
-
-peripheral
+# peripheral
 
 ![Copy URL](media/peripheral/Copy.png)
 Copy URL

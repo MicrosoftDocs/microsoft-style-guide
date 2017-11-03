@@ -1,6 +1,4 @@
-# 
-
-cabling
+# cabling
 
 ![Copy URL](media/cabling/Copy.png)
 Copy URL

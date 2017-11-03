@@ -1,6 +1,4 @@
-# 
-
-makefile
+# makefile
 
 ![Copy URL](media/makefile/Copy.png)
 Copy URL

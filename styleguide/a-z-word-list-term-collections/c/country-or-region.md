@@ -1,6 +1,4 @@
-# 
-
-country or region
+# country or region
 
 ![Copy URL](media/country-or-region/Copy.png)
 Copy URL

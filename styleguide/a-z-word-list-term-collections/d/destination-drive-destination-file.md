@@ -1,6 +1,4 @@
-# 
-
-destination drive, destination file
+# destination drive, destination file
 
 ![Copy URL](media/destination-drive-destination-file/Copy.png)
 Copy URL

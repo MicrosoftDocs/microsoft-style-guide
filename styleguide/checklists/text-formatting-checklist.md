@@ -1,6 +1,4 @@
-﻿# 
-
-Text-formatting checklist
+﻿# Text-formatting checklist
 
 ![Copy URL](media/text-formatting-checklist/Copy.png)
 Copy URL

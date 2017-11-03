@@ -1,6 +1,4 @@
-# 
-
-ensure, insure, assure
+# ensure, insure, assure
 
 ![Copy URL](media/ensure-insure-assure/Copy.png)
 Copy URL

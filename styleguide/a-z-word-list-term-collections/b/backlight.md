@@ -1,6 +1,4 @@
-# 
-
-backlight
+# backlight
 
 ![Copy URL](media/backlight/Copy.png)
 Copy URL

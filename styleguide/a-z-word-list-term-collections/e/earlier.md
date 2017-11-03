@@ -1,6 +1,4 @@
-# 
-
-earlier
+# earlier
 
 ![Copy URL](media/earlier/Copy.png)
 Copy URL

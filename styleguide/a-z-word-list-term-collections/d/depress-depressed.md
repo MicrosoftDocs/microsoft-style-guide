@@ -1,6 +1,4 @@
-# 
-
-depress, depressed
+# depress, depressed
 
 ![Copy URL](media/depress-depressed/Copy.png)
 Copy URL

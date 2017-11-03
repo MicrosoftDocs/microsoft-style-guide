@@ -1,6 +1,4 @@
-# 
-
-inside
+# inside
 
 ![Copy URL](media/inside/Copy.png)
 Copy URL

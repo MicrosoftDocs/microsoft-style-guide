@@ -1,6 +1,4 @@
-﻿# 
-
-Microsoft Editorial Board
+﻿# Microsoft Editorial Board
 
 ![Copy URL](media/editorial-board/Copy.png)
 Copy URL

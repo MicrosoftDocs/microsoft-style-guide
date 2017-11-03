@@ -1,6 +1,4 @@
-# 
-
-nonprintable, nonprinting
+# nonprintable, nonprinting
 
 ![Copy URL](media/nonprintable-nonprinting/Copy.png)
 Copy URL

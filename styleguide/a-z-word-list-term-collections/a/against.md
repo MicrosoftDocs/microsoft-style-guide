@@ -1,6 +1,4 @@
-# 
-
-against
+# against
 
 ![Copy URL](media/against/Copy.png)
 Copy URL

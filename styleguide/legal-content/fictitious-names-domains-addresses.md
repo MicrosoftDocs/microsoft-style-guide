@@ -1,6 +1,4 @@
-﻿# 
-
-Fictitious names, domains, and addresses
+﻿# Fictitious names, domains, and addresses
 
 ![Copy URL](media/fictitious-names-domains-addresses/Copy.png)
 Copy URL

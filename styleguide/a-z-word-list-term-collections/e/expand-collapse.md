@@ -1,6 +1,4 @@
-# 
-
-expand, collapse
+# expand, collapse
 
 ![Copy URL](media/expand-collapse/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-deaf or hard-of-hearing
+# deaf or hard-of-hearing
 
 ![Copy URL](media/deaf-or-hard-of-hearing/Copy.png)
 Copy URL

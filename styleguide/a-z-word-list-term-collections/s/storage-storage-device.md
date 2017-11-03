@@ -1,6 +1,4 @@
-# 
-
-storage, storage device
+# storage, storage device
 
 ![Copy URL](media/storage-storage-device/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-﻿# 
-
-access
+﻿# access
 
 ![Copy URL](media/access/Copy.png)
 Copy URL

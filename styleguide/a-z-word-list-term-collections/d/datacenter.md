@@ -1,6 +1,4 @@
-# 
-
-datacenter
+# datacenter
 
 ![Copy URL](media/datacenter/Copy.png)
 Copy URL

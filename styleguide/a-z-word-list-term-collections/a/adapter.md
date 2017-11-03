@@ -1,6 +1,4 @@
-# 
-
-adapter
+# adapter
 
 ![Copy URL](media/adapter/Copy.png)
 Copy URL

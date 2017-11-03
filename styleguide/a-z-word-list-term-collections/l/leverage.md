@@ -1,6 +1,4 @@
-# 
-
-leverage
+# leverage
 
 ![Copy URL](media/leverage/Copy.png)
 Copy URL

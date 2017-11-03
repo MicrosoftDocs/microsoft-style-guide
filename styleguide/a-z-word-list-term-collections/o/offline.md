@@ -1,6 +1,4 @@
-# 
-
-offline
+# offline
 
 ![Copy URL](media/offline/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-﻿# 
-
-Formatting developer text elements
+﻿# Formatting developer text elements
 
 ![Copy URL](media/formatting-developer-text-elements/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-global
+# global
 
 ![Copy URL](media/global/Copy.png)
 Copy URL

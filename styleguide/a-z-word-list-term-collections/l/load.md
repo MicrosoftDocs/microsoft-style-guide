@@ -1,6 +1,4 @@
-# 
-
-load
+# load
 
 ![Copy URL](media/load/Copy.png)
 Copy URL

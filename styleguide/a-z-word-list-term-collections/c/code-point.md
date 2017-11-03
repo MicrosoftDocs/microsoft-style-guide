@@ -1,6 +1,4 @@
-# 
-
-code point
+# code point
 
 ![Copy URL](media/code-point/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-obsolete
+# obsolete
 
 ![Copy URL](media/obsolete/Copy.png)
 Copy URL

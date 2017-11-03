@@ -1,6 +1,4 @@
-# 
-
-graphic, graphics, graphical
+# graphic, graphics, graphical
 
 ![Copy URL](media/graphic-graphics-graphical/Copy.png)
 Copy URL

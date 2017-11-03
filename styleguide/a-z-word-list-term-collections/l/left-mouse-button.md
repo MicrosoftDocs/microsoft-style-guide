@@ -1,6 +1,4 @@
-# 
-
-left mouse button
+# left mouse button
 
 ![Copy URL](media/left-mouse-button/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-system prompt
+# system prompt
 
 ![Copy URL](media/system-prompt/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-video driver
+# video driver
 
 ![Copy URL](media/video-driver/Copy.png)
 Copy URL

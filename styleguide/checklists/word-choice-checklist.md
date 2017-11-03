@@ -1,6 +1,4 @@
-﻿# 
-
-Word choice checklist
+﻿# Word choice checklist
 
 ![Copy URL](media/word-choice-checklist/Copy.png)
 Copy URL

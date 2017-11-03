@@ -1,6 +1,4 @@
-# 
-
-write-only
+# write-only
 
 ![Copy URL](media/write-only/Copy.png)
 Copy URL

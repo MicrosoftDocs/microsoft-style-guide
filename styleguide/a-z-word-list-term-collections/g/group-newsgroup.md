@@ -1,6 +1,4 @@
-# 
-
-group, newsgroup
+# group, newsgroup
 
 ![Copy URL](media/group-newsgroup/Copy.png)
 Copy URL

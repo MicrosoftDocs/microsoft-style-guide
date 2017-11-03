@@ -1,6 +1,4 @@
-# 
-
-box
+# box
 
 ![Copy URL](media/box/Copy.png)
 Copy URL

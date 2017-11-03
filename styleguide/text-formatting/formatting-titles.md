@@ -1,6 +1,4 @@
-# 
-
-Formatting titles
+# Formatting titles
 
 ![Copy URL](media/formatting-titles/Copy.png)
 Copy URL

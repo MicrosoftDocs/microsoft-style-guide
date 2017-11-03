@@ -1,6 +1,4 @@
-# 
-
-matrix, matrices
+# matrix, matrices
 
 ![Copy URL](media/matrix-matrices/Copy.png)
 Copy URL

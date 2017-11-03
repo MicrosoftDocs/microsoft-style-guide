@@ -1,6 +1,4 @@
-# 
-
-power down, power up, power off, power on
+# power down, power up, power off, power on
 
 ![Copy URL](media/power-down-power-up-power-off-power-on/Copy.png)
 Copy URL

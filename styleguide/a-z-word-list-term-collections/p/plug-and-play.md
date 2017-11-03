@@ -1,6 +1,4 @@
-# 
-
-Plug and Play, plug and play
+# Plug and Play, plug and play
 
 ![Copy URL](media/plug-and-play/Copy.png)
 Copy URL

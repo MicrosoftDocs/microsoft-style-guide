@@ -1,6 +1,4 @@
-# 
-
-notification
+# notification
 
 ![Copy URL](media/notification/Copy.png)
 Copy URL

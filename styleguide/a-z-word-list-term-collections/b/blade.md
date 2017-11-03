@@ -1,6 +1,4 @@
-﻿# 
-
-blade
+﻿# blade
 
 ![Copy URL](media/blade/Copy.png)
 Copy URL

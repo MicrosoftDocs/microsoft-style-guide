@@ -1,6 +1,4 @@
-# 
-
-Boolean
+# Boolean
 
 ![Copy URL](media/boolean/Copy.png)
 Copy URL

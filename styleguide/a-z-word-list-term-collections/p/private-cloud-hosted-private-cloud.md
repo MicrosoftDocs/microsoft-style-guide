@@ -1,6 +1,4 @@
-# 
-
-private cloud, hosted private cloud
+# private cloud, hosted private cloud
 
 ![Copy URL](media/private-cloud-hosted-private-cloud/Copy.png)
 Copy URL

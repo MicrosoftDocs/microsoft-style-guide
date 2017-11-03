@@ -1,6 +1,4 @@
-# 
-
-text box
+# text box
 
 ![Copy URL](media/text-box/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-plaintext, plain text
+# plaintext, plain text
 
 ![Copy URL](media/plaintext-plain-text/Copy.png)
 Copy URL

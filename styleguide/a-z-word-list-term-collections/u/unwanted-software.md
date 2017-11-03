@@ -1,6 +1,4 @@
-# 
-
-unwanted software
+# unwanted software
 
 ![Copy URL](media/unwanted-software/Copy.png)
 Copy URL

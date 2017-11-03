@@ -1,6 +1,4 @@
-﻿# 
-
-Dashes and hyphens
+﻿# Dashes and hyphens
 
 ![Copy URL](media/index/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-real time, real-time
+# real time, real-time
 
 ![Copy URL](media/real-time/Copy.png)
 Copy URL

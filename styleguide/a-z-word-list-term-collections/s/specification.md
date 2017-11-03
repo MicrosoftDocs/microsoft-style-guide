@@ -1,6 +1,4 @@
-# 
-
-specification
+# specification
 
 ![Copy URL](media/specification/Copy.png)
 Copy URL

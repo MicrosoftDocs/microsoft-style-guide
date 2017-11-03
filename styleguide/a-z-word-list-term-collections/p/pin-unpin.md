@@ -1,6 +1,4 @@
-# 
-
-pin, unpin
+# pin, unpin
 
 ![Copy URL](media/pin-unpin/Copy.png)
 Copy URL

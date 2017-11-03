@@ -1,6 +1,4 @@
-# 
-
-hardwired
+# hardwired
 
 ![Copy URL](media/hardwired/Copy.png)
 Copy URL

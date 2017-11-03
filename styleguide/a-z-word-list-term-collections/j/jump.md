@@ -1,6 +1,4 @@
-# 
-
-jump
+# jump
 
 ![Copy URL](media/jump/Copy.png)
 Copy URL

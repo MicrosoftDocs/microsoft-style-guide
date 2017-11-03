@@ -1,6 +1,4 @@
-# 
-
-device
+# device
 
 ![Copy URL](media/device/Copy.png)
 Copy URL

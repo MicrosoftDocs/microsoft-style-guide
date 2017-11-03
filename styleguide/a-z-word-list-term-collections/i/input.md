@@ -1,6 +1,4 @@
-﻿# 
-
-input
+﻿# input
 
 ![Copy URL](media/input/Copy.png)
 Copy URL

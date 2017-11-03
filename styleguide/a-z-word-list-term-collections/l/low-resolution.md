@@ -1,6 +1,4 @@
-﻿# 
-
-low-resolution
+﻿# low-resolution
 
 ![Copy URL](media/low-resolution/Copy.png)
 Copy URL

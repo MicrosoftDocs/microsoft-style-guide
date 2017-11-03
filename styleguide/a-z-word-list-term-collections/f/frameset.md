@@ -1,6 +1,4 @@
-# 
-
-frameset
+# frameset
 
 ![Copy URL](media/frameset/Copy.png)
 Copy URL

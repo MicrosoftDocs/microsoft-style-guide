@@ -1,6 +1,4 @@
-# 
-
-upper left, upper right
+# upper left, upper right
 
 ![Copy URL](media/upper-left-upper-right/Copy.png)
 Copy URL

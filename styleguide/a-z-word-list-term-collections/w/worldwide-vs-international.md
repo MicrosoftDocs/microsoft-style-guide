@@ -1,6 +1,4 @@
-﻿# 
-
-worldwide vs. international
+﻿# worldwide vs. international
 
 ![Copy URL](media/worldwide-vs-international/Copy.png)
 Copy URL

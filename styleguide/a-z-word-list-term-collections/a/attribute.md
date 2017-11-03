@@ -1,6 +1,4 @@
-# 
-
-attribute
+# attribute
 
 ![Copy URL](media/attribute/Copy.png)
 Copy URL

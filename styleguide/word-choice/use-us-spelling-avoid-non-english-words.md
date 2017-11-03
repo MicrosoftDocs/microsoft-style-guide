@@ -1,6 +1,4 @@
-﻿# 
-
-Use US spelling and avoid non-English words
+﻿# Use US spelling and avoid non-English words
 
 ![Copy URL](media/use-us-spelling-avoid-non-english-words/Copy.png)
 Copy URL

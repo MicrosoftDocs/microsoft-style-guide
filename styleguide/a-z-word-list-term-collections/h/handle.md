@@ -1,6 +1,4 @@
-# 
-
-handle
+# handle
 
 ![Copy URL](media/handle/Copy.png)
 Copy URL

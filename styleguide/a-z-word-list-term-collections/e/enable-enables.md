@@ -1,6 +1,4 @@
-# 
-
-enable, enables
+# enable, enables
 
 ![Copy URL](media/enable-enables/Copy.png)
 Copy URL

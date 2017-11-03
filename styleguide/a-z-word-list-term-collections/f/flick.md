@@ -1,6 +1,4 @@
-# 
-
-flick
+# flick
 
 ![Copy URL](media/flick/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-extension, file name extension
+# extension, file name extension
 
 ![Copy URL](media/extension-file-name-extension/Copy.png)
 Copy URL

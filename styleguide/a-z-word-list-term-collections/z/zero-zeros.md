@@ -1,6 +1,4 @@
-# 
-
-zero, zeros
+# zero, zeros
 
 ![Copy URL](media/zero-zeros/Copy.png)
 Copy URL

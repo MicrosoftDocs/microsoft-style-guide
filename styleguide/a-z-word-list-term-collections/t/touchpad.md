@@ -1,6 +1,4 @@
-# 
-
-touchpad
+# touchpad
 
 ![Copy URL](media/touchpad/Copy.png)
 Copy URL

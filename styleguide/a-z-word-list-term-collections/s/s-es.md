@@ -1,6 +1,4 @@
-# 
-
-(s), (es)
+# (s), (es)
 
 ![Copy URL](media/s-es/Copy.png)
 Copy URL

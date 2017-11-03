@@ -1,6 +1,4 @@
-# 
-
-context-sensitive
+# context-sensitive
 
 ![Copy URL](media/control/Copy.png)
 Copy URL

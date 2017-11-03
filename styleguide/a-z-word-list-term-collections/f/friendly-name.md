@@ -1,6 +1,4 @@
-# 
-
-friendly name
+# friendly name
 
 ![Copy URL](media/friendly-name/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-workstation
+# workstation
 
 ![Copy URL](media/workstation/Copy.png)
 Copy URL

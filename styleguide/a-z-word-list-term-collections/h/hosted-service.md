@@ -1,6 +1,4 @@
-# 
-
-hosted service
+# hosted service
 
 ![Copy URL](media/hosted-service/Copy.png)
 Copy URL

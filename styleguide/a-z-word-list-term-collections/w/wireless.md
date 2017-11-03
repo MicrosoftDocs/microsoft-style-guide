@@ -1,6 +1,4 @@
-# 
-
-wireless
+# wireless
 
 ![Copy URL](media/wireless/Copy.png)
 Copy URL

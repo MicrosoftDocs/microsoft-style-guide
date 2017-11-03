@@ -1,6 +1,4 @@
-# 
-
-clickstream
+# clickstream
 
 ![Copy URL](media/clickstream/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-﻿# 
-
-Illustrations
+﻿# Illustrations
 
 ![Copy URL](media/illustrations/Copy.png)
 Copy URL

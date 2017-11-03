@@ -1,6 +1,4 @@
-﻿# 
-
-sign in, sign out
+﻿# sign in, sign out
 
 ![Copy URL](media/sign-in-sign-out/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-video display
+# video display
 
 ![Copy URL](media/video-display/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-﻿# 
-
-Cascading Style Sheets (CSS)
+﻿# Cascading Style Sheets (CSS)
 
 ![Copy URL](media/cascading-style-sheets-css/Copy.png)
 Copy URL

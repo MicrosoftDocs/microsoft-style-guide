@@ -1,6 +1,4 @@
-﻿# 
-
-Lists
+﻿# Lists
 
 ![Copy URL](media/lists/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-catalog
+# catalog
 
 ![Copy URL](media/catalog/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-Red flag terms
+# Red flag terms
 
 ![Copy URL](media/red-flag-terms/Copy.png)
 Copy URL

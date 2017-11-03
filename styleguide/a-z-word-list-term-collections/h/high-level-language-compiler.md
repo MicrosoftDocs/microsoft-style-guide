@@ -1,6 +1,4 @@
-# 
-
-high-level-language compiler
+# high-level-language compiler
 
 ![Copy URL](media/high-level-language-compiler/Copy.png)
 Copy URL

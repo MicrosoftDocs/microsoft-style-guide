@@ -1,6 +1,4 @@
-﻿# 
-
-Person
+﻿# Person
 
 ![Copy URL](media/person/Copy.png)
 Copy URL

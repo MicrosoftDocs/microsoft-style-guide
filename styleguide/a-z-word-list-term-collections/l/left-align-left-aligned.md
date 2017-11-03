@@ -1,6 +1,4 @@
-﻿# 
-
-left align, left-aligned
+﻿# left align, left-aligned
 
 ![Copy URL](media/left-align-left-aligned/Copy.png)
 Copy URL

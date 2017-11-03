@@ -1,6 +1,4 @@
-# 
-
-tile, Live Tile
+# tile, Live Tile
 
 ![Copy URL](media/tile-live-tile/Copy.png)
 Copy URL

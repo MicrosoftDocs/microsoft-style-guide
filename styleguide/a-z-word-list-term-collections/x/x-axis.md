@@ -1,6 +1,4 @@
-# 
-
-x-axis
+# x-axis
 
 ![Copy URL](media/x-axis/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-stop, stop responding
+# stop, stop responding
 
 ![Copy URL](media/stop-stop-responding/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-Hub
+# Hub
 
 ![Copy URL](media/hub/Copy.png)
 Copy URL

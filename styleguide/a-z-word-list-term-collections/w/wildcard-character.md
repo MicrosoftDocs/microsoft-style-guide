@@ -1,6 +1,4 @@
-# 
-
-wildcard character
+# wildcard character
 
 ![Copy URL](media/wildcard-character/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-software-plus-services
+# software-plus-services
 
 ![Copy URL](media/software-plus-services/Copy.png)
 Copy URL

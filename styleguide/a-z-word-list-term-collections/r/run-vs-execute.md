@@ -1,6 +1,4 @@
-# 
-
-run vs. execute
+# run vs. execute
 
 ![Copy URL](media/run-vs-execute/Copy.png)
 Copy URL

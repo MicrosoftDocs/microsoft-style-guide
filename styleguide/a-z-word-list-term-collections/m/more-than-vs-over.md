@@ -1,6 +1,4 @@
-﻿# 
-
-more than vs. over
+﻿# more than vs. over
 
 ![Copy URL](media/more-than-vs-over/Copy.png)
 Copy URL

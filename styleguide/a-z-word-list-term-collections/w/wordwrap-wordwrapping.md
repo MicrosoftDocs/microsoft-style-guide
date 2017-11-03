@@ -1,6 +1,4 @@
-# 
-
-wordwrap, wordwrapping
+# wordwrap, wordwrapping
 
 ![Copy URL](media/wordwrap-wordwrapping/Copy.png)
 Copy URL

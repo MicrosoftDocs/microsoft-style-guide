@@ -1,6 +1,4 @@
-# 
-
-site map
+# site map
 
 ![Copy URL](media/site-map/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-dynamic service capacity
+# dynamic service capacity
 
 ![Copy URL](media/dynamic-service-capacity/Copy.png)
 Copy URL

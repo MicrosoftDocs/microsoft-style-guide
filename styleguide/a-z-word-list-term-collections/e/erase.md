@@ -1,6 +1,4 @@
-# 
-
-erase
+# erase
 
 ![Copy URL](media/erase/Copy.png)
 Copy URL

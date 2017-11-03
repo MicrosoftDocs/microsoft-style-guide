@@ -1,6 +1,4 @@
-# 
-
-family
+# family
 
 ![Copy URL](media/family/Copy.png)
 Copy URL

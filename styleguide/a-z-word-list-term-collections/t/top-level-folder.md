@@ -1,6 +1,4 @@
-# 
-
-top-level folder
+# top-level folder
 
 ![Copy URL](media/top-level-folder/Copy.png)
 Copy URL

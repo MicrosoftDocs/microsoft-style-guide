@@ -1,6 +1,4 @@
-# 
-
-video call, videoconference
+# video call, videoconference
 
 ![Copy URL](media/video-call-videoconference/Copy.png)
 Copy URL

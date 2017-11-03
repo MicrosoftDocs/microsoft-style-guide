@@ -1,6 +1,4 @@
-# 
-
-center on
+# center on
 
 ![Copy URL](media/center-on/Copy.png)
 Copy URL

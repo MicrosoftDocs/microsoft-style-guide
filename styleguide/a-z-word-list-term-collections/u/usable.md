@@ -1,6 +1,4 @@
-# 
-
-usable
+# usable
 
 ![Copy URL](media/usable/Copy.png)
 Copy URL

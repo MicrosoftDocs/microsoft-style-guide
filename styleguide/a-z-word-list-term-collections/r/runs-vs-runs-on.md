@@ -1,6 +1,4 @@
-# 
-
-runs vs. runs on
+# runs vs. runs on
 
 ![Copy URL](media/runs-vs-runs-on/Copy.png)
 Copy URL

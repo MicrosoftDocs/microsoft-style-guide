@@ -1,6 +1,4 @@
-# 
-
-tablet
+# tablet
 
 ![Copy URL](media/tablet/Copy.png)
 Copy URL

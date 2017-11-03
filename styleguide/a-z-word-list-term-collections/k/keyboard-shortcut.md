@@ -1,6 +1,4 @@
-# 
-
-keyboard shortcut
+# keyboard shortcut
 
 ![Copy URL](media/keyboard-shortcut/Copy.png)
 Copy URL

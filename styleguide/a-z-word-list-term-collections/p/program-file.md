@@ -1,6 +1,4 @@
-# 
-
-program file
+# program file
 
 ![Copy URL](media/program-file/Copy.png)
 Copy URL

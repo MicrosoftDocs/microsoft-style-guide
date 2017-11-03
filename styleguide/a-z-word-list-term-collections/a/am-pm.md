@@ -1,6 +1,4 @@
-# 
-
-AM, PM
+# AM, PM
 
 ![Copy URL](media/am-pm/Copy.png)
 Copy URL

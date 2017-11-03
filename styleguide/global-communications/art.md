@@ -1,6 +1,4 @@
-﻿# 
-
-Art
+﻿# Art
 
 ![Copy URL](media/art/Copy.png)
 Copy URL

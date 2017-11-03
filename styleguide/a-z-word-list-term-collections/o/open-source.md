@@ -1,6 +1,4 @@
-# 
-
-open source, open-source
+# open source, open-source
 
 ![Copy URL](media/open-source/Copy.png)
 Copy URL

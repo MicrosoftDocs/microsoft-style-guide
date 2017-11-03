@@ -1,6 +1,4 @@
-# 
-
-current
+# current
 
 ![Copy URL](media/current/Copy.png)
 Copy URL

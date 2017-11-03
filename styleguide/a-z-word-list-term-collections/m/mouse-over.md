@@ -1,6 +1,4 @@
-# 
-
-mouse over
+# mouse over
 
 ![Copy URL](media/mouse-over/Copy.png)
 Copy URL

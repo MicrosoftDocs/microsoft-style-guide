@@ -1,6 +1,4 @@
-﻿# 
-
-Time and place
+﻿# Time and place
 
 ![Copy URL](media/time-place/Copy.png)
 Copy URL

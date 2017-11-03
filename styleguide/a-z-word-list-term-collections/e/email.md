@@ -1,6 +1,4 @@
-# 
-
-email
+# email
 
 ![Copy URL](media/email/Copy.png)
 Copy URL

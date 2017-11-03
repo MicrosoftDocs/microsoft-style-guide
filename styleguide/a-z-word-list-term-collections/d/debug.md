@@ -1,6 +1,4 @@
-# 
-
-debug
+# debug
 
 ![Copy URL](media/debug/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-multithreaded
+# multithreaded
 
 ![Copy URL](media/multithreaded/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-marquee
+# marquee
 
 ![Copy URL](media/marquee/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-start up, startup
+# start up, startup
 
 ![Copy URL](media/start-up-startup/Copy.png)
 Copy URL

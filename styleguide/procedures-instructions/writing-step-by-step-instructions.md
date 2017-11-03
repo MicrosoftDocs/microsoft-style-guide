@@ -1,6 +1,4 @@
-﻿# 
-
-Writing step-by-step instructions
+﻿# Writing step-by-step instructions
 
 ![Copy URL](media/writing-step-by-step-instructions/Copy.png)
 Copy URL

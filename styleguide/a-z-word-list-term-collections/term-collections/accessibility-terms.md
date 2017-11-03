@@ -1,6 +1,4 @@
-﻿# 
-
-Accessibility terms
+﻿# Accessibility terms
 
 ![Copy URL](media/accessibility-terms/Copy.png)
 Copy URL

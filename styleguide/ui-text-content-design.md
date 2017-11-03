@@ -1,6 +1,4 @@
-﻿# 
-
-UI text and content design
+﻿# UI text and content design
 
 ![Copy URL](media/ui-text-content-design/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-clipboard
+# clipboard
 
 ![Copy URL](media/clipboard/Copy.png)
 Copy URL

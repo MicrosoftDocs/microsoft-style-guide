@@ -1,6 +1,4 @@
-﻿# 
-
-Bias-free communication
+﻿# Bias-free communication
 
 ![Copy URL](media/bias-free-communication/Copy.png)
 Copy URL

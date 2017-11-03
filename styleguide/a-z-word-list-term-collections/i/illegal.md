@@ -1,6 +1,4 @@
-﻿# 
-
-illegal
+﻿# illegal
 
 ![Copy URL](media/illegal/Copy.png)
 Copy URL

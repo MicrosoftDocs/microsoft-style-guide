@@ -1,6 +1,4 @@
-# 
-
-footer
+# footer
 
 ![Copy URL](media/footer/Copy.png)
 Copy URL

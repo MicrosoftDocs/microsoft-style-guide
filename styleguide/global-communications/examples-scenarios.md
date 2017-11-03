@@ -1,6 +1,4 @@
-﻿# 
-
-Examples and scenarios
+﻿# Examples and scenarios
 
 ![Copy URL](media/examples-scenarios/Copy.png)
 Copy URL

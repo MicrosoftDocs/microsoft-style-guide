@@ -1,6 +1,4 @@
-# 
-
-disjoint selection
+# disjoint selection
 
 ![Copy URL](media/disjoint-selection/Copy.png)
 Copy URL

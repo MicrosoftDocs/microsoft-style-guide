@@ -1,6 +1,4 @@
-﻿# 
-
-Word choice
+﻿# Word choice
 
 ![Copy URL](media/index/Copy.png)
 Copy URL

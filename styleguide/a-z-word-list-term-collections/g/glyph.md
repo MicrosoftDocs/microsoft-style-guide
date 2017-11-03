@@ -1,6 +1,4 @@
-# 
-
-glyph
+# glyph
 
 ![Copy URL](media/glyph/Copy.png)
 Copy URL

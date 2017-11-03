@@ -1,6 +1,4 @@
-﻿# 
-
-Currency
+﻿# Currency
 
 ![Copy URL](media/currency/Copy.png)
 Copy URL

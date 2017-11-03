@@ -1,6 +1,4 @@
-# 
-
-spoofing
+# spoofing
 
 ![Copy URL](media/spoofing/Copy.png)
 Copy URL

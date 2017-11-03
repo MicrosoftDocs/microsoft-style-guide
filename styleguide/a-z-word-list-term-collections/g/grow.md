@@ -1,6 +1,4 @@
-# 
-
-grow
+# grow
 
 ![Copy URL](media/grow/Copy.png)
 Copy URL

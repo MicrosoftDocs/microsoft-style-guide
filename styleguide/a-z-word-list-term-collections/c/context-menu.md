@@ -1,6 +1,4 @@
-# 
-
-context menu
+# context menu
 
 ![Copy URL](media/context-menu/Copy.png)
 Copy URL

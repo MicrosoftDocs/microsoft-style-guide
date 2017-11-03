@@ -1,6 +1,4 @@
-# 
-
-upload
+# upload
 
 ![Copy URL](media/upload/Copy.png)
 Copy URL

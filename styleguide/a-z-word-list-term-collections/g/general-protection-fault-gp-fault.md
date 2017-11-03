@@ -1,6 +1,4 @@
-# 
-
-general protection fault, GP fault
+# general protection fault, GP fault
 
 ![Copy URL](media/general-protection-fault-gp-fault/Copy.png)
 Copy URL

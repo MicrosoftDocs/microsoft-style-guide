@@ -1,6 +1,4 @@
-﻿# 
-
-dimmed
+﻿# dimmed
 
 ![Copy URL](media/dimmed/Copy.png)
 Copy URL

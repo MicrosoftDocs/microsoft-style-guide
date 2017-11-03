@@ -1,6 +1,4 @@
-# 
-
-Windows, Windows-based
+# Windows, Windows-based
 
 ![Copy URL](media/windows-windows-based/Copy.png)
 Copy URL

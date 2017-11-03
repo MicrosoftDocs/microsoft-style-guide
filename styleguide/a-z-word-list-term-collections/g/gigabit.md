@@ -1,6 +1,4 @@
-# 
-
-gigabit, Gbit
+# gigabit, Gbit
 
 ![Copy URL](media/gigabit/Copy.png)
 Copy URL

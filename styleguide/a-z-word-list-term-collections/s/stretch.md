@@ -1,6 +1,4 @@
-# 
-
-stretch
+# stretch
 
 ![Copy URL](media/stretch/Copy.png)
 Copy URL

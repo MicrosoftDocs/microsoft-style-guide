@@ -1,6 +1,4 @@
-# 
-
-shortcut, shortcut menu
+# shortcut, shortcut menu
 
 ![Copy URL](media/shortcut-shortcut-menu/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-network connection
+# network connection
 
 ![Copy URL](media/network-connection/Copy.png)
 Copy URL

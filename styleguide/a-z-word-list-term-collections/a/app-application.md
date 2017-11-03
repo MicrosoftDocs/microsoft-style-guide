@@ -1,6 +1,4 @@
-# 
-
-app, application
+# app, application
 
 ![Copy URL](media/app-application/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-option, option button
+# option, option button
 
 ![Copy URL](media/option-button/Copy.png)
 Copy URL

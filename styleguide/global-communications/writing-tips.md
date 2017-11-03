@@ -1,6 +1,4 @@
-﻿# 
-
-Writing tips
+﻿# Writing tips
 
 ![Copy URL](media/writing-tips/Copy.png)
 Copy URL

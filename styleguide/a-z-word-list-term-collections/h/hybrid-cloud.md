@@ -1,6 +1,4 @@
-# 
-
-hybrid cloud
+# hybrid cloud
 
 ![Copy URL](media/hybrid-cloud/Copy.png)
 Copy URL

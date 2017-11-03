@@ -1,6 +1,4 @@
-# 
-
-preceding
+# preceding
 
 ![Copy URL](media/preceding/Copy.png)
 Copy URL

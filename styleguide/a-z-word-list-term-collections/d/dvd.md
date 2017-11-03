@@ -1,6 +1,4 @@
-# 
-
-DVD
+# DVD
 
 ![Copy URL](media/dvd/Copy.png)
 Copy URL

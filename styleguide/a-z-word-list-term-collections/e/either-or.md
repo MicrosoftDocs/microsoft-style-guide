@@ -1,6 +1,4 @@
-# 
-
-either/or
+# either/or
 
 ![Copy URL](media/either-or/Copy.png)
 Copy URL

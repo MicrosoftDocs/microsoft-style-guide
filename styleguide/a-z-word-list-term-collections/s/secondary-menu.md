@@ -1,6 +1,4 @@
-# 
-
-secondary menu
+# secondary menu
 
 ![Copy URL](media/secondary-menu/Copy.png)
 Copy URL

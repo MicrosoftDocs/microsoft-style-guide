@@ -1,6 +1,4 @@
-﻿# 
-
-Don't use common words in new ways
+﻿# Don't use common words in new ways
 
 ![Copy URL](media/dont-use-common-words-in-new-ways/Copy.png)
 Copy URL

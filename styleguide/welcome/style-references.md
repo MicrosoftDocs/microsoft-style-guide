@@ -1,6 +1,4 @@
-﻿# 
-
-Microsoft style references
+﻿# Microsoft style references
 
 ![Copy URL](media/style-references/Copy.png)
 Copy URL

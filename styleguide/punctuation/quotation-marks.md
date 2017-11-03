@@ -1,6 +1,4 @@
-﻿# 
-
-Quotation marks
+﻿# Quotation marks
 
 ![Copy URL](media/quotation-marks/Copy.png)
 Copy URL

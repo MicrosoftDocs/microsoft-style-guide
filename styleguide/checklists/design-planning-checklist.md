@@ -1,6 +1,4 @@
-﻿# 
-
-Design-planning checklist
+﻿# Design-planning checklist
 
 ![Copy URL](media/design-planning-checklist/Copy.png)
 Copy URL

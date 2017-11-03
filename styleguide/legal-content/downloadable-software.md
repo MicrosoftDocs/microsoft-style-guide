@@ -1,6 +1,4 @@
-﻿# 
-
-Downloadable software
+﻿# Downloadable software
 
 ![Copy URL](media/downloadable-software/Copy.png)
 Copy URL

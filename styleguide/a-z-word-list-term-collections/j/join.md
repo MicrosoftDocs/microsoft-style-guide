@@ -1,6 +1,4 @@
-# 
-
-join
+# join
 
 ![Copy URL](media/join/Copy.png)
 Copy URL

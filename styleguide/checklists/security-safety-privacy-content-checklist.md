@@ -1,6 +1,4 @@
-﻿# 
-
-Security, safety, and privacy content checklist
+﻿# Security, safety, and privacy content checklist
 
 ![Copy URL](media/security-safety-privacy-content-checklist/Copy.png)
 Copy URL

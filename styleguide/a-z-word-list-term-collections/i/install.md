@@ -1,6 +1,4 @@
-# 
-
-install
+# install
 
 ![Copy URL](media/install/Copy.png)
 Copy URL

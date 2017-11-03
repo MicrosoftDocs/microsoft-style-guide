@@ -1,6 +1,4 @@
-﻿# 
-
-if vs. whether vs. when
+﻿# if vs. whether vs. when
 
 ![Copy URL](media/if-vs-whether-vs-when/Copy.png)
 Copy URL

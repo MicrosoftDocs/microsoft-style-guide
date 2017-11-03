@@ -1,6 +1,4 @@
-# 
-
-search box
+# search box
 
 ![Copy URL](media/search-box/Copy.png)
 Copy URL

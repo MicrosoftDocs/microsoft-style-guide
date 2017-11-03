@@ -1,6 +1,4 @@
-# 
-
-e-words
+# e-words
 
 ![Copy URL](media/e-words/Copy.png)
 Copy URL

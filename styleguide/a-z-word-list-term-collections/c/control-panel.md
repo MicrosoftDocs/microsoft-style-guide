@@ -1,6 +1,4 @@
-﻿# 
-
-Control Panel
+﻿# Control Panel
 
 ![Copy URL](media/control-panel/Copy.png)
 Copy URL

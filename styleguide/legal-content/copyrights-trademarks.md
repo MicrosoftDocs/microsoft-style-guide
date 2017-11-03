@@ -1,6 +1,4 @@
-﻿# 
-
-Copyrights and trademarks
+﻿# Copyrights and trademarks
 
 ![Copy URL](media/copyrights-trademarks/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-versus, vs.
+# versus, vs.
 
 ![Copy URL](media/versus-vs/Copy.png)
 Copy URL

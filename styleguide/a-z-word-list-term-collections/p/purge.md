@@ -1,6 +1,4 @@
-# 
-
-purge
+# purge
 
 ![Copy URL](media/purge/Copy.png)
 Copy URL

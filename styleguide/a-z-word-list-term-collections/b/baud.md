@@ -1,6 +1,4 @@
-# 
-
-baud
+# baud
 
 ![Copy URL](media/baud/Copy.png)
 Copy URL

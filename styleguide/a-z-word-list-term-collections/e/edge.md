@@ -1,6 +1,4 @@
-# 
-
-Edge
+# Edge
 
 ![Copy URL](media/edge/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-keypress, keystroke
+# keypress, keystroke
 
 ![Copy URL](media/keypress-keystroke/Copy.png)
 Copy URL

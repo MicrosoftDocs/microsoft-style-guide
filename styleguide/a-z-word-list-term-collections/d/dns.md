@@ -1,6 +1,4 @@
-# 
-
-DNS
+# DNS
 
 ![Copy URL](media/dns/Copy.png)
 Copy URL

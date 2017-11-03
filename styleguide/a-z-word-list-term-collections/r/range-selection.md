@@ -1,6 +1,4 @@
-# 
-
-range selection
+# range selection
 
 ![Copy URL](media/range-selection/Copy.png)
 Copy URL

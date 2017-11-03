@@ -1,6 +1,4 @@
-# 
-
-scan line
+# scan line
 
 ![Copy URL](media/scan-line/Copy.png)
 Copy URL

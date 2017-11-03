@@ -1,6 +1,4 @@
-# 
-
-replace
+# replace
 
 ![Copy URL](media/replace/Copy.png)
 Copy URL

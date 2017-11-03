@@ -1,6 +1,4 @@
-# 
-
-network drive
+# network drive
 
 ![Copy URL](media/network-drive/Copy.png)
 Copy URL

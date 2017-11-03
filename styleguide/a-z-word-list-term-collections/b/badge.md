@@ -1,6 +1,4 @@
-# 
-
-badge
+# badge
 
 ![Copy URL](media/badge/Copy.png)
 Copy URL

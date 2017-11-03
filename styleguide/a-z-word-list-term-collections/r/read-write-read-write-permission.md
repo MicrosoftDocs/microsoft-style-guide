@@ -1,6 +1,4 @@
-# 
-
-read/write, read/write permission
+# read/write, read/write permission
 
 ![Copy URL](media/read-write-read-write-permission/Copy.png)
 Copy URL

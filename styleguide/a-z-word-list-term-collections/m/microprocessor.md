@@ -1,6 +1,4 @@
-# 
-
-microprocessor
+# microprocessor
 
 ![Copy URL](media/microprocessor/Copy.png)
 Copy URL

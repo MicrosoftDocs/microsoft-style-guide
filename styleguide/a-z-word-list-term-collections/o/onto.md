@@ -1,6 +1,4 @@
-# 
-
-onto
+# onto
 
 ![Copy URL](media/onto/Copy.png)
 Copy URL

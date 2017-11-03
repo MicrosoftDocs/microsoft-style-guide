@@ -1,6 +1,4 @@
-# 
-
-playlist
+# playlist
 
 ![Copy URL](media/playlist/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-heading
+# heading
 
 ![Copy URL](media/heading/Copy.png)
 Copy URL

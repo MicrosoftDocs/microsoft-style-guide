@@ -1,6 +1,4 @@
-# 
-
-category axis
+# category axis
 
 ![Copy URL](media/category-axis/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-network
+# network
 
 ![Copy URL](media/network/Copy.png)
 Copy URL

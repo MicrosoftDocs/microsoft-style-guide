@@ -1,6 +1,4 @@
-# 
-
-abort, abortion
+# abort, abortion
 
 ![Copy URL](media/abort-abortion/Copy.png)
 Copy URL

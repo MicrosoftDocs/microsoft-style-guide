@@ -1,6 +1,4 @@
-# 
-
-i.e.
+# i.e.
 
 ![Copy URL](media/ie/Copy.png)
 Copy URL

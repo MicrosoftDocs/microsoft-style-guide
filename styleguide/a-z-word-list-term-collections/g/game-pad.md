@@ -1,6 +1,4 @@
-# 
-
-game pad
+# game pad
 
 ![Copy URL](media/game-pad/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-cable
+# cable
 
 ![Copy URL](media/cable/Copy.png)
 Copy URL

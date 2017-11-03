@@ -1,6 +1,4 @@
-# 
-
-legal
+# legal
 
 ![Copy URL](media/legal/Copy.png)
 Copy URL

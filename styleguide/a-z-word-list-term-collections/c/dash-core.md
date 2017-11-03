@@ -1,6 +1,4 @@
-# 
-
-\-core
+# \-core
 
 ![Copy URL](media/dash-core/Copy.png)
 Copy URL

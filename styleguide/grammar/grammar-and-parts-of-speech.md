@@ -1,6 +1,4 @@
-﻿# 
-
-Grammar and parts of speech
+﻿# Grammar and parts of speech
 
 ![Copy URL](media/grammar-and-parts-of-speech/Copy.png)
 Copy URL

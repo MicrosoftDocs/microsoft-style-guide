@@ -1,6 +1,4 @@
-# 
-
-clickthrough
+# clickthrough
 
 ![Copy URL](media/clickthrough/Copy.png)
 Copy URL

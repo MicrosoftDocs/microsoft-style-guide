@@ -1,6 +1,4 @@
-# 
-
-MIP mapping
+# MIP mapping
 
 ![Copy URL](media/mip-mapping/Copy.png)
 Copy URL

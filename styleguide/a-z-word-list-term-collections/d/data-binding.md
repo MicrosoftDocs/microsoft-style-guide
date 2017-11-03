@@ -1,6 +1,4 @@
-# 
-
-data binding
+# data binding
 
 ![Copy URL](media/data-binding/Copy.png)
 Copy URL

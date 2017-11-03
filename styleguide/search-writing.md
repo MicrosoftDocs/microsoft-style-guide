@@ -1,6 +1,4 @@
-﻿# 
-
-Search and writing
+﻿# Search and writing
 
 ![Copy URL](media/search-writing/Copy.png)
 Copy URL

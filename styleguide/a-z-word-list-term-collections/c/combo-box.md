@@ -1,6 +1,4 @@
-# 
-
-combo box
+# combo box
 
 ![Copy URL](media/combo-box/Copy.png)
 Copy URL

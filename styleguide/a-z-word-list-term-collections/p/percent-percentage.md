@@ -1,6 +1,4 @@
-# 
-
-percent, percentage
+# percent, percentage
 
 ![Copy URL](media/percent-percentage/Copy.png)
 Copy URL

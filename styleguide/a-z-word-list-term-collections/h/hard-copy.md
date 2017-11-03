@@ -1,6 +1,4 @@
-# 
-
-hard copy
+# hard copy
 
 ![Copy URL](media/hard-copy/Copy.png)
 Copy URL

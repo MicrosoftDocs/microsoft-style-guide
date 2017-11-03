@@ -1,6 +1,4 @@
-# 
-
-font, font style
+# font, font style
 
 ![Copy URL](media/font-font-style/Copy.png)
 Copy URL

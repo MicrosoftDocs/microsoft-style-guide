@@ -1,6 +1,4 @@
-﻿# 
-
-Capitalization checklist
+﻿# Capitalization checklist
 
 ![Copy URL](media/capitalization-checklist/Copy.png)
 Copy URL

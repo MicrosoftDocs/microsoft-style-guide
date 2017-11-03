@@ -1,6 +1,4 @@
-# 
-
-Minimize button, minimize
+# Minimize button, minimize
 
 ![Copy URL](media/minimize-button-minimize/Copy.png)
 Copy URL

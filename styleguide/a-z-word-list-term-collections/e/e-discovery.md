@@ -1,6 +1,4 @@
-# 
-
-e-discovery
+# e-discovery
 
 ![Copy URL](media/e-discovery/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-handshake
+# handshake
 
 ![Copy URL](media/handshake/Copy.png)
 Copy URL

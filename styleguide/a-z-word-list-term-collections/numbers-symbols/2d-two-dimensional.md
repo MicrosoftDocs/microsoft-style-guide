@@ -1,6 +1,4 @@
-# 
-
-2D, two-dimensional
+# 2D, two-dimensional
 
 ![Copy URL](media/2d-two-dimensional/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-device driver, driver
+# device driver, driver
 
 ![Copy URL](media/device-driver-driver/Copy.png)
 Copy URL

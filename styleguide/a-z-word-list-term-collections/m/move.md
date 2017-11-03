@@ -1,6 +1,4 @@
-# 
-
-move
+# move
 
 ![Copy URL](media/move/Copy.png)
 Copy URL

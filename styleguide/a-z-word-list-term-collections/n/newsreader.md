@@ -1,6 +1,4 @@
-# 
-
-newsreader
+# newsreader
 
 ![Copy URL](media/newsreader/Copy.png)
 Copy URL

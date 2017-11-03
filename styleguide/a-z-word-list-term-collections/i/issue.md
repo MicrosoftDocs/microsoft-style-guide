@@ -1,6 +1,4 @@
-# 
-
-issue
+# issue
 
 ![Copy URL](media/issue/Copy.png)
 Copy URL

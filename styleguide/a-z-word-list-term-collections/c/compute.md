@@ -1,6 +1,4 @@
-﻿# 
-
-compute
+﻿# compute
 
 ![Copy URL](media/compute/Copy.png)
 Copy URL

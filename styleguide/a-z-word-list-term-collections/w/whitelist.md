@@ -1,6 +1,4 @@
-# 
-
-whitelist
+# whitelist
 
 ![Copy URL](media/whitelist/Copy.png)
 Copy URL

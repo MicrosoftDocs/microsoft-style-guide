@@ -1,6 +1,4 @@
-# 
-
-he/she
+# he/she
 
 ![Copy URL](media/he-she/Copy.png)
 Copy URL

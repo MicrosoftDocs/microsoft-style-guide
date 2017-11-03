@@ -1,6 +1,4 @@
-﻿# 
-
-pop-up
+﻿# pop-up
 
 ![Copy URL](media/pop-up/Copy.png)
 Copy URL

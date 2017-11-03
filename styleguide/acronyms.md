@@ -1,6 +1,4 @@
-﻿# 
-
-Acronyms
+﻿# Acronyms
 
 ![Copy URL](media/acronyms/Copy.png)
 Copy URL

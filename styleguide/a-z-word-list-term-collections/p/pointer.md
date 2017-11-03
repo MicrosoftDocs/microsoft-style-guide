@@ -1,6 +1,4 @@
-# 
-
-pointer
+# pointer
 
 ![Copy URL](media/pointer/Copy.png)
 Copy URL

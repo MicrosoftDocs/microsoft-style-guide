@@ -1,6 +1,4 @@
-# 
-
-internet, intranet, extranet
+# internet, intranet, extranet
 
 ![Copy URL](media/internet-intranet-extranet/Copy.png)
 Copy URL

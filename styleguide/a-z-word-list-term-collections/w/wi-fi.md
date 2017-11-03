@@ -1,6 +1,4 @@
-﻿# 
-
-Wi-Fi
+﻿# Wi-Fi
 
 ![Copy URL](media/wi-fi/Copy.png)
 Copy URL

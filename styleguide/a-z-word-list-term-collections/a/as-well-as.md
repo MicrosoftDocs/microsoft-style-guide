@@ -1,6 +1,4 @@
-# 
-
-as well as
+# as well as
 
 ![Copy URL](media/as-well-as/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-﻿# 
-
-Capitalization
+﻿# Capitalization
 
 ![Copy URL](media/capitalization/Copy.png)
 Copy URL

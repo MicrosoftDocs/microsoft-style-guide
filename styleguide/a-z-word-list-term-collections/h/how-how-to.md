@@ -1,6 +1,4 @@
-﻿# 
-
-how to, how-to
+﻿# how to, how-to
 
 ![Copy URL](media/how-how-to/Copy.png)
 Copy URL

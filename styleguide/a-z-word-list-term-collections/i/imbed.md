@@ -1,6 +1,4 @@
-# 
-
-imbed
+# imbed
 
 ![Copy URL](media/imbed/Copy.png)
 Copy URL

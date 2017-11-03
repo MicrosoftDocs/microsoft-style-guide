@@ -1,6 +1,4 @@
-# 
-
-command prompt
+# command prompt
 
 ![Copy URL](media/command-prompt/Copy.png)
 Copy URL

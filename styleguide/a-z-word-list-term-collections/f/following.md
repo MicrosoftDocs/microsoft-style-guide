@@ -1,6 +1,4 @@
-# 
-
-following
+# following
 
 ![Copy URL](media/following/Copy.png)
 Copy URL

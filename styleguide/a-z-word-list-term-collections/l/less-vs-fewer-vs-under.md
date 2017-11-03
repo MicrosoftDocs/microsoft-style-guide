@@ -1,6 +1,4 @@
-# 
-
-less vs. fewer vs. under
+# less vs. fewer vs. under
 
 ![Copy URL](media/less-vs-fewer-vs-under/Copy.png)
 Copy URL

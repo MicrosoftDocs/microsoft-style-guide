@@ -1,6 +1,4 @@
-﻿# 
-
-Ellipses
+﻿# Ellipses
 
 ![Copy URL](media/ellipses/Copy.png)
 Copy URL

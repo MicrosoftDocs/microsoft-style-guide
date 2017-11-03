@@ -1,6 +1,4 @@
-# 
-
-key sequence
+# key sequence
 
 ![Copy URL](media/key-sequence/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-adjacent selection
+# adjacent selection
 
 ![Copy URL](media/adjacent-selection/Copy.png)
 Copy URL

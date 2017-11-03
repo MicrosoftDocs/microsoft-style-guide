@@ -1,6 +1,4 @@
-# 
-
-property sheet, property page
+# property sheet, property page
 
 ![Copy URL](media/property-sheet-property-page/Copy.png)
 Copy URL

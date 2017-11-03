@@ -1,6 +1,4 @@
-# 
-
-hack, hacker
+# hack, hacker
 
 ![Copy URL](media/hack-hacker/Copy.png)
 Copy URL

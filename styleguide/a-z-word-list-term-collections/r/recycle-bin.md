@@ -1,6 +1,4 @@
-# 
-
-Recycle Bin, recycle bin
+# Recycle Bin, recycle bin
 
 ![Copy URL](media/recycle-bin/Copy.png)
 Copy URL

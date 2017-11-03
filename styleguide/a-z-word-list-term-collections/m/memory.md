@@ -1,6 +1,4 @@
-﻿# 
-
-memory
+﻿# memory
 
 ![Copy URL](media/memory/Copy.png)
 Copy URL

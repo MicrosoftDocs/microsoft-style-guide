@@ -1,6 +1,4 @@
-# 
-
-field
+# field
 
 ![Copy URL](media/field/Copy.png)
 Copy URL

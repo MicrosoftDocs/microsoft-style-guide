@@ -1,6 +1,4 @@
-﻿# 
-
-Avoid jargon
+﻿# Avoid jargon
 
 ![Copy URL](media/avoid-jargon/Copy.png)
 Copy URL

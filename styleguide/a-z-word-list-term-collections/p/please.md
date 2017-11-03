@@ -1,6 +1,4 @@
-# 
-
-please
+# please
 
 ![Copy URL](media/please/Copy.png)
 Copy URL

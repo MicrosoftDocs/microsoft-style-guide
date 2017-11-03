@@ -1,6 +1,4 @@
-# 
-
-tap, double-tap, tap and hold
+# tap, double-tap, tap and hold
 
 ![Copy URL](media/tap-double-tap-tap-and-hold/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-executable, .exe
+# executable, .exe
 
 ![Copy URL](media/executable-exe/Copy.png)
 Copy URL

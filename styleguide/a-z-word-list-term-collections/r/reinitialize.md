@@ -1,6 +1,4 @@
-# 
-
-reinitialize
+# reinitialize
 
 ![Copy URL](media/reinitialize/Copy.png)
 Copy URL

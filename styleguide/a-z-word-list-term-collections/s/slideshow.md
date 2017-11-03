@@ -1,6 +1,4 @@
-﻿# 
-
-slideshow
+﻿# slideshow
 
 ![Copy URL](media/slideshow/Copy.png)
 Copy URL

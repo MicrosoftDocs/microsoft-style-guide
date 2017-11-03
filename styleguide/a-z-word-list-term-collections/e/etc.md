@@ -1,6 +1,4 @@
-# 
-
-erase
+# erase
 
 ![Copy URL](media/etc/Copy.png)
 Copy URL

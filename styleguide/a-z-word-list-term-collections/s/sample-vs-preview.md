@@ -1,6 +1,4 @@
-# 
-
-sample vs. preview
+# sample vs. preview
 
 ![Copy URL](media/sample-vs-preview/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-drive name
+# drive name
 
 ![Copy URL](media/drive-name/Copy.png)
 Copy URL

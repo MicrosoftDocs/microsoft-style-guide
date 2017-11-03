@@ -1,6 +1,4 @@
-﻿# 
-
-Scannable content
+﻿# Scannable content
 
 ![Copy URL](media/index/Copy.png)
 Copy URL

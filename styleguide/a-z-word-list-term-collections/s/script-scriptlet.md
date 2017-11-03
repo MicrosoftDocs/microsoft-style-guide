@@ -1,6 +1,4 @@
-# 
-
-script, scriptlet
+# script, scriptlet
 
 ![Copy URL](media/script-scriptlet/Copy.png)
 Copy URL

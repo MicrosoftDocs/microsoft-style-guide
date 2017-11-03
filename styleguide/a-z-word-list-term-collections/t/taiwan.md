@@ -1,6 +1,4 @@
-# 
-
-Taiwan
+# Taiwan
 
 ![Copy URL](media/taiwan/Copy.png)
 Copy URL

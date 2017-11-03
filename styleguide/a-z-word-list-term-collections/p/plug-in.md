@@ -1,6 +1,4 @@
-﻿# 
-
-plug-in
+﻿# plug-in
 
 ![Copy URL](media/plug-in/Copy.png)
 Copy URL

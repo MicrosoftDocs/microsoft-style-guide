@@ -1,6 +1,4 @@
-﻿# 
-
-Cloud-computing terms
+﻿# Cloud-computing terms
 
 ![Copy URL](media/cloud-computing-terms/Copy.png)
 Copy URL

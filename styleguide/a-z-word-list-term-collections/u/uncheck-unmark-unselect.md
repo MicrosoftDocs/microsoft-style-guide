@@ -1,6 +1,4 @@
-# 
-
-uncheck, unmark, unselect
+# uncheck, unmark, unselect
 
 ![Copy URL](media/uncheck-unmark-unselect/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-indent, outdent
+# indent, outdent
 
 ![Copy URL](media/indent-outdent/Copy.png)
 Copy URL

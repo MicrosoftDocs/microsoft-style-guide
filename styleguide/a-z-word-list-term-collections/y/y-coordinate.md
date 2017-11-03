@@ -1,6 +1,4 @@
-# 
-
-y-coordinate
+# y-coordinate
 
 ![Copy URL](media/y-coordinate/Copy.png)
 Copy URL

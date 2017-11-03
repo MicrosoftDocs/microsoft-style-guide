@@ -1,6 +1,4 @@
-# 
-
-color map
+# color map
 
 ![Copy URL](media/color-map/Copy.png)
 Copy URL

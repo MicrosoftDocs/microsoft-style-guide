@@ -1,6 +1,4 @@
-# 
-
-nonadjacent selection
+# nonadjacent selection
 
 ![Copy URL](media/nonadjacent-selection/Copy.png)
 Copy URL

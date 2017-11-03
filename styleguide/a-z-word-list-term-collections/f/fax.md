@@ -1,6 +1,4 @@
-# 
-
-fax
+# fax
 
 ![Copy URL](media/fax/Copy.png)
 Copy URL

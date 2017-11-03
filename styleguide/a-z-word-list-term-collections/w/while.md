@@ -1,6 +1,4 @@
-# 
-
-while
+# while
 
 ![Copy URL](media/while/Copy.png)
 Copy URL

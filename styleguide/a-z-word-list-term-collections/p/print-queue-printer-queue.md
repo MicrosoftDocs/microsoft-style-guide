@@ -1,6 +1,4 @@
-﻿# 
-
-print queue, printer queue
+﻿# print queue, printer queue
 
 ![Copy URL](media/print-queue-printer-queue/Copy.png)
 Copy URL

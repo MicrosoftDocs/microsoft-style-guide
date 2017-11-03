@@ -1,6 +1,4 @@
-﻿# 
-
-Hashtags
+﻿# Hashtags
 
 ![Copy URL](media/social-mediahashtags/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-﻿# 
-
-8.5" x 11" paper
+﻿# 8.5" x 11" paper
 
 ![Copy URL](media/85-x-11-paper/Copy.png)
 Copy URL

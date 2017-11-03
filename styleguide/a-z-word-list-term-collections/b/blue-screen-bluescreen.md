@@ -1,6 +1,4 @@
-# 
-
-blue screen, bluescreen
+# blue screen, bluescreen
 
 ![Copy URL](media/blue-screen-bluescreen/Copy.png)
 Copy URL

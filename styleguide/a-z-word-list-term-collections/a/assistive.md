@@ -1,6 +1,4 @@
-# 
-
-assistive
+# assistive
 
 ![Copy URL](media/assistive/Copy.png)
 Copy URL

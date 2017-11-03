@@ -1,6 +1,4 @@
-# 
-
-set up, setup, Setup
+# set up, setup, Setup
 
 ![Copy URL](media/set-up-setup/Copy.png)
 Copy URL

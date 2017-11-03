@@ -1,6 +1,4 @@
-# 
-
-utility
+# utility
 
 ![Copy URL](media/utility/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-rotate
+# rotate
 
 ![Copy URL](media/rotate/Copy.png)
 Copy URL

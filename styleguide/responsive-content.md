@@ -1,6 +1,4 @@
-﻿# 
-
-Responsive content
+﻿# Responsive content
 
 ![Copy URL](media/responsive-content/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-backspace
+# backspace
 
 ![Copy URL](media/backspace/Copy.png)
 Copy URL

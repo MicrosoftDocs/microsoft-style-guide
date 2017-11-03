@@ -1,6 +1,4 @@
-﻿# 
-
-Computer and device terms
+﻿# Computer and device terms
 
 ![Copy URL](media/computer-device-terms/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-touchscreen
+# touchscreen
 
 ![Copy URL](media/touchscreen/Copy.png)
 Copy URL

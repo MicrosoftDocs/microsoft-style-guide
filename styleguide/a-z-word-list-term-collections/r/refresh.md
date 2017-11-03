@@ -1,6 +1,4 @@
-# 
-
-refresh
+# refresh
 
 ![Copy URL](media/refresh/Copy.png)
 Copy URL

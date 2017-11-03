@@ -1,6 +1,4 @@
-# 
-
-End-User License Agreement (EULA)
+# End-User License Agreement (EULA)
 
 ![Copy URL](media/end-user-license-agreement-eula/Copy.png)
 Copy URL

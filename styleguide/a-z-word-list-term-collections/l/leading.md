@@ -1,6 +1,4 @@
-# 
-
-leading
+# leading
 
 ![Copy URL](media/leading/Copy.png)
 Copy URL

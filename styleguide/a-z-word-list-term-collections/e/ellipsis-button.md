@@ -1,6 +1,4 @@
-﻿# 
-
-ellipsis button
+﻿# ellipsis button
 
 ![Copy URL](media/ellipsis-button/Copy.png)
 Copy URL

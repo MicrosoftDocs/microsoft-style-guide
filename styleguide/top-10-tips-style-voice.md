@@ -1,6 +1,4 @@
-﻿# 
-
-Top 10 tips for Microsoft style and voice
+﻿# Top 10 tips for Microsoft style and voice
 
 ![Copy URL](media/top-10-tips-style-voice/Copy.png)
 Copy URL

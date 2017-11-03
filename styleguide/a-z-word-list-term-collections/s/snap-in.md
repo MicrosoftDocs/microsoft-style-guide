@@ -1,6 +1,4 @@
-# 
-
-snap-in
+# snap-in
 
 ![Copy URL](media/snap-in/Copy.png)
 Copy URL

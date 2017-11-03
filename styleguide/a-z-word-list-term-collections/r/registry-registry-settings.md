@@ -1,6 +1,4 @@
-# 
-
-registry, registry settings
+# registry, registry settings
 
 ![Copy URL](media/registry-registry-settings/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-notification area
+# notification area
 
 ![Copy URL](media/notification-area/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-e-learning
+# e-learning
 
 ![Copy URL](media/e-learning/Copy.png)
 Copy URL

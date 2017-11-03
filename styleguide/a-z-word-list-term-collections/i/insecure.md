@@ -1,6 +1,4 @@
-# 
-
-insecure
+# insecure
 
 ![Copy URL](media/insecure/Copy.png)
 Copy URL

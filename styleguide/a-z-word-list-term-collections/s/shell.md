@@ -1,6 +1,4 @@
-# 
-
-shell
+# shell
 
 ![Copy URL](media/shell/Copy.png)
 Copy URL

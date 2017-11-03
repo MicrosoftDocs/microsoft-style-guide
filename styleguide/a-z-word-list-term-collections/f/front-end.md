@@ -1,6 +1,4 @@
-# 
-
-front end, front-end
+# front end, front-end
 
 ![Copy URL](media/front-end/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-carry out vs. run
+# carry out vs. run
 
 ![Copy URL](media/carry-out-vs-run/Copy.png)
 Copy URL

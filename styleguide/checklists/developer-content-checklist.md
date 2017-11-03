@@ -1,6 +1,4 @@
-﻿# 
-
-Developer content checklist
+﻿# Developer content checklist
 
 ![Copy URL](media/developer-content-checklist/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-off-premises, on-premises
+# off-premises, on-premises
 
 ![Copy URL](media/off-premises-on-premises/Copy.png)
 Copy URL

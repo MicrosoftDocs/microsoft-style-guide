@@ -1,6 +1,4 @@
-# 
-
-restart
+# restart
 
 ![Copy URL](media/restart/Copy.png)
 Copy URL

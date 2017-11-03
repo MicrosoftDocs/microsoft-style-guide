@@ -1,6 +1,4 @@
-# 
-
-prompt
+# prompt
 
 ![Copy URL](media/prompt/Copy.png)
 Copy URL

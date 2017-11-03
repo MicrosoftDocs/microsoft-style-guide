@@ -1,6 +1,4 @@
-# 
-
-workgroup
+# workgroup
 
 ![Copy URL](media/workgroup/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-allow, allows
+# allow, allows
 
 ![Copy URL](media/allow-allows/Copy.png)
 Copy URL

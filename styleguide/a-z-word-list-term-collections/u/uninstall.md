@@ -1,6 +1,4 @@
-# 
-
-uninstall
+# uninstall
 
 ![Copy URL](media/uninstall/Copy.png)
 Copy URL

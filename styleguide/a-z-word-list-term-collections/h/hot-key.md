@@ -1,6 +1,4 @@
-# 
-
-hot key
+# hot key
 
 ![Copy URL](media/hot-key/Copy.png)
 Copy URL

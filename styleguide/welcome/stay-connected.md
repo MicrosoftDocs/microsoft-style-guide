@@ -1,6 +1,4 @@
-﻿# 
-
-Stay connected
+﻿# Stay connected
 
 ![Copy URL](media/stay-connected/Copy.png)
 Copy URL

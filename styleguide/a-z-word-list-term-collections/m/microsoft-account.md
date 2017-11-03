@@ -1,6 +1,4 @@
-﻿# 
-
-Microsoft account
+﻿# Microsoft account
 
 ![Copy URL](media/microsoft-account/Copy.png)
 Copy URL

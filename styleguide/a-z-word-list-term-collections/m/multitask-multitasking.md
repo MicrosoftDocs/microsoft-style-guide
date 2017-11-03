@@ -1,6 +1,4 @@
-# 
-
-multitask, multitasking
+# multitask, multitasking
 
 ![Copy URL](media/multitask-multitasking/Copy.png)
 Copy URL

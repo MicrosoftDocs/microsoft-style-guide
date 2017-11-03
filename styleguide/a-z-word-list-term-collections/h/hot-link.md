@@ -1,6 +1,4 @@
-# 
-
-hot link
+# hot link
 
 ![Copy URL](media/hot-link/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-﻿# 
-
-Keys and keyboard shortcuts
+﻿# Keys and keyboard shortcuts
 
 ![Copy URL](media/keys-keyboard-shortcuts/Copy.png)
 Copy URL
@@ -9,9 +7,7 @@ Copy URL
 
 Download topic
 
-## 
-
-This term collection covers how to refer to keyboard shortcuts and the names of specific keys. 
+## This term collection covers how to refer to keyboard shortcuts and the names of specific keys. 
 
 For information about describing customers' interactions with UI, see [Procedures and instructions](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26471).
 

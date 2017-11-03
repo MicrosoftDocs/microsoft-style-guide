@@ -1,6 +1,4 @@
-# 
-
-Microsoft Edge
+# Microsoft Edge
 
 ![Copy URL](media/microsoft-edge/Copy.png)
 Copy URL

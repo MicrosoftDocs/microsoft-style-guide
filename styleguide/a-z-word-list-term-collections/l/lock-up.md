@@ -1,6 +1,4 @@
-# 
-
-lock up
+# lock up
 
 ![Copy URL](media/lock-up/Copy.png)
 Copy URL

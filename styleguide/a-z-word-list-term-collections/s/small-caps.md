@@ -1,6 +1,4 @@
-# 
-
-small caps
+# small caps
 
 ![Copy URL](media/small-caps/Copy.png)
 Copy URL

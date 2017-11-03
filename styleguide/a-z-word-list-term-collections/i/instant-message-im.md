@@ -1,6 +1,4 @@
-# 
-
-instant message, IM
+# instant message, IM
 
 ![Copy URL](media/instant-message-im/Copy.png)
 Copy URL

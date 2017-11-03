@@ -1,6 +1,4 @@
-# 
-
-Kerberos protocol
+# Kerberos protocol
 
 ![Copy URL](media/kerberos-protocol/Copy.png)
 Copy URL

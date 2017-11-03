@@ -1,6 +1,4 @@
-# 
-
-z-axis
+# z-axis
 
 ![Copy URL](media/z-axis/Copy.png)
 Copy URL

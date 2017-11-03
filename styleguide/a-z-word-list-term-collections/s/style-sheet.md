@@ -1,6 +1,4 @@
-# 
-
-style sheet
+# style sheet
 
 ![Copy URL](media/style-sheet/Copy.png)
 Copy URL

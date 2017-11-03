@@ -1,6 +1,4 @@
-# 
-
-freeze, frozen
+# freeze, frozen
 
 ![Copy URL](media/freeze-frozen/Copy.png)
 Copy URL

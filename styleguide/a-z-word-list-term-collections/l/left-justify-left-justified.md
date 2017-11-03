@@ -1,6 +1,4 @@
-﻿# 
-
-left justify, left-justified
+﻿# left justify, left-justified
 
 ![Copy URL](media/left-justify-left-justified/Copy.png)
 Copy URL

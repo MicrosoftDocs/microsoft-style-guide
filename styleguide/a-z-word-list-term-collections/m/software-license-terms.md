@@ -1,6 +1,4 @@
-# 
-
-Microsoft Software License Terms
+# Microsoft Software License Terms
 
 ![Copy URL](media/software-license-terms/Copy.png)
 Copy URL

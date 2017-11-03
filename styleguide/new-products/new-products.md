@@ -1,6 +1,4 @@
-# 
-
-New products
+# New products
 
 ![Copy URL](media/new-products/Copy.png)
 Copy URL
@@ -20,8 +18,6 @@ This section includes the following topics:
 
 See also [Legal content](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26694)
 
-## 
-
-![In progress](media/new-products/activity-large.gif)
+## ![In progress](media/new-products/activity-large.gif)
 
 URL :

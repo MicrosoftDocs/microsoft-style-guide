@@ -1,6 +1,4 @@
-# 
-
-XON/XOFF
+# XON/XOFF
 
 ![Copy URL](media/xon-xoff/Copy.png)
 Copy URL

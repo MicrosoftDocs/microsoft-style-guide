@@ -1,6 +1,4 @@
-# 
-
-postal code
+# postal code
 
 ![Copy URL](media/postal-code/Copy.png)
 Copy URL

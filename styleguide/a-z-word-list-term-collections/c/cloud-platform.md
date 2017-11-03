@@ -1,6 +1,4 @@
-# 
-
-cloud platform
+# cloud platform
 
 ![Copy URL](media/cloud-platform/Copy.png)
 Copy URL

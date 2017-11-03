@@ -1,6 +1,4 @@
-# 
-
-swipe
+# swipe
 
 ![Copy URL](media/swipe/Copy.png)
 Copy URL

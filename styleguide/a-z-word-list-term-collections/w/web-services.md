@@ -1,6 +1,4 @@
-﻿# 
-
-web services
+﻿# web services
 
 ![Copy URL](media/web-services/Copy.png)
 Copy URL

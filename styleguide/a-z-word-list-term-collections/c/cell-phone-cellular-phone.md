@@ -1,6 +1,4 @@
-# 
-
-cell phone, cellular phone
+# cell phone, cellular phone
 
 ![Copy URL](media/cell-phone-cellular-phone/Copy.png)
 Copy URL

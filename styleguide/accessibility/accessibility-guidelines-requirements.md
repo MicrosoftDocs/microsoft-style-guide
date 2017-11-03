@@ -1,6 +1,4 @@
-﻿# 
-
-Accessibility guidelines and requirements
+﻿# Accessibility guidelines and requirements
 
 ![Copy URL](media/accessibility-guidelines-requirements/Copy.png)
 Copy URL
@@ -43,8 +41,6 @@ These resources require Microsoft network access:
 [](https://microsoft.sharepoint.com/teams/msenable/_layouts/15/WopiFrame.aspx?sourcedoc=%7BADE99E75-48EF-4AEC-83C3-37701D0AF407%7D&file=MSEnable-EngineeringResources-InclusiveDesignBooklet.pdf&action=default)[Accessibility 101 online training course](https://aka.ms/accessibility101 "introductory training on accessibility")
 [Creating accessible content](https://microsoft.sharepoint.com/teams/msenable/Pages/CreatingAccessibleContent.aspx) (on the Enable website)
 
-## 
-
-![In progress](media/accessibility-guidelines-requirements/activity-large.gif)
+## ![In progress](media/accessibility-guidelines-requirements/activity-large.gif)
 
 URL :

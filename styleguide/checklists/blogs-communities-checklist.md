@@ -1,6 +1,4 @@
-﻿# 
-
-Blogs and communities checklist
+﻿# Blogs and communities checklist
 
 ![Copy URL](media/blogs-communities-checklist/Copy.png)
 Copy URL

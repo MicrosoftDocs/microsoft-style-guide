@@ -1,6 +1,4 @@
-﻿# 
-
-Design planning
+﻿# Design planning
 
 ![Copy URL](media/design-planning/Copy.png)
 Copy URL

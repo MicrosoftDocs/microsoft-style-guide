@@ -1,6 +1,4 @@
-# 
-
-on-screen keyboard
+# on-screen keyboard
 
 ![Copy URL](media/on-screen-keyboard/Copy.png)
 Copy URL

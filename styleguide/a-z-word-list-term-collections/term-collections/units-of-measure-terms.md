@@ -1,6 +1,4 @@
-﻿# 
-
-Units of measure terms
+﻿# Units of measure terms
 
 ![Copy URL](media/units-of-measure-terms/Copy.png)
 Copy URL

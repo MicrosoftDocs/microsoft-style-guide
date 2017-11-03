@@ -1,6 +1,4 @@
-# 
-
-network administrator
+# network administrator
 
 ![Copy URL](media/network-administrator/Copy.png)
 Copy URL

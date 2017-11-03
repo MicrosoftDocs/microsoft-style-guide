@@ -1,6 +1,4 @@
-# 
-
-environment variable
+# environment variable
 
 ![Copy URL](media/environment-variable/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-﻿# 
-
-null-terminated, null-terminating
+﻿# null-terminated, null-terminating
 
 ![Copy URL](media/null-terminated-null-terminating/Copy.png)
 Copy URL

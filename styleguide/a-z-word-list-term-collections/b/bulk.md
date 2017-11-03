@@ -1,6 +1,4 @@
-﻿# 
-
-bulk
+﻿# bulk
 
 ![Copy URL](media/bulk/Copy.png)
 Copy URL

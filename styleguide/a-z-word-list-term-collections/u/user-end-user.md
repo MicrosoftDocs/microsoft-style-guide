@@ -1,6 +1,4 @@
-# 
-
-user, end user
+# user, end user
 
 ![Copy URL](media/user-end-user/Copy.png)
 Copy URL

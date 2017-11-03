@@ -1,6 +1,4 @@
-# 
-
-call back, callback
+# call back, callback
 
 ![Copy URL](media/call-back-callback/Copy.png)
 Copy URL

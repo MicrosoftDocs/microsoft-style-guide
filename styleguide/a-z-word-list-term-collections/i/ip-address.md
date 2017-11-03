@@ -1,6 +1,4 @@
-# 
-
-IP address
+# IP address
 
 ![Copy URL](media/ip-address/Copy.png)
 Copy URL

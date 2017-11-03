@@ -1,6 +1,4 @@
-﻿# 
-
-online services
+﻿# online services
 
 ![Copy URL](media/online-services/Copy.png)
 Copy URL

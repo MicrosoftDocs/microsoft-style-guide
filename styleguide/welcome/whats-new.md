@@ -1,6 +1,4 @@
-﻿# 
-
-What's new?
+﻿# What's new?
 
 ![Copy URL](media/whats-new/Copy.png)
 Copy URL

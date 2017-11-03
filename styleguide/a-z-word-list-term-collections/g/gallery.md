@@ -1,6 +1,4 @@
-# 
-
-gallery
+# gallery
 
 ![Copy URL](media/gallery/Copy.png)
 Copy URL

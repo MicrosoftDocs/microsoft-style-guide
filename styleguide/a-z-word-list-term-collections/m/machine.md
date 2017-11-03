@@ -1,6 +1,4 @@
-# 
-
-machine
+# machine
 
 ![Copy URL](media/machine/Copy.png)
 Copy URL

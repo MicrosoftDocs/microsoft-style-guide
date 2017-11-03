@@ -1,6 +1,4 @@
-# 
-
-double buffering
+# double buffering
 
 ![Copy URL](media/double-buffering/Copy.png)
 Copy URL

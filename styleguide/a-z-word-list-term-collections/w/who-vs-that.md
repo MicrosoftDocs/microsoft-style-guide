@@ -1,6 +1,4 @@
-# 
-
-who vs. that
+# who vs. that
 
 ![Copy URL](media/who-vs-that/Copy.png)
 Copy URL

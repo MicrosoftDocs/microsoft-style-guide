@@ -1,6 +1,4 @@
-# 
-
-code page
+# code page
 
 ![Copy URL](media/code-page/Copy.png)
 Copy URL

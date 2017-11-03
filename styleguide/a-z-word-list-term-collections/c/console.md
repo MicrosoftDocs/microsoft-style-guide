@@ -1,6 +1,4 @@
-# 
-
-console
+# console
 
 ![Copy URL](media/console/Copy.png)
 Copy URL

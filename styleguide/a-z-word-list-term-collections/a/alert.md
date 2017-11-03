@@ -1,6 +1,4 @@
-# 
-
-alert
+# alert
 
 ![Copy URL](media/alert/Copy.png)
 Copy URL

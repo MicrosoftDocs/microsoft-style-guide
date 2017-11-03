@@ -1,6 +1,4 @@
-# 
-
-trojan horse, trojan
+# trojan horse, trojan
 
 ![Copy URL](media/trojan-horse-trojan/Copy.png)
 Copy URL

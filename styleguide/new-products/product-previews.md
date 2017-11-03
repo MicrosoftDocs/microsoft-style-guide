@@ -1,6 +1,4 @@
-# 
-
-Product previews
+# Product previews
 
 ![Copy URL](media/product-previews/Copy.png)
 Copy URL

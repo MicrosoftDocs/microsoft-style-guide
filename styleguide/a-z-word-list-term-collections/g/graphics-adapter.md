@@ -1,6 +1,4 @@
-# 
-
-graphics adapter
+# graphics adapter
 
 ![Copy URL](media/graphics-adapter/Copy.png)
 Copy URL

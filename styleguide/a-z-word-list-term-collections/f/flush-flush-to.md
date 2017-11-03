@@ -1,6 +1,4 @@
-# 
-
-flush, flush to
+# flush, flush to
 
 ![Copy URL](media/flush-flush-to/Copy.png)
 Copy URL

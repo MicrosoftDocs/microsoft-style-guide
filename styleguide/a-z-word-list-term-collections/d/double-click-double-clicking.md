@@ -1,6 +1,4 @@
-# 
-
-double-click, double-clicking
+# double-click, double-clicking
 
 ![Copy URL](media/double-click-double-clicking/Copy.png)
 Copy URL

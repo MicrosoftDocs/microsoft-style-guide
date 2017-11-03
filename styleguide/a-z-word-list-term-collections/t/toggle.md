@@ -1,6 +1,4 @@
-# 
-
-toggle
+# toggle
 
 ![Copy URL](media/toggle/Copy.png)
 Copy URL

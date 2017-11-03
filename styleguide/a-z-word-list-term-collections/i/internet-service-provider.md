@@ -1,6 +1,4 @@
-# 
-
-internet service provider (ISP)
+# internet service provider (ISP)
 
 ![Copy URL](media/internet-service-provider/Copy.png)
 Copy URL

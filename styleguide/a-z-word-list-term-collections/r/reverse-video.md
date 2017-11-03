@@ -1,6 +1,4 @@
-# 
-
-reverse video
+# reverse video
 
 ![Copy URL](media/reverse-video/Copy.png)
 Copy URL

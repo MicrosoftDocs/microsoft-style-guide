@@ -1,6 +1,4 @@
-# 
-
-overwrite
+# overwrite
 
 ![Copy URL](media/overwrite/Copy.png)
 Copy URL

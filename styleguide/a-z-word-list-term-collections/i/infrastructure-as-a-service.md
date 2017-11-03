@@ -1,6 +1,4 @@
-# 
-
-infrastructure as a service (IaaS)
+# infrastructure as a service (IaaS)
 
 ![Copy URL](media/infrastructure-as-a-service/Copy.png)
 Copy URL

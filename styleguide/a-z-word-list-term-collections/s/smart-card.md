@@ -1,6 +1,4 @@
-# 
-
-smart card, Smart Card
+# smart card, Smart Card
 
 ![Copy URL](media/smart-card/Copy.png)
 Copy URL

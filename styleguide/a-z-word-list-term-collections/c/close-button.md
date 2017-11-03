@@ -1,6 +1,4 @@
-# 
-
-Close button
+# Close button
 
 ![Copy URL](media/close-button/Copy.png)
 Copy URL

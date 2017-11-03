@@ -1,6 +1,4 @@
-# 
-
-PC
+# PC
 
 ![Copy URL](media/pc/Copy.png)
 Copy URL

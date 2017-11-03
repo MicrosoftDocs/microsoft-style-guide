@@ -1,6 +1,4 @@
-# 
-
-virtualize
+# virtualize
 
 ![Copy URL](media/virtualize/Copy.png)
 Copy URL

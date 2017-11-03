@@ -1,6 +1,4 @@
-# 
-
-beta
+# beta
 
 ![Copy URL](media/beta/Copy.png)
 Copy URL

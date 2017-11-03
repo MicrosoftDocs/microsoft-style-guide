@@ -1,6 +1,4 @@
-# 
-
-keypad
+# keypad
 
 ![Copy URL](media/keypad/Copy.png)
 Copy URL

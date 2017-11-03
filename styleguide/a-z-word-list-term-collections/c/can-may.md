@@ -1,6 +1,4 @@
-# 
-
-can, may
+# can, may
 
 ![Copy URL](media/can-may/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-﻿# 
-
-quality, high-quality
+﻿# quality, high-quality
 
 ![Copy URL](media/quality-high-quality/Copy.png)
 Copy URL

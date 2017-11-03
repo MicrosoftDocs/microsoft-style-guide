@@ -1,6 +1,4 @@
-# 
-
-character set
+# character set
 
 ![Copy URL](media/character-set/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-toast
+# toast
 
 ![Copy URL](media/toast/Copy.png)
 Copy URL

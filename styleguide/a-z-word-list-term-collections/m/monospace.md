@@ -1,6 +1,4 @@
-# 
-
-monospace
+# monospace
 
 ![Copy URL](media/monospace/Copy.png)
 Copy URL

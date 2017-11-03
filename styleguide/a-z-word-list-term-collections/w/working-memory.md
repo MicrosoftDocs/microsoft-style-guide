@@ -1,6 +1,4 @@
-# 
-
-working memory
+# working memory
 
 ![Copy URL](media/working-memory/Copy.png)
 Copy URL

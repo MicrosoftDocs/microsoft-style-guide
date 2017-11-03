@@ -1,6 +1,4 @@
-# 
-
-hint
+# hint
 
 ![Copy URL](media/hint/Copy.png)
 Copy URL

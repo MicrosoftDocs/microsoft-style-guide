@@ -1,6 +1,4 @@
-# 
-
-work style
+# work style
 
 ![Copy URL](media/work-style/Copy.png)
 Copy URL

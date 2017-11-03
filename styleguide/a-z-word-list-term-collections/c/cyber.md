@@ -1,6 +1,4 @@
-﻿# 
-
-cyber-
+﻿# cyber-
 
 ![Copy URL](media/cyber/Copy.png)
 Copy URL

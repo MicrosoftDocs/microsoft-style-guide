@@ -1,6 +1,4 @@
-﻿# 
-
-boot
+﻿# boot
 
 ![Copy URL](media/boot/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-malicious code
+# malicious code
 
 ![Copy URL](media/malicious-code/Copy.png)
 Copy URL

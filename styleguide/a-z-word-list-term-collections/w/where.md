@@ -1,6 +1,4 @@
-# 
-
-where
+# where
 
 ![Copy URL](media/where/Copy.png)
 Copy URL

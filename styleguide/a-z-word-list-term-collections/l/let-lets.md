@@ -1,6 +1,4 @@
-# 
-
-let, lets
+# let, lets
 
 ![Copy URL](media/let-lets/Copy.png)
 Copy URL

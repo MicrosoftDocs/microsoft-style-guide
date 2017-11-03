@@ -1,6 +1,4 @@
-﻿# 
-
-Apostrophes
+﻿# Apostrophes
 
 ![Copy URL](media/apostrophes/Copy.png)
 Copy URL
@@ -9,11 +7,7 @@ Copy URL
 
 Download topic
 
-#### 
-
-#### 
-
-#### Use an apostrophe:
+#### #### #### Use an apostrophe:
 
   - To form the possessive case of nouns. For singular nouns, add an apostrophe and an *s,* even if the noun ends in *s, x,* or *z.* To form the possessive of plural nouns that end in *s,* add only an apostrophe.
     Examples

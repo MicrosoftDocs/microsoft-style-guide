@@ -1,6 +1,4 @@
-# 
-
-lower left, lower-left, lower right, lower-right
+# lower left, lower-left, lower right, lower-right
 
 ![Copy URL](media/lower-left-lower-right/Copy.png)
 Copy URL

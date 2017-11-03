@@ -1,6 +1,4 @@
-﻿# 
-
-Microsoft's brand voice: above all, simple and human
+﻿# Microsoft's brand voice: above all, simple and human
 
 ![Copy URL](media/brand-voice-above-all-simple-human/Copy.png)
 Copy URL

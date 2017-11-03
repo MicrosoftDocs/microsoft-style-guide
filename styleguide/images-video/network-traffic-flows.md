@@ -1,6 +1,4 @@
-﻿# 
-
-Network traffic flows
+﻿# Network traffic flows
 
 ![Copy URL](media/network-traffic-flows/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-undo
+# undo
 
 ![Copy URL](media/undo/Copy.png)
 Copy URL

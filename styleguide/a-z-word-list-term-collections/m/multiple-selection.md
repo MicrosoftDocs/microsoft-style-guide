@@ -1,6 +1,4 @@
-# 
-
-multiple selection
+# multiple selection
 
 ![Copy URL](media/multiple-selection/Copy.png)
 Copy URL

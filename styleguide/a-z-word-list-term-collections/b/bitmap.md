@@ -1,6 +1,4 @@
-# 
-
-bitmap
+# bitmap
 
 ![Copy URL](media/bitmap/Copy.png)
 Copy URL

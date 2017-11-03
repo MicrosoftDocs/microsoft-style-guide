@@ -1,6 +1,4 @@
-# 
-
-Internet Connection Sharing
+# Internet Connection Sharing
 
 ![Copy URL](media/internet-connection-sharing/Copy.png)
 Copy URL

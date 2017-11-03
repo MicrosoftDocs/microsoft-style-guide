@@ -1,6 +1,4 @@
-# 
-
-host name
+# host name
 
 ![Copy URL](media/host-name/Copy.png)
 Copy URL

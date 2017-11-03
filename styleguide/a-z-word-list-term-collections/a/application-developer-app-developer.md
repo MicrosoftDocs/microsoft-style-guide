@@ -1,6 +1,4 @@
-# 
-
-application developer, app developer
+# application developer, app developer
 
 ![Copy URL](media/application-developer-app-developer/Copy.png)
 Copy URL

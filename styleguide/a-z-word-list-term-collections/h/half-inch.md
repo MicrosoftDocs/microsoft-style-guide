@@ -1,6 +1,4 @@
-# 
-
-half inch
+# half inch
 
 ![Copy URL](media/half-inch/Copy.png)
 Copy URL

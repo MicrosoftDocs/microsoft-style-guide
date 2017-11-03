@@ -1,6 +1,4 @@
-# 
-
-How to use this guide
+# How to use this guide
 
 ![Copy URL](media/guide-how-to/Copy.png)
 Copy URL

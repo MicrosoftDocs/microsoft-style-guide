@@ -1,6 +1,4 @@
-# 
-
-disk space
+# disk space
 
 ![Copy URL](media/disk-space/Copy.png)
 Copy URL

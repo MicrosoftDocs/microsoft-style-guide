@@ -1,6 +1,4 @@
-# 
-
-iconize
+# iconize
 
 ![Copy URL](media/iconize/Copy.png)
 Copy URL

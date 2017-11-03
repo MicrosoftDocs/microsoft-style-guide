@@ -1,6 +1,4 @@
-# 
-
-database
+# database
 
 ![Copy URL](media/database/Copy.png)
 Copy URL

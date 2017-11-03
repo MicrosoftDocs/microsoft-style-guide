@@ -1,6 +1,4 @@
-# 
-
-administer
+# administer
 
 ![Copy URL](media/administer/Copy.png)
 Copy URL

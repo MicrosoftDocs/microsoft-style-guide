@@ -1,6 +1,4 @@
-# 
-
-Ultrabook
+# Ultrabook
 
 ![Copy URL](media/ultrabook/Copy.png)
 Copy URL

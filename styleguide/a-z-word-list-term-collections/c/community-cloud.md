@@ -1,6 +1,4 @@
-# 
-
-community cloud
+# community cloud
 
 ![Copy URL](media/community-cloud/Copy.png)
 Copy URL

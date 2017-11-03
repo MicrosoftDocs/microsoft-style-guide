@@ -1,6 +1,4 @@
-# 
-
-split bar, split box
+# split bar, split box
 
 ![Copy URL](media/split-bar-split-box/Copy.png)
 Copy URL

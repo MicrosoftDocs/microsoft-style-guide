@@ -1,6 +1,4 @@
-# 
-
-pound key, pound sign (\#)
+# pound key, pound sign (\#)
 
 ![Copy URL](media/pound-key-pound-sign/Copy.png)
 Copy URL

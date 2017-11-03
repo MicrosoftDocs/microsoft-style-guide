@@ -1,6 +1,4 @@
-# 
-
-member function
+# member function
 
 ![Copy URL](media/member-function/Copy.png)
 Copy URL

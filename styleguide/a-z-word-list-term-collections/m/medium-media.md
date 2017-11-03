@@ -1,6 +1,4 @@
-# 
-
-medium, media
+# medium, media
 
 ![Copy URL](media/medium-media/Copy.png)
 Copy URL

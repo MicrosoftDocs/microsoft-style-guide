@@ -1,6 +1,4 @@
-﻿# 
-
-Use contractions
+﻿# Use contractions
 
 ![Copy URL](media/use-contractions/Copy.png)
 Copy URL

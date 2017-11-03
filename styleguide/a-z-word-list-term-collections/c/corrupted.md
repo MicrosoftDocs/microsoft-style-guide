@@ -1,6 +1,4 @@
-# 
-
-corrupted
+# corrupted
 
 ![Copy URL](media/corrupted/Copy.png)
 Copy URL

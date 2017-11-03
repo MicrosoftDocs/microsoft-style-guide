@@ -1,6 +1,4 @@
-# 
-
-application icon, app icon
+# application icon, app icon
 
 ![Copy URL](media/argument-vs-parameter/Copy.png)
 Copy URL

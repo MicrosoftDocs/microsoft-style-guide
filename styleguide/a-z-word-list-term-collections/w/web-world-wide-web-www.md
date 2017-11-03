@@ -1,6 +1,4 @@
-# 
-
-web, World Wide Web, WWW
+# web, World Wide Web, WWW
 
 ![Copy URL](media/web-world-wide-web-www/Copy.png)
 Copy URL

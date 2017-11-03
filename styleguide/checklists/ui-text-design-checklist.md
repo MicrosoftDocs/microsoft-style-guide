@@ -1,6 +1,4 @@
-﻿# 
-
-UI text and design checklist
+﻿# UI text and design checklist
 
 ![Copy URL](media/ui-text-design-checklist/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-restore
+# restore
 
 ![Copy URL](media/restore/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-blog, blogger, blogroll, weblog
+# blog, blogger, blogroll, weblog
 
 ![Copy URL](media/blog-blogger-blogroll-weblog/Copy.png)
 Copy URL

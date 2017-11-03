@@ -1,6 +1,4 @@
-# 
-
-labeled, labeling
+# labeled, labeling
 
 ![Copy URL](media/labeled-labeling/Copy.png)
 Copy URL

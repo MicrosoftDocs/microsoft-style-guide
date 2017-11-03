@@ -1,6 +1,4 @@
-﻿# 
-
-HDMI (High-Definition Multimedia Interface)
+﻿# HDMI (High-Definition Multimedia Interface)
 
 ![Copy URL](media/hdmi/Copy.png)
 Copy URL

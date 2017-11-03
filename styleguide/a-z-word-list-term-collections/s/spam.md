@@ -1,6 +1,4 @@
-# 
-
-spam
+# spam
 
 ![Copy URL](media/spam/Copy.png)
 Copy URL

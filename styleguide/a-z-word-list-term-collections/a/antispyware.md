@@ -1,6 +1,4 @@
-# 
-
-antispyware
+# antispyware
 
 ![Copy URL](media/antispyware/Copy.png)
 Copy URL

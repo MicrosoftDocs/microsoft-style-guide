@@ -1,6 +1,4 @@
-# 
-
-URLs and web addresses checklist
+# URLs and web addresses checklist
 
 ![Copy URL](media/urls-web-addresses-checklist/Copy.png)
 Copy URL

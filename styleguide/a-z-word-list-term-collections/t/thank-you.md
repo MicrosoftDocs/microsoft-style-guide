@@ -1,6 +1,4 @@
-﻿# 
-
-thank you
+﻿# thank you
 
 ![Copy URL](media/thank-you/Copy.png)
 Copy URL

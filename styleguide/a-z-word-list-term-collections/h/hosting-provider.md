@@ -1,6 +1,4 @@
-# 
-
-hosting provider
+# hosting provider
 
 ![Copy URL](media/hosting-provider/Copy.png)
 Copy URL

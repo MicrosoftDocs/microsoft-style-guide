@@ -1,6 +1,4 @@
-# 
-
-calendar
+# calendar
 
 ![Copy URL](media/calendar/Copy.png)
 Copy URL

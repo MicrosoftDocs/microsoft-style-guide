@@ -1,6 +1,4 @@
-# 
-
-hierarchical menu
+# hierarchical menu
 
 ![Copy URL](media/hierarchical-menu/Copy.png)
 Copy URL

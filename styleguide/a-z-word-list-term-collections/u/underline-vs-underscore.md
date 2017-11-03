@@ -1,6 +1,4 @@
-# 
-
-underline vs. underscore
+# underline vs. underscore
 
 ![Copy URL](media/underline-vs-underscore/Copy.png)
 Copy URL

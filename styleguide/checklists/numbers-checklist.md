@@ -1,6 +1,4 @@
-﻿# 
-
-Numbers checklist
+﻿# Numbers checklist
 
 ![Copy URL](media/numbers-checklist/Copy.png)
 Copy URL
@@ -45,30 +43,22 @@ Use for:
     Exception When designating years or baud, use commas only when the number has five or more digits*.*
   - Don’t use in page numbers, street addresses, or decimal fractions.
 
-#### 
-
-#### Dates
+#### #### Dates
 
   - Don’t use ordinal numbers, such as *June* *first* or *October twenty-eighth*, for dates. Use a numeral instead*.*
   - Always spell out the name of the month.
 
  Learn more about [dates and time](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=27390).
 
-#### 
-
-#### Negative numbers
+#### #### Negative numbers
 
   - Form a negative number with an en dash, not a hyphen. Learn more about [](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28757)[dashes and hyphens](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28757).
 
-#### 
-
-#### Compound numbers
+#### #### Compound numbers
 
   - Hyphenate compound numbers when they're spelled out. Learn more about [dashes and hyphens](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28757).[](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28757 "Dashes and hyphens")
 
-#### 
-
-#### Fractions and decimals
+#### #### Fractions and decimals
 
   - Don’t use numerals separated by a slash to express fractions. 
     Exception When an equation occurs in text, it's OK to use a slash between the numerator and the denominator. 

@@ -1,6 +1,4 @@
-# 
-
-add-in, add-on
+# add-in, add-on
 
 ![Copy URL](media/add-in-add-on/Copy.png)
 Copy URL

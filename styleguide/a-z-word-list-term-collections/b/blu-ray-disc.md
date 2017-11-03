@@ -1,6 +1,4 @@
-# 
-
-blue screen, bluescreen
+# blue screen, bluescreen
 
 ![Copy URL](media/blu-ray-disc/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-alias
+# alias
 
 ![Copy URL](media/alias/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-black box
+# black box
 
 ![Copy URL](media/black-box/Copy.png)
 Copy URL

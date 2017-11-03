@@ -1,6 +1,4 @@
-# 
-
-REM statement
+# REM statement
 
 ![Copy URL](media/rem-statement/Copy.png)
 Copy URL

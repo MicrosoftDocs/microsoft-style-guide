@@ -1,6 +1,4 @@
-# 
-
-Scannable content checklist
+# Scannable content checklist
 
 ![Copy URL](media/scannable-content-checklist/Copy.png)
 Copy URL

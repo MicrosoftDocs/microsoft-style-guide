@@ -1,6 +1,4 @@
-# 
-
-white hat hacker
+# white hat hacker
 
 ![Copy URL](media/white-hat-hacker/Copy.png)
 Copy URL

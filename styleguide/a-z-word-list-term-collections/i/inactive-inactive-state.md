@@ -1,6 +1,4 @@
-# 
-
-inactive, inactive state
+# inactive, inactive state
 
 ![Copy URL](media/inactive-inactive-state/Copy.png)
 Copy URL

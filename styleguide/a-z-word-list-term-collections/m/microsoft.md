@@ -1,6 +1,4 @@
-﻿# 
-
-Microsoft
+﻿# Microsoft
 
 ![Copy URL](media/microsoft/Copy.png)
 Copy URL

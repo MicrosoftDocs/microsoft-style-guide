@@ -1,6 +1,4 @@
-# 
-
-connect
+# connect
 
 ![Copy URL](media/connect/Copy.png)
 Copy URL

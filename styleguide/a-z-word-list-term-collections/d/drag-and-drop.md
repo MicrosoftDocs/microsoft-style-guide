@@ -1,6 +1,4 @@
-# 
-
-drag, drag and drop
+# drag, drag and drop
 
 ![Copy URL](media/drag-and-drop/Copy.png)
 Copy URL

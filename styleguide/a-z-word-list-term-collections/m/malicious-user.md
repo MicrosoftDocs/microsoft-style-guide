@@ -1,6 +1,4 @@
-# 
-
-malicious user
+# malicious user
 
 ![Copy URL](media/malicious-user/Copy.png)
 Copy URL

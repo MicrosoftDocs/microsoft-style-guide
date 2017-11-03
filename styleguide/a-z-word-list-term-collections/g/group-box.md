@@ -1,6 +1,4 @@
-# 
-
-group box
+# group box
 
 ![Copy URL](media/group-box/Copy.png)
 Copy URL

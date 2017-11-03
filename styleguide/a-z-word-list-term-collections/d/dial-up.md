@@ -1,6 +1,4 @@
-# 
-
-dial-up
+# dial-up
 
 ![Copy URL](media/dial-up/Copy.png)
 Copy URL

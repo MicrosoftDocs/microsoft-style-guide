@@ -1,6 +1,4 @@
-# 
-
-power user
+# power user
 
 ![Copy URL](media/power-user/Copy.png)
 Copy URL

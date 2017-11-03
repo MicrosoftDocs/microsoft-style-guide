@@ -1,6 +1,4 @@
-# 
-
-gigabyte, GB, G, G byte, Gbyte
+# gigabyte, GB, G, G byte, Gbyte
 
 ![Copy URL](media/gigabyte/Copy.png)
 Copy URL

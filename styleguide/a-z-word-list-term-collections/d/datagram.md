@@ -1,6 +1,4 @@
-# 
-
-datagram
+# datagram
 
 ![Copy URL](media/datagram/Copy.png)
 Copy URL

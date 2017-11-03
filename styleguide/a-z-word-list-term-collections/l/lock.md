@@ -1,6 +1,4 @@
-# 
-
-lock
+# lock
 
 ![Copy URL](media/lock/Copy.png)
 Copy URL

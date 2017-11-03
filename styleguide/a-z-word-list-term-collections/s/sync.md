@@ -1,6 +1,4 @@
-# 
-
-sync
+# sync
 
 ![Copy URL](media/sync/Copy.png)
 Copy URL

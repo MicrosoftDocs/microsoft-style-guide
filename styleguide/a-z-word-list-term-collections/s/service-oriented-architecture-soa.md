@@ -1,6 +1,4 @@
-# 
-
-service-oriented architecture (SOA)
+# service-oriented architecture (SOA)
 
 ![Copy URL](media/service-oriented-architecture-soa/Copy.png)
 Copy URL

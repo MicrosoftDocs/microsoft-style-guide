@@ -1,6 +1,4 @@
-# 
-
-favorite
+# favorite
 
 ![Copy URL](media/favorite/Copy.png)
 Copy URL

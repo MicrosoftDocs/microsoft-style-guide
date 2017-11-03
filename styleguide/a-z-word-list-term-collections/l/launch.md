@@ -1,6 +1,4 @@
-# 
-
-launch
+# launch
 
 ![Copy URL](media/launch/Copy.png)
 Copy URL

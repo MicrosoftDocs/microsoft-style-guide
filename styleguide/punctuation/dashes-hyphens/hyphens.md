@@ -1,6 +1,4 @@
-﻿# 
-
-Hyphens
+﻿# Hyphens
 
 ![Copy URL](media/hyphens/Copy.png)
 Copy URL
@@ -11,9 +9,7 @@ Download topic
 
 For information about hyphenating specific technology words, see the [A–Z word list](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25512). For information about hyphenating common words, see [*The American Heritage Dictionary*](https://ahdictionary.com/) and [*The Chicago Manual of Style*](http://www.chicagomanualofstyle.org/home.html). (If you have Microsoft network access, you can use *[The Chicago Manual of Style Online](http://aka.ms/mslibrary/cms)* through MS Library.)
 
-#### 
-
-#### **Predicate adjectives**
+#### #### **Predicate adjectives**
 
 Don't hyphenate a predicate adjective (an adjective that complements the subject of a sentence and follows a linking verb) unless the *Microsoft Writing Style Guide* specifically recommends it. Check the [A–Z word list](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25512) to find out.
 
@@ -107,9 +103,7 @@ dialog box–type options
 
   - Two or more of the elements are made up of hyphenated compounds (a rare occurrence). 
 
-#### 
-
-#### **Prefixes**
+#### #### **Prefixes**
 
 Avoid creating new words by adding prefixes to existing words. Rewrite to avoid creating a new word. If a word with a prefix is listed in [*The American Heritage Dictionary*](https://ahdictionary.com/) or the [A–Z word list](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25512), it’s OK to use in Microsoft content. 
 

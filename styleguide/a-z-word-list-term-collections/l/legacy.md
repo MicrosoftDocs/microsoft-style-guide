@@ -1,6 +1,4 @@
-# 
-
-legacy
+# legacy
 
 ![Copy URL](media/legacy/Copy.png)
 Copy URL

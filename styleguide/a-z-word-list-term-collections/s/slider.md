@@ -1,6 +1,4 @@
-# 
-
-slider
+# slider
 
 ![Copy URL](media/slider/Copy.png)
 Copy URL

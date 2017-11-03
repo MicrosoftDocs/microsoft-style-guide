@@ -1,6 +1,4 @@
-﻿# 
-
-ask
+﻿# ask
 
 ![Copy URL](media/ask/Copy.png)
 Copy URL

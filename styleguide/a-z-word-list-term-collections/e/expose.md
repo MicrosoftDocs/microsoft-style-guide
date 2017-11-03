@@ -1,6 +1,4 @@
-# 
-
-expose
+# expose
 
 ![Copy URL](media/expose/Copy.png)
 Copy URL

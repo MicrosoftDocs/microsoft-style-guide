@@ -1,6 +1,4 @@
-﻿# 
-
-Verbs
+﻿# Verbs
 
 ![Copy URL](media/verbs/Copy.png)
 Copy URL

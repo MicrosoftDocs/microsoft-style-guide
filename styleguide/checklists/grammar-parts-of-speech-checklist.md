@@ -1,6 +1,4 @@
-﻿# 
-
-Grammar and parts of speech checklist
+﻿# Grammar and parts of speech checklist
 
 ![Copy URL](media/grammar-parts-of-speech-checklist/Copy.png)
 Copy URL

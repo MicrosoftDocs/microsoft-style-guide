@@ -1,6 +1,4 @@
-﻿# 
-
-Procedures and instructions checklist
+﻿# Procedures and instructions checklist
 
 ![Copy URL](media/procedures-instructions-checklist/Copy.png)
 Copy URL

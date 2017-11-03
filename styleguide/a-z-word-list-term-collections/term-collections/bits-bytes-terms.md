@@ -1,6 +1,4 @@
-﻿# 
-
-Bits and bytes terms
+﻿# Bits and bytes terms
 
 ![Copy URL](media/bits-bytes-terms/Copy.png)
 Copy URL

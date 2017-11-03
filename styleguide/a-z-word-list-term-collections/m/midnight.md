@@ -1,6 +1,4 @@
-# 
-
-midnight
+# midnight
 
 ![Copy URL](media/midnight/Copy.png)
 Copy URL

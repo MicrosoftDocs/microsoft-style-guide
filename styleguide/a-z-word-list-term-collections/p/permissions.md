@@ -1,6 +1,4 @@
-# 
-
-permissions
+# permissions
 
 ![Copy URL](media/permissions/Copy.png)
 Copy URL

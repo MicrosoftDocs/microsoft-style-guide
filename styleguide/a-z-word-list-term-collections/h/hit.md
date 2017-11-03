@@ -1,6 +1,4 @@
-# 
-
-hit
+# hit
 
 ![Copy URL](media/hit/Copy.png)
 Copy URL

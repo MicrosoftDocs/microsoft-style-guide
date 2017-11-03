@@ -1,6 +1,4 @@
-﻿# 
-
-MPEG
+﻿# MPEG
 
 ![Copy URL](media/mpeg/Copy.png)
 Copy URL

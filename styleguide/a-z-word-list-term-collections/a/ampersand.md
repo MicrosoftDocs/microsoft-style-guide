@@ -1,6 +1,4 @@
-# 
-
-ampersand (&)
+# ampersand (&)
 
 ![Copy URL](media/ampersand/Copy.png)
 Copy URL

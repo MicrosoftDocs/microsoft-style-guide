@@ -1,6 +1,4 @@
-# 
-
-Maximize button, maximize
+# Maximize button, maximize
 
 ![Copy URL](media/maximize-button-maximize/Copy.png)
 Copy URL

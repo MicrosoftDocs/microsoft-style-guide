@@ -1,6 +1,4 @@
-﻿# 
-
-folder, folder icon
+﻿# folder, folder icon
 
 ![Copy URL](media/folder-folder-icon/Copy.png)
 Copy URL

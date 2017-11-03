@@ -1,6 +1,4 @@
-# 
-
-beep
+# beep
 
 ![Copy URL](media/beep/Copy.png)
 Copy URL

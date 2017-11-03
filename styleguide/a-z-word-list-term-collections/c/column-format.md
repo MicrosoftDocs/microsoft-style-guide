@@ -1,6 +1,4 @@
-# 
-
-column format
+# column format
 
 ![Copy URL](media/column-format/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-recommend
+# recommend
 
 ![Copy URL](media/recommend/Copy.png)
 Copy URL

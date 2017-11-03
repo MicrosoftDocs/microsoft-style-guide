@@ -1,6 +1,4 @@
-# 
-
-memory-resident
+# memory-resident
 
 ![Copy URL](media/memory-resident/Copy.png)
 Copy URL

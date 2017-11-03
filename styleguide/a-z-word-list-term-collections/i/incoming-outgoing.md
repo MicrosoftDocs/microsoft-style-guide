@@ -1,6 +1,4 @@
-# 
-
-incoming, outgoing
+# incoming, outgoing
 
 ![Copy URL](media/incoming-outgoing/Copy.png)
 Copy URL

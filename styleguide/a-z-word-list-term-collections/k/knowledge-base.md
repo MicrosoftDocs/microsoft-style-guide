@@ -1,6 +1,4 @@
-# 
-
-knowledge base, Knowledge Base
+# knowledge base, Knowledge Base
 
 ![Copy URL](media/knowledge-base/Copy.png)
 Copy URL

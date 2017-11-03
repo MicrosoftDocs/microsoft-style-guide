@@ -1,6 +1,4 @@
-﻿# 
-
-screen resolution
+﻿# screen resolution
 
 ![Copy URL](media/screen-resolution/Copy.png)
 Copy URL

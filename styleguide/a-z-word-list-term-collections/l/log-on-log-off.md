@@ -1,6 +1,4 @@
-# 
-
-log on, log off
+# log on, log off
 
 ![Copy URL](media/log-on-log-off/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-dot-com
+# dot-com
 
 ![Copy URL](media/dot-com/Copy.png)
 Copy URL

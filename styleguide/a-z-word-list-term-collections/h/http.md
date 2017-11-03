@@ -1,6 +1,4 @@
-﻿# 
-
-HTTP
+﻿# HTTP
 
 ![Copy URL](media/http/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-alarm
+# alarm
 
 ![Copy URL](media/alarm/Copy.png)
 Copy URL

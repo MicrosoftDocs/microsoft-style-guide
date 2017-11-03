@@ -1,6 +1,4 @@
-﻿# 
-
-ZIP Code
+﻿# ZIP Code
 
 ![Copy URL](media/zip-code/Copy.png)
 Copy URL

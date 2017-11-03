@@ -1,6 +1,4 @@
-# 
-
-input/output, I/O, input/output control
+# input/output, I/O, input/output control
 
 ![Copy URL](media/input-output/Copy.png)
 Copy URL

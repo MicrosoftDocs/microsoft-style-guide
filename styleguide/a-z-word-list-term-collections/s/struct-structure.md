@@ -1,6 +1,4 @@
-# 
-
-struct, structure
+# struct, structure
 
 ![Copy URL](media/struct-structure/Copy.png)
 Copy URL

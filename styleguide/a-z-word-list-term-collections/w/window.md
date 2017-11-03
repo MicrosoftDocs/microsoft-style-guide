@@ -1,6 +1,4 @@
-# 
-
-window
+# window
 
 ![Copy URL](media/window/Copy.png)
 Copy URL

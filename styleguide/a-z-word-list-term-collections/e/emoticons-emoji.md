@@ -1,6 +1,4 @@
-﻿# 
-
-emoticons, emoji
+﻿# emoticons, emoji
 
 ![Copy URL](media/emoticons-emoji/Copy.png)
 Copy URL

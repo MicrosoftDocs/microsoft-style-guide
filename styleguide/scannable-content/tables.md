@@ -1,6 +1,4 @@
-﻿# 
-
-Tables
+﻿# Tables
 
 ![Copy URL](media/tables/Copy.png)
 Copy URL

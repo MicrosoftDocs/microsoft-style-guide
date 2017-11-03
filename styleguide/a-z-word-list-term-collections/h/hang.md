@@ -1,6 +1,4 @@
-﻿# 
-
-hang
+﻿# hang
 
 ![Copy URL](media/hang/Copy.png)
 Copy URL

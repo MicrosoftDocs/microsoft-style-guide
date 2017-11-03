@@ -1,6 +1,4 @@
-# 
-
-on-screen
+# on-screen
 
 ![Copy URL](media/on-screen/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-spell checker
+# spell checker
 
 ![Copy URL](media/spell-checker/Copy.png)
 Copy URL

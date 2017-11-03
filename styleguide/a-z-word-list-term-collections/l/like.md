@@ -1,6 +1,4 @@
-# 
-
-\-like
+# \-like
 
 ![Copy URL](media/like/Copy.png)
 Copy URL

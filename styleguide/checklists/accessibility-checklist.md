@@ -1,6 +1,4 @@
-﻿# 
-
-Accessibility checklist
+﻿# Accessibility checklist
 
 ![Copy URL](media/accessibility-checklist/Copy.png)
 Copy URL

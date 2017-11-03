@@ -1,6 +1,4 @@
-﻿# 
-
-shaded
+﻿# shaded
 
 ![Copy URL](media/shaded/Copy.png)
 Copy URL

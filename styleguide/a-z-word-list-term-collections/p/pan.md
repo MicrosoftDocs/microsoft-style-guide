@@ -1,6 +1,4 @@
-# 
-
-pan
+# pan
 
 ![Copy URL](media/pan/Copy.png)
 Copy URL

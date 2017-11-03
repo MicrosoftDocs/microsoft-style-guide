@@ -1,6 +1,4 @@
-﻿# 
-
-Communities
+﻿# Communities
 
 ![Copy URL](media/social-mediacommunities/Copy.png)
 Copy URL

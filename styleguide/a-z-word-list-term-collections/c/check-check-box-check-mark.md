@@ -1,6 +1,4 @@
-# 
-
-check, check box, check mark
+# check, check box, check mark
 
 ![Copy URL](media/check-check-box-check-mark/Copy.png)
 Copy URL

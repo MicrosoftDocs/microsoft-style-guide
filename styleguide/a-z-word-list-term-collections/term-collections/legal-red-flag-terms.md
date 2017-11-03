@@ -1,6 +1,4 @@
-# 
-
-Legal red flag terms
+# Legal red flag terms
 
 ![Copy URL](media/legal-red-flag-terms/Copy.png)
 Copy URL

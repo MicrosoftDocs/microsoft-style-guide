@@ -1,6 +1,4 @@
-﻿# 
-
-flyout
+﻿# flyout
 
 ![Copy URL](media/flyout/Copy.png)
 Copy URL

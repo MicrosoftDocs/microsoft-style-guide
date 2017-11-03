@@ -1,6 +1,4 @@
-﻿# 
-
-Describing alternative input methods
+﻿# Describing alternative input methods
 
 ![Copy URL](media/describing-alternative-input-methods/Copy.png)
 Copy URL

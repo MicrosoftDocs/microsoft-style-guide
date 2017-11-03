@@ -1,6 +1,4 @@
-# 
-
-menu item
+# menu item
 
 ![Copy URL](media/menu-item/Copy.png)
 Copy URL

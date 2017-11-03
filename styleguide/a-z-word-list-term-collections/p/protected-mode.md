@@ -1,6 +1,4 @@
-# 
-
-protected mode
+# protected mode
 
 ![Copy URL](media/protected-mode/Copy.png)
 Copy URL

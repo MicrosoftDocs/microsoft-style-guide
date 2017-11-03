@@ -1,6 +1,4 @@
-# 
-
-sleep
+# sleep
 
 ![Copy URL](media/sleep/Copy.png)
 Copy URL

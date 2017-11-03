@@ -1,6 +1,4 @@
-# 
-
-bi-
+# bi-
 
 ![Copy URL](media/bi/Copy.png)
 Copy URL

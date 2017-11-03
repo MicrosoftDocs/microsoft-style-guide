@@ -1,6 +1,4 @@
-# 
-
-cloud
+# cloud
 
 ![Copy URL](media/cloud/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-radio button
+# radio button
 
 ![Copy URL](media/radio-button/Copy.png)
 Copy URL

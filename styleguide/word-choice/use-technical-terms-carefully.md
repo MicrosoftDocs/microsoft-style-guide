@@ -1,6 +1,4 @@
-﻿# 
-
-Use technical terms carefully
+﻿# Use technical terms carefully
 
 ![Copy URL](media/use-technical-terms-carefully/Copy.png)
 Copy URL
@@ -22,9 +20,7 @@ Don't use a technical term when an everyday term will do. For example, don't use
 
 When you must use technical terms for precise communication, define them in context.
 
-#### 
-
-Use technical terms consistently
+#### Use technical terms consistently
 
 When you've decided to use a technical term, use that term consistently across products and services, tools, websites, and marketing communications. Aim for one term, one concept.
 

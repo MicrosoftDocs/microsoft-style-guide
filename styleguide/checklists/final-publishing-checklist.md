@@ -1,6 +1,4 @@
-﻿# 
-
-Final publishing checklist
+﻿# Final publishing checklist
 
 ![Copy URL](media/final-publishing-checklist/Copy.png)
 Copy URL

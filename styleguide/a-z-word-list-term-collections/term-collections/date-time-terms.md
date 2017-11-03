@@ -1,6 +1,4 @@
-﻿# 
-
-Date and time terms
+﻿# Date and time terms
 
 ![Copy URL](media/date-time-terms/Copy.png)
 Copy URL

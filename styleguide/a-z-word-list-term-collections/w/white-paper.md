@@ -1,6 +1,4 @@
-# 
-
-white paper
+# white paper
 
 ![Copy URL](media/white-paper/Copy.png)
 Copy URL

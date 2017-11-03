@@ -1,6 +1,4 @@
-# 
-
-mathematical
+# mathematical
 
 ![Copy URL](media/mathematical/Copy.png)
 Copy URL

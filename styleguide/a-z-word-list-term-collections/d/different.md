@@ -1,6 +1,4 @@
-# 
-
-different
+# different
 
 ![Copy URL](media/different/Copy.png)
 Copy URL

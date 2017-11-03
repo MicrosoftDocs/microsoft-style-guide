@@ -1,6 +1,4 @@
-# 
-
-mission critical, mission-critical
+# mission critical, mission-critical
 
 ![Copy URL](media/mission-critical/Copy.png)
 Copy URL

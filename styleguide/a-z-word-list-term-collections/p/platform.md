@@ -1,6 +1,4 @@
-# 
-
-platform
+# platform
 
 ![Copy URL](media/platform/Copy.png)
 Copy URL

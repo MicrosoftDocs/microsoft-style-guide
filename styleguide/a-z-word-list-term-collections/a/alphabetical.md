@@ -1,6 +1,4 @@
-# 
-
-alphabetical
+# alphabetical
 
 ![Copy URL](media/alphabetical/Copy.png)
 Copy URL

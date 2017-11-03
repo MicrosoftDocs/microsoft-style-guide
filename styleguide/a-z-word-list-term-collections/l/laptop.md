@@ -1,6 +1,4 @@
-# 
-
-laptop
+# laptop
 
 ![Copy URL](media/laptop/Copy.png)
 Copy URL

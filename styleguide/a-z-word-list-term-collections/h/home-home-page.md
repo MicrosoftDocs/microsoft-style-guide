@@ -1,6 +1,4 @@
-﻿# 
-
-home, home page
+﻿# home, home page
 
 ![Copy URL](media/home-home-page/Copy.png)
 Copy URL

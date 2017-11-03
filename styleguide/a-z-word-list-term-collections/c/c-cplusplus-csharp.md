@@ -1,6 +1,4 @@
-# 
-
-C, C++, C\#
+# C, C++, C\#
 
 ![Copy URL](media/c-cplusplus-csharp/Copy.png)
 Copy URL

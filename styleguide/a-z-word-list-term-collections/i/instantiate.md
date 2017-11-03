@@ -1,6 +1,4 @@
-# 
-
-instantiate
+# instantiate
 
 ![Copy URL](media/instantiate/Copy.png)
 Copy URL

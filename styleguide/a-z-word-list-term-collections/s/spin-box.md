@@ -1,6 +1,4 @@
-# 
-
-spin box
+# spin box
 
 ![Copy URL](media/spin-box/Copy.png)
 Copy URL

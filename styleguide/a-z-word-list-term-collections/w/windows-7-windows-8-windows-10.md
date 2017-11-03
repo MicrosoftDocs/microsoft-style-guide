@@ -1,6 +1,4 @@
-# 
-
-Windows 7, Windows 8, Windows 10
+# Windows 7, Windows 8, Windows 10
 
 ![Copy URL](media/windows-7-windows-8-windows-10/Copy.png)
 Copy URL

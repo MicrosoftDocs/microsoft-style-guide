@@ -1,6 +1,4 @@
-# 
-
-Blogs and social media
+# Blogs and social media
 
 ![Copy URL](media/social-mediablogs-social-media/Copy.png)
 Copy URL

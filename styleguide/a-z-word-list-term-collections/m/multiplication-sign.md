@@ -1,6 +1,4 @@
-﻿# 
-
-multiplication sign (×)
+﻿# multiplication sign (×)
 
 ![Copy URL](media/multiplication-sign/Copy.png)
 Copy URL

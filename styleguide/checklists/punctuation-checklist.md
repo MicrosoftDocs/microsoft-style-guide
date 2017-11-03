@@ -1,6 +1,4 @@
-﻿# 
-
-Punctuation checklist
+﻿# Punctuation checklist
 
 ![Copy URL](media/punctuation-checklist/Copy.png)
 Copy URL

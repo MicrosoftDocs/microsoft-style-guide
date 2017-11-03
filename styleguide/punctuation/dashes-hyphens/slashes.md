@@ -1,6 +1,4 @@
-﻿# 
-
-Slashes
+﻿# Slashes
 
 ![Copy URL](media/slashes/Copy.png)
 Copy URL

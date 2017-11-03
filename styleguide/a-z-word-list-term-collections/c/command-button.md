@@ -1,6 +1,4 @@
-# 
-
-command button
+# command button
 
 ![Copy URL](media/command-button/Copy.png)
 Copy URL

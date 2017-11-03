@@ -1,6 +1,4 @@
-# 
-
-video game, video-game
+# video game, video-game
 
 ![Copy URL](media/video-game/Copy.png)
 Copy URL

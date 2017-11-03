@@ -1,6 +1,4 @@
-# 
-
-wizard
+# wizard
 
 ![Copy URL](media/wizard/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-find and replace
+# find and replace
 
 ![Copy URL](media/find-replace/Copy.png)
 Copy URL

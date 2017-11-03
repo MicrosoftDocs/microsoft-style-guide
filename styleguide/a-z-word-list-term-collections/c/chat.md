@@ -1,6 +1,4 @@
-# 
-
-chat
+# chat
 
 ![Copy URL](media/chat/Copy.png)
 Copy URL

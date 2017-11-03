@@ -1,6 +1,4 @@
-# 
-
-by (publisher or company name)
+# by (publisher or company name)
 
 ![Copy URL](media/by/Copy.png)
 Copy URL

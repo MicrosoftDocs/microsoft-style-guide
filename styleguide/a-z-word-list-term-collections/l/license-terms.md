@@ -1,6 +1,4 @@
-# 
-
-license terms
+# license terms
 
 ![Copy URL](media/license-terms/Copy.png)
 Copy URL

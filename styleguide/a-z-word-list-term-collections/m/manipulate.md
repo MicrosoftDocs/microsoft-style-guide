@@ -1,6 +1,4 @@
-# 
-
-manipulate
+# manipulate
 
 ![Copy URL](media/manipulate/Copy.png)
 Copy URL

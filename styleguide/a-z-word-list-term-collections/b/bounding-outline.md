@@ -1,6 +1,4 @@
-# 
-
-bounding outline
+# bounding outline
 
 ![Copy URL](media/bounding-outline/Copy.png)
 Copy URL

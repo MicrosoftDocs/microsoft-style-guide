@@ -1,6 +1,4 @@
-# 
-
-cache vs. disk cache
+# cache vs. disk cache
 
 ![Copy URL](media/cache-vs-disk-cache/Copy.png)
 Copy URL

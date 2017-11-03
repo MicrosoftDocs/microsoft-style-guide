@@ -1,6 +1,4 @@
-# 
-
-terabyte, TB
+# terabyte, TB
 
 ![Copy URL](media/terabyte/Copy.png)
 Copy URL

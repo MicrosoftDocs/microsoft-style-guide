@@ -1,6 +1,4 @@
-# 
-
-press, press and hold
+# press, press and hold
 
 ![Copy URL](media/press-and-hold/Copy.png)
 Copy URL

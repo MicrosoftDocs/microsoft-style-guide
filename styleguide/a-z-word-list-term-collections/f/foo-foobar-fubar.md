@@ -1,6 +1,4 @@
-# 
-
-foo, foobar, fubar
+# foo, foobar, fubar
 
 ![Copy URL](media/foo-foobar-fubar/Copy.png)
 Copy URL

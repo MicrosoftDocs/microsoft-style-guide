@@ -1,6 +1,4 @@
-﻿# 
-
-Names and contact information
+﻿# Names and contact information
 
 ![Copy URL](media/names-contact-information/Copy.png)
 Copy URL

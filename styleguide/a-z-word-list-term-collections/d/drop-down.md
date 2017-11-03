@@ -1,6 +1,4 @@
-﻿# 
-
-drop-down
+﻿# drop-down
 
 ![Copy URL](media/drop-down/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-parenthesis, parentheses
+# parenthesis, parentheses
 
 ![Copy URL](media/parenthesis-parentheses/Copy.png)
 Copy URL

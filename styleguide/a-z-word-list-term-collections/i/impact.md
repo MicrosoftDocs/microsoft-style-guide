@@ -1,6 +1,4 @@
-# 
-
-impact
+# impact
 
 ![Copy URL](media/impact/Copy.png)
 Copy URL

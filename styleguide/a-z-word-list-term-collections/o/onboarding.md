@@ -1,6 +1,4 @@
-# 
-
-onboarding
+# onboarding
 
 ![Copy URL](media/onboarding/Copy.png)
 Copy URL

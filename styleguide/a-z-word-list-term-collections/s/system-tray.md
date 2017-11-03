@@ -1,6 +1,4 @@
-# 
-
-system tray
+# system tray
 
 ![Copy URL](media/system-tray/Copy.png)
 Copy URL

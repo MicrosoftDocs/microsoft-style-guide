@@ -1,6 +1,4 @@
-# 
-
-actionable
+# actionable
 
 ![Copy URL](media/actionable/Copy.png)
 Copy URL

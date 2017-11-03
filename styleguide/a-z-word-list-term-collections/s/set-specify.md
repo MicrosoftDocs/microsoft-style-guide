@@ -1,6 +1,4 @@
-# 
-
-set, specify
+# set, specify
 
 ![Copy URL](media/set-specify/Copy.png)
 Copy URL

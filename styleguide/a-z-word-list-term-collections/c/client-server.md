@@ -1,6 +1,4 @@
-# 
-
-client
+# client
 
 ![Copy URL](media/client-server/Copy.png)
 Copy URL

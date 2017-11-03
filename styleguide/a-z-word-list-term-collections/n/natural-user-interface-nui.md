@@ -1,6 +1,4 @@
-# 
-
-natural user interface, NUI
+# natural user interface, NUI
 
 ![Copy URL](media/natural-user-interface-nui/Copy.png)
 Copy URL

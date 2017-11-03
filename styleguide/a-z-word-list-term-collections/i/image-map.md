@@ -1,6 +1,4 @@
-# 
-
-image map
+# image map
 
 ![Copy URL](media/image-map/Copy.png)
 Copy URL

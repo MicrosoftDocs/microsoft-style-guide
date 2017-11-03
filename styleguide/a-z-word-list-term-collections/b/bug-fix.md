@@ -1,6 +1,4 @@
-# 
-
-bug fix
+# bug fix
 
 ![Copy URL](media/bug-fix/Copy.png)
 Copy URL

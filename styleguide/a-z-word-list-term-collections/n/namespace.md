@@ -1,6 +1,4 @@
-# 
-
-namespace
+# namespace
 
 ![Copy URL](media/namespace/Copy.png)
 Copy URL

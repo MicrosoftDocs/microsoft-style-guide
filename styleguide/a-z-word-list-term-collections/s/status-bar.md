@@ -1,6 +1,4 @@
-# 
-
-status bar
+# status bar
 
 ![Copy URL](media/status-bar/Copy.png)
 Copy URL

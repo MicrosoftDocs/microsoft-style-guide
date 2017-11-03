@@ -1,6 +1,4 @@
-﻿# 
-
-gray, grayed out
+﻿# gray, grayed out
 
 ![Copy URL](media/gray-grayed-out/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-﻿# 
-
-Bias-free communication checklist
+﻿# Bias-free communication checklist
 
 ![Copy URL](media/bias-free-communication-checklist/Copy.png)
 Copy URL

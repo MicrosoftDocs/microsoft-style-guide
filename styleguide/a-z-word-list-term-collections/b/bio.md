@@ -1,6 +1,4 @@
-# 
-
-bio
+# bio
 
 ![Copy URL](media/bio/Copy.png)
 Copy URL

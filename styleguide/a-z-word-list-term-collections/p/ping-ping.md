@@ -1,6 +1,4 @@
-# 
-
-ping, PING
+# ping, PING
 
 ![Copy URL](media/ping-ping/Copy.png)
 Copy URL

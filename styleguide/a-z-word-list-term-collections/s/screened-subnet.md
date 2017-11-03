@@ -1,6 +1,4 @@
-# 
-
-screened subnet
+# screened subnet
 
 ![Copy URL](media/screened-subnet/Copy.png)
 Copy URL

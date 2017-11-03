@@ -1,6 +1,4 @@
-# 
-
-New products checklist
+# New products checklist
 
 ![Copy URL](media/new-products-checklist/Copy.png)
 Copy URL

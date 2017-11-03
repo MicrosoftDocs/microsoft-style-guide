@@ -1,6 +1,4 @@
-﻿# 
-
-Reference documentation
+﻿# Reference documentation
 
 ![Copy URL](media/reference-documentation/Copy.png)
 Copy URL

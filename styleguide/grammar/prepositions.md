@@ -1,6 +1,4 @@
-﻿# 
-
-Prepositions
+﻿# Prepositions
 
 ![Copy URL](media/prepositions/Copy.png)
 Copy URL

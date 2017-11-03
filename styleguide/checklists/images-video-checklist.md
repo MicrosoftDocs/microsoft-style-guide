@@ -1,6 +1,4 @@
-﻿# 
-
-Images and video checklist
+﻿# Images and video checklist
 
 ![Copy URL](media/images-video-checklist/Copy.png)
 Copy URL

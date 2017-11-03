@@ -1,6 +1,4 @@
-﻿# 
-
-Dangling and misplaced modifiers
+﻿# Dangling and misplaced modifiers
 
 ![Copy URL](media/dangling-misplaced-modifiers/Copy.png)
 Copy URL
@@ -9,9 +7,7 @@ Copy URL
 
 Download topic
 
-## 
-
-Modifiers are single words or phrases that modify other words or phrases. Position a modifier to make it clear what it modifies.
+## Modifiers are single words or phrases that modify other words or phrases. Position a modifier to make it clear what it modifies.
 
 If you keep sentences short and simple and use active voice, you probably won’t run into dangling or misplaced modifiers. 
 

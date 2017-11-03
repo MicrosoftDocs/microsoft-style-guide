@@ -1,6 +1,4 @@
-# 
-
-hard-of-hearing
+# hard-of-hearing
 
 ![Copy URL](media/hard-of-hearing/Copy.png)
 Copy URL

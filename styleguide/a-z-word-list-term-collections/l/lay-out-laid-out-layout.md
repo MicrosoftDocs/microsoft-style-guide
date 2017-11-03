@@ -1,6 +1,4 @@
-# 
-
-lay out, laid out, layout
+# lay out, laid out, layout
 
 ![Copy URL](media/lay-out-laid-out-layout/Copy.png)
 Copy URL

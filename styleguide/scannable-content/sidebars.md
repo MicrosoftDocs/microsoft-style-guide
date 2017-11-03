@@ -1,6 +1,4 @@
-﻿# 
-
-Sidebars
+﻿# Sidebars
 
 ![Copy URL](media/sidebars/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-quit
+# quit
 
 ![Copy URL](media/quit/Copy.png)
 Copy URL

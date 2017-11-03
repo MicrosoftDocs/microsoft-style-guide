@@ -1,6 +1,4 @@
-# 
-
-outside
+# outside
 
 ![Copy URL](media/outside/Copy.png)
 Copy URL

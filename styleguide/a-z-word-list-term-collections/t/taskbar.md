@@ -1,6 +1,4 @@
-# 
-
-taskbar
+# taskbar
 
 ![Copy URL](media/taskbar/Copy.png)
 Copy URL

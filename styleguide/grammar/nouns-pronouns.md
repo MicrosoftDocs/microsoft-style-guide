@@ -1,6 +1,4 @@
-﻿# 
-
-Nouns and pronouns
+﻿# Nouns and pronouns
 
 ![Copy URL](media/nouns-pronouns/Copy.png)
 Copy URL

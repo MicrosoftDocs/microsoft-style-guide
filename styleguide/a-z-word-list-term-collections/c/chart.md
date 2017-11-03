@@ -1,6 +1,4 @@
-# 
-
-chart
+# chart
 
 ![Copy URL](media/chart/Copy.png)
 Copy URL

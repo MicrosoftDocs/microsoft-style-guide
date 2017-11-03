@@ -1,6 +1,4 @@
-# 
-
-initiate
+# initiate
 
 ![Copy URL](media/initiate/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-# 
-
-trailing
+# trailing
 
 ![Copy URL](media/trailing/Copy.png)
 Copy URL

@@ -1,6 +1,4 @@
-﻿# 
-
-Security, safety, and privacy terms
+﻿# Security, safety, and privacy terms
 
 ![Copy URL](media/security-safety-privacy-terms/Copy.png)
 Copy URL
