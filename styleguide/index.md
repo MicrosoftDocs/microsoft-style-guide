@@ -1,1 +1,3 @@
-# Welcome to styleguide!
+---
+redirect_url: /style-guide/welcome/
+---
