@@ -1,5 +1,9 @@
 ﻿# above
 
+|column1|column2|
+|---------|----|
+|example| example2|
+
 Don’t use to mean *earlier*. 
 
 Don’t use as an adjective preceding a noun *(the above section)* or following a noun *(the code above)*. Use a hyperlink, or use *previous, preceding*, or *earlier*. 
