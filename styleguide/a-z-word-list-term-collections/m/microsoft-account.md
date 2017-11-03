@@ -1,0 +1,34 @@
+Your browser does not support JavaScript. Please enable the Javascript.
+
+Loading...
+
+# 
+
+Microsoft account
+
+![Copy URL](microsoft-account_files/Copy.png)
+Copy URL
+
+![Download](microsoft-account_files/Download.png)
+
+Download topic
+
+Don’t capitalize *account*.
+
+Use *Microsoft account*
+to refer to the sign-in credentials (email address and password)
+that give someone access to Microsoft services, such as Skype,
+Xbox Live, and Outlook.com, and to products, such as Windows phone
+and Xbox consoles. 
+
+Don’t use *Microsoft account* to refer to corporate domain accounts, which are used to connect to corporate resources and services.
+
+*Microsoft account* was formerly known as *Windows Live ID*.
+
+Example This
+contact info is from your Microsoft account. Friends who have it will
+be able to find you on Skype. Would you like to add it?
+
+![In progress](microsoft-account_files/activity-large.gif)
+
+URL :

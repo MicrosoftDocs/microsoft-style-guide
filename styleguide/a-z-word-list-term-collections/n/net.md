@@ -1,0 +1,24 @@
+Your browser does not support JavaScript. Please enable the Javascript.
+
+Loading...
+
+# 
+
+.NET
+
+![Copy URL](net_files/Copy.png)
+Copy URL
+
+![Download](net_files/Download.png)
+
+Download topic
+
+Note capitalization. Always begin with a period (.). Don't spell out as *dot NET*. 
+
+Use *Microsoft .NET* on the first mention. After that, it's OK to use *.NET.*
+
+It's OK to begin a sentence with *.NET* to avoid awkwardness or ambiguity, but be aware that the consecutive periods *(. .NET)* might briefly confuse some readers.
+
+![In progress](net_files/activity-large.gif)
+
+URL :

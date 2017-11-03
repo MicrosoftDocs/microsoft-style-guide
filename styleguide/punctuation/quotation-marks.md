@@ -1,0 +1,44 @@
+Your browser does not support JavaScript. Please enable the Javascript.
+
+Loading...
+
+# 
+
+Quotation marks
+
+![Copy URL](quotation-marks_files/Copy.png)
+Copy URL
+
+![Download](quotation-marks_files/Download.png)
+
+Download topic
+
+In most content, use double quotation marks (“ ”) not single quotation marks (' ').
+
+In
+printed content, use curly quotation marks (“ ”) except in
+user input and code samples, which call for straight quotation
+marks (" "). If your project style sheet requires
+straight quotation marks with sans serif fonts, such as in
+headings, follow the style sheet.
+
+In online content, use straight quotation marks.
+
+Refer to *quotation marks, opening quotation marks,* and *closing quotation marks.* Don’t call them *quote marks, quotes, open* or *close quotation marks,* or *beginning* or *ending quotation marks.*
+
+Place closing quotation marks:
+
+  - Outside commas and periods.
+  - Inside other punctuation.
+
+Exception If punctuation is part of the quoted material, place it inside the quotation marks.
+
+Examples
+One type of malware is called a "trojan clicker."
+One type of malware, called a "trojan clicker," uses your PC to "click" online ads.
+What is “gaze awareness”?
+A reader asks, “How can I get Windows 10?”
+
+![In progress](quotation-marks_files/activity-large.gif)
+
+URL :

@@ -1,0 +1,27 @@
+Your browser does not support JavaScript. Please enable the Javascript.
+
+Loading...
+
+# 
+
+lowercase
+
+![Copy URL](lowercase_files/Copy.png)
+Copy URL
+
+![Download](lowercase_files/Download.png)
+
+Download topic
+
+One word. Don't use *lowercased*. Don't use as a verb.
+
+When using *lowercase* and *uppercase* together, don't use a suspended hyphen (as in *upper- and lowercase)*. Spell out both words instead. 
+
+Examples
+Change all the uppercase letters to lowercase.
+Change the case of both lowercase and uppercase letters.
+Microsoft uses sentence-style capitalization, meaning most words are lowercase.
+
+![In progress](lowercase_files/activity-large.gif)
+
+URL :

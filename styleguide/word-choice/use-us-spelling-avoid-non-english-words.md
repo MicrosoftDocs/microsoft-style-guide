@@ -1,0 +1,55 @@
+Your browser does not support JavaScript. Please enable the Javascript.
+
+Loading...
+
+# 
+
+Use US spelling and avoid non-English words
+
+![Copy URL](use-us-spelling-avoid-non-english-words_files/Copy.png)
+Copy URL
+
+![Download](use-us-spelling-avoid-non-english-words_files/Download.png)
+
+Download topic
+
+When the spelling of English words varies by locale, use the US spelling. For example, use *license*, not *licence.*
+
+Avoid non-English words or phrases, such as *de facto* or *ad hoc*. 
+
+Avoid Latin abbreviations for common English phrases. 
+
+Exception It’s OK to use *etc.,* in situations where space is limited. Otherwise, see [and so on](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=29202) for alternatives.
+
+<table>
+<tbody>
+<tr class="odd">
+<td><span style="font-family:Segoe UI Semibold;font-size:small;">Use this</span></td>
+<td><span style="font-family:Segoe UI Semibold;font-size:small;">Instead of this</span></td>
+</tr>
+<tr class="even">
+<td><span style="font-family:Segoe UI;font-size:small;">for example</span></td>
+<td><span style="font-family:Segoe UI;font-size:small;">e.g.</span></td>
+</tr>
+<tr class="odd">
+<td><div>
+<span style="font-family:Segoe UI;font-size:small;">that is</span>
+</div></td>
+<td><div>
+<span style="font-family:Segoe UI;font-size:small;">i.e.</span>
+</div></td>
+</tr>
+<tr class="even">
+<td><span style="font-family:Segoe UI;font-size:small;">namely</span></td>
+<td><span style="font-family:Segoe UI;font-size:small;">viz.</span></td>
+</tr>
+<tr class="odd">
+<td><span style="font-family:Segoe UI;font-size:small;">therefore</span></td>
+<td><span style="font-family:Segoe UI;font-size:small;">ergo</span></td>
+</tr>
+</tbody>
+</table>
+
+![In progress](use-us-spelling-avoid-non-english-words_files/activity-large.gif)
+
+URL :

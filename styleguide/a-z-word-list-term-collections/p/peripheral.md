@@ -1,0 +1,22 @@
+Your browser does not support JavaScript. Please enable the Javascript.
+
+Loading...
+
+# 
+
+peripheral
+
+![Copy URL](peripheral_files/Copy.png)
+Copy URL
+
+![Download](peripheral_files/Download.png)
+
+Download topic
+
+Don't use as a noun. Use *peripheral device* or a more specific term instead.
+
+See also [](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26597)[Computer and device term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26597)
+
+![In progress](peripheral_files/activity-large.gif)
+
+URL :
