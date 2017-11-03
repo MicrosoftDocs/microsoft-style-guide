@@ -1,12 +1,5 @@
 # Text formatting
 
-![Copy URL](media/index/Copy.png)
-Copy URL
-
-![Download](media/index/Download.png)
-
-Download topic
-
 Type treatment is a key component in great design. The
 thoughtful use of fonts, text formatting, capitalization,
 alignment, and spacing creates a first impression, reinforces the
@@ -30,7 +23,3 @@ See also[
 [Reference documentation](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28718)
 [Procedures and instructions](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26471)
 [](https://microsoft.sharepoint.com/teams/BrandCentral/Guidelines/Microsoft_Brand_Guidelines_Oct2014.pdf)[Brand type guidelines](https://microsoft.sharepoint.com/teams/BrandCentral/Pages/The-Microsoft-brand-Core-elements-Type.aspx) (This site requires Microsoft network access.)
-
-![In progress](media/index/activity-large.gif)
-
-URL :

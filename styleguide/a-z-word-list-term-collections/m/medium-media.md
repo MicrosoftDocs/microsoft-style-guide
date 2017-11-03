@@ -1,12 +1,5 @@
 # medium, media
 
-![Copy URL](media/medium-media/Copy.png)
-Copy URL
-
-![Download](media/medium-media/Download.png)
-
-Download topic
-
 Use *medium*, not *media*, as a singular subject. Ensure that the verb agrees with the subject (that is, *the medium is* and *the media are*).
 
 Use *media* to describe:
@@ -22,7 +15,3 @@ Examples **
 **The media include online broadcasts as well as newspapers, magazines, radio, and television. 
 The media covers computer industry news.
 The medium used for many large computer programs is the DVD-ROM. 
-
-![In progress](media/medium-media/activity-large.gif)
-
-URL :

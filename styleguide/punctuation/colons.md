@@ -1,12 +1,5 @@
 ﻿# Colons
 
-![Copy URL](media/colons/Copy.png)
-Copy URL
-
-![Download](media/colons/Download.png)
-
-Download topic
-
 #### Preceding lists
 
 Include a colon at the end of a phrase that directly introduces a list.
@@ -37,7 +30,3 @@ When you use a colon in a sentence, lowercase the word that follows it unless:
     Example What does it mean when I see a message that asks: "Are you trying to visit this site?"
   - The first word after the colon is a proper noun.
     Example We're considering three cities for the event: Los Angeles, Munich, and Tokyo. 
-
-![In progress](media/colons/activity-large.gif)
-
-URL :

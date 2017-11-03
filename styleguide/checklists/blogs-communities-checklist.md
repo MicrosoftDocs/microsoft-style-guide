@@ -1,12 +1,5 @@
 ﻿# Blogs and communities checklist
 
-![Copy URL](media/blogs-communities-checklist/Copy.png)
-Copy URL
-
-![Download](media/blogs-communities-checklist/Download.png)
-
-Download topic
-
 #### Blogs
 
   - Follow [Microsoft blogging and social media guidelines](https://microsoft.sharepoint.com/sites/lcaweb/Home/Business-Conduct-and-Compliance/Confidential-Information/Blogging-and-Social-Media-Guidelines). (This page requires Microsoft network access.)
@@ -37,7 +30,3 @@ Learn more about [blogs](https://worldready.cloudapp.net/Styleguide/Read?id=2700
   - Use social media to promote interesting content and encourage community contributions.
 
 Learn more about [communities](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36388 "communities").
-
-![In progress](media/blogs-communities-checklist/activity-large.gif)
-
-URL :

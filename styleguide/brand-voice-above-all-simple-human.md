@@ -1,12 +1,5 @@
 ﻿# Microsoft's brand voice: above all, simple and human
 
-![Copy URL](media/brand-voice-above-all-simple-human/Copy.png)
-Copy URL
-
-![Download](media/brand-voice-above-all-simple-human/Download.png)
-
-Download topic
-
 There’s *what* we say, our message. And there’s *how*
 we say it, our voice. 
 
@@ -73,7 +66,3 @@ For more quick techniques, check out the [Top 10 tips for Microsoft style and vo
 When you’re ready to dig deeper, download the [](https://microsoft.sharepoint.com/teams/BrandCentral/Search/Pages/BCGuidelinesResults.aspx?k=voice%20book)[Our Voice book](https://microsoft.sharepoint.com/teams/BrandCentral/Guidelines/Our_voice_July2014.pdf "Microsoft brand voice PDF") on Brand Central. Then join the conversation on [Yammer](https://www.yammer.com/microsoft.com/#/threads/inGroup?type=in_group&feedId=4502662). (The Brand Central site and Yammer group require Microsoft network access.) If you’re writing for the user experience, see [UI text and design](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28880). 
 
 Remember that writing is a skill. If writing isn't a functional role your team has, consider bringing in expert help.
-
-![In progress](media/brand-voice-above-all-simple-human/activity-large.gif)
-
-URL :

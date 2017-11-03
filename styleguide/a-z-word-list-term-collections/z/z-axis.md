@@ -1,12 +1,5 @@
 # z-axis
 
-![Copy URL](media/z-axis/Copy.png)
-Copy URL
-
-![Download](media/z-axis/Download.png)
-
-Download topic
-
 Lowercase. Hyphenate.
 
 In
@@ -16,7 +9,3 @@ On the first mention, refer to the z-axis as the *value (z) axis*, where both th
 Don't use italic formatting for the *z* in *z-axis* unless the entire word is italic.
 
 **See also** [value axis](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33518)
-
-![In progress](media/z-axis/activity-large.gif)
-
-URL :

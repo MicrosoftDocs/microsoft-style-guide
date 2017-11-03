@@ -1,12 +1,5 @@
 # country or region
 
-![Copy URL](media/country-or-region/Copy.png)
-Copy URL
-
-![Download](media/country-or-region/Download.png)
-
-Download topic
-
 Use instead of *country*
 for list headings, descriptions, and other contexts that might include
 named dependencies or disputed territories. In general discussions, use
@@ -21,7 +14,3 @@ It's OK to use *country/region* where space is limited. Capitalize both words if
 *Country or region* and *country/region* have no particular legal meaning. In a legal document, legal staff should determine how to refer to countries and regions. 
 
 For the official list of countries and regions and more information about using *country,* visit the [Microsoft Global Readiness website](https://microsoft.sharepoint.com/teams/celaGlobalReadiness/KBLibrary/1000.docx?web=1 "Global Readiness Knowledge Base")[.](https://globalready.azurewebsites.net/KBArticle/ViewHtmlPage/1 "Global Readiness Knowledge Base")
-
-![In progress](media/country-or-region/activity-large.gif)
-
-URL :

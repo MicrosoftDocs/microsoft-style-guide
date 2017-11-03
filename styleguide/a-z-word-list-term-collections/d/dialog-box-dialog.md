@@ -1,12 +1,5 @@
 ﻿# dialog box, dialog
 
-![Copy URL](media/dialog-box-dialog/Copy.png)
-Copy URL
-
-![Download](media/dialog-box-dialog/Download.png)
-
-Download topic
-
 Most of the time, avoid talking about UI elements. Talk about customer actions instead.
 
 When you need to refer to a dialog box, use *dialog box*—don’t shorten to *dialog.* Don't use *pop-up window* or *dialogue box*.
@@ -20,7 +13,3 @@ Select the Paragraph dialog box launcher, and then select Tabs. Enter the positi
 Exception In content for developers, it's OK to use *dialog* by itself as a modifier. For example, "This article provides information about the dialog form pattern."
 
 See also [Formatting text in instructions](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=29014)
-
-![In progress](media/dialog-box-dialog/activity-large.gif)
-
-URL :

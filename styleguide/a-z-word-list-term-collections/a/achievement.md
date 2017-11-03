@@ -1,12 +1,5 @@
 ﻿# achievement
 
-![Copy URL](media/achievement/Copy.png)
-Copy URL
-
-![Download](media/achievement/Download.png)
-
-Download topic
-
 Refers
 to an accomplishment that's formally recognized by a game, site, or
 app. Achievements are sometimes represented by a virtual badge, star,
@@ -21,7 +14,3 @@ You just earned the Superstar achievement\!
 Take a bow—you’ve earned your Superstar.
 
 **See also** [badge](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32274)
-
-![In progress](media/achievement/activity-large.gif)
-
-URL :

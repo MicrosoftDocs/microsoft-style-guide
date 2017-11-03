@@ -1,12 +1,5 @@
 # navigate
 
-![Copy URL](media/navigate/Copy.png)
-Copy URL
-
-![Download](media/navigate/Download.png)
-
-Download topic
-
 Don't use to describe going from place to place on the internet or an intranet. Use *browse* instead. 
 
 To describe going directly to a webpage or website, whether by entering a URL or selecting a hyperlink, use *go to*. 
@@ -18,7 +11,3 @@ To go to a webpage, enter the address of the page in the Address bar, and then s
 Avoid referring to UI controls and buttons as *navigation* buttons and to webpages that orient the customer as *navigation* topics or *navigation* pages. Most of the time, use *buttons, topics,* and *pages* instead.
 
 Don't use *navigation pane* unless the term appears in the UI. Use *left pane* instead if you can.
-
-![In progress](media/navigate/activity-large.gif)
-
-URL :

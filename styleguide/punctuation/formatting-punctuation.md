@@ -1,12 +1,5 @@
 # Formatting punctuation
 
-![Copy URL](media/formatting-punctuation/Copy.png)
-Copy URL
-
-![Download](media/formatting-punctuation/Download.png)
-
-Download topic
-
 In general, format punctuation in the same font style as the main content of a sentence or phrase.
 
 #### Text describing interaction with the UI
@@ -41,7 +34,3 @@ Example Open any Office app and select File \> Account. (If you're doing this in
 (In this example, the opening and closing parentheses aren't bold, to match the main text.)
 
 Use the same font style for the closing parenthesis or bracket that you use for the opening parenthesis or bracket. 
-
-![In progress](media/formatting-punctuation/activity-large.gif)
-
-URL :

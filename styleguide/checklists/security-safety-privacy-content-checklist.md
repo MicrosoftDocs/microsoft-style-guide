@@ -1,12 +1,5 @@
 ﻿# Security, safety, and privacy content checklist
 
-![Copy URL](media/security-safety-privacy-content-checklist/Copy.png)
-Copy URL
-
-![Download](media/security-safety-privacy-content-checklist/Download.png)
-
-Download topic
-
 Absolute security, privacy, and safety don't exist. When you write about these subjects, which are a big concern for many customers, be reassuring but realistic.
 
   - Don’t
@@ -28,7 +21,3 @@ Absolute security, privacy, and safety don't exist. When you write about these s
   - Review the [Microsoft Security Guidelines for Covered Services](https://microsoft.sharepoint.com/sites/LCAWebAuthoring/LSWDocuments/Microsoft_Security_Guidelines_For_Covered_Services_Marketing.docx?d=wd7f81ee2e7c6424c82fa70dc26d03084) if you're writing about Microsoft account (formerly Windows Live ID), Passport, Windows Marketplace, mobile, or portions of Outlook.com (formerly Hotmail) and CX (formerly MX). (This page requires Microsoft network access.)
 
 Learn more about [security, safety, and privacy content](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26896). 
-
-![In progress](media/security-safety-privacy-content-checklist/activity-large.gif)
-
-URL :

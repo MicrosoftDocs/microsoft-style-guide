@@ -1,12 +1,5 @@
 ﻿# Procedures and instructions
 
-![Copy URL](media/index/Copy.png)
-Copy URL
-
-![Download](media/index/Download.png)
-
-Download topic
-
 The
 best procedure is the one you don’t need. If the UI is crystal
 clear and leads the customer through a task, a procedure
@@ -46,7 +39,3 @@ other input method or device that the product or service supports. The
 easiest way to approach this is to fully document interactions using
 each input method, and then write procedures that
 use input-neutral verbs. 
-
-![In progress](media/index/activity-large.gif)
-
-URL :

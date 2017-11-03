@@ -1,12 +1,5 @@
 # object
 
-![Copy URL](media/object/Copy.png)
-Copy URL
-
-![Download](media/object/Download.png)
-
-Download topic
-
 Don't use *object* as a synonym for *item* or *thing*. Instead, refer to a specific object.
 
 For
@@ -15,7 +8,3 @@ of a class that contains both methods and data and is treated as one
 entity. Similarly, in COM-based technologies, an object is a combination
 of code and data that implements one or more interfaces. In
 assembly language, *object* refers to the object module, which contains data that has been translated into machine code.
-
-![In progress](media/object/activity-large.gif)
-
-URL :

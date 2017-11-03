@@ -1,12 +1,5 @@
 ﻿# Dangling and misplaced modifiers
 
-![Copy URL](media/dangling-misplaced-modifiers/Copy.png)
-Copy URL
-
-![Download](media/dangling-misplaced-modifiers/Download.png)
-
-Download topic
-
 ## Modifiers are single words or phrases that modify other words or phrases. Position a modifier to make it clear what it modifies.
 
 If you keep sentences short and simple and use active voice, you probably won’t run into dangling or misplaced modifiers. 
@@ -62,7 +55,3 @@ There are files on the disk <em>that can’t be removed</em>.
 </tr>
 </tbody>
 </table>
-
-![In progress](media/dangling-misplaced-modifiers/activity-large.gif)
-
-URL :

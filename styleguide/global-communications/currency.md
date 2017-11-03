@@ -1,12 +1,5 @@
 ﻿# Currency
 
-![Copy URL](media/currency/Copy.png)
-Copy URL
-
-![Download](media/currency/Download.png)
-
-Download topic
-
 #### Currency names
 
 In general, lowercase the names of currencies, but capitalize the reference to the country or region. 
@@ -49,7 +42,3 @@ To find a currency name or code:
 2.  Expand the Currency section, and look for the English Currency Name or International Currency Code.
 
 See also [](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33706)[euro](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33706)
-
-![In progress](media/currency/activity-large.gif)
-
-URL :

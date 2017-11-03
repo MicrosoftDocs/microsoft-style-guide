@@ -1,12 +1,5 @@
 ﻿# Code names
 
-![Copy URL](media/code-names/Copy.png)
-Copy URL
-
-![Download](media/code-names/Download.png)
-
-Download topic
-
 Before you create or use code names for existing products, new offerings, or acquisitions, review CELAWeb [Code name guidelines](https://microsoft.sharepoint.com/sites/LCAWeb/Home/Copyrights-Trademarks-and-Patents/Trademarks/Code-Names). (This page requires Microsoft network access.) 
 
 ​
@@ -23,7 +16,3 @@ Avoid using code names in documentation. If you must use a code name:
   - Try to limit use to topic titles or regular text. 
   - Never use code names in file names, art, context IDs, or link text. 
   - Be careful to replace all instances of the code name when the official name is confirmed.
-
-![In progress](media/code-names/activity-large.gif)
-
-URL :

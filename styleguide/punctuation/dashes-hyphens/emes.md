@@ -1,12 +1,5 @@
 ﻿# Em dashes
 
-![Copy URL](media/emes/Copy.png)
-Copy URL
-
-![Download](media/emes/Download.png)
-
-Download topic
-
 HTML code &\#151;
 
 Use
@@ -31,7 +24,3 @@ Don’t use an em dash:
   - To indicate an empty cell in a table.
 
 Don’t capitalize the first word after an em dash unless the word is a proper noun.
-
-![In progress](media/emes/activity-large.gif)
-
-URL :

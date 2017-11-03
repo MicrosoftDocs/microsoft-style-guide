@@ -1,12 +1,5 @@
 # URLs and web addresses
 
-![Copy URL](media/urls-web-addresses/Copy.png)
-Copy URL
-
-![Download](media/urls-web-addresses/Download.png)
-
-Download topic
-
 Communications
 to customers often refer to websites and URLs. Follow these
 guidelines to make your URL references clear and easy for customers to
@@ -63,7 +56,3 @@ Examples
 Visit the [Windows 10 upgrade page](http://windows.microsoft.com/upgrade) to learn how to get your free upgrade. 
 (Alt text) Picture of a woman talking on a phone that opens an online chat session with Microsoft support.
 (Alt text) Windows 10 logo and link to the Windows 10 upgrade page.
-
-![In progress](media/urls-web-addresses/activity-large.gif)
-
-URL :

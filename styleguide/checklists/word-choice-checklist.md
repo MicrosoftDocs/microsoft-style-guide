@@ -1,12 +1,5 @@
 ﻿# Word choice checklist
 
-![Copy URL](media/word-choice-checklist/Copy.png)
-Copy URL
-
-![Download](media/word-choice-checklist/Download.png)
-
-Download topic
-
 Choose simple, precise words that you use in conversations.
 
   - Use common contractions, such as *that's* and *don’t*. They’re friendly and conversational. [Learn more](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36389).
@@ -38,7 +31,3 @@ Choose simple, precise words that you use in conversations.
   - Don't
     use words that attribute human characteristics to devices and products.
     Devices don't think, feel, or otherwise exhibit human characteristics.
-
-![In progress](media/word-choice-checklist/activity-large.gif)
-
-URL :

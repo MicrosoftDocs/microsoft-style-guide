@@ -1,12 +1,5 @@
 ﻿# Bits and bytes terms
 
-![Copy URL](media/bits-bytes-terms/Copy.png)
-Copy URL
-
-![Download](media/bits-bytes-terms/Download.png)
-
-Download topic
-
 In general, spell out *bit* and *byte* terms on the first mention unless: 
 
   - Your audience is familiar with the abbreviation.
@@ -190,7 +183,3 @@ ZB
 </tr>
 </tbody>
 </table>
-
-![In progress](media/bits-bytes-terms/activity-large.gif)
-
-URL :

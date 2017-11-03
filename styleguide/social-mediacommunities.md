@@ -1,12 +1,5 @@
 ﻿# Communities
 
-![Copy URL](media/social-mediacommunities/Copy.png)
-Copy URL
-
-![Download](media/social-mediacommunities/Download.png)
-
-Download topic
-
 The
 web has evolved from a source of information to a place
 where people share expertise and learn from others. Customers
@@ -73,7 +66,3 @@ keywords to help readers find related entries and search for
 posts about topics they care about.
 
 Use social media to promote interesting content and to encourage community contributions.
-
-![In progress](media/social-mediacommunities/activity-large.gif)
-
-URL :

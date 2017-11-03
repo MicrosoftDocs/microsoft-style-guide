@@ -1,12 +1,5 @@
 ﻿# Punctuation checklist
 
-![Copy URL](media/punctuation-checklist/Copy.png)
-Copy URL
-
-![Download](media/punctuation-checklist/Download.png)
-
-Download topic
-
 Keep it simple.
 
   - Stick to short, simple sentences. Sentences that contain lots of punctuation tend to be complex and hard to read. 
@@ -59,7 +52,3 @@ Exception If punctuation is part of the quoted material, place it inside the quo
     content of a sentence or phrase unless it's part of an element such as a command, option, keyword, placeholder, hyperlink, pop-up text, or user input.
 
 Learn more about [punctuation](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25519).
-
-![In progress](media/punctuation-checklist/activity-large.gif)
-
-URL :

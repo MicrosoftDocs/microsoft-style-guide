@@ -1,12 +1,5 @@
 ﻿# Commas
 
-![Copy URL](media/commas/Copy.png)
-Copy URL
-
-![Download](media/commas/Download.png)
-
-Download topic
-
 #### #### Use a comma:
 
   - In
@@ -53,7 +46,3 @@ The program evaluates your computer system. Then it copies the essential files t
 The program evaluates your computer system, and then it copies the essential files to the target location. 
 
   - Between the month and the year when a specific date isn’t mentioned.
-
-![In progress](media/commas/activity-large.gif)
-
-URL :

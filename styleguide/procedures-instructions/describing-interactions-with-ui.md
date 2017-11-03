@@ -1,12 +1,5 @@
 ﻿# Describing interactions with UI
 
-![Copy URL](media/describing-interactions-with-ui/Copy.png)
-Copy URL
-
-![Download](media/describing-interactions-with-ui/Download.png)
-
-Download topic
-
 Customers
 interact with products using different input methods: keyboard,
 mouse, touch, voice, and more. So use generic verbs that work with any
@@ -228,7 +221,3 @@ Press and hold the app you want to pin, and then select </span><b>Pin to Start</
 </tr>
 </tbody>
 </table>
-
-![In progress](media/describing-interactions-with-ui/activity-large.gif)
-
-URL :

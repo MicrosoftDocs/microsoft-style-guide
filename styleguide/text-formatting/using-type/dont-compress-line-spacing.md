@@ -1,12 +1,5 @@
 ﻿# Don't compress line spacing
 
-![Copy URL](media/dont-compress-line-spacing/Copy.png)
-Copy URL
-
-![Download](media/dont-compress-line-spacing/Download.png)
-
-Download topic
-
 The amount of vertical space between lines of text in a paragraph, called *line spacing,*
 can help or hinder reading. Adequate line spacing helps readers
 find their way from the end of one line to the beginning of the next. 
@@ -57,7 +50,3 @@ the content. Never reduce line spacing to fit more text on a slide or page. Edit
 </tr>
 </tbody>
 </table>
-
-![In progress](media/dont-compress-line-spacing/activity-large.gif)
-
-URL :

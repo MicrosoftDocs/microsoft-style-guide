@@ -1,12 +1,5 @@
 ﻿# hang
 
-![Copy URL](media/hang/Copy.png)
-Copy URL
-
-![Download](media/hang/Download.png)
-
-Download topic
-
 Don't use.
 
 Use *stop responding* to describe a situation in which a program encounters a problem and can’t close itself. (It's OK to mention *hang* to support search engine optimization.)
@@ -21,7 +14,3 @@ does. In messages, refer to the problem with precision and
 specificity.
 
 **See also** [stop, stop responding](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35398)
-
-![In progress](media/hang/activity-large.gif)
-
-URL :

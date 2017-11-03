@@ -1,12 +1,5 @@
 ﻿# Sidebars
 
-![Copy URL](media/sidebars/Copy.png)
-Copy URL
-
-![Download](media/sidebars/Download.png)
-
-Download topic
-
 Sidebars are
 useful in longer articles or documents to call out interesting
 sections and break up long spans of text. The content you put in a
@@ -19,7 +12,3 @@ sidebars for information that should be read in sequence with the
 main text.
 
 ![](media/sidebars/1416770987.png)
-
-![In progress](media/sidebars/activity-large.gif)
-
-URL :

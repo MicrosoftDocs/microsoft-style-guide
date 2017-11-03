@@ -1,12 +1,5 @@
 ﻿# below
 
-![Copy URL](media/below/Copy.png)
-Copy URL
-
-![Download](media/below/Download.png)
-
-Download topic
-
 Don’t use to mean *later*. 
 
 Don’t use as an adjective preceding a noun *(the below section)* or following a noun *(the code below)*. Use a hyperlink, or use *later* or *the* *following*. 
@@ -17,7 +10,3 @@ See [Installation instructions](http://example.com/).
 See Installation instructions, later in this topic.
 
 **See also** **** [above](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=27392), [later](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32560)
-
-![In progress](media/below/activity-large.gif)
-
-URL :

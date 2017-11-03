@@ -1,12 +1,5 @@
 ﻿# Responsive content checklist
 
-![Copy URL](media/responsive-content-checklist/Copy.png)
-Copy URL
-
-![Download](media/responsive-content-checklist/Download.png)
-
-Download topic
-
 Assume that most content will be viewed on tablets or mobile devices by some customers. Plan for it.
 
   - Consider the order in which columns will display on a small screen.
@@ -19,7 +12,3 @@ Assume that most content will be viewed on tablets or mobile devices by some cus
   - Limit the number of columns in a table.
 
 [](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28694)**Learn more**  about [responsive content](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36384).
-
-![In progress](media/responsive-content-checklist/activity-large.gif)
-
-URL :

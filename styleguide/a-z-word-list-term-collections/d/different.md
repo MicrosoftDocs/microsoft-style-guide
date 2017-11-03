@@ -1,12 +1,5 @@
 # different
 
-![Copy URL](media/different/Copy.png)
-Copy URL
-
-![Download](media/different/Download.png)
-
-Download topic
-
 Don't use *different* to mean *many* or *various*.
 
 In comparisons, use *different from* most of the time. Use *different than* only when *than* is followed by a clause. Don't use *different to*. 
@@ -26,7 +19,3 @@ sides of the comparison are balanced and parallel. If it's difficult to
 make them parallel, consider rewriting. 
 
 Example The regional setting doesn't match the language of the localized version of the operating system.
-
-![In progress](media/different/activity-large.gif)
-
-URL :

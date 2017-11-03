@@ -1,12 +1,5 @@
 # shut down, shutdown
 
-![Copy URL](media/shut-down-shutdown/Copy.png)
-Copy URL
-
-![Download](media/shut-down-shutdown/Download.png)
-
-Download topic
-
 Two words as a verb, one word as a noun. 
 
 Use *shut down* to describe exiting the operating system and turning off the device in a single action. 
@@ -23,7 +16,3 @@ The accidental shutdown might have damaged some files.
 **[Describing interactions with UI](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26472)
 [turn on, turn off](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33405)
 [sleep](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35395)
-
-![In progress](media/shut-down-shutdown/activity-large.gif)
-
-URL :

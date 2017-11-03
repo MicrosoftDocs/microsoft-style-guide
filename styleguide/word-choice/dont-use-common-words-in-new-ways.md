@@ -1,12 +1,5 @@
 ﻿# Don't use common words in new ways
 
-![Copy URL](media/dont-use-common-words-in-new-ways/Copy.png)
-Copy URL
-
-![Download](media/dont-use-common-words-in-new-ways/Download.png)
-
-Download topic
-
 Most people know the common definition of words—usually the one that appears first in the dictionary ([*The American Heritage Dictionary*](https://ahdictionary.com/), to be exact.) Use words in the most familiar sense, or define them if you can’t.
 
   - Don’t create a new word from an existing word.
@@ -56,7 +49,3 @@ Most people know the common definition of words—usually the one that appears f
 </tr>
 </tbody>
 </table>
-
-![In progress](media/dont-use-common-words-in-new-ways/activity-large.gif)
-
-URL :

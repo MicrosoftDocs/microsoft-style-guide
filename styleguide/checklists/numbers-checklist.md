@@ -1,12 +1,5 @@
 ﻿# Numbers checklist
 
-![Copy URL](media/numbers-checklist/Copy.png)
-Copy URL
-
-![Download](media/numbers-checklist/Download.png)
-
-Download topic
-
 When
 you write about numbers used in examples or UI, duplicate them
 exactly as they appear in the UI. In all other content, follow
@@ -80,7 +73,3 @@ See also
 [Date and time term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=27390)
 [Units of measure term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28884)
 [Dashes and hyphens](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28757)
-
-![In progress](media/numbers-checklist/activity-large.gif)
-
-URL :

@@ -1,12 +1,5 @@
 # hot spot, hotspot
 
-![Copy URL](media/hot-spot-hotspot/Copy.png)
-Copy URL
-
-![Download](media/hot-spot-hotspot/Download.png)
-
-Download topic
-
 Don't use to refer to a hyperlink.
 
 In
@@ -19,7 +12,3 @@ Use one word when referring to a site that offers internet access over a wireles
 Use one word when referring to programming elements, such as the elements of the HotSpot class, or to match UI. 
 
 See also **** [hyperlink](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33969)
-
-![In progress](media/hot-spot-hotspot/activity-large.gif)
-
-URL :

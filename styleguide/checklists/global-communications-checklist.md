@@ -1,12 +1,5 @@
 ﻿# Global communications checklist
 
-![Copy URL](media/global-communications-checklist/Copy.png)
-Copy URL
-
-![Download](media/global-communications-checklist/Download.png)
-
-Download topic
-
 Microsoft
 customers live and work all over the world and speak a variety of
 languages. This checklist will help you write content that’s appropriate
@@ -117,7 +110,3 @@ Names and contact information
     the content before the license expires. For more information, see [Using photos, videos, or other media in advertising](https://microsoft.sharepoint.com/sites/LCAWeb/Home/Marketing/Marketing-and-Advertising-Content/Photos-and-Other-Media) on CELAWeb. (This page requires Microsoft network access.)
 
 Learn more about [global communications](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26906). 
-
-![In progress](media/global-communications-checklist/activity-large.gif)
-
-URL :

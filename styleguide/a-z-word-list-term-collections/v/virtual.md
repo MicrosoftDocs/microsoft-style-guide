@@ -1,12 +1,5 @@
 # virtual
 
-![Copy URL](media/virtual/Copy.png)
-Copy URL
-
-![Download](media/virtual/Download.png)
-
-Download topic
-
 Use
 only to refer specifically to a device or service that appears to be
 something it's not or that doesn't physically exist. For
@@ -22,7 +15,3 @@ virtual root
 virtual server
 
 See also [Virtual Machines](https://worldready.cloudapp.net/Styleguide/Read?id=2696&topicid=27538) in the *Microsoft Cloud Style Guide*.
-
-![In progress](media/virtual/activity-large.gif)
-
-URL :

@@ -1,12 +1,5 @@
 # and so on
 
-![Copy URL](media/and-so-on/Copy.png)
-Copy URL
-
-![Download](media/and-so-on/Download.png)
-
-Download topic
-
 In general, don't use *and so on* except where screen space is limited. Instead, be specific.
 
 Example
@@ -21,7 +14,3 @@ Exception
 It's OK to use *and so on* to indicate a logical progression where at least two items have been named.
 
 Example a, b, c, and so on
-
-![In progress](media/and-so-on/activity-large.gif)
-
-URL :

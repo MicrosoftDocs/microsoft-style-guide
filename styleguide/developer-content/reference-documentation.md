@@ -1,12 +1,5 @@
 ﻿# Reference documentation
 
-![Copy URL](media/reference-documentation/Copy.png)
-Copy URL
-
-![Download](media/reference-documentation/Download.png)
-
-Download topic
-
 Reference
 documentation provides details about the programming elements
 associated with technologies and languages: class libraries,
@@ -123,7 +116,3 @@ customers. Remove any implementation or internal details that
 aren’t suitable for documentation. 
 
 **Learn more For examples of technical reference topics, see the [.NET Framework Class Library](http://msdn.microsoft.com/en-us/library/gg145045.aspx) section of the [Microsoft Developer Network (MSDN) Library](http://msdn.microsoft.com/library/).**
-
-![In progress](media/reference-documentation/activity-large.gif)
-
-URL :

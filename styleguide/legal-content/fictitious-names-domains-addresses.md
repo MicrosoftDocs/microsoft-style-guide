@@ -1,12 +1,5 @@
 ﻿# Fictitious names, domains, and addresses
 
-![Copy URL](media/fictitious-names-domains-addresses/Copy.png)
-Copy URL
-
-![Download](media/fictitious-names-domains-addresses/Download.png)
-
-Download topic
-
 We
 use realistic scenarios to create stories around Microsoft
 products, incorporate details into demos, and clarify instructions.
@@ -46,7 +39,3 @@ For maximum realism, choose an address that doesn't contain
 zeroes from one of the latter two blocks.
 
 If you have a question about using fictitious content, contact [your group’s paralegal](https://microsoft.sharepoint.com/sites/lcaweb/Pages/Applications/LegalContact.aspx). (This page requires Microsoft network access.)
-
-![In progress](media/fictitious-names-domains-addresses/activity-large.gif)
-
-URL :

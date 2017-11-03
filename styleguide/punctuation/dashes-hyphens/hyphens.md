@@ -1,12 +1,5 @@
 ﻿# Hyphens
 
-![Copy URL](media/hyphens/Copy.png)
-Copy URL
-
-![Download](media/hyphens/Download.png)
-
-Download topic
-
 For information about hyphenating specific technology words, see the [A–Z word list](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25512). For information about hyphenating common words, see [*The American Heritage Dictionary*](https://ahdictionary.com/) and [*The Chicago Manual of Style*](http://www.chicagomanualofstyle.org/home.html). (If you have Microsoft network access, you can use *[The Chicago Manual of Style Online](http://aka.ms/mslibrary/cms)* through MS Library.)
 
 #### #### **Predicate adjectives**
@@ -173,7 +166,3 @@ Hyphenate the following words in Microsoft content.
 |                                                                                                        |                                                                                                                                                                                                                                                       |                                                                                                                                                                                                                                                 |                                                                                                         |
 |                                                                                                        |                                                                                                                                                                                                                                                       |                                                                                                                                                                                                                                                 |                                                                                                         |
 |                                                                                                        |                                                                                                                                                                                                                                                       |                                                                                                                                                                                                                                                 |                                                                                                         |
-
-![In progress](media/hyphens/activity-large.gif)
-
-URL :

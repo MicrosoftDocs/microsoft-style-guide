@@ -1,12 +1,5 @@
 ﻿# Formatting common text elements
 
-![Copy URL](media/formatting-common-text-elements/Copy.png)
-Copy URL
-
-![Download](media/formatting-common-text-elements/Download.png)
-
-Download topic
-
 Consistent
 text formatting helps readers locate and interpret information. Follow
 these formatting conventions for common text elements. 
@@ -145,7 +138,3 @@ See also
 </tr>
 </tbody>
 </table>
-
-![In progress](media/formatting-common-text-elements/activity-large.gif)
-
-URL :

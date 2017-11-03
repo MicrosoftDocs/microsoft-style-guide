@@ -1,12 +1,5 @@
 ﻿# Periods
 
-![Copy URL](media/periods/Copy.png)
-Copy URL
-
-![Download](media/periods/Download.png)
-
-Download topic
-
 Don’t
 use end punctuation in headlines, headings, subheadings, UI
 titles, UI text, or simple lists (three or fewer words per item).
@@ -28,7 +21,3 @@ When a phrase ending with a colon introduces a bulleted list:
     one or more list elements are complete sentences, use a period
     after every element, even if a list element contains three or fewer
     words.
-
-![In progress](media/periods/activity-large.gif)
-
-URL :

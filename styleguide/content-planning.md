@@ -1,12 +1,5 @@
 ﻿# Content planning
 
-![Copy URL](media/content-planning/Copy.png)
-Copy URL
-
-![Download](media/content-planning/Download.png)
-
-Download topic
-
 Great content starts with a plan that begins with these questions.
 
 **Who is your audience?** This could
@@ -250,7 +243,3 @@ UI troubleshooter
 </tr>
 </tbody>
 </table>
-
-![In progress](media/content-planning/activity-large.gif)
-
-URL :

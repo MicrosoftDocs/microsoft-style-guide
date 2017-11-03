@@ -1,12 +1,5 @@
 ﻿# Network traffic flows
 
-![Copy URL](media/network-traffic-flows/Copy.png)
-Copy URL
-
-![Download](media/network-traffic-flows/Download.png)
-
-Download topic
-
 When
 you need to create a graphical representation of network traffic
 using industry or proprietary protocols, follow these guidelines.
@@ -147,7 +140,3 @@ uses only dynamic ports.
 </tr>
 </tbody>
 </table>
-
-![In progress](media/network-traffic-flows/activity-large.gif)
-
-URL :

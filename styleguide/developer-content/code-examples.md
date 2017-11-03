@@ -1,12 +1,5 @@
 ﻿# Code examples
 
-![Copy URL](media/code-examples/Copy.png)
-Copy URL
-
-![Download](media/code-examples/Download.png)
-
-Download topic
-
 Code examples illustrate how to use a programming element to implement specific functionality. They might include:
 
   - Simple, one-line examples interspersed with text.
@@ -78,7 +71,3 @@ run the example directly from your content page.
 techniques to improve the visibility and usability of the code
 examples. For example, add links to relevant code example pages and
 content pages to improve SEO across your content. See [Search and writing](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36379).
-
-![In progress](media/code-examples/activity-large.gif)
-
-URL :

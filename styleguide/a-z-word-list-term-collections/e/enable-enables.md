@@ -1,12 +1,5 @@
 # enable, enables
 
-![Copy URL](media/enable-enables/Copy.png)
-Copy URL
-
-![Download](media/enable-enables/Download.png)
-
-Download topic
-
 Don't use *enables (*or *allows* or *lets)* to
 refer to things that Microsoft or Microsoft apps make possible for
 the customer. Rewrite to focus on what's important from the customer's
@@ -18,7 +11,3 @@ In content for a technical audience, it's OK to describe a feature or command as
 
 It's OK to use *enable the customer to* when you need to refer to the customer in the third person.
 Example Include this control to enable the customer to ....
-
-![In progress](media/enable-enables/activity-large.gif)
-
-URL :

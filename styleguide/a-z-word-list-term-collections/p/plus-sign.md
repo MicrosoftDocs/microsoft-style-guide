@@ -1,12 +1,5 @@
 ﻿# plus sign (+)
 
-![Copy URL](media/plus-sign/Copy.png)
-Copy URL
-
-![Download](media/plus-sign/Download.png)
-
-Download topic
-
 Don’t use the plus sign (+) to replace words like *and, over,* and *plus.*
 
 Exception
@@ -19,7 +12,3 @@ Choose from more than 750,000 apps in the Windows Store.
 999+ connections (in the UI) 
 
 See also [ampersand (&)](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32501)
-
-![In progress](media/plus-sign/activity-large.gif)
-
-URL :

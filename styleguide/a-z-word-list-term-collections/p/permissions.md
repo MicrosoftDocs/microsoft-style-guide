@@ -1,12 +1,5 @@
 # permissions
 
-![Copy URL](media/permissions/Copy.png)
-Copy URL
-
-![Download](media/permissions/Download.png)
-
-Download topic
-
 Use only
 to refer to operations associated with a specific shared resource,
 such as a file, directory, or printer, that are authorized by the
@@ -25,7 +18,3 @@ Grant Read, Read and Execute, and List Folder Content permissions to the Users g
 Whenever possible, assign permissions to groups instead of users.
 
 **See also** **** [rights](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35561), [user rights](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35562)
-
-![In progress](media/permissions/activity-large.gif)
-
-URL :

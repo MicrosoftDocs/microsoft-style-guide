@@ -1,12 +1,5 @@
 # web, World Wide Web, WWW
 
-![Copy URL](media/web-world-wide-web-www/Copy.png)
-Copy URL
-
-![Download](media/web-world-wide-web-www/Download.png)
-
-Download topic
-
 Lowercase *web* as a modifier except to match UI, in feature names that include *web,* and to comply with your group's editorial style guide. 
 
 Avoid the phrase *World Wide Web.* Use *the web* instead. 
@@ -41,7 +34,3 @@ The following terms that include *web* are two words:
   - web part
 
 See also [](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=34905)[URLs and web addresses](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=34905)
-
-![In progress](media/web-world-wide-web-www/activity-large.gif)
-
-URL :

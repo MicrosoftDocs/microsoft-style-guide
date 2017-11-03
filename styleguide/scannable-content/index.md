@@ -1,12 +1,5 @@
 ﻿# Scannable content
 
-![Copy URL](media/index/Copy.png)
-Copy URL
-
-![Download](media/index/Download.png)
-
-Download topic
-
 The
 volume of content available to customers is overwhelming. Part of a
 writer's job is to help readers find what they need quickly, or
@@ -103,7 +96,3 @@ paragraphs, like this one, help to break up long passages of text.
 Three to seven lines is about the right length for a paragraph. 
 
 It’s also fine to have a single-line paragraph now and then. 
-
-![In progress](media/index/activity-large.gif)
-
-URL :

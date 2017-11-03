@@ -1,12 +1,5 @@
 # pin, unpin
 
-![Copy URL](media/pin-unpin/Copy.png)
-Copy URL
-
-![Download](media/pin-unpin/Download.png)
-
-Download topic
-
 Use *pin* to refer to adding an app, link, contact, or other item as a tile on the Start menu. Use *unpin* to describe removing a pinned item.
 
 Examples
@@ -19,7 +12,3 @@ Pin apps to Start
 2.  Press and hold (or right-click) the app you want to pin.
 
 3.  Select Pin to Start. 
-
-![In progress](media/pin-unpin/activity-large.gif)
-
-URL :

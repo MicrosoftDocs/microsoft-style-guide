@@ -1,12 +1,5 @@
 ﻿# Security, safety, and privacy content
 
-![Copy URL](media/security-safety-privacy-content/Copy.png)
-Copy URL
-
-![Download](media/security-safety-privacy-content/Download.png)
-
-Download topic
-
 Absolute
 security, privacy, and safety don't exist. So when you write about
 those topics (which are a big concern for many customers), be reassuring
@@ -48,7 +41,3 @@ Learn more Use the [Security and privacy messaging checklist](https://microsoft.
 For a full list of security-related terms and their definitions, see the [Microsoft Malware Protection Center glossary](http://www.microsoft.com/security/portal/mmpc/shared/glossary.aspx). 
 
 See also [Security, safety, and privacy term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26894)
-
-![In progress](media/security-safety-privacy-content/activity-large.gif)
-
-URL :

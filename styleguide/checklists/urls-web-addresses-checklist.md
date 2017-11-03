@@ -1,12 +1,5 @@
 # URLs and web addresses checklist
 
-![Copy URL](media/urls-web-addresses-checklist/Copy.png)
-Copy URL
-
-![Download](media/urls-web-addresses-checklist/Download.png)
-
-Download topic
-
 Follow these guidelines to refer to URLs and other addresses clearly and consistently. For detailed guidance, see [URLs and web addresses](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=34905).
 
   - Most of the time, use lowercase for URLs, email addresses, and newsgroup addresses.
@@ -24,7 +17,3 @@ Follow these guidelines to refer to URLs and other addresses clearly and consist
   - Use *a* as an article preceding *URL.
     *
   - If punctuation follows a URL, make sure it's clear that the punctuation isn't part of the URL. 
-
-![In progress](media/urls-web-addresses-checklist/activity-large.gif)
-
-URL :

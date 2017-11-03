@@ -1,12 +1,5 @@
 ﻿# Top 10 tips for Microsoft style and voice
 
-![Copy URL](media/top-10-tips-style-voice/Copy.png)
-Copy URL
-
-![Download](media/top-10-tips-style-voice/Download.png)
-
-Download topic
-
 Use bigger ideas, fewer words
 Our modern design hinges on crisp minimalism. Shorter is always better. To learn more, see [Brand voice](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28361).
 
@@ -131,7 +124,3 @@ Poster: Top 10 voice and style tips
 ![](media/top-10-tips-style-voice/911998365.png)
 
 For easy reference, get the [Top 10 tips poster](https://worldready.blob.core.windows.net/document/getting-voice-right_010417.pdf "Printable top 10 tips poster").
-
-![In progress](media/top-10-tips-style-voice/activity-large.gif)
-
-URL :

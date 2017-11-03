@@ -1,12 +1,5 @@
 # global
 
-![Copy URL](media/global/Copy.png)
-Copy URL
-
-![Download](media/global/Download.png)
-
-Download topic
-
 In content for a technical audience, use *global* to refer to:
 
   - Memory that's accessible to more than one process.
@@ -26,7 +19,3 @@ Use the Find and Replace commands to find all occurrences of specific text and r
 The manufacturer is using Office 365 to expand its global supply chain.
 
 See also [worldwide vs. international](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=39585)
-
-![In progress](media/global/activity-large.gif)
-
-URL :

@@ -1,12 +1,5 @@
 # Formatting titles
 
-![Copy URL](media/formatting-titles/Copy.png)
-Copy URL
-
-![Download](media/formatting-titles/Download.png)
-
-Download topic
-
 Follow these conventions for formatting titles.
 
 See also [Capitalization](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33685), [Headings](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36408)
@@ -71,7 +64,3 @@ See also [Capitalization](https://worldready.cloudapp.net/Styleguide/Read?id=270
 </tr>
 </tbody>
 </table>
-
-![In progress](media/formatting-titles/activity-large.gif)
-
-URL :

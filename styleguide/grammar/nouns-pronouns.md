@@ -1,12 +1,5 @@
 ﻿# Nouns and pronouns
 
-![Copy URL](media/nouns-pronouns/Copy.png)
-Copy URL
-
-![Download](media/nouns-pronouns/Download.png)
-
-Download topic
-
 #### Capitalization and proper nouns
 
 Proper nouns are one of a kind—unique people, places, and things. Capitalize proper nouns wherever they occur. 
@@ -140,7 +133,3 @@ Meet with up to 250 people. All they need is a phone or internet connection.
 The company upgraded its cloud storage solution to Microsoft Azure.
 
 Exception If the emphasis is on the individuals in a group, it’s OK to use a plural pronoun with a singular noun.
-
-![In progress](media/nouns-pronouns/activity-large.gif)
-
-URL :

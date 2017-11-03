@@ -1,12 +1,5 @@
 # symbol
 
-![Copy URL](media/symbol/Copy.png)
-Copy URL
-
-![Download](media/symbol/Download.png)
-
-Download topic
-
 Use to
 refer to a graphic or special character that represents something
 else, but differentiate a symbol from an icon. (An icon represents
@@ -45,7 +38,3 @@ Examples
 \<100 
 
 See also [Special character term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28875), [Keys and keyboard shortcuts term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=27401)[](https://worldready.cloudapp.net/Styleguide/Read?id=1413&topicid=3863)
-
-![In progress](media/symbol/activity-large.gif)
-
-URL :

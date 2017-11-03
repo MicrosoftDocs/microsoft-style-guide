@@ -1,12 +1,5 @@
 ﻿# System requirements
 
-![Copy URL](media/system-requirements/Copy.png)
-Copy URL
-
-![Download](media/system-requirements/Download.png)
-
-Download topic
-
 Accurate
 system requirements for products, services, and downloads enhance
 the customer experience as well as minimize legal risk. This
@@ -24,7 +17,3 @@ Keep these guidelines in mind:
     requirements are available via a prominent link on the purchase or
     download page. It’s a good idea to create a webpage for system
     requirements for packaged products, too.
-
-![In progress](media/system-requirements/activity-large.gif)
-
-URL :

@@ -1,12 +1,5 @@
 ﻿# Cloud-computing terms
 
-![Copy URL](media/cloud-computing-terms/Copy.png)
-Copy URL
-
-![Download](media/cloud-computing-terms/Download.png)
-
-Download topic
-
 As
 cloud computing evolves, the consistent use of its
 terminology across Microsoft content presents a clear story to
@@ -171,7 +164,3 @@ Don’t hyphenate as a modifier, but include the abbreviated form in parentheses
 </tr>
 </tbody>
 </table>
-
-![In progress](media/cloud-computing-terms/activity-large.gif)
-
-URL :

@@ -1,12 +1,5 @@
 ﻿# Web, software, and HTML considerations
 
-![Copy URL](media/web-software-html-considerations/Copy.png)
-Copy URL
-
-![Download](media/web-software-html-considerations/Download.png)
-
-Download topic
-
 Web content attracts a worldwide audience. When you develop websites, keep in mind that customers may not have the latest browsers, broadband
 internet access isn't available everywhere, and internet service
 providers don't always charge a flat monthly rate for access. Follow these guidelines to support customers around the world.
@@ -83,7 +76,3 @@ Monitor subscriptions to your newsletter to determine the reader's location.
 Newsletters emailed to people outside the United States must
 be globalized, localized, or customized to meet local
 requirements.
-
-![In progress](media/web-software-html-considerations/activity-large.gif)
-
-URL :

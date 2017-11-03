@@ -1,12 +1,5 @@
 # Search and writing checklist
 
-![Copy URL](media/search-writing-checklist/Copy.png)
-Copy URL
-
-![Download](media/search-writing-checklist/Download.png)
-
-Download topic
-
 Search-friendly writing can help customers find your content in search engines.
 
   - Research
@@ -25,7 +18,3 @@ Learn more about search engine optimization:
 [Search and writing](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36379)
 [MSCOM SEO library](https://microsoft.sharepoint.com/sites/mscom/seo/Pages/default.aspx) (This site requires Microsoft network access.)
 [Bing SEO primer](https://microsoft.sharepoint.com/teams/BingAPIs/SitePages/Bing%20SEO%20Primer.aspx) (This page requires Microsoft network access.)
-
-![In progress](media/search-writing-checklist/activity-large.gif)
-
-URL :

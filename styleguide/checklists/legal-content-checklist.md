@@ -1,12 +1,5 @@
 ﻿# Legal content checklist
 
-![Copy URL](media/legal-content-checklist/Copy.png)
-Copy URL
-
-![Download](media/legal-content-checklist/Download.png)
-
-Download topic
-
 Knowing
 and following Microsoft’s legal standards in content helps protect
 our intellectual property and minimizes legal risks. This checklist

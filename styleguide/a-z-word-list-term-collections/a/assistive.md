@@ -1,12 +1,5 @@
 # assistive
 
-![Copy URL](media/assistive/Copy.png)
-Copy URL
-
-![Download](media/assistive/Download.png)
-
-Download topic
-
 Use to
 describe devices, technologies, and organizations that
 help people with disabilities. Eye trackers and motion sensors are
@@ -18,7 +11,3 @@ Examples
 (Specific discussion) Learn about assistive technology built into Windows 10.
 
 **See also** **** [Accessibility guidelines and requirements](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26589)
-
-![In progress](media/assistive/activity-large.gif)
-
-URL :

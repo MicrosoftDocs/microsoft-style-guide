@@ -1,12 +1,5 @@
 ﻿# UI text and content design
 
-![Copy URL](media/ui-text-content-design/Copy.png)
-Copy URL
-
-![Download](media/ui-text-content-design/Download.png)
-
-Download topic
-
 We
 need storytellers at the heart of product development. The UI
 is the most tactile, immediate, and visible way people interact
@@ -136,7 +129,3 @@ See also
 [please
 ](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28832)[sorry
 ](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28833)[thank you](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28834)
-
-![In progress](media/ui-text-content-design/activity-large.gif)
-
-URL :

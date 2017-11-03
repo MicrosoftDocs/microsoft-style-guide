@@ -1,12 +1,5 @@
 ﻿# Developer content checklist
 
-![Copy URL](media/developer-content-checklist/Copy.png)
-Copy URL
-
-![Download](media/developer-content-checklist/Download.png)
-
-Download topic
-
 Be
 warm and relaxed, crisp and clear, and ready to lend a hand
 to your developer audience. Skip the basics, and get right to the
@@ -55,7 +48,3 @@ Learn more about [code examples](https://worldready.cloudapp.net/Styleguide/Read
   - Format text elements consistently to help readers locate and interpret information more easily.
 
 Learn more about [formatting conventions for developer content](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28975).
-
-![In progress](media/developer-content-checklist/activity-large.gif)
-
-URL :

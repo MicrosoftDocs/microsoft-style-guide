@@ -1,12 +1,5 @@
 # Images and video
 
-![Copy URL](media/index/Copy.png)
-Copy URL
-
-![Download](media/index/Download.png)
-
-Download topic
-
 Pictures
 can bring stories to life, simplify complex content, and replace
 a lot of words. Use images and video when they help you convey
@@ -26,7 +19,3 @@ Before using images in your content, familiarize yourself with the following gui
   - [Bias-free communication](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26708)
   - [Graphics, design, and media](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32191) (Accessibility)
   - [Copyrights and trademarks](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26696)
-
-![In progress](media/index/activity-large.gif)
-
-URL :

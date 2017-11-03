@@ -1,12 +1,5 @@
 ﻿# Grammar and parts of speech checklist
 
-![Copy URL](media/grammar-parts-of-speech-checklist/Copy.png)
-Copy URL
-
-![Download](media/grammar-parts-of-speech-checklist/Download.png)
-
-Download topic
-
 As
 creative as it is, the art of writing is governed by a set of rules
 with a lot of built-in flexibility. This checklist covers rules
@@ -41,7 +34,3 @@ These basic guidelines will get you started creating clear and useful content.
   - Modifiers
     are words or phrases that modify other words or phrases. Make sure
     it’s clear what they modify. For example, in the phrase *the selected text only is modified,* the word *only* could modify *text* or *is modified.* Rewrite as *only the selected text is modified* to clarify. [Learn more](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25529).
-
-![In progress](media/grammar-parts-of-speech-checklist/activity-large.gif)
-
-URL :

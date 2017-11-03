@@ -1,12 +1,5 @@
 # Blogs and social media
 
-![Copy URL](media/social-mediablogs-social-media/Copy.png)
-Copy URL
-
-![Download](media/social-mediablogs-social-media/Download.png)
-
-Download topic
-
 More
 and more, we communicate with customers through blogs,
 communities, and other forms of social media. These forms of
@@ -21,7 +14,3 @@ This section will help you manage blogs and other social media and grow communit
   - [Hashtags](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=39581)
 
 Before you begin, read the [Microsoft blogging and social media guidelines](https://microsoft.sharepoint.com/sites/LCAWeb/Home/Marketing/Social-Media/Social-Media-Guidelines). (This page requires Microsoft network access.)
-
-![In progress](media/social-mediablogs-social-media/activity-large.gif)
-
-URL :

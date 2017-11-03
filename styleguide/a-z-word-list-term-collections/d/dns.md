@@ -1,12 +1,5 @@
 # DNS
 
-![Copy URL](media/dns/Copy.png)
-Copy URL
-
-![Download](media/dns/Download.png)
-
-Download topic
-
 Spell out as *Domain Name System*, not *Domain Name Server*. When discussing the DNS networking protocol, spell out *Domain Name System* on the first mention. When discussing the Windows DNS feature, don't spell out *DNS*.
 
 The Windows feature is *DNS*, not *DNS Server* or *Microsoft DNS Server*. If you must emphasize that you're referring to the Windows feature and not to the networking protocol, mention Windows.
@@ -24,7 +17,3 @@ In general, refer to the service only in a discussion about stopping
 and starting it.
 
 See also [Azure DNS](https://worldready.cloudapp.net/Styleguide/Read?id=2696&topicid=40745 "Azure DNS topic in the Cloud Style Guide") in the *Microsoft Cloud Style Guide*
-
-![In progress](media/dns/activity-large.gif)
-
-URL :

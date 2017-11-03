@@ -1,12 +1,5 @@
 ﻿# Search and writing
 
-![Copy URL](media/search-writing/Copy.png)
-Copy URL
-
-![Download](media/search-writing/Download.png)
-
-Download topic
-
 Customers
 find content in a variety of ways. One of the most common is
 search. Search engine optimization (SEO) tactics change
@@ -66,7 +59,3 @@ Never
 create backlinks just to improve your site's search ranking.
 Search practices that don’t make sense for your content rarely
 work and often backfire.
-
-![In progress](media/search-writing/activity-large.gif)
-
-URL :

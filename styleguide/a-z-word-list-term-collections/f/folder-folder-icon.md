@@ -1,12 +1,5 @@
 ﻿# folder, folder icon
 
-![Copy URL](media/folder-folder-icon/Copy.png)
-Copy URL
-
-![Download](media/folder-folder-icon/Download.png)
-
-Download topic
-
 In general, try not to talk about UI. Instead, talk about what the customer should do. 
 
 In content about Windows, use *folder* to refer to a container for files and other folders. Use *directory* only in content for developers when you need to refer to the structure of the file system or to match the API. For MS-DOS, use *directory*. 
@@ -27,7 +20,3 @@ You can find the file in the Color folder.
 The system files are in the System subdirectory in the Windows directory. 
 Select the Windows **** folder.
 Select Documents, and then select the file you want.
-
-![In progress](media/folder-folder-icon/activity-large.gif)
-
-URL :

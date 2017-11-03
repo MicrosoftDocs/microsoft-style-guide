@@ -1,12 +1,5 @@
 ﻿# Computer and device terms
 
-![Copy URL](media/computer-device-terms/Copy.png)
-Copy URL
-
-![Download](media/computer-device-terms/Download.png)
-
-Download topic
-
 In
 the modern world, customers get things done with whatever device
 is handy. When you write, focus on what the customer wants to
@@ -326,7 +319,3 @@ USB hub<br />
 </tr>
 </tbody>
 </table>
-
-![In progress](media/computer-device-terms/activity-large.gif)
-
-URL :

@@ -1,12 +1,5 @@
 ﻿# Responsive content
 
-![Copy URL](media/responsive-content/Copy.png)
-Copy URL
-
-![Download](media/responsive-content/Download.png)
-
-Download topic
-
 If you’re writing for the web, assume your content will be used on a variety of devices. Many websites today are *responsive—*that is,
 they reconfigure automatically based on the device in use. Assume
 your content will be viewed at small sizes. 
@@ -64,7 +57,3 @@ with the designer or developer to determine where breaks in the content
 will occur, how much content displays at each potential resolution,
 and the order in which content will appear on small
 devices.
-
-![In progress](media/responsive-content/activity-large.gif)
-
-URL :

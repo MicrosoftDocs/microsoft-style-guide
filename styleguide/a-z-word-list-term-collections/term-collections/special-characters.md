@@ -1,12 +1,5 @@
 ﻿# Special characters
 
-![Copy URL](media/special-characters/Copy.png)
-Copy URL
-
-![Download](media/special-characters/Download.png)
-
-Download topic
-
 Use these terms to describe the special characters shown. 
 
 <table>
@@ -478,7 +471,3 @@ Don't use in place of <em>about</em> or <em>approximately.</em></span>
 </tr>
 </tbody>
 </table>
-
-![In progress](media/special-characters/activity-large.gif)
-
-URL :

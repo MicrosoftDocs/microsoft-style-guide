@@ -1,12 +1,5 @@
 # message
 
-![Copy URL](media/message/Copy.png)
-Copy URL
-
-![Download](media/message/Download.png)
-
-Download topic
-
 Don't use *message* as a verb. Use *send, receive, email, text,* or *send an* *IM* instead.
 
 Use *email,* *message,* or *email message* to refer to an item sent or received using email. 
@@ -19,7 +12,3 @@ To refer to an item sent or received using instant messaging, spell out *instant
 email](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33675)
 [instant message, IM](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=34943)
 [text](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35353)
-
-![In progress](media/message/activity-large.gif)
-
-URL :

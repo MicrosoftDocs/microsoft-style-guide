@@ -1,12 +1,5 @@
 # internet, intranet, extranet
 
-![Copy URL](media/internet-intranet-extranet/Copy.png)
-Copy URL
-
-![Download](media/internet-intranet-extranet/Download.png)
-
-Download topic
-
 Use *internet*
 to refer to the worldwide collection of networks that use open
 protocols such as TCP/IP to communicate with one another. Don't
@@ -21,7 +14,3 @@ Use *extranet*
 to refer to an extension of an intranet that uses
 internet protocols to give authorized outside
 users limited access to the intranet. Don't capitalize.
-
-![In progress](media/internet-intranet-extranet/activity-large.gif)
-
-URL :

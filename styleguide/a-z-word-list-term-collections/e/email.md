@@ -1,12 +1,5 @@
 # email
 
-![Copy URL](media/email/Copy.png)
-Copy URL
-
-![Download](media/email/Download.png)
-
-Download topic
-
 Use to
 refer generically to an electronic mail program, to refer collectively
 to email messages, or to refer to individual email messages. If
@@ -27,7 +20,3 @@ You have new mail.
 Email us your comments. 
 
 See also [](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35453)[message](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35453)
-
-![In progress](media/email/activity-large.gif)
-
-URL :

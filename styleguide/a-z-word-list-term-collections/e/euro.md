@@ -1,12 +1,5 @@
 ﻿# euro
 
-![Copy URL](media/euro/Copy.png)
-Copy URL
-
-![Download](media/euro/Download.png)
-
-Download topic
-
 Lowercase. 
 
 Plural: *euros* 
@@ -45,7 +38,3 @@ terms in product documentation or other formal contexts, especially if
 the content will be localized.
 
 See also [Currency](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26912)
-
-![In progress](media/euro/activity-large.gif)
-
-URL :

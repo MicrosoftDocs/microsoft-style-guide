@@ -1,12 +1,5 @@
 # New products checklist
 
-![Copy URL](media/new-products-checklist/Copy.png)
-Copy URL
-
-![Download](media/new-products-checklist/Download.png)
-
-Download topic
-
   - Follow the five-step, formal naming process when you're developing a new name. [Learn more](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=42332).
   - Use *preview*, not *beta*, to refer to a prerelease product that's ready for unstructured testing by customers. Lowercase *preview* in generic references.
   - Use *Product Name Preview*, if possible, to refer to prerelease versions of software and services. [Learn more](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=29088).
@@ -14,7 +7,3 @@ Download topic
   - Get all required approvals before using code names in external communications. [Learn more](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26703). 
   - Avoid using code names in documentation. 
   - Provide accurate system requirements for all products, including trial, evaluation, and preview products and products and services obtained digitally. [Learn more](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26705). 
-
-![In progress](media/new-products-checklist/activity-large.gif)
-
-URL :

@@ -1,12 +1,5 @@
 ﻿# Prepositions
 
-![Copy URL](media/prepositions/Copy.png)
-Copy URL
-
-![Download](media/prepositions/Download.png)
-
-Download topic
-
 #### Prepositional phrases
 
 A
@@ -27,7 +20,3 @@ prepositional phrases are hard to read and easy to misinterpret.
 #### Placement in the sentence
 
 It’s OK to end a sentence with a preposition when it improves readability.
-
-![In progress](media/prepositions/activity-large.gif)
-
-URL :

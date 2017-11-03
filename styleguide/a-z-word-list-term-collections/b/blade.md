@@ -1,12 +1,5 @@
 ﻿# blade
 
-![Copy URL](media/blade/Copy.png)
-Copy URL
-
-![Download](media/blade/Download.png)
-
-Download topic
-
 Avoid talking about blades. Instead, try to discuss what the customer needs to do. 
 
 When you must mention a blade:
@@ -25,7 +18,3 @@ When you must mention a blade:
   - Use *on* to describe the contents of a blade.
     Example On the Web app blade, name your site.
   - Use *open* and *close* as verbs with blades.
-
-![In progress](media/blade/activity-large.gif)
-
-URL :

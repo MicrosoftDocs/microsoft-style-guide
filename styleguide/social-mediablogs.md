@@ -1,12 +1,5 @@
 ﻿# Blogs
 
-![Copy URL](media/social-mediablogs/Copy.png)
-Copy URL
-
-![Download](media/social-mediablogs/Download.png)
-
-Download topic
-
 Blogs
 are a good way to provide customers with ongoing,
 regular communications from subject matter experts as well as
@@ -54,7 +47,3 @@ Use social media, such as Twitter and Facebook, to raise awareness about new pos
 Learn more
 
   - [The MSDN and TechNet Blogs Support Site](https://microsoft.sharepoint.com/teams/bloginfo/Articles/Home.aspx) (This page requires Microsoft network access.)
-
-![In progress](media/social-mediablogs/activity-large.gif)
-
-URL :

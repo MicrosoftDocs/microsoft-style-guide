@@ -1,12 +1,5 @@
 ﻿# flyout
 
-![Copy URL](media/flyout/Copy.png)
-Copy URL
-
-![Download](media/flyout/Download.png)
-
-Download topic
-
 Don’t use in content for a general audience. Instead, describe what the customer needs to do.
 
 It’s OK to use *flyout*
@@ -20,7 +13,3 @@ flyout message
 flyout control
 
 Avoid using *flyout* as a noun (for example, “the flyout appears”). Don’t use as a verb (for example, “the menu will fly out”).
-
-![In progress](media/flyout/activity-large.gif)
-
-URL :

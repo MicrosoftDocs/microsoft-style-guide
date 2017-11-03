@@ -1,12 +1,5 @@
 # slider
 
-![Copy URL](media/slider/Copy.png)
-Copy URL
-
-![Download](media/slider/Download.png)
-
-Download topic
-
 In general, avoid talking about UI elements. Most of the time, just describe what the customer needs to do.
 
 In content for a general audience, it's OK to use *slider* when
@@ -22,7 +15,3 @@ Don't refer to the scroll box or a progress indicator as a slider.
 
 Example
 Move the slider downward to decrease the volume.
-
-![In progress](media/slider/activity-large.gif)
-
-URL :

@@ -1,12 +1,5 @@
 # New products
 
-![Copy URL](media/new-products/Copy.png)
-Copy URL
-
-![Download](media/new-products/Download.png)
-
-Download topic
-
 Brand-new products have a few special considerations.
 
 This section includes the following topics:

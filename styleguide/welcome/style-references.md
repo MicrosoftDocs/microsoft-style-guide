@@ -1,12 +1,5 @@
 ﻿# Microsoft style references
 
-![Copy URL](media/style-references/Copy.png)
-Copy URL
-
-![Download](media/style-references/Download.png)
-
-Download topic
-
 Don’t
 use Microsoft.com, any other webpage, or product UI as a source
 for product and feature names, capitalization, terminology, or
@@ -30,7 +23,3 @@ For tips on becoming a better writer, the Microsoft Editorial Board recommends t
 
   - *Nicely Said: Writing for the Web with Style and Purpose* by Nicole Fenton and Kate Kiefer Lee
   - *Everybody Writes: Your Go-To Guide to Creating Ridiculously Good Content* by Ann Handley
-
-![In progress](media/style-references/activity-large.gif)
-
-URL :

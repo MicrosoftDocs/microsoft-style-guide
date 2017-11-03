@@ -1,12 +1,5 @@
 # How to use this guide
 
-![Copy URL](media/guide-how-to/Copy.png)
-Copy URL
-
-![Download](media/guide-how-to/Download.png)
-
-Download topic
-
 1.  Review the list of [Microsoft style references](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=29024). Always use your product group's editorial style guide first, and then this all-Microsoft guide.
 2.  Check out the [Top 10 tips for Microsoft style and voice](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28939) to learn 10 simple guidelines that will make a big difference in your writing.
 3.  Review the [Checklists](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25514 "Quick how-to's") section. If
@@ -26,7 +19,3 @@ manager to compile a list of their Microsoft account (formerly
 Windows Live ID) email addresses, and send them to [](mailto:msstyle@microsoft.com)<msstyle@microsoft.com> to
 request permission. Some links require Microsoft network access and
 might be unavailable to users with Microsoft accounts.
-
-![In progress](media/guide-how-to/activity-large.gif)
-
-URL :

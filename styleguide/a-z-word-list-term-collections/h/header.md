@@ -1,12 +1,5 @@
 # header
 
-![Copy URL](media/header/Copy.png)
-Copy URL
-
-![Download](media/header/Download.png)
-
-Download topic
-
 In content related to word-processing and publishing apps, use instead of *running head* when discussing page layout. It's OK to use *running head* for clarification or as a keyword.
 
 Don't use *header* as a synonym for *heading*.
@@ -19,7 +12,3 @@ contains definitions of data types and variables used by the
 program's functions.
 
 **See also** [footer](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33792)
-
-![In progress](media/header/activity-large.gif)
-
-URL :

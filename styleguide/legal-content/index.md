@@ -1,12 +1,5 @@
 ﻿# Legal content
 
-![Copy URL](media/index/Copy.png)
-Copy URL
-
-![Download](media/index/Download.png)
-
-Download topic
-
 To protect Microsoft intellectual property and minimize legal risks, follow the guidance for common legal issues in content. For complete information, visit [](https://microsoft.sharepoint.com/sites/lcaweb/home)[CELAWeb](https://microsoft.sharepoint.com/sites/lcaweb/home). (This site requires Microsoft network access.) If you still have questions, contact [your group’s paralegal](https://microsoft.sharepoint.com/sites/lcaweb/Pages/Applications/LegalContact.aspx). (This page requires Microsoft network access.)
 
 This section includes the following topics:
@@ -26,7 +19,3 @@ For legal issues related to new products, see:
 For information about trademark names, see the [Microsoft Corporation trademarks list](https://microsoft.sharepoint.com/sites/LCAWeb/Home/Copyrights-Trademarks-and-Patents/Trademarks/Trademark-List). (This page requires Microsoft network access.)
 
 For legal issues related to worldwide content, software, and websites, see [](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26917)[Legal considerations](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26917).
-
-![In progress](media/index/activity-large.gif)
-
-URL :

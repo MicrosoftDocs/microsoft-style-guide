@@ -1,12 +1,5 @@
 # number sign (\#)
 
-![Copy URL](media/number-sign/Copy.png)
-Copy URL
-
-![Download](media/number-sign/Download.png)
-
-Download topic
-
 Always spell out *number* in *number sign.* Don't use *pound sign.*
 
 Don't use the \# symbol preceding a numeral. Spell out *number* instead. For example, use *number 7*, not *\#7*. When space is limited, as in tables, it's OK to abbreviate *number* as *No*. 
@@ -19,7 +12,3 @@ Example (on Twitter) A quick look at top conversations and \#Office365 product a
 It's OK to use the \# symbol in references to the \# key on the keyboard.
 
 See also [](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=27401)[Keys and keyboard shortcuts term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=27401)
-
-![In progress](media/number-sign/activity-large.gif)
-
-URL :

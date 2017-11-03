@@ -1,12 +1,5 @@
 # Product previews
 
-![Copy URL](media/product-previews/Copy.png)
-Copy URL
-
-![Download](media/product-previews/Download.png)
-
-Download topic
-
 Prerelease versions of software and services are typically identified as *Product Name Preview* (preferred) or *Code Name Preview.*
 
 In generic references, lowercase *preview.*
@@ -20,7 +13,3 @@ Microsoft Power BI Preview
 A preview of Azure Container Service is available.
 
 Previews are subject to different terms and conditions than major releases. Check with [your group's paralegal](https://microsoft.sharepoint.com/sites/lcaweb/Pages/Applications/LegalContact.aspx) for details. (This page requires Microsoft network access.) 
-
-![In progress](media/product-previews/activity-large.gif)
-
-URL :

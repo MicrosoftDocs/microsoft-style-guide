@@ -1,12 +1,5 @@
 ﻿# Hashtags
 
-![Copy URL](media/social-mediahashtags/Copy.png)
-Copy URL
-
-![Download](media/social-mediahashtags/Download.png)
-
-Download topic
-
 Hashtags provide context and draw readers into conversations on Twitter and other social media and in Outlook. 
 
 Follow these guidelines to use hashtags effectively and in a positive way.
@@ -33,7 +26,3 @@ Microsoft brand.
 See also
 [Social editorial best practices](https://onedrive.live.com/view.aspx?resid=11783A51554745FD!2689&ithint=file%2cdocx&app=Word&authkey=!AHiRYupzboQTjJg "Editorial guidelines from the Social Media team")
 [Guidelines for engaging with social media](https://microsoft.sharepoint.com/sites/LCAWeb/Home/Marketing/Social-Media/Social-Media-Guidelines "CELA guidelines for social media") (This page requires Microsoft network access.)
-
-![In progress](media/social-mediahashtags/activity-large.gif)
-
-URL :

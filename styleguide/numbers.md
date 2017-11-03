@@ -1,12 +1,5 @@
 ﻿# Numbers
 
-![Copy URL](media/numbers/Copy.png)
-Copy URL
-
-![Download](media/numbers/Download.png)
-
-Download topic
-
 Be consistent
 in your use of numbers. When you write about numbers used in
 examples or UI, duplicate them exactly as they appear in the UI. In
@@ -243,7 +236,3 @@ Date and time term collection](https://worldready.cloudapp.net/Styleguide/Read?i
 [Units of measure term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28884)
 [Dashes and hyphens
 ](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28757)[Percent, percentage](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35557)[](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28757)
-
-![In progress](media/numbers/activity-large.gif)
-
-URL :

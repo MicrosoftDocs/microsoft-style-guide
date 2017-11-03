@@ -1,12 +1,5 @@
 ﻿# icon
 
-![Copy URL](media/icon/Copy.png)
-Copy URL
-
-![Download](media/icon/Download.png)
-
-Download topic
-
 Use
 only to describe a graphic representation of an object that
 a customer can select and open, such as a drive, folder,
@@ -32,7 +25,3 @@ It's OK to use the word *icon*:
 
 Example
 Most apps have their own settings. Look for this icon ![](media/icon/10090115.PNG) in the app.
-
-![In progress](media/icon/activity-large.gif)
-
-URL :

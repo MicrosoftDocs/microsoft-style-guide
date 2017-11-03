@@ -1,12 +1,5 @@
 # pipe
 
-![Copy URL](media/pipe/Copy.png)
-Copy URL
-
-![Download](media/pipe/Download.png)
-
-Download topic
-
 Don't use as a verb in content for a general audience. Use a more specific term, such as *send, move, copy, direct, redirect*, or *write*. 
 
 It's OK to use *pipe* as
@@ -17,7 +10,3 @@ of another.
 The symbol for a pipe in programming content is a vertical bar ( | ).
 
 **See also** [Special characters term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28875)
-
-![In progress](media/pipe/activity-large.gif)
-
-URL :

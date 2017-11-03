@@ -1,12 +1,5 @@
 ﻿# Formatting developer text elements
 
-![Copy URL](media/formatting-developer-text-elements/Copy.png)
-Copy URL
-
-![Download](media/formatting-developer-text-elements/Download.png)
-
-Download topic
-
 Consistent
 text formatting helps readers locate and interpret information.
 Follow these formatting conventions for text elements commonly used
@@ -349,7 +342,3 @@ See also
 </tr>
 </tbody>
 </table>
-
-![In progress](media/formatting-developer-text-elements/activity-large.gif)
-
-URL :

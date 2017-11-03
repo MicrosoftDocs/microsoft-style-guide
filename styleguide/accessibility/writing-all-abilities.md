@@ -1,12 +1,5 @@
 ﻿# Writing for all abilities
 
-![Copy URL](media/writing-all-abilities/Copy.png)
-Copy URL
-
-![Download](media/writing-all-abilities/Download.png)
-
-Download topic
-
 Microsoft
 style—clean, simple design and crisp, clear content—is easier
 for all readers to use, so nearly every writing recommendation in

@@ -1,12 +1,5 @@
 ﻿# Tables
 
-![Copy URL](media/tables/Copy.png)
-Copy URL
-
-![Download](media/tables/Download.png)
-
-Download topic
-
 Tables make complex information easier to understand by presenting it in a clear structure. 
 
 |                                                   |                                                                |
@@ -83,7 +76,3 @@ For
 the text in cells, use periods or other end punctuation only if the
 cells contain complete sentences or a mixture of fragments and
 sentences.
-
-![In progress](media/tables/activity-large.gif)
-
-URL :

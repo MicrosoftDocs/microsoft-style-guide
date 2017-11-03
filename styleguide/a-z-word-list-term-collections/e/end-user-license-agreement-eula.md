@@ -1,16 +1,5 @@
 # End-User License Agreement (EULA)
 
-![Copy URL](media/end-user-license-agreement-eula/Copy.png)
-Copy URL
-
-![Download](media/end-user-license-agreement-eula/Download.png)
-
-Download topic
-
 Don't use. Use *Microsoft Software License Terms*.
 
 **See also** **** [Microsoft Software License Terms](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33682)
-
-![In progress](media/end-user-license-agreement-eula/activity-large.gif)
-
-URL :

@@ -1,12 +1,5 @@
 ﻿# UPnP
 
-![Copy URL](media/upnp/Copy.png)
-Copy URL
-
-![Download](media/upnp/Download.png)
-
-Download topic
-
 Don't spell out as *Universal Plug and Play*. Don't use as a synonym for *Plug and Play* or *PnP*.
 
 Use the trademark symbol (™) on the first mention. Include the following in the trademark attribution sentence:
@@ -25,7 +18,3 @@ Don't include *UPnP* in the name of any product or in the trademark of any devic
 For other guidelines required by the UPnP™ Implementers Corporation, see the [UPnP Implementers Corporation website](http://www.upnp.org/). 
 
 **See also** [Plug and Play, plug and play](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35573)
-
-![In progress](media/upnp/activity-large.gif)
-
-URL :

@@ -1,12 +1,5 @@
 ﻿# Global communications
 
-![Copy URL](media/index/Copy.png)
-Copy URL
-
-![Download](media/index/Download.png)
-
-Download topic
-
 Microsoft
 customers live and work all over the world and speak a variety of
 languages. This section will help you write content for worldwide
@@ -73,7 +66,3 @@ If you have questions, contact:
 
   - [Localization Managers Forum](mailto:ms4n@microsoft.com) discussion group (This group requires Microsoft network access.)
   - For general localization questions, ask the Microsoft content community on the [STET group](https://www.yammer.com/microsoft.com/#/threads/inGroup?type=in_group&feedId=2937380 "STET Yammer group") on Yammer or the [Editors Information and Discussion](http://idwebelements/GroupManagement.aspx?Group=stet&Operation=join "Join stet@microsoft.com") email distribution group. (These groups require Microsoft network access.)
-
-![In progress](media/index/activity-large.gif)
-
-URL :

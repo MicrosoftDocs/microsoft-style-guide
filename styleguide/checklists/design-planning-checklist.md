@@ -1,12 +1,5 @@
 ﻿# Design-planning checklist
 
-![Copy URL](media/design-planning-checklist/Copy.png)
-Copy URL
-
-![Download](media/design-planning-checklist/Download.png)
-
-Download topic
-
 Think about design before you start writing.
 
   - Stay in close touch with your designer, if you have one.
@@ -18,7 +11,3 @@ Think about design before you start writing.
   - Position content elements in the same place on every page if you can. 
 
 Learn more about [design planning](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36377).
-
-![In progress](media/design-planning-checklist/activity-large.gif)
-
-URL :

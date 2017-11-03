@@ -1,12 +1,5 @@
 # Content-planning checklist
 
-![Copy URL](media/content-planning-checklist/Copy.png)
-Copy URL
-
-![Download](media/content-planning-checklist/Download.png)
-
-Download topic
-
 A little upfront planning will save you time and keep your writing focused. 
 
   - Understand your audience: who they are, what they need, and where they look for content.
@@ -18,7 +11,3 @@ A little upfront planning will save you time and keep your writing focused.
   - Decide how you will measure success before finalizing your plan.
 
 Learn more about [content planning](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36376).
-
-![In progress](media/content-planning-checklist/activity-large.gif)
-
-URL :

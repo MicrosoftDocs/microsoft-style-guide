@@ -1,12 +1,5 @@
 ﻿# Welcome
 
-![Copy URL](media/index/Copy.png)
-Copy URL
-
-![Download](media/index/Download.png)
-
-Download topic
-
 Last updated October 17, 2017
 
 ![](media/index/401530580.png)
@@ -30,7 +23,3 @@ Before you dive in:
 **Note:** Many of the links within the guide require Microsoft network access. 
 
 Everyone who has a Microsoft.com email account has access to the *Microsoft Writing Style Guide.* To get access for your vendors or partners, send their email addresses to <msstyle@microsoft.com> with the subject line: *Add style guide* *access.* The vendor’s email address must be a Microsoft account (such as an Outlook.com account) in order to work.
-
-![In progress](media/index/activity-large.gif)
-
-URL :

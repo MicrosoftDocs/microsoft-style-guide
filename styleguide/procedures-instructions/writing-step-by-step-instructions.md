@@ -1,12 +1,5 @@
 ﻿# Writing step-by-step instructions
 
-![Copy URL](media/writing-step-by-step-instructions/Copy.png)
-Copy URL
-
-![Download](media/writing-step-by-step-instructions/Download.png)
-
-Download topic
-
 Follow
 these guidelines to help you create clear, easy-to follow instructions,
 whether you're writing simple, single-step procedures or complex
@@ -99,7 +92,3 @@ brackets bold.
 Example Select Accounts \> Other accounts **** \> Add an account.
 
 Accessibility tip Screen readers may skip over brackets and read instructions such as Menu \> Go To \> Folders ****as *Menu Go To Folders*, which might confuse customers. Check with your group’s accessibility expert before using this approach.
-
-![In progress](media/writing-step-by-step-instructions/activity-large.gif)
-
-URL :

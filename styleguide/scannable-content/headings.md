@@ -1,12 +1,5 @@
 ﻿# Headings
 
-![Copy URL](media/headings/Copy.png)
-Copy URL
-
-![Download](media/headings/Download.png)
-
-Download topic
-
 Headings provide both structure and visual points of reference to help readers scan content. If
 you can break text logically into smaller sections, the extra
 spacing and distinct fonts associated with headings
@@ -153,7 +146,3 @@ When you use bold formatting for run-in headings:
     next to the style name. To create a new character style in a
     document, select the characters, and then add the style.
     ![](media/headings/190123509.png)
-
-![In progress](media/headings/activity-large.gif)
-
-URL :

@@ -1,12 +1,5 @@
 # remove
 
-![Copy URL](media/remove/Copy.png)
-Copy URL
-
-![Download](media/remove/Download.png)
-
-Download topic
-
 Don't use *remove* to mean *delete*. 
 
 Use *r**emove*:
@@ -20,7 +13,3 @@ Use *r**emove*:
   - As a verb to describe removing add-ins and add-ons. 
 
 **See also**  [uninstall](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33611), [delete](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33613)[,](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33613) [load](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33614)
-
-![In progress](media/remove/activity-large.gif)
-
-URL :

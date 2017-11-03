@@ -1,12 +1,5 @@
 ﻿# En dashes
 
-![Copy URL](media/enes/Copy.png)
-Copy URL
-
-![Download](media/enes/Download.png)
-
-Download topic
-
 HTML code &\#150;
 
 Use an en dash:
@@ -43,7 +36,3 @@ Examples
 2:15 PM 12/1/17 ‒ 4:45 PM 4/1/18 (range includes both time and date)
 
 See also [Date and time term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=27390)
-
-![In progress](media/enes/activity-large.gif)
-
-URL :

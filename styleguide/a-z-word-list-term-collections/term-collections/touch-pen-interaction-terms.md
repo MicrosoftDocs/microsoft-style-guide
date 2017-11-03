@@ -1,12 +1,5 @@
 ﻿# Touch and pen interaction terms
 
-![Copy URL](media/touch-pen-interaction-terms/Copy.png)
-Copy URL
-
-![Download](media/touch-pen-interaction-terms/Download.png)
-
-Download topic
-
 Today’s
 customer can interact with UI in a variety of ways. This section
 covers terms for UI interactions done with gestures of
@@ -137,7 +130,3 @@ Use to describe swiping a finger quickly or sliding across the screen from an ed
 </tr>
 </tbody>
 </table>
-
-![In progress](media/touch-pen-interaction-terms/activity-large.gif)
-
-URL :

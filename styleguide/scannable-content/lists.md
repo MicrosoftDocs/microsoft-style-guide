@@ -1,12 +1,5 @@
 ﻿# Lists
 
-![Copy URL](media/lists/Copy.png)
-Copy URL
-
-![Download](media/lists/Download.png)
-
-Download topic
-
 Lists are a great way to present complex text in a way that's easy to scan. 
 
 Lists
@@ -72,7 +65,3 @@ In bulleted and numbered lists, end each list item with a period if:
   - Any item *by itself* is a complete sentence.
 
 Don’t use semicolons, commas, or conjunctions (like *and* or *or*) at the end of list items.
-
-![In progress](media/lists/activity-large.gif)
-
-URL :

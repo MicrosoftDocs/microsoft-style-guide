@@ -1,12 +1,5 @@
 ﻿# memory
 
-![Copy URL](media/memory/Copy.png)
-Copy URL
-
-![Download](media/memory/Download.png)
-
-Download topic
-
 Always refer to a specific kind of memory, such as *random-access memory (**RAM)**, read-only memory (ROM),* or *hard drive space*. 
 
 Spell out RAM and ROM on the first mention unless you're positive that your audience is familiar with the term.
@@ -33,7 +26,3 @@ Here's what it takes to upgrade to Windows 10 on your PC or tablet:
   - Display: 800 × 600
 
 See also [Bits and bytes term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26920), [Units of measure term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28884)
-
-![In progress](media/memory/activity-large.gif)
-
-URL :

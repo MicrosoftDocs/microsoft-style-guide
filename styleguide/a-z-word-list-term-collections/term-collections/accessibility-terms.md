@@ -1,12 +1,5 @@
 ﻿# Accessibility terms
 
-![Copy URL](media/accessibility-terms/Copy.png)
-Copy URL
-
-![Download](media/accessibility-terms/Download.png)
-
-Download topic
-
 In
 general, refer to a person who has a kind of disability, not a
 disabled person. Use nouns that refer to physical differences
@@ -74,7 +67,3 @@ Crippled, lame
 </tr>
 </tbody>
 </table>
-
-![In progress](media/accessibility-terms/activity-large.gif)
-
-URL :

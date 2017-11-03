@@ -1,12 +1,5 @@
 ﻿# Capitalization checklist
 
-![Copy URL](media/capitalization-checklist/Copy.png)
-Copy URL
-
-![Download](media/capitalization-checklist/Download.png)
-
-Download topic
-
 In general, Microsoft style is sentence-style capitalization. 
 
   - Always capitalize proper nouns. 
@@ -23,7 +16,3 @@ In general, Microsoft style is sentence-style capitalization.
 
 Learn more about [capitalization](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33685).
 Learn more about [proper nouns](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25525).
-
-![In progress](media/capitalization-checklist/activity-large.gif)
-
-URL :

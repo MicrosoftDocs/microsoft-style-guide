@@ -1,12 +1,5 @@
 # user rights
 
-![Copy URL](media/user-rights/Copy.png)
-Copy URL
-
-![Download](media/user-rights/Download.png)
-
-Download topic
-
 Use *user rights*
 only to refer to Windows security policies that apply to individual
 user accounts or administrative groups. The system administrator manages
@@ -27,7 +20,3 @@ You must have the Perform volume maintenance tasks user right to perform this ta
 You must be signed in as a member of the Administrators group to perform this task.
 
 **See also** [permissions](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35560), [rights](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35561)
-
-![In progress](media/user-rights/activity-large.gif)
-
-URL :

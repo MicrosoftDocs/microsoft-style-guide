@@ -1,12 +1,5 @@
 ﻿# Quotation marks
 
-![Copy URL](media/quotation-marks/Copy.png)
-Copy URL
-
-![Download](media/quotation-marks/Download.png)
-
-Download topic
-
 In most content, use double quotation marks (“ ”) not single quotation marks (' ').
 
 In
@@ -32,7 +25,3 @@ One type of malware is called a "trojan clicker."
 One type of malware, called a "trojan clicker," uses your PC to "click" online ads.
 What is “gaze awareness”?
 A reader asks, “How can I get Windows 10?”
-
-![In progress](media/quotation-marks/activity-large.gif)
-
-URL :

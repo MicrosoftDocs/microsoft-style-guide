@@ -1,12 +1,5 @@
 ﻿# Accessibility checklist
 
-![Copy URL](media/accessibility-checklist/Copy.png)
-Copy URL
-
-![Download](media/accessibility-checklist/Download.png)
-
-Download topic
-
 Microsoft creates
 technology that's accessible to people of all abilities.
 Accessible content and user experiences meet the [Microsoft Accessibility Standards (MAS)](https://microsoft.sharepoint.com/teams/msenable/Pages/AccessibilityStandard.aspx) requirements,
@@ -71,7 +64,3 @@ and interactive content. (The Microsoft Accessibility Standards page requires Mi
   - Use
     recommended terms when you describe specific disabilities or
     people with specific disabilities. To learn more, see the [Accessibility term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26596). 
-
-![In progress](media/accessibility-checklist/activity-large.gif)
-
-URL :

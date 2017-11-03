@@ -1,12 +1,5 @@
 ﻿# What's new?
 
-![Copy URL](media/whats-new/Copy.png)
-Copy URL
-
-![Download](media/whats-new/Download.png)
-
-Download topic
-
 This table shows a history of recent updates to the *Microsoft Writing Style Guide.*
 
 Contact <msstyle@microsoft.com> for archives of earlier history.
@@ -223,7 +216,3 @@ Contact <msstyle@microsoft.com> for archives of earlier history.
 </tr>
 </tbody>
 </table>
-
-![In progress](media/whats-new/activity-large.gif)
-
-URL :

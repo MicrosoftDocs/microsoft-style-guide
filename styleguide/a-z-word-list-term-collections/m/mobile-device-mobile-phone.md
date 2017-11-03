@@ -1,14 +1,3 @@
 # mobile device, mobile phone
 
-![Copy URL](media/mobile-device-mobile-phone/Copy.png)
-Copy URL
-
-![Download](media/mobile-device-mobile-phone/Download.png)
-
-Download topic
-
 **See** [Computer and device term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26597)
-
-![In progress](media/mobile-device-mobile-phone/activity-large.gif)
-
-URL :

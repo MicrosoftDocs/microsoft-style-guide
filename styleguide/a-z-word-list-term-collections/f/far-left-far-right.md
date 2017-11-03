@@ -1,12 +1,5 @@
 # far-left, far-right
 
-![Copy URL](media/far-left-far-right/Copy.png)
-Copy URL
-
-![Download](media/far-left-far-right/Download.png)
-
-Download topic
-
 Don't use. Use *leftmost* or *rightmost* instead. 
 
 **Accessibility tip** Don't use directional terms (*left, right, up, down*)
@@ -19,7 +12,3 @@ is also included. Directional terms are also OK to use when a
 sighted user with dyslexia can clearly see a change in the interface as
 the result of an action, such as a change in the right pane when an
 option in the left pane is selected.
-
-![In progress](media/far-left-far-right/activity-large.gif)
-
-URL :

@@ -1,12 +1,5 @@
 ﻿# Examples and scenarios
 
-![Copy URL](media/examples-scenarios/Copy.png)
-Copy URL
-
-![Download](media/examples-scenarios/Download.png)
-
-Download topic
-
 Fictitious
 examples that include the names of people, places, or organizations are
 potentially sensitive, both legally and from a worldwide perspective.
@@ -44,7 +37,3 @@ aren't used worldwide. Standards vary, from phone, mobile, wireless,
 and video to measurement, paper size, character sets, and text
 direction. And don’t assume US standards are familiar or
 relevant to everyone. 
-
-![In progress](media/examples-scenarios/activity-large.gif)
-
-URL :

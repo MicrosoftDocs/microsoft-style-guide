@@ -1,12 +1,5 @@
 # path
 
-![Copy URL](media/path/Copy.png)
-Copy URL
-
-![Download](media/path/Download.png)
-
-Download topic
-
 Use *path* instead of *pathname*, both in general references and in syntax. 
 
 Use *path* to refer to a drive and any folders below the root directory. When a path also specifies a file, use *full path*.
@@ -39,7 +32,3 @@ Example**
 **(Mac) Macintosh HD:My Documentation:Sales CORP-16:TOMCAT:EX130D Mac Temp:Workbook1
 
 See also **** [Formatting common text elements](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36402), [URLs and web addresses](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=34905)
-
-![In progress](media/path/activity-large.gif)
-
-URL :

@@ -1,12 +1,5 @@
 ﻿# Video
 
-![Copy URL](media/video/Copy.png)
-Copy URL
-
-![Download](media/video/Download.png)
-
-Download topic
-
 Done
 well, video often communicates faster and more clearly than text and
 static images. But video usually takes longer and costs more to
@@ -63,7 +56,3 @@ Learn more
   - [CSS video production guide](https://microsoft.sharepoint.com/teams/cssclp/_layouts/15/WopiFrame.aspx?sourcedoc=%7B0C43A47E-BC20-44B3-A1E7-4FDC06EAF830%7D&file=Video%20Production%20Guide.docx&action=default&DefaultItemOpen=1) (This page requires Microsoft network access.)
   - [Google video site map guidance](http://www.reelseo.com/how-video-sitemaps/)
   - [Jakob Nielsen’s Talking-Head Video is Boring Online](http://www.nngroup.com/articles/talking-head-video-is-boring-online/)
-
-![In progress](media/video/activity-large.gif)
-
-URL :

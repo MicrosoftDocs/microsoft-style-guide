@@ -1,12 +1,5 @@
 ﻿# Legal considerations
 
-![Copy URL](media/legal-considerations/Copy.png)
-Copy URL
-
-![Download](media/legal-considerations/Download.png)
-
-Download topic
-
 Content
 is subject to the laws of the countries where it's distributed.
 The laws governing product documentation, advertising,
@@ -137,7 +130,3 @@ Before quoting, citing, linking to, or using copyrighted
 content from third parties, check with [your group's paralegal](https://microsoft.sharepoint.com/sites/lcaweb/Pages/Applications/LegalContact.aspx). (This page requires Microsoft network access.) When you do use third-party content, make sure you have
 permission for your specific use, quote it exactly, and include the required
 citations, which vary by type of content and across content sources.
-
-![In progress](media/legal-considerations/activity-large.gif)
-
-URL :

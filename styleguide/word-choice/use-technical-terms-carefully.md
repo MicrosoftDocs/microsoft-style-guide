@@ -1,12 +1,5 @@
 ﻿# Use technical terms carefully
 
-![Copy URL](media/use-technical-terms-carefully/Copy.png)
-Copy URL
-
-![Download](media/use-technical-terms-carefully/Download.png)
-
-Download topic
-
 Technical terms come in a variety of shapes and sizes. Sometimes they're everyday words that are given new meanings, like *cloud, batch,* or *dashboard*. Other times, common words are combined to create technical terms, like *telemedicine* or *email.* Over
 time, some technical terms become widely understood, but before
 that happens, they can be confusing to people who aren't
@@ -69,7 +62,3 @@ Global tip If possible, check [Term Studio](http://aka.ms/termstudio)
 or contact your localization team to comment on any localization
 implications of new terms and usage. (Term Studio requires Microsoft
 network access.)
-
-![In progress](media/use-technical-terms-carefully/activity-large.gif)
-
-URL :

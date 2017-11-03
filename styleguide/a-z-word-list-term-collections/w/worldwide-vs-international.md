@@ -1,12 +1,5 @@
 ﻿# worldwide vs. international
 
-![Copy URL](media/worldwide-vs-international/Copy.png)
-Copy URL
-
-![Download](media/worldwide-vs-international/Download.png)
-
-Download topic
-
 Use *worldwide* to describe something that encompasses all regions or involves the entire world.
 
 Examples
@@ -34,7 +27,3 @@ regions.
 Microsoft is driving the transformation of business and industry across Europe and around the world.
 
 See also [global](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33817)
-
-![In progress](media/worldwide-vs-international/activity-large.gif)
-
-URL :

@@ -1,12 +1,5 @@
 ﻿# Art
 
-![Copy URL](media/art/Copy.png)
-Copy URL
-
-![Download](media/art/Download.png)
-
-Download topic
-
 Use these guidelines to create or choose images that are helpful, legal, and inoffensive throughout the world. See the [Global Readiness](https://microsoft.sharepoint.com/teams/celaGlobalReadiness/Pages/Home.aspx "Global Readiness website") website for more information. (This site requires Microsoft network access.)
 
 #### Color
@@ -49,7 +42,3 @@ in countries or regions where the content will be used. Be especially
 careful with maps, which may be subject to government review. Improper
 treatment of a disputed area may be illegal in some countries. All maps
 should follow the guidelines on the [Global Readiness](https://microsoft.sharepoint.com/teams/celaGlobalReadiness/Pages/geography.aspx "Geography guidelines on Global Readiness website") site. (This site requires Microsoft network access.)
-
-![In progress](media/art/activity-large.gif)
-
-URL :

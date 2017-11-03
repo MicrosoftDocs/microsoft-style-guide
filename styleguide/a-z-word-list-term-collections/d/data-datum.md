@@ -1,12 +1,5 @@
 # data, datum
 
-![Copy URL](media/data-datum/Copy.png)
-Copy URL
-
-![Download](media/data-datum/Download.png)
-
-Download topic
-
 Use *data* as both a singular and plural noun. Don't use *datum.*
 
 Always use *data* with a singular verb, even if you're talking about more than one data set. Don't use *the data are.* 
@@ -19,7 +12,3 @@ The data gathered so far is incomplete.
 These facts contradict earlier data.
 
 **See also** [big data](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32563)
-
-![In progress](media/data-datum/activity-large.gif)
-
-URL :

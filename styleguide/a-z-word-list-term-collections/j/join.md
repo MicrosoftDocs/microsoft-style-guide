@@ -1,12 +1,5 @@
 # join
 
-![Copy URL](media/join/Copy.png)
-Copy URL
-
-![Download](media/join/Download.png)
-
-Download topic
-
 Don't use to mean *embed*. 
 
 In discussions about databases and related products, use *j**oin* only to refer to a relationship or association between fields in different tables.
@@ -18,7 +11,3 @@ you add fields from both tables to the query design grid, the
 default, or inner, join tells the query to check for matching values in
 the join fields.
 To embed one object into another, select Paste on the Edit menu.
-
-![In progress](media/join/activity-large.gif)
-
-URL :

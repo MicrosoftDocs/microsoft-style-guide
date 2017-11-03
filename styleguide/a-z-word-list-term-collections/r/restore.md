@@ -1,12 +1,5 @@
 # restore
 
-![Copy URL](media/restore/Copy.png)
-Copy URL
-
-![Download](media/restore/Download.png)
-
-Download topic
-
 Use as a verb instead of *undelete* to describe restoring an item that was deleted. 
 
 Use
@@ -32,7 +25,3 @@ then restore the subsequent log backups to roll the database forward in
 time. 
 Restore the database.
 Use the RESTORE statement to specify the restore operation.
-
-![In progress](media/restore/activity-large.gif)
-
-URL :

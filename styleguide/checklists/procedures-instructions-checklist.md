@@ -1,12 +1,5 @@
 ﻿# Procedures and instructions checklist
 
-![Copy URL](media/procedures-instructions-checklist/Copy.png)
-Copy URL
-
-![Download](media/procedures-instructions-checklist/Download.png)
-
-Download topic
-
 In
 the best-case scenario, the UI is so clear and task driven that
 you don’t need additional instructions. When the task is more
@@ -113,7 +106,3 @@ If you need to document multiple ways to perform a task, use one of these method
   - If a step has more than one option, list the options as bullets under the numbered step. 
 
 Learn more about [multiple input methods](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=29028).
-
-![In progress](media/procedures-instructions-checklist/activity-large.gif)
-
-URL :

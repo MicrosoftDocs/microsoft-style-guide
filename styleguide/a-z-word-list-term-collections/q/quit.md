@@ -1,12 +1,5 @@
 # quit
 
-![Copy URL](media/quit/Copy.png)
-Copy URL
-
-![Download](media/quit/Download.png)
-
-Download topic
-
 Don't use *quit* to refer to any of the following: 
 
   - Closing an app or program. Use *close* instead. 
@@ -16,7 +9,3 @@ Don't use *quit* to refer to any of the following:
   - Ending a network connection. Use *end* instead. 
 
 Use *stop responding*, not *quit,* when an app encounters a problem and can't close itself.
-
-![In progress](media/quit/activity-large.gif)
-
-URL :

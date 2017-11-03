@@ -1,12 +1,5 @@
 # alert
 
-![Copy URL](media/alert/Copy.png)
-Copy URL
-
-![Download](media/alert/Download.png)
-
-Download topic
-
 For technical audiences, it's OK to use *alert* to refer to automated messages from apps, products, services, and websites. 
 
 For general users, don't use *alert* to refer to a system message. Use *notification* instead. 
@@ -22,7 +15,3 @@ To receive an alert whenever an event occurs ....
 Select Add alert. 
 
 See also [](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35399)[notification](https://worldready.cloudapp.net/Styleguide/Read?id=2547&topicid=16439) in the *Windows, Xbox, and devices style guide* 
-
-![In progress](media/alert/activity-large.gif)
-
-URL :

@@ -1,12 +1,5 @@
 ﻿# Use US spelling and avoid non-English words
 
-![Copy URL](media/use-us-spelling-avoid-non-english-words/Copy.png)
-Copy URL
-
-![Download](media/use-us-spelling-avoid-non-english-words/Download.png)
-
-Download topic
-
 When the spelling of English words varies by locale, use the US spelling. For example, use *license*, not *licence.*
 
 Avoid non-English words or phrases, such as *de facto* or *ad hoc*. 
@@ -43,7 +36,3 @@ Exception It’s OK to use *etc.,* in situations where space is limited. Otherwi
 </tr>
 </tbody>
 </table>
-
-![In progress](media/use-us-spelling-avoid-non-english-words/activity-large.gif)
-
-URL :

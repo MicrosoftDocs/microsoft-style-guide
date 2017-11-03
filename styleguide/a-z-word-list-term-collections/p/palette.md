@@ -1,12 +1,5 @@
 # palette
 
-![Copy URL](media/palette/Copy.png)
-Copy URL
-
-![Download](media/palette/Download.png)
-
-Download topic
-
 Use
 to describe a collection of colors or patterns that the
 customer can apply to objects. The color display in Control Panel
@@ -19,7 +12,3 @@ name.
 
 Example**
 **In the Color palette, select a color for the object outline.
-
-![In progress](media/palette/activity-large.gif)
-
-URL :

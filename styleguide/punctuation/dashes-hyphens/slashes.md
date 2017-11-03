@@ -1,12 +1,5 @@
 ﻿# Slashes
 
-![Copy URL](media/slashes/Copy.png)
-Copy URL
-
-![Download](media/slashes/Download.png)
-
-Download topic
-
 When necessary, differentiate between a *slash* for URLs and a *backslash* for servers and folders.
 
 When you instruct customers to enter a slash, always include the spelled-out term (*backslash* or *forward slash*) first, followed by the symbol in parentheses.
@@ -54,7 +47,3 @@ See also
 [and/or](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32502)
 [country or region](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33582)
 [either/or](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33673)
-
-![In progress](media/slashes/activity-large.gif)
-
-URL :

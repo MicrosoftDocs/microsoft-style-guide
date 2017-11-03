@@ -1,12 +1,5 @@
 ﻿# Images and video checklist
 
-![Copy URL](media/images-video-checklist/Copy.png)
-Copy URL
-
-![Download](media/images-video-checklist/Download.png)
-
-Download topic
-
 Before using images in content, familiarize yourself with the guidelines for [bias-free communication](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26708); [accessible graphics, design, and media](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26700); and [copyrights and trademarks](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26696).
 
   - If
@@ -87,7 +80,3 @@ and quality up.
   - Use brand elements for opening and closing frames properly. (Check in with your marketing team, or use the [Microsoft end-card ](https://microsoft.sharepoint.com/teams/BrandCentral/Pages/Bundles/Microsoft_logo_endcard_animation.aspx)[animation and guidelines](https://microsoft.sharepoint.com/teams/BrandCentral/Pages/Bundles/Microsoft_logo_endcard_animation.aspx). (This page requires Microsoft network access.)
 
 Learn more about [video](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36407).
-
-![In progress](media/images-video-checklist/activity-large.gif)
-
-URL :

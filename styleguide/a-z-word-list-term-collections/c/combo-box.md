@@ -1,12 +1,5 @@
 # combo box
 
-![Copy URL](media/combo-box/Copy.png)
-Copy URL
-
-![Download](media/combo-box/Download.png)
-
-Download topic
-
 Two
 words. Use only in content for a technical audience to describe a box
 in which the user can enter or select a value. Don't use in content for a general audience. Instead, refer to it as a *box*, using the label provided in the UI.
@@ -18,7 +11,3 @@ In the Size box, enter the font size you want.
 For Size, enter a font size.
 
 See also [Describing interactions with UI](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26472)
-
-![In progress](media/combo-box/activity-large.gif)
-
-URL :

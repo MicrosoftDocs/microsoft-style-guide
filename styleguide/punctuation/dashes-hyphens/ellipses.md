@@ -1,12 +1,5 @@
 ﻿# Ellipses
 
-![Copy URL](media/ellipses/Copy.png)
-Copy URL
-
-![Download](media/ellipses/Download.png)
-
-Download topic
-
 HTML code &\#0133;
 
 In
@@ -48,7 +41,3 @@ If
 you're writing in an environment that doesn't have the Segoe
 font and using a font that doesn't have the
 ellipsis character, use three periods with no space between them.
-
-![In progress](media/ellipses/activity-large.gif)
-
-URL :

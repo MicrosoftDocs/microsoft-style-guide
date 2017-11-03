@@ -1,12 +1,5 @@
 ﻿# Microsoft Editorial Board
 
-![Copy URL](media/editorial-board/Copy.png)
-Copy URL
-
-![Download](media/editorial-board/Download.png)
-
-Download topic
-
 Microsoft-wide
 questions of style are managed by the Microsoft Editorial Board, which
 represents products, organizations, channels, roles, and lines of
@@ -51,7 +44,3 @@ writing, development, and subject matter expertise to this edition:
   - Becky Montgomery
   - David Dzumba
   - Microsoft worldwide terminologists 
-
-![In progress](media/editorial-board/activity-large.gif)
-
-URL :

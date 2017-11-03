@@ -1,12 +1,5 @@
 # upper left, upper right
 
-![Copy URL](media/upper-left-upper-right/Copy.png)
-Copy URL
-
-![Download](media/upper-left-upper-right/Download.png)
-
-Download topic
-
 Hyphenate as adjectives. Use instead of *top left* and *top right*. 
 
 Example The upper-right corner
@@ -21,7 +14,3 @@ is also included. Directional terms are also OK to use when a
 sighted user with dyslexia can clearly see a change in the interface as
 the result of an action, such as a change in the right pane when an
 option in the left pane is selected.
-
-![In progress](media/upper-left-upper-right/activity-large.gif)
-
-URL :

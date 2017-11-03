@@ -1,12 +1,5 @@
 ﻿# sorry
 
-![Copy URL](media/sorry/Copy.png)
-Copy URL
-
-![Download](media/sorry/Download.png)
-
-Download topic
-
 Use *sorry* only in error messages that result in serious problems for the customer. These include:
 
   - Data is lost.
@@ -27,7 +20,3 @@ Oops ... this page didn't load properly.
 Let's try this again.
 
 Use the [A–Z word list](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25512) and your group's editorial style guide to find preferred terms.
-
-![In progress](media/sorry/activity-large.gif)
-
-URL :

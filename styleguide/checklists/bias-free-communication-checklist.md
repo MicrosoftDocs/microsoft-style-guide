@@ -1,12 +1,5 @@
 ﻿# Bias-free communication checklist
 
-![Copy URL](media/bias-free-communication-checklist/Copy.png)
-Copy URL
-
-![Download](media/bias-free-communication-checklist/Download.png)
-
-Download topic
-
 Microsoft
 technology reaches every part of the globe. Make sure all our
 communications are inclusive of gender, race,
@@ -34,7 +27,3 @@ socioeconomic class.
   - Focus on the person, not the disability. 
 
 Learn more about [Bias-free communication](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26708). 
-
-![In progress](media/bias-free-communication-checklist/activity-large.gif)
-
-URL :

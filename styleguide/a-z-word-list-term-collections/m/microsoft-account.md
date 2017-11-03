@@ -1,12 +1,5 @@
 ﻿# Microsoft account
 
-![Copy URL](media/microsoft-account/Copy.png)
-Copy URL
-
-![Download](media/microsoft-account/Download.png)
-
-Download topic
-
 Don’t capitalize *account*.
 
 Use *Microsoft account*
@@ -22,7 +15,3 @@ Don’t use *Microsoft account* to refer to corporate domain accounts, which are
 Example This
 contact info is from your Microsoft account. Friends who have it will
 be able to find you on Skype. Would you like to add it?
-
-![In progress](media/microsoft-account/activity-large.gif)
-
-URL :

@@ -1,12 +1,5 @@
 ﻿# Avoid jargon
 
-![Copy URL](media/avoid-jargon/Copy.png)
-Copy URL
-
-![Download](media/avoid-jargon/Download.png)
-
-Download topic
-
 In
 the right context, for a particular audience, jargon serves as
 shorthand for well-understood concepts. But for less technical
@@ -29,7 +22,3 @@ Differentiating jargon from technical terminology is tricky. First, check the [A
   - If a reviewer questions your use of a term, it may be jargon.
   - If the term is used in *The Wall Street Journal* or *The New York Times*, or in general-interest magazines, such as *Time* or *Newsweek*, it might be appropriate for some audiences.
   - If the term is used in technical periodicals such as *CNET* or *Re/code*, it's probably OK to use for technical audiences.
-
-![In progress](media/avoid-jargon/activity-large.gif)
-
-URL :

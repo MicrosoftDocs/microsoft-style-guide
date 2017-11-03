@@ -1,12 +1,5 @@
 ﻿# Punctuation
 
-![Copy URL](media/index/Copy.png)
-Copy URL
-
-![Download](media/index/Download.png)
-
-Download topic
-
 Punctuation
 provides vital clues for reader understanding. It's governed by
 well-documented rules. For example, every English sentence
@@ -36,7 +29,3 @@ This section covers:
   - [Ellipses](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28758) in syntax and for omissions. 
   - [Exclamation points](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28759), used sparingly.
   - [Slashes](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28760) in phrases, file paths, and URLs.
-
-![In progress](media/index/activity-large.gif)
-
-URL :

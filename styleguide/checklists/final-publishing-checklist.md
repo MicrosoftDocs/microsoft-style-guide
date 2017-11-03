@@ -1,12 +1,5 @@
 ﻿# Final publishing checklist
 
-![Copy URL](media/final-publishing-checklist/Copy.png)
-Copy URL
-
-![Download](media/final-publishing-checklist/Download.png)
-
-Download topic
-
 Double-check your work. Every detail—from facts to proper
 usage and placement of punctuation marks—makes a difference. Clear, accurate
 content that’s free of spelling and grammar mistakes is easy to read and builds trust in Microsoft's commitment to quality.
@@ -26,7 +19,3 @@ content that’s free of spelling and grammar mistakes is easy to read and build
   - Use a spelling and grammar checker. But check each recommendation before you accept it—only you know whether you mean *manager* or *manger*. 
 
 Learn more about what to do [](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25522)[](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25522)[before you publish](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25522). 
-
-![In progress](media/final-publishing-checklist/activity-large.gif)
-
-URL :

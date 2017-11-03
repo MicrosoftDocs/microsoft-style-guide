@@ -1,12 +1,5 @@
 ﻿# Accessibility guidelines and requirements
 
-![Copy URL](media/accessibility-guidelines-requirements/Copy.png)
-Copy URL
-
-![Download](media/accessibility-guidelines-requirements/Download.png)
-
-Download topic
-
 Microsoft
 devices and services empower people around the globe—at home, at work,
 and on the go—to do the activities they value most. Our technology

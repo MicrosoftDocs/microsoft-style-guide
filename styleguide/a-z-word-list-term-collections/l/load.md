@@ -1,12 +1,5 @@
 # load
 
-![Copy URL](media/load/Copy.png)
-Copy URL
-
-![Download](media/load/Download.png)
-
-Download topic
-
 Don't use as a synonym for *start, install, run, set up,* or *download.*
 
 In content for a technical audience, use *load* only to
@@ -26,7 +19,3 @@ Download the e-book (link text)
 When you're ready to play again, load your saved game.
 
 **See also** [download](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33615)
-
-![In progress](media/load/activity-large.gif)
-
-URL :

@@ -1,12 +1,5 @@
 # abort, abortion
 
-![Copy URL](media/abort-abortion/Copy.png)
-Copy URL
-
-![Download](media/abort-abortion/Download.png)
-
-Download topic
-
 Never use *abortion.* 
 
 Don't use *abort* in content or user experiences for a general audience. If *abort* appears in a UI that you can't edit, use an alternative term to describe the customer action.
@@ -22,7 +15,3 @@ in comments and descriptions.
   - *Close:* use for apps and programs.
   - *Stop:* use for hardware operations.
   - *Cancel:* use for requests and processes. 
-
-![In progress](media/abort-abortion/activity-large.gif)
-
-URL :

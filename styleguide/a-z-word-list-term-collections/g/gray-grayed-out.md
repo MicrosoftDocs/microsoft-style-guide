@@ -1,12 +1,5 @@
 ﻿# gray, grayed out
 
-![Copy URL](media/gray-grayed-out/Copy.png)
-Copy URL
-
-![Download](media/gray-grayed-out/Download.png)
-
-Download topic
-
 Most of the time, talk about the actions that customers should take. 
 
 Don’t use *gray* or *grayed out* to describe commands or options that are in an unusable state—use *not available* or *isn’t available* instead. Use *appears dimmed* if you must describe their appearance. Use *shaded* to describe the appearance of check boxes that represent a mixture of settings.
@@ -17,7 +10,3 @@ If the option appears dimmed, it's not available.
 Selected effects appear shaded. 
 
 See also [disable, disabled](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33643), [unavailable](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33644)
-
-![In progress](media/gray-grayed-out/activity-large.gif)
-
-URL :

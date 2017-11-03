@@ -1,12 +1,5 @@
 ﻿# Copyrights and trademarks
 
-![Copy URL](media/copyrights-trademarks/Copy.png)
-Copy URL
-
-![Download](media/copyrights-trademarks/Download.png)
-
-Download topic
-
 Copyrights
 and trademark registration protect intellectual property. This
 section summarizes things you can do to help. For the full story,
@@ -108,7 +101,3 @@ These pages require Microsoft network access.
 [Trademark list and attribution requirements](https://microsoft.sharepoint.com/sites/lcaweb/home/copyrights-trademarks-and-patents/trademarks/trademark-list-and-usage)
 [
 Branding & notices for advertising & marketing](https://microsoft.sharepoint.com/sites/LCAWeb/Home/Marketing/Marketing-and-Advertising-Content/Branding-and-Notices "CELAWeb guidelines for proper trademark usage")
-
-![In progress](media/copyrights-trademarks/activity-large.gif)
-
-URL :

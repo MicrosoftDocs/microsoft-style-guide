@@ -1,12 +1,5 @@
 ﻿# Names and contact information
 
-![Copy URL](media/names-contact-information/Copy.png)
-Copy URL
-
-![Download](media/names-contact-information/Download.png)
-
-Download topic
-
 If you’re creating a real or sample form that collects personal information, use these guidelines. And adhere to the [Privacy and security](https://microsoft.sharepoint.com/sites/LCAWeb/home/product-development/regulatory-compliance/privacy-and-security) guidelines on CELAWeb when you collect personal information. (This site requires Microsoft network access.) Many
 countries strictly control what personal information
 can be legally collected, stored, and shared. Before
@@ -46,7 +39,3 @@ your international program manager and your [group's paralegal](https://microsof
     reference, state that it’s a US company or organization, and
     suggest where customers outside the United States can
     look for local resources.
-
-![In progress](media/names-contact-information/activity-large.gif)
-
-URL :

@@ -1,12 +1,5 @@
 # app, application
 
-![Copy URL](media/app-application/Copy.png)
-Copy URL
-
-![Download](media/app-application/Download.png)
-
-Download topic
-
 The Microsoft technologies that customers use to get things done come in a variety of shapes and sizes. Always refer to your group's editorial style guide for details about when to use *app, application, product,* and *service.*
 
 If possible, refer to a product by its descriptor, such as *database management system* or *spreadsheet.*
@@ -28,7 +21,3 @@ Don't use application program.
 [applet](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32508)
 [tool](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32532) 
 [Control Panel](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36789)
-
-![In progress](media/app-application/activity-large.gif)
-
-URL :

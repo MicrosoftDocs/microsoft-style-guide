@@ -1,12 +1,5 @@
 ﻿# Use left alignment
 
-![Copy URL](media/use-left-alignment/Copy.png)
-Copy URL
-
-![Download](media/use-left-alignment/Download.png)
-
-Download topic
-
 Left-aligned text has an even left margin and an erratic (ragged) right margin. 
 
 Don’t center text. 
@@ -59,7 +52,3 @@ Select a paragraph formatted with Normal style. On the context menu, select <b>S
 </tr>
 </tbody>
 </table>
-
-![In progress](media/use-left-alignment/activity-large.gif)
-
-URL :

@@ -1,12 +1,5 @@
 ﻿# Start button, Start menu
 
-![Copy URL](media/start-button-start-menu/Copy.png)
-Copy URL
-
-![Download](media/start-button-start-menu/Download.png)
-
-Download topic
-
 Capitalize references to the Start menu and the Start button on the Windows taskbar. Use bold formatting for *Start* when you're referring to the menu or button.
 
 Don’t refer to the Start button as the *Windows Start button*.
@@ -21,7 +14,3 @@ Examples
 You’ll find the Start ![](media/start-button-start-menu/967781121.png) button on the taskbar. 
 On Start, select Messaging. (Windows phone)
 Go to Start ![](media/start-button-start-menu/967781121.png), enter device manager, and then select Device Manager.
-
-![In progress](media/start-button-start-menu/activity-large.gif)
-
-URL :

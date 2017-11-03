@@ -1,12 +1,5 @@
 ﻿# Design planning
 
-![Copy URL](media/design-planning/Copy.png)
-Copy URL
-
-![Download](media/design-planning/Download.png)
-
-Download topic
-
 Design is more than a pretty face. It provides a familiar environment for content. Text
 length, the use of images, headings, tables, lists, and other
 writing choices all play a role in the quality of your readers’
@@ -67,7 +60,3 @@ you have options for positioning content elements, place them in the
 same area on every page. Tips, procedures, blog rolls, references,
 definitions, and other distinct content types are easier to find when
 they’re located consistently. 
-
-![In progress](media/design-planning/activity-large.gif)
-
-URL :

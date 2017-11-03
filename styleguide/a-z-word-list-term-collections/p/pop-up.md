@@ -1,12 +1,5 @@
 ﻿# pop-up
 
-![Copy URL](media/pop-up/Copy.png)
-Copy URL
-
-![Download](media/pop-up/Download.png)
-
-Download topic
-
 Don’t use as a noun. For example, don't use *a pop-up;* use *a pop-up window* instead.
 
 Don't use *pop up* or *pops up* as a verb to describe the appearance of a window. Use *open* or a similar verb instead. 
@@ -24,7 +17,3 @@ If you want to print the information in a pop-up window, right-click the window,
 In the pop-up list, select Microsoft Excel.
 
 See also [context menu](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28829), [shortcut menu](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28830)
-
-![In progress](media/pop-up/activity-large.gif)
-
-URL :

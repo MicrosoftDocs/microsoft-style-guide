@@ -1,12 +1,5 @@
 ﻿# illegal
 
-![Copy URL](media/illegal/Copy.png)
-Copy URL
-
-![Download](media/illegal/Download.png)
-
-Download topic
-
 Consult [your group’s paralegal](https://microsoft.sharepoint.com/sites/lcaweb/Pages/Applications/LegalContact.aspx) before using this term. In many cases, *licensed* and *unlicensed* may be better term choices. 
 
 In general, use only in specific situations, such as:
@@ -22,7 +15,3 @@ Examples**
 You can't compose chords while a segment is playing.
 
 **See also** **** [invalid, not valid](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=34920)
-
-![In progress](media/illegal/activity-large.gif)
-
-URL :

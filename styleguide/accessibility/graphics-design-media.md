@@ -1,12 +1,5 @@
 ﻿# Graphics, design, and media
 
-![Copy URL](media/graphics-design-media/Copy.png)
-Copy URL
-
-![Download](media/graphics-design-media/Download.png)
-
-Download topic
-
 Websites
 need to be accessible to everyone. Websites that are accessible
 to people with disabilities also support customers with various
@@ -46,7 +39,3 @@ Provide closed-captioning, transcripts, or descriptions of audio and video conte
 Provide text links in addition to image maps.
 
 Plan links and image-map links to support Tab key navigation with bidirectional text. 
-
-![In progress](media/graphics-design-media/activity-large.gif)
-
-URL :

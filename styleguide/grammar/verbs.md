@@ -1,12 +1,5 @@
 ﻿# Verbs
 
-![Copy URL](media/verbs/Copy.png)
-Copy URL
-
-![Download](media/verbs/Download.png)
-
-Download topic
-
  Using precise verbs in the right way helps you write clear and simple sentences.
 
 #### Verb tense
@@ -155,7 +148,3 @@ Singular or plural, to match the closest subject<br />
 </tr>
 </tbody>
 </table>
-
-![In progress](media/verbs/activity-large.gif)
-
-URL :

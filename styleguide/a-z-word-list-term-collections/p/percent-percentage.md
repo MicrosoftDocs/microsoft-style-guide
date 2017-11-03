@@ -1,12 +1,5 @@
 # percent, percentage
 
-![Copy URL](media/percent-percentage/Copy.png)
-Copy URL
-
-![Download](media/percent-percentage/Download.png)
-
-Download topic
-
 One word. Spell out unless space is constrained. When spelling out *percent*, insert a space between the number and the word. 
 
 It's OK to use the percent sign (%):
@@ -51,7 +44,3 @@ Examples**
 
   - 10 percent is the percent discount. 
   - $10.00 is the percentage discount. 
-
-![In progress](media/percent-percentage/activity-large.gif)
-
-URL :

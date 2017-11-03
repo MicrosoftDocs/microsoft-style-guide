@@ -1,12 +1,5 @@
 ﻿# Legal issues and types of content
 
-![Copy URL](media/legal-issues-types-of-content/Copy.png)
-Copy URL
-
-![Download](media/legal-issues-types-of-content/Download.png)
-
-Download topic
-
 Different types of content require different legal coverage. For instance, testimonials require a signed [quote permission form](https://microsoft.sharepoint.com/sites/LCAWebAuthoring/LSWDocuments/Quote_Permission_Form_Marketing.doc?d=wb65038057ef041d7b5375f9db989fd0a&Source=https%3A%2F%2Fmicrosoft%2Esharepoint%2Ecom%2Fsites%2FLCAWebAuthoring%2FLSWDocuments%2FForms%2FAllItems%2Easpx%3FInitialTabId%3DRibbon%252ERead%26VisibilityContext%3DWSSTabPersistence%23InplviewHash1adbcfb2%2D6303%2D44d4%2D8b6d%2D6e5d0d3e7dfb%3DInitialTabId%253DRibbon%25252ERead%2DVisibilityContext%253DWSSTabPersistence%2DSortField%253DModified%2DSortDir%253DDesc)[.](https://microsoft.sharepoint.com/sites/LCAWebAuthoring/LSWDocuments/Quote_Permission_Form_Marketing.doc?d=wb65038057ef041d7b5375f9db989fd0a&Source=https%3A%2F%2Fmicrosoft%2Esharepoint%2Ecom%2Fsites%2FLCAWebAuthoring%2FLSWDocuments%2FForms%2FAllItems%2Easpx%3FInitialTabId%3DRibbon%252ERead%26VisibilityContext%3DWSSTabPersistence%23InplviewHash1adbcfb2%2D6303%2D44d4%2D8b6d%2D6e5d0d3e7dfb%3DInitialTabId%253DRibbon%25252ERead%2DVisibilityContext%253DWSSTabPersistence%2DSortField%253DModified%2DSortDir%253DDesc) (This page requires Microsoft network access.) And tweeting,
 posting, pinning, and engaging with customers on Microsoft's behalf
 requires you familiarize yourself with the rules in [Guidelines for engaging with social media](https://microsoft.sharepoint.com/sites/LCAWeb/Home/Marketing/Social-Media/Social-Media-Guidelines). (This page requires Microsoft network access.) 
@@ -48,7 +41,3 @@ The [Marketing self-service page](https://microsoft.sharepoint.com/sites/lcaweb/
 Self-service marketing information is also available for Canada and New Zealand. 
 
 If you're unsure whether your content requires legal review, contact [your group’s paralegal](https://microsoft.sharepoint.com/sites/lcaweb/Pages/Applications/LegalContact.aspx). (This page requires Microsoft network access.) 
-
-![In progress](media/legal-issues-types-of-content/activity-large.gif)
-
-URL :

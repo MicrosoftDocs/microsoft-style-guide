@@ -1,12 +1,5 @@
 # start up, startup
 
-![Copy URL](media/start-up-startup/Copy.png)
-Copy URL
-
-![Download](media/start-up-startup/Download.png)
-
-Download topic
-
 Don't use *start up* as a verb. Use *start* instead.
 
 **Note** Use *open*, not *start*, to describe selecting a program or app from the Start menu to open it.
@@ -21,7 +14,3 @@ When the app opens, a startup screen appears.
 Open OneNote and start taking notes.
 
 **See also** [Start button, Start menu](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36078)
-
-![In progress](media/start-up-startup/activity-large.gif)
-
-URL :

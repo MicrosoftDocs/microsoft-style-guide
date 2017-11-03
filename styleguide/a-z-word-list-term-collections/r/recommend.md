@@ -1,12 +1,5 @@
 # recommend
 
-![Copy URL](media/recommend/Copy.png)
-Copy URL
-
-![Download](media/recommend/Download.png)
-
-Download topic
-
 It's OK to use *we recommend* to introduce a Microsoft recommendation. Don't use *Microsoft recommends* or *it is recommended*.
 
 Don't use *recommend* when something is required.
@@ -21,7 +14,3 @@ recommend that you have a USB flash drive handy when you install
 Windows 10.
 
 **See also** [should vs. must](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35667)
-
-![In progress](media/recommend/activity-large.gif)
-
-URL :

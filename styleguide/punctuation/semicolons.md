@@ -1,12 +1,5 @@
 ﻿# Semicolons
 
-![Copy URL](media/semicolons/Copy.png)
-Copy URL
-
-![Download](media/semicolons/Download.png)
-
-Download topic
-
 Sentences
 that contain semicolons are often complex. Try to simplify the
 sentence—break it into multiple sentences or a list—to eliminate
@@ -41,7 +34,3 @@ Example In this tutorial, you'll learn how to:
     printing, toolbars, scrolling, splitter windows, print preview, and
     context-sensitive Help.
   - Take advantage of many built-in components of the class library.
-
-![In progress](media/semicolons/activity-large.gif)
-
-URL :

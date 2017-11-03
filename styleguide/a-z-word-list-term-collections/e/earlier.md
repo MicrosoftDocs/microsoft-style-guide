@@ -1,12 +1,5 @@
 # earlier
 
-![Copy URL](media/earlier/Copy.png)
-Copy URL
-
-![Download](media/earlier/Download.png)
-
-Download topic
-
 If possible, use a hyperlink to help users find information elsewhere in the content. If you can't use a hyperlink, use *earlier*, *preceding*, or *previous* instead of *above* to mean earlier in a piece of content. 
 
 Use *or earlier* or *previous* instead of *or lower* to
@@ -21,7 +14,3 @@ can open files created in previous versions of Microsoft Visio.
 to the version being discussed.) 
 
 **See also**  [later](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32560)
-
-![In progress](media/earlier/activity-large.gif)
-
-URL :

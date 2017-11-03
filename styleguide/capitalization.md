@@ -1,12 +1,5 @@
 ﻿# Capitalization
 
-![Copy URL](media/capitalization/Copy.png)
-Copy URL
-
-![Download](media/capitalization/Download.png)
-
-Download topic
-
 Microsoft
 style is sentence-style capitalization. That means everything is
 lowercase except the first word and proper nouns, which include the
@@ -96,7 +89,3 @@ On the rare occasions when title-style capitalization is required, follow these 
   - In programming languages, follow the traditional capitalization of keywords and other special terms*.*
 
 See also [Formatting titles](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36416)**
-
-![In progress](media/capitalization/activity-large.gif)
-
-URL :

@@ -1,12 +1,5 @@
 ﻿# Control Panel
 
-![Copy URL](media/control-panel/Copy.png)
-Copy URL
-
-![Download](media/control-panel/Download.png)
-
-Download topic
-
 Use *Control Panel*, not *the Control Panel,* to refer to the entire Windows Control Panel feature. 
 
 Most of the time, refer to specific, named control panels. When you must discuss control panels generically, refer to an individual control panel as a *control panel item* (lowercase). When you must refer to the icons that represent control panels, use *control panel icon* (lowercase). Don't use *applet*, *program*, *tool*, or *control panel* to refer to either the icons or the items. 
@@ -26,7 +19,3 @@ To open Internet Options, select Start, select Control Panel, and then select Ne
 [app](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32507)[, application](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32507)
 [applet](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32508)
 [tool](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32532)
-
-![In progress](media/control-panel/activity-large.gif)
-
-URL :

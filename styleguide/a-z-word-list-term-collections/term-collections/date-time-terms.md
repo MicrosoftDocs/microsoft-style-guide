@@ -1,12 +1,5 @@
 ﻿# Date and time terms
 
-![Copy URL](media/date-time-terms/Copy.png)
-Copy URL
-
-![Download](media/date-time-terms/Download.png)
-
-Download topic
-
 This section covers usage for terms related to time and date.
 
 <table>
@@ -204,7 +197,3 @@ Spell out except in UI or when space is extremely tight.</td>
 </tr>
 </tbody>
 </table>
-
-![In progress](media/date-time-terms/activity-large.gif)
-
-URL :

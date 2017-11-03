@@ -1,12 +1,5 @@
 ﻿# emoticons, emoji
 
-![Copy URL](media/emoticons-emoji/Copy.png)
-Copy URL
-
-![Download](media/emoticons-emoji/Download.png)
-
-Download topic
-
 Use emoticons. A little personality goes a long way.
 
 In the right context, emoticons can help customers connect with us. 
@@ -31,7 +24,3 @@ Emoticons
 and emoji might be removed in localized versions. Make sure
 your message gets across without them, and don't embed them in
 images.
-
-![In progress](media/emoticons-emoji/activity-large.gif)
-
-URL :

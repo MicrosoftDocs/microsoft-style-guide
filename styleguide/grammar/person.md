@@ -1,12 +1,5 @@
 ﻿# Person
 
-![Copy URL](media/person/Copy.png)
-Copy URL
-
-![Download](media/person/Download.png)
-
-Download topic
-
 In grammar, *person* refers to the point of view represented by a statement and determines which pronoun to use. 
 
 #### In general, use second person
@@ -37,7 +30,3 @@ In September, we took a major step forward in introducing Windows 10 to our ente
 The scheduled default setting is the easiest way to keep your computer up-to-date. (Instead of *We recommend that you use the scheduled default setting ....*)
 
 Learn more For information about using the pronouns *he, she,* and *they,* see [Nouns and pronouns](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25525).
-
-![In progress](media/person/activity-large.gif)
-
-URL :

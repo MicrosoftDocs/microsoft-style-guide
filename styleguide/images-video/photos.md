@@ -1,12 +1,5 @@
 ﻿# Photos
 
-![Copy URL](media/photos/Copy.png)
-Copy URL
-
-![Download](media/photos/Download.png)
-
-Download topic
-
 Microsoft photos are authentic, optimistic, and brave.
 
   - Authentic You believe it and feel like you’re there.
@@ -44,7 +37,3 @@ If images convey information
 that’s important to the story, describe them clearly and
 completely in captions or alt text to support people with low
 vision. To learn about accessible images, see [Graphics, design, and media](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26700).
-
-![In progress](media/photos/activity-large.gif)
-
-URL :

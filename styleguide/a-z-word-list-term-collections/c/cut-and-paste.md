@@ -1,12 +1,5 @@
 # cut, cut-and-paste
 
-![Copy URL](media/cut-and-paste/Copy.png)
-Copy URL
-
-![Download](media/cut-and-paste/Download.png)
-
-Download topic
-
 Don't use *cut:*
 
   - As a verb, even to refer to an action involving the Cut command. Use *delete* instead.
@@ -24,7 +17,3 @@ Select the text you want to delete, and then select Cut.
 Select Cut to move the selected text to the clipboard.
 Delete the text and paste it somewhere else.
 Cut-and-paste capabilities are available across most Windows devices. 
-
-![In progress](media/cut-and-paste/activity-large.gif)
-
-URL :

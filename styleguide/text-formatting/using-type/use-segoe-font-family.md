@@ -1,12 +1,5 @@
 # Use the Segoe font family
 
-![Copy URL](media/use-segoe-font-family/Copy.png)
-Copy URL
-
-![Download](media/use-segoe-font-family/Download.png)
-
-Download topic
-
 The
 modern and readable Segoe font family makes communications feel
 like they come from Microsoft. Use Segoe UI fonts for all Microsoft
@@ -79,7 +72,3 @@ To learn more about using Segoe, see the [brand type guidelines](https://microso
 </tr>
 </tbody>
 </table>
-
-![In progress](media/use-segoe-font-family/activity-large.gif)
-
-URL :

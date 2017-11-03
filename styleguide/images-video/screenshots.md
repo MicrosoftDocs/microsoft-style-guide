@@ -1,12 +1,5 @@
 # Screenshots
 
-![Copy URL](media/screenshots/Copy.png)
-Copy URL
-
-![Download](media/screenshots/Download.png)
-
-Download topic
-
 #### ****
 
 Screenshots
@@ -29,7 +22,3 @@ When you use screenshots, follow these guidelines.
     the screenshot will be localized, give your localization team or vendor
     the files shown in the image, in addition to detailed
     instructions on how to re-create the screenshot. 
-
-![In progress](media/screenshots/activity-large.gif)
-
-URL :

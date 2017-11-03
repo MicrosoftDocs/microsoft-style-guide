@@ -1,12 +1,5 @@
 # voicemail
 
-![Copy URL](media/voicemail/Copy.png)
-Copy URL
-
-![Download](media/voicemail/Download.png)
-
-Download topic
-
 One word. Don't abbreviate as *v-mail* or *vmail*. 
 
 Use to
@@ -19,7 +12,3 @@ Don't use as a verb. Use *leave a voicemail* or *leave a message* instead.
 Examples
 You have two new voicemails.
 To respond to the caller with a message ....
-
-![In progress](media/voicemail/activity-large.gif)
-
-URL :

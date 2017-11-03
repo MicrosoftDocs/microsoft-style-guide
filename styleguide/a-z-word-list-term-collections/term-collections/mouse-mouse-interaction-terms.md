@@ -1,12 +1,5 @@
 ﻿# Mouse and mouse interaction terms
 
-![Copy URL](media/mouse-mouse-interaction-terms/Copy.png)
-Copy URL
-
-![Download](media/mouse-mouse-interaction-terms/Download.png)
-
-Download topic
-
 Most
 of the time, don't talk about the mouse, mouse actions, or the pointer
 unless it's necessary to avoid confusion. Instead, talk about
@@ -182,7 +175,3 @@ of the word *pointer*—use both*.*
 </tr>
 </tbody>
 </table>
-
-![In progress](media/mouse-mouse-interaction-terms/activity-large.gif)
-
-URL :

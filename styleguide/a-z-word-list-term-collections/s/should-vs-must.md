@@ -1,12 +1,5 @@
 # should vs. must
 
-![Copy URL](media/should-vs-must/Copy.png)
-Copy URL
-
-![Download](media/should-vs-must/Download.png)
-
-Download topic
-
 Before using *should* or *must*,
 consider other ways to discuss recommendations or requirements, such as
 the imperative mood for required actions and a phrase such as *we recommend* for optional ones. Don't use *Microsoft recommends* or *it is recommended*. Be careful to make your tone helpful, not bossy. (For information about the imperative mood, see [Verbs](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25523).)
@@ -27,7 +20,3 @@ Use *must* only to describe a required action.
 
 Example**
 **To save copies of a document in the same location, you must save each copy with a different file name.
-
-![In progress](media/should-vs-must/activity-large.gif)
-
-URL :

@@ -1,12 +1,5 @@
 # Scannable content checklist
 
-![Copy URL](media/scannable-content-checklist/Copy.png)
-Copy URL
-
-![Download](media/scannable-content-checklist/Download.png)
-
-Download topic
-
 Readers
 scan text to find what they need. To help them, write to support
 scanning, and organize content into discrete, scannable chunks. 
@@ -62,7 +55,3 @@ Create lists to simplify complex content.
     words).
 
  Learn more about [lists](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36412).
-
-![In progress](media/scannable-content-checklist/activity-large.gif)
-
-URL :

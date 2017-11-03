@@ -1,12 +1,5 @@
 # registry, registry settings
 
-![Copy URL](media/registry-registry-settings/Copy.png)
-Copy URL
-
-![Download](media/registry-registry-settings/Download.png)
-
-Download topic
-
 Use lowercase for the word *registry* except when referring to a named system component, such as the Registry Editor. 
 
 Use
@@ -36,7 +29,3 @@ Example**
 **(typical subkey ) \\HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Microsoft\\Jet\\3.5\\Engines\\Xbase subkey
 
 In a subkey, use *entries* to describe the items in the Name column. Use *values* to describe the items in the Data column.
-
-![In progress](media/registry-registry-settings/activity-large.gif)
-
-URL :

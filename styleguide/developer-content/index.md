@@ -1,12 +1,5 @@
 # Developer content
 
-![Copy URL](media/index/Copy.png)
-Copy URL
-
-![Download](media/index/Download.png)
-
-Download topic
-
 Though
 the content for developers and IT professionals tends to be more
 technical than that for a general audience, the fundamentals of [the Microsoft brand voice](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28361) still apply. Be just as warm and relaxed, crisp and clear, and ready to lend a hand. After all, when they're not coding or managing solutions, developers and IT pros are some of the very same people who play Xbox and use Office. 
@@ -32,7 +25,3 @@ This section provides guidelines for creating:
   - [Code examples](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28719)
 
 It also has [guidelines for formatting text in developer content](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28975).
-
-![In progress](media/index/activity-large.gif)
-
-URL :

@@ -1,12 +1,5 @@
 ﻿# Formatting text in instructions
 
-![Copy URL](media/formatting-text-in-instructions/Copy.png)
-Copy URL
-
-![Download](media/formatting-text-in-instructions/Download.png)
-
-Download topic
-
 Consistent
 text formatting helps readers locate and interpret information. Follow
 these conventions for formatting elements that frequently appear in
@@ -476,7 +469,3 @@ Choose one of the approaches below and use it consistently.
 </tr>
 </tbody>
 </table>
-
-![In progress](media/formatting-text-in-instructions/activity-large.gif)
-
-URL :

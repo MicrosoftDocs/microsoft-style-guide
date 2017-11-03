@@ -1,12 +1,5 @@
 ﻿# Final publishing check
 
-![Copy URL](media/final-publishing-check/Copy.png)
-Copy URL
-
-![Download](media/final-publishing-check/Download.png)
-
-Download topic
-
 Use these tips to help you edit like
 a pro, so your final content and design shine. 
 
@@ -53,7 +46,3 @@ with legal requirements. If you include examples or scenarios, use the [fictitio
 Take a break. Leave the finished piece alone for a day. Read it again tomorrow—you may see things you missed. 
 
 Evaluate the voice and personality. Before you call it done, read it one final time. Can you hear the fresh and modern [Microsoft voice](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28361)? Your writing should sound warm and relaxed, crisp and clear, and ready to lend a hand.
-
-![In progress](media/final-publishing-check/activity-large.gif)
-
-URL :

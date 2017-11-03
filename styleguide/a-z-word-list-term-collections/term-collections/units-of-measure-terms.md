@@ -1,12 +1,5 @@
 ﻿# Units of measure terms
 
-![Copy URL](media/units-of-measure-terms/Copy.png)
-Copy URL
-
-![Download](media/units-of-measure-terms/Download.png)
-
-Download topic
-
 This
 section covers usage and abbreviations for a variety of terms related
 to measurement. For other units of measure not covered here, see [*The Chicago Manual of Style*](http://www.chicagomanualofstyle.org/home.html). If you have Microsoft network access, you can use [*The Chicago Manual of Style Online*](http://aka.ms/mslibrary/cms) through MS Library.
@@ -161,7 +154,3 @@ See also [](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=2692
 </tr>
 </tbody>
 </table>
-
-![In progress](media/units-of-measure-terms/activity-large.gif)
-
-URL :

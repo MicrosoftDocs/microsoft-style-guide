@@ -1,12 +1,5 @@
 # left, leftmost, left-hand
 
-![Copy URL](media/left-leftmost-left-hand/Copy.png)
-Copy URL
-
-![Download](media/left-leftmost-left-hand/Download.png)
-
-Download topic
-
 Don't use *left* as a directional term by itself. Instead, use a term such as *upper left*, *lower left*, *leftmost*, or *on the left side of*. Include a hyphen when you use *left* to modify a noun, as in *upper-left corner*. Don't use *left-hand* as a modifier.
 
 **Accessibility tip** Don't use directional terms (*left, right, up, down*)
@@ -19,7 +12,3 @@ is also included. Directional terms are also OK to use when a
 sighted user with dyslexia can clearly see a change in the interface as
 the result of an action, such as a change in the right pane when an
 option in the left pane is selected.
-
-![In progress](media/left-leftmost-left-hand/activity-large.gif)
-
-URL :

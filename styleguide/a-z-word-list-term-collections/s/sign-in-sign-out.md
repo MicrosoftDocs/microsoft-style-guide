@@ -1,12 +1,5 @@
 ﻿# sign in, sign out
 
-![Copy URL](media/sign-in-sign-out/Copy.png)
-Copy URL
-
-![Download](media/sign-in-sign-out/Download.png)
-
-Download topic
-
 Use *sign in*
 to describe starting a session on a computer, a device, a network, an
 app, or anywhere a username and password are required. Use *sign out* to refer to ending a session. 
@@ -21,7 +14,3 @@ Some networks can be set up to remember your username and password.
 After an extended period without activity, the network will sign you out automatically.
 
 See also [connect](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33572)
-
-![In progress](media/sign-in-sign-out/activity-large.gif)
-
-URL :

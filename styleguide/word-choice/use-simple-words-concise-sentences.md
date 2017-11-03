@@ -1,12 +1,5 @@
 ﻿# Use simple words, concise sentences
 
-![Copy URL](media/use-simple-words-concise-sentences/Copy.png)
-Copy URL
-
-![Download](media/use-simple-words-concise-sentences/Download.png)
-
-Download topic
-
 Make
 every word count. Concise, clear sentences save space, are easy to
 understand, and facilitate scanning. Use simple words with
@@ -109,7 +102,3 @@ extract, take away, eliminate
     effectively
   - Use one term consistently to represent one concept.
   - Use words that can be both nouns and verbs carefully—*file*, *post*, *mark*, *screen*, *record*, and *report*, for example. Use the sentence structure and context to eliminate ambiguity. 
-
-![In progress](media/use-simple-words-concise-sentences/activity-large.gif)
-
-URL :

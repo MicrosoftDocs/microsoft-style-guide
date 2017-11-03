@@ -1,12 +1,5 @@
 ﻿# Writing tips
 
-![Copy URL](media/writing-tips/Copy.png)
-Copy URL
-
-![Download](media/writing-tips/Download.png)
-
-Download topic
-
 For
 the most part, content that’s easy to read tends to be easy to localize
 and translate. If you follow the writing recommendations in this style
@@ -96,7 +89,3 @@ Use words ending in *–ed* carefully. A word ending in *-ed* can be a modifier 
 Use only common abbreviations, such as *USB,* and
 abbreviations that are defined in glossaries. Check with a
 localization expert to find out if an acronym is defined. 
-
-![In progress](media/writing-tips/activity-large.gif)
-
-URL :

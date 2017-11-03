@@ -1,12 +1,5 @@
 # master/slave, master/subordinate
 
-![Copy URL](media/master-slave-master-subordinate/Copy.png)
-Copy URL
-
-![Download](media/master-slave-master-subordinate/Download.png)
-
-Download topic
-
 Don't use *master/slave*.
 Its use is discouraged by at least one US county today.
 In content for a technical audience, it's OK to substitute *subordinate* for *slave*. 
@@ -24,7 +17,3 @@ Each subordinate device has a unique 7-bit or 10-bit address.
 The architecture uses a standard master/subordinate design to replicate data from one server to many.
 
 **See also** [parent/child](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35550)
-
-![In progress](media/master-slave-master-subordinate/activity-large.gif)
-
-URL :

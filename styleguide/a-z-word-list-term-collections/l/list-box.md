@@ -1,12 +1,5 @@
 # list box
 
-![Copy URL](media/list-box/Copy.png)
-Copy URL
-
-![Download](media/list-box/Download.png)
-
-Download topic
-
 Two words. **
 
 In general, avoid talking about UI. Instead, talk about what the customer needs to do. 
@@ -18,7 +11,3 @@ Examples**
 In the pop-up list, select Microsoft Excel. (Mac only)
 
 **See also** [Describing interactions with UI](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26472), [Formatting text in instructions](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=29014)
-
-![In progress](media/list-box/activity-large.gif)
-
-URL :

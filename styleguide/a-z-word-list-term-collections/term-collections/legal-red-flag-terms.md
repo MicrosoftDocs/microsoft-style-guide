@@ -1,12 +1,5 @@
 # Legal red flag terms
 
-![Copy URL](media/legal-red-flag-terms/Copy.png)
-Copy URL
-
-![Download](media/legal-red-flag-terms/Download.png)
-
-Download topic
-
 The following words have specific legal meanings. Review [Red flag terms in advertising and marketing](https://microsoft.sharepoint.com/sites/lcaweb/Home/Marketing/Marketing-and-Advertising-Content/Red-Flag-Terms) before using them. (This page requires Microsoft network access.)
 
   - Bundle/bundled with
@@ -16,7 +9,3 @@ The following words have specific legal meanings. Review [Red flag terms in adve
   - Leverage
   - New
   - Partnership and business relationships
-
-![In progress](media/legal-red-flag-terms/activity-large.gif)
-
-URL :

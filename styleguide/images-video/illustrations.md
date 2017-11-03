@@ -1,12 +1,5 @@
 ﻿# Illustrations
 
-![Copy URL](media/illustrations/Copy.png)
-Copy URL
-
-![Download](media/illustrations/Download.png)
-
-Download topic
-
 Follow [Microsoft brand illustration guidelines](https://microsoft.sharepoint.com/teams/BrandCentral/Pages/The-Microsoft-brand-Core-elements-Illustration.aspx) if you’re using illustrations in your content. (This page requires Microsoft network access.)
 
 Tell an engaging story. Illustration
@@ -30,7 +23,3 @@ If illustrations convey information that’s
 important to the story, describe them clearly and completely in
 captions or alt text to support people with low vision. To learn
 more about accessible images, see [Graphics, design, and media](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32191).
-
-![In progress](media/illustrations/activity-large.gif)
-
-URL :

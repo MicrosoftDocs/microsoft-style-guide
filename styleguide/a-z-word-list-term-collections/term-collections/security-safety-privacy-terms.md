@@ -1,12 +1,5 @@
 ﻿# Security, safety, and privacy terms
 
-![Copy URL](media/security-safety-privacy-terms/Copy.png)
-Copy URL
-
-![Download](media/security-safety-privacy-terms/Download.png)
-
-Download topic
-
 Don’t
 use words that imply security, safety, or privacy without
 qualification. Instead, focus statements on features. For example,
@@ -347,7 +340,3 @@ If your audience might not be familiar with the term </span><em>malware</em><spa
 </tr>
 </tbody>
 </table>
-
-![In progress](media/security-safety-privacy-terms/activity-large.gif)
-
-URL :

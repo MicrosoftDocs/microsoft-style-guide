@@ -1,12 +1,5 @@
 # less vs. fewer vs. under
 
-![Copy URL](media/less-vs-fewer-vs-under/Copy.png)
-Copy URL
-
-![Download](media/less-vs-fewer-vs-under/Download.png)
-
-Download topic
-
 When comparing quantities:
 
   - Use *less* to refer to a mass amount, value, or degree. 
@@ -19,7 +12,3 @@ The new building has less floor space and contains fewer offices.
 The new building has fewer square feet of floor space and contains fewer offices.
 Fewer than 75 members were present. 
 Less than a quorum attended.
-
-![In progress](media/less-vs-fewer-vs-under/activity-large.gif)
-
-URL :
