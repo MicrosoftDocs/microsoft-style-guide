@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -25,28 +25,28 @@ Use your judgment to avoid sounding abrupt or unfriendly.
 <table>
 <tbody>
 <tr class="odd">
-<td><span style="font-family: Segoe UI Semibold; font-size: small;">Use this</span></td>
-<td><span style="font-family: Segoe UI Semibold; font-size: small;">Not this</span></td>
+<td><b>Use this</b></td>
+<td><b>Not this</b></td>
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family: Segoe UI; font-size: small;">use</span>
+use
 </div></td>
 <td><div>
-<span style="font-family: Segoe UI; font-size: small;">utilize, make use of</span>
+utilize, make use of
 </div></td>
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family: Segoe UI; font-size: small;">remove</span>
+remove
 </div></td>
 <td><div>
-<span style="font-family: Segoe UI; font-size: small;">extract, take away, eliminate</span>
+extract, take away, eliminate
 </div></td>
 </tr>
 <tr class="even">
-<td><span style="font-family: Segoe UI; font-size: small;">tell</span></td>
-<td><span style="font-family: Segoe UI; font-size: small;">inform, let know</span></td>
+<td>tell</td>
+<td>inform, let know</td>
 </tr>
 </tbody>
 </table>
@@ -57,8 +57,8 @@ Use your judgment to avoid sounding abrupt or unfriendly.
 <table>
 <tbody>
 <tr class="odd">
-<td><span style="font-family: Segoe UI Semibold; font-size: small;">Use this</span></td>
-<td><span style="font-family: Segoe UI Semibold; font-size: small;">Not this</span></td>
+<td><b>Use this</b></td>
+<td><b>Not this</b></td>
 </tr>
 <tr class="even">
 <td><div>
@@ -77,8 +77,8 @@ Use your judgment to avoid sounding abrupt or unfriendly.
 </div></td>
 </tr>
 <tr class="even">
-<td><span style="font-family: Segoe UI; font-size: small;">connect</span></td>
-<td><span style="font-family: Segoe UI; font-size: small;">establish connectivity</span></td>
+<td>connect</td>
+<td>establish connectivity</td>
 </tr>
 </tbody>
 </table>
@@ -89,15 +89,15 @@ Use your judgment to avoid sounding abrupt or unfriendly.
 <table>
 <tbody>
 <tr class="odd">
-<td><span style="font-family: Segoe UI Semibold; font-size: small;">Use this</span></td>
-<td><span style="font-family: Segoe UI Semibold; font-size: small;">Not this</span></td>
+<td><b>Use this</b></td>
+<td><b>Not this</b></td>
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family: Segoe UI; font-size: small;"><em>Because</em> <span style="font-family: Segoe UI;">you created the table, you can change it.</span></span>
+<em>Because</em> <span style="font-family: Segoe UI;">you created the table, you can change it.</span>
 </div></td>
 <td><div>
-<span style="font-family: Segoe UI; font-size: small;"><em>Since</em> <span style="font-family: Segoe UI;">you created the table, you can change it.</span></span>
+<em>Since</em> <span style="font-family: Segoe UI;">you created the table, you can change it.</span>
 </div></td>
 </tr>
 </tbody>

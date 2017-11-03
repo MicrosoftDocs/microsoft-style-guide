@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -28,12 +28,12 @@ For information about describing customers' interactions with UI, see [Procedure
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">Term</span></td>
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">Usage</span></td>
+<td><b>Term</b></td>
+<td><b>Usage</b></td>
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">keyboard shortcut, accelerator key, fast key, hot key, quick key, speed key</span>
+<b>keyboard shortcut, accelerator key, fast key, hot key, quick key, speed key</b>
 </div></td>
 <td><span style="font-size:small;">In general, use </span><em><span style="font-size:small;">keyboard shortcut</span></em> <span style="font-size:small;">to describe a combination of keystrokes used to perform a task.<br />
 </span><span style="font-size:small;color:#107C10;">Example</span><span style="font-size:small;"> Alt+Ctrl+S<br />
@@ -41,7 +41,7 @@ For information about describing customers' interactions with UI, see [Procedure
 </span><span style="font-size:small;"><span style="font-size:small;">Don’t use </span><em>accelerator key,</em> <em>fast key, hot key, quick key,</em> <span style="font-size:small;">or </span><em>speed key.</em></span></td>
 </tr>
 <tr class="odd">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">access key</span></td>
+<td><b>access key</b></td>
 <td><span style="font-size:small;">Don’t use in content for a general audience. Use <em>keyboard shortcut</em> instead.<br />
 </span><br />
 <span style="font-size:small;"><span style="font-size:small;">In content for developers or content about customizing the UI, it’s OK to distinguish between an </span><em>access key</em> <span style="font-size:small;">and a </span><em>shortcut key</em><span style="font-size:small;">. </span></span><span style="font-size:small;">An access key is a letter or number that users select to access UI controls that have text labels. For example, the </span><em><span style="font-size:small;">F</span></em><span style="font-size:small;"> in Alt+F. A shortcut key is a key or key combination that users select to perform a common action. For example, Ctrl+V. If you use these terms, explain the difference. </span><br />
@@ -55,7 +55,7 @@ For information about describing customers' interactions with UI, see [Procedure
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">key combination</span>
+<b>key combination</b>
 </div></td>
 <td><div>
 <span style="font-size:small;"><span style="font-size:small;">Don’t use in content for a general audience. Use </span><em>keyboard shortcut</em><span style="font-size:small;"> instead.<br />
@@ -65,7 +65,7 @@ For information about describing customers' interactions with UI, see [Procedure
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">key sequence</span>
+<b>key sequence</b>
 </div></td>
 <td><div>
 <span style="font-size:small;"><span style="font-size:small;">Don’t use in content for a general audience. Use </span><em>keyboard shortcut</em><span style="font-size:small;"> instead.</span></span>
@@ -86,7 +86,7 @@ Each group must resolve any problems that this approach might cause because of h
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">keystroke, keypress</span>
+<b>keystroke, keypress</b>
 </div></td>
 <td><div>
 <span style="font-size:small;">Don’t use </span><em><span style="font-size:small;">keypress</span></em><span style="font-size:small;">. Use </span><em><span style="font-size:small;">keystroke</span></em><span style="font-size:small;"> instead.</span>
@@ -94,7 +94,7 @@ Each group must resolve any problems that this approach might cause because of h
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">select, press, depress, hit, strike, use</span>
+<b>select, press, depress, hit, strike, use</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">Use <em>select</em> to describe pressing a key on a physical or on-screen keyboard. </span><span style="font-size:small;"><span style="font-size:small;">Don’t use <em>press,</em> </span><em>depress, hit,</em> <span style="font-size:small;">or </span><em>strike.</em></span><span style="font-size:small;"><span style="font-size:small;"><br />
@@ -119,7 +119,7 @@ Use <em>select</em> </span><em><span style="font-family:Segoe UI;font-size:small
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">shortcut key</span>
+<b>shortcut key</b>
 </div></td>
 <td><div>
 <span style="font-size:small;">Don’t use in content for a general audience. Use </span><em><span style="font-size:small;">keyboard shortcut</span></em><span style="font-size:small;"> instead.<br />
@@ -161,12 +161,12 @@ capitalization and spell it as it appears on the keyboard.
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">Term</span></td>
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">Usage</span></td>
+<td><b>Term</b></td>
+<td><b>Usage</b></td>
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Alt</span>
+<b>Alt</b>
 </div></td>
 <td><div>
 <span style="font-size:small;"><span style="font-size:small;">Capitalize. Use to refer to the </span><em>Alt key.</em></span>
@@ -174,7 +174,7 @@ capitalization and spell it as it appears on the keyboard.
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Application key</span>
+<b>Application key</b>
 </div></td>
 <td><div>
 <span style="font-size:small;">Capitalize. Use <em>the Application key</em> to refer to the key that opens a shortcut menu containing commands related to a selection. </span>
@@ -182,7 +182,7 @@ capitalization and spell it as it appears on the keyboard.
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">arrow keys, direction keys, directional keys, movement keys</span>
+<b>arrow keys, direction keys, directional keys, movement keys</b>
 </div></td>
 <td><div>
 <span style="font-size:small;"><span style="font-size:small;">Arrow keys are labeled only with an arrow. Refer to similar keys on the numeric keypad as </span><em>the</em> <em>arrow keys on the numeric keypad</em><span style="font-size:small;">.</span></span>
@@ -202,7 +202,7 @@ Use specific names to refer to other navigational keys, such as </span><em>Page 
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">asterisk (*), star</span>
+<b>asterisk (*), star</b>
 </div></td>
 <td><div>
 <span style="font-size:small;"><span style="font-size:small;">Use </span><em>asterisk</em><span style="font-size:small;"> to refer to the * symbol.</span></span>
@@ -218,7 +218,7 @@ It’s OK to use </span><em>star</em><span style="font-size:small;"> to refer to
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">at sign (@)</span>
+<b>at sign (@)</b>
 </div></td>
 <td><div>
 <span style="font-size:small;"><span style="font-size:small;">Pronounced </span><em>at</em><span style="font-size:small;">. In most cases, don’t spell out. </span></span>
@@ -226,21 +226,21 @@ It’s OK to use </span><em>star</em><span style="font-size:small;"> to refer to
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Back</span>
+<b>Back</b>
 </div></td>
 <td><div>
 <span style="font-size:small;font-:10pt;"><span style="font-size:small;">Capitalize. Use to refer to the </span><em>Back key,</em><span style="font-size:small;"> which performs the same action as the </span></span><span style="font-family:Segoe UI Semibold;font-size:small;font-:10pt;"><span style="font-family:Segoe UI;">Back</span><span style="font-size:small;"> </span></span><span style="font-size:small;font-:10pt;"><span style="font-size:small;">button in a browser.</span></span>
 </div></td>
 </tr>
 <tr class="even">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">Backspace</span></td>
+<td><b>Backspace</b></td>
 <td><div>
 <span style="font-size:small;font-:10pt;"><span style="font-size:small;">Capitalize. Use to refer to the </span><em>Backspace key.</em></span>
 </div></td>
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">backtab</span>
+<b>backtab</b>
 </div></td>
 <td><div>
 <span style="font-size:small;font-:10pt;">Don’t use to refer to the Shift+Tab keyboard shortcut.</span>
@@ -248,19 +248,19 @@ It’s OK to use </span><em>star</em><span style="font-size:small;"> to refer to
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Break caps</span>
+<b>Break caps</b>
 </div></td>
 <td><div>
 <span style="font-size:small;"><span style="font-size:small;">Use sentence capitalization. Use to refer to the </span><em>Break caps key.</em></span>
 </div></td>
 </tr>
 <tr class="odd">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">Caps lock</span></td>
+<td><b>Caps lock</b></td>
 <td><span style="font-family:Segoe UI;font-size:small;">Use sentence capitalization. Use to refer to the </span><em><span style="font-family:Segoe UI;font-size:small;">Caps lock</span></em> <span style="font-family:Segoe UI;font-size:small;"><em>key.</em></span></td>
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">comma (,)</span>
+<b>comma (,)</b>
 </div></td>
 <td><div>
 <span style="font-size:small;"><span style="font-size:small;">Spell out </span><em>comma</em><span style="font-size:small;"> when referring to a key or the punctuation mark.<br />
@@ -270,7 +270,7 @@ Capitalize </span><em>Comma</em> <span style="font-size:small;">when instructing
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Command</span>
+<b>Command</b>
 </div></td>
 <td><div>
 <span style="font-size:small;"><span style="font-size:small;">Capitalize. Use to refer to the </span><em>Command key</em> <span style="font-size:small;">on the Mac keyboard. Use the bitmap to show this key if possible. It isn't named on the keyboard.</span></span>
@@ -278,7 +278,7 @@ Capitalize </span><em>Comma</em> <span style="font-size:small;">when instructing
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Control</span>
+<b>Control</b>
 </div></td>
 <td><div>
 <span style="font-size:small;"><span style="font-size:small;">Capitalize. Use to refer to the </span><em>Control key</em> <span style="font-size:small;">on the Mac keyboard. </span></span>
@@ -286,7 +286,7 @@ Capitalize </span><em>Comma</em> <span style="font-size:small;">when instructing
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Ctrl</span>
+<b>Ctrl</b>
 </div></td>
 <td><div>
 <span style="font-size:small;"><span style="font-size:small;">Capitalize. Use to refer to the </span><em>Ctrl key.</em> <span style="font-size:small;">Don’t use for the Mac keyboard.</span></span>
@@ -294,7 +294,7 @@ Capitalize </span><em>Comma</em> <span style="font-size:small;">when instructing
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Del</span>
+<b>Del</b>
 </div></td>
 <td><div>
 <span style="font-size:small;"><span style="font-size:small;">Capitalize. Use to refer to the </span><em>Del key</em><span style="font-size:small;">. On the Mac keyboard only, use to refer to the <em>forward delete key.</em></span></span>
@@ -302,7 +302,7 @@ Capitalize </span><em>Comma</em> <span style="font-size:small;">when instructing
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Delete</span>
+<b>Delete</b>
 </div></td>
 <td><div>
 <span style="font-size:small;">Capitalize. Use to refer to the <em>back delete key</em> on the Mac keyboard.</span>
@@ -310,7 +310,7 @@ Capitalize </span><em>Comma</em> <span style="font-size:small;">when instructing
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">End</span>
+<b>End</b>
 </div></td>
 <td><div>
 <span style="font-size:small;"><span style="font-size:small;">Capitalize. Use to refer to the </span><em>End key.</em></span>
@@ -318,7 +318,7 @@ Capitalize </span><em>Comma</em> <span style="font-size:small;">when instructing
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Enter</span>
+<b>Enter</b>
 </div></td>
 <td><div>
 <span style="font-size:small;"><span style="font-size:small;">Capitalize. Use to refer to the </span><em>Enter key.</em> <span style="font-size:small;">On the Mac, use only when functionality requires it.</span></span>
@@ -326,7 +326,7 @@ Capitalize </span><em>Comma</em> <span style="font-size:small;">when instructing
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Esc</span>
+<b>Esc</b>
 </div></td>
 <td><div>
 <span style="font-size:small;"><span style="font-size:small;">Always use </span><em>Esc</em><span style="font-size:small;">, not </span><em>Escape</em><span style="font-size:small;">.</span></span>
@@ -334,13 +334,13 @@ Capitalize </span><em>Comma</em> <span style="font-size:small;">when instructing
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">F1–F12 </span>
+<b>F1–F12 </b>
 </div></td>
 <td><span style="font-size:small;">Capitalize the </span><em><span style="font-size:small;">F.</span></em> <span style="font-size:small;">Don't add a space between the </span><em><span style="font-size:small;">F</span></em> <span style="font-size:small;">and the number.</span></td>
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Forward</span>
+<b>Forward</b>
 </div></td>
 <td><div>
 <span style="font-size:small;">Capitalize. Use to refer to the </span><span style="font-size:small;"><em>Forward key</em></span><span style="font-size:small;">,</span> <em></em> <span style="font-size:small;">which performs the same action as the </span><span style="font-family:Segoe UI;font-size:small;">Forward button </span><span style="font-size:small;">in a browser.</span>
@@ -348,7 +348,7 @@ Capitalize </span><em>Comma</em> <span style="font-size:small;">when instructing
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Help</span>
+<b>Help</b>
 </div></td>
 <td><div>
 <span style="font-size:small;"><span style="font-size:small;">Use </span><em>the</em> <em>Help key</em><span style="font-size:small;"> only to refer to the key on the Mac keyboard.</span></span>
@@ -356,7 +356,7 @@ Capitalize </span><em>Comma</em> <span style="font-size:small;">when instructing
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">HELP key</span>
+<b>HELP key</b>
 </div></td>
 <td><div>
 <span style="font-size:small;"><span style="font-size:small;">Use </span><em>the HELP</em> <em>key</em> <span style="font-size:small;">to avoid confusion with </span>the Help button<em>.</em> Always i<span style="font-size:small;">nclude </span><em>the</em> <span style="font-size:small;">and </span><em>key.</em></span>
@@ -364,7 +364,7 @@ Capitalize </span><em>Comma</em> <span style="font-size:small;">when instructing
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Home</span>
+<b>Home</b>
 </div></td>
 <td><div>
 <span style="font-size:small;"><span style="font-size:small;">Capitalize. Use to refer to the </span><em>Home key.</em></span>
@@ -372,7 +372,7 @@ Capitalize </span><em>Comma</em> <span style="font-size:small;">when instructing
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">hyphen (-)</span>
+<b>hyphen (-)</b>
 </div></td>
 <td><div>
 <span style="font-size:small;"><span style="font-size:small;">Spell out </span><em>hyphen</em> <span style="font-size:small;">when referring to a key. Capitalize </span><em>Hyphen</em> when instructing a reader to select the key. Include the symbol in parentheses when needed for clarity.</span>
@@ -380,7 +380,7 @@ Capitalize </span><em>Comma</em> <span style="font-size:small;">when instructing
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Insert</span>
+<b>Insert</b>
 </div></td>
 <td><div>
 <span style="font-size:small;"><span style="font-size:small;">Capitalize. Use to refer to the </span><em>Insert key.</em></span>
@@ -388,7 +388,7 @@ Capitalize </span><em>Comma</em> <span style="font-size:small;">when instructing
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Lock clear</span>
+<b>Lock clear</b>
 </div></td>
 <td><div>
 <span style="font-size:small;"><span style="font-size:small;">Capitalize. Use to refer to the </span><em>Lock clear key</em><span style="font-size:small;">.</span></span>
@@ -396,7 +396,7 @@ Capitalize </span><em>Comma</em> <span style="font-size:small;">when instructing
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">minus sign (–)</span>
+<b>minus sign (–)</b>
 </div></td>
 <td><div>
 <span style="font-size:small;"><span style="font-size:small;">Spell out </span><em>minus sign</em> <span style="font-size:small;">when referring to a key. Use sentence capitalization (</span></span><em><span style="font-size:small;">Minus sign)</span></em> <span style="font-size:small;">when instructing a reader to select the key. Include the symbol in parentheses when needed for clarity. </span><span style="font-family:Segoe UI;font-size:small;"><br />
@@ -405,7 +405,7 @@ HTML code: </span><em><span style="font-family:Segoe UI;font-size:small;">&amp;#
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Num lock option</span>
+<b>Num lock option</b>
 </div></td>
 <td><div>
 <span style="font-size:small;"><span style="font-size:small;">Use sentence capitalization. Use to refer to the </span><em>Num lock option key</em><span style="font-size:small;"> on the Mac keyboard.</span></span>
@@ -413,7 +413,7 @@ HTML code: </span><em><span style="font-family:Segoe UI;font-size:small;">&amp;#
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">number sign (#), pound key, hashtag</span>
+<b>number sign (#), pound key, hashtag</b>
 </div></td>
 <td><div>
 <span style="font-size:small;"><span style="font-size:small;">Use </span><em># key</em><span style="font-size:small;"> to describe the key. </span></span>
@@ -425,7 +425,7 @@ HTML code: </span><em><span style="font-family:Segoe UI;font-size:small;">&amp;#
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">numeric keypad, keypad, numerical keypad, numeric keyboard</span>
+<b>numeric keypad, keypad, numerical keypad, numeric keyboard</b>
 </div></td>
 <td><div>
 <span style="font-size:small;"><span style="font-size:small;">Use </span><em>numeric keypad</em><span style="font-size:small;"> on first mention. Don’t use </span><em>keypad</em><span style="font-size:small;"> by itself unless there's no possibility of confusion with the keyboard. Don’t use </span><em>numerical keypad</em> or <em>numeric keyboard.</em> </span>
@@ -438,7 +438,7 @@ In general, don’t distinguish between the keyboard and the numeric keypad. If 
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">on-screen keyboard, keyboard display, soft keyboard, virtual keyboard, visual keyboard</span>
+<b>on-screen keyboard, keyboard display, soft keyboard, virtual keyboard, visual keyboard</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">Use to describe the keyboard representation on the screen that the customer touches to enter characters.<br />
@@ -448,7 +448,7 @@ In general, don’t distinguish between the keyboard and the numeric keypad. If 
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Page down, Page up</span>
+<b>Page down, Page up</b>
 </div></td>
 <td><div>
 <span style="font-size:small;"><span style="font-size:small;">Use sentence capitalization. Use to refer to the </span><em>Page up key</em> <span style="font-size:small;">and the </span><em>Page down key.</em></span>
@@ -456,7 +456,7 @@ In general, don’t distinguish between the keyboard and the numeric keypad. If 
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Pause</span>
+<b>Pause</b>
 </div></td>
 <td><div>
 <span style="font-size:small;"><span style="font-size:small;">Capitalize. Use to refer to the </span><em>Pause key.</em></span>
@@ -464,7 +464,7 @@ In general, don’t distinguish between the keyboard and the numeric keypad. If 
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">period (.)</span>
+<b>period (.)</b>
 </div></td>
 <td><div>
 <span style="font-size:small;"><span style="font-size:small;">Spell out </span><em>period</em><span style="font-size:small;"> when referring to a key. Capitalize </span><em>Period</em> <span style="font-size:small;">when instructing a reader to select the key. Include the symbol in parentheses when needed for clarity.</span></span>
@@ -472,7 +472,7 @@ In general, don’t distinguish between the keyboard and the numeric keypad. If 
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">plus sign (+)</span>
+<b>plus sign (+)</b>
 </div></td>
 <td><div>
 <span style="font-size:small;"><span style="font-size:small;">Spell out </span><em>plus sign</em><span style="font-size:small;"> when referring to a key. Use sentence capitalization (</span><em>Plus sign)</em><span style="font-size:small;"> when instructing a reader to select the key. Include the symbol in parentheses when needed for clarity. </span></span>
@@ -480,7 +480,7 @@ In general, don’t distinguish between the keyboard and the numeric keypad. If 
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Print screen </span>
+<b>Print screen </b>
 </div></td>
 <td><div>
 <span style="font-size:small;"><span style="font-size:small;">Use sentence capitalization. Use to refer to the </span><em>Print screen key.</em></span>
@@ -488,7 +488,7 @@ In general, don’t distinguish between the keyboard and the numeric keypad. If 
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Reset</span>
+<b>Reset</b>
 </div></td>
 <td><div>
 <span style="font-size:small;"><span style="font-size:small;">Capitalize. Use to refer to the </span><em>Reset</em><span style="font-size:small;"> <em>key</em>.</span></span>
@@ -496,7 +496,7 @@ In general, don’t distinguish between the keyboard and the numeric keypad. If 
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Return</span>
+<b>Return</b>
 </div></td>
 <td><div>
 <span style="font-size:small;"><span style="font-size:small;">Capitalize. Use to refer to the </span><em>Return key</em> on <span style="font-size:small;">the Mac keyboard.</span></span>
@@ -504,7 +504,7 @@ In general, don’t distinguish between the keyboard and the numeric keypad. If 
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Scroll lock </span>
+<b>Scroll lock </b>
 </div></td>
 <td><div>
 <span style="font-size:small;"><span style="font-size:small;">Use sentence capitalization. Use to refer to the </span><em>Scroll lock key.</em></span>
@@ -512,7 +512,7 @@ In general, don’t distinguish between the keyboard and the numeric keypad. If 
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Select</span>
+<b>Select</b>
 </div></td>
 <td><div>
 <span style="font-size:small;"><span style="font-size:small;">Capitalize. Use to refer to the </span><em>Select</em> <span style="font-size:small;"><em>key</em>.</span></span>
@@ -520,7 +520,7 @@ In general, don’t distinguish between the keyboard and the numeric keypad. If 
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Shift</span>
+<b>Shift</b>
 </div></td>
 <td><div>
 <span style="font-size:small;"><span style="font-size:small;">Capitalize. Use to refer to the </span><em>Shift key.</em></span>
@@ -528,7 +528,7 @@ In general, don’t distinguish between the keyboard and the numeric keypad. If 
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Spacebar </span>
+<b>Spacebar </b>
 </div></td>
 <td><div>
 <span style="font-size:small;"><span style="font-size:small;">Capitalize. Use to refer to </span>the <em>Spacebar.</em> <span style="font-size:small;">Always precede with </span><em>the</em> <span style="font-size:small;">except in procedures, key combinations, and key sequences.</span></span>
@@ -536,7 +536,7 @@ In general, don’t distinguish between the keyboard and the numeric keypad. If 
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Tab </span>
+<b>Tab </b>
 </div></td>
 <td><div>
 <span style="font-size:small;"><span style="font-size:small;">Capitalize. Use to refer to </span>the <em>Tab key.</em> <span style="font-size:small;">Always use </span><em>the</em><span style="font-size:small;"> and </span><em>key</em><span style="font-size:small;"> except in key combinations and key sequences.</span></span>
@@ -544,7 +544,7 @@ In general, don’t distinguish between the keyboard and the numeric keypad. If 
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Windows logo key</span>
+<b>Windows logo key</b>
 </div></td>
 <td><div>
 <span style="font-size:small;"><span style="font-size:small;">Capitalize </span><em>Windows.</em> <span style="font-size:small;">Use to refer to the </span><em>Windows logo key.</em></span>

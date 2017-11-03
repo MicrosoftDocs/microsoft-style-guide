@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -57,141 +57,141 @@ Example 1,024 MB
 <table>
 <tbody>
 <tr class="odd">
-<td><span style="font-family: Segoe UI Semibold; font-size: small;">Term</span></td>
-<td><span style="font-family: Segoe UI Semibold; font-size: small;">Abbreviation</span></td>
+<td><b>Term</b></td>
+<td><b>Abbreviation</b></td>
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family: Segoe UI Semibold; font-size: small;">bits per pixel</span>
+<b>bits per pixel</b>
 </div></td>
 <td><div>
-<span style="font-family: Segoe UI; font-size: small;">bpp</span>
+bpp
 </div></td>
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family: Segoe UI Semibold; font-size: small;">bits per second</span>
+<b>bits per second</b>
 </div></td>
 <td><div>
-<span style="font-family: Segoe UI; font-size: small;">bps</span>
+bps
 </div></td>
 </tr>
 <tr class="even">
-<td><span style="font-family: Segoe UI Semibold; font-size: small;">byte</span></td>
-<td><em><span style="font-size: small;">None</span></em></td>
+<td><b>byte</b></td>
+<td><em>None</em></td>
 </tr>
 <tr class="odd">
-<td><span style="font-family: Segoe UI Semibold; font-size: small;">exabyte</span></td>
-<td><span style="font-family: Segoe UI; font-size: small;">EB</span></td>
+<td><b>exabyte</b></td>
+<td>EB</td>
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family: Segoe UI Semibold; font-size: small;">gigabit</span>
+<b>gigabit</b>
 </div></td>
 <td><div>
-<span style="font-family: Segoe UI; font-size: small;"><em>None</em></span>
-</div></td>
-</tr>
-<tr class="odd">
-<td><div>
-<span style="font-family: Segoe UI Semibold; font-size: small;">gigabits per second</span>
-</div></td>
-<td><div>
-<span style="font-family: Segoe UI; font-size: small;">Gbps</span>
-</div></td>
-</tr>
-<tr class="even">
-<td><div>
-<span style="font-family: Segoe UI Semibold; font-size: small;">gigabyte</span>
-</div></td>
-<td><div>
-<span style="font-family: Segoe UI; font-size: small;">GB</span>
+<em>None</em>
 </div></td>
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family: Segoe UI Semibold; font-size: small;">kilobit</span>
+<b>gigabits per second</b>
 </div></td>
 <td><div>
-<span style="font-family: Segoe UI; font-size: small;"><em>None</em></span>
-</div></td>
-</tr>
-<tr class="even">
-<td><div>
-<span style="font-family: Segoe UI Semibold; font-size: small;">kilobits per second</span>
-</div></td>
-<td><div>
-<span style="font-family: Segoe UI; font-size: small;">Kbps</span>
-</div></td>
-</tr>
-<tr class="odd">
-<td><span style="font-family: Segoe UI Semibold; font-size: small;">kilobyte</span></td>
-<td><span style="font-family: Segoe UI; font-size: small;">KB</span></td>
-</tr>
-<tr class="even">
-<td><span style="font-family: Segoe UI Semibold; font-size: small;">kilobytes per second</span></td>
-<td><span style="font-family: Segoe UI; font-size: small;">KBps</span></td>
-</tr>
-<tr class="odd">
-<td><div>
-<span style="font-family: Segoe UI Semibold; font-size: small;">megabit</span>
-</div></td>
-<td><div>
-<span style="font-family: Segoe UI; font-size: small;"><em>None</em></span>
+Gbps
 </div></td>
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family: Segoe UI Semibold; font-size: small;">megabits per second</span>
+<b>gigabyte</b>
 </div></td>
 <td><div>
-<span style="font-family: Segoe UI; font-size: small;">Mbps</span>
+GB
 </div></td>
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family: Segoe UI Semibold; font-size: small;">megabyte</span>
+<b>kilobit</b>
 </div></td>
 <td><div>
-<span style="font-family: Segoe UI; font-size: small;">MB</span>
+<em>None</em>
 </div></td>
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family: Segoe UI Semibold; font-size: small;">megabytes per second</span>
+<b>kilobits per second</b>
 </div></td>
 <td><div>
-<span style="font-family: Segoe UI; font-size: small;">MBps</span>
+Kbps
+</div></td>
+</tr>
+<tr class="odd">
+<td><b>kilobyte</b></td>
+<td>KB</td>
+</tr>
+<tr class="even">
+<td><b>kilobytes per second</b></td>
+<td>KBps</td>
+</tr>
+<tr class="odd">
+<td><div>
+<b>megabit</b>
+</div></td>
+<td><div>
+<em>None</em>
+</div></td>
+</tr>
+<tr class="even">
+<td><div>
+<b>megabits per second</b>
+</div></td>
+<td><div>
+Mbps
 </div></td>
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family: Segoe UI Semibold; font-size: small;">petabyte</span>
+<b>megabyte</b>
 </div></td>
 <td><div>
-<span style="font-family: Segoe UI; font-size: small;">PB</span>
+MB
+</div></td>
+</tr>
+<tr class="even">
+<td><div>
+<b>megabytes per second</b>
+</div></td>
+<td><div>
+MBps
+</div></td>
+</tr>
+<tr class="odd">
+<td><div>
+<b>petabyte</b>
+</div></td>
+<td><div>
+PB
 </div></td>
 </tr>
 <tr class="even">
 <td><div>
 <div>
-<span style="font-family: Segoe UI Semibold; font-size: small;">terabyte</span>
+<b>terabyte</b>
 </div>
 </div></td>
 <td><div>
 <div>
-<span style="font-family: Segoe UI; font-size: small;">TB</span>
+TB
 </div>
 </div></td>
 </tr>
 <tr class="odd">
 <td><div>
 <div>
-<span style="font-family: Segoe UI Semibold; font-size: small;">zettabyte</span>
+<b>zettabyte</b>
 </div>
 </div></td>
 <td><div>
-<span style="font-family: Segoe UI; font-size: small;">ZB</span>
+ZB
 </div></td>
 </tr>
 </tbody>

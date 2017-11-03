@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -48,12 +48,12 @@ Use these verbs to talk about using devices and peripheral devices:
 <table>
 <tbody>
 <tr class="odd">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">Term</span></td>
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">Usage</span></td>
+<td><b>Term</b></td>
+<td><b>Usage</b></td>
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">device, mobile device</span>
+<b>device, mobile device</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">Use </span><em><span style="font-family:Segoe UI;font-size:small;">device</span></em><span style="font-family:Segoe UI;font-size:small;"> to refer collectively to all types of computers, phones, and other devices. </span><br />
@@ -65,7 +65,7 @@ It’s OK to modify </span><em>device</em> <span style="font-family:Segoe UI;fon
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">computer, PC</span>
+<b>computer, PC</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">Use </span><em><span style="font-family:Segoe UI;font-size:small;">computer</span></em><span style="font-family:Segoe UI;font-size:small;"> in the uncommon event that you need to talk about computing devices other than phones, wearable devices, and gaming consoles.</span><br />
@@ -79,7 +79,7 @@ Don’t use </span><em><span style="font-family:Segoe UI;font-size:small;">mobil
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">phone, mobile phone, smartphone</span>
+<b>phone, mobile phone, smartphone</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">Use </span><em><span style="font-family:Segoe UI;font-size:small;">phone</span></em><span style="font-family:Segoe UI;font-size:small;"> most of the time. </span><br />
@@ -94,7 +94,7 @@ Don't use </span><em>wireless phone,</em> <em>cell phone,</em> <span style="font
 <tr class="odd">
 <td><div>
 <div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">tablet, laptop</span>
+<b>tablet, laptop</b>
 </div>
 </div></td>
 <td><div>
@@ -106,7 +106,7 @@ Don't use </span><em>wireless phone,</em> <em>cell phone,</em> <span style="font
 <tr class="even">
 <td><div>
 <div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">wearable device, fitness band</span>
+<b>wearable device, fitness band</b>
 </div>
 </div></td>
 <td><div>
@@ -127,13 +127,13 @@ Use the following terms only when you need to be more specific than you can be b
 <table>
 <tbody>
 <tr class="odd">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">Term</span></td>
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">Usage</span></td>
+<td><b>Term</b></td>
+<td><b>Usage</b></td>
 </tr>
 <tr class="even">
 <td><div>
 <div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">handheld device</span>
+<b>handheld device</b>
 </div>
 </div></td>
 <td><div>
@@ -154,7 +154,7 @@ Don’t use </span><em><span style="font-family:Segoe UI;font-size:small;">handh
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">slate</span>
+<b>slate</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">Don’t use. </span>
@@ -162,7 +162,7 @@ Don’t use </span><em><span style="font-family:Segoe UI;font-size:small;">handh
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">notebook</span>
+<b>notebook</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">Don’t use. </span>
@@ -170,7 +170,7 @@ Don’t use </span><em><span style="font-family:Segoe UI;font-size:small;">handh
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">machine</span>
+<b>machine</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">Use only to describe both physical computers and virtual machines in content about virtualization. </span>
@@ -179,7 +179,7 @@ Don’t use </span><em><span style="font-family:Segoe UI;font-size:small;">handh
 <tr class="even">
 <td><div>
 <div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">client or server, box</span>
+<b>client or server, box</b>
 </div>
 </div></td>
 <td><div>
@@ -209,25 +209,25 @@ In general, use the most generic term that describes a peripheral device or hard
 <tbody>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Term</span>
+<b>Term</b>
 </div></td>
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">Usage</span></td>
+<td><b>Usage</b></td>
 </tr>
 <tr class="even">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">adapter</span></td>
+<td><b>adapter</b></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">Use instead of <em>adaptor.</em></span>
 </div></td>
 </tr>
 <tr class="odd">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">disc</span></td>
+<td><b>disc</b></td>
 <td><span style="font-family:Segoe UI;font-size:small;"><span style="font-family:Segoe UI;font-size:small;">Use </span><em>disc,</em> not <em>disk,</em> <span style="font-family:Segoe UI;font-size:small;">to refer to a CD or DVD. </span></span><span style="font-family:Segoe UI;font-size:small;"><span style="font-family:Segoe UI;font-size:small;"><br />
 <br />
 Don't use <em>disk,</em> </span><em>fixed disk, hard disk,</em> <span style="font-family:Segoe UI;font-size:small;">or </span><em>disk drive.</em> Instead, use <em>hard drive</em> to refer to the drive on a PC where programs are typically stored.</span></td>
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">display, screen, monitor</span>
+<b>display, screen, monitor</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">Use </span><em><span style="font-family:Segoe UI;font-size:small;">display</span></em><span style="font-family:Segoe UI;font-size:small;"> as a general term for any visual output device, including the built-in display on a computing device and an external monitor or projector.</span><br />
@@ -245,7 +245,7 @@ Use </span><em><span style="font-family:Segoe UI;font-size:small;">monitor</span
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">drive</span>
+<b>drive</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">Avoid talking about drives when you can. It’s enough to prompt customers to save a file, picture, song, and so on. </span><br />
@@ -276,7 +276,7 @@ Use </span><em><span style="font-family:Segoe UI;font-size:small;">drive C</span
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">input device, mouse, pen, controller, joystick, touchpad, trackball</span>
+<b>input device, mouse, pen, controller, joystick, touchpad, trackball</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">In general, don’t talk about specific input devices. Most of the time, talk about how the customer interacts with the app or game by selecting, choosing, and so on. To learn more, see </span><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=26472"><span style="font-family:Segoe UI;font-size:small;">Describing interactions with UI</span></a><span style="font-family:Segoe UI;font-size:small;">.</span><br />
@@ -290,12 +290,12 @@ When you need to refer to a specific input device made by Microsoft, refer to yo
 </div></td>
 </tr>
 <tr class="odd">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">network adapter</span></td>
+<td><b>network adapter</b></td>
 <td><span style="font-family:Segoe UI;font-size:small;">Use instead of </span><em><span style="font-family:Segoe UI;font-size:small;">network card</span></em><span style="font-family:Segoe UI;font-size:small;"> to describe hardware that supports connecting a computer to a network.</span></td>
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">pen, stylus</span>
+<b>pen, stylus</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">Use </span><em><span style="font-family:Segoe UI;font-size:small;">tablet pen</span></em> <span style="font-family:Segoe UI;font-size:small;">on first mention, and </span><em><span style="font-family:Segoe UI;font-size:small;">pen</span></em><span style="font-family:Segoe UI;font-size:small;"> thereafter. If you're talking specifically about Surface Pen, use <em>Microsoft</em> </span><em><span style="font-family:Segoe UI;font-size:small;">Surface Pen</span></em><span style="font-family:Segoe UI;font-size:small;"> on the first mention. </span><br />
@@ -308,7 +308,7 @@ Don’t use </span><em><span style="font-family:Segoe UI;font-size:small;">stylu
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">touchscreen</span>
+<b>touchscreen</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">One word. Use sparingly. Most of the time, talk about how the customer interacts with the app or product by selecting, choosing, and so on. See </span><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=26472"><span style="font-family:Segoe UI;font-size:small;">Describing interactions with UI</span></a><span style="font-family:Segoe UI;font-size:small;"> to learn more.</span>
@@ -317,7 +317,7 @@ Don’t use </span><em><span style="font-family:Segoe UI;font-size:small;">stylu
 <tr class="even">
 <td><div>
 <div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">USB</span>
+<b>USB</b>
 </div>
 </div></td>
 <td><div>

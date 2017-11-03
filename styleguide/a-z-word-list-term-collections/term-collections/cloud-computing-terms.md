@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -28,8 +28,8 @@ information about creating new terms or using emerging terminology, see [Use tec
 <table>
 <tbody>
 <tr class="odd">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">Term</span></td>
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">Usage</span></td>
+<td><b>Term</b></td>
+<td><b>Usage</b></td>
 </tr>
 <tr class="even">
 <td><div>
@@ -40,7 +40,7 @@ information about creating new terms or using emerging terminology, see [Use tec
 </div></td>
 </tr>
 <tr class="odd">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">cloud</span></td>
+<td><b>cloud</b></td>
 <td><span style="line-height:107%;font-family:Segoe UI;font-size:small;"><span style="font-family:Segoe UI;font-size:small;">Don’t capitalize. Don’t use </span><em>Microsoft Cloud</em> <span style="font-family:Segoe UI;font-size:small;">or </span><em>the Cloud.<br />
 <br />
 </em></span><span style="line-height:107%;font-family:Segoe UI;font-size:small;"><span style="font-family:Segoe UI;font-size:small;">Use </span><em>cloud</em><span style="font-family:Segoe UI;font-size:small;"> mostly as an adjective. Use sparingly as a noun </span><em>(the cloud).</em></span><br />
@@ -48,11 +48,11 @@ information about creating new terms or using emerging terminology, see [Use tec
 Don’t use </span><em>cloud</em><span style="font-family:Segoe UI;font-size:small;"> interchangeably with </span><em>internet</em><span style="font-family:Segoe UI;font-size:small;"> or </span><em>web</em><span style="font-family:Segoe UI;font-size:small;">.</span></span></td>
 </tr>
 <tr class="even">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">cloud platform, cloud services</span></td>
+<td><b>cloud platform, cloud services</b></td>
 <td><span style="font-family:Segoe UI;font-size:small;">Use <em>cloud platform</em> only in content for a technical audience, such as content about Azure. In content for a general audience, just refer to cloud services.</span></td>
 </tr>
 <tr class="odd">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">community cloud</span></td>
+<td><b>community cloud</b></td>
 <td><span style="font-family:Segoe UI;font-size:small;"><span style="font-family:Segoe UI;font-size:small;">Never use. Use</span> <em>hybrid cloud</em><span style="font-family:Segoe UI;font-size:small;">, </span><em>private cloud</em><span style="font-family:Segoe UI;font-size:small;">, or </span><em>hosted private cloud</em><span style="font-family:Segoe UI;font-size:small;"> instead.</span></span></td>
 </tr>
 <tr class="even">
@@ -64,31 +64,31 @@ Don’t use </span><em>cloud</em><span style="font-family:Segoe UI;font-size:sma
 <span style="font-family:&#39;Segoe UI&#39;;font-size:small;">Don’t hyphenate <em>conversations as a platform</em> when used as a modifier. </span></td>
 </tr>
 <tr class="odd">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">dynamic service capacity</span></td>
+<td><b>dynamic service capacity</b></td>
 <td><span style="font-family:Segoe UI;font-size:small;">Don't use. Use </span><em><span style="font-family:Segoe UI;font-size:small;">elastic service capacity</span></em> <span style="font-family:Segoe UI;font-size:small;">instead. </span></td>
 </tr>
 <tr class="even">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">Dynamics CRM</span></td>
+<td><b>Dynamics CRM</b></td>
 <td><span style="font-family:Segoe UI;font-size:small;"><span style="font-family:Segoe UI;font-size:small;">See the </span><a href="https://microsoft.sharepoint.com/teams/crmstylecenter/Pages/Product-Names.aspx">Microsoft Dynamics CRM Style Center</a><span style="font-size:small;">. (This style guide requires Microsoft network access.)</span></span></td>
 </tr>
 <tr class="odd">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">elastic service capacity</span></td>
+<td><b>elastic service capacity</b></td>
 <td><span style="font-family:Segoe UI;font-size:small;">Use to describe the flexible allocation of computing resources over the internet as demand changes. Define on first mention for audiences that may not be familiar with the concept.</span></td>
 </tr>
 <tr class="even">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">hosted service</span></td>
+<td><b>hosted service</b></td>
 <td><span style="font-family:Segoe UI;font-size:small;">Use to describe a service, an IT solution, or an application that's hosted by a service provider and made available to customers over the internet.</span></td>
 </tr>
 <tr class="odd">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">hosting provider, hoster</span></td>
+<td><b>hosting provider, hoster</b></td>
 <td><span style="color:black;line-height:107%;font-family:Segoe UI;font-size:small;"><span style="font-family:Segoe UI;font-size:small;">It’s OK to use </span><em>cloud hosting provider</em><span style="font-family:Segoe UI;font-size:small;"> and </span><em>web hosting provider,</em><span style="font-family:Segoe UI;font-size:small;"> if necessary, to distinguish cloud service providers from web hosts. Don’t use </span><em>hoster</em><span style="font-family:Segoe UI;font-size:small;">.</span></span></td>
 </tr>
 <tr class="even">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">hybrid cloud</span></td>
+<td><b>hybrid cloud</b></td>
 <td><span style="font-family:Segoe UI;font-size:small;">OK to use for technical audiences who are comfortable with cloud technology, but define on the first mention. For other audiences, just talk about a hybrid model</span><span style="color:black;line-height:107%;font-family:Segoe UI;font-size:small;">.</span></td>
 </tr>
 <tr class="odd">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">infrastructure as a service (IaaS)</span></td>
+<td><b>infrastructure as a service (IaaS)</b></td>
 <td><span style="font-family:Segoe UI;font-size:small;">Use for technical audiences only.</span><br />
 <span style="font-family:Segoe UI;font-size:small;"><br />
 Spell out on the first mention. After that, it’s OK to use <em>IaaS.</em> </span><br />
@@ -100,7 +100,7 @@ Don’t hyphenate as a modifier, but include the abbreviated form in parentheses
 </span><span style="color:#000000;line-height:107%;font-family:Segoe UI Semibold;font-size:small;">Note</span><span style="color:black;line-height:107%;font-family:Segoe UI;font-size:small;"> Don’t compare IaaS with common utilities, such as power utilities.</span></td>
 </tr>
 <tr class="even">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">IT as a service (ITaaS)</span></td>
+<td><b>IT as a service (ITaaS)</b></td>
 <td><span style="font-family:Segoe UI;font-size:small;"><span style="font-family:Segoe UI;font-size:small;">Use for technical or business-decision-maker audiences only.</span><br />
 <span style="font-family:Segoe UI;font-size:small;"><br />
 In content for a general audience, refer to the specific type of service, such as applying software updates, in a cloud-computing model.</span></span><br />
@@ -134,11 +134,11 @@ Always lowercase </span><em><span style="font-family:Segoe UI;font-size:small;">
 After the first mention, it’s OK to use </span><em>cloud services from Microsoft</em> <span style="font-family:Segoe UI;font-size:small;">or </span><em>cloud services offered by Microsoft.</em></span></td>
 </tr>
 <tr class="even">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">Office 365</span></td>
+<td><b>Office 365</b></td>
 <td><span style="font-family:Segoe UI;font-size:small;background-color:#ffffff;"><span style="font-family:Segoe UI;font-size:small;background-color:#ffffff;">See the </span><a href="https://microsoft.sharepoint.com/teams/LaunchingOfficeNext/_layouts/15/start.aspx#/Lists/SKU%20Naming/AllItems.aspx">Office 365 SKU list</a><span style="font-family:Segoe UI;font-size:small;background-color:#ffffff;">. (This page requires Microsoft network access.)</span></span></td>
 </tr>
 <tr class="odd">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">on-premises, off-premises</span></td>
+<td><b>on-premises, off-premises</b></td>
 <td><span style="color:black;line-height:107%;font-family:Segoe UI;font-size:small;"><span style="font-family:Segoe UI;font-size:small;">Hyphenate in all positions. </span><em><span style="font-family:&#39;Segoe UI&#39;;font-size:small;"><br />
 <span style="font-family:Segoe UI;font-size:small;"><br />
 Premises</span></span></em><span style="font-family:Segoe UI;font-size:small;"> is plural. Don’t use </span><em>on-premise</em><span style="font-family:Segoe UI;font-size:small;">, </span><em>off-premise</em><span style="font-family:&#39;Segoe UI&#39;;font-size:small;"><span style="font-family:Segoe UI;font-size:small;">. </span><br />
@@ -156,18 +156,18 @@ Don’t capitalize as </span><em><span style="font-family:Segoe UI;font-size:sma
 Don’t hyphenate as a modifier, but include the abbreviated form in parentheses. </span></td>
 </tr>
 <tr class="odd">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">private cloud, hosted private cloud, public cloud</span></td>
+<td><b>private cloud, hosted private cloud, public cloud</b></td>
 <td><span style="font-family:Segoe UI;font-size:small;">Define these terms on the first mention.</span></td>
 </tr>
 <tr class="even">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">service-oriented architecture</span></td>
+<td><b>service-oriented architecture</b></td>
 <td><span style="font-family:Segoe UI;font-size:small;">Hyphenate. </span><br />
 <span style="color:black;line-height:107%;font-family:Segoe UI;font-size:small;"><span style="font-family:Segoe UI;font-size:small;"><br />
 Spell out on the first mention. After that, it’s OK to use the acronym </span><em>SOA</em><span style="font-family:Segoe UI;font-size:small;">.</span></span></td>
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">software as a service (SaaS)</span>
+<b>software as a service (SaaS)</b>
 </div></td>
 <td><span style="font-family:Segoe UI;font-size:small;">Spell out on first mention. After that, it’s OK to use </span><em><span style="font-family:Segoe UI;font-size:small;">SaaS</span></em><span style="font-family:Segoe UI;font-size:small;"> with technology industry audiences. </span><br />
 <span style="font-family:Segoe UI;font-size:small;"><br />

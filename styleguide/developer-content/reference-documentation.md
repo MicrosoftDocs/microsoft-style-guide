@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -53,33 +53,33 @@ depending on the language, product, or technology being documented.
 <table>
 <tbody>
 <tr class="odd">
-<td><span style="font-family: Segoe UI Semibold; font-size: small;">Section</span></td>
-<td><span style="font-family: Segoe UI Semibold; font-size: small;">Contains</span></td>
+<td><b>Section</b></td>
+<td><b>Contains</b></td>
 </tr>
 <tr class="even">
-<td><span style="font-family: Segoe UI Semibold; font-size: small;">Description</span></td>
-<td><span style="font-family: Segoe UI; font-size: small;">A concise sentence or two describing the element. If possible, explain what the element does or represents without repeating the element name. </span><br />
+<td><b>Description</b></td>
+<td>A concise sentence or two describing the element. If possible, explain what the element does or represents without repeating the element name. <br />
 <span style="color: rgb(0, 0, 0); font-family: Segoe UI; font-size: small;">Example </span><br />
-<span style="font-family: Segoe UI Semibold; font-size: small;">Control.AllowDrop</span> <span style="font-family: Segoe UI; font-size: small;"><span style="font-size: small;">Gets or sets a value that indicates whether the control can accept data the user drags onto it.</span></span> <span style="font-family: &quot;Segoe UI Light&quot;,sans-serif; font-size: small;"></span></td>
+<b>Control.AllowDrop</b> Gets or sets a value that indicates whether the control can accept data the user drags onto it. <span style="font-family: &quot;Segoe UI Light&quot;,sans-serif; font-size: small;"></span></td>
 </tr>
 <tr class="odd">
 <td><span style="font-family: Segoe UI Semibold; font-size: small; mso-bidi-font-size: 11.0pt; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">Declaration/Syntax</span></td>
 <td><span style="font-family: Segoe UI; font-size: small; mso-bidi-font-size: 11.0pt; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">The code signature that defines the element. This section might also provide usage syntax. If the technology can be used with multiple programming languages, provide syntax for each language</span><span style="font-family: &quot;Segoe UI Light&quot;,sans-serif; font-size: small; mso-bidi-font-size: 11.0pt; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">.</span></td>
 </tr>
 <tr class="even">
-<td><span style="font-family: Segoe UI Semibold; font-size: small;">Parameters</span></td>
-<td><span style="font-size: small;"><span style="font-size: small;">If the element has parameters, provide a description of each parameter and its data type. If appropriate, indicate whether the parameter is required or optional and whether it represents input or output. Provide as much useful detail as possible. Don’t just repeat the words in the parameter name or the data type.</span><br />
-</span> <span style="color: rgb(0, 0, 0); font-size: small;">Examples</span><br />
-<span style="font-size: small;"><em>visible</em> </span><span style="font-size: small;"><br />
-<span style="font-size: small;">Type: System.Boolean </span></span><strong><span style="font-size: small;"><br />
-</span></strong><span style="font-size: small;"><span style="font-family: Segoe UI Semibold; font-size: small;">true</span></span><span style="font-size: small;"> to specify the box is rendered; </span><span style="font-family: Segoe UI Semibold; font-size: small;">false</span><span style="font-size: small;"> to specify it's not rendered</span>
+<td><b>Parameters</b></td>
+<td>If the element has parameters, provide a description of each parameter and its data type. If appropriate, indicate whether the parameter is required or optional and whether it represents input or output. Provide as much useful detail as possible. Don’t just repeat the words in the parameter name or the data type.<br />
+ <span style="color: rgb(0, 0, 0); font-size: small;">Examples</span><br />
+<em>visible</em> <br />
+Type: System.Boolean <strong><br />
+</strong><b>true</b> to specify the box is rendered; <b>false</b> to specify it's not rendered
 <p></p>
 <em><span style="font-family: &quot;Segoe UI Light&quot;,sans-serif; font-size: small;">Input</span></em> <span style="font-family: &quot;Segoe UI Light&quot;,sans-serif; font-size: small;"><br />
-</span><span style="font-family: Segoe UI; font-size: small;"><span style="font-size: small;">Type: System.String </span><br />
-<span style="font-size: small;">The text to convert</span></span></td>
+</span>Type: System.String <br />
+The text to convert</td>
 </tr>
 <tr class="odd">
-<td><span style="font-family: Segoe UI Semibold; font-size: small;">Return value</span></td>
+<td><b>Return value</b></td>
 <td><span style="font-family: Segoe UI; font-size: small; mso-bidi-font-size: 11.0pt; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">If the element returns a value, describe the value and information about its data type. If the value is a Boolean that indicates the presence of a condition, describe the condition.</span></td>
 </tr>
 <tr class="even">
@@ -92,30 +92,30 @@ depending on the language, product, or technology being documented.
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family: Segoe UI Semibold; font-size: small;">Permissions</span>
+<b>Permissions</b>
 </div></td>
 <td><div>
 <span style="font-family: Segoe UI; font-size: small; mso-bidi-font-size: 11.0pt; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">Security permissions that apply to the element, if required.</span>
 </div></td>
 </tr>
 <tr class="odd">
-<td><span style="font-family: Segoe UI Semibold; font-size: small;">Remarks</span></td>
+<td><b>Remarks</b></td>
 <td><span style="font-family: Segoe UI; font-size: small; mso-bidi-font-size: 11.0pt; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">Additional information about the element and important details that may not be obvious from its syntax, parameters, or return value. For example, you might explain what the element does in more detail, compare it with similar elements, and identify potential issues in its use.</span></td>
 </tr>
 <tr class="even">
-<td><span style="font-family: Segoe UI Semibold; font-size: small;">Example</span></td>
+<td><b>Example</b></td>
 <td><span style="font-family: Segoe UI; font-size: small; mso-bidi-font-size: 11.0pt; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">A code example that illustrates how to use the programming element. For more information about writing useful code examples, see </span><span style="font-family: &quot;Segoe UI Light&quot;,sans-serif; font-size: 10pt; mso-bidi-font-size: 11.0pt; mso-fareast-font-family: Calibri; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA; mso-fareast-theme-font: minor-latin; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-theme-font: minor-bidi;"><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=28719"><span style="font-family: Segoe UI; font-size: small; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-bidi-font-family: &quot;Segoe UI Light&quot;;">Code examples</span></a></span><span style="font-family: Segoe UI; font-size: small; mso-bidi-font-size: 11.0pt; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">.</span></td>
 </tr>
 <tr class="odd">
-<td><span style="font-family: Segoe UI Semibold; font-size: small;">Requirements</span></td>
+<td><b>Requirements</b></td>
 <td><span style="font-family: Segoe UI; font-size: small; mso-bidi-font-size: 11.0pt; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">Language or platform requirements for using the element.</span></td>
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family: Segoe UI Semibold; font-size: small;">See also</span>
+<b>See also</b>
 </div></td>
 <td><div>
-<span style="font-size: small;"></span><span style="font-family: Segoe UI; font-size: small; mso-bidi-font-size: 11.0pt; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">References or links to more information about how to use the element. References or links to related elements.</span><span style="font-size: small;"></span>
+<span style="font-family: Segoe UI; font-size: small; mso-bidi-font-size: 11.0pt; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">References or links to more information about how to use the element. References or links to related elements.</span>
 </div></td>
 </tr>
 </tbody>

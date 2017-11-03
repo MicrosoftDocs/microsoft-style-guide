@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -24,8 +24,8 @@ Exception It’s OK to use *etc.,* in situations where space is limited. Otherwi
 <table>
 <tbody>
 <tr class="odd">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">Use this</span></td>
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">Instead of this</span></td>
+<td><b>Use this</b></td>
+<td><b>Instead of this</b></td>
 </tr>
 <tr class="even">
 <td><span style="font-family:Segoe UI;font-size:small;">for example</span></td>

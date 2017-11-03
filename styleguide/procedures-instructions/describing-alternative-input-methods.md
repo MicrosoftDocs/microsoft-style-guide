@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -56,12 +56,12 @@ Use *tap* and *double-tap* instead of *click* and *double-click* when writing co
 <table>
 <tbody>
 <tr class="odd">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">Term</span></td>
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">Usage</span></td>
+<td><b>Term</b></td>
+<td><b>Usage</b></td>
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">tap</span>
+<b>tap</b>
 </div></td>
 <td><div>
 <span style="font-size:small;">Use to describe selecting a button, icon, or other element on the screen with a finger or the pen by tapping it once. Don’t use </span><em><span style="font-size:small;">tap on.</span></em>
@@ -69,7 +69,7 @@ Use *tap* and *double-tap* instead of *click* and *double-click* when writing co
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">double-tap</span>
+<b>double-tap</b>
 </div></td>
 <td><div>
 <span style="font-size:small;">Use to describe selecting an item by tapping twice in rapid succession. Hyphenate. Don’t use </span><em><span style="font-size:small;">double-tap on.</span></em>
@@ -77,7 +77,7 @@ Use *tap* and *double-tap* instead of *click* and *double-click* when writing co
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">tap and hold</span>
+<b>tap and hold</b>
 </div></td>
 <td><div>
 <span style="font-size:small;">Use only </span><span style="font-size:small;"><span style="font-size:small;">if the app requires it to complete a specific interaction. Don’t use </span><em>touch and hold</em><span style="font-size:small;">.</span></span>
@@ -85,7 +85,7 @@ Use *tap* and *double-tap* instead of *click* and *double-click* when writing co
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">pan</span>
+<b>pan</b>
 </div></td>
 <td><div>
 <span style="font-size:small;">Use to describe moving the screen in multiple directions at a controlled rate, as you would </span><em><span style="font-size:small;">pan</span></em><span style="font-size:small;"> a camera to see different views. For contact gestures, use <em>pan</em> to refer to moving a finger, hand, or pen on the device surface to move through screens or menus at a controlled rate, rather than quickly skipping through content using the flick gesture. Don’t use </span><em><span style="font-size:small;">drag</span></em><span style="font-size:small;"> or </span><em><span style="font-size:small;">scroll</span></em><span style="font-size:small;"> as a synonym for </span><em><span style="font-size:small;">pan</span></em><span style="font-size:small;">.</span>
@@ -94,7 +94,7 @@ Use *tap* and *double-tap* instead of *click* and *double-click* when writing co
 <tr class="even">
 <td><div>
 <div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">flick</span>
+<b>flick</b>
 </div>
 </div></td>
 <td><div>
@@ -105,7 +105,7 @@ Use *tap* and *double-tap* instead of *click* and *double-click* when writing co
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">swipe</span>
+<b>swipe</b>
 </div></td>
 <td><div>
 <span style="font-size:small;">Use to describe a</span><span style="font-family:Segoe UI;font-size:small;"> short, quick movement in the direction opposite to how the page scrolls. For example, if the page scrolls left or right, swipe an item up or down to select it. </span>
@@ -131,34 +131,34 @@ To make webpages easier to see, you can change the text, background, link, and h
 <table>
 <tbody>
 <tr class="odd">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">Step</span></td>
+<td><b>Step</b></td>
 <td><div style="text-align:left;" data-align="center">
-<span style="font-family:Segoe UI Semibold;font-size:small;">Mouse actions </span>
+<b>Mouse actions </b>
 </div></td>
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">1</span>
+<b>1</b>
 </div></td>
 <td><div>
 <div>
-<span style="font-size:small;">On the </span><span style="font-family:Segoe UI Semibold;font-size:small;">Start</span><span style="font-size:small;"> menu: </span>
+<span style="font-size:small;">On the </span><b>Start</b><span style="font-size:small;"> menu: </span>
 </div>
 <ul>
-<li><span style="font-size:small;">Click </span><span style="font-family:Segoe UI Semibold;font-size:small;">Internet Explorer</span><span style="font-family:Segoe UI;font-size:small;">.</span></li>
+<li><span style="font-size:small;">Click </span><b>Internet Explorer</b><span style="font-family:Segoe UI;font-size:small;">.</span></li>
 </ul>
 </div></td>
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">2</span>
+<b>2</b>
 </div></td>
 <td><div>
 <span style="font-size:small;">In Internet Explorer:</span>
 </div>
 <ul>
-<li><span style="font-size:small;">Click the </span><span style="font-family:Segoe UI Semibold;font-size:small;">Tools</span> <span style="font-size:small;">menu.</span></li>
-<li><span style="font-size:small;">Click </span><span style="font-family:Segoe UI Semibold;font-size:small;">Internet Options</span><span style="font-family:Segoe UI;font-size:small;">.</span></li>
+<li><span style="font-size:small;">Click the </span><b>Tools</b> <span style="font-size:small;">menu.</span></li>
+<li><span style="font-size:small;">Click </span><b>Internet Options</b><span style="font-family:Segoe UI;font-size:small;">.</span></li>
 </ul></td>
 </tr>
 </tbody>
@@ -177,8 +177,8 @@ Example This table describes two ways to save a file.
 <table>
 <tbody>
 <tr class="odd">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">To</span></td>
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">Do this</span></td>
+<td><b>To</b></td>
+<td><b>Do this</b></td>
 </tr>
 <tr class="even">
 <td><div>
@@ -188,7 +188,7 @@ Example This table describes two ways to save a file.
 </div></td>
 <td><div>
 <div>
-<span style="font-size:small;">On the </span><span style="font-family:Segoe UI Semibold;font-size:small;">File</span><span style="font-size:small;"> menu, click </span><span style="font-family:Segoe UI Semibold;font-size:small;">Save</span><span style="font-size:small;">.</span>
+<span style="font-size:small;">On the </span><b>File</b><span style="font-size:small;"> menu, click </span><b>Save</b><span style="font-size:small;">.</span>
 </div>
 </div></td>
 </tr>
@@ -199,7 +199,7 @@ Example This table describes two ways to save a file.
 </div>
 </div></td>
 <td><div>
-<span style="font-size:small;">On the </span><span style="font-family:Segoe UI Semibold;font-size:small;">File</span><span style="font-size:small;"> menu, click </span><span style="font-family:Segoe UI Semibold;font-size:small;">Exit</span><span style="font-size:small;">. If a dialog box asks whether you want to save changes, click </span><span style="font-family:Segoe UI Semibold;font-size:small;">Yes</span><span style="font-size:small;">.</span>
+<span style="font-size:small;">On the </span><b>File</b><span style="font-size:small;"> menu, click </span><b>Exit</b><span style="font-size:small;">. If a dialog box asks whether you want to save changes, click </span><b>Yes</b><span style="font-size:small;">.</span>
 </div></td>
 </tr>
 </tbody>

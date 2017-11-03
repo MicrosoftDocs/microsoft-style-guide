@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -18,13 +18,13 @@ Use these terms to describe the special characters shown.
 <table>
 <tbody>
 <tr class="odd">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">Character</span></td>
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">Name</span></td>
+<td><b>Character</b></td>
+<td><b>Name</b></td>
 </tr>
 <tr class="even">
 <td><div>
 <div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">´</span>
+<b>´</b>
 </div>
 </div></td>
 <td><div>
@@ -35,7 +35,7 @@ Use these terms to describe the special characters shown.
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">&amp;</span>
+<b>&amp;</b>
 </div></td>
 <td><div>
 <div>
@@ -44,13 +44,13 @@ Use these terms to describe the special characters shown.
 Don't use in place of <em>and.</em></span><span style="font-family:Segoe UI;font-size:small;"></span>
 <p></p>
 </div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">See</span> <span style="font-family:Segoe UI;font-size:small;"><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=32501">ampersand (&amp;)</a></span><br />
+<b>See</b> <span style="font-family:Segoe UI;font-size:small;"><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=32501">ampersand (&amp;)</a></span><br />
 
 </div></td>
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">&lt; &gt;</span>
+<b>&lt; &gt;</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">angle brackets</span>
@@ -58,7 +58,7 @@ Don't use in place of <em>and.</em></span><span style="font-family:Segoe UI;font
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">’</span>
+<b>’</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">apostrophe (publishing character)</span>
@@ -66,7 +66,7 @@ Don't use in place of <em>and.</em></span><span style="font-family:Segoe UI;font
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">'</span>
+<b>'</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">apostrophe (customer-typed text)</span>
@@ -74,7 +74,7 @@ Don't use in place of <em>and.</em></span><span style="font-family:Segoe UI;font
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">*</span>
+<b>*</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">asterisk</span><span style="font-family:Segoe UI;font-size:small;"><br />
@@ -84,7 +84,7 @@ It's OK to use <em>star</em> to refer to the key on a phone keypad.</span>
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">@</span>
+<b>@</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">at sign</span>
@@ -92,7 +92,7 @@ It's OK to use <em>star</em> to refer to the key on a phone keypad.</span>
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">\</span>
+<b>\</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">backslash</span>
@@ -100,7 +100,7 @@ It's OK to use <em>star</em> to refer to the key on a phone keypad.</span>
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">{ }</span>
+<b>{ }</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">braces (not </span><em><span style="font-family:Segoe UI;font-size:small;">curly brackets</span></em><span style="font-family:Segoe UI;font-size:small;">)</span>
@@ -108,7 +108,7 @@ It's OK to use <em>star</em> to refer to the key on a phone keypad.</span>
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">[ ]</span>
+<b>[ ]</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">brackets</span>
@@ -116,7 +116,7 @@ It's OK to use <em>star</em> to refer to the key on a phone keypad.</span>
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">^</span>
+<b>^</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">caret, circumflex (not </span><em><span style="font-family:Segoe UI;font-size:small;">accent circumflex</span></em><span style="font-family:Segoe UI;font-size:small;">)</span>
@@ -124,7 +124,7 @@ It's OK to use <em>star</em> to refer to the key on a phone keypad.</span>
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">¢</span>
+<b>¢</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">cent sign </span><span style="color:#000000;font-family:Segoe UI;font-size:small;">HTML code</span> <span style="font-family:Segoe UI;font-size:small;">&amp;#162</span>
@@ -132,7 +132,7 @@ It's OK to use <em>star</em> to refer to the key on a phone keypad.</span>
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">« »</span>
+<b>« »</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">chevrons, opening and closing<br />
@@ -142,7 +142,7 @@ Microsoft term, seldom used, especially in documentation. Also referred to as </
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">©</span>
+<b>©</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">copyright symbol </span><span style="color:#000000;font-family:Segoe UI;font-size:small;">HTML code </span><span style="font-family:Segoe UI;font-size:small;">&amp;#169;</span>
@@ -150,7 +150,7 @@ Microsoft term, seldom used, especially in documentation. Also referred to as </
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">†</span>
+<b>†</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">dagger </span><span style="color:#000000;font-family:Segoe UI;font-size:small;">HTML code </span><span style="font-family:Segoe UI;font-size:small;">&amp;#134;</span>
@@ -158,7 +158,7 @@ Microsoft term, seldom used, especially in documentation. Also referred to as </
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">°</span>
+<b>°</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">degree symbol </span><span style="color:#000000;font-family:Segoe UI;font-size:small;">HTML code </span><span style="font-family:Segoe UI;font-size:small;">&amp;#176;</span>
@@ -166,7 +166,7 @@ Microsoft term, seldom used, especially in documentation. Also referred to as </
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">÷</span>
+<b>÷</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">division sign </span><span style="color:#000000;font-family:Segoe UI;font-size:small;">HTML code </span><span style="font-family:Segoe UI;font-size:small;">&amp;#247;</span>
@@ -174,7 +174,7 @@ Microsoft term, seldom used, especially in documentation. Also referred to as </
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">$</span>
+<b>$</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">dollar sign</span>
@@ -182,7 +182,7 @@ Microsoft term, seldom used, especially in documentation. Also referred to as </
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">[[ ]]</span>
+<b>[[ ]]</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">double brackets</span>
@@ -190,7 +190,7 @@ Microsoft term, seldom used, especially in documentation. Also referred to as </
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">…</span>
+<b>…</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">ellipsis (singular), ellipses (plural)<br />
@@ -200,7 +200,7 @@ Don't add space between ellipsis points. </span><span style="color:#000000;font-
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">—</span>
+<b>—</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">em dash </span><span style="color:#000000;font-family:Segoe UI;font-size:small;">HTML code</span><span style="font-family:Segoe UI;font-size:small;"> &amp;#151;</span>
@@ -208,7 +208,7 @@ Don't add space between ellipsis points. </span><span style="color:#000000;font-
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">–</span>
+<b>–</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">en dash </span><span style="color:#000000;font-family:Segoe UI;font-size:small;">HTML code</span><span style="font-family:Segoe UI;font-size:small;"> &amp;#150;</span>
@@ -216,7 +216,7 @@ Don't add space between ellipsis points. </span><span style="color:#000000;font-
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">=</span>
+<b>=</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">equal sign (not </span><em><span style="font-family:Segoe UI;font-size:small;">equals</span></em><span style="font-family:Segoe UI;font-size:small;"> sign) </span><span style="color:#000000;font-family:Segoe UI;font-size:small;">HTML code </span><span style="font-family:Segoe UI;font-size:small;">&amp;#61;</span>
@@ -224,7 +224,7 @@ Don't add space between ellipsis points. </span><span style="color:#000000;font-
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">€</span>
+<b>€</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">euro symbol </span><span style="color:#000000;font-family:Segoe UI;font-size:small;">HTML code </span><span style="font-family:Segoe UI;font-size:small;">&amp;#128;</span>
@@ -232,7 +232,7 @@ Don't add space between ellipsis points. </span><span style="color:#000000;font-
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">!</span>
+<b>!</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">exclamation point (not </span><em><span style="font-family:Segoe UI;font-size:small;">exclamation mark</span></em><span style="font-family:Segoe UI;font-size:small;">)</span>
@@ -240,14 +240,14 @@ Don't add space between ellipsis points. </span><span style="color:#000000;font-
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">`</span>
+<b>`</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">grave accent (not </span><em><span style="font-family:Segoe UI;font-size:small;">accent grave</span></em><span style="font-family:Segoe UI;font-size:small;">) </span><span style="color:#000000;font-family:Segoe UI;font-size:small;">HTML code</span><span style="font-family:Segoe UI;font-size:small;"> &amp;#96;</span>
 </div></td>
 </tr>
 <tr class="even">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">&gt;</span></td>
+<td><b>&gt;</b></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">greater than sign<br />
 <br />
@@ -256,7 +256,7 @@ If used in conjunction with the less than sign to enclose a character string suc
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">≥</span>
+<b>≥</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">greater than or equal to sign </span><span style="color:#000000;font-family:Segoe UI;font-size:small;">HTML code </span><span style="font-family:Segoe UI;font-size:small;">&amp;#8805;</span>
@@ -264,7 +264,7 @@ If used in conjunction with the less than sign to enclose a character string suc
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">-</span>
+<b>-</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">hyphen</span>
@@ -272,14 +272,14 @@ If used in conjunction with the less than sign to enclose a character string suc
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">&quot;</span>
+<b>&quot;</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">inch mark</span>
 </div></td>
 </tr>
 <tr class="even">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">&lt;</span></td>
+<td><b>&lt;</b></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">less than sign<br />
 <br />
@@ -288,7 +288,7 @@ If used in conjunction with the greater than sign to enclose a character string 
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">≤</span>
+<b>≤</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">less than or equal to sign </span><span style="color:#000000;font-family:Segoe UI;font-size:small;">HTML code </span><span style="font-family:Segoe UI;font-size:small;">&amp;#8804;</span>
@@ -296,7 +296,7 @@ If used in conjunction with the greater than sign to enclose a character string 
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">–</span>
+<b>–</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">minus sign (use en dash) </span><span style="color:#000000;font-family:Segoe UI;font-size:small;">HTML code </span><span style="font-family:Segoe UI;font-size:small;">&amp;#150;</span>
@@ -304,7 +304,7 @@ If used in conjunction with the greater than sign to enclose a character string 
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">×</span>
+<b>×</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">multiplication sign<br />
@@ -314,7 +314,7 @@ Use * instead if necessary to match software. </span><span style="color:#000000;
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">≠</span>
+<b>≠</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">not equal to </span><span style="color:#000000;font-family:Segoe UI;font-size:small;">HTML code </span><span style="font-family:Segoe UI;font-size:small;">&amp;#8800;</span>
@@ -322,7 +322,7 @@ Use * instead if necessary to match software. </span><span style="color:#000000;
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">#</span>
+<b>#</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">number sign or hashtag<br />
@@ -340,7 +340,7 @@ In general, </span><span style="font-size:small;">use </span><em><span style="fo
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">( )</span>
+<b>( )</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">parentheses (plural), opening or closing parenthesis (singular)</span>
@@ -348,7 +348,7 @@ In general, </span><span style="font-size:small;">use </span><em><span style="fo
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">%</span>
+<b>%</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">percent</span>
@@ -356,7 +356,7 @@ In general, </span><span style="font-size:small;">use </span><em><span style="fo
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">π</span>
+<b>π</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">pi </span><span style="color:#000000;font-family:Segoe UI;font-size:small;">HTML code </span><code>&amp;#928</code>
@@ -364,27 +364,27 @@ In general, </span><span style="font-size:small;">use </span><em><span style="fo
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">|</span>
+<b>|</b>
 </div></td>
 <td><div>
-<span style="font-family:Segoe UI;font-size:small;">pipe, vertical bar, or </span><span style="font-family:Segoe UI Semibold;font-size:small;">OR</span><span style="font-family:Segoe UI;font-size:small;"> logical operator</span>
+<span style="font-family:Segoe UI;font-size:small;">pipe, vertical bar, or </span><b>OR</b><span style="font-family:Segoe UI;font-size:small;"> logical operator</span>
 </div></td>
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">+</span>
+<b>+</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">plus sign<br />
 <br />
 Don’t use to replace words like <em>and, over,</em> or <em>plus.<br />
 <br />
-</em></span><span style="font-family:Segoe UI Semibold;font-size:small;">See</span><span style="font-family:Segoe UI;font-size:small;"> <a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=35249">plus sign (+)</a></span>
+</em></span><b>See</b><span style="font-family:Segoe UI;font-size:small;"> <a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=35249">plus sign (+)</a></span>
 </div></td>
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">±</span>
+<b>±</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">plus or minus sign </span><span style="color:#000000;font-family:Segoe UI;font-size:small;">HTML code</span> <span style="font-family:Segoe UI;font-size:small;">&amp;#177</span>
@@ -392,7 +392,7 @@ Don’t use to replace words like <em>and, over,</em> or <em>plus.<br />
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">?</span>
+<b>?</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">question mark</span>
@@ -400,7 +400,7 @@ Don’t use to replace words like <em>and, over,</em> or <em>plus.<br />
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">“ ”</span>
+<b>“ ”</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">quotation marks (not </span><em><span style="font-family:Segoe UI;font-size:small;">quotes</span></em><span style="font-family:Segoe UI;font-size:small;"> or </span><em><span style="font-family:Segoe UI;font-size:small;">quote marks</span></em><span style="font-family:Segoe UI;font-size:small;">)</span><em><span style="font-family:Segoe UI;font-size:small;"><br />
@@ -410,7 +410,7 @@ Curly quotation marks</span></em><span style="font-family:Segoe UI;font-size:sma
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">&quot; &quot;</span>
+<b>&quot; &quot;</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">straight quotation marks (not </span><em><span style="font-family:Segoe UI;font-size:small;">quotes</span></em><span style="font-family:Segoe UI;font-size:small;"> or </span><em><span style="font-family:Segoe UI;font-size:small;">quote marks</span></em><span style="font-family:Segoe UI;font-size:small;">)</span>
@@ -418,7 +418,7 @@ Curly quotation marks</span></em><span style="font-family:Segoe UI;font-size:sma
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">‘ ’</span>
+<b>‘ ’</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">single quotation marks or single curly quotation marks (not </span><em><span style="font-family:Segoe UI;font-size:small;">quotes</span></em><span style="font-family:Segoe UI;font-size:small;"> or </span><em><span style="font-family:Segoe UI;font-size:small;">quote marks</span></em><span style="font-family:Segoe UI;font-size:small;">)</span>
@@ -426,7 +426,7 @@ Curly quotation marks</span></em><span style="font-family:Segoe UI;font-size:sma
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">' '</span>
+<b>' '</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">single straight quotation marks (not </span><em><span style="font-family:Segoe UI;font-size:small;">quotes</span></em><span style="font-family:Segoe UI;font-size:small;"> or </span><em><span style="font-family:Segoe UI;font-size:small;">quote marks</span></em><span style="font-family:Segoe UI;font-size:small;">)</span>
@@ -434,7 +434,7 @@ Curly quotation marks</span></em><span style="font-family:Segoe UI;font-size:sma
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">®</span>
+<b>®</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">registered trademark symbol </span><span style="color:#000000;font-family:Segoe UI;font-size:small;">HTML code </span><span style="font-family:Segoe UI;font-size:small;">&amp;#174;</span>
@@ -442,7 +442,7 @@ Curly quotation marks</span></em><span style="font-family:Segoe UI;font-size:sma
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">§</span>
+<b>§</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">section </span><span style="color:#000000;font-family:Segoe UI;font-size:small;">HTML code</span><span style="font-family:Segoe UI;font-size:small;"> &amp;#167;</span>
@@ -450,7 +450,7 @@ Curly quotation marks</span></em><span style="font-family:Segoe UI;font-size:sma
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">/</span>
+<b>/</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">slash (not </span><em><span style="font-family:Segoe UI;font-size:small;">virgule</span></em><span style="font-family:Segoe UI;font-size:small;">)</span>
@@ -458,7 +458,7 @@ Curly quotation marks</span></em><span style="font-family:Segoe UI;font-size:sma
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">~</span>
+<b>~</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">tilde<br />
@@ -468,7 +468,7 @@ Don't use in place of <em>about</em> or <em>approximately.</em></span>
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">™</span>
+<b>™</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">trademark symbol </span><span style="color:#000000;font-family:Segoe UI;font-size:small;">HTML code </span><span style="font-family:Segoe UI;font-size:small;">&amp;#153;</span>
@@ -476,7 +476,7 @@ Don't use in place of <em>about</em> or <em>approximately.</em></span>
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">_</span>
+<b>_</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">underscore</span>

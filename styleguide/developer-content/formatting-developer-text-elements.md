@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -30,11 +30,11 @@ See also
 <table>
 <tbody>
 <tr class="odd">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">Element</span></td>
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">Convention</span></td>
+<td><b>Element</b></td>
+<td><b>Convention</b></td>
 </tr>
 <tr class="even">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">Attributes</span></td>
+<td><b>Attributes</b></td>
 <td><span style="font-family:Segoe UI;font-size:small;mso-fareast-font-family:&#39;Times New Roman&#39;;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;mso-bidi-font-size:12.0pt;">Bold. Capitalization varies.</span></td>
 </tr>
 <tr class="odd">
@@ -42,7 +42,7 @@ See also
 <td><span style="font-family:Segoe UI;font-size:small;mso-fareast-font-family:&#39;Times New Roman&#39;;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;mso-bidi-font-size:12.0pt;">Bold. Capitalization varies.</span></td>
 </tr>
 <tr class="even">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">Classes (user-defined)</span></td>
+<td><b>Classes (user-defined)</b></td>
 <td><span style="font-family:Segoe UI;font-size:small;mso-fareast-font-family:&#39;Times New Roman&#39;;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;mso-bidi-font-size:12.0pt;">Bold. Capitalization varies. </span></td>
 </tr>
 <tr class="odd">
@@ -54,7 +54,7 @@ See also
 <td><span style="font-family:Segoe UI;font-size:small;mso-fareast-font-family:&#39;Times New Roman&#39;;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;mso-bidi-font-size:12.0pt;">Bold. All lowercase.</span></td>
 </tr>
 <tr class="odd">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">Command-line options (also known as switches or flags)</span></td>
+<td><b>Command-line options (also known as switches or flags)</b></td>
 <td><span style="font-family:Segoe UI;font-size:small;">Bold. Capitalize the way the option must be typed.</span></td>
 </tr>
 <tr class="even">
@@ -66,7 +66,7 @@ See also
 <td><span style="font-family:Segoe UI;font-size:small;mso-fareast-font-family:&#39;Times New Roman&#39;;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;mso-bidi-font-size:12.0pt;">All uppercase.</span></td>
 </tr>
 <tr class="even">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">Data formats</span></td>
+<td><b>Data formats</b></td>
 <td><span style="font-family:Segoe UI;font-size:small;">All uppercase.</span></td>
 </tr>
 <tr class="odd">
@@ -78,15 +78,15 @@ See also
 </div></td>
 </tr>
 <tr class="even">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">Data types</span></td>
+<td><b>Data types</b></td>
 <td><span style="font-family:Segoe UI;font-size:small;mso-fareast-font-family:&#39;Times New Roman&#39;;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;mso-bidi-font-size:12.0pt;">Bold. Capitalization follows that of the API.</span></td>
 </tr>
 <tr class="odd">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">Database names</span></td>
+<td><b>Database names</b></td>
 <td><span style="font-family:Segoe UI;font-size:small;">Bold. </span><span style="font-family:Segoe UI;font-size:small;">The capitalization of database names varies, so always refer to your group's editorial style guide.</span></td>
 </tr>
 <tr class="even">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">Directives</span></td>
+<td><b>Directives</b></td>
 <td><span style="font-family:Segoe UI;font-size:small;">Bold.</span></td>
 </tr>
 <tr class="odd">
@@ -106,7 +106,7 @@ See also
 <td><span style="font-family:Segoe UI;font-size:small;mso-fareast-font-family:&#39;Times New Roman&#39;;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;mso-bidi-font-size:12.0pt;">Bold. Treatment may vary, so always consult your group's editorial style guide.</span></td>
 </tr>
 <tr class="odd">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">File attributes</span></td>
+<td><b>File attributes</b></td>
 <td><span style="font-family:Segoe UI;font-size:small;">All lowercase.</span></td>
 </tr>
 <tr class="even">
@@ -126,13 +126,13 @@ See also
 <td><span style="font-family:Segoe UI;font-size:small;mso-fareast-font-family:&#39;Times New Roman&#39;;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;mso-bidi-font-size:12.0pt;">Usually bold. Capitalization varies. Treatment may vary. Consult </span><span style="color:black;font-family:Segoe UI;font-size:small;mso-fareast-font-family:Calibri;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;mso-fareast-theme-font:minor-latin;">your group's editorial style guide</span><span style="font-family:Segoe UI;font-size:small;mso-fareast-font-family:&#39;Times New Roman&#39;;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;mso-bidi-font-size:12.0pt;">.</span></td>
 </tr>
 <tr class="even">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">Handles</span></td>
+<td><b>Handles</b></td>
 <td><span style="font-family:Segoe UI;font-size:small;">All uppercase.</span></td>
 </tr>
 <tr class="odd">
 <td><div>
 <div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Keywords (language and operating system)</span>
+<b>Keywords (language and operating system)</b>
 </div>
 </div></td>
 <td><div>
@@ -143,7 +143,7 @@ See also
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Logical operators</span>
+<b>Logical operators</b>
 </div></td>
 <td><div>
 <span style="font-size:small;">Bold. All uppercase.</span>
@@ -151,7 +151,7 @@ See also
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Macros</span>
+<b>Macros</b>
 </div></td>
 <td><div>
 <span style="font-size:small;">Usually all uppercase. Bold if predefined. Might be monospace if user defined. Treatment varies. Consult your group's editorial style guide.</span>
@@ -159,7 +159,7 @@ See also
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Markup language elements (tags)</span>
+<b>Markup language elements (tags)</b>
 </div></td>
 <td><div>
 <span style="font-size:small;">Bold. Capitalization varies.</span>
@@ -167,7 +167,7 @@ See also
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Mathematical constants and variables</span>
+<b>Mathematical constants and variables</b>
 </div></td>
 <td><div>
 <span style="font-size:small;">Italic.</span>
@@ -175,7 +175,7 @@ See also
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Members</span>
+<b>Members</b>
 </div></td>
 <td><div>
 <span style="font-size:small;">Bold. Capitalization varies.</span>
@@ -183,7 +183,7 @@ See also
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Methods</span>
+<b>Methods</b>
 </div></td>
 <td><div>
 <span style="font-size:small;">Bold. Capitalization varies.</span>
@@ -191,13 +191,13 @@ See also
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">New terms</span>
+<b>New terms</b>
 </div></td>
 <td><span style="font-size:small;">Italicize the first mention of a new term if you're going to define it immediately in text.</span></td>
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Operators</span>
+<b>Operators</b>
 </div></td>
 <td><div>
 <span style="font-size:small;">Bold.</span>
@@ -205,7 +205,7 @@ See also
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Parameters</span>
+<b>Parameters</b>
 </div></td>
 <td><div>
 <span style="font-size:small;">Italic. Capitalization varies.</span>
@@ -213,7 +213,7 @@ See also
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Placeholders (in syntax and in user input)</span>
+<b>Placeholders (in syntax and in user input)</b>
 </div></td>
 <td><div>
 <span style="font-size:small;">Italic.</span>
@@ -221,7 +221,7 @@ See also
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Ports</span>
+<b>Ports</b>
 </div></td>
 <td><div>
 <span style="font-size:small;">All uppercase.</span>
@@ -229,7 +229,7 @@ See also
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Products, services, apps, and trademarks</span>
+<b>Products, services, apps, and trademarks</b>
 </div></td>
 <td><div>
 <span style="font-size:small;">Usually title-style capitalization. Check the </span><a href="https://microsoft.sharepoint.com/sites/LCAWeb/Home/Copyrights-Trademarks-and-Patents/Trademarks/Trademark-List"><span style="font-size:small;">Microsoft trademark list</span></a><span style="font-size:small;"> for capitalization of trademarked names. Also consult your group's editorial style guide.</span>
@@ -237,7 +237,7 @@ See also
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Properties</span>
+<b>Properties</b>
 </div></td>
 <td><div>
 <span style="font-size:small;">Usually bold. Capitalization varies. Treatment may vary. Consult your group's editorial style guide.</span>
@@ -245,7 +245,7 @@ See also
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Registers</span>
+<b>Registers</b>
 </div></td>
 <td><div>
 <span style="font-size:small;">All uppercase.</span>
@@ -253,7 +253,7 @@ See also
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Registry settings</span>
+<b>Registry settings</b>
 </div></td>
 <td><div>
 <span style="font-size:small;">Subtrees (first-level items) all uppercase. Separated by underscores. Usually bold.</span>
@@ -270,7 +270,7 @@ See also
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Statements</span>
+<b>Statements</b>
 </div></td>
 <td><div>
 <span style="font-size:small;">Bold. Capitalization varies.</span>
@@ -278,7 +278,7 @@ See also
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Structures</span>
+<b>Structures</b>
 </div></td>
 <td><div>
 <span style="font-size:small;">Usually bold. Capitalization varies.</span>
@@ -286,7 +286,7 @@ See also
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Switches</span>
+<b>Switches</b>
 </div></td>
 <td><div>
 <span style="font-size:small;">Bold. Usually lowercase.</span>
@@ -294,7 +294,7 @@ See also
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">System commands</span>
+<b>System commands</b>
 </div></td>
 <td><div>
 <span style="font-size:small;">All uppercase.</span>
@@ -302,7 +302,7 @@ See also
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">UI text or strings</span>
+<b>UI text or strings</b>
 </div></td>
 <td><div>
 <span style="font-size:small;">Sentence-style </span><span style="font-family:Segoe UI;font-size:small;">capitalization. Enclose error messages in quotation marks when referring to them in text</span><span style="font-family:Segoe UI;font-size:small;mso-fareast-font-family:&#39;Times New Roman&#39;;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;mso-bidi-font-size:12.0pt;">.</span>
@@ -310,7 +310,7 @@ See also
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">URLs</span>
+<b>URLs</b>
 </div></td>
 <td><div>
 <div>
@@ -323,7 +323,7 @@ See also
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">User input</span>
+<b>User input</b>
 </div></td>
 <td><div>
 <span style="font-size:small;">Usually lowercase, unless case sensitive. Bold or italic, depending on the element. If the user input string contains placeholder text, use italic for that text.</span>
@@ -331,7 +331,7 @@ See also
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Values</span>
+<b>Values</b>
 </div></td>
 <td><div>
 <span style="font-size:small;">All uppercase.</span>
@@ -339,7 +339,7 @@ See also
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Variables</span>
+<b>Variables</b>
 </div></td>
 <td><div>
 <span style="font-size:small;">Treatment varies, so always consult your group's editorial style guide.</span>
@@ -347,7 +347,7 @@ See also
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">XML schema elements</span>
+<b>XML schema elements</b>
 </div></td>
 <td><div>
 <span style="font-size:small;">Bold. Capitalization varies.</span>

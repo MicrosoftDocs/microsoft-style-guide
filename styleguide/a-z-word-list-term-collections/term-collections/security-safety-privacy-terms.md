@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -31,18 +31,18 @@ compare Microsoft technology with the competition.
 <table>
 <tbody>
 <tr class="odd">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">Trigger word</span></td>
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">How to use</span></td>
+<td><b>Trigger word</b></td>
+<td><b>How to use</b></td>
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">complete</span>
+<b>complete</b>
 </div></td>
 <td><span style="font-size:small;">more complete</span></td>
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">control</span>
+<b>control</b>
 </div></td>
 <td><div>
 <span style="font-size:small;">help control, helps to control, helps you control</span>
@@ -51,7 +51,7 @@ compare Microsoft technology with the competition.
 <tr class="even">
 <td><div>
 <div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">ensure</span>
+<b>ensure</b>
 </div>
 </div></td>
 <td><div>
@@ -62,7 +62,7 @@ compare Microsoft technology with the competition.
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">guard</span>
+<b>guard</b>
 </div></td>
 <td><div>
 <span style="font-size:small;">helps guard, helps to guard</span>
@@ -70,7 +70,7 @@ compare Microsoft technology with the competition.
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">private, privacy</span>
+<b>private, privacy</b>
 </div></td>
 <td><div>
 <span style="font-size:small;">more private, help protect your privacy, helps to protect your privacy, improve privacy</span>
@@ -78,7 +78,7 @@ compare Microsoft technology with the competition.
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">protect, protection</span>
+<b>protect, protection</b>
 </div></td>
 <td><div>
 <span style="font-size:small;">help protect, helps to protect, get powerful protection, more powerful protection</span>
@@ -86,7 +86,7 @@ compare Microsoft technology with the competition.
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">safe, safety, safely</span>
+<b>safe, safety, safely</b>
 </div></td>
 <td><div>
 <span style="font-size:small;">safer, more safely, improve online safety</span>
@@ -94,7 +94,7 @@ compare Microsoft technology with the competition.
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">secure, security</span>
+<b>secure, security</b>
 </div></td>
 <td><div>
 <span style="font-size:small;">more secure, help secure, helps to secure, improve security</span>
@@ -108,13 +108,13 @@ Always use qualifiers with trigger words.
 <table>
 <tbody>
 <tr class="odd">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">Qualifier</span></td>
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">How to use</span></td>
+<td><b>Qualifier</b></td>
+<td><b>How to use</b></td>
 </tr>
 <tr class="even">
 <td><div>
 <div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">help</span>
+<b>help</b>
 </div>
 </div></td>
 <td><div>
@@ -128,7 +128,7 @@ Always use qualifiers with trigger words.
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">improve</span>
+<b>improve</b>
 </div></td>
 <td><div>
 <span style="font-size:small;">Use BitLocker to improve data security on PCs and removable drives. </span>
@@ -136,7 +136,7 @@ Always use qualifiers with trigger words.
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">more</span>
+<b>more</b>
 </div></td>
 <td><div>
 <span style="font-size:small;">Use location services more safely.</span>
@@ -152,13 +152,13 @@ This section describes usage for specific security terms. For definitions of sec
 <table>
 <tbody>
 <tr class="odd">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">Term</span></td>
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">Usage</span></td>
+<td><b>Term</b></td>
+<td><b>Usage</b></td>
 </tr>
 <tr class="even">
 <td><div>
 <div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">absolute</span>
+<b>absolute</b>
 </div>
 </div></td>
 <td><div>
@@ -169,19 +169,19 @@ This section describes usage for specific security terms. For definitions of sec
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">antimalware</span>
+<b>antimalware</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;font-:10pt;">Use only as an adjective to describe a category of software used to detect and respond to malicious software, such as viruses, worms, trojans, and sometimes spyware and adware. </span>
 </div></td>
 </tr>
 <tr class="even">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">antiphishing</span></td>
+<td><b>antiphishing</b></td>
 <td><span style="font-family:Segoe UI;font-size:small;">Use only as an adjective to describe practices or a category of software used to detect and respond to phishing scams, which are attempts to trick individuals into revealing sensitive information, such as passwords or credit card numbers.</span></td>
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">antispyware</span>
+<b>antispyware</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;font-:10pt;">Use only as an adjective to describe software that detects and sometimes removes spyware.</span>
@@ -189,7 +189,7 @@ This section describes usage for specific security terms. For definitions of sec
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">antivirus</span>
+<b>antivirus</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;font-:10pt;">Use only as an adjective to describe software that detects and responds to malware. </span>
@@ -210,7 +210,7 @@ This section describes usage for specific security terms. For definitions of sec
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">bullet-proof</span>
+<b>bullet-proof</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">Don’t use.</span>
@@ -218,7 +218,7 @@ This section describes usage for specific security terms. For definitions of sec
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">deceptive software</span>
+<b>deceptive software</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;font-:10pt;"><span style="font-family:Segoe UI;font-size:small;">Don’t use. Use </span><em>unwanted software</em> <span style="font-family:Segoe UI;font-size:small;">instead. </span></span>
@@ -226,7 +226,7 @@ This section describes usage for specific security terms. For definitions of sec
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">hacker, hack</span>
+<b>hacker, hack</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;font-:10pt;"><span style="font-family:Segoe UI;font-size:small;">Use </span><em>malicious hacker</em><span style="font-family:Segoe UI;font-size:small;"> to refer to an unauthorized user who accesses a system with the intent to cause harm. If the unauthorized user’s intent isn’t known or isn’t malicious, use </span><em>unauthorized user</em><span style="font-family:Segoe UI;font-size:small;">.<br />
@@ -244,7 +244,7 @@ This section describes usage for specific security terms. For definitions of sec
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">insecure</span>
+<b>insecure</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;font-:10pt;"><span style="font-family:Segoe UI;font-size:small;">Don’t use to mean </span><em>not secure</em><span style="font-family:Segoe UI;font-size:small;">.</span></span>
@@ -252,7 +252,7 @@ This section describes usage for specific security terms. For definitions of sec
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">lock</span>
+<b>lock</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">Don’t use to mean </span><em><span style="font-family:Segoe UI;font-size:small;">protect.</span></em>
@@ -260,7 +260,7 @@ This section describes usage for specific security terms. For definitions of sec
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">malicious code</span>
+<b>malicious code</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;font-:10pt;"><span style="font-family:Segoe UI;font-size:small;">Don’t use. Use </span><em>malware</em> <span style="font-family:Segoe UI;font-size:small;">or </span><em>malicious software</em><span style="font-family:Segoe UI;font-size:small;"> instead. </span></span>
@@ -268,7 +268,7 @@ This section describes usage for specific security terms. For definitions of sec
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">malicious user</span>
+<b>malicious user</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;font-:10pt;"><span style="font-family:Segoe UI;font-size:small;">Don’t use. Use </span><em>malicious hacker</em><span style="font-family:Segoe UI;font-size:small;"> instead.</span></span>
@@ -276,7 +276,7 @@ This section describes usage for specific security terms. For definitions of sec
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">malware, malicious software</span>
+<b>malware, malicious software</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;font-:10pt;"><span style="font-family:Segoe UI;font-size:small;">Use </span><em>malware</em> <span style="font-family:Segoe UI;font-size:small;">instead of </span><em>malicious software</em> <span style="font-family:Segoe UI;font-size:small;">to describe unwanted software installed without adequate user consent. Viruses, worms, and trojans are malware. </span></span>
@@ -290,7 +290,7 @@ If your audience might not be familiar with the term </span><em>malware</em><spa
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">spyware</span>
+<b>spyware</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;font-:10pt;">Before using the term <em>spyware</em> to describe specific software, be certain the software has been identified as spyware. </span>
@@ -298,7 +298,7 @@ If your audience might not be familiar with the term </span><em>malware</em><spa
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">total</span>
+<b>total</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">Don’t use in discussions about security, safety, and privacy.</span>
@@ -306,13 +306,13 @@ If your audience might not be familiar with the term </span><em>malware</em><spa
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">trojan horse, trojan</span>
+<b>trojan horse, trojan</b>
 </div></td>
 <td><span style="font-family:Segoe UI;font-size:small;">In content for a technical audience, it’s OK to shorten to </span><em><span style="font-family:Segoe UI;font-size:small;">trojan</span></em><span style="font-family:Segoe UI;font-size:small;">.</span></td>
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">unwanted software</span>
+<b>unwanted software</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;font-:10pt;">Use as a general term for spyware, adware, and similar software.</span>
@@ -321,7 +321,7 @@ If your audience might not be familiar with the term </span><em>malware</em><spa
 <tr class="even">
 <td><div>
 <div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">vulnerability</span>
+<b>vulnerability</b>
 </div>
 </div></td>
 <td><div>

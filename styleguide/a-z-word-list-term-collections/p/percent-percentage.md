@@ -43,12 +43,12 @@ Examples**
 <table>
 <tbody>
 <tr class="odd">
-<td><span style="font-family: Segoe UI Semibold; font-size: small;">List price</span></td>
-<td><span style="font-family: Segoe UI Semibold; font-size: small;">Discount percent</span></td>
+<td><b>List price</b></td>
+<td><b>Discount percent</b></td>
 </tr>
 <tr class="even">
-<td><span style="font-size: small;">$200</span></td>
-<td><span style="font-size: small;">5%</span></td>
+<td>$200</td>
+<td>5%</td>
 </tr>
 </tbody>
 </table>

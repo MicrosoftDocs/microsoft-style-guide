@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -25,46 +25,46 @@ If you keep sentences short and simple and use active voice, you probably won’
 <table>
 <tbody>
 <tr class="odd">
-<td><span style="font-family: Segoe UI Semibold; font-size: small;">Example</span></td>
-<td><span style="font-family: Segoe UI Semibold; font-size: small;">Meaning</span></td>
+<td><b>Example</b></td>
+<td><b>Meaning</b></td>
 </tr>
 <tr class="even">
 <td><div>
 <div>
-<em><span style="font-family: Segoe UI; font-size: small;">Only</span></em><span style="font-family: Segoe UI; font-size: small;"> the selected text is deleted. </span>
+<em>Only</em> the selected text is deleted. 
 </div>
 </div></td>
 <td><div>
 <div>
-<span style="font-family: Segoe UI; font-size: small;">Nothing other than the selected text is deleted.</span>
+Nothing other than the selected text is deleted.
 </div>
 </div></td>
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family: Segoe UI; font-size: small;">The selected text </span><em><span style="font-family: Segoe UI; font-size: small;">only</span></em><span style="font-family: Segoe UI; font-size: small;"> is deleted.</span>
+The selected text <em>only</em> is deleted.
 </div></td>
-<td><em><span style="font-family: Segoe UI; font-size: small;">Only</span></em><span style="font-family: Segoe UI; font-size: small;"> could modify </span><em><span style="font-family: Segoe UI; font-size: small;">is deleted</span></em> <span style="font-family: Segoe UI; font-size: small;">or </span><em><span style="font-family: Segoe UI; font-size: small;">text.</span></em> <span style="font-family: Segoe UI; font-size: small;">This sentence could mean one of two things:</span>
+<td><em>Only</em> could modify <em>is deleted</em> or <em>text.</em> This sentence could mean one of two things:
 <ul>
-<li><span style="font-family: Segoe UI; font-size: small;">The selected graphics aren't deleted.</span></li>
+<li>The selected graphics aren't deleted.</li>
 <li><span style="line-height: 107%; font-family: Segoe UI; font-size: small;">The text is deleted but not archived. </span></li>
 </ul></td>
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family: Segoe UI; font-size: small;">There are files </span><em><span style="font-family: Segoe UI; font-size: small;">that can’t be removed</span></em><span style="font-family: Segoe UI; font-size: small;"> on the disk. </span>
+There are files <em>that can’t be removed</em> on the disk. 
 </div></td>
 <td><div>
-<span style="line-height: 107%; font-family: Segoe UI; font-size: small;">The phrase <em>t</em></span><em><span style="line-height: 107%; font-family: Segoe UI; font-size: small;">hat can’t be removed</span></em> <span style="line-height: 107%; font-family: Segoe UI; font-size: small;"><span style="font-family: Segoe UI; font-size: small;">modifies </span><em>the files.</em> <span style="font-family: Segoe UI; font-size: small;">This sentence clearly explains that the files can’t be removed, and they are on the disk. </span></span>
+<span style="line-height: 107%; font-family: Segoe UI; font-size: small;">The phrase <em>t</em></span><em><span style="line-height: 107%; font-family: Segoe UI; font-size: small;">hat can’t be removed</span></em> <span style="line-height: 107%; font-family: Segoe UI; font-size: small;">modifies <em>the files.</em> This sentence clearly explains that the files can’t be removed, and they are on the disk. </span>
 </div></td>
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family: Segoe UI; font-size: small;">There are files on the disk </span><em><span style="font-family: Segoe UI; font-size: small;">that can’t be removed</span></em><span style="font-family: Segoe UI; font-size: small;">.</span>
+There are files on the disk <em>that can’t be removed</em>.
 </div></td>
-<td><span style="font-family: Segoe UI; font-size: small;">The phrase </span><em><span style="font-family: Segoe UI; font-size: small;">that can’t be removed</span></em> <span style="font-family: Segoe UI; font-size: small;">probably modifies </span><em><span style="font-family: Segoe UI; font-size: small;">the disk,</span></em> <span style="font-family: Segoe UI; font-size: small;">but the writer may have intended to modify </span><em><span style="font-family: Segoe UI; font-size: small;">files.</span></em> <span style="font-family: Segoe UI; font-size: small;">This sentence could mean one of two things:</span>
+<td>The phrase <em>that can’t be removed</em> probably modifies <em>the disk,</em> but the writer may have intended to modify <em>files.</em> This sentence could mean one of two things:
 <ul>
-<li><span style="font-family: Segoe UI; font-size: small;">The files can’t be removed.</span></li>
+<li>The files can’t be removed.</li>
 <li><span style="line-height: 107%; font-family: Segoe UI; font-size: small;">The disk can’t be removed. </span></li>
 </ul></td>
 </tr>

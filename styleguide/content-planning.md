@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -94,163 +94,163 @@ With these questions answered, you can narrow your approach. For example:
 <table>
 <tbody>
 <tr class="odd">
-<td><span style="font-family: Segoe UI Semibold; font-size: small;">Need</span></td>
-<td><span style="font-family: Segoe UI Semibold; font-size: small;">Content types</span></td>
+<td><b>Need</b></td>
+<td><b>Content types</b></td>
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family: Segoe UI Semibold; font-size: small;">Complete a simple task or use a simple feature in an app</span>
+<b>Complete a simple task or use a simple feature in an app</b>
 </div></td>
-<td><span style="font-family: Segoe UI; font-size: small;">UI text</span><br />
-<span style="font-family: Segoe UI; font-size: small;">Documentation</span><br />
-<span style="font-family: Segoe UI; font-size: small;">Short video</span><br />
-<span style="font-family: Segoe UI; font-size: small;">Blog, if it's a common issue or cool, little-known feature</span></td>
+<td>UI text<br />
+Documentation<br />
+Short video<br />
+Blog, if it's a common issue or cool, little-known feature</td>
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family: Segoe UI Semibold; font-size: small;">Complete a complex task or use a complex feature in an app</span>
+<b>Complete a complex task or use a complex feature in an app</b>
 </div></td>
 <td><div>
-<span style="font-size: small;">UI text </span>
+UI text 
 </div>
 <div>
-<span style="font-size: small;">Video</span>
+Video
 </div>
 <div>
-<span style="font-size: small;">Webcast</span>
+Webcast
 </div>
 <div>
-<span style="font-size: small;"><span style="font-size: small;">Documentation</span><br />
-<span style="font-size: small;">Tutorial</span></span>
+Documentation<br />
+Tutorial
 </div>
 <div>
-<span style="font-size: small;">End-to-end scenarios or conceptual articles</span>
+End-to-end scenarios or conceptual articles
 </div>
 <div>
-<span style="font-size: small;">Technical papers or articles</span>
+Technical papers or articles
 </div>
 <div>
-<span style="font-size: small;">Wizard</span>
-</div></td>
-</tr>
-<tr class="even">
-<td><div>
-<span style="font-family: Segoe UI Semibold; font-size: small;">Get timely communications, including news, announcements, event updates, tips, and stories</span>
-</div></td>
-<td><div>
-<span style="font-size: small;">Blog</span>
-</div>
-<div>
-<span style="font-size: small;">Newsletter</span>
-</div></td>
-</tr>
-<tr class="odd">
-<td><div>
-<span style="font-family: Segoe UI Semibold; font-size: small;">Get answers and expertise from a community</span>
-</div></td>
-<td><div>
-<span style="font-size: small;">Wiki</span>
-</div>
-<div>
-<span style="font-size: small;">Forum</span>
+Wizard
 </div></td>
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family: Segoe UI Semibold; font-size: small;">Learn a complex or comprehensive concept or skill</span>
+<b>Get timely communications, including news, announcements, event updates, tips, and stories</b>
 </div></td>
 <td><div>
-<span style="font-size: small;">Online training</span>
+Blog
 </div>
 <div>
-<span style="font-size: small;">Tutorial</span>
-</div>
-<div>
-<span style="font-size: small;">Technical white paper</span>
-</div>
-<div>
-<span style="font-size: small;">Interactive graphics</span>
-</div>
-<div>
-<span style="font-size: small;">System architecture</span>
+Newsletter
 </div></td>
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family: Segoe UI Semibold; font-size: small;">Learn or increase knowledge and skills related to a product, service, technology, or business concept</span>
+<b>Get answers and expertise from a community</b>
 </div></td>
 <td><div>
-<span style="font-size: small;">Concept papers</span>
+Wiki
 </div>
 <div>
-<span style="font-size: small;">E-books</span>
-</div>
-<div>
-<span style="font-size: small;">Infographics</span>
+Forum
 </div></td>
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family: Segoe UI Semibold; font-size: small;">Learn product tips and tricks</span>
+<b>Learn a complex or comprehensive concept or skill</b>
 </div></td>
 <td><div>
-<span style="font-size: small;">UI text</span>
+Online training
 </div>
 <div>
-<span style="font-size: small;">Web documentation</span>
+Tutorial
 </div>
 <div>
-<span style="font-size: small;">Apps</span>
+Technical white paper
 </div>
 <div>
-<span style="font-size: small;">Microblogs (such as Twitter)</span>
+Interactive graphics
 </div>
 <div>
-<span style="font-size: small;">Blogs</span>
+System architecture
+</div></td>
+</tr>
+<tr class="odd">
+<td><div>
+<b>Learn or increase knowledge and skills related to a product, service, technology, or business concept</b>
+</div></td>
+<td><div>
+Concept papers
 </div>
 <div>
-<span style="font-size: small;">E-books</span>
+E-books
 </div>
 <div>
-<span style="font-size: small;">Newsletters</span>
+Infographics
+</div></td>
+</tr>
+<tr class="even">
+<td><div>
+<b>Learn product tips and tricks</b>
+</div></td>
+<td><div>
+UI text
 </div>
 <div>
-<span style="font-size: small;">Communities</span>
+Web documentation
+</div>
+<div>
+Apps
+</div>
+<div>
+Microblogs (such as Twitter)
+</div>
+<div>
+Blogs
+</div>
+<div>
+E-books
+</div>
+<div>
+Newsletters
+</div>
+<div>
+Communities
 </div></td>
 </tr>
 <tr class="odd">
 <td><div>
 <div>
-<span style="font-family: Segoe UI Semibold; font-size: small;">Understand a process</span>
+<b>Understand a process</b>
 </div>
 </div></td>
 <td><div>
 <div>
-<span style="font-size: small;">Interactive graphics</span>
+Interactive graphics
 </div>
 <div>
-<span style="font-size: small;">Interactive flow charts</span>
+Interactive flow charts
 </div>
 <div>
-<span style="font-size: small;">Sample workflows</span>
+Sample workflows
 </div>
 <div>
-<span style="font-size: small;">Sample files</span>
+Sample files
 </div>
 </div></td>
 </tr>
 <tr class="even">
 <td><div>
 <div>
-<span style="font-family: Segoe UI Semibold; font-size: small;">Troubleshoot a problem</span>
+<b>Troubleshoot a problem</b>
 </div>
 </div></td>
 <td><div>
 <div>
-<span style="font-size: small;">Interactive flow chart</span>
+Interactive flow chart
 </div>
 <div>
-<span style="font-size: small;">UI troubleshooter</span>
+UI troubleshooter
 </div>
 </div></td>
 </tr>

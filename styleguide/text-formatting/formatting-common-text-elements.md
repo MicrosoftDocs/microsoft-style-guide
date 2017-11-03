@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -29,13 +29,13 @@ See also
 <table>
 <tbody>
 <tr class="odd">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">Element</span></td>
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">Convention</span></td>
+<td><b>Element</b></td>
+<td><b>Convention</b></td>
 </tr>
 <tr class="even">
 <td><div>
 <div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Database names</span>
+<b>Database names</b>
 </div>
 </div></td>
 <td><div>
@@ -46,7 +46,7 @@ See also
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Emphasis</span>
+<b>Emphasis</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">It’s OK to use italic formatting sparingly</span><span style="font-family:Segoe UI;font-size:small;"> </span><span style="font-family:Segoe UI;font-size:small;">for emphasis.</span>
@@ -54,19 +54,19 @@ See also
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Error messages</span>
+<b>Error messages</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">Sentence-style capitalization.</span>
 </div></td>
 </tr>
 <tr class="odd">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">File attributes</span></td>
+<td><b>File attributes</b></td>
 <td><span style="font-family:Segoe UI;font-size:small;">All lowercase.</span></td>
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">File extensions</span>
+<b>File extensions</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">All lowercase.</span>
@@ -74,13 +74,13 @@ See also
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">File names</span> <strong></strong>
+<b>File names</b> <strong></strong>
 </div></td>
 <td><span style="font-family:Segoe UI;font-size:small;">Title-style capitalization. It’s OK to use internal caps in file names for readability.</span></td>
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Folder and directory names </span>
+<b>Folder and directory names </b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">Sentence-style capitalization. It’s OK to use internal capital letters in folder and directory names for readability.</span>
@@ -88,7 +88,7 @@ See also
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Macros</span>
+<b>Macros</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">Usually all uppercase. Use bold formatting if predefined. Might be monospace if user defined. Treatment varies. Consult your group's editorial style guide</span><span><span style="font-family:Segoe UI;font-size:small;">.</span></span>
@@ -96,7 +96,7 @@ See also
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Markup language elements (tags)</span>
+<b>Markup language elements (tags)</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">Bold. Capitalization varies.</span>
@@ -104,19 +104,19 @@ See also
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Mathematical constants and variables</span>
+<b>Mathematical constants and variables</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">Italic.</span>
 </div></td>
 </tr>
 <tr class="even">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">New terms</span></td>
+<td><b>New terms</b></td>
 <td><span style="font-size:small;">Italicize the first mention of a new term if you're going to define it immediately in text.</span></td>
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Ports</span>
+<b>Ports</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">All uppercase.</span>
@@ -124,7 +124,7 @@ See also
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Products, services, apps, and trademarks</span>
+<b>Products, services, apps, and trademarks</b>
 </div></td>
 <td><div>
 <span style="font-size:small;">Usually title-style capitalization. Check the </span><a href="https://microsoft.sharepoint.com/sites/LCAWeb/Home/Copyrights-Trademarks-and-Patents/Trademarks/Trademark-List"><span style="font-size:small;">Microsoft trademark list</span></a><span style="font-size:small;"> for capitalization of trademarked names. (This page requires Microsoft network access.) Also consult your group's editorial style guide.</span>
@@ -132,7 +132,7 @@ See also
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">UI text</span>
+<b>UI text</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">Sentence-style capitalization. </span>
@@ -140,7 +140,7 @@ See also
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">URLs</span>
+<b>URLs</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;"><span style="font-family:Segoe UI;">All lowercase for complete URLs. If necessary, line-break long URLs before a slash. Don't hyphenate</span><span style="font-family:Segoe UI;">.</span></span>

@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -37,8 +37,8 @@ Most people know the common definition of words—usually the one that appears f
 <table>
 <tbody>
 <tr class="odd">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">Use this</span></td>
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">Not this</span></td>
+<td><b>Use this</b></td>
+<td><b>Not this</b></td>
 </tr>
 <tr class="even">
 <td><div>

@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -30,8 +30,8 @@ the content. Never reduce line spacing to fit more text on a slide or page. Edit
 <table>
 <tbody>
 <tr class="odd">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">Font size</span></td>
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">Line spacing</span></td>
+<td><b>Font size</b></td>
+<td><b>Line spacing</b></td>
 </tr>
 <tr class="even">
 <td><div>

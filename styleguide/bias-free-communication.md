@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -20,8 +20,8 @@ Use gender-neutral or inclusive terms to refer to people.
 <table>
 <tbody>
 <tr class="odd">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">Use this</span></td>
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">Not this</span></td>
+<td><b>Use this</b></td>
+<td><b>Not this</b></td>
 </tr>
 <tr class="even">
 <td><div>
@@ -96,8 +96,8 @@ Avoid culturally sensitive terms, such as the terms associated with military or 
 <table>
 <tbody>
 <tr class="odd">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">Use this</span></td>
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">Not this</span></td>
+<td><b>Use this</b></td>
+<td><b>Not this</b></td>
 </tr>
 <tr class="even">
 <td><span style="font-family:Segoe UI;font-size:small;">master/subordinate</span></td>

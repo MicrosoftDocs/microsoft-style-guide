@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -64,12 +64,12 @@ See also [](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=2692
 <table>
 <tbody>
 <tr class="odd">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">Category</span></td>
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">Term</span></td>
+<td><b>Category</b></td>
+<td><b>Term</b></td>
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Distance and length</span>
+<b>Distance and length</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">centimeters</span>
@@ -100,7 +100,7 @@ See also [](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=2692
 <td><span style="font-family:Segoe UI;font-size:small;">millimeters</span></td>
 </tr>
 <tr class="odd">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">Weight</span></td>
+<td><b>Weight</b></td>
 <td><span style="font-family:Segoe UI;font-size:small;">grams</span></td>
 </tr>
 <tr class="even">
@@ -117,7 +117,7 @@ See also [](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=2692
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Type and fonts</span>
+<b>Type and fonts</b>
 </div></td>
 <td><span style="font-family:Segoe UI;font-size:small;">points</span></td>
 </tr>
@@ -134,11 +134,11 @@ See also [](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=2692
 <td><span style="font-family:Segoe UI;font-size:small;">megapixels</span></td>
 </tr>
 <tr class="odd">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">Print and display resolution</span></td>
+<td><b>Print and display resolution</b></td>
 <td><span style="font-family:Segoe UI;font-size:small;">dots per inch</span></td>
 </tr>
 <tr class="even">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">Speed and frequency</span></td>
+<td><b>Speed and frequency</b></td>
 <td><span style="font-family:Segoe UI;font-size:small;">baud</span></td>
 </tr>
 <tr class="odd">
@@ -158,7 +158,7 @@ See also [](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=2692
 <td><span style="font-family:Segoe UI;font-size:small;">megahertz</span></td>
 </tr>
 <tr class="odd">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">Other</span></td>
+<td><b>Other</b></td>
 <td><span style="font-family:Segoe UI;font-size:small;">degrees</span></td>
 </tr>
 <tr class="even">

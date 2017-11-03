@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -57,12 +57,12 @@ Greek that retain their Latin or Greek endings (typically *-a*, *-us*, *-um*, *-
 <table>
 <tbody>
 <tr class="odd">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">Noun</span></td>
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">Plural form</span></td>
+<td><b>Noun</b></td>
+<td><b>Plural form</b></td>
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Common and proper nouns ending in <em>s</em></span>
+<b>Common and proper nouns ending in <em>s</em></b>
 </div></td>
 <td><div>
 <span style="font-size:small;">If the noun ends in </span><em><span style="font-size:small;">s</span></em><span style="font-size:small;">, add </span><em><span style="font-size:small;">es</span></em><span style="font-size:small;">.</span>
@@ -70,7 +70,7 @@ Greek that retain their Latin or Greek endings (typically *-a*, *-us*, *-um*, *-
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Singular abbreviation</span>
+<b>Singular abbreviation</b>
 </div></td>
 <td><div>
 <span style="font-size:small;">Add an </span><em><span style="font-size:small;">s</span></em><span style="font-size:small;">, even if the abbreviation ends in </span><em><span style="font-size:small;">s.</span></em>
@@ -78,7 +78,7 @@ Greek that retain their Latin or Greek endings (typically *-a*, *-us*, *-um*, *-
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Plural abbreviation</span>
+<b>Plural abbreviation</b>
 </div></td>
 <td><div>
 <span style="font-size:small;">If an abbreviation already represents a plural, don’t add an </span><em><span style="font-size:small;">s</span></em><span style="font-size:small;">.</span>
@@ -87,7 +87,7 @@ Greek that retain their Latin or Greek endings (typically *-a*, *-us*, *-um*, *-
 <tr class="odd">
 <td><div>
 <div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Single letter</span>
+<b>Single letter</b>
 </div>
 </div></td>
 <td><div>
@@ -101,7 +101,7 @@ Greek that retain their Latin or Greek endings (typically *-a*, *-us*, *-um*, *-
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Number</span>
+<b>Number</b>
 </div></td>
 <td><div>
 <span style="font-size:small;">Add an </span><em><span style="font-size:small;">s</span></em><span style="font-size:small;">.</span>
@@ -110,7 +110,7 @@ Greek that retain their Latin or Greek endings (typically *-a*, *-us*, *-um*, *-
 <tr class="odd">
 <td><div>
 <div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Variable </span>
+<b>Variable </b>
 </div>
 </div></td>
 <td><div>

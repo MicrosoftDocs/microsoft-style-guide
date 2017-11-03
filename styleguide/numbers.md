@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -61,8 +61,8 @@ Eleven apps are included.
 <table>
 <tbody>
 <tr class="odd">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">Use numerals for</span></td>
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">Examples</span></td>
+<td><b>Use numerals for</b></td>
+<td><b>Examples</b></td>
 </tr>
 <tr class="even">
 <td><div>
@@ -87,7 +87,7 @@ Eleven apps are included.
 <span style="font-size:small;">A number the customer is directed to enter.</span>
 </div></td>
 <td><div>
-<span style="font-size:small;">Enter </span><span style="font-family:Segoe UI Semibold;font-size:small;">5</span><span style="font-family:Segoe UI;font-size:small;">.</span>
+<span style="font-size:small;">Enter </span><b>5</b><span style="font-family:Segoe UI;font-size:small;">.</span>
 </div></td>
 </tr>
 <tr class="even">

@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -36,33 +36,33 @@ being bossy. Don’t switch moods within a sentence.
 <table>
 <tbody>
 <tr class="odd">
-<td><span style="font-family: Segoe UI Semibold; font-size: small;">Mood</span></td>
-<td><span style="font-family: Segoe UI Semibold; font-size: small;">Use for</span></td>
+<td><b>Mood</b></td>
+<td><b>Use for</b></td>
 </tr>
 <tr class="even">
 <td><div>
 <div>
-<span style="font-family: Segoe UI Semibold; font-size: small;">Indicative</span>
+<b>Indicative</b>
 </div>
 </div></td>
 <td><div>
 <div>
-<span style="font-size: small;">Statements of fact, questions, assertions, and explanations—most Microsoft content.</span>
+Statements of fact, questions, assertions, and explanations—most Microsoft content.
 </div>
 </div></td>
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family: Segoe UI Semibold; font-size: small;">Imperative</span>
+<b>Imperative</b>
 </div></td>
 <td><div>
-<span style="font-size: small;">Instructions, procedures, direct commands, requests, and headings for columns that list customer actions.</span>
+Instructions, procedures, direct commands, requests, and headings for columns that list customer actions.
 </div></td>
 </tr>
 <tr class="even">
-<td><span style="font-family: Segoe UI Semibold; font-size: small;">Subjunctive</span></td>
+<td><b>Subjunctive</b></td>
 <td><div>
-<span style="font-size: small;">Wishes, hypotheses, and suggestions—avoid.</span>
+Wishes, hypotheses, and suggestions—avoid.
 </div></td>
 </tr>
 </tbody>
@@ -78,30 +78,30 @@ Voice is either active or passive. Keep it active whenever you can.
 <table>
 <tbody>
 <tr class="odd">
-<td><span style="font-family: Segoe UI Semibold; font-size: small;">Voice</span></td>
-<td><span style="font-family: Segoe UI Semibold; font-size: small;">Uses</span></td>
+<td><b>Voice</b></td>
+<td><b>Uses</b></td>
 </tr>
 <tr class="even">
 <td><div>
 <div>
-<span style="font-family: Segoe UI Semibold; font-size: small;">Active</span>
+<b>Active</b>
 </div>
 </div></td>
 <td><div>
 <div>
-<span style="font-size: small;">Most Microsoft content</span>
+Most Microsoft content
 </div>
 </div></td>
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family: Segoe UI Semibold; font-size: small;">Passive</span>
+<b>Passive</b>
 </div></td>
 <td><div>
 <ul>
-<li><span style="font-size: small;">Avoiding condescending text or blaming the customer, especially in errors, warnings, or notifications</span></li>
-<li><span style="font-size: small;">Avoiding awkward constructions</span></li>
-<li><span style="font-size: small;">Emphasizing the receiver of the action</span></li>
+<li>Avoiding condescending text or blaming the customer, especially in errors, warnings, or notifications</li>
+<li>Avoiding awkward constructions</li>
+<li>Emphasizing the receiver of the action</li>
 </ul>
 </div></td>
 </tr>
@@ -117,45 +117,45 @@ agrees with subject of the sentence in number.
 <table>
 <tbody>
 <tr class="odd">
-<td><span style="font-family: Segoe UI Semibold; font-size: small;">When the subject is</span></td>
-<td><span style="font-family: Segoe UI Semibold; font-size: small;">The verb is</span></td>
+<td><b>When the subject is</b></td>
+<td><b>The verb is</b></td>
 </tr>
 <tr class="even">
 <td><div>
 <div>
-<span style="font-size: small;">A group of things</span>
+A group of things
 </div>
 </div></td>
 <td><div>
 <div>
-<span style="font-size: small;">Singular</span>
+Singular
 </div>
 </div></td>
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-size: small;">Two or more singular things connected by </span><em><span style="font-size: small;">and</span></em>
+Two or more singular things connected by <em>and</em>
 </div></td>
 <td><div>
-<span style="font-size: small;">Plural</span>
+Plural
 </div></td>
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-size: small;">Two or more singular things connected by </span><em><span style="font-size: small;">or</span></em>
+Two or more singular things connected by <em>or</em>
 </div></td>
 <td><div>
-<span style="font-size: small;">Singular</span>
+Singular
 </div></td>
 </tr>
 <tr class="odd">
 <td><div>
 <div>
-<span style="font-size: small;">A singular thing and a plural thing connected by </span><em><span style="font-size: small;">or</span></em>
+A singular thing and a plural thing connected by <em>or</em>
 </div>
 </div></td>
 <td><div>
-<span style="font-size: small;">Singular or plural, to match the closest subject</span><br />
+Singular or plural, to match the closest subject<br />
 
 </div></td>
 </tr>

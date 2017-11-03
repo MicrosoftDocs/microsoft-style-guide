@@ -20,12 +20,12 @@ See also [Capitalization](https://worldready.cloudapp.net/Styleguide/Read?id=270
 <table>
 <tbody>
 <tr class="odd">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">Titles</span></td>
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">Convention</span></td>
+<td><b>Titles</b></td>
+<td><b>Convention</b></td>
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Games </span>
+<b>Games </b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">Title-style capitalization. Italic.</span>
@@ -33,7 +33,7 @@ See also [Capitalization](https://worldready.cloudapp.net/Styleguide/Read?id=270
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Books</span>
+<b>Books</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">Title-style capitalization. Italic in body text, citations, and other text references.</span>
@@ -41,7 +41,7 @@ See also [Capitalization](https://worldready.cloudapp.net/Styleguide/Read?id=270
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Chapters and sections of books</span>
+<b>Chapters and sections of books</b>
 </div></td>
 <td><div>
 <span><span style="color:#000000;font-family:Segoe UI;font-size:small;">Usually sentence-style capitalization. Enclose in quotation marks.</span></span>
@@ -50,7 +50,7 @@ See also [Capitalization](https://worldready.cloudapp.net/Styleguide/Read?id=270
 <tr class="odd">
 <td><div>
 <div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Song titles</span>
+<b>Song titles</b>
 </div>
 </div></td>
 <td><div>
@@ -66,7 +66,7 @@ See also [Capitalization](https://worldready.cloudapp.net/Styleguide/Read?id=270
 <tr class="odd">
 <td><div>
 <div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Titles of blog posts, web articles, and press releases</span>
+<b>Titles of blog posts, web articles, and press releases</b>
 </div>
 </div></td>
 <td><div>

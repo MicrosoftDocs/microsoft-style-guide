@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -28,38 +28,38 @@ In Word and PowerPoint, you can manage these situations without using manual lin
 <table>
 <tbody>
 <tr class="odd">
-<td><span style="font-family: Segoe UI Semibold; font-size: small;">To</span></td>
-<td><span style="font-family: Segoe UI Semibold; font-size: small;">Do this</span></td>
+<td><b>To</b></td>
+<td><b>Do this</b></td>
 </tr>
 <tr class="even">
 <td><div>
-<span style="font-size: small;">Keep a hyphenated word from breaking at the end of a line </span>
+Keep a hyphenated word from breaking at the end of a line 
 </div></td>
 <td><div>
-<span style="font-size: small;">Insert a nonbreaking hyphen by pressing Ctrl+Shift+_. </span>
+Insert a nonbreaking hyphen by pressing Ctrl+Shift+_. 
 </div></td>
 </tr>
 <tr class="odd">
 <td><div>
 <div>
-<span style="font-size: small;">Keep the last word of a paragraph with the word that precedes it</span>
+Keep the last word of a paragraph with the word that precedes it
 </div>
 </div></td>
 <td><div>
 <div>
-<span style="font-size: small;">Insert a nonbreaking space by pressing Ctrl+Shift+Space.</span>
+Insert a nonbreaking space by pressing Ctrl+Shift+Space.
 </div>
 </div></td>
 </tr>
 <tr class="even">
 <td><div>
 <div>
-<span style="font-size: small;">Control widows and orphans in Word </span>
+Control widows and orphans in Word 
 </div>
 </div></td>
 <td><div>
 <div>
-<span style="font-size: small;">Select a paragraph formatted with Normal style. On the context menu, select </span><span style="font-family: Segoe UI Semibold; font-size: small;">Styles &gt; Apply Styles</span><span style="font-size: small;">. </span><span style="font-size: small;">In the </span><span style="font-family: Segoe UI Semibold; font-size: small;">Apply Styles</span><span style="font-size: small;"> pane, select </span><span style="font-family: Segoe UI Semibold; font-size: small;">Modify</span><span style="font-size: small;">. </span><span style="font-size: small;">Select </span><span style="font-family: Segoe UI Semibold; font-size: small;">Format &gt; Paragraph</span><span style="font-size: small;">. </span><span style="font-size: small;">On the </span><span style="font-family: Segoe UI Semibold; font-size: small;">Line and page breaks</span> <strong></strong> <span style="font-size: small;">tab, </span><span style="font-size: small;">select </span><span style="font-family: Segoe UI Semibold; font-size: small;">Widow/Orphan control</span><span style="font-size: small;">.</span>
+Select a paragraph formatted with Normal style. On the context menu, select <b>Styles &gt; Apply Styles</b>. In the <b>Apply Styles</b> pane, select <b>Modify</b>. Select <b>Format &gt; Paragraph</b>. On the <b>Line and page breaks</b> <strong></strong> tab, select <b>Widow/Orphan control</b>.
 </div>
 </div></td>
 </tr>

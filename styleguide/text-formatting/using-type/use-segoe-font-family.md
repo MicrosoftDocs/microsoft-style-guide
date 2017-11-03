@@ -25,8 +25,8 @@ To learn more about using Segoe, see the [brand type guidelines](https://microso
 <table>
 <tbody>
 <tr class="odd">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">Font </span></td>
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">Recommendation</span></td>
+<td><b>Font </b></td>
+<td><b>Recommendation</b></td>
 </tr>
 <tr class="even">
 <td><div>
@@ -58,7 +58,7 @@ To learn more about using Segoe, see the [brand type guidelines](https://microso
 </tr>
 <tr class="odd">
 <td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;">Segoe UI Semibold</span>
+<b>Segoe UI Semibold</b>
 </div></td>
 <td><div>
 <span style="font-size:small;">Use for small text, text over backgrounds, or subheads.</span>

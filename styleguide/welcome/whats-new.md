@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -20,8 +20,8 @@ Contact <msstyle@microsoft.com> for archives of earlier history.
 <table>
 <tbody>
 <tr class="odd">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">Version</span></td>
-<td><span style="font-family:Segoe UI Semibold;font-size:small;">Topic</span></td>
+<td><b>Version</b></td>
+<td><b>Topic</b></td>
 </tr>
 <tr class="even">
 <td><span style="font-family:Segoe UI;font-size:small;">October 17, 2017</span></td>
