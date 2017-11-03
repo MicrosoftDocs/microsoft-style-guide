@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 higher
 
-![Copy URL](higher_files/Copy.png)
+![Copy URL](media/higher/Copy.png)
 Copy URL
 
-![Download](higher_files/Download.png)
+![Download](media/higher/Download.png)
 
 Download topic
 
@@ -25,6 +25,6 @@ a processer speed of 2.5 gigahertz (GHz) or faster
 
 **See** [later](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32560)
 
-![In progress](higher_files/activity-large.gif)
+![In progress](media/higher/activity-large.gif)
 
 URL :

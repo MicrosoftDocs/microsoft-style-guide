@@ -6,15 +6,15 @@ Loading...
 
 hosting provider
 
-![Copy URL](hosting-provider_files/Copy.png)
+![Copy URL](media/hosting-provider/Copy.png)
 Copy URL
 
-![Download](hosting-provider_files/Download.png)
+![Download](media/hosting-provider/Download.png)
 
 Download topic
 
 **See** [Cloud-computing term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28841)
 
-![In progress](hosting-provider_files/activity-large.gif)
+![In progress](media/hosting-provider/activity-large.gif)
 
 URL :

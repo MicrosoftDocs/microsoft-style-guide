@@ -6,10 +6,10 @@ Loading...
 
 rights
 
-![Copy URL](rights_files/Copy.png)
+![Copy URL](media/rights/Copy.png)
 Copy URL
 
-![Download](rights_files/Download.png)
+![Download](media/rights/Download.png)
 
 Download topic
 
@@ -25,6 +25,6 @@ Example Domain administrators should use a primary user account, which has basic
 
 **See also** [permissions](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35560), [user rights](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35562)
 
-![In progress](rights_files/activity-large.gif)
+![In progress](media/rights/activity-large.gif)
 
 URL :

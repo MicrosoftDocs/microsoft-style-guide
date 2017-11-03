@@ -6,10 +6,10 @@ Loading...
 
 alert
 
-![Copy URL](alert_files/Copy.png)
+![Copy URL](media/alert/Copy.png)
 Copy URL
 
-![Download](alert_files/Download.png)
+![Download](media/alert/Download.png)
 
 Download topic
 
@@ -29,6 +29,6 @@ Select Add alert.
 
 See also [](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35399)[notification](https://worldready.cloudapp.net/Styleguide/Read?id=2547&topicid=16439) in the *Windows, Xbox, and devices style guide* 
 
-![In progress](alert_files/activity-large.gif)
+![In progress](media/alert/activity-large.gif)
 
 URL :

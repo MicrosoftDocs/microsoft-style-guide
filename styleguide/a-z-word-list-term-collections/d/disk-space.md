@@ -6,10 +6,10 @@ Loading...
 
 disk space
 
-![Copy URL](disk-space_files/Copy.png)
+![Copy URL](media/disk-space/Copy.png)
 Copy URL
 
-![Download](disk-space_files/Download.png)
+![Download](media/disk-space/Download.png)
 
 Download topic
 
@@ -17,6 +17,6 @@ Use instead of *storage* or *memory* to refer to available capacity on a disk.
 
 **See also** [storage, storage device](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33651)
 
-![In progress](disk-space_files/activity-large.gif)
+![In progress](media/disk-space/activity-large.gif)
 
 URL :

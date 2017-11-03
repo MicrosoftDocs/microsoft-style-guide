@@ -6,10 +6,10 @@ Loading...
 
 user rights
 
-![Copy URL](user-rights_files/Copy.png)
+![Copy URL](media/user-rights/Copy.png)
 Copy URL
 
-![Download](user-rights_files/Download.png)
+![Download](media/user-rights/Download.png)
 
 Download topic
 
@@ -34,6 +34,6 @@ You must be signed in as a member of the Administrators group to perform this ta
 
 **See also** [permissions](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35560), [rights](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35561)
 
-![In progress](user-rights_files/activity-large.gif)
+![In progress](media/user-rights/activity-large.gif)
 
 URL :

@@ -6,10 +6,10 @@ Loading...
 
 find and replace
 
-![Copy URL](find-replace_files/Copy.png)
+![Copy URL](media/find-replace/Copy.png)
 Copy URL
 
-![Download](find-replace_files/Download.png)
+![Download](media/find-replace/Download.png)
 
 Download topic
 
@@ -27,6 +27,6 @@ Search through your document, and replace all instances of *cat* with *dog*.
 
 Use *find characters* and *replacement characters* to describe what the customer enters into a find or replace box.
 
-![In progress](find-replace_files/activity-large.gif)
+![In progress](media/find-replace/activity-large.gif)
 
 URL :

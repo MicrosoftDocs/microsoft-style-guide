@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 print queue, printer queue
 
-![Copy URL](print-queue-printer-queue_files/Copy.png)
+![Copy URL](media/print-queue-printer-queue/Copy.png)
 Copy URL
 
-![Download](print-queue-printer-queue_files/Download.png)
+![Download](media/print-queue-printer-queue/Download.png)
 
 Download topic
 
@@ -19,6 +19,6 @@ Examples
 Your document will be sent to the printer.
 Your file will be added to the list of documents waiting to be printed.
 
-![In progress](print-queue-printer-queue_files/activity-large.gif)
+![In progress](media/print-queue-printer-queue/activity-large.gif)
 
 URL :

@@ -6,10 +6,10 @@ Loading...
 
 read-only
 
-![Copy URL](read-only_files/Copy.png)
+![Copy URL](media/read-only/Copy.png)
 Copy URL
 
-![Download](read-only_files/Download.png)
+![Download](media/read-only/Download.png)
 
 Download topic
 
@@ -21,6 +21,6 @@ This file is read-only.
 
 **See also** [read/write, read/write permissions](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35663)
 
-![In progress](read-only_files/activity-large.gif)
+![In progress](media/read-only/activity-large.gif)
 
 URL :

@@ -6,15 +6,15 @@ Loading...
 
 XON/XOFF
 
-![Copy URL](xon-xoff_files/Copy.png)
+![Copy URL](media/xon-xoff/Copy.png)
 Copy URL
 
-![Download](xon-xoff_files/Download.png)
+![Download](media/xon-xoff/Download.png)
 
 Download topic
 
 Note capitalization and slash. 
 
-![In progress](xon-xoff_files/activity-large.gif)
+![In progress](media/xon-xoff/activity-large.gif)
 
 URL :

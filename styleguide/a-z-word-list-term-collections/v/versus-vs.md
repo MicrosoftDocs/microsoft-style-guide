@@ -6,15 +6,15 @@ Loading...
 
 versus, vs.
 
-![Copy URL](versus-vs_files/Copy.png)
+![Copy URL](media/versus-vs/Copy.png)
 Copy URL
 
-![Download](versus-vs_files/Download.png)
+![Download](media/versus-vs/Download.png)
 
 Download topic
 
 In headings, use the abbreviation *vs.*, all lowercase. In text, spell out as *versus*.
 
-![In progress](versus-vs_files/activity-large.gif)
+![In progress](media/versus-vs/activity-large.gif)
 
 URL :

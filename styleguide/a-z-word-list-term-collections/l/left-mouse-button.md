@@ -6,15 +6,15 @@ Loading...
 
 left mouse button
 
-![Copy URL](left-mouse-button_files/Copy.png)
+![Copy URL](media/left-mouse-button/Copy.png)
 Copy URL
 
-![Download](left-mouse-button_files/Download.png)
+![Download](media/left-mouse-button/Download.png)
 
 Download topic
 
 **See** [Mouse and mouse interaction term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=29013)
 
-![In progress](left-mouse-button_files/activity-large.gif)
+![In progress](media/left-mouse-button/activity-large.gif)
 
 URL :

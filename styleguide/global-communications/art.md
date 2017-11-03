@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Art
 
-![Copy URL](art_files/Copy.png)
+![Copy URL](media/art/Copy.png)
 Copy URL
 
-![Download](art_files/Download.png)
+![Download](media/art/Download.png)
 
 Download topic
 
@@ -56,6 +56,6 @@ careful with maps, which may be subject to government review. Improper
 treatment of a disputed area may be illegal in some countries. All maps
 should follow the guidelines on the [Global Readiness](https://microsoft.sharepoint.com/teams/celaGlobalReadiness/Pages/geography.aspx "Geography guidelines on Global Readiness website") site. (This site requires Microsoft network access.)
 
-![In progress](art_files/activity-large.gif)
+![In progress](media/art/activity-large.gif)
 
 URL :

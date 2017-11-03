@@ -6,15 +6,15 @@ Loading...
 
 usable
 
-![Copy URL](usable_files/Copy.png)
+![Copy URL](media/usable/Copy.png)
 Copy URL
 
-![Download](usable_files/Download.png)
+![Download](media/usable/Download.png)
 
 Download topic
 
 Use instead of *useable.*
 
-![In progress](usable_files/activity-large.gif)
+![In progress](media/usable/activity-large.gif)
 
 URL :

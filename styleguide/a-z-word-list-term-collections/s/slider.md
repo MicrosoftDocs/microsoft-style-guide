@@ -6,10 +6,10 @@ Loading...
 
 slider
 
-![Copy URL](slider_files/Copy.png)
+![Copy URL](media/slider/Copy.png)
 Copy URL
 
-![Download](slider_files/Download.png)
+![Download](media/slider/Download.png)
 
 Download topic
 
@@ -20,7 +20,7 @@ you need to describe the UI element used to set a value on a continuous
 range of possible values, such as screen brightness, mouse-click speed,
 or volume. 
 
-![](slider_files/1637616098.png)
+![](media/slider/1637616098.png)
 
 In content for developers, it's OK to refer to a slider as a *trackbar control*.
 
@@ -29,6 +29,6 @@ Don't refer to the scroll box or a progress indicator as a slider.
 Example
 Move the slider downward to decrease the volume.
 
-![In progress](slider_files/activity-large.gif)
+![In progress](media/slider/activity-large.gif)
 
 URL :

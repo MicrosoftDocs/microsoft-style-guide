@@ -6,15 +6,15 @@ Loading...
 
 as well as
 
-![Copy URL](as-well-as_files/Copy.png)
+![Copy URL](media/as-well-as/Copy.png)
 Copy URL
 
-![Download](as-well-as_files/Download.png)
+![Download](media/as-well-as/Download.png)
 
 Download topic
 
 Don't use as a synonym for *and.*
 
-![In progress](as-well-as_files/activity-large.gif)
+![In progress](media/as-well-as/activity-large.gif)
 
 URL :

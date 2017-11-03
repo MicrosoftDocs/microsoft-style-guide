@@ -6,15 +6,15 @@ Loading...
 
 wireframe
 
-![Copy URL](wireframe_files/Copy.png)
+![Copy URL](media/wireframe/Copy.png)
 Copy URL
 
-![Download](wireframe_files/Download.png)
+![Download](media/wireframe/Download.png)
 
 Download topic
 
 One word.
 
-![In progress](wireframe_files/activity-large.gif)
+![In progress](media/wireframe/activity-large.gif)
 
 URL :

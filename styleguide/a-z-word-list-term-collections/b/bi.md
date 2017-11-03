@@ -6,10 +6,10 @@ Loading...
 
 bi-
 
-![Copy URL](bi_files/Copy.png)
+![Copy URL](media/bi/Copy.png)
 Copy URL
 
-![Download](bi_files/Download.png)
+![Download](media/bi/Download.png)
 
 Download topic
 
@@ -17,6 +17,6 @@ In general, don't hyphenate words beginning with *bi-*, such as *bidirectional*,
 
 To learn more about hyphenation, see [Hyphens](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28765).
 
-![In progress](bi_files/activity-large.gif)
+![In progress](media/bi/activity-large.gif)
 
 URL :

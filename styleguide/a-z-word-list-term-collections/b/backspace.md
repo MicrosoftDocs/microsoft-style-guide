@@ -6,15 +6,15 @@ Loading...
 
 backspace
 
-![Copy URL](backspace_files/Copy.png)
+![Copy URL](media/backspace/Copy.png)
 Copy URL
 
-![Download](backspace_files/Download.png)
+![Download](media/backspace/Download.png)
 
 Download topic
 
 One word. OK to use as a verb.
 
-![In progress](backspace_files/activity-large.gif)
+![In progress](media/backspace/activity-large.gif)
 
 URL :

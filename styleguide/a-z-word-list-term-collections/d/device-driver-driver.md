@@ -6,10 +6,10 @@ Loading...
 
 device driver, driver
 
-![Copy URL](device-driver-driver_files/Copy.png)
+![Copy URL](media/device-driver-driver/Copy.png)
 Copy URL
 
-![Download](device-driver-driver_files/Download.png)
+![Download](media/device-driver-driver/Download.png)
 
 Download topic
 
@@ -23,6 +23,6 @@ In content for a general audience, define *driver* on the first mention.
 
 **See also** [Computer and device term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26597)
 
-![In progress](device-driver-driver_files/activity-large.gif)
+![In progress](media/device-driver-driver/activity-large.gif)
 
 URL :

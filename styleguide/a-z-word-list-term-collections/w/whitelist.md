@@ -6,10 +6,10 @@ Loading...
 
 whitelist
 
-![Copy URL](whitelist_files/Copy.png)
+![Copy URL](media/whitelist/Copy.png)
 Copy URL
 
-![Download](whitelist_files/Download.png)
+![Download](media/whitelist/Download.png)
 
 Download topic
 
@@ -19,6 +19,6 @@ Examples
 Safe Recipients list 
 blocked or safe programs
 
-![In progress](whitelist_files/activity-large.gif)
+![In progress](media/whitelist/activity-large.gif)
 
 URL :

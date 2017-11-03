@@ -6,15 +6,15 @@ Loading...
 
 snap-in
 
-![Copy URL](snap-in_files/Copy.png)
+![Copy URL](media/snap-in/Copy.png)
 Copy URL
 
-![Download](snap-in_files/Download.png)
+![Download](media/snap-in/Download.png)
 
 Download topic
 
 Always hyphenate. Use only to describe a program that runs in Microsoft Management Console. 
 
-![In progress](snap-in_files/activity-large.gif)
+![In progress](media/snap-in/activity-large.gif)
 
 URL :

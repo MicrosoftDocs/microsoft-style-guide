@@ -6,15 +6,15 @@ Loading...
 
 foreground program
 
-![Copy URL](foreground-program_files/Copy.png)
+![Copy URL](media/foreground-program/Copy.png)
 Copy URL
 
-![Download](foreground-program_files/Download.png)
+![Download](media/foreground-program/Download.png)
 
 Download topic
 
 In content for a technical audience, use instead of *foreground process*.
 
-![In progress](foreground-program_files/activity-large.gif)
+![In progress](media/foreground-program/activity-large.gif)
 
 URL :

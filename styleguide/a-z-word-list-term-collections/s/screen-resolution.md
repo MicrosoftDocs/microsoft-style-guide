@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 screen resolution
 
-![Copy URL](screen-resolution_files/Copy.png)
+![Copy URL](media/screen-resolution/Copy.png)
 Copy URL
 
-![Download](screen-resolution_files/Download.png)
+![Download](media/screen-resolution/Download.png)
 
 Download topic
 
@@ -19,6 +19,6 @@ Use the multiplication sign (×) instead of the letter *x*.
 
 HTML code *\&times;* or *&\#215;*
 
-![In progress](screen-resolution_files/activity-large.gif)
+![In progress](media/screen-resolution/activity-large.gif)
 
 URL :

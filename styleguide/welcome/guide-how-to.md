@@ -6,10 +6,10 @@ Loading...
 
 How to use this guide
 
-![Copy URL](guide-how-to_files/Copy.png)
+![Copy URL](media/guide-how-to/Copy.png)
 Copy URL
 
-![Download](guide-how-to_files/Download.png)
+![Download](media/guide-how-to/Download.png)
 
 Download topic
 
@@ -33,6 +33,6 @@ Windows Live ID) email addresses, and send them to [](mailto:msstyle@microsoft.c
 request permission. Some links require Microsoft network access and
 might be unavailable to users with Microsoft accounts.
 
-![In progress](guide-how-to_files/activity-large.gif)
+![In progress](media/guide-how-to/activity-large.gif)
 
 URL :

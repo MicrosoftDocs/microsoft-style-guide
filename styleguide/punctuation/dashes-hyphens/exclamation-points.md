@@ -6,15 +6,15 @@ Loading...
 
 Exclamation points
 
-![Copy URL](exclamation-points_files/Copy.png)
+![Copy URL](media/exclamation-points/Copy.png)
 Copy URL
 
-![Download](exclamation-points_files/Download.png)
+![Download](media/exclamation-points/Download.png)
 
 Download topic
 
 Use exclamation points sparingly. Save them for when they count.
 
-![In progress](exclamation-points_files/activity-large.gif)
+![In progress](media/exclamation-points/activity-large.gif)
 
 URL :

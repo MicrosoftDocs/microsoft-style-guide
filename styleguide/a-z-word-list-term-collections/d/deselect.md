@@ -6,10 +6,10 @@ Loading...
 
 deselect
 
-![Copy URL](deselect_files/Copy.png)
+![Copy URL](media/deselect/Copy.png)
 Copy URL
 
-![Download](deselect_files/Download.png)
+![Download](media/deselect/Download.png)
 
 Download topic
 
@@ -17,6 +17,6 @@ Don't use. Use *clear* for check boxes and *cancel the selection* for other UI e
 
 **See also** [Describing interactions with UI](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26472)
 
-![In progress](deselect_files/activity-large.gif)
+![In progress](media/deselect/activity-large.gif)
 
 URL :

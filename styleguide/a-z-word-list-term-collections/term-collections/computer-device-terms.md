@@ -6,10 +6,10 @@ Loading...
 
 Computer and device terms
 
-![Copy URL](computer-device-terms_files/Copy.png)
+![Copy URL](media/computer-device-terms/Copy.png)
 Copy URL
 
-![Download](computer-device-terms_files/Download.png)
+![Download](media/computer-device-terms/Download.png)
 
 Download topic
 
@@ -333,6 +333,6 @@ USB hub<br />
 </tbody>
 </table>
 
-![In progress](computer-device-terms_files/activity-large.gif)
+![In progress](media/computer-device-terms/activity-large.gif)
 
 URL :

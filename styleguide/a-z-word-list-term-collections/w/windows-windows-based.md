@@ -6,10 +6,10 @@ Loading...
 
 Windows, Windows-based
 
-![Copy URL](windows-windows-based_files/Copy.png)
+![Copy URL](media/windows-windows-based/Copy.png)
 Copy URL
 
-![Download](windows-windows-based_files/Download.png)
+![Download](media/windows-windows-based/Download.png)
 
 Download topic
 
@@ -25,6 +25,6 @@ a device running Windows
 
 **See also** [user, end user](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35393), [runs vs. runs on](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35681)
 
-![In progress](windows-windows-based_files/activity-large.gif)
+![In progress](media/windows-windows-based/activity-large.gif)
 
 URL :

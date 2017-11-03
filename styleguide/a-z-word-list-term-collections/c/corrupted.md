@@ -6,10 +6,10 @@ Loading...
 
 corrupted
 
-![Copy URL](corrupted_files/Copy.png)
+![Copy URL](media/corrupted/Copy.png)
 Copy URL
 
-![Download](corrupted_files/Download.png)
+![Download](media/corrupted/Download.png)
 
 Download topic
 
@@ -20,6 +20,6 @@ Don't use *corrupt*.
 
 ****Example Looks like something's wrong with that file. Do you want to try to repair it?
 
-![In progress](corrupted_files/activity-large.gif)
+![In progress](media/corrupted/activity-large.gif)
 
 URL :

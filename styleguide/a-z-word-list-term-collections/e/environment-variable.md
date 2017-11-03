@@ -6,15 +6,15 @@ Loading...
 
 environment variable
 
-![Copy URL](environment-variable_files/Copy.png)
+![Copy URL](media/environment-variable/Copy.png)
 Copy URL
 
-![Download](environment-variable_files/Download.png)
+![Download](media/environment-variable/Download.png)
 
 Download topic
 
 Use instead of *environment setting* or *environment string*.
 
-![In progress](environment-variable_files/activity-large.gif)
+![In progress](media/environment-variable/activity-large.gif)
 
 URL :

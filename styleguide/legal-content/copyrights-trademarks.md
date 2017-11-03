@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Copyrights and trademarks
 
-![Copy URL](copyrights-trademarks_files/Copy.png)
+![Copy URL](media/copyrights-trademarks/Copy.png)
 Copy URL
 
-![Download](copyrights-trademarks_files/Download.png)
+![Download](media/copyrights-trademarks/Download.png)
 
 Download topic
 
@@ -25,7 +25,7 @@ include a standard footer that covers copyright and other legal
 requirements for Microsoft websites. You don’t need to do anything else
 to protect Microsoft materials published on Microsoft.com sites. The standard footer is available through the [Universal Header and Footer Service](https://uhfportal-test.azurewebsites.net/). (This site requires Microsoft network access.)
 
-![](copyrights-trademarks_files/2059272539.png)
+![](media/copyrights-trademarks/2059272539.png)
 
 Marketing materials and press releases
 don't require copyright notices. Marketing materials include
@@ -95,7 +95,7 @@ a standard footer that covers trademark notices and other legal
 requirements for Microsoft websites. You don’t need to do anything else
 to protect Microsoft trademarks used on Microsoft.com sites. The standard footer is available through the [Universal Header and Footer Service](https://uhfportal-test.azurewebsites.net/). (This site requires Microsoft network access.)
 
-![](copyrights-trademarks_files/1174373525.png)
+![](media/copyrights-trademarks/1174373525.png)
 
 Products, product packaging, books, and product documentation CELA maintains specific trademark requirements for these items. See [Trademark list and attribution requirements](https://microsoft.sharepoint.com/sites/LCAWeb/Home/Copyrights-Trademarks-and-Patents/Trademarks/Trademark-List-and-Usage) for more information. (This page requires Microsoft network access.)
 
@@ -115,6 +115,6 @@ These pages require Microsoft network access.
 [
 Branding & notices for advertising & marketing](https://microsoft.sharepoint.com/sites/LCAWeb/Home/Marketing/Marketing-and-Advertising-Content/Branding-and-Notices "CELAWeb guidelines for proper trademark usage")
 
-![In progress](copyrights-trademarks_files/activity-large.gif)
+![In progress](media/copyrights-trademarks/activity-large.gif)
 
 URL :

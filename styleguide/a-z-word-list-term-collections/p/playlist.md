@@ -6,15 +6,15 @@ Loading...
 
 playlist
 
-![Copy URL](playlist_files/Copy.png)
+![Copy URL](media/playlist/Copy.png)
 Copy URL
 
-![Download](playlist_files/Download.png)
+![Download](media/playlist/Download.png)
 
 Download topic
 
 One word. A customer *adds* media *to* a playlist and *deletes* media *from* a playlist.
 
-![In progress](playlist_files/activity-large.gif)
+![In progress](media/playlist/activity-large.gif)
 
 URL :

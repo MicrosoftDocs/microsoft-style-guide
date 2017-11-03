@@ -6,10 +6,10 @@ Loading...
 
 scroll
 
-![Copy URL](scroll_files/Copy.png)
+![Copy URL](media/scroll/Copy.png)
 Copy URL
 
-![Download](scroll_files/Download.png)
+![Download](media/scroll/Download.png)
 
 Download topic
 
@@ -24,6 +24,6 @@ Examples
 Move through the folder until you see the file you want.
 Move the the wheel button on the Microsoft Arc Touch Mouse to scroll up and down in a document.
 
-![In progress](scroll_files/activity-large.gif)
+![In progress](media/scroll/activity-large.gif)
 
 URL :

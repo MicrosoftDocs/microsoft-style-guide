@@ -6,10 +6,10 @@ Loading...
 
 Search and writing checklist
 
-![Copy URL](search-writing-checklist_files/Copy.png)
+![Copy URL](media/search-writing-checklist/Copy.png)
 Copy URL
 
-![Download](search-writing-checklist_files/Download.png)
+![Download](media/search-writing-checklist/Download.png)
 
 Download topic
 
@@ -32,6 +32,6 @@ Learn more about search engine optimization:
 [MSCOM SEO library](https://microsoft.sharepoint.com/sites/mscom/seo/Pages/default.aspx) (This site requires Microsoft network access.)
 [Bing SEO primer](https://microsoft.sharepoint.com/teams/BingAPIs/SitePages/Bing%20SEO%20Primer.aspx) (This page requires Microsoft network access.)
 
-![In progress](search-writing-checklist_files/activity-large.gif)
+![In progress](media/search-writing-checklist/activity-large.gif)
 
 URL :

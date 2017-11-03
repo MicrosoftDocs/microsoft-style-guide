@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Acronyms
 
-![Copy URL](acronyms_files/Copy.png)
+![Copy URL](media/acronyms/Copy.png)
 Copy URL
 
-![Download](acronyms_files/Download.png)
+![Download](media/acronyms/Download.png)
 
 Download topic
 
@@ -108,6 +108,6 @@ Global tip In machine-translated content, be careful with acronyms that form com
 
 See also [Bits and bytes term list](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26920), [Units of measure term list](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28884)
 
-![In progress](acronyms_files/activity-large.gif)
+![In progress](media/acronyms/activity-large.gif)
 
 URL :

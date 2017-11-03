@@ -6,10 +6,10 @@ Loading...
 
 arrow
 
-![Copy URL](arrow_files/Copy.png)
+![Copy URL](media/arrow/Copy.png)
 Copy URL
 
-![Download](arrow_files/Download.png)
+![Download](media/arrow/Download.png)
 
 Download topic
 
@@ -17,6 +17,6 @@ In content teaching basic skills, it's OK to use *arrow* to identify the arrow n
 
 Example Select the Font arrow to display the list.
 
-![In progress](arrow_files/activity-large.gif)
+![In progress](media/arrow/activity-large.gif)
 
 URL :

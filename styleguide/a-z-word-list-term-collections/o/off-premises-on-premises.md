@@ -6,15 +6,15 @@ Loading...
 
 off-premises, on-premises
 
-![Copy URL](off-premises-on-premises_files/Copy.png)
+![Copy URL](media/off-premises-on-premises/Copy.png)
 Copy URL
 
-![Download](off-premises-on-premises_files/Download.png)
+![Download](media/off-premises-on-premises/Download.png)
 
 Download topic
 
 **See** [Cloud-computing term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28841)
 
-![In progress](off-premises-on-premises_files/activity-large.gif)
+![In progress](media/off-premises-on-premises/activity-large.gif)
 
 URL :

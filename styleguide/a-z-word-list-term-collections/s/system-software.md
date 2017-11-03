@@ -6,15 +6,15 @@ Loading...
 
 system software
 
-![Copy URL](system-software_files/Copy.png)
+![Copy URL](media/system-software/Copy.png)
 Copy URL
 
-![Download](system-software_files/Download.png)
+![Download](media/system-software/Download.png)
 
 Download topic
 
 Use *system software* (singular) instead of *systems software* (plural).
 
-![In progress](system-software_files/activity-large.gif)
+![In progress](media/system-software/activity-large.gif)
 
 URL :

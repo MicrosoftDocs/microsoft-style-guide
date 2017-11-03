@@ -6,10 +6,10 @@ Loading...
 
 e-book
 
-![Copy URL](e-commerce_files/Copy.png)
+![Copy URL](media/e-commerce/Copy.png)
 Copy URL
 
-![Download](e-commerce_files/Download.png)
+![Download](media/e-commerce/Download.png)
 
 Download topic
 
@@ -19,6 +19,6 @@ Use *E-book* at the beginning of a sentence or heading. In uncommon situations w
 
 See also [Capitalization](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33685)
 
-![In progress](e-commerce_files/activity-large.gif)
+![In progress](media/e-commerce/activity-large.gif)
 
 URL :

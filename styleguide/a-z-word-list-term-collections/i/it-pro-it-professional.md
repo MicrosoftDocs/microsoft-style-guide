@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,15 +6,15 @@ Loading...
 
 IT pro, IT professional
 
-![Copy URL](it-pro-it-professional_files/Copy.png)
+![Copy URL](media/it-pro-it-professional/Copy.png)
 Copy URL
 
-![Download](it-pro-it-professional_files/Download.png)
+![Download](media/it-pro-it-professional/Download.png)
 
 Download topic
 
 Use *IT pro*, not *IT professional*. Note capitalization. Don't spell out *information technology*—always use *IT.*
 
-![In progress](it-pro-it-professional_files/activity-large.gif)
+![In progress](media/it-pro-it-professional/activity-large.gif)
 
 URL :

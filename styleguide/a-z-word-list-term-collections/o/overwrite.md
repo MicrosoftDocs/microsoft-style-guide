@@ -6,10 +6,10 @@ Loading...
 
 overwrite
 
-![Copy URL](overwrite_files/Copy.png)
+![Copy URL](media/overwrite/Copy.png)
 Copy URL
 
-![Download](overwrite_files/Download.png)
+![Download](media/overwrite/Download.png)
 
 Download topic
 
@@ -17,6 +17,6 @@ Use only to describe replacing existing data with new data. Use *replace* to des
 
 Don't use *overwrite* as a synonym for *type over*.
 
-![In progress](overwrite_files/activity-large.gif)
+![In progress](media/overwrite/activity-large.gif)
 
 URL :

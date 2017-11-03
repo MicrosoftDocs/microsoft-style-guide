@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Blogs
 
-![Copy URL](social-mediablogs_files/Copy.png)
+![Copy URL](media/social-mediablogs/Copy.png)
 Copy URL
 
-![Download](social-mediablogs_files/Download.png)
+![Download](media/social-mediablogs/Download.png)
 
 Download topic
 
@@ -61,6 +61,6 @@ Learn more
 
   - [The MSDN and TechNet Blogs Support Site](https://microsoft.sharepoint.com/teams/bloginfo/Articles/Home.aspx) (This page requires Microsoft network access.)
 
-![In progress](social-mediablogs_files/activity-large.gif)
+![In progress](media/social-mediablogs/activity-large.gif)
 
 URL :

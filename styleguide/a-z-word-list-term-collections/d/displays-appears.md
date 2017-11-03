@@ -6,10 +6,10 @@ Loading...
 
 displays, appears
 
-![Copy URL](displays-appears_files/Copy.png)
+![Copy URL](media/displays-appears/Copy.png)
 Copy URL
 
-![Download](displays-appears_files/Download.png)
+![Download](media/displays-appears/Download.png)
 
 Download topic
 
@@ -23,6 +23,6 @@ Word displays a message if you try to close the program without saving the file.
 
 See [](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26597)[Computer and device term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26597) for information about using *display* as a noun.
 
-![In progress](displays-appears_files/activity-large.gif)
+![In progress](media/displays-appears/activity-large.gif)
 
 URL :

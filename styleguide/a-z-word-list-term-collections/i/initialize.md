@@ -6,10 +6,10 @@ Loading...
 
 initialize
 
-![Copy URL](initialize_files/Copy.png)
+![Copy URL](media/initialize/Copy.png)
 Copy URL
 
-![Download](initialize_files/Download.png)
+![Download](media/initialize/Download.png)
 
 Download topic
 
@@ -19,6 +19,6 @@ It's OK to use *initialize* to refer to preparing a disk or device for use or se
 
 **See also** [start, restart](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35210), [turn on, turn off](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33405)
 
-![In progress](initialize_files/activity-large.gif)
+![In progress](media/initialize/activity-large.gif)
 
 URL :

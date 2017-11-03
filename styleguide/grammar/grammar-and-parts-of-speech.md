@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Grammar and parts of speech
 
-![Copy URL](grammar-and-parts-of-speech_files/Copy.png)
+![Copy URL](media/grammar-and-parts-of-speech/Copy.png)
 Copy URL
 
-![Download](grammar-and-parts-of-speech_files/Download.png)
+![Download](media/grammar-and-parts-of-speech/Download.png)
 
 Download topic
 
@@ -29,6 +29,6 @@ This section covers common grammatical issues:
 
 Learn more For more information about grammar and parts of speech, see *[The Chicago Manual of Style](http://www.chicagomanualofstyle.org/home.html)*. If you have Microsoft network access, you can use [*The Chicago Manual of Style Online*](http://aka.ms/mslibrary/cms) through MS Library.
 
-![In progress](grammar-and-parts-of-speech_files/activity-large.gif)
+![In progress](media/grammar-and-parts-of-speech/activity-large.gif)
 
 URL :

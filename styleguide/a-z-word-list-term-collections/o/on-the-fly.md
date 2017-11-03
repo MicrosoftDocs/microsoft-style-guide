@@ -6,15 +6,15 @@ Loading...
 
 on the fly
 
-![Copy URL](on-the-fly_files/Copy.png)
+![Copy URL](media/on-the-fly/Copy.png)
 Copy URL
 
-![Download](on-the-fly_files/Download.png)
+![Download](media/on-the-fly/Download.png)
 
 Download topic
 
 OK to use in content for a technical audience to refer to something that's not created until it's needed. 
 
-![In progress](on-the-fly_files/activity-large.gif)
+![In progress](media/on-the-fly/activity-large.gif)
 
 URL :

@@ -6,15 +6,15 @@ Loading...
 
 fourth-generation language
 
-![Copy URL](fourth-generation-language_files/Copy.png)
+![Copy URL](media/fourth-generation-language/Copy.png)
 Copy URL
 
-![Download](fourth-generation-language_files/Download.png)
+![Download](media/fourth-generation-language/Download.png)
 
 Download topic
 
 Spell out on the first mention. On subsequent mentions, it's OK to abbreviate as *4GL*. 
 
-![In progress](fourth-generation-language_files/activity-large.gif)
+![In progress](media/fourth-generation-language/activity-large.gif)
 
 URL :

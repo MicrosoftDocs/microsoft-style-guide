@@ -6,10 +6,10 @@ Loading...
 
 pin, unpin
 
-![Copy URL](pin-unpin_files/Copy.png)
+![Copy URL](media/pin-unpin/Copy.png)
 Copy URL
 
-![Download](pin-unpin_files/Download.png)
+![Download](media/pin-unpin/Download.png)
 
 Download topic
 
@@ -20,12 +20,12 @@ When you pin an app, it's added to the Start menu as a new tile.
 
 Pin apps to Start
 
-1.  Select the Start ![](pin-unpin_files/967781121.png) button, and then select All apps. 
+1.  Select the Start ![](media/pin-unpin/967781121.png) button, and then select All apps. 
 
 2.  Press and hold (or right-click) the app you want to pin.
 
 3.  Select Pin to Start. 
 
-![In progress](pin-unpin_files/activity-large.gif)
+![In progress](media/pin-unpin/activity-large.gif)
 
 URL :

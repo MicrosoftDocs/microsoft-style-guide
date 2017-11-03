@@ -6,15 +6,15 @@ Loading...
 
 multithreaded
 
-![Copy URL](multithreaded_files/Copy.png)
+![Copy URL](media/multithreaded/Copy.png)
 Copy URL
 
-![Download](multithreaded_files/Download.png)
+![Download](media/multithreaded/Download.png)
 
 Download topic
 
 Use instead of *multithread*.
 
-![In progress](multithreaded_files/activity-large.gif)
+![In progress](media/multithreaded/activity-large.gif)
 
 URL :

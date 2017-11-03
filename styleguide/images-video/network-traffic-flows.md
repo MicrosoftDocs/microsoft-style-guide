@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Network traffic flows
 
-![Copy URL](network-traffic-flows_files/Copy.png)
+![Copy URL](media/network-traffic-flows/Copy.png)
 Copy URL
 
-![Download](network-traffic-flows_files/Download.png)
+![Download](media/network-traffic-flows/Download.png)
 
 Download topic
 
@@ -43,21 +43,21 @@ communication.
 
 With both types of arrows, subsequent communication is two-way.
 
-![](network-traffic-flows_files/589503366.PNG)
+![](media/network-traffic-flows/589503366.PNG)
 
 Use line styles to distinguish different traffic flows.
 
-![](network-traffic-flows_files/1252879060.png)
+![](media/network-traffic-flows/1252879060.png)
 
 Choose line colors from the Microsoft color palette that contrast with the image background and are distinct when printed or viewed in black and white. See the [brand color guidelines](https://microsoft.sharepoint.com/teams/BrandCentral/Pages/The-Microsoft-brand-Core-elements-Color.aspx "Color guidelines on Brand Central site") to learn more. (This site requires Microsoft network access.)
 
 Label specific network traffic. If possible, overlay the label onto the line: 
 
-![](network-traffic-flows_files/83067036.png)
+![](media/network-traffic-flows/83067036.png)
 
 Otherwise, add the label as a callout:
 
-![](network-traffic-flows_files/572369390.png)
+![](media/network-traffic-flows/572369390.png)
 
 #### Represent security boundaries with solid vertical lines
 
@@ -67,7 +67,7 @@ that indicate network traffic flow across the vertical line. This
 example shows firewalled and partitioned networks in Microsoft
 Azure.
 
-![](network-traffic-flows_files/881348326.png)
+![](media/network-traffic-flows/881348326.png)
 
 #### Use standard network traffic syntax
 
@@ -154,6 +154,6 @@ uses only dynamic ports.
 </tbody>
 </table>
 
-![In progress](network-traffic-flows_files/activity-large.gif)
+![In progress](media/network-traffic-flows/activity-large.gif)
 
 URL :

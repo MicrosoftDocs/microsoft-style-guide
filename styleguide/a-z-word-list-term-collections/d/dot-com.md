@@ -6,15 +6,15 @@ Loading...
 
 dot-com
 
-![Copy URL](dot-com_files/Copy.png)
+![Copy URL](media/dot-com/Copy.png)
 Copy URL
 
-![Download](dot-com_files/Download.png)
+![Download](media/dot-com/Download.png)
 
 Download topic
 
 Don't use.
 
-![In progress](dot-com_files/activity-large.gif)
+![In progress](media/dot-com/activity-large.gif)
 
 URL :

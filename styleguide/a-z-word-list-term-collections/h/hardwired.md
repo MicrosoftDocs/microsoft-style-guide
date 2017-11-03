@@ -6,15 +6,15 @@ Loading...
 
 hardwired
 
-![Copy URL](hardwired_files/Copy.png)
+![Copy URL](media/hardwired/Copy.png)
 Copy URL
 
-![Download](hardwired_files/Download.png)
+![Download](media/hardwired/Download.png)
 
 Download topic
 
 One word. Don't use in content for a general audience.
 
-![In progress](hardwired_files/activity-large.gif)
+![In progress](media/hardwired/activity-large.gif)
 
 URL :

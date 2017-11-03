@@ -6,10 +6,10 @@ Loading...
 
 button
 
-![Copy URL](button_files/Copy.png)
+![Copy URL](media/button/Copy.png)
 Copy URL
 
-![Download](button_files/Download.png)
+![Download](media/button/Download.png)
 
 Download topic
 
@@ -23,6 +23,6 @@ To enlarge a window to fill the entire screen, select the Maximize button.
 
 **See also** [Describing interactions with UI](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26472)
 
-![In progress](button_files/activity-large.gif)
+![In progress](media/button/activity-large.gif)
 
 URL :

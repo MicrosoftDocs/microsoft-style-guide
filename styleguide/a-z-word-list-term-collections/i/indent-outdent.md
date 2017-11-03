@@ -6,10 +6,10 @@ Loading...
 
 indent, outdent
 
-![Copy URL](indent-outdent_files/Copy.png)
+![Copy URL](media/indent-outdent/Copy.png)
 Copy URL
 
-![Download](indent-outdent_files/Download.png)
+![Download](media/indent-outdent/Download.png)
 
 Download topic
 
@@ -21,6 +21,6 @@ Don't use *outdent.*
 
 Don't use *indenting* or *outdenting into the margin*. Use *extending text into the margin* or *indenting to the previous tab stop* instead.
 
-![In progress](indent-outdent_files/activity-large.gif)
+![In progress](media/indent-outdent/activity-large.gif)
 
 URL :

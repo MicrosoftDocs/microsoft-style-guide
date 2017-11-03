@@ -6,10 +6,10 @@ Loading...
 
 Don't use common words in new ways
 
-![Copy URL](dont-use-common-words-in-new-ways_files/Copy.png)
+![Copy URL](media/dont-use-common-words-in-new-ways/Copy.png)
 Copy URL
 
-![Download](dont-use-common-words-in-new-ways_files/Download.png)
+![Download](media/dont-use-common-words-in-new-ways/Download.png)
 
 Download topic
 
@@ -63,6 +63,6 @@ Most people know the common definition of words—usually the one that appears f
 </tbody>
 </table>
 
-![In progress](dont-use-common-words-in-new-ways_files/activity-large.gif)
+![In progress](media/dont-use-common-words-in-new-ways/activity-large.gif)
 
 URL :

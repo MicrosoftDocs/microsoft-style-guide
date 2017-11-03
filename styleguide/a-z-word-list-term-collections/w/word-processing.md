@@ -6,10 +6,10 @@ Loading...
 
 word processing, word-processing
 
-![Copy URL](word-processing_files/Copy.png)
+![Copy URL](media/word-processing/Copy.png)
 Copy URL
 
-![Download](word-processing_files/Download.png)
+![Download](media/word-processing/Download.png)
 
 Download topic
 
@@ -19,6 +19,6 @@ Hyphenate *word-processing* as an adjective.
 
 Don't use *word process* or *word processing* as a verb. Use *write, format*, or another term instead.
 
-![In progress](word-processing_files/activity-large.gif)
+![In progress](media/word-processing/activity-large.gif)
 
 URL :

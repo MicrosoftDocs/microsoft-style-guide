@@ -6,10 +6,10 @@ Loading...
 
 where
 
-![Copy URL](where_files/Copy.png)
+![Copy URL](media/where/Copy.png)
 Copy URL
 
-![Download](where_files/Download.png)
+![Download](media/where/Download.png)
 
 Download topic
 
@@ -17,6 +17,6 @@ Use to introduce a list, as in code or formulas, to define the meaning of elemen
 
 Example Use the following formula to calculate the return, where: *r* = rate of interest *n* = number of months *p* = principal.
 
-![In progress](where_files/activity-large.gif)
+![In progress](media/where/activity-large.gif)
 
 URL :

@@ -6,15 +6,15 @@ Loading...
 
 link
 
-![Copy URL](link_files/Copy.png)
+![Copy URL](media/link/Copy.png)
 Copy URL
 
-![Download](link_files/Download.png)
+![Download](media/link/Download.png)
 
 Download topic
 
 **See** [hyperlink](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33969)
 
-![In progress](link_files/activity-large.gif)
+![In progress](media/link/activity-large.gif)
 
 URL :

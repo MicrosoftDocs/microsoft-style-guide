@@ -6,10 +6,10 @@ Loading...
 
 mission critical, mission-critical
 
-![Copy URL](mission-critical_files/Copy.png)
+![Copy URL](media/mission-critical/Copy.png)
 Copy URL
 
-![Download](mission-critical_files/Download.png)
+![Download](media/mission-critical/Download.png)
 
 Download topic
 
@@ -19,6 +19,6 @@ Use *business-critical* or simply *critical* instead
 if you can. When necessary, it's OK to use this term in a
 technical context to describe an application or business process. 
 
-![In progress](mission-critical_files/activity-large.gif)
+![In progress](media/mission-critical/activity-large.gif)
 
 URL :

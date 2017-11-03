@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Capitalization checklist
 
-![Copy URL](capitalization-checklist_files/Copy.png)
+![Copy URL](media/capitalization-checklist/Copy.png)
 Copy URL
 
-![Download](capitalization-checklist_files/Download.png)
+![Download](media/capitalization-checklist/Download.png)
 
 Download topic
 
@@ -30,6 +30,6 @@ In general, Microsoft style is sentence-style capitalization.
 Learn more about [capitalization](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33685).
 Learn more about [proper nouns](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25525).
 
-![In progress](capitalization-checklist_files/activity-large.gif)
+![In progress](media/capitalization-checklist/activity-large.gif)
 
 URL :

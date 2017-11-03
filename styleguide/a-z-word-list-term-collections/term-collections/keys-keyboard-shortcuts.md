@@ -6,10 +6,10 @@ Loading...
 
 Keys and keyboard shortcuts
 
-![Copy URL](keys-keyboard-shortcuts_files/Copy.png)
+![Copy URL](media/keys-keyboard-shortcuts/Copy.png)
 Copy URL
 
-![Download](keys-keyboard-shortcuts_files/Download.png)
+![Download](media/keys-keyboard-shortcuts/Download.png)
 
 Download topic
 
@@ -574,6 +574,6 @@ Ctrl+Shift+Comma
 
 See also [Special character term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28875)
 
-![In progress](keys-keyboard-shortcuts_files/activity-large.gif)
+![In progress](media/keys-keyboard-shortcuts/activity-large.gif)
 
 URL :

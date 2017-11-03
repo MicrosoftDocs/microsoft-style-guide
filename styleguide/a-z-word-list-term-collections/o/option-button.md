@@ -6,10 +6,10 @@ Loading...
 
 option, option button
 
-![Copy URL](option-button_files/Copy.png)
+![Copy URL](media/option-button/Copy.png)
 Copy URL
 
-![Download](option-button_files/Download.png)
+![Download](media/option-button/Download.png)
 
 Download topic
 
@@ -28,6 +28,6 @@ In content for a technical audience, some product teams use *option* instead of 
 
 **See also** **** [Describing interactions with UI](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26472)
 
-![In progress](option-button_files/activity-large.gif)
+![In progress](media/option-button/activity-large.gif)
 
 URL :

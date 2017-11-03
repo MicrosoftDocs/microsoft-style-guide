@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Tables
 
-![Copy URL](tables_files/Copy.png)
+![Copy URL](media/tables/Copy.png)
 Copy URL
 
-![Download](tables_files/Download.png)
+![Download](media/tables/Download.png)
 
 Download topic
 
@@ -90,6 +90,6 @@ the text in cells, use periods or other end punctuation only if the
 cells contain complete sentences or a mixture of fragments and
 sentences.
 
-![In progress](tables_files/activity-large.gif)
+![In progress](media/tables/activity-large.gif)
 
 URL :

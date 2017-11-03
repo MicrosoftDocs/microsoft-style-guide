@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Security, safety, and privacy content checklist
 
-![Copy URL](security-safety-privacy-content-checklist_files/Copy.png)
+![Copy URL](media/security-safety-privacy-content-checklist/Copy.png)
 Copy URL
 
-![Download](security-safety-privacy-content-checklist_files/Download.png)
+![Download](media/security-safety-privacy-content-checklist/Download.png)
 
 Download topic
 
@@ -35,6 +35,6 @@ Absolute security, privacy, and safety don't exist. When you write about these s
 
 Learn more about [security, safety, and privacy content](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26896). 
 
-![In progress](security-safety-privacy-content-checklist_files/activity-large.gif)
+![In progress](media/security-safety-privacy-content-checklist/activity-large.gif)
 
 URL :

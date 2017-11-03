@@ -6,10 +6,10 @@ Loading...
 
 handle
 
-![Copy URL](handle_files/Copy.png)
+![Copy URL](media/handle/Copy.png)
 Copy URL
 
-![Download](handle_files/Download.png)
+![Download](media/handle/Download.png)
 
 Download topic
 
@@ -25,6 +25,6 @@ handle 2
 
 To describe a handle in UI that the customer uses to move or size an object, use *move handle* or *sizing handle*. Don't use *size handle*, *grab handle*, *little box*, or similar phrases.
 
-![In progress](handle_files/activity-large.gif)
+![In progress](media/handle/activity-large.gif)
 
 URL :

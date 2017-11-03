@@ -6,17 +6,17 @@ Loading...
 
 split bar, split box
 
-![Copy URL](split-bar-split-box_files/Copy.png)
+![Copy URL](media/split-bar-split-box/Copy.png)
 Copy URL
 
-![Download](split-bar-split-box_files/Download.png)
+![Download](media/split-bar-split-box/Download.png)
 
 Download topic
 
-![](split-bar-split-box_files/1404636417.png)
+![](media/split-bar-split-box/1404636417.png)
 
 It's OK to use *split bar* and *split box* in content for all audiences.
 
-![In progress](split-bar-split-box_files/activity-large.gif)
+![In progress](media/split-bar-split-box/activity-large.gif)
 
 URL :

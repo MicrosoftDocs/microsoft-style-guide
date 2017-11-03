@@ -6,10 +6,10 @@ Loading...
 
 Describing alternative input methods
 
-![Copy URL](describing-alternative-input-methods_files/Copy.png)
+![Copy URL](media/describing-alternative-input-methods/Copy.png)
 Copy URL
 
-![Download](describing-alternative-input-methods_files/Download.png)
+![Download](media/describing-alternative-input-methods/Download.png)
 
 Download topic
 
@@ -230,6 +230,6 @@ Example
 
 2\. Right-click where you want to insert the text, and then click Paste on the Quick Access Toolbar. 
 
-![In progress](describing-alternative-input-methods_files/activity-large.gif)
+![In progress](media/describing-alternative-input-methods/activity-large.gif)
 
 URL :

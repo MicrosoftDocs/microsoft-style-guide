@@ -6,10 +6,10 @@ Loading...
 
 z-axis
 
-![Copy URL](z-axis_files/Copy.png)
+![Copy URL](media/z-axis/Copy.png)
 Copy URL
 
-![Download](z-axis_files/Download.png)
+![Download](media/z-axis/Download.png)
 
 Download topic
 
@@ -23,6 +23,6 @@ Don't use italic formatting for the *z* in *z-axis* unless the entire word is it
 
 **See also** [value axis](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33518)
 
-![In progress](z-axis_files/activity-large.gif)
+![In progress](media/z-axis/activity-large.gif)
 
 URL :

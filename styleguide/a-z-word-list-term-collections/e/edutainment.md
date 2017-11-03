@@ -6,15 +6,15 @@ Loading...
 
 edutainment
 
-![Copy URL](edutainment_files/Copy.png)
+![Copy URL](media/edutainment/Copy.png)
 Copy URL
 
-![Download](edutainment_files/Download.png)
+![Download](media/edutainment/Download.png)
 
 Download topic
 
 Don't use. 
 
-![In progress](edutainment_files/activity-large.gif)
+![In progress](media/edutainment/activity-large.gif)
 
 URL :

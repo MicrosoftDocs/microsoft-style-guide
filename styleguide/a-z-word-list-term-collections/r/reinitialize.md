@@ -6,10 +6,10 @@ Loading...
 
 reinitialize
 
-![Copy URL](reinitialize_files/Copy.png)
+![Copy URL](media/reinitialize/Copy.png)
 Copy URL
 
-![Download](reinitialize_files/Download.png)
+![Download](media/reinitialize/Download.png)
 
 Download topic
 
@@ -17,6 +17,6 @@ Don't use to mean *restart*.
 
 **See also** [initialize](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=34933), [start, restart](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35210)
 
-![In progress](reinitialize_files/activity-large.gif)
+![In progress](media/reinitialize/activity-large.gif)
 
 URL :

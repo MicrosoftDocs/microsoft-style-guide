@@ -6,10 +6,10 @@ Loading...
 
 e-learning
 
-![Copy URL](e-learning_files/Copy.png)
+![Copy URL](media/e-learning/Copy.png)
 Copy URL
 
-![Download](e-learning_files/Download.png)
+![Download](media/e-learning/Download.png)
 
 Download topic
 
@@ -19,6 +19,6 @@ Use *E-learning* at the beginning of a sentence or heading. In uncommon situatio
 
 See also [Capitalization](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33685)
 
-![In progress](e-learning_files/activity-large.gif)
+![In progress](media/e-learning/activity-large.gif)
 
 URL :

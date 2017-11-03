@@ -6,10 +6,10 @@ Loading...
 
 executable, .exe
 
-![Copy URL](execute_files/Copy.png)
+![Copy URL](media/execute/Copy.png)
 Copy URL
 
-![Download](execute_files/Download.png)
+![Download](media/execute/Download.png)
 
 Download topic
 
@@ -21,6 +21,6 @@ the .exe file
 
 Use *executable file* only in content for a technical audience. For a general audience, use *program file* instead. 
 
-![In progress](execute_files/activity-large.gif)
+![In progress](media/execute/activity-large.gif)
 
 URL :

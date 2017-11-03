@@ -6,10 +6,10 @@ Loading...
 
 over
 
-![Copy URL](over_files/Copy.png)
+![Copy URL](media/over/Copy.png)
 Copy URL
 
-![Download](over_files/Download.png)
+![Download](media/over/Download.png)
 
 Download topic
 
@@ -23,6 +23,6 @@ Don't use to refer to version numbers. Use *later* instead.
 
 **See also** [later](https://worldready.cloudapp.net/Styleguide/Read?id=1413&topicid=5476)
 
-![In progress](over_files/activity-large.gif)
+![In progress](media/over/activity-large.gif)
 
 URL :

@@ -6,15 +6,15 @@ Loading...
 
 Boolean
 
-![Copy URL](boolean_files/Copy.png)
+![Copy URL](media/boolean/Copy.png)
 Copy URL
 
-![Download](boolean_files/Download.png)
+![Download](media/boolean/Download.png)
 
 Download topic
 
 Always capitalize.
 
-![In progress](boolean_files/activity-large.gif)
+![In progress](media/boolean/activity-large.gif)
 
 URL :

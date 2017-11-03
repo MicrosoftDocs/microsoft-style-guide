@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Time and place
 
-![Copy URL](time-place_files/Copy.png)
+![Copy URL](media/time-place/Copy.png)
 Copy URL
 
-![Download](time-place_files/Download.png)
+![Download](media/time-place/Download.png)
 
 Download topic
 
@@ -42,6 +42,6 @@ Use the following guidelines when talking about time and place.
 
 **See also **[Date and time term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=27390)
 
-![In progress](time-place_files/activity-large.gif)
+![In progress](media/time-place/activity-large.gif)
 
 URL :

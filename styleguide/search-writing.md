@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Search and writing
 
-![Copy URL](search-writing_files/Copy.png)
+![Copy URL](media/search-writing/Copy.png)
 Copy URL
 
-![Download](search-writing_files/Download.png)
+![Download](media/search-writing/Download.png)
 
 Download topic
 
@@ -73,6 +73,6 @@ create backlinks just to improve your site's search ranking.
 Search practices that don’t make sense for your content rarely
 work and often backfire.
 
-![In progress](search-writing_files/activity-large.gif)
+![In progress](media/search-writing/activity-large.gif)
 
 URL :

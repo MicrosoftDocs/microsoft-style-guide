@@ -6,10 +6,10 @@ Loading...
 
 simply
 
-![Copy URL](simply_files/Copy.png)
+![Copy URL](media/simply/Copy.png)
 Copy URL
 
-![Download](simply_files/Download.png)
+![Download](media/simply/Download.png)
 
 Download topic
 
@@ -19,6 +19,6 @@ Examples
 To publish your files to the web, select Publish to the web. 
 When you see a clip that you like, drag it into your document.
 
-![In progress](simply_files/activity-large.gif)
+![In progress](media/simply/activity-large.gif)
 
 URL :

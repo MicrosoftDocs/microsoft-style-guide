@@ -6,10 +6,10 @@ Loading...
 
 open source, open-source
 
-![Copy URL](open-source_files/Copy.png)
+![Copy URL](media/open-source/Copy.png)
 Copy URL
 
-![Download](open-source_files/Download.png)
+![Download](media/open-source/Download.png)
 
 Download topic
 
@@ -21,6 +21,6 @@ Don't hyphenate in other instances, such as *Open source is a development model 
 
 Don't use *OSS* as an abbreviation for *open-source software.*
 
-![In progress](open-source_files/activity-large.gif)
+![In progress](media/open-source/activity-large.gif)
 
 URL :

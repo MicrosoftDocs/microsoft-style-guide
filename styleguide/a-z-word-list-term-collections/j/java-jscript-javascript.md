@@ -6,10 +6,10 @@ Loading...
 
 Java, JScript, JavaScript
 
-![Copy URL](java-jscript-javascript_files/Copy.png)
+![Copy URL](media/java-jscript-javascript/Copy.png)
 Copy URL
 
-![Download](java-jscript-javascript_files/Download.png)
+![Download](media/java-jscript-javascript/Download.png)
 
 Download topic
 
@@ -19,6 +19,6 @@ Use *JScript* to refer to the Microsoft implementation of the ECMAScript scripti
 
 Use *JavaScript* to refer to the widely used web-based programming language, under the Oracle trademark.
 
-![In progress](java-jscript-javascript_files/activity-large.gif)
+![In progress](media/java-jscript-javascript/activity-large.gif)
 
 URL :

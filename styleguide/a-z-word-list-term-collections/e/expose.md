@@ -6,10 +6,10 @@ Loading...
 
 expose
 
-![Copy URL](expose_files/Copy.png)
+![Copy URL](media/expose/Copy.png)
 Copy URL
 
-![Download](expose_files/Download.png)
+![Download](media/expose/Download.png)
 
 Download topic
 
@@ -20,6 +20,6 @@ in content about object-oriented programming technologies, such as
 the Component Object Model (COM), to describe making an object's
 services available to clients.
 
-![In progress](expose_files/activity-large.gif)
+![In progress](media/expose/activity-large.gif)
 
 URL :

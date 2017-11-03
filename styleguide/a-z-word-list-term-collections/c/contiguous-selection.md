@@ -6,15 +6,15 @@ Loading...
 
 context-sensitive
 
-![Copy URL](contiguous-selection_files/Copy.png)
+![Copy URL](media/contiguous-selection/Copy.png)
 Copy URL
 
-![Download](contiguous-selection_files/Download.png)
+![Download](media/contiguous-selection/Download.png)
 
 Download topic
 
 Always hyphenate.
 
-![In progress](contiguous-selection_files/activity-large.gif)
+![In progress](media/contiguous-selection/activity-large.gif)
 
 URL :

@@ -6,10 +6,10 @@ Loading...
 
 table of contents
 
-![Copy URL](table-of-contents_files/Copy.png)
+![Copy URL](media/table-of-contents/Copy.png)
 Copy URL
 
-![Download](table-of-contents_files/Download.png)
+![Download](media/table-of-contents/Download.png)
 
 Download topic
 
@@ -19,6 +19,6 @@ It's OK to refer generically to a *table of contents*.
 
 Don't use to describe on-screen navigation.
 
-![In progress](table-of-contents_files/activity-large.gif)
+![In progress](media/table-of-contents/activity-large.gif)
 
 URL :

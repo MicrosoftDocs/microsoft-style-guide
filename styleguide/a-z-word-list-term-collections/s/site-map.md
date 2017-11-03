@@ -6,15 +6,15 @@ Loading...
 
 site map
 
-![Copy URL](site-map_files/Copy.png)
+![Copy URL](media/site-map/Copy.png)
 Copy URL
 
-![Download](site-map_files/Download.png)
+![Download](media/site-map/Download.png)
 
 Download topic
 
 Two words. 
 
-![In progress](site-map_files/activity-large.gif)
+![In progress](media/site-map/activity-large.gif)
 
 URL :

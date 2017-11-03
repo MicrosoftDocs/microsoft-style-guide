@@ -6,10 +6,10 @@ Loading...
 
 network administrator
 
-![Copy URL](network-administrator_files/Copy.png)
+![Copy URL](media/network-administrator/Copy.png)
 Copy URL
 
-![Download](network-administrator_files/Download.png)
+![Download](media/network-administrator/Download.png)
 
 Download topic
 
@@ -17,6 +17,6 @@ Use only to specifically refer to the administrator of networks. In general, use
 
 **See also** [administrator, admin](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32359)
 
-![In progress](network-administrator_files/activity-large.gif)
+![In progress](media/network-administrator/activity-large.gif)
 
 URL :

@@ -6,10 +6,10 @@ Loading...
 
 handshake
 
-![Copy URL](handshake_files/Copy.png)
+![Copy URL](media/handshake/Copy.png)
 Copy URL
 
-![Download](handshake_files/Download.png)
+![Download](media/handshake/Download.png)
 
 Download topic
 
@@ -18,6 +18,6 @@ One word. In content for a general audience, briefly define the term on the firs
 Example
 Systems must use the same flow-control (or *handshake*) method. To determine whether the systems use the same handshake method ....
 
-![In progress](handshake_files/activity-large.gif)
+![In progress](media/handshake/activity-large.gif)
 
 URL :

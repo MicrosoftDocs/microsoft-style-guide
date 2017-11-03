@@ -6,10 +6,10 @@ Loading...
 
 Formatting developer text elements
 
-![Copy URL](formatting-developer-text-elements_files/Copy.png)
+![Copy URL](media/formatting-developer-text-elements/Copy.png)
 Copy URL
 
-![Download](formatting-developer-text-elements_files/Download.png)
+![Download](media/formatting-developer-text-elements/Download.png)
 
 Download topic
 
@@ -356,6 +356,6 @@ See also
 </tbody>
 </table>
 
-![In progress](formatting-developer-text-elements_files/activity-large.gif)
+![In progress](media/formatting-developer-text-elements/activity-large.gif)
 
 URL :

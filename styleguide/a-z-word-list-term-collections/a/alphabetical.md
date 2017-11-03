@@ -6,15 +6,15 @@ Loading...
 
 alphabetical
 
-![Copy URL](alphabetical_files/Copy.png)
+![Copy URL](media/alphabetical/Copy.png)
 Copy URL
 
-![Download](alphabetical_files/Download.png)
+![Download](media/alphabetical/Download.png)
 
 Download topic
 
 Use instead of *alphabetic*.
 
-![In progress](alphabetical_files/activity-large.gif)
+![In progress](media/alphabetical/activity-large.gif)
 
 URL :

@@ -6,10 +6,10 @@ Loading...
 
 Use left alignment
 
-![Copy URL](use-left-alignment_files/Copy.png)
+![Copy URL](media/use-left-alignment/Copy.png)
 Copy URL
 
-![Download](use-left-alignment_files/Download.png)
+![Download](media/use-left-alignment/Download.png)
 
 Download topic
 
@@ -66,6 +66,6 @@ Select a paragraph formatted with Normal style. On the context menu, select <b>S
 </tbody>
 </table>
 
-![In progress](use-left-alignment_files/activity-large.gif)
+![In progress](media/use-left-alignment/activity-large.gif)
 
 URL :

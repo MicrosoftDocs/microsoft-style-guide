@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Legal considerations
 
-![Copy URL](legal-considerations_files/Copy.png)
+![Copy URL](media/legal-considerations/Copy.png)
 Copy URL
 
-![Download](legal-considerations_files/Download.png)
+![Download](media/legal-considerations/Download.png)
 
 Download topic
 
@@ -146,6 +146,6 @@ content from third parties, check with [your group's paralegal](https://microsof
 permission for your specific use, quote it exactly, and include the required
 citations, which vary by type of content and across content sources.
 
-![In progress](legal-considerations_files/activity-large.gif)
+![In progress](media/legal-considerations/activity-large.gif)
 
 URL :

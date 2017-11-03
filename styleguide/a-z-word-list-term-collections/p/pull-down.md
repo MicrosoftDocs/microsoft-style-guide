@@ -6,10 +6,10 @@ Loading...
 
 pull-down
 
-![Copy URL](pull-down_files/Copy.png)
+![Copy URL](media/pull-down/Copy.png)
 Copy URL
 
-![Download](pull-down_files/Download.png)
+![Download](media/pull-down/Download.png)
 
 Download topic
 
@@ -17,6 +17,6 @@ Don't use *pull-down* as an adjective or a noun to describe a menu or list. Don'
 
 **See also **[drop-down](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28800)
 
-![In progress](pull-down_files/activity-large.gif)
+![In progress](media/pull-down/activity-large.gif)
 
 URL :

@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 un-
 
-![Copy URL](un_files/Copy.png)
+![Copy URL](media/un/Copy.png)
 Copy URL
 
-![Download](un_files/Download.png)
+![Download](media/un/Download.png)
 
 Download topic
 
@@ -17,6 +17,6 @@ In general, don’t hyphenate words beginning with *un-*, such as *undo* and *un
 
 To learn more about hyphenation, see [Hyphens](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28765).
 
-![In progress](un_files/activity-large.gif)
+![In progress](media/un/activity-large.gif)
 
 URL :

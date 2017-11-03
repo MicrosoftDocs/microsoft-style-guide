@@ -6,10 +6,10 @@ Loading...
 
 should vs. must
 
-![Copy URL](should-vs-must_files/Copy.png)
+![Copy URL](media/should-vs-must/Copy.png)
 Copy URL
 
-![Download](should-vs-must_files/Download.png)
+![Download](media/should-vs-must/Download.png)
 
 Download topic
 
@@ -34,6 +34,6 @@ Use *must* only to describe a required action.
 Example**
 **To save copies of a document in the same location, you must save each copy with a different file name.
 
-![In progress](should-vs-must_files/activity-large.gif)
+![In progress](media/should-vs-must/activity-large.gif)
 
 URL :

@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Wi-Fi
 
-![Copy URL](wi-fi_files/Copy.png)
+![Copy URL](media/wi-fi/Copy.png)
 Copy URL
 
-![Download](wi-fi_files/Download.png)
+![Download](media/wi-fi/Download.png)
 
 Download topic
 
@@ -17,6 +17,6 @@ Try to use a general phrase instead, such as *wireless network*, or refer to the
 
 *Wi-Fi* is a proper noun and a registered trademark. Capitalize and hyphenate when referring specifically to Wi-Fi technologies. Don’t use *WiFi*, *wifi*, or *Wifi*. Don’t include the registered trademark symbol (®).
 
-![In progress](wi-fi_files/activity-large.gif)
+![In progress](media/wi-fi/activity-large.gif)
 
 URL :

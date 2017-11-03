@@ -6,10 +6,10 @@ Loading...
 
 global
 
-![Copy URL](global_files/Copy.png)
+![Copy URL](media/global/Copy.png)
 Copy URL
 
-![Download](global_files/Download.png)
+![Download](media/global/Download.png)
 
 Download topic
 
@@ -33,6 +33,6 @@ The manufacturer is using Office 365 to expand its global supply chain.
 
 See also [worldwide vs. international](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=39585)
 
-![In progress](global_files/activity-large.gif)
+![In progress](media/global/activity-large.gif)
 
 URL :

@@ -6,10 +6,10 @@ Loading...
 
 browse
 
-![Copy URL](browse_files/Copy.png)
+![Copy URL](media/browse/Copy.png)
 Copy URL
 
-![Download](browse_files/Download.png)
+![Download](media/browse/Download.png)
 
 Download topic
 
@@ -19,6 +19,6 @@ If your app, product, or service refers to the ellipsis button as the Browse but
 
 It's OK to use *browse* *the web,* but use *browse through* a list, database, document, or similar item.
 
-![In progress](browse_files/activity-large.gif)
+![In progress](media/browse/activity-large.gif)
 
 URL :

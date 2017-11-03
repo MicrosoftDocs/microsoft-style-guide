@@ -6,10 +6,10 @@ Loading...
 
 favorite
 
-![Copy URL](favorite_files/Copy.png)
+![Copy URL](media/favorite/Copy.png)
 Copy URL
 
-![Download](favorite_files/Download.png)
+![Download](media/favorite/Download.png)
 
 Download topic
 
@@ -19,6 +19,6 @@ Examples
 Select Add to favorites to add a website to the Favorites **** menu. 
 Go to the Favorites menu to see your list of favorite websites.
 
-![In progress](favorite_files/activity-large.gif)
+![In progress](media/favorite/activity-large.gif)
 
 URL :

@@ -6,15 +6,15 @@ Loading...
 
 on-screen keyboard
 
-![Copy URL](on-screen-keyboard_files/Copy.png)
+![Copy URL](media/on-screen-keyboard/Copy.png)
 Copy URL
 
-![Download](on-screen-keyboard_files/Download.png)
+![Download](media/on-screen-keyboard/Download.png)
 
 Download topic
 
 **See** [Keys and keyboard shortcuts term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=27401)
 
-![In progress](on-screen-keyboard_files/activity-large.gif)
+![In progress](media/on-screen-keyboard/activity-large.gif)
 
 URL :

@@ -6,10 +6,10 @@ Loading...
 
 non-
 
-![Copy URL](non_files/Copy.png)
+![Copy URL](media/non/Copy.png)
 Copy URL
 
-![Download](non_files/Download.png)
+![Download](media/non/Download.png)
 
 Download topic
 
@@ -22,6 +22,6 @@ unrelated to security (instead of *non-security related*)
 
 To learn more about hyphenation, see **** [Hyphens](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28765).
 
-![In progress](non_files/activity-large.gif)
+![In progress](media/non/activity-large.gif)
 
 URL :

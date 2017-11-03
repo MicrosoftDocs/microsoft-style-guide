@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Microsoft
 
-![Copy URL](microsoft_files/Copy.png)
+![Copy URL](media/microsoft/Copy.png)
 Copy URL
 
-![Download](microsoft_files/Download.png)
+![Download](media/microsoft/Download.png)
 
 Download topic
 
@@ -25,6 +25,6 @@ Microsoft’s privacy policies
 
 For more information about the correct use of the Microsoft trademark, see [Copyrights and trademarks](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26696). For references to specific Microsoft product and service names, see the relevant product group editorial style guide.
 
-![In progress](microsoft_files/activity-large.gif)
+![In progress](media/microsoft/activity-large.gif)
 
 URL :

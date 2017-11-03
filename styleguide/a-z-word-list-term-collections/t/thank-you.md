@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 thank you
 
-![Copy URL](thank-you_files/Copy.png)
+![Copy URL](media/thank-you/Copy.png)
 Copy URL
 
-![Download](thank-you_files/Download.png)
+![Download](media/thank-you/Download.png)
 
 Download topic
 
@@ -17,6 +17,6 @@ Use *thank you* only when the customer has provided information that’s difficu
 
 Example Thank you for submitting a request. 
 
-![In progress](thank-you_files/activity-large.gif)
+![In progress](media/thank-you/activity-large.gif)
 
 URL :

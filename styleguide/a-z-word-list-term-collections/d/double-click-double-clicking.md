@@ -6,15 +6,15 @@ Loading...
 
 double-click, double-clicking
 
-![Copy URL](double-click-double-clicking_files/Copy.png)
+![Copy URL](media/double-click-double-clicking/Copy.png)
 Copy URL
 
-![Download](double-click-double-clicking_files/Download.png)
+![Download](media/double-click-double-clicking/Download.png)
 
 Download topic
 
 See [Mouse and mouse interaction term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=29013)
 
-![In progress](double-click-double-clicking_files/activity-large.gif)
+![In progress](media/double-click-double-clicking/activity-large.gif)
 
 URL :

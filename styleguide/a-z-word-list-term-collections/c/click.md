@@ -6,10 +6,10 @@ Loading...
 
 click
 
-![Copy URL](click_files/Copy.png)
+![Copy URL](media/click/Copy.png)
 Copy URL
 
-![Download](click_files/Download.png)
+![Download](media/click/Download.png)
 
 Download topic
 
@@ -19,6 +19,6 @@ It's OK to use *click* when you need to describe mouse actions specifically.
 
 **See** [Describing interactions with UI](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26472)
 
-![In progress](click_files/activity-large.gif)
+![In progress](media/click/activity-large.gif)
 
 URL :

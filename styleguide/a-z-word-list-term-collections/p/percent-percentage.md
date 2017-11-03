@@ -6,10 +6,10 @@ Loading...
 
 percent, percentage
 
-![Copy URL](percent-percentage_files/Copy.png)
+![Copy URL](media/percent-percentage/Copy.png)
 Copy URL
 
-![Download](percent-percentage_files/Download.png)
+![Download](media/percent-percentage/Download.png)
 
 Download topic
 
@@ -58,6 +58,6 @@ Examples**
   - 10 percent is the percent discount. 
   - $10.00 is the percentage discount. 
 
-![In progress](percent-percentage_files/activity-large.gif)
+![In progress](media/percent-percentage/activity-large.gif)
 
 URL :

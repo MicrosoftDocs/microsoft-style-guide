@@ -6,10 +6,10 @@ Loading...
 
 parameter
 
-![Copy URL](parameter_files/Copy.png)
+![Copy URL](media/parameter/Copy.png)
 Copy URL
 
-![Download](parameter_files/Download.png)
+![Download](media/parameter/Download.png)
 
 Download topic
 
@@ -17,6 +17,6 @@ Use for a value given to a variable until an operation is completed. Don't use t
 
 **See also** **** [argument vs. parameter](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32539)
 
-![In progress](parameter_files/activity-large.gif)
+![In progress](media/parameter/activity-large.gif)
 
 URL :

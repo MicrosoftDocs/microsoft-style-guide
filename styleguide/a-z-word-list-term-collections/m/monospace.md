@@ -6,15 +6,15 @@ Loading...
 
 monospace
 
-![Copy URL](monospace_files/Copy.png)
+![Copy URL](media/monospace/Copy.png)
 Copy URL
 
-![Download](monospace_files/Download.png)
+![Download](media/monospace/Download.png)
 
 Download topic
 
 One word.
 
-![In progress](monospace_files/activity-large.gif)
+![In progress](media/monospace/activity-large.gif)
 
 URL :

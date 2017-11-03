@@ -6,10 +6,10 @@ Loading...
 
 load
 
-![Copy URL](load_files/Copy.png)
+![Copy URL](media/load/Copy.png)
 Copy URL
 
-![Download](load_files/Download.png)
+![Download](media/load/Download.png)
 
 Download topic
 
@@ -33,6 +33,6 @@ When you're ready to play again, load your saved game.
 
 **See also** [download](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33615)
 
-![In progress](load_files/activity-large.gif)
+![In progress](media/load/activity-large.gif)
 
 URL :

@@ -6,10 +6,10 @@ Loading...
 
 half inch
 
-![Copy URL](half-inch_files/Copy.png)
+![Copy URL](media/half-inch/Copy.png)
 Copy URL
 
-![Download](half-inch_files/Download.png)
+![Download](media/half-inch/Download.png)
 
 Download topic
 
@@ -22,6 +22,6 @@ the abbreviation *in.* as the word *in*.
 
 **See also** [Units of measure term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28884)
 
-![In progress](half-inch_files/activity-large.gif)
+![In progress](media/half-inch/activity-large.gif)
 
 URL :

@@ -6,10 +6,10 @@ Loading...
 
 virtualize
 
-![Copy URL](virtualize_files/Copy.png)
+![Copy URL](media/virtualize/Copy.png)
 Copy URL
 
-![Download](virtualize_files/Download.png)
+![Download](media/virtualize/Download.png)
 
 Download topic
 
@@ -19,6 +19,6 @@ In content for a technical audience, it's OK to use *virtualize* sparingly to me
 
 Don't use as a synonym for *simulate*.
 
-![In progress](virtualize_files/activity-large.gif)
+![In progress](media/virtualize/activity-large.gif)
 
 URL :

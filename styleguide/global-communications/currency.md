@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Currency
 
-![Copy URL](currency_files/Copy.png)
+![Copy URL](media/currency/Copy.png)
 Copy URL
 
-![Download](currency_files/Download.png)
+![Download](media/currency/Download.png)
 
 Download topic
 
@@ -31,7 +31,7 @@ options, it's OK to capitalize the name of the currency.
 
 Example
 
-![](currency_files/1453401234.png)
+![](media/currency/1453401234.png)
 
 #### Specific monetary amounts
 
@@ -56,6 +56,6 @@ To find a currency name or code:
 
 See also [](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33706)[euro](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33706)
 
-![In progress](currency_files/activity-large.gif)
+![In progress](media/currency/activity-large.gif)
 
 URL :

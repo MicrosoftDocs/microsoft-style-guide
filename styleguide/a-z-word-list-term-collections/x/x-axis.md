@@ -6,10 +6,10 @@ Loading...
 
 x-axis
 
-![Copy URL](x-axis_files/Copy.png)
+![Copy URL](media/x-axis/Copy.png)
 Copy URL
 
-![Download](x-axis_files/Download.png)
+![Download](media/x-axis/Download.png)
 
 Download topic
 
@@ -21,6 +21,6 @@ Don't use italic formatting for the *x* in *x-axis* unless the entire word is it
 
 See also [](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33518)[category axis](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33517)
 
-![In progress](x-axis_files/activity-large.gif)
+![In progress](media/x-axis/activity-large.gif)
 
 URL :

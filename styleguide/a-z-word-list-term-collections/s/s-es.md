@@ -6,10 +6,10 @@ Loading...
 
 (s), (es)
 
-![Copy URL](s-es_files/Copy.png)
+![Copy URL](media/s-es/Copy.png)
 Copy URL
 
-![Download](s-es_files/Download.png)
+![Download](media/s-es/Download.png)
 
 Download topic
 
@@ -24,6 +24,6 @@ To add one or more rows or columns to a table, ....
 
 **See also** **** [Nouns](https://worldready.cloudapp.net/Styleguide/Read?id=1413&topicid=3877)
 
-![In progress](s-es_files/activity-large.gif)
+![In progress](media/s-es/activity-large.gif)
 
 URL :

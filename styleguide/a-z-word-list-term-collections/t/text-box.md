@@ -6,10 +6,10 @@ Loading...
 
 text box
 
-![Copy URL](text-box_files/Copy.png)
+![Copy URL](media/text-box/Copy.png)
 Copy URL
 
-![Download](text-box_files/Download.png)
+![Download](media/text-box/Download.png)
 
 Download topic
 
@@ -21,6 +21,6 @@ Enter or update an email address for Work email.
 
 In content for developers, it's OK to use *text box* in content about designing and developing the UI.
 
-![In progress](text-box_files/activity-large.gif)
+![In progress](media/text-box/activity-large.gif)
 
 URL :

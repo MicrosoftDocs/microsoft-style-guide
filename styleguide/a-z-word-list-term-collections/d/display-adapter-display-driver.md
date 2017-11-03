@@ -6,15 +6,15 @@ Loading...
 
 display adapter, display driver
 
-![Copy URL](display-adapter-display-driver_files/Copy.png)
+![Copy URL](media/display-adapter-display-driver/Copy.png)
 Copy URL
 
-![Download](display-adapter-display-driver_files/Download.png)
+![Download](media/display-adapter-display-driver/Download.png)
 
 Download topic
 
 Don't use. Use *video card* and *video driver* instead.
 
-![In progress](display-adapter-display-driver_files/activity-large.gif)
+![In progress](media/display-adapter-display-driver/activity-large.gif)
 
 URL :

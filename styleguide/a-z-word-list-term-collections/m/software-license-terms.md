@@ -6,10 +6,10 @@ Loading...
 
 Microsoft Software License Terms
 
-![Copy URL](software-license-terms_files/Copy.png)
+![Copy URL](media/software-license-terms/Copy.png)
 Copy URL
 
-![Download](software-license-terms_files/Download.png)
+![Download](media/software-license-terms/Download.png)
 
 Download topic
 
@@ -17,6 +17,6 @@ When referring to the license agreement, use *Microsoft Software License Terms*,
 
 Don't use *licensing terms*.
 
-![In progress](software-license-terms_files/activity-large.gif)
+![In progress](media/software-license-terms/activity-large.gif)
 
 URL :

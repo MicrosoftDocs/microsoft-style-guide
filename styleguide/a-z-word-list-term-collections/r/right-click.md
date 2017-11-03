@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 right-click
 
-![Copy URL](right-click_files/Copy.png)
+![Copy URL](media/right-click/Copy.png)
 Copy URL
 
-![Download](right-click_files/Download.png)
+![Download](media/right-click/Download.png)
 
 Download topic
 
@@ -21,6 +21,6 @@ Right-click to select the file.
 
 **See also** [Mouse and mouse interaction term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=29013)
 
-![In progress](right-click_files/activity-large.gif)
+![In progress](media/right-click/activity-large.gif)
 
 URL :

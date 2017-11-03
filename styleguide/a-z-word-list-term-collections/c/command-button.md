@@ -6,10 +6,10 @@ Loading...
 
 command button
 
-![Copy URL](command-button_files/Copy.png)
+![Copy URL](media/command-button/Copy.png)
 Copy URL
 
-![Download](command-button_files/Download.png)
+![Download](media/command-button/Download.png)
 
 Download topic
 
@@ -26,6 +26,6 @@ It's OK to use *command button* in content for developers about creating command
 
 Don't refer to a command button as an *action button* or *push button*. 
 
-![In progress](command-button_files/activity-large.gif)
+![In progress](media/command-button/activity-large.gif)
 
 URL :

@@ -6,10 +6,10 @@ Loading...
 
 page
 
-![Copy URL](page_files/Copy.png)
+![Copy URL](media/page/Copy.png)
 Copy URL
 
-![Download](page_files/Download.png)
+![Download](media/page/Download.png)
 
 Download topic
 
@@ -17,6 +17,6 @@ Use *page* or *webpage* to describe one of a collection of web documents that ma
 
 In a wizard, use *page* instead of *screen* to refer to an individual screen.
 
-![In progress](page_files/activity-large.gif)
+![In progress](media/page/activity-large.gif)
 
 URL :

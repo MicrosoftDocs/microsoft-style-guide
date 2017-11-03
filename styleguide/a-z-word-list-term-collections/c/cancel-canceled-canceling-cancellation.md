@@ -6,10 +6,10 @@ Loading...
 
 can, may
 
-![Copy URL](cancel-canceled-canceling-cancellation_files/Copy.png)
+![Copy URL](media/cancel-canceled-canceling-cancellation/Copy.png)
 Copy URL
 
-![Download](cancel-canceled-canceling-cancellation_files/Download.png)
+![Download](media/cancel-canceled-canceling-cancellation/Download.png)
 
 Download topic
 
@@ -21,6 +21,6 @@ When ability is what you need to express, it's OK to use *can* to describe actio
 
 Don't substitute *could* for *can* unless you're referring to the past. 
 
-![In progress](cancel-canceled-canceling-cancellation_files/activity-large.gif)
+![In progress](media/cancel-canceled-canceling-cancellation/activity-large.gif)
 
 URL :

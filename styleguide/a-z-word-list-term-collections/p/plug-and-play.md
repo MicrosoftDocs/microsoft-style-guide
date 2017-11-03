@@ -6,10 +6,10 @@ Loading...
 
 Plug and Play, plug and play
 
-![Copy URL](plug-and-play_files/Copy.png)
+![Copy URL](media/plug-and-play/Copy.png)
 Copy URL
 
-![Download](plug-and-play_files/Download.png)
+![Download](media/plug-and-play/Download.png)
 
 Download topic
 
@@ -30,6 +30,6 @@ Plug and Play records the information in an event log.
 
 **See also** [UPnP](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35574)
 
-![In progress](plug-and-play_files/activity-large.gif)
+![In progress](media/plug-and-play/activity-large.gif)
 
 URL :

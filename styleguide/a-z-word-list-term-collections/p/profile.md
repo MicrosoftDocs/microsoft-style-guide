@@ -6,15 +6,15 @@ Loading...
 
 profile
 
-![Copy URL](profile_files/Copy.png)
+![Copy URL](media/profile/Copy.png)
 Copy URL
 
-![Download](profile_files/Download.png)
+![Download](media/profile/Download.png)
 
 Download topic
 
 Lowercase unless you need to match the UI.
 
-![In progress](profile_files/activity-large.gif)
+![In progress](media/profile/activity-large.gif)
 
 URL :

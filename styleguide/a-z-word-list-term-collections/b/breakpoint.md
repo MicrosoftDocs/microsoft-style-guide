@@ -6,15 +6,15 @@ Loading...
 
 breakpoint
 
-![Copy URL](breakpoint_files/Copy.png)
+![Copy URL](media/breakpoint/Copy.png)
 Copy URL
 
-![Download](breakpoint_files/Download.png)
+![Download](media/breakpoint/Download.png)
 
 Download topic
 
 One word.
 
-![In progress](breakpoint_files/activity-large.gif)
+![In progress](media/breakpoint/activity-large.gif)
 
 URL :

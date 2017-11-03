@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 euro
 
-![Copy URL](euro_files/Copy.png)
+![Copy URL](media/euro/Copy.png)
 Copy URL
 
-![Download](euro_files/Download.png)
+![Download](media/euro/Download.png)
 
 Download topic
 
@@ -52,6 +52,6 @@ the content will be localized.
 
 See also [Currency](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26912)
 
-![In progress](euro_files/activity-large.gif)
+![In progress](media/euro/activity-large.gif)
 
 URL :

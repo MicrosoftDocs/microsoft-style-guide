@@ -6,10 +6,10 @@ Loading...
 
 Scannable content checklist
 
-![Copy URL](scannable-content-checklist_files/Copy.png)
+![Copy URL](media/scannable-content-checklist/Copy.png)
 Copy URL
 
-![Download](scannable-content-checklist_files/Download.png)
+![Download](media/scannable-content-checklist/Download.png)
 
 Download topic
 
@@ -69,6 +69,6 @@ Create lists to simplify complex content.
 
  Learn more about [lists](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36412).
 
-![In progress](scannable-content-checklist_files/activity-large.gif)
+![In progress](media/scannable-content-checklist/activity-large.gif)
 
 URL :

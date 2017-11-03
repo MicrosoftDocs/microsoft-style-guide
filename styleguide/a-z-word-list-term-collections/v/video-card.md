@@ -6,15 +6,15 @@ Loading...
 
 video card
 
-![Copy URL](video-card_files/Copy.png)
+![Copy URL](media/video-card/Copy.png)
 Copy URL
 
-![Download](video-card_files/Download.png)
+![Download](media/video-card/Download.png)
 
 Download topic
 
 Use *video card* instead of *video adapter,* *display adapter,* *graphics adapter*, *graphics card*, or *graphics board**.*
 
-![In progress](video-card_files/activity-large.gif)
+![In progress](media/video-card/activity-large.gif)
 
 URL :

@@ -6,15 +6,15 @@ Loading...
 
 code point
 
-![Copy URL](code-point_files/Copy.png)
+![Copy URL](media/code-point/Copy.png)
 Copy URL
 
-![Download](code-point_files/Download.png)
+![Download](media/code-point/Download.png)
 
 Download topic
 
 Two words. 
 
-![In progress](code-point_files/activity-large.gif)
+![In progress](media/code-point/activity-large.gif)
 
 URL :

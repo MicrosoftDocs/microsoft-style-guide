@@ -6,10 +6,10 @@ Loading...
 
 Kerberos protocol
 
-![Copy URL](kerberos-protocol_files/Copy.png)
+![Copy URL](media/kerberos-protocol/Copy.png)
 Copy URL
 
-![Download](kerberos-protocol_files/Download.png)
+![Download](media/kerberos-protocol/Download.png)
 
 Download topic
 
@@ -20,6 +20,6 @@ On the first mention, indicate what version or versions of the Kerberos protocol
 Example
 Windows Server 2012 implements the Kerberos version 5 authentication protocol.
 
-![In progress](kerberos-protocol_files/activity-large.gif)
+![In progress](media/kerberos-protocol/activity-large.gif)
 
 URL :

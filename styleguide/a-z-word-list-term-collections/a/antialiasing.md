@@ -6,10 +6,10 @@ Loading...
 
 and/or
 
-![Copy URL](antialiasing_files/Copy.png)
+![Copy URL](media/antialiasing/Copy.png)
 Copy URL
 
-![Download](antialiasing_files/Download.png)
+![Download](media/antialiasing/Download.png)
 
 Download topic
 
@@ -17,6 +17,6 @@ Don't use unless it helps you avoid lengthy, complex wording. Most of the time, 
 
 Example Save the document, using its current name or a new name. 
 
-![In progress](antialiasing_files/activity-large.gif)
+![In progress](media/antialiasing/activity-large.gif)
 
 URL :

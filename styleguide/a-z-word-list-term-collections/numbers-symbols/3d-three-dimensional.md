@@ -6,10 +6,10 @@ Loading...
 
 3D, three-dimensional
 
-![Copy URL](3d-three-dimensional_files/Copy.png)
+![Copy URL](media/3d-three-dimensional/Copy.png)
 Copy URL
 
-![Download](3d-three-dimensional_files/Download.png)
+![Download](media/3d-three-dimensional/Download.png)
 
 Download topic
 
@@ -17,6 +17,6 @@ Use *3D* most of the time.
 
 Spell out *three-dimensional* on the first mention if your audience may be unfamiliar with the acronym. Always hyphenate *three-dimensional*.
 
-![In progress](3d-three-dimensional_files/activity-large.gif)
+![In progress](media/3d-three-dimensional/activity-large.gif)
 
 URL :

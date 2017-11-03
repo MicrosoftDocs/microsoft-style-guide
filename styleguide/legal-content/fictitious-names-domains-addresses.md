@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Fictitious names, domains, and addresses
 
-![Copy URL](fictitious-names-domains-addresses_files/Copy.png)
+![Copy URL](media/fictitious-names-domains-addresses/Copy.png)
 Copy URL
 
-![Download](fictitious-names-domains-addresses_files/Download.png)
+![Download](media/fictitious-names-domains-addresses/Download.png)
 
 Download topic
 
@@ -53,6 +53,6 @@ zeroes from one of the latter two blocks.
 
 If you have a question about using fictitious content, contact [your group’s paralegal](https://microsoft.sharepoint.com/sites/lcaweb/Pages/Applications/LegalContact.aspx). (This page requires Microsoft network access.)
 
-![In progress](fictitious-names-domains-addresses_files/activity-large.gif)
+![In progress](media/fictitious-names-domains-addresses/activity-large.gif)
 
 URL :

@@ -6,10 +6,10 @@ Loading...
 
 tool
 
-![Copy URL](tool_files/Copy.png)
+![Copy URL](media/tool/Copy.png)
 Copy URL
 
-![Download](tool_files/Download.png)
+![Download](media/tool/Download.png)
 
 Download topic
 
@@ -21,6 +21,6 @@ add-in, add-on](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=
 [applet](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32508)
 [Control Panel](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36789)
 
-![In progress](tool_files/activity-large.gif)
+![In progress](media/tool/activity-large.gif)
 
 URL :

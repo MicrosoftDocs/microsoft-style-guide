@@ -6,10 +6,10 @@ Loading...
 
 master/slave, master/subordinate
 
-![Copy URL](master-slave-master-subordinate_files/Copy.png)
+![Copy URL](media/master-slave-master-subordinate/Copy.png)
 Copy URL
 
-![Download](master-slave-master-subordinate_files/Download.png)
+![Download](media/master-slave-master-subordinate/Download.png)
 
 Download topic
 
@@ -31,6 +31,6 @@ The architecture uses a standard master/subordinate design to replicate data fro
 
 **See also** [parent/child](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35550)
 
-![In progress](master-slave-master-subordinate_files/activity-large.gif)
+![In progress](media/master-slave-master-subordinate/activity-large.gif)
 
 URL :

@@ -6,10 +6,10 @@ Loading...
 
 object
 
-![Copy URL](object_files/Copy.png)
+![Copy URL](media/object/Copy.png)
 Copy URL
 
-![Download](object_files/Download.png)
+![Download](media/object/Download.png)
 
 Download topic
 
@@ -22,6 +22,6 @@ entity. Similarly, in COM-based technologies, an object is a combination
 of code and data that implements one or more interfaces. In
 assembly language, *object* refers to the object module, which contains data that has been translated into machine code.
 
-![In progress](object_files/activity-large.gif)
+![In progress](media/object/activity-large.gif)
 
 URL :

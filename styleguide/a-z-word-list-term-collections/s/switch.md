@@ -6,10 +6,10 @@ Loading...
 
 switch
 
-![Copy URL](switch_files/Copy.png)
+![Copy URL](media/switch/Copy.png)
 Copy URL
 
-![Download](switch_files/Download.png)
+![Download](media/switch/Download.png)
 
 Download topic
 
@@ -21,6 +21,6 @@ In content for a technical audience, it's OK to use *switch* as a noun to refer 
 
 **See also** [turn on, turn off](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33405)
 
-![In progress](switch_files/activity-large.gif)
+![In progress](media/switch/activity-large.gif)
 
 URL :

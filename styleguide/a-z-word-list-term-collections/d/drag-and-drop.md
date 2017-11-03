@@ -6,10 +6,10 @@ Loading...
 
 drag, drag and drop
 
-![Copy URL](drag-and-drop_files/Copy.png)
+![Copy URL](media/drag-and-drop/Copy.png)
 Copy URL
 
-![Download](drag-and-drop_files/Download.png)
+![Download](media/drag-and-drop/Download.png)
 
 Download topic
 
@@ -19,6 +19,6 @@ Don't use *click and drag.* It's OK to use *press and drag* to teach mouse techn
 
 See also [](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26472)[Describing interactions with UI](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26472)
 
-![In progress](drag-and-drop_files/activity-large.gif)
+![In progress](media/drag-and-drop/activity-large.gif)
 
 URL :

@@ -6,15 +6,15 @@ Loading...
 
 high-level-language compiler
 
-![Copy URL](high-level-language-compiler_files/Copy.png)
+![Copy URL](media/high-level-language-compiler/Copy.png)
 Copy URL
 
-![Download](high-level-language-compiler_files/Download.png)
+![Download](media/high-level-language-compiler/Download.png)
 
 Download topic
 
 Hyphenate as shown.
 
-![In progress](high-level-language-compiler_files/activity-large.gif)
+![In progress](media/high-level-language-compiler/activity-large.gif)
 
 URL :

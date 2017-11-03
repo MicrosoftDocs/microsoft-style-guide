@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 active player, active user
 
-![Copy URL](active-player-active-user_files/Copy.png)
+![Copy URL](media/active-player-active-user/Copy.png)
 Copy URL
 
-![Download](active-player-active-user_files/Download.png)
+![Download](media/active-player-active-user/Download.png)
 
 Download topic
 
@@ -17,6 +17,6 @@ Use *active player,* not *active user,* to refer to a person who's currently bei
 
 Example When the game ends, the active player’s score will be displayed.
 
-![In progress](active-player-active-user_files/activity-large.gif)
+![In progress](media/active-player-active-user/activity-large.gif)
 
 URL :

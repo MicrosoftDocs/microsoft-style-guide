@@ -6,10 +6,10 @@ Loading...
 
 remote
 
-![Copy URL](remote_files/Copy.png)
+![Copy URL](media/remote/Copy.png)
 Copy URL
 
-![Download](remote_files/Download.png)
+![Download](media/remote/Download.png)
 
 Download topic
 
@@ -21,6 +21,6 @@ Don't use *remote* as a verb.
 
 Don't use *remote* as a noun except to refer to a remote-control device.
 
-![In progress](remote_files/activity-large.gif)
+![In progress](media/remote/activity-large.gif)
 
 URL :

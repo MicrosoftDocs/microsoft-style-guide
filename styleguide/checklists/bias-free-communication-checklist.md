@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Bias-free communication checklist
 
-![Copy URL](bias-free-communication-checklist_files/Copy.png)
+![Copy URL](media/bias-free-communication-checklist/Copy.png)
 Copy URL
 
-![Download](bias-free-communication-checklist_files/Download.png)
+![Download](media/bias-free-communication-checklist/Download.png)
 
 Download topic
 
@@ -41,6 +41,6 @@ socioeconomic class.
 
 Learn more about [Bias-free communication](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26708). 
 
-![In progress](bias-free-communication-checklist_files/activity-large.gif)
+![In progress](media/bias-free-communication-checklist/activity-large.gif)
 
 URL :

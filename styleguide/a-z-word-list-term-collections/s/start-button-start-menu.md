@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Start button, Start menu
 
-![Copy URL](start-button-start-menu_files/Copy.png)
+![Copy URL](media/start-button-start-menu/Copy.png)
 Copy URL
 
-![Download](start-button-start-menu_files/Download.png)
+![Download](media/start-button-start-menu/Download.png)
 
 Download topic
 
@@ -19,15 +19,15 @@ Don’t refer to the Start button as the *Windows Start button*.
 
 Don't include the word *button* unless it's necessary for clarity. If you do, *button* is lowercase.
 
-If possible, to help customers locate the button, include the Start graphic ![](start-button-start-menu_files/967781121.png) in references to the Start button. 
+If possible, to help customers locate the button, include the Start graphic ![](media/start-button-start-menu/967781121.png) in references to the Start button. 
 
 On Windows phone, use *Start*, not *Start screen* or *Home screen,* to describe the initial screen. Don't use bold formatting for *Start* when discussing Windows phones.
 
 Examples
-You’ll find the Start ![](start-button-start-menu_files/967781121.png) button on the taskbar. 
+You’ll find the Start ![](media/start-button-start-menu/967781121.png) button on the taskbar. 
 On Start, select Messaging. (Windows phone)
-Go to Start ![](start-button-start-menu_files/967781121.png), enter device manager, and then select Device Manager.
+Go to Start ![](media/start-button-start-menu/967781121.png), enter device manager, and then select Device Manager.
 
-![In progress](start-button-start-menu_files/activity-large.gif)
+![In progress](media/start-button-start-menu/activity-large.gif)
 
 URL :

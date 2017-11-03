@@ -6,10 +6,10 @@ Loading...
 
 Accessibility terms
 
-![Copy URL](accessibility-terms_files/Copy.png)
+![Copy URL](media/accessibility-terms/Copy.png)
 Copy URL
 
-![Download](accessibility-terms_files/Download.png)
+![Download](media/accessibility-terms/Download.png)
 
 Download topic
 
@@ -81,6 +81,6 @@ Crippled, lame
 </tbody>
 </table>
 
-![In progress](accessibility-terms_files/activity-large.gif)
+![In progress](media/accessibility-terms/activity-large.gif)
 
 URL :

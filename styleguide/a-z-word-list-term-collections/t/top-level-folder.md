@@ -6,10 +6,10 @@ Loading...
 
 top-level folder
 
-![Copy URL](top-level-folder_files/Copy.png)
+![Copy URL](media/top-level-folder/Copy.png)
 Copy URL
 
-![Download](top-level-folder_files/Download.png)
+![Download](media/top-level-folder/Download.png)
 
 Download topic
 
@@ -21,6 +21,6 @@ Example **** The top-level folder for most customers is the Documents folder.
 
 See also [root directory](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28845)
 
-![In progress](top-level-folder_files/activity-large.gif)
+![In progress](media/top-level-folder/activity-large.gif)
 
 URL :

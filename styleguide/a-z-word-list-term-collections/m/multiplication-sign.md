@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 multiplication sign (×)
 
-![Copy URL](multiplication-sign_files/Copy.png)
+![Copy URL](media/multiplication-sign/Copy.png)
 Copy URL
 
-![Download](multiplication-sign_files/Download.png)
+![Download](media/multiplication-sign/Download.png)
 
 Download topic
 
@@ -23,6 +23,6 @@ The application icon should be 62 × 62 pixels and PNG format.
 
 HTML code *\&times;* or *&\#215;*
 
-![In progress](multiplication-sign_files/activity-large.gif)
+![In progress](media/multiplication-sign/activity-large.gif)
 
 URL :

@@ -6,10 +6,10 @@ Loading...
 
 DVD
 
-![Copy URL](dvd_files/Copy.png)
+![Copy URL](media/dvd/Copy.png)
 Copy URL
 
-![Download](dvd_files/Download.png)
+![Download](media/dvd/Download.png)
 
 Download topic
 
@@ -21,6 +21,6 @@ Refer to the drive for a DVD as the *DVD drive*, not the *DVD player*.
 
 Don't use *DVD disc*, *DVD-ROM disc*, or other redundant phrases.
 
-![In progress](dvd_files/activity-large.gif)
+![In progress](media/dvd/activity-large.gif)
 
 URL :

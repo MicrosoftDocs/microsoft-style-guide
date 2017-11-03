@@ -6,15 +6,15 @@ Loading...
 
 endpoint
 
-![Copy URL](endpoint_files/Copy.png)
+![Copy URL](media/endpoint/Copy.png)
 Copy URL
 
-![Download](endpoint_files/Download.png)
+![Download](media/endpoint/Download.png)
 
 Download topic
 
 One word.
 
-![In progress](endpoint_files/activity-large.gif)
+![In progress](media/endpoint/activity-large.gif)
 
 URL :

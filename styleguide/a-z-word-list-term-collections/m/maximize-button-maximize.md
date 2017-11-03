@@ -6,10 +6,10 @@ Loading...
 
 Maximize button, maximize
 
-![Copy URL](maximize-button-maximize_files/Copy.png)
+![Copy URL](media/maximize-button-maximize/Copy.png)
 Copy URL
 
-![Download](maximize-button-maximize_files/Download.png)
+![Download](media/maximize-button-maximize/Download.png)
 
 Download topic
 
@@ -20,8 +20,8 @@ It's OK to use *maximize* as a verb.
 Examples**
 **Select the Maximize button. 
 To fill the screen, maximize the window. 
-Select ![](maximize-button-maximize_files/302251874.png).
+Select ![](media/maximize-button-maximize/302251874.png).
 
-![In progress](maximize-button-maximize_files/activity-large.gif)
+![In progress](media/maximize-button-maximize/activity-large.gif)
 
 URL :

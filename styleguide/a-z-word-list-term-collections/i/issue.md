@@ -6,10 +6,10 @@ Loading...
 
 issue
 
-![Copy URL](issue_files/Copy.png)
+![Copy URL](media/issue/Copy.png)
 Copy URL
 
-![Download](issue_files/Download.png)
+![Download](media/issue/Download.png)
 
 Download topic
 
@@ -21,6 +21,6 @@ Don't use as a synonym for *problem.*
 
 Example Outlook has run into a problem and needs to restart. 
 
-![In progress](issue_files/activity-large.gif)
+![In progress](media/issue/activity-large.gif)
 
 URL :

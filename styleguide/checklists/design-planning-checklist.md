@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Design-planning checklist
 
-![Copy URL](design-planning-checklist_files/Copy.png)
+![Copy URL](media/design-planning-checklist/Copy.png)
 Copy URL
 
-![Download](design-planning-checklist_files/Download.png)
+![Download](media/design-planning-checklist/Download.png)
 
 Download topic
 
@@ -25,6 +25,6 @@ Think about design before you start writing.
 
 Learn more about [design planning](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36377).
 
-![In progress](design-planning-checklist_files/activity-large.gif)
+![In progress](media/design-planning-checklist/activity-large.gif)
 
 URL :

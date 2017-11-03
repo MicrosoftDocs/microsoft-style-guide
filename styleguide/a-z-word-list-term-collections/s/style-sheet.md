@@ -6,10 +6,10 @@ Loading...
 
 style sheet
 
-![Copy URL](style-sheet_files/Copy.png)
+![Copy URL](media/style-sheet/Copy.png)
 Copy URL
 
-![Download](style-sheet_files/Download.png)
+![Download](media/style-sheet/Download.png)
 
 Download topic
 
@@ -22,6 +22,6 @@ In XML context, use *style sheet* to refer to an .xsl file. Use *Extensible Styl
 
 See also [](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33514)[](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33514)[Cascading Style Sheets (CSS)](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33514)
 
-![In progress](style-sheet_files/activity-large.gif)
+![In progress](media/style-sheet/activity-large.gif)
 
 URL :

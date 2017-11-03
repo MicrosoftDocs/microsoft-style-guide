@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 compute
 
-![Copy URL](compute_files/Copy.png)
+![Copy URL](media/compute/Copy.png)
 Copy URL
 
-![Download](compute_files/Download.png)
+![Download](media/compute/Download.png)
 
 Download topic
 
@@ -21,6 +21,6 @@ Examples**
 **Learn how to compute the periodic annual interest rate in Microsoft Excel. 
 Each Microsoft Azure compute instance represents a virtual machine.
 
-![In progress](compute_files/activity-large.gif)
+![In progress](media/compute/activity-large.gif)
 
 URL :

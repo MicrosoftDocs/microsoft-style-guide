@@ -6,15 +6,15 @@ Loading...
 
 disk resource
 
-![Copy URL](disk-resource_files/Copy.png)
+![Copy URL](media/disk-resource/Copy.png)
 Copy URL
 
-![Download](disk-resource_files/Download.png)
+![Download](media/disk-resource/Download.png)
 
 Download topic
 
 Use to refer to a disk or part of a disk shared on a server.
 
-![In progress](disk-resource_files/activity-large.gif)
+![In progress](media/disk-resource/activity-large.gif)
 
 URL :

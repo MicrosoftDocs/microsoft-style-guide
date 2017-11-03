@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 re-
 
-![Copy URL](re_files/Copy.png)
+![Copy URL](media/re/Copy.png)
 Copy URL
 
-![Download](re_files/Download.png)
+![Download](media/re/Download.png)
 
 Download topic
 
@@ -24,6 +24,6 @@ re-create (to create anew)
 
 To learn more about hyphenation, see [Hyphens](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28765).
 
-![In progress](re_files/activity-large.gif)
+![In progress](media/re/activity-large.gif)
 
 URL :

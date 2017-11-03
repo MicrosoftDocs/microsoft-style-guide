@@ -6,10 +6,10 @@ Loading...
 
 leave
 
-![Copy URL](leave_files/Copy.png)
+![Copy URL](media/leave/Copy.png)
 Copy URL
 
-![Download](leave_files/Download.png)
+![Download](media/leave/Download.png)
 
 Download topic
 
@@ -17,6 +17,6 @@ Don't use to refer to closing an app or program. Use *close* instead.
 
 **See** [Describing interactions with UI](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26472)
 
-![In progress](leave_files/activity-large.gif)
+![In progress](media/leave/activity-large.gif)
 
 URL :

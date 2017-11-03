@@ -6,15 +6,15 @@ Loading...
 
 workgroup
 
-![Copy URL](workgroup_files/Copy.png)
+![Copy URL](media/workgroup/Copy.png)
 Copy URL
 
-![Download](workgroup_files/Download.png)
+![Download](media/workgroup/Download.png)
 
 Download topic
 
 One word.
 
-![In progress](workgroup_files/activity-large.gif)
+![In progress](media/workgroup/activity-large.gif)
 
 URL :

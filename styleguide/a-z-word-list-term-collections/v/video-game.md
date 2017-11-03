@@ -6,10 +6,10 @@ Loading...
 
 video game, video-game
 
-![Copy URL](video-game_files/Copy.png)
+![Copy URL](media/video-game/Copy.png)
 Copy URL
 
-![Download](video-game_files/Download.png)
+![Download](media/video-game/Download.png)
 
 Download topic
 
@@ -19,6 +19,6 @@ Examples
 Tips for playing your video game (noun) 
 Video-game tips (adjective)
 
-![In progress](video-game_files/activity-large.gif)
+![In progress](media/video-game/activity-large.gif)
 
 URL :

@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Colons
 
-![Copy URL](colons_files/Copy.png)
+![Copy URL](media/colons/Copy.png)
 Copy URL
 
-![Download](colons_files/Download.png)
+![Download](media/colons/Download.png)
 
 Download topic
 
@@ -44,6 +44,6 @@ When you use a colon in a sentence, lowercase the word that follows it unless:
   - The first word after the colon is a proper noun.
     Example We're considering three cities for the event: Los Angeles, Munich, and Tokyo. 
 
-![In progress](colons_files/activity-large.gif)
+![In progress](media/colons/activity-large.gif)
 
 URL :

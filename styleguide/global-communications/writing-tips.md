@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Writing tips
 
-![Copy URL](writing-tips_files/Copy.png)
+![Copy URL](media/writing-tips/Copy.png)
 Copy URL
 
-![Download](writing-tips_files/Download.png)
+![Download](media/writing-tips/Download.png)
 
 Download topic
 
@@ -103,6 +103,6 @@ Use only common abbreviations, such as *USB,* and
 abbreviations that are defined in glossaries. Check with a
 localization expert to find out if an acronym is defined. 
 
-![In progress](writing-tips_files/activity-large.gif)
+![In progress](media/writing-tips/activity-large.gif)
 
 URL :

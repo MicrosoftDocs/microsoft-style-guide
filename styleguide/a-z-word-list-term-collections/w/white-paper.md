@@ -6,15 +6,15 @@ Loading...
 
 white paper
 
-![Copy URL](white-paper_files/Copy.png)
+![Copy URL](media/white-paper/Copy.png)
 Copy URL
 
-![Download](white-paper_files/Download.png)
+![Download](media/white-paper/Download.png)
 
 Download topic
 
 Two words.
 
-![In progress](white-paper_files/activity-large.gif)
+![In progress](media/white-paper/activity-large.gif)
 
 URL :

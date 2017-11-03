@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 memory
 
-![Copy URL](memory_files/Copy.png)
+![Copy URL](media/memory/Copy.png)
 Copy URL
 
-![Download](memory_files/Download.png)
+![Download](media/memory/Download.png)
 
 Download topic
 
@@ -40,6 +40,6 @@ Here's what it takes to upgrade to Windows 10 on your PC or tablet:
 
 See also [Bits and bytes term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26920), [Units of measure term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28884)
 
-![In progress](memory_files/activity-large.gif)
+![In progress](media/memory/activity-large.gif)
 
 URL :

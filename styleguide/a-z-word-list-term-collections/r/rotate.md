@@ -6,15 +6,15 @@ Loading...
 
 rotate
 
-![Copy URL](rotate_files/Copy.png)
+![Copy URL](media/rotate/Copy.png)
 Copy URL
 
-![Download](rotate_files/Download.png)
+![Download](media/rotate/Download.png)
 
 Download topic
 
 **See** [Touch and pen interaction term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=29032)
 
-![In progress](rotate_files/activity-large.gif)
+![In progress](media/rotate/activity-large.gif)
 
 URL :

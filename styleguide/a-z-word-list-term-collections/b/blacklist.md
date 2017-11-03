@@ -6,10 +6,10 @@ Loading...
 
 blacklist
 
-![Copy URL](blacklist_files/Copy.png)
+![Copy URL](media/blacklist/Copy.png)
 Copy URL
 
-![Download](blacklist_files/Download.png)
+![Download](media/blacklist/Download.png)
 
 Download topic
 
@@ -20,6 +20,6 @@ Blocked Senders list
 Safe Recipients list 
 blocked or safe programs
 
-![In progress](blacklist_files/activity-large.gif)
+![In progress](media/blacklist/activity-large.gif)
 
 URL :

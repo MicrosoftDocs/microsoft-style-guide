@@ -6,10 +6,10 @@ Loading...
 
 footer
 
-![Copy URL](footer_files/Copy.png)
+![Copy URL](media/footer/Copy.png)
 Copy URL
 
-![Download](footer_files/Download.png)
+![Download](media/footer/Download.png)
 
 Download topic
 
@@ -17,6 +17,6 @@ In content related to word-processing and publishing apps, use instead of *botto
 
 **See also** [header](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33955)
 
-![In progress](footer_files/activity-large.gif)
+![In progress](media/footer/activity-large.gif)
 
 URL :

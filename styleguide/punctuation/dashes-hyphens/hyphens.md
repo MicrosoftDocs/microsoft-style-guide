@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Hyphens
 
-![Copy URL](hyphens_files/Copy.png)
+![Copy URL](media/hyphens/Copy.png)
 Copy URL
 
-![Download](hyphens_files/Download.png)
+![Download](media/hyphens/Download.png)
 
 Download topic
 
@@ -184,6 +184,6 @@ Hyphenate the following words in Microsoft content.
 |                                                                                                        |                                                                                                                                                                                                                                                       |                                                                                                                                                                                                                                                 |                                                                                                         |
 |                                                                                                        |                                                                                                                                                                                                                                                       |                                                                                                                                                                                                                                                 |                                                                                                         |
 
-![In progress](hyphens_files/activity-large.gif)
+![In progress](media/hyphens/activity-large.gif)
 
 URL :

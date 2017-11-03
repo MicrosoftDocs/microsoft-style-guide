@@ -6,10 +6,10 @@ Loading...
 
 number sign (\#)
 
-![Copy URL](number-sign_files/Copy.png)
+![Copy URL](media/number-sign/Copy.png)
 Copy URL
 
-![Download](number-sign_files/Download.png)
+![Download](media/number-sign/Download.png)
 
 Download topic
 
@@ -26,6 +26,6 @@ It's OK to use the \# symbol in references to the \# key on the keyboard.
 
 See also [](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=27401)[Keys and keyboard shortcuts term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=27401)
 
-![In progress](number-sign_files/activity-large.gif)
+![In progress](media/number-sign/activity-large.gif)
 
 URL :

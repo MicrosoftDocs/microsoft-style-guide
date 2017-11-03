@@ -6,15 +6,15 @@ Loading...
 
 upsize
 
-![Copy URL](upsize_files/Copy.png)
+![Copy URL](media/upsize/Copy.png)
 Copy URL
 
-![Download](upsize_files/Download.png)
+![Download](media/upsize/Download.png)
 
 Download topic
 
 Don't use*.* Use *scale up* instead.
 
-![In progress](upsize_files/activity-large.gif)
+![In progress](media/upsize/activity-large.gif)
 
 URL :

@@ -6,10 +6,10 @@ Loading...
 
 undo
 
-![Copy URL](undo_files/Copy.png)
+![Copy URL](media/undo/Copy.png)
 Copy URL
 
-![Download](undo_files/Download.png)
+![Download](media/undo/Download.png)
 
 Download topic
 
@@ -19,6 +19,6 @@ Examples
 To undo multiple actions ....
 After undoing an action, ....
 
-![In progress](undo_files/activity-large.gif)
+![In progress](media/undo/activity-large.gif)
 
 URL :

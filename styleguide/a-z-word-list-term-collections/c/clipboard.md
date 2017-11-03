@@ -6,10 +6,10 @@ Loading...
 
 clipboard
 
-![Copy URL](clipboard_files/Copy.png)
+![Copy URL](media/clipboard/Copy.png)
 Copy URL
 
-![Download](clipboard_files/Download.png)
+![Download](media/clipboard/Download.png)
 
 Download topic
 
@@ -17,6 +17,6 @@ Don't precede *clipboard* with *Windows*.
 
 Material is moved or copied *to* the clipboard, not *onto* it.
 
-![In progress](clipboard_files/activity-large.gif)
+![In progress](media/clipboard/activity-large.gif)
 
 URL :

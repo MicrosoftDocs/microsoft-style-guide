@@ -6,15 +6,15 @@ Loading...
 
 hard-of-hearing
 
-![Copy URL](hard-of-hearing_files/Copy.png)
+![Copy URL](media/hard-of-hearing/Copy.png)
 Copy URL
 
-![Download](hard-of-hearing_files/Download.png)
+![Download](media/hard-of-hearing/Download.png)
 
 Download topic
 
 **See** [Accessibility term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26596)
 
-![In progress](hard-of-hearing_files/activity-large.gif)
+![In progress](media/hard-of-hearing/activity-large.gif)
 
 URL :

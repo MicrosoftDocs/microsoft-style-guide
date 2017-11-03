@@ -6,10 +6,10 @@ Loading...
 
 setting, value
 
-![Copy URL](setting-value_files/Copy.png)
+![Copy URL](media/setting-value/Copy.png)
 Copy URL
 
-![Download](setting-value_files/Download.png)
+![Download](media/setting-value/Download.png)
 
 Download topic
 
@@ -21,6 +21,6 @@ Enter a location for Tab stop position.
 
 It's OK to use *settings* or *values* occasionally when you need to talk generally about more than one. Don't use *attributes* or *properties* as a synonym.
 
-![In progress](setting-value_files/activity-large.gif)
+![In progress](media/setting-value/activity-large.gif)
 
 URL :

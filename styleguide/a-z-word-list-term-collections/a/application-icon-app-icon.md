@@ -6,10 +6,10 @@ Loading...
 
 application icon, app icon
 
-![Copy URL](application-icon-app-icon_files/Copy.png)
+![Copy URL](media/application-icon-app-icon/Copy.png)
 Copy URL
 
-![Download](application-icon-app-icon_files/Download.png)
+![Download](media/application-icon-app-icon/Download.png)
 
 Download topic
 
@@ -17,6 +17,6 @@ Don't use to refer to a program icon. Use the specific product name, such as *th
 
 It's OK to use *application icon* in content for developers when discussing programming elements such as the ApplicationIcon property.
 
-![In progress](application-icon-app-icon_files/activity-large.gif)
+![In progress](media/application-icon-app-icon/activity-large.gif)
 
 URL :

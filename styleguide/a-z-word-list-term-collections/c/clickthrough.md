@@ -6,15 +6,15 @@ Loading...
 
 clickthrough
 
-![Copy URL](clickthrough_files/Copy.png)
+![Copy URL](media/clickthrough/Copy.png)
 Copy URL
 
-![Download](clickthrough_files/Download.png)
+![Download](media/clickthrough/Download.png)
 
 Download topic
 
 One word. Don't use in content for a general audience. 
 
-![In progress](clickthrough_files/activity-large.gif)
+![In progress](media/clickthrough/activity-large.gif)
 
 URL :

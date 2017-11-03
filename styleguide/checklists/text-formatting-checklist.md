@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Text-formatting checklist
 
-![Copy URL](text-formatting-checklist_files/Copy.png)
+![Copy URL](media/text-formatting-checklist/Copy.png)
 Copy URL
 
-![Download](text-formatting-checklist_files/Download.png)
+![Download](media/text-formatting-checklist/Download.png)
 
 Download topic
 
@@ -28,6 +28,6 @@ Download topic
 [Formatting titles](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36416)
 [Formatting developer text elements](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28975)
 
-![In progress](text-formatting-checklist_files/activity-large.gif)
+![In progress](media/text-formatting-checklist/activity-large.gif)
 
 URL :

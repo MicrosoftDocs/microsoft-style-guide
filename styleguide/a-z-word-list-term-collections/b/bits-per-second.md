@@ -6,15 +6,15 @@ Loading...
 
 bits per second
 
-![Copy URL](bits-per-second_files/Copy.png)
+![Copy URL](media/bits-per-second/Copy.png)
 Copy URL
 
-![Download](bits-per-second_files/Download.png)
+![Download](media/bits-per-second/Download.png)
 
 Download topic
 
 See [Bits and bytes term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26920)
 
-![In progress](bits-per-second_files/activity-large.gif)
+![In progress](media/bits-per-second/activity-large.gif)
 
 URL :

@@ -6,10 +6,10 @@ Loading...
 
 category axis
 
-![Copy URL](category-axis_files/Copy.png)
+![Copy URL](media/category-axis/Copy.png)
 Copy URL
 
-![Download](category-axis_files/Download.png)
+![Download](media/category-axis/Download.png)
 
 Download topic
 
@@ -26,6 +26,6 @@ value axis](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=3351
 [x-axis](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28858)
 [y-axis](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28860)
 
-![In progress](category-axis_files/activity-large.gif)
+![In progress](media/category-axis/activity-large.gif)
 
 URL :

@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Global communications
 
-![Copy URL](index_files/Copy.png)
+![Copy URL](media/index/Copy.png)
 Copy URL
 
-![Download](index_files/Download.png)
+![Download](media/index/Download.png)
 
 Download topic
 
@@ -80,6 +80,6 @@ If you have questions, contact:
   - [Localization Managers Forum](mailto:ms4n@microsoft.com) discussion group (This group requires Microsoft network access.)
   - For general localization questions, ask the Microsoft content community on the [STET group](https://www.yammer.com/microsoft.com/#/threads/inGroup?type=in_group&feedId=2937380 "STET Yammer group") on Yammer or the [Editors Information and Discussion](http://idwebelements/GroupManagement.aspx?Group=stet&Operation=join "Join stet@microsoft.com") email distribution group. (These groups require Microsoft network access.)
 
-![In progress](index_files/activity-large.gif)
+![In progress](media/index/activity-large.gif)
 
 URL :

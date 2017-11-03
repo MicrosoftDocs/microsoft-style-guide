@@ -6,10 +6,10 @@ Loading...
 
 grow
 
-![Copy URL](grow_files/Copy.png)
+![Copy URL](media/grow/Copy.png)
 Copy URL
 
-![Download](grow_files/Download.png)
+![Download](media/grow/Download.png)
 
 Download topic
 
@@ -19,6 +19,6 @@ Examples
 If you want to increase your business .... 
 To extend the selection ....
 
-![In progress](grow_files/activity-large.gif)
+![In progress](media/grow/activity-large.gif)
 
 URL :

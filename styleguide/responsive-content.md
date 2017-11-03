@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Responsive content
 
-![Copy URL](responsive-content_files/Copy.png)
+![Copy URL](media/responsive-content/Copy.png)
 Copy URL
 
-![Download](responsive-content_files/Download.png)
+![Download](media/responsive-content/Download.png)
 
 Download topic
 
@@ -71,6 +71,6 @@ will occur, how much content displays at each potential resolution,
 and the order in which content will appear on small
 devices.
 
-![In progress](responsive-content_files/activity-large.gif)
+![In progress](media/responsive-content/activity-large.gif)
 
 URL :

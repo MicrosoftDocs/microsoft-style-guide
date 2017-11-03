@@ -6,10 +6,10 @@ Loading...
 
 log on, log off
 
-![Copy URL](log-on-log-off_files/Copy.png)
+![Copy URL](media/log-on-log-off/Copy.png)
 Copy URL
 
-![Download](log-on-log-off_files/Download.png)
+![Download](media/log-on-log-off/Download.png)
 
 Download topic
 
@@ -19,6 +19,6 @@ Use *sign in* or *sign out* instead.
 
 **See** [sign in, sign out](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28799), [connect](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28799)
 
-![In progress](log-on-log-off_files/activity-large.gif)
+![In progress](media/log-on-log-off/activity-large.gif)
 
 URL :

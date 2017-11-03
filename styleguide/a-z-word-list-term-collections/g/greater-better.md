@@ -6,10 +6,10 @@ Loading...
 
 greater, better
 
-![Copy URL](greater-better_files/Copy.png)
+![Copy URL](media/greater-better/Copy.png)
 Copy URL
 
-![Download](greater-better_files/Download.png)
+![Download](media/greater-better/Download.png)
 
 Download topic
 
@@ -17,6 +17,6 @@ Don't use *greater* or *better* to mean *or later* when identifying multiple ver
 
 **See** [later](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32560)
 
-![In progress](greater-better_files/activity-large.gif)
+![In progress](media/greater-better/activity-large.gif)
 
 URL :

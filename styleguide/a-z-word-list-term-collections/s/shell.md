@@ -6,10 +6,10 @@ Loading...
 
 shell
 
-![Copy URL](shell_files/Copy.png)
+![Copy URL](media/shell/Copy.png)
 Copy URL
 
-![Download](shell_files/Download.png)
+![Download](media/shell/Download.png)
 
 Download topic
 
@@ -17,6 +17,6 @@ OK to use as a noun in content for a technical audience. Don't use in content fo
 
 Don't use as a verb, such as *shell* or *shell out*. Use more precise terminology, such as *create a new shell* or *return to the operating system*.
 
-![In progress](shell_files/activity-large.gif)
+![In progress](media/shell/activity-large.gif)
 
 URL :

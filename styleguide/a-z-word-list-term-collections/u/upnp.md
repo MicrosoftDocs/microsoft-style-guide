@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 UPnP
 
-![Copy URL](upnp_files/Copy.png)
+![Copy URL](media/upnp/Copy.png)
 Copy URL
 
-![Download](upnp_files/Download.png)
+![Download](media/upnp/Download.png)
 
 Download topic
 
@@ -32,6 +32,6 @@ For other guidelines required by the UPnP™ Implementers Corporation, see the [
 
 **See also** [Plug and Play, plug and play](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35573)
 
-![In progress](upnp_files/activity-large.gif)
+![In progress](media/upnp/activity-large.gif)
 
 URL :

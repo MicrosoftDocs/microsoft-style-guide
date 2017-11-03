@@ -6,10 +6,10 @@ Loading...
 
 from vs. on
 
-![Copy URL](from-vs-on_files/Copy.png)
+![Copy URL](media/from-vs-on/Copy.png)
 Copy URL
 
-![Download](from-vs-on_files/Download.png)
+![Download](media/from-vs-on/Download.png)
 
 Download topic
 
@@ -23,6 +23,6 @@ Use *on* to indicate the starting place for selecting a command or option.
 
 Example On the File **** menu, select Open.
 
-![In progress](from-vs-on_files/activity-large.gif)
+![In progress](media/from-vs-on/activity-large.gif)
 
 URL :

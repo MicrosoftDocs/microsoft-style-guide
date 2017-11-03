@@ -6,10 +6,10 @@ Loading...
 
 graphic, graphics, graphical
 
-![Copy URL](graphic-graphics-graphical_files/Copy.png)
+![Copy URL](media/graphic-graphics-graphical/Copy.png)
 Copy URL
 
-![Download](graphic-graphics-graphical_files/Download.png)
+![Download](media/graphic-graphics-graphical/Download.png)
 
 Download topic
 
@@ -26,6 +26,6 @@ The image is graphic and accurate.
 This course provides graphic design basics.
 The graphical UI simulates a coliseum.
 
-![In progress](graphic-graphics-graphical_files/activity-large.gif)
+![In progress](media/graphic-graphics-graphical/activity-large.gif)
 
 URL :

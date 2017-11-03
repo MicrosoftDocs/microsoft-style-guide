@@ -6,15 +6,15 @@ Loading...
 
 calendar
 
-![Copy URL](calendar_files/Copy.png)
+![Copy URL](media/calendar/Copy.png)
 Copy URL
 
-![Download](calendar_files/Download.png)
+![Download](media/calendar/Download.png)
 
 Download topic
 
 Don't use as a verb. Use *schedule, list*, or another appropriate verb instead.
 
-![In progress](calendar_files/activity-large.gif)
+![In progress](media/calendar/activity-large.gif)
 
 URL :

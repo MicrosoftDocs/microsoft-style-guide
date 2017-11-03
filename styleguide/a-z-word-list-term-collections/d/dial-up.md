@@ -6,10 +6,10 @@ Loading...
 
 dial-up
 
-![Copy URL](dial-up_files/Copy.png)
+![Copy URL](media/dial-up/Copy.png)
 Copy URL
 
-![Download](dial-up_files/Download.png)
+![Download](media/dial-up/Download.png)
 
 Download topic
 
@@ -17,6 +17,6 @@ Use only as an adjective (as in *dial-up connection),* not as a noun or verb. Al
 
 Use *dial* as the verb to refer to placing a call or using a dial-up device.
 
-![In progress](dial-up_files/activity-large.gif)
+![In progress](media/dial-up/activity-large.gif)
 
 URL :

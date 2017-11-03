@@ -6,15 +6,15 @@ Loading...
 
 appendix, appendices
 
-![Copy URL](appendix-appendices_files/Copy.png)
+![Copy URL](media/appendix-appendices/Copy.png)
 Copy URL
 
-![Download](appendix-appendices_files/Download.png)
+![Download](media/appendix-appendices/Download.png)
 
 Download topic
 
 Use *appendices* as the plural form of *appendix,* not *appendixes*.
 
-![In progress](appendix-appendices_files/activity-large.gif)
+![In progress](media/appendix-appendices/activity-large.gif)
 
 URL :

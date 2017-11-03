@@ -6,10 +6,10 @@ Loading...
 
 upgrade
 
-![Copy URL](upgrade_files/Copy.png)
+![Copy URL](media/upgrade/Copy.png)
 Copy URL
 
-![Download](upgrade_files/Download.png)
+![Download](media/upgrade/Download.png)
 
 Download topic
 
@@ -24,6 +24,6 @@ Examples
 Upgrade qualified Windows 7 or Windows 8.1 devices for free.
 The upgrade was successful.
 
-![In progress](upgrade_files/activity-large.gif)
+![In progress](media/upgrade/activity-large.gif)
 
 URL :

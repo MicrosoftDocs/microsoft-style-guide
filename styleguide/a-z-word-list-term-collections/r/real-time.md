@@ -6,10 +6,10 @@ Loading...
 
 real time, real-time
 
-![Copy URL](real-time_files/Copy.png)
+![Copy URL](media/real-time/Copy.png)
 Copy URL
 
-![Download](real-time_files/Download.png)
+![Download](media/real-time/Download.png)
 
 Download topic
 
@@ -19,6 +19,6 @@ Examples**
 ** Real-time reporting helps your staff identify and resolve issues before they become major.
 Use instant messaging to communicate with coworkers in real time.
 
-![In progress](real-time_files/activity-large.gif)
+![In progress](media/real-time/activity-large.gif)
 
 URL :

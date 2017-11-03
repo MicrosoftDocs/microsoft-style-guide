@@ -6,10 +6,10 @@ Loading...
 
 italic
 
-![Copy URL](italic_files/Copy.png)
+![Copy URL](media/italic/Copy.png)
 Copy URL
 
-![Download](italic_files/Download.png)
+![Download](media/italic/Download.png)
 
 Download topic
 
@@ -21,6 +21,6 @@ The characters are displayed in italic type.
 
 In writing for customers, use *regular type* to describe type that's neither bold nor italic.
 
-![In progress](italic_files/activity-large.gif)
+![In progress](media/italic/activity-large.gif)
 
 URL :

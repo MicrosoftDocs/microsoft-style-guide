@@ -6,10 +6,10 @@ Loading...
 
 e-words
 
-![Copy URL](e-words_files/Copy.png)
+![Copy URL](media/e-words/Copy.png)
 Copy URL
 
-![Download](e-words_files/Download.png)
+![Download](media/e-words/Download.png)
 
 Download topic
 
@@ -30,6 +30,6 @@ Examples
 
 **See also** [Capitalization](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33685)
 
-![In progress](e-words_files/activity-large.gif)
+![In progress](media/e-words/activity-large.gif)
 
 URL :

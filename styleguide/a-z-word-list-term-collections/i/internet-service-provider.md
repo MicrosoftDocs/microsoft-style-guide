@@ -6,10 +6,10 @@ Loading...
 
 internet service provider (ISP)
 
-![Copy URL](internet-service-provider_files/Copy.png)
+![Copy URL](media/internet-service-provider/Copy.png)
 Copy URL
 
-![Download](internet-service-provider_files/Download.png)
+![Download](media/internet-service-provider/Download.png)
 
 Download topic
 
@@ -19,6 +19,6 @@ Use
 to refer to an organization that provides customers with internet
 access for activities such as web browsing, email, and newsgroups.
 
-![In progress](internet-service-provider_files/activity-large.gif)
+![In progress](media/internet-service-provider/activity-large.gif)
 
 URL :

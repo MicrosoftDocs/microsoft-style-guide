@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 its vs. it's
 
-![Copy URL](its-vs-its_files/Copy.png)
+![Copy URL](media/its-vs-its/Copy.png)
 Copy URL
 
-![Download](its-vs-its_files/Download.png)
+![Download](media/its-vs-its/Download.png)
 
 Download topic
 
@@ -22,6 +22,6 @@ Examples**
 **It's OK to switch to another webpage anytime—your changes are saved automatically. 
 After you remove your device from its box ....
 
-![In progress](its-vs-its_files/activity-large.gif)
+![In progress](media/its-vs-its/activity-large.gif)
 
 URL :

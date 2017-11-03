@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 disable, disabled
 
-![Copy URL](disable-disabled_files/Copy.png)
+![Copy URL](media/disable-disabled/Copy.png)
 Copy URL
 
-![Download](disable-disabled_files/Download.png)
+![Download](media/disable-disabled/Download.png)
 
 Download topic
 
@@ -29,6 +29,6 @@ See also
 [unavailable](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33644)
 [enable, enables](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33678)
 
-![In progress](disable-disabled_files/activity-large.gif)
+![In progress](media/disable-disabled/activity-large.gif)
 
 URL :

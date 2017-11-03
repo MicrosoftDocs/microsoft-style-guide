@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 below
 
-![Copy URL](below_files/Copy.png)
+![Copy URL](media/below/Copy.png)
 Copy URL
 
-![Download](below_files/Download.png)
+![Download](media/below/Download.png)
 
 Download topic
 
@@ -24,6 +24,6 @@ See Installation instructions, later in this topic.
 
 **See also** **** [above](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=27392), [later](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32560)
 
-![In progress](below_files/activity-large.gif)
+![In progress](media/below/activity-large.gif)
 
 URL :

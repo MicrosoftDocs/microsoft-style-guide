@@ -6,10 +6,10 @@ Loading...
 
 shortcut, shortcut menu
 
-![Copy URL](shortcut-shortcut-menu_files/Copy.png)
+![Copy URL](media/shortcut-shortcut-menu/Copy.png)
 Copy URL
 
-![Download](shortcut-shortcut-menu_files/Download.png)
+![Download](media/shortcut-shortcut-menu/Download.png)
 
 Download topic
 
@@ -28,6 +28,6 @@ Describing interactions with UI](https://worldready.cloudapp.net/Styleguide/Read
 ](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=27401)[pop-up
 ](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28831)
 
-![In progress](shortcut-shortcut-menu_files/activity-large.gif)
+![In progress](media/shortcut-shortcut-menu/activity-large.gif)
 
 URL :

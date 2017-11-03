@@ -6,10 +6,10 @@ Loading...
 
 registry, registry settings
 
-![Copy URL](registry-registry-settings_files/Copy.png)
+![Copy URL](media/registry-registry-settings/Copy.png)
 Copy URL
 
-![Download](registry-registry-settings_files/Download.png)
+![Download](media/registry-registry-settings/Download.png)
 
 Download topic
 
@@ -43,6 +43,6 @@ Example**
 
 In a subkey, use *entries* to describe the items in the Name column. Use *values* to describe the items in the Data column.
 
-![In progress](registry-registry-settings_files/activity-large.gif)
+![In progress](media/registry-registry-settings/activity-large.gif)
 
 URL :

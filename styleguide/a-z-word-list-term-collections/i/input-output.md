@@ -6,10 +6,10 @@ Loading...
 
 input/output, I/O, input/output control
 
-![Copy URL](input-output_files/Copy.png)
+![Copy URL](media/input-output/Copy.png)
 Copy URL
 
-![Download](input-output_files/Download.png)
+![Download](media/input-output/Download.png)
 
 Download topic
 
@@ -19,6 +19,6 @@ In content for a technical audience, you don't need to spell out on the first me
 
 Use *input/output control* only in content for a technical audience. Always spell out on the first mention. On subsequent mentions, it's OK to abbreviate as *I/O control* or *IOCTL*. 
 
-![In progress](input-output_files/activity-large.gif)
+![In progress](media/input-output/activity-large.gif)
 
 URL :

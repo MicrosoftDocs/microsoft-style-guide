@@ -6,10 +6,10 @@ Loading...
 
 screened subnet
 
-![Copy URL](screened-subnet_files/Copy.png)
+![Copy URL](media/screened-subnet/Copy.png)
 Copy URL
 
-![Download](screened-subnet_files/Download.png)
+![Download](media/screened-subnet/Download.png)
 
 Download topic
 
@@ -17,6 +17,6 @@ Don't use. Use *perimeter network* instead. On the first mention, it's OK to say
 
 perimeter network (also known as *DMZ, demilitarized zone,* and *screened subnet*)
 
-![In progress](screened-subnet_files/activity-large.gif)
+![In progress](media/screened-subnet/activity-large.gif)
 
 URL :

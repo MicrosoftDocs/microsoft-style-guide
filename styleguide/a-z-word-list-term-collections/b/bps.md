@@ -6,15 +6,15 @@ Loading...
 
 bps
 
-![Copy URL](bps_files/Copy.png)
+![Copy URL](media/bps/Copy.png)
 Copy URL
 
-![Download](bps_files/Download.png)
+![Download](media/bps/Download.png)
 
 Download topic
 
 **See** [Bits and bytes term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26920)
 
-![In progress](bps_files/activity-large.gif)
+![In progress](media/bps/activity-large.gif)
 
 URL :

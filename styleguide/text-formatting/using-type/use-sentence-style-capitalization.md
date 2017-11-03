@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Use sentence-style capitalization
 
-![Copy URL](use-sentence-style-capitalization_files/Copy.png)
+![Copy URL](media/use-sentence-style-capitalization/Copy.png)
 Copy URL
 
-![Download](use-sentence-style-capitalization_files/Download.png)
+![Download](media/use-sentence-style-capitalization/Download.png)
 
 Download topic
 
@@ -33,6 +33,6 @@ Example this sentence is all lowercase. or is it a sentence? it's hard to tell w
 
 Learn more To learn more about proper nouns, see [Nouns and pronouns](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25525). To learn more about capitalization, see [Capitalization](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33685).
 
-![In progress](use-sentence-style-capitalization_files/activity-large.gif)
+![In progress](media/use-sentence-style-capitalization/activity-large.gif)
 
 URL :

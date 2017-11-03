@@ -6,15 +6,15 @@ Loading...
 
 time stamp
 
-![Copy URL](time-stamp_files/Copy.png)
+![Copy URL](media/time-stamp/Copy.png)
 Copy URL
 
-![Download](time-stamp_files/Download.png)
+![Download](media/time-stamp/Download.png)
 
 Download topic
 
 Two words.
 
-![In progress](time-stamp_files/activity-large.gif)
+![In progress](media/time-stamp/activity-large.gif)
 
 URL :

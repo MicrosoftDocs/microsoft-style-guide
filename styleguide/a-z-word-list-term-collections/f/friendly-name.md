@@ -6,15 +6,15 @@ Loading...
 
 friendly name
 
-![Copy URL](friendly-name_files/Copy.png)
+![Copy URL](media/friendly-name/Copy.png)
 Copy URL
 
-![Download](friendly-name_files/Download.png)
+![Download](media/friendly-name/Download.png)
 
 Download topic
 
 Don't use. Use *display name* instead to refer to a person's name as it appears in an address or email list.
 
-![In progress](friendly-name_files/activity-large.gif)
+![In progress](media/friendly-name/activity-large.gif)
 
 URL :

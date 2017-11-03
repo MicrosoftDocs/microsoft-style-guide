@@ -6,10 +6,10 @@ Loading...
 
 replace
 
-![Copy URL](replace_files/Copy.png)
+![Copy URL](media/replace/Copy.png)
 Copy URL
 
-![Download](replace_files/Download.png)
+![Download](media/replace/Download.png)
 
 Download topic
 
@@ -27,6 +27,6 @@ Replace the file with the changed file.
 
 **See also** [find and replace](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33782)
 
-![In progress](replace_files/activity-large.gif)
+![In progress](media/replace/activity-large.gif)
 
 URL :

@@ -6,15 +6,15 @@ Loading...
 
 kilobits per second, Kbps
 
-![Copy URL](kilobits-per-second_files/Copy.png)
+![Copy URL](media/kilobits-per-second/Copy.png)
 Copy URL
 
-![Download](kilobits-per-second_files/Download.png)
+![Download](media/kilobits-per-second/Download.png)
 
 Download topic
 
 **See** [Bits and bytes term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26920)
 
-![In progress](kilobits-per-second_files/activity-large.gif)
+![In progress](media/kilobits-per-second/activity-large.gif)
 
 URL :

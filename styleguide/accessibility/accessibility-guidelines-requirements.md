@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Accessibility guidelines and requirements
 
-![Copy URL](accessibility-guidelines-requirements_files/Copy.png)
+![Copy URL](media/accessibility-guidelines-requirements/Copy.png)
 Copy URL
 
-![Download](accessibility-guidelines-requirements_files/Download.png)
+![Download](media/accessibility-guidelines-requirements/Download.png)
 
 Download topic
 
@@ -49,6 +49,6 @@ These resources require Microsoft network access:
 
 ## 
 
-![In progress](accessibility-guidelines-requirements_files/activity-large.gif)
+![In progress](media/accessibility-guidelines-requirements/activity-large.gif)
 
 URL :

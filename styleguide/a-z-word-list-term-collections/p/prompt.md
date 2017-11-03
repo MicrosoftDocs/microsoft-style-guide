@@ -6,10 +6,10 @@ Loading...
 
 prompt
 
-![Copy URL](prompt_files/Copy.png)
+![Copy URL](media/prompt/Copy.png)
 Copy URL
 
-![Download](prompt_files/Download.png)
+![Download](media/prompt/Download.png)
 
 Download topic
 
@@ -26,6 +26,6 @@ When you run Setup, you're prompted to select settings and file locations.
 
 **See also** **** [command prompt](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33562)
 
-![In progress](prompt_files/activity-large.gif)
+![In progress](media/prompt/activity-large.gif)
 
 URL :

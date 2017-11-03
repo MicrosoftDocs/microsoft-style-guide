@@ -6,15 +6,15 @@ Loading...
 
 impact
 
-![Copy URL](impact_files/Copy.png)
+![Copy URL](media/impact/Copy.png)
 Copy URL
 
-![Download](impact_files/Download.png)
+![Download](media/impact/Download.png)
 
 Download topic
 
 Use only as a noun. As a verb, use *affect* or another synonym.
 
-![In progress](impact_files/activity-large.gif)
+![In progress](media/impact/activity-large.gif)
 
 URL :

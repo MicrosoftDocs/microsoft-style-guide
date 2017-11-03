@@ -6,10 +6,10 @@ Loading...
 
 Nouns and pronouns
 
-![Copy URL](nouns-pronouns_files/Copy.png)
+![Copy URL](media/nouns-pronouns/Copy.png)
 Copy URL
 
-![Download](nouns-pronouns_files/Download.png)
+![Download](media/nouns-pronouns/Download.png)
 
 Download topic
 
@@ -147,6 +147,6 @@ The company upgraded its cloud storage solution to Microsoft Azure.
 
 Exception If the emphasis is on the individuals in a group, it’s OK to use a plural pronoun with a singular noun.
 
-![In progress](nouns-pronouns_files/activity-large.gif)
+![In progress](media/nouns-pronouns/activity-large.gif)
 
 URL :

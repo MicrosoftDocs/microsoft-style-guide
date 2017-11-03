@@ -6,10 +6,10 @@ Loading...
 
 data, datum
 
-![Copy URL](data-datum_files/Copy.png)
+![Copy URL](media/data-datum/Copy.png)
 Copy URL
 
-![Download](data-datum_files/Download.png)
+![Download](media/data-datum/Download.png)
 
 Download topic
 
@@ -26,6 +26,6 @@ These facts contradict earlier data.
 
 **See also** [big data](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32563)
 
-![In progress](data-datum_files/activity-large.gif)
+![In progress](media/data-datum/activity-large.gif)
 
 URL :

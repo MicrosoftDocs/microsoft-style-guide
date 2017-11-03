@@ -6,10 +6,10 @@ Loading...
 
 uppercase
 
-![Copy URL](uppercase_files/Copy.png)
+![Copy URL](media/uppercase/Copy.png)
 Copy URL
 
-![Download](uppercase_files/Download.png)
+![Download](media/uppercase/Download.png)
 
 Download topic
 
@@ -23,6 +23,6 @@ Examples
 Change all the lowercase letters to uppercase.
 Change the case of both lowercase and uppercase letters. 
 
-![In progress](uppercase_files/activity-large.gif)
+![In progress](media/uppercase/activity-large.gif)
 
 URL :

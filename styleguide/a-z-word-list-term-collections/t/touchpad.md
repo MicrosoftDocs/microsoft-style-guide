@@ -6,15 +6,15 @@ Loading...
 
 touchpad
 
-![Copy URL](touchpad_files/Copy.png)
+![Copy URL](media/touchpad/Copy.png)
 Copy URL
 
-![Download](touchpad_files/Download.png)
+![Download](media/touchpad/Download.png)
 
 Download topic
 
 One word. 
 
-![In progress](touchpad_files/activity-large.gif)
+![In progress](media/touchpad/activity-large.gif)
 
 URL :

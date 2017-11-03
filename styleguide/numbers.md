@@ -6,10 +6,10 @@ Loading...
 
 Numbers
 
-![Copy URL](numbers_files/Copy.png)
+![Copy URL](media/numbers/Copy.png)
 Copy URL
 
-![Download](numbers_files/Download.png)
+![Download](media/numbers/Download.png)
 
 Download topic
 
@@ -260,6 +260,6 @@ Date and time term collection](https://worldready.cloudapp.net/Styleguide/Read?i
 [Dashes and hyphens
 ](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28757)[Percent, percentage](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35557)[](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28757)
 
-![In progress](numbers_files/activity-large.gif)
+![In progress](media/numbers/activity-large.gif)
 
 URL :

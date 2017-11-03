@@ -6,15 +6,15 @@ Loading...
 
 movable
 
-![Copy URL](movable_files/Copy.png)
+![Copy URL](media/movable/Copy.png)
 Copy URL
 
-![Download](movable_files/Download.png)
+![Download](media/movable/Download.png)
 
 Download topic
 
 Note spelling. Don't use *moveable.*
 
-![In progress](movable_files/activity-large.gif)
+![In progress](media/movable/activity-large.gif)
 
 URL :

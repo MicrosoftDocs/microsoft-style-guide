@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 En dashes
 
-![Copy URL](enes_files/Copy.png)
+![Copy URL](media/enes/Copy.png)
 Copy URL
 
-![Download](enes_files/Download.png)
+![Download](media/enes/Download.png)
 
 Download topic
 
@@ -50,6 +50,6 @@ Examples
 
 See also [Date and time term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=27390)
 
-![In progress](enes_files/activity-large.gif)
+![In progress](media/enes/activity-large.gif)
 
 URL :

@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Microsoft's brand voice: above all, simple and human
 
-![Copy URL](brand-voice-above-all-simple-human_files/Copy.png)
+![Copy URL](media/brand-voice-above-all-simple-human/Copy.png)
 Copy URL
 
-![Download](brand-voice-above-all-simple-human_files/Download.png)
+![Download](media/brand-voice-above-all-simple-human/Download.png)
 
 Download topic
 
@@ -80,6 +80,6 @@ When you’re ready to dig deeper, download the [](https://microsoft.sharepoint.
 
 Remember that writing is a skill. If writing isn't a functional role your team has, consider bringing in expert help.
 
-![In progress](brand-voice-above-all-simple-human_files/activity-large.gif)
+![In progress](media/brand-voice-above-all-simple-human/activity-large.gif)
 
 URL :

@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Legal issues and types of content
 
-![Copy URL](legal-issues-types-of-content_files/Copy.png)
+![Copy URL](media/legal-issues-types-of-content/Copy.png)
 Copy URL
 
-![Download](legal-issues-types-of-content_files/Download.png)
+![Download](media/legal-issues-types-of-content/Download.png)
 
 Download topic
 
@@ -55,6 +55,6 @@ Self-service marketing information is also available for Canada and New Zealand.
 
 If you're unsure whether your content requires legal review, contact [your group’s paralegal](https://microsoft.sharepoint.com/sites/lcaweb/Pages/Applications/LegalContact.aspx). (This page requires Microsoft network access.) 
 
-![In progress](legal-issues-types-of-content_files/activity-large.gif)
+![In progress](media/legal-issues-types-of-content/activity-large.gif)
 
 URL :

@@ -6,10 +6,10 @@ Loading...
 
 while
 
-![Copy URL](while_files/Copy.png)
+![Copy URL](media/while/Copy.png)
 Copy URL
 
-![Download](while_files/Download.png)
+![Download](media/while/Download.png)
 
 Download topic
 
@@ -19,6 +19,6 @@ Examples**
 **We're having trouble getting this info right now. Check back in a little while.
 Although the icon indicates that the print job is finished, you might have to wait until a previous job is finished.
 
-![In progress](while_files/activity-large.gif)
+![In progress](media/while/activity-large.gif)
 
 URL :

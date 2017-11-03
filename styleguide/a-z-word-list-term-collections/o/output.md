@@ -6,10 +6,10 @@ Loading...
 
 output
 
-![Copy URL](output_files/Copy.png)
+![Copy URL](media/output/Copy.png)
 Copy URL
 
-![Download](output_files/Download.png)
+![Download](media/output/Download.png)
 
 Download topic
 
@@ -21,6 +21,6 @@ Examples
 ****Print a document to a file or to a specific printer.
 The HttpResponse.Output property delivers text output to the outgoing HTTP response stream.
 
-![In progress](output_files/activity-large.gif)
+![In progress](media/output/activity-large.gif)
 
 URL :

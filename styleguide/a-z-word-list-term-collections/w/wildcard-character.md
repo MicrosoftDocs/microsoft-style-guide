@@ -6,10 +6,10 @@ Loading...
 
 wildcard character
 
-![Copy URL](wildcard-character_files/Copy.png)
+![Copy URL](media/wildcard-character/Copy.png)
 Copy URL
 
-![Download](wildcard-character_files/Download.png)
+![Download](media/wildcard-character/Download.png)
 
 Download topic
 
@@ -17,6 +17,6 @@ Use *wildcard character,* not just *wildcard,* to describe a character used to r
 
 *Wildcard* is one word.
 
-![In progress](wildcard-character_files/activity-large.gif)
+![In progress](media/wildcard-character/activity-large.gif)
 
 URL :

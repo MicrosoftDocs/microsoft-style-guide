@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Code examples
 
-![Copy URL](code-examples_files/Copy.png)
+![Copy URL](media/code-examples/Copy.png)
 Copy URL
 
-![Download](code-examples_files/Download.png)
+![Download](media/code-examples/Download.png)
 
 Download topic
 
@@ -85,6 +85,6 @@ techniques to improve the visibility and usability of the code
 examples. For example, add links to relevant code example pages and
 content pages to improve SEO across your content. See [Search and writing](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36379).
 
-![In progress](code-examples_files/activity-large.gif)
+![In progress](media/code-examples/activity-large.gif)
 
 URL :

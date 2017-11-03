@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,16 +6,16 @@ Loading...
 
 Welcome
 
-![Copy URL](index_files/Copy.png)
+![Copy URL](media/index/Copy.png)
 Copy URL
 
-![Download](index_files/Download.png)
+![Download](media/index/Download.png)
 
 Download topic
 
 Last updated October 17, 2017
 
-![](index_files/401530580.png)
+![](media/index/401530580.png)
 
 *How we say things* is just as important as *what we say.* 
 
@@ -37,6 +37,6 @@ Before you dive in:
 
 Everyone who has a Microsoft.com email account has access to the *Microsoft Writing Style Guide.* To get access for your vendors or partners, send their email addresses to <msstyle@microsoft.com> with the subject line: *Add style guide* *access.* The vendor’s email address must be a Microsoft account (such as an Outlook.com account) in order to work.
 
-![In progress](index_files/activity-large.gif)
+![In progress](media/index/activity-large.gif)
 
 URL :

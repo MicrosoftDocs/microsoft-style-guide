@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Writing step-by-step instructions
 
-![Copy URL](writing-step-by-step-instructions_files/Copy.png)
+![Copy URL](media/writing-step-by-step-instructions/Copy.png)
 Copy URL
 
-![Download](writing-step-by-step-instructions_files/Download.png)
+![Download](media/writing-step-by-step-instructions/Download.png)
 
 Download topic
 
@@ -71,7 +71,7 @@ To schedule sprints
     [http://AccountName/DefaultCollection/TeamProjectName/\_backlogs/iteration](http://accountname/DefaultCollection/TeamProjectName/_backlogs/iteration)`  `Several predefined sprints are listed under Current and Future. Actual sprint titles vary based on the [process template](https://msdn.microsoft.com/library/ms400752.aspx) used to create your team project. However, calendar dates haven’t been assigned.
 2.  To set the calendar dates, select the first sprint under **Current,** and select dates. 
 
-![](writing-step-by-step-instructions_files/1122697927.png)
+![](media/writing-step-by-step-instructions/1122697927.png)
 
 #### Single-step procedures
 
@@ -106,6 +106,6 @@ Example Select Accounts \> Other accounts **** \> Add an account.
 
 Accessibility tip Screen readers may skip over brackets and read instructions such as Menu \> Go To \> Folders ****as *Menu Go To Folders*, which might confuse customers. Check with your group’s accessibility expert before using this approach.
 
-![In progress](writing-step-by-step-instructions_files/activity-large.gif)
+![In progress](media/writing-step-by-step-instructions/activity-large.gif)
 
 URL :

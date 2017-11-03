@@ -6,10 +6,10 @@ Loading...
 
 and so on
 
-![Copy URL](and-so-on_files/Copy.png)
+![Copy URL](media/and-so-on/Copy.png)
 Copy URL
 
-![Download](and-so-on_files/Download.png)
+![Download](media/and-so-on/Download.png)
 
 Download topic
 
@@ -28,6 +28,6 @@ It's OK to use *and so on* to indicate a logical progression where at least two 
 
 Example a, b, c, and so on
 
-![In progress](and-so-on_files/activity-large.gif)
+![In progress](media/and-so-on/activity-large.gif)
 
 URL :

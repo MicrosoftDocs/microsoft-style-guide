@@ -6,15 +6,15 @@ Loading...
 
 key combination
 
-![Copy URL](key-combination_files/Copy.png)
+![Copy URL](media/key-combination/Copy.png)
 Copy URL
 
-![Download](key-combination_files/Download.png)
+![Download](media/key-combination/Download.png)
 
 Download topic
 
 See [Keys and keyboard shortcuts term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=27401)
 
-![In progress](key-combination_files/activity-large.gif)
+![In progress](media/key-combination/activity-large.gif)
 
 URL :

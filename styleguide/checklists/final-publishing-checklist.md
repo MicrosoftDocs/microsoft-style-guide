@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Final publishing checklist
 
-![Copy URL](final-publishing-checklist_files/Copy.png)
+![Copy URL](media/final-publishing-checklist/Copy.png)
 Copy URL
 
-![Download](final-publishing-checklist_files/Download.png)
+![Download](media/final-publishing-checklist/Download.png)
 
 Download topic
 
@@ -33,6 +33,6 @@ content that’s free of spelling and grammar mistakes is easy to read and build
 
 Learn more about what to do [](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25522)[](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25522)[before you publish](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25522). 
 
-![In progress](final-publishing-checklist_files/activity-large.gif)
+![In progress](media/final-publishing-checklist/activity-large.gif)
 
 URL :

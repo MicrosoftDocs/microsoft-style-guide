@@ -6,10 +6,10 @@ Loading...
 
 Security, safety, and privacy terms
 
-![Copy URL](security-safety-privacy-terms_files/Copy.png)
+![Copy URL](media/security-safety-privacy-terms/Copy.png)
 Copy URL
 
-![Download](security-safety-privacy-terms_files/Download.png)
+![Download](media/security-safety-privacy-terms/Download.png)
 
 Download topic
 
@@ -354,6 +354,6 @@ If your audience might not be familiar with the term </span><em>malware</em><spa
 </tbody>
 </table>
 
-![In progress](security-safety-privacy-terms_files/activity-large.gif)
+![In progress](media/security-safety-privacy-terms/activity-large.gif)
 
 URL :

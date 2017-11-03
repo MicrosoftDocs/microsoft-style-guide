@@ -6,15 +6,15 @@ Loading...
 
 trojan horse, trojan
 
-![Copy URL](trojan-horse-trojan_files/Copy.png)
+![Copy URL](media/trojan-horse-trojan/Copy.png)
 Copy URL
 
-![Download](trojan-horse-trojan_files/Download.png)
+![Download](media/trojan-horse-trojan/Download.png)
 
 Download topic
 
 **See** [Security, safety, and privacy term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26894)
 
-![In progress](trojan-horse-trojan_files/activity-large.gif)
+![In progress](media/trojan-horse-trojan/activity-large.gif)
 
 URL :

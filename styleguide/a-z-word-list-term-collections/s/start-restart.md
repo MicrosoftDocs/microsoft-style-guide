@@ -6,10 +6,10 @@ Loading...
 
 start, restart
 
-![Copy URL](start-restart_files/Copy.png)
+![Copy URL](media/start-restart/Copy.png)
 Copy URL
 
-![Download](start-restart_files/Download.png)
+![Download](media/start-restart/Download.png)
 
 Download topic
 
@@ -19,6 +19,6 @@ Use *restart* to describe closing and reopening a program or app or turning a de
 
 **See also** [Describing interactions with UI](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26472), [turn on, turn off](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33405)
 
-![In progress](start-restart_files/activity-large.gif)
+![In progress](media/start-restart/activity-large.gif)
 
 URL :

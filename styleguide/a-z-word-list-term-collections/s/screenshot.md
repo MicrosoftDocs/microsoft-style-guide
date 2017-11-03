@@ -6,15 +6,15 @@ Loading...
 
 screenshot
 
-![Copy URL](screenshot_files/Copy.png)
+![Copy URL](media/screenshot/Copy.png)
 Copy URL
 
-![Download](screenshot_files/Download.png)
+![Download](media/screenshot/Download.png)
 
 Download topic
 
 One word.
 
-![In progress](screenshot_files/activity-large.gif)
+![In progress](media/screenshot/activity-large.gif)
 
 URL :

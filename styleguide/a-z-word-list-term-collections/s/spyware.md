@@ -6,15 +6,15 @@ Loading...
 
 spyware
 
-![Copy URL](spyware_files/Copy.png)
+![Copy URL](media/spyware/Copy.png)
 Copy URL
 
-![Download](spyware_files/Download.png)
+![Download](media/spyware/Download.png)
 
 Download topic
 
 **See** [Security, safety, and privacy term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26894)
 
-![In progress](spyware_files/activity-large.gif)
+![In progress](media/spyware/activity-large.gif)
 
 URL :

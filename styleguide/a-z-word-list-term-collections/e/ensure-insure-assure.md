@@ -6,10 +6,10 @@ Loading...
 
 ensure, insure, assure
 
-![Copy URL](ensure-insure-assure_files/Copy.png)
+![Copy URL](media/ensure-insure-assure/Copy.png)
 Copy URL
 
-![Download](ensure-insure-assure_files/Download.png)
+![Download](media/ensure-insure-assure/Download.png)
 
 Download topic
 
@@ -19,6 +19,6 @@ Download topic
   - Use *insure* to mean *to provide insurance*. 
   - Use *assure* to mean *to state positively* or *to make confident*. 
 
-![In progress](ensure-insure-assure_files/activity-large.gif)
+![In progress](media/ensure-insure-assure/activity-large.gif)
 
 URL :

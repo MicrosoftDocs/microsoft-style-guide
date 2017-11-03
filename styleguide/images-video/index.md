@@ -6,10 +6,10 @@ Loading...
 
 Images and video
 
-![Copy URL](index_files/Copy.png)
+![Copy URL](media/index/Copy.png)
 Copy URL
 
-![Download](index_files/Download.png)
+![Download](media/index/Download.png)
 
 Download topic
 
@@ -33,6 +33,6 @@ Before using images in your content, familiarize yourself with the following gui
   - [Graphics, design, and media](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32191) (Accessibility)
   - [Copyrights and trademarks](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26696)
 
-![In progress](index_files/activity-large.gif)
+![In progress](media/index/activity-large.gif)
 
 URL :

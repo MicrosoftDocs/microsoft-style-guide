@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 root directory
 
-![Copy URL](root-directory_files/Copy.png)
+![Copy URL](media/root-directory/Copy.png)
 Copy URL
 
-![Download](root-directory_files/Download.png)
+![Download](media/root-directory/Download.png)
 
 Download topic
 
@@ -21,6 +21,6 @@ Example Change to the root directory, and enter the following command: edit auto
 
 See also **** [top-level folder](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28844)
 
-![In progress](root-directory_files/activity-large.gif)
+![In progress](media/root-directory/activity-large.gif)
 
 URL :

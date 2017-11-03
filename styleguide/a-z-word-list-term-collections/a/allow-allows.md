@@ -6,10 +6,10 @@ Loading...
 
 allow, allows
 
-![Copy URL](allow-allows_files/Copy.png)
+![Copy URL](media/allow-allows/Copy.png)
 Copy URL
 
-![Download](allow-allows_files/Download.png)
+![Download](media/allow-allows/Download.png)
 
 Download topic
 
@@ -23,6 +23,6 @@ Examples
 Windows allows a user without an account to sign in as a guest. 
 Microsoft Word supports saving files in HTML format. 
 
-![In progress](allow-allows_files/activity-large.gif)
+![In progress](media/allow-allows/activity-large.gif)
 
 URL :

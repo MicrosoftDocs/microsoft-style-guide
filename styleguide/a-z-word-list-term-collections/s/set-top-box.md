@@ -6,15 +6,15 @@ Loading...
 
 set-top box
 
-![Copy URL](set-top-box_files/Copy.png)
+![Copy URL](media/set-top-box/Copy.png)
 Copy URL
 
-![Download](set-top-box_files/Download.png)
+![Download](media/set-top-box/Download.png)
 
 Download topic
 
 Note hyphen. Don't abbreviate. 
 
-![In progress](set-top-box_files/activity-large.gif)
+![In progress](media/set-top-box/activity-large.gif)
 
 URL :

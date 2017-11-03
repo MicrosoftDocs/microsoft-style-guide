@@ -6,10 +6,10 @@ Loading...
 
 list box
 
-![Copy URL](list-box_files/Copy.png)
+![Copy URL](media/list-box/Copy.png)
 Copy URL
 
-![Download](list-box_files/Download.png)
+![Download](media/list-box/Download.png)
 
 Download topic
 
@@ -25,6 +25,6 @@ In the pop-up list, select Microsoft Excel. (Mac only)
 
 **See also** [Describing interactions with UI](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26472), [Formatting text in instructions](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=29014)
 
-![In progress](list-box_files/activity-large.gif)
+![In progress](media/list-box/activity-large.gif)
 
 URL :

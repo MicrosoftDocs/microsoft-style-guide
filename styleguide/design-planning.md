@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Design planning
 
-![Copy URL](design-planning_files/Copy.png)
+![Copy URL](media/design-planning/Copy.png)
 Copy URL
 
-![Download](design-planning_files/Download.png)
+![Download](media/design-planning/Download.png)
 
 Download topic
 
@@ -74,6 +74,6 @@ same area on every page. Tips, procedures, blog rolls, references,
 definitions, and other distinct content types are easier to find when
 they’re located consistently. 
 
-![In progress](design-planning_files/activity-large.gif)
+![In progress](media/design-planning/activity-large.gif)
 
 URL :

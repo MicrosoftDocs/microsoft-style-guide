@@ -6,10 +6,10 @@ Loading...
 
 push button, push-button
 
-![Copy URL](push-button_files/Copy.png)
+![Copy URL](media/push-button/Copy.png)
 Copy URL
 
-![Download](push-button_files/Download.png)
+![Download](media/push-button/Download.png)
 
 Download topic
 
@@ -19,6 +19,6 @@ Don't use as a synonym for *button* or *command button*. In content for develope
 
 **See also** [command button](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33560)
 
-![In progress](push-button_files/activity-large.gif)
+![In progress](media/push-button/activity-large.gif)
 
 URL :

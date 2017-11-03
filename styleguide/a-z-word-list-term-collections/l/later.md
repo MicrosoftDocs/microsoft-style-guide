@@ -6,10 +6,10 @@ Loading...
 
 later
 
-![Copy URL](later_files/Copy.png)
+![Copy URL](media/later/Copy.png)
 Copy URL
 
-![Download](later_files/Download.png)
+![Download](media/later/Download.png)
 
 Download topic
 
@@ -26,6 +26,6 @@ Windows 7, Windows 8, Windows 8.1, and Windows 10****
 
 **See also** [earlier](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32559)
 
-![In progress](later_files/activity-large.gif)
+![In progress](media/later/activity-large.gif)
 
 URL :

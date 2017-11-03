@@ -6,10 +6,10 @@ Loading...
 
 write-protect, write-protected
 
-![Copy URL](write-protect-write-protected_files/Copy.png)
+![Copy URL](media/write-protect-write-protected/Copy.png)
 Copy URL
 
-![Download](write-protect-write-protected_files/Download.png)
+![Download](media/write-protect-write-protected/Download.png)
 
 Download topic
 
@@ -23,6 +23,6 @@ Examples
 to write-protect a disk
 a write-protected disk 
 
-![In progress](write-protect-write-protected_files/activity-large.gif)
+![In progress](media/write-protect-write-protected/activity-large.gif)
 
 URL :

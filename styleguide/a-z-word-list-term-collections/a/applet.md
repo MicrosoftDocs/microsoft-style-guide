@@ -6,10 +6,10 @@ Loading...
 
 applet
 
-![Copy URL](applet_files/Copy.png)
+![Copy URL](media/applet/Copy.png)
 Copy URL
 
-![Download](applet_files/Download.png)
+![Download](media/applet/Download.png)
 
 Download topic
 
@@ -24,6 +24,6 @@ add-in, add-on](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=
 [app](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32507)[, application](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32507),
 [tool](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32532)
 
-![In progress](applet_files/activity-large.gif)
+![In progress](media/applet/activity-large.gif)
 
 URL :

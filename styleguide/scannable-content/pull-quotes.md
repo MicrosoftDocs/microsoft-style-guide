@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Pull quotes
 
-![Copy URL](pull-quotes_files/Copy.png)
+![Copy URL](media/pull-quotes/Copy.png)
 Copy URL
 
-![Download](pull-quotes_files/Download.png)
+![Download](media/pull-quotes/Download.png)
 
 Download topic
 
@@ -30,6 +30,6 @@ or publication, make sure you have permission to use it in your
 content—even if you're quoting someone who works for Microsoft. For
 legal information about using quotations, see [Copyrights and trademarks](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26696).
 
-![In progress](pull-quotes_files/activity-large.gif)
+![In progress](media/pull-quotes/activity-large.gif)
 
 URL :

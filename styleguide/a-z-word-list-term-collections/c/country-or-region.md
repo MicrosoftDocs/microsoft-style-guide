@@ -6,10 +6,10 @@ Loading...
 
 country or region
 
-![Copy URL](country-or-region_files/Copy.png)
+![Copy URL](media/country-or-region/Copy.png)
 Copy URL
 
-![Download](country-or-region_files/Download.png)
+![Download](media/country-or-region/Download.png)
 
 Download topic
 
@@ -28,6 +28,6 @@ It's OK to use *country/region* where space is limited. Capitalize both words if
 
 For the official list of countries and regions and more information about using *country,* visit the [Microsoft Global Readiness website](https://microsoft.sharepoint.com/teams/celaGlobalReadiness/KBLibrary/1000.docx?web=1 "Global Readiness Knowledge Base")[.](https://globalready.azurewebsites.net/KBArticle/ViewHtmlPage/1 "Global Readiness Knowledge Base")
 
-![In progress](country-or-region_files/activity-large.gif)
+![In progress](media/country-or-region/activity-large.gif)
 
 URL :

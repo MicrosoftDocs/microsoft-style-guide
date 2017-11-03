@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 bulk
 
-![Copy URL](bulk_files/Copy.png)
+![Copy URL](media/bulk/Copy.png)
 Copy URL
 
-![Download](bulk_files/Download.png)
+![Download](media/bulk/Download.png)
 
 Download topic
 
@@ -26,6 +26,6 @@ Add multiple users at the same time.
 Replace a value across a large number of fields.
 Update multiple product attributes in a single operation.
 
-![In progress](bulk_files/activity-large.gif)
+![In progress](media/bulk/activity-large.gif)
 
 URL :

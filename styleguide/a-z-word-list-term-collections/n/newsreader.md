@@ -6,15 +6,15 @@ Loading...
 
 newsreader
 
-![Copy URL](newsreader_files/Copy.png)
+![Copy URL](media/newsreader/Copy.png)
 Copy URL
 
-![Download](newsreader_files/Download.png)
+![Download](media/newsreader/Download.png)
 
 Download topic
 
 One word.
 
-![In progress](newsreader_files/activity-large.gif)
+![In progress](media/newsreader/activity-large.gif)
 
 URL :

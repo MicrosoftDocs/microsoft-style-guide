@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Images and video checklist
 
-![Copy URL](images-video-checklist_files/Copy.png)
+![Copy URL](media/images-video-checklist/Copy.png)
 Copy URL
 
-![Download](images-video-checklist_files/Download.png)
+![Download](media/images-video-checklist/Download.png)
 
 Download topic
 
@@ -94,6 +94,6 @@ and quality up.
 
 Learn more about [video](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36407).
 
-![In progress](images-video-checklist_files/activity-large.gif)
+![In progress](media/images-video-checklist/activity-large.gif)
 
 URL :

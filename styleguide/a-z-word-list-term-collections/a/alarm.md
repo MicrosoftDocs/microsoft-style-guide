@@ -6,10 +6,10 @@ Loading...
 
 alarm
 
-![Copy URL](alarm_files/Copy.png)
+![Copy URL](media/alarm/Copy.png)
 Copy URL
 
-![Download](alarm_files/Download.png)
+![Download](media/alarm/Download.png)
 
 Download topic
 
@@ -17,6 +17,6 @@ Don't use as a general reference to a sound intended to get the customer's atten
 
 It's OK to use *alarm* in a specific description, such as *the low-battery alarm*.
 
-![In progress](alarm_files/activity-large.gif)
+![In progress](media/alarm/activity-large.gif)
 
 URL :

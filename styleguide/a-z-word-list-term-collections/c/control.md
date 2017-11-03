@@ -6,15 +6,15 @@ Loading...
 
 context-sensitive
 
-![Copy URL](control_files/Copy.png)
+![Copy URL](media/control/Copy.png)
 Copy URL
 
-![Download](control_files/Download.png)
+![Download](media/control/Download.png)
 
 Download topic
 
 Always hyphenate.
 
-![In progress](control_files/activity-large.gif)
+![In progress](media/control/activity-large.gif)
 
 URL :

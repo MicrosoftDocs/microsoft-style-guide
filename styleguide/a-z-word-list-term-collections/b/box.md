@@ -6,10 +6,10 @@ Loading...
 
 box
 
-![Copy URL](box_files/Copy.png)
+![Copy URL](media/box/Copy.png)
 Copy URL
 
-![Download](box_files/Download.png)
+![Download](media/box/Download.png)
 
 Download topic
 
@@ -27,6 +27,6 @@ Don't use *box* as a synonym for client and server hardware.
 
 **See also** [Describing interactions with UI](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26472), [Computer and device term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26597)
 
-![In progress](box_files/activity-large.gif)
+![In progress](media/box/activity-large.gif)
 
 URL :

@@ -6,10 +6,10 @@ Loading...
 
 badge
 
-![Copy URL](badge_files/Copy.png)
+![Copy URL](media/badge/Copy.png)
 Copy URL
 
-![Download](badge_files/Download.png)
+![Download](media/badge/Download.png)
 
 Download topic
 
@@ -20,6 +20,6 @@ badge name. Lowercase the word *badge*.
 
 **See also** [achievement](https://worldready.cloudapp.net/Styleguide/Read?id=1413&topicid=3917)
 
-![In progress](badge_files/activity-large.gif)
+![In progress](media/badge/activity-large.gif)
 
 URL :

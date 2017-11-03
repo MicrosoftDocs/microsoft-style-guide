@@ -6,15 +6,15 @@ Loading...
 
 power cord
 
-![Copy URL](power-cord_files/Copy.png)
+![Copy URL](media/power-cord/Copy.png)
 Copy URL
 
-![Download](power-cord_files/Download.png)
+![Download](media/power-cord/Download.png)
 
 Download topic
 
 Use instead of *power cable*.
 
-![In progress](power-cord_files/activity-large.gif)
+![In progress](media/power-cord/activity-large.gif)
 
 URL :

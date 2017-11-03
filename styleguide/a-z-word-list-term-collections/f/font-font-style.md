@@ -6,10 +6,10 @@ Loading...
 
 font, font style
 
-![Copy URL](font-font-style_files/Copy.png)
+![Copy URL](media/font-font-style/Copy.png)
 Copy URL
 
-![Download](font-font-style_files/Download.png)
+![Download](media/font-font-style/Download.png)
 
 Download topic
 
@@ -25,6 +25,6 @@ In writing for customers, use *regular type* to describe type that's neither bol
 
 For information about when to use various font styles, see [Text formatting](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36381).
 
-![In progress](font-font-style_files/activity-large.gif)
+![In progress](media/font-font-style/activity-large.gif)
 
 URL :

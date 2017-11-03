@@ -6,10 +6,10 @@ Loading...
 
 alphanumeric
 
-![Copy URL](alphanumeric_files/Copy.png)
+![Copy URL](media/alphanumeric/Copy.png)
 Copy URL
 
-![Download](alphanumeric_files/Download.png)
+![Download](media/alphanumeric/Download.png)
 
 Download topic
 
@@ -19,6 +19,6 @@ individual characters that can be only letters or numerals.
 
 Don't use *alphanumerical*.
 
-![In progress](alphanumeric_files/activity-large.gif)
+![In progress](media/alphanumeric/activity-large.gif)
 
 URL :

@@ -6,15 +6,15 @@ Loading...
 
 keypress, keystroke
 
-![Copy URL](keypress-keystroke_files/Copy.png)
+![Copy URL](media/keypress-keystroke/Copy.png)
 Copy URL
 
-![Download](keypress-keystroke_files/Download.png)
+![Download](media/keypress-keystroke/Download.png)
 
 Download topic
 
 **See** [Keys and keyboard shortcuts term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=27401)
 
-![In progress](keypress-keystroke_files/activity-large.gif)
+![In progress](media/keypress-keystroke/activity-large.gif)
 
 URL :

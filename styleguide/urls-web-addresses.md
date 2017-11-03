@@ -6,10 +6,10 @@ Loading...
 
 URLs and web addresses
 
-![Copy URL](urls-web-addresses_files/Copy.png)
+![Copy URL](media/urls-web-addresses/Copy.png)
 Copy URL
 
-![Download](urls-web-addresses_files/Download.png)
+![Download](media/urls-web-addresses/Download.png)
 
 Download topic
 
@@ -70,6 +70,6 @@ Visit the [Windows 10 upgrade page](http://windows.microsoft.com/upgrade) to lea
 (Alt text) Picture of a woman talking on a phone that opens an online chat session with Microsoft support.
 (Alt text) Windows 10 logo and link to the Windows 10 upgrade page.
 
-![In progress](urls-web-addresses_files/activity-large.gif)
+![In progress](media/urls-web-addresses/activity-large.gif)
 
 URL :

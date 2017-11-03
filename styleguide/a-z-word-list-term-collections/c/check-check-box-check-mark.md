@@ -6,10 +6,10 @@ Loading...
 
 check, check box, check mark
 
-![Copy URL](check-check-box-check-mark_files/Copy.png)
+![Copy URL](media/check-check-box-check-mark/Copy.png)
 Copy URL
 
-![Download](check-check-box-check-mark_files/Download.png)
+![Download](media/check-check-box-check-mark/Download.png)
 
 Download topic
 
@@ -21,6 +21,6 @@ Use *select* and *clear* with check boxes, not *turn on* and *turn off, mark* an
 
 Use *check mark*, not *check*, as a noun.
 
-![In progress](check-check-box-check-mark_files/activity-large.gif)
+![In progress](media/check-check-box-check-mark/activity-large.gif)
 
 URL :

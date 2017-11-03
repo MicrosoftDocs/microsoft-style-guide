@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Communities
 
-![Copy URL](social-mediacommunities_files/Copy.png)
+![Copy URL](media/social-mediacommunities/Copy.png)
 Copy URL
 
-![Download](social-mediacommunities_files/Download.png)
+![Download](media/social-mediacommunities/Download.png)
 
 Download topic
 
@@ -80,6 +80,6 @@ posts about topics they care about.
 
 Use social media to promote interesting content and to encourage community contributions.
 
-![In progress](social-mediacommunities_files/activity-large.gif)
+![In progress](media/social-mediacommunities/activity-large.gif)
 
 URL :

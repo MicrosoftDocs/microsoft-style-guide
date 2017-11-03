@@ -6,10 +6,10 @@ Loading...
 
 and/or
 
-![Copy URL](and-or_files/Copy.png)
+![Copy URL](media/and-or/Copy.png)
 Copy URL
 
-![Download](and-or_files/Download.png)
+![Download](media/and-or/Download.png)
 
 Download topic
 
@@ -17,6 +17,6 @@ Don't use unless it helps you avoid lengthy, complex wording. Most of the time, 
 
 Example Save the document, using its current name or a new name. 
 
-![In progress](and-or_files/activity-large.gif)
+![In progress](media/and-or/activity-large.gif)
 
 URL :

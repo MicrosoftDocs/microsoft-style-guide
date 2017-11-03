@@ -6,10 +6,10 @@ Loading...
 
 target drive, target file
 
-![Copy URL](target-drive-target-file_files/Copy.png)
+![Copy URL](media/target-drive-target-file/Copy.png)
 Copy URL
 
-![Download](target-drive-target-file_files/Download.png)
+![Download](media/target-drive-target-file/Download.png)
 
 Download topic
 
@@ -20,6 +20,6 @@ Set your phone to automatically save photos and videos to Microsoft OneDrive.
 By default, the file is saved to the Scanned documents folder.
 Copy the file to the USB drive.
 
-![In progress](target-drive-target-file_files/activity-large.gif)
+![In progress](media/target-drive-target-file/activity-large.gif)
 
 URL :

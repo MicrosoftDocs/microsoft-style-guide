@@ -6,15 +6,15 @@ Loading...
 
 deaf or hard-of-hearing
 
-![Copy URL](deaf-or-hard-of-hearing_files/Copy.png)
+![Copy URL](media/deaf-or-hard-of-hearing/Copy.png)
 Copy URL
 
-![Download](deaf-or-hard-of-hearing_files/Download.png)
+![Download](media/deaf-or-hard-of-hearing/Download.png)
 
 Download topic
 
 **See** [Accessibility term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26596)
 
-![In progress](deaf-or-hard-of-hearing_files/activity-large.gif)
+![In progress](media/deaf-or-hard-of-hearing/activity-large.gif)
 
 URL :

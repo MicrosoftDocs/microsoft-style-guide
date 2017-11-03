@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 flyout
 
-![Copy URL](flyout_files/Copy.png)
+![Copy URL](media/flyout/Copy.png)
 Copy URL
 
-![Download](flyout_files/Download.png)
+![Download](media/flyout/Download.png)
 
 Download topic
 
@@ -27,6 +27,6 @@ flyout control
 
 Avoid using *flyout* as a noun (for example, “the flyout appears”). Don’t use as a verb (for example, “the menu will fly out”).
 
-![In progress](flyout_files/activity-large.gif)
+![In progress](media/flyout/activity-large.gif)
 
 URL :

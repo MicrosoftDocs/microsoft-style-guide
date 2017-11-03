@@ -6,10 +6,10 @@ Loading...
 
 parent/child
 
-![Copy URL](parent-child_files/Copy.png)
+![Copy URL](media/parent-child/Copy.png)
 Copy URL
 
-![Download](parent-child_files/Download.png)
+![Download](media/parent-child/Download.png)
 
 Download topic
 
@@ -22,6 +22,6 @@ Don't use as a synonym for a master/subordinate relationship.
 
 **See also** [master/slave, master/subordinate](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35241)
 
-![In progress](parent-child_files/activity-large.gif)
+![In progress](media/parent-child/activity-large.gif)
 
 URL :

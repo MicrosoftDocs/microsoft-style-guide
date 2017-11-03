@@ -6,15 +6,15 @@ Loading...
 
 color map
 
-![Copy URL](color-map_files/Copy.png)
+![Copy URL](media/color-map/Copy.png)
 Copy URL
 
-![Download](color-map_files/Download.png)
+![Download](media/color-map/Download.png)
 
 Download topic
 
 Two words when referring to the color lookup table in a video card.
 
-![In progress](color-map_files/activity-large.gif)
+![In progress](media/color-map/activity-large.gif)
 
 URL :

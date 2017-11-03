@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Commas
 
-![Copy URL](commas_files/Copy.png)
+![Copy URL](media/commas/Copy.png)
 Copy URL
 
-![Download](commas_files/Download.png)
+![Download](media/commas/Download.png)
 
 Download topic
 
@@ -62,6 +62,6 @@ The program evaluates your computer system, and then it copies the essential fil
 
   - Between the month and the year when a specific date isn’t mentioned.
 
-![In progress](commas_files/activity-large.gif)
+![In progress](media/commas/activity-large.gif)
 
 URL :

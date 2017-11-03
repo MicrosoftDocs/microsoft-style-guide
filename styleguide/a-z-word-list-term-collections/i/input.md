@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 input
 
-![Copy URL](input_files/Copy.png)
+![Copy URL](media/input/Copy.png)
 Copy URL
 
-![Download](input_files/Download.png)
+![Download](media/input/Download.png)
 
 Download topic
 
@@ -23,6 +23,6 @@ Existing characters move to the right as you enter new text.
 
 See also [Describing interactions with UI](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26472)
 
-![In progress](input_files/activity-large.gif)
+![In progress](media/input/activity-large.gif)
 
 URL :

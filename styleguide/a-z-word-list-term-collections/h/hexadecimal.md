@@ -6,10 +6,10 @@ Loading...
 
 hexadecimal
 
-![Copy URL](hexadecimal_files/Copy.png)
+![Copy URL](media/hexadecimal/Copy.png)
 Copy URL
 
-![Download](hexadecimal_files/Download.png)
+![Download](media/hexadecimal/Download.png)
 
 Download topic
 
@@ -19,6 +19,6 @@ Examples
 Interrupt 21h
 addresses greater than OxFFFE
 
-![In progress](hexadecimal_files/activity-large.gif)
+![In progress](media/hexadecimal/activity-large.gif)
 
 URL :

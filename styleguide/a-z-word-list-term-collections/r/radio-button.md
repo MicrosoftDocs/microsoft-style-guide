@@ -6,10 +6,10 @@ Loading...
 
 radio button
 
-![Copy URL](radio-button_files/Copy.png)
+![Copy URL](media/radio-button/Copy.png)
 Copy URL
 
-![Download](radio-button_files/Download.png)
+![Download](media/radio-button/Download.png)
 
 Download topic
 
@@ -19,6 +19,6 @@ In other content, refer to a radio button by its label. If you must provide a de
 
 **See also** [option, option button](https://worldready.cloudapp.net/Styleguide/Read?id=1413&topicid=5633)
 
-![In progress](radio-button_files/activity-large.gif)
+![In progress](media/radio-button/activity-large.gif)
 
 URL :

@@ -6,10 +6,10 @@ Loading...
 
 crash
 
-![Copy URL](crash_files/Copy.png)
+![Copy URL](media/crash/Copy.png)
 Copy URL
 
-![Download](crash_files/Download.png)
+![Download](media/crash/Download.png)
 
 Download topic
 
@@ -17,6 +17,6 @@ Don't use.
 
 Use *fail* for disks or other hardware, or *stop responding* for programs or the operating system. 
 
-![In progress](crash_files/activity-large.gif)
+![In progress](media/crash/activity-large.gif)
 
 URL :

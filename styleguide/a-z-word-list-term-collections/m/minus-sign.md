@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 minus sign (–)
 
-![Copy URL](minus-sign_files/Copy.png)
+![Copy URL](media/minus-sign/Copy.png)
 Copy URL
 
-![Download](minus-sign_files/Download.png)
+![Download](media/minus-sign/Download.png)
 
 Download topic
 
@@ -24,6 +24,6 @@ HTML code *&\#150;*
 
 See also [Keys and keyboard shortcuts term collection](https://worldready.cloudapp.net/StyleGuide/minus%20sign%20\(-\))
 
-![In progress](minus-sign_files/activity-large.gif)
+![In progress](media/minus-sign/activity-large.gif)
 
 URL :

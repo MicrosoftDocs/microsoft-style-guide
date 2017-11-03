@@ -6,15 +6,15 @@ Loading...
 
 alias
 
-![Copy URL](alias_files/Copy.png)
+![Copy URL](media/alias/Copy.png)
 Copy URL
 
-![Download](alias_files/Download.png)
+![Download](media/alias/Download.png)
 
 Download topic
 
 Don't use to mean an email address, account name, or distribution group name.
 
-![In progress](alias_files/activity-large.gif)
+![In progress](media/alias/activity-large.gif)
 
 URL :

@@ -6,10 +6,10 @@ Loading...
 
 document
 
-![Copy URL](document_files/Copy.png)
+![Copy URL](media/document/Copy.png)
 Copy URL
 
-![Download](document_files/Download.png)
+![Download](media/document/Download.png)
 
 Download topic
 
@@ -19,6 +19,6 @@ To refer to any editable file located in a folder, use a more specific word, suc
 
 Use *file* for more general uses, such as *file management* or *file structure,* or references to files of mixed types.
 
-![In progress](document_files/activity-large.gif)
+![In progress](media/document/activity-large.gif)
 
 URL :

@@ -6,10 +6,10 @@ Loading...
 
 downgrade
 
-![Copy URL](downgrade_files/Copy.png)
+![Copy URL](media/downgrade/Copy.png)
 Copy URL
 
-![Download](downgrade_files/Download.png)
+![Download](media/downgrade/Download.png)
 
 Download topic
 
@@ -19,6 +19,6 @@ downgrading licenses, downgrading products, downgrading files, and
 similar subjects. Use only in content for an audience that will
 understand your use of the word in those contexts. 
 
-![In progress](downgrade_files/activity-large.gif)
+![In progress](media/downgrade/activity-large.gif)
 
 URL :

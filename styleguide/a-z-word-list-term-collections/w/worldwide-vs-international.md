@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 worldwide vs. international
 
-![Copy URL](worldwide-vs-international_files/Copy.png)
+![Copy URL](media/worldwide-vs-international/Copy.png)
 Copy URL
 
-![Download](worldwide-vs-international_files/Download.png)
+![Download](media/worldwide-vs-international/Download.png)
 
 Download topic
 
@@ -41,6 +41,6 @@ Microsoft is driving the transformation of business and industry across Europe a
 
 See also [global](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33817)
 
-![In progress](worldwide-vs-international_files/activity-large.gif)
+![In progress](media/worldwide-vs-international/activity-large.gif)
 
 URL :

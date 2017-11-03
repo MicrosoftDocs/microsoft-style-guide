@@ -6,10 +6,10 @@ Loading...
 
 hierarchical menu
 
-![Copy URL](hierarchical-menu_files/Copy.png)
+![Copy URL](media/hierarchical-menu/Copy.png)
 Copy URL
 
-![Download](hierarchical-menu_files/Download.png)
+![Download](media/hierarchical-menu/Download.png)
 
 Download topic
 
@@ -21,6 +21,6 @@ Examples
 On the Edit menu, point to Clear, and then select the item you want to clear.
 Select Edit, point to Clear, and then select the item you want to clear. 
 
-![In progress](hierarchical-menu_files/activity-large.gif)
+![In progress](media/hierarchical-menu/activity-large.gif)
 
 URL :

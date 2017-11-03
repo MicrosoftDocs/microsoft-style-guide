@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Numbers checklist
 
-![Copy URL](numbers-checklist_files/Copy.png)
+![Copy URL](media/numbers-checklist/Copy.png)
 Copy URL
 
-![Download](numbers-checklist_files/Download.png)
+![Download](media/numbers-checklist/Download.png)
 
 Download topic
 
@@ -95,6 +95,6 @@ See also
 [Units of measure term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28884)
 [Dashes and hyphens](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28757)
 
-![In progress](numbers-checklist_files/activity-large.gif)
+![In progress](media/numbers-checklist/activity-large.gif)
 
 URL :

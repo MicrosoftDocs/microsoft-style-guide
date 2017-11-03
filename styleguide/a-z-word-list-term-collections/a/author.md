@@ -6,10 +6,10 @@ Loading...
 
 author
 
-![Copy URL](author_files/Copy.png)
+![Copy URL](media/author/Copy.png)
 Copy URL
 
-![Download](author_files/Download.png)
+![Download](media/author/Download.png)
 
 Download topic
 
@@ -19,6 +19,6 @@ In content for a technical audience, it's OK to refer to *authoring tools* or *a
 
 In content for a general audience, use *write* instead.
 
-![In progress](author_files/activity-large.gif)
+![In progress](media/author/activity-large.gif)
 
 URL :

@@ -6,10 +6,10 @@ Loading...
 
 write-only
 
-![Copy URL](write-only_files/Copy.png)
+![Copy URL](media/write-only/Copy.png)
 Copy URL
 
-![Download](write-only_files/Download.png)
+![Download](media/write-only/Download.png)
 
 Download topic
 
@@ -17,6 +17,6 @@ Always hyphenate. **
 
 **See also** [read/write, read/write permissions](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35663)
 
-![In progress](write-only_files/activity-large.gif)
+![In progress](media/write-only/activity-large.gif)
 
 URL :

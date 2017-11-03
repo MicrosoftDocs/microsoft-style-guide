@@ -6,15 +6,15 @@ Loading...
 
 point to
 
-![Copy URL](point-to_files/Copy.png)
+![Copy URL](media/point-to/Copy.png)
 Copy URL
 
-![Download](point-to_files/Download.png)
+![Download](media/point-to/Download.png)
 
 Download topic
 
 **See** [Mouse and mouse interaction term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=29013)
 
-![In progress](point-to_files/activity-large.gif)
+![In progress](media/point-to/activity-large.gif)
 
 URL :

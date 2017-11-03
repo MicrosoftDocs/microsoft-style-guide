@@ -6,10 +6,10 @@ Loading...
 
 notification
 
-![Copy URL](notification_files/Copy.png)
+![Copy URL](media/notification/Copy.png)
 Copy URL
 
-![Download](notification_files/Download.png)
+![Download](media/notification/Download.png)
 
 Download topic
 
@@ -19,6 +19,6 @@ Examples
 When you receive a message, a notification briefly appears at the top of Start ...
 If you get a notification, tap it before you unlock the phone and you'll be automatically taken to the notification.
 
-![In progress](notification_files/activity-large.gif)
+![In progress](media/notification/activity-large.gif)
 
 URL :

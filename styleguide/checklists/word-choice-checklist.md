@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Word choice checklist
 
-![Copy URL](word-choice-checklist_files/Copy.png)
+![Copy URL](media/word-choice-checklist/Copy.png)
 Copy URL
 
-![Download](word-choice-checklist_files/Download.png)
+![Download](media/word-choice-checklist/Download.png)
 
 Download topic
 
@@ -45,6 +45,6 @@ Choose simple, precise words that you use in conversations.
     use words that attribute human characteristics to devices and products.
     Devices don't think, feel, or otherwise exhibit human characteristics.
 
-![In progress](word-choice-checklist_files/activity-large.gif)
+![In progress](media/word-choice-checklist/activity-large.gif)
 
 URL :

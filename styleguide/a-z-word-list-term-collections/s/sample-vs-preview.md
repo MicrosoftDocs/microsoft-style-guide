@@ -6,10 +6,10 @@ Loading...
 
 sample vs. preview
 
-![Copy URL](sample-vs-preview_files/Copy.png)
+![Copy URL](media/sample-vs-preview/Copy.png)
 Copy URL
 
-![Download](sample-vs-preview_files/Download.png)
+![Download](media/sample-vs-preview/Download.png)
 
 Download topic
 
@@ -19,6 +19,6 @@ Examples
 This displays a sample of what the control will look like with the scheme applied.
 To preview what the control will look like with the scheme applied, select Preview.
 
-![In progress](sample-vs-preview_files/activity-large.gif)
+![In progress](media/sample-vs-preview/activity-large.gif)
 
 URL :

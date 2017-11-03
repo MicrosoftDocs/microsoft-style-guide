@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 plug-in
 
-![Copy URL](plug-in_files/Copy.png)
+![Copy URL](media/plug-in/Copy.png)
 Copy URL
 
-![Download](plug-in_files/Download.png)
+![Download](media/plug-in/Download.png)
 
 Download topic
 
@@ -20,6 +20,6 @@ embedded in an HTML document. Don’t use as a synonym for *add-in* or *add-on*.
 
 See also [add-in, add-on](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28773)
 
-![In progress](plug-in_files/activity-large.gif)
+![In progress](media/plug-in/activity-large.gif)
 
 URL :

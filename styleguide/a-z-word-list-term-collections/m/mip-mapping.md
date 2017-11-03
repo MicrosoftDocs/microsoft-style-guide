@@ -6,15 +6,15 @@ Loading...
 
 MIP mapping
 
-![Copy URL](mip-mapping_files/Copy.png)
+![Copy URL](media/mip-mapping/Copy.png)
 Copy URL
 
-![Download](mip-mapping_files/Download.png)
+![Download](media/mip-mapping/Download.png)
 
 Download topic
 
 Two words. Note capitalization.
 
-![In progress](mip-mapping_files/activity-large.gif)
+![In progress](media/mip-mapping/activity-large.gif)
 
 URL :

@@ -6,10 +6,10 @@ Loading...
 
 DNS
 
-![Copy URL](dns_files/Copy.png)
+![Copy URL](media/dns/Copy.png)
 Copy URL
 
-![Download](dns_files/Download.png)
+![Download](media/dns/Download.png)
 
 Download topic
 
@@ -31,6 +31,6 @@ and starting it.
 
 See also [Azure DNS](https://worldready.cloudapp.net/Styleguide/Read?id=2696&topicid=40745 "Azure DNS topic in the Cloud Style Guide") in the *Microsoft Cloud Style Guide*
 
-![In progress](dns_files/activity-large.gif)
+![In progress](media/dns/activity-large.gif)
 
 URL :

@@ -6,10 +6,10 @@ Loading...
 
 C, C++, C\#
 
-![Copy URL](c-cplusplus-csharp_files/Copy.png)
+![Copy URL](media/c-cplusplus-csharp/Copy.png)
 Copy URL
 
-![Download](c-cplusplus-csharp_files/Download.png)
+![Download](media/c-cplusplus-csharp/Download.png)
 
 Download topic
 
@@ -20,6 +20,6 @@ Examples**
 a program based on C++ 
 built with exported functions that are callable by C
 
-![In progress](c-cplusplus-csharp_files/activity-large.gif)
+![In progress](media/c-cplusplus-csharp/activity-large.gif)
 
 URL :

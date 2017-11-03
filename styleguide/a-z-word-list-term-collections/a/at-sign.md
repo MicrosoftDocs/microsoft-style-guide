@@ -6,15 +6,15 @@ Loading...
 
 at sign (@)
 
-![Copy URL](at-sign_files/Copy.png)
+![Copy URL](media/at-sign/Copy.png)
 Copy URL
 
-![Download](at-sign_files/Download.png)
+![Download](media/at-sign/Download.png)
 
 Download topic
 
 See [Keys and keyboard shortcuts term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=27401)
 
-![In progress](at-sign_files/activity-large.gif)
+![In progress](media/at-sign/activity-large.gif)
 
 URL :

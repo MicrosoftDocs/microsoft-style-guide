@@ -6,10 +6,10 @@ Loading...
 
 Minimize button, minimize
 
-![Copy URL](minimize-button-minimize_files/Copy.png)
+![Copy URL](media/minimize-button-minimize/Copy.png)
 Copy URL
 
-![Download](minimize-button-minimize_files/Download.png)
+![Download](media/minimize-button-minimize/Download.png)
 
 Download topic
 
@@ -19,8 +19,8 @@ It's OK to use *minimize* as a verb.
 
 Examples
 Select the Minimize button. 
-Select ![](minimize-button-minimize_files/1223646377.png).
+Select ![](media/minimize-button-minimize/1223646377.png).
 
-![In progress](minimize-button-minimize_files/activity-large.gif)
+![In progress](media/minimize-button-minimize/activity-large.gif)
 
 URL :

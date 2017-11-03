@@ -6,15 +6,15 @@ Loading...
 
 onboarding
 
-![Copy URL](onboarding_files/Copy.png)
+![Copy URL](media/onboarding/Copy.png)
 Copy URL
 
-![Download](onboarding_files/Download.png)
+![Download](media/onboarding/Download.png)
 
 Download topic
 
 Don't use to mean the process of introducing employees to a new role or organization. Use *orientation* instead.
 
-![In progress](onboarding_files/activity-large.gif)
+![In progress](media/onboarding/activity-large.gif)
 
 URL :

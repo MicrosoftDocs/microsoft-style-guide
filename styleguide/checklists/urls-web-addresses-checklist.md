@@ -6,10 +6,10 @@ Loading...
 
 URLs and web addresses checklist
 
-![Copy URL](urls-web-addresses-checklist_files/Copy.png)
+![Copy URL](media/urls-web-addresses-checklist/Copy.png)
 Copy URL
 
-![Download](urls-web-addresses-checklist_files/Download.png)
+![Download](media/urls-web-addresses-checklist/Download.png)
 
 Download topic
 
@@ -31,6 +31,6 @@ Follow these guidelines to refer to URLs and other addresses clearly and consist
     *
   - If punctuation follows a URL, make sure it's clear that the punctuation isn't part of the URL. 
 
-![In progress](urls-web-addresses-checklist_files/activity-large.gif)
+![In progress](media/urls-web-addresses-checklist/activity-large.gif)
 
 URL :

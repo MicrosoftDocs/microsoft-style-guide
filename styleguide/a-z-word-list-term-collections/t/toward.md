@@ -6,15 +6,15 @@ Loading...
 
 toward
 
-![Copy URL](toward_files/Copy.png)
+![Copy URL](media/toward/Copy.png)
 Copy URL
 
-![Download](toward_files/Download.png)
+![Download](media/toward/Download.png)
 
 Download topic
 
 Use instead of *towards*.
 
-![In progress](toward_files/activity-large.gif)
+![In progress](media/toward/activity-large.gif)
 
 URL :

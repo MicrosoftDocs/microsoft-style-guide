@@ -6,10 +6,10 @@ Loading...
 
 What's new?
 
-![Copy URL](whats-new_files/Copy.png)
+![Copy URL](media/whats-new/Copy.png)
 Copy URL
 
-![Download](whats-new_files/Download.png)
+![Download](media/whats-new/Download.png)
 
 Download topic
 
@@ -230,6 +230,6 @@ Contact <msstyle@microsoft.com> for archives of earlier history.
 </tbody>
 </table>
 
-![In progress](whats-new_files/activity-large.gif)
+![In progress](media/whats-new/activity-large.gif)
 
 URL :

@@ -6,10 +6,10 @@ Loading...
 
 upper left, upper right
 
-![Copy URL](upper-left-upper-right_files/Copy.png)
+![Copy URL](media/upper-left-upper-right/Copy.png)
 Copy URL
 
-![Download](upper-left-upper-right_files/Download.png)
+![Download](media/upper-left-upper-right/Download.png)
 
 Download topic
 
@@ -28,6 +28,6 @@ sighted user with dyslexia can clearly see a change in the interface as
 the result of an action, such as a change in the right pane when an
 option in the left pane is selected.
 
-![In progress](upper-left-upper-right_files/activity-large.gif)
+![In progress](media/upper-left-upper-right/activity-large.gif)
 
 URL :

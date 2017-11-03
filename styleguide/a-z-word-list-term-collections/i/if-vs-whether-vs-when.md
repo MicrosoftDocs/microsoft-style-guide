@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 if vs. whether vs. when
 
-![Copy URL](if-vs-whether-vs-when_files/Copy.png)
+![Copy URL](media/if-vs-whether-vs-when/Copy.png)
 Copy URL
 
-![Download](if-vs-whether-vs-when_files/Download.png)
+![Download](media/if-vs-whether-vs-when/Download.png)
 
 Download topic
 
@@ -25,6 +25,6 @@ To find out whether TrueType fonts are available ….
 (Informal) To find out if TrueType fonts are available ….
 Save a webpage to view it later, even if you're not connected to the internet.
 
-![In progress](if-vs-whether-vs-when_files/activity-large.gif)
+![In progress](media/if-vs-whether-vs-when/activity-large.gif)
 
 URL :

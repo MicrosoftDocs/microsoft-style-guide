@@ -6,15 +6,15 @@ Loading...
 
 surf
 
-![Copy URL](surf_files/Copy.png)
+![Copy URL](media/surf/Copy.png)
 Copy URL
 
-![Download](surf_files/Download.png)
+![Download](media/surf/Download.png)
 
 Download topic
 
 OK to use in informal contexts to describe a more random browsing than the less informal *browse* implies. 
 
-![In progress](surf_files/activity-large.gif)
+![In progress](media/surf/activity-large.gif)
 
 URL :

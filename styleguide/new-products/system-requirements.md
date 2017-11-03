@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 System requirements
 
-![Copy URL](system-requirements_files/Copy.png)
+![Copy URL](media/system-requirements/Copy.png)
 Copy URL
 
-![Download](system-requirements_files/Download.png)
+![Download](media/system-requirements/Download.png)
 
 Download topic
 
@@ -31,6 +31,6 @@ Keep these guidelines in mind:
     download page. It’s a good idea to create a webpage for system
     requirements for packaged products, too.
 
-![In progress](system-requirements_files/activity-large.gif)
+![In progress](media/system-requirements/activity-large.gif)
 
 URL :

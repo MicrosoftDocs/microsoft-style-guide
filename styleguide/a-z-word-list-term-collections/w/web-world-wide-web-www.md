@@ -6,10 +6,10 @@ Loading...
 
 web, World Wide Web, WWW
 
-![Copy URL](web-world-wide-web-www_files/Copy.png)
+![Copy URL](media/web-world-wide-web-www/Copy.png)
 Copy URL
 
-![Download](web-world-wide-web-www_files/Download.png)
+![Download](media/web-world-wide-web-www/Download.png)
 
 Download topic
 
@@ -48,6 +48,6 @@ The following terms that include *web* are two words:
 
 See also [](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=34905)[URLs and web addresses](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=34905)
 
-![In progress](web-world-wide-web-www_files/activity-large.gif)
+![In progress](media/web-world-wide-web-www/activity-large.gif)
 
 URL :

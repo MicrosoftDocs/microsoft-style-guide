@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Quotation marks
 
-![Copy URL](quotation-marks_files/Copy.png)
+![Copy URL](media/quotation-marks/Copy.png)
 Copy URL
 
-![Download](quotation-marks_files/Download.png)
+![Download](media/quotation-marks/Download.png)
 
 Download topic
 
@@ -39,6 +39,6 @@ One type of malware, called a "trojan clicker," uses your PC to "click" online a
 What is “gaze awareness”?
 A reader asks, “How can I get Windows 10?”
 
-![In progress](quotation-marks_files/activity-large.gif)
+![In progress](media/quotation-marks/activity-large.gif)
 
 URL :

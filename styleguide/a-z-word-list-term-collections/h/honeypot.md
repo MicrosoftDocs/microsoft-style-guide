@@ -6,10 +6,10 @@ Loading...
 
 honeypot
 
-![Copy URL](honeypot_files/Copy.png)
+![Copy URL](media/honeypot/Copy.png)
 Copy URL
 
-![Download](honeypot_files/Download.png)
+![Download](media/honeypot/Download.png)
 
 Download topic
 
@@ -20,6 +20,6 @@ content that's specifically about network decoy technology, try to
 write around the reference. If you can't, define the term on the
 first mention.
 
-![In progress](honeypot_files/activity-large.gif)
+![In progress](media/honeypot/activity-large.gif)
 
 URL :

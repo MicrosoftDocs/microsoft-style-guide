@@ -6,10 +6,10 @@ Loading...
 
 reboot
 
-![Copy URL](reboot_files/Copy.png)
+![Copy URL](media/reboot/Copy.png)
 Copy URL
 
-![Download](reboot_files/Download.png)
+![Download](media/reboot/Download.png)
 
 Download topic
 
@@ -21,6 +21,6 @@ If the UI or API uses *reboot* in a label or element name, it's OK to refer to t
 
 Example The Reboot method shuts down the device and then restarts it.
 
-![In progress](reboot_files/activity-large.gif)
+![In progress](media/reboot/activity-large.gif)
 
 URL :

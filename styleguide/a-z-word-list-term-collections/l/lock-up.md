@@ -6,10 +6,10 @@ Loading...
 
 lock up
 
-![Copy URL](lock-up_files/Copy.png)
+![Copy URL](media/lock-up/Copy.png)
 Copy URL
 
-![Download](lock-up_files/Download.png)
+![Download](media/lock-up/Download.png)
 
 Download topic
 
@@ -17,6 +17,6 @@ Don't use to describe a hardware failure or a program or an operating system tha
 
 **See also** [fail](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33728), [stop, stop responding](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35398)
 
-![In progress](lock-up_files/activity-large.gif)
+![In progress](media/lock-up/activity-large.gif)
 
 URL :

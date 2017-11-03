@@ -6,10 +6,10 @@ Loading...
 
 hot spot, hotspot
 
-![Copy URL](hot-spot-hotspot_files/Copy.png)
+![Copy URL](media/hot-spot-hotspot/Copy.png)
 Copy URL
 
-![Download](hot-spot-hotspot_files/Download.png)
+![Download](media/hot-spot-hotspot/Download.png)
 
 Download topic
 
@@ -26,6 +26,6 @@ Use one word when referring to programming elements, such as the elements of the
 
 See also **** [hyperlink](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33969)
 
-![In progress](hot-spot-hotspot_files/activity-large.gif)
+![In progress](media/hot-spot-hotspot/activity-large.gif)
 
 URL :

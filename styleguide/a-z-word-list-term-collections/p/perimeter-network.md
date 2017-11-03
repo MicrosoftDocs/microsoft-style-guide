@@ -6,10 +6,10 @@ Loading...
 
 perimeter network
 
-![Copy URL](perimeter-network_files/Copy.png)
+![Copy URL](media/perimeter-network/Copy.png)
 Copy URL
 
-![Download](perimeter-network_files/Download.png)
+![Download](media/perimeter-network/Download.png)
 
 Download topic
 
@@ -19,6 +19,6 @@ perimeter network (also known as *DMZ, demilitarized zone,* and *screened subnet
 
 After that, just use *perimeter network.*
 
-![In progress](perimeter-network_files/activity-large.gif)
+![In progress](media/perimeter-network/activity-large.gif)
 
 URL :

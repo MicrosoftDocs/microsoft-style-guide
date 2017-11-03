@@ -6,10 +6,10 @@ Loading...
 
 run vs. execute
 
-![Copy URL](run-vs-execute_files/Copy.png)
+![Copy URL](media/run-vs-execute/Copy.png)
 Copy URL
 
-![Download](run-vs-execute_files/Download.png)
+![Download](media/run-vs-execute/Download.png)
 
 Download topic
 
@@ -21,6 +21,6 @@ Examples
 To run the program, select Execute.
 Commands are run in the order in which they're listed in the file. 
 
-![In progress](run-vs-execute_files/activity-large.gif)
+![In progress](media/run-vs-execute/activity-large.gif)
 
 URL :

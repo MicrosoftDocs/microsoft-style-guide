@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Person
 
-![Copy URL](person_files/Copy.png)
+![Copy URL](media/person/Copy.png)
 Copy URL
 
-![Download](person_files/Download.png)
+![Download](media/person/Download.png)
 
 Download topic
 
@@ -44,6 +44,6 @@ The scheduled default setting is the easiest way to keep your computer up-to-dat
 
 Learn more For information about using the pronouns *he, she,* and *they,* see [Nouns and pronouns](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25525).
 
-![In progress](person_files/activity-large.gif)
+![In progress](media/person/activity-large.gif)
 
 URL :

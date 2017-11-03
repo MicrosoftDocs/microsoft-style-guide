@@ -6,10 +6,10 @@ Loading...
 
 Question marks
 
-![Copy URL](question-marks_files/Copy.png)
+![Copy URL](media/question-marks/Copy.png)
 Copy URL
 
-![Download](question-marks_files/Download.png)
+![Download](media/question-marks/Download.png)
 
 Download topic
 
@@ -22,6 +22,6 @@ If you forgot your password, provide your secret answer.
 More nature themes are available online.
 Do you want to save your changes?
 
-![In progress](question-marks_files/activity-large.gif)
+![In progress](media/question-marks/activity-large.gif)
 
 URL :

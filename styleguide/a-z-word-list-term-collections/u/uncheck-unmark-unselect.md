@@ -6,15 +6,15 @@ Loading...
 
 uncheck, unmark, unselect
 
-![Copy URL](uncheck-unmark-unselect_files/Copy.png)
+![Copy URL](media/uncheck-unmark-unselect/Copy.png)
 Copy URL
 
-![Download](uncheck-unmark-unselect_files/Download.png)
+![Download](media/uncheck-unmark-unselect/Download.png)
 
 Download topic
 
 Don't use to refer to clearing a check box. Use *clear* instead.
 
-![In progress](uncheck-unmark-unselect_files/activity-large.gif)
+![In progress](media/uncheck-unmark-unselect/activity-large.gif)
 
 URL :

@@ -6,10 +6,10 @@ Loading...
 
 lay out, laid out, layout
 
-![Copy URL](lay-out-laid-out-layout_files/Copy.png)
+![Copy URL](media/lay-out-laid-out-layout/Copy.png)
 Copy URL
 
-![Download](lay-out-laid-out-layout_files/Download.png)
+![Download](media/lay-out-laid-out-layout/Download.png)
 
 Download topic
 
@@ -24,6 +24,6 @@ Lay out complex information in a table to make it easier to read.
 Add formatting to your table after it's laid out.
 A table layout clarifies complex information.
 
-![In progress](lay-out-laid-out-layout_files/activity-large.gif)
+![In progress](media/lay-out-laid-out-layout/activity-large.gif)
 
 URL :

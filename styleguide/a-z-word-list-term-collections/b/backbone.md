@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 auto-
 
-![Copy URL](backbone_files/Copy.png)
+![Copy URL](media/backbone/Copy.png)
 Copy URL
 
-![Download](backbone_files/Download.png)
+![Download](media/backbone/Download.png)
 
 Download topic
 
@@ -21,6 +21,6 @@ To learn more about hyphenation, see [Hyphens](https://worldready.cloudapp.net/S
 
 For more information about prefixes, see [*The Chicago Manual of Style*](http://www.chicagomanualofstyle.org/home.html). If you have Microsoft network access, you can use [*The Chicago Manual of Style Online*](http://aka.ms/mslibrary/cms) through MS Library. 
 
-![In progress](backbone_files/activity-large.gif)
+![In progress](media/backbone/activity-large.gif)
 
 URL :

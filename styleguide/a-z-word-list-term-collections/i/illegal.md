@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 illegal
 
-![Copy URL](illegal_files/Copy.png)
+![Copy URL](media/illegal/Copy.png)
 Copy URL
 
-![Download](illegal_files/Download.png)
+![Download](media/illegal/Download.png)
 
 Download topic
 
@@ -29,6 +29,6 @@ You can't compose chords while a segment is playing.
 
 **See also** **** [invalid, not valid](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=34920)
 
-![In progress](illegal_files/activity-large.gif)
+![In progress](media/illegal/activity-large.gif)
 
 URL :

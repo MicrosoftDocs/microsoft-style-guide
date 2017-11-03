@@ -6,10 +6,10 @@ Loading...
 
 Don't compress line spacing
 
-![Copy URL](dont-compress-line-spacing_files/Copy.png)
+![Copy URL](media/dont-compress-line-spacing/Copy.png)
 Copy URL
 
-![Download](dont-compress-line-spacing_files/Download.png)
+![Download](media/dont-compress-line-spacing/Download.png)
 
 Download topic
 
@@ -64,6 +64,6 @@ the content. Never reduce line spacing to fit more text on a slide or page. Edit
 </tbody>
 </table>
 
-![In progress](dont-compress-line-spacing_files/activity-large.gif)
+![In progress](media/dont-compress-line-spacing/activity-large.gif)
 
 URL :

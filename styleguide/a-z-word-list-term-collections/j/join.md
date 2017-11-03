@@ -6,10 +6,10 @@ Loading...
 
 join
 
-![Copy URL](join_files/Copy.png)
+![Copy URL](media/join/Copy.png)
 Copy URL
 
-![Download](join_files/Download.png)
+![Download](media/join/Download.png)
 
 Download topic
 
@@ -25,6 +25,6 @@ default, or inner, join tells the query to check for matching values in
 the join fields.
 To embed one object into another, select Paste on the Edit menu.
 
-![In progress](join_files/activity-large.gif)
+![In progress](media/join/activity-large.gif)
 
 URL :

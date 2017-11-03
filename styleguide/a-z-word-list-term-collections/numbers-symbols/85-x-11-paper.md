@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 8.5" x 11" paper
 
-![Copy URL](85-x-11-paper_files/Copy.png)
+![Copy URL](media/85-x-11-paper/Copy.png)
 Copy URL
 
-![Download](85-x-11-paper_files/Download.png)
+![Download](media/85-x-11-paper/Download.png)
 
 Download topic
 
@@ -18,6 +18,6 @@ or other ways of referring to the paper size. Use a
 straight quotation mark (") to signify inches. Use a
 multiplication sign (×), not the letter *x.*
 
-![In progress](85-x-11-paper_files/activity-large.gif)
+![In progress](media/85-x-11-paper/activity-large.gif)
 
 URL :

@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Writing for all abilities
 
-![Copy URL](writing-all-abilities_files/Copy.png)
+![Copy URL](media/writing-all-abilities/Copy.png)
 Copy URL
 
-![Download](writing-all-abilities_files/Download.png)
+![Download](media/writing-all-abilities/Download.png)
 
 Download topic
 
@@ -73,6 +73,6 @@ Describing interactions with UI](https://worldready.cloudapp.net/Styleguide/Read
 
 ## 
 
-![In progress](writing-all-abilities_files/activity-large.gif)
+![In progress](media/writing-all-abilities/activity-large.gif)
 
 URL :

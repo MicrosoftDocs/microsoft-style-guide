@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Video
 
-![Copy URL](video_files/Copy.png)
+![Copy URL](media/video/Copy.png)
 Copy URL
 
-![Download](video_files/Download.png)
+![Download](media/video/Download.png)
 
 Download topic
 
@@ -70,6 +70,6 @@ Learn more
   - [Google video site map guidance](http://www.reelseo.com/how-video-sitemaps/)
   - [Jakob Nielsen’s Talking-Head Video is Boring Online](http://www.nngroup.com/articles/talking-head-video-is-boring-online/)
 
-![In progress](video_files/activity-large.gif)
+![In progress](media/video/activity-large.gif)
 
 URL :

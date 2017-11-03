@@ -6,10 +6,10 @@ Loading...
 
 file name
 
-![Copy URL](file-name_files/Copy.png)
+![Copy URL](media/file-name/Copy.png)
 Copy URL
 
-![Download](file-name_files/Download.png)
+![Download](media/file-name/Download.png)
 
 Download topic
 
@@ -19,6 +19,6 @@ Usually one word when referring to a programming term, such as the FileName prop
 
 Example Set the FileName property before you set an initial file name.
 
-![In progress](file-name_files/activity-large.gif)
+![In progress](media/file-name/activity-large.gif)
 
 URL :

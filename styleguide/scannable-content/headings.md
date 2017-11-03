@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Headings
 
-![Copy URL](headings_files/Copy.png)
+![Copy URL](media/headings/Copy.png)
 Copy URL
 
-![Download](headings_files/Download.png)
+![Download](media/headings/Download.png)
 
 Download topic
 
@@ -158,8 +158,8 @@ When you use bold formatting for run-in headings:
     paragraph style. In Microsoft Word, character styles, such as Subtle Emphasis, are designated by an *a*
     next to the style name. To create a new character style in a
     document, select the characters, and then add the style.
-    ![](headings_files/190123509.png)
+    ![](media/headings/190123509.png)
 
-![In progress](headings_files/activity-large.gif)
+![In progress](media/headings/activity-large.gif)
 
 URL :

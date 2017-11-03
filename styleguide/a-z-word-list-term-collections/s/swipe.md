@@ -6,15 +6,15 @@ Loading...
 
 swipe
 
-![Copy URL](swipe_files/Copy.png)
+![Copy URL](media/swipe/Copy.png)
 Copy URL
 
-![Download](swipe_files/Download.png)
+![Download](media/swipe/Download.png)
 
 Download topic
 
 **See** [Touch and pen interaction term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=29032)
 
-![In progress](swipe_files/activity-large.gif)
+![In progress](media/swipe/activity-large.gif)
 
 URL :

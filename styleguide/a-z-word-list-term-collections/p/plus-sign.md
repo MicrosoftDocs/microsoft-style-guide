@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 plus sign (+)
 
-![Copy URL](plus-sign_files/Copy.png)
+![Copy URL](media/plus-sign/Copy.png)
 Copy URL
 
-![Download](plus-sign_files/Download.png)
+![Download](media/plus-sign/Download.png)
 
 Download topic
 
@@ -26,6 +26,6 @@ Choose from more than 750,000 apps in the Windows Store.
 
 See also [ampersand (&)](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32501)
 
-![In progress](plus-sign_files/activity-large.gif)
+![In progress](media/plus-sign/activity-large.gif)
 
 URL :

@@ -6,10 +6,10 @@ Loading...
 
 REM statement
 
-![Copy URL](rem-statement_files/Copy.png)
+![Copy URL](media/rem-statement/Copy.png)
 Copy URL
 
-![Download](rem-statement_files/Download.png)
+![Download](media/rem-statement/Download.png)
 
 Download topic
 
@@ -17,6 +17,6 @@ OK to use as an abbreviation for *remark statement* in Visual Basic and some oth
 
 Don't use generically to refer to a comment. Use *comment* instead.
 
-![In progress](rem-statement_files/activity-large.gif)
+![In progress](media/rem-statement/activity-large.gif)
 
 URL :

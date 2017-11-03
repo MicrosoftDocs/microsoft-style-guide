@@ -6,15 +6,15 @@ Loading...
 
 system administrator
 
-![Copy URL](system-administrator_files/Copy.png)
+![Copy URL](media/system-administrator/Copy.png)
 Copy URL
 
-![Download](system-administrator_files/Download.png)
+![Download](media/system-administrator/Download.png)
 
 Download topic
 
 **See** [administrator, admin](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32359)
 
-![In progress](system-administrator_files/activity-large.gif)
+![In progress](media/system-administrator/activity-large.gif)
 
 URL :

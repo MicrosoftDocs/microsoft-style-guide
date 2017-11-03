@@ -6,10 +6,10 @@ Loading...
 
 marquee
 
-![Copy URL](marquee_files/Copy.png)
+![Copy URL](media/marquee/Copy.png)
 Copy URL
 
-![Download](marquee_files/Download.png)
+![Download](media/marquee/Download.png)
 
 Download topic
 
@@ -20,6 +20,6 @@ screen. Use *bounding outline* instead.
 
 **See also** [bounding outline](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33410), [dotted rectangle](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33658)
 
-![In progress](marquee_files/activity-large.gif)
+![In progress](media/marquee/activity-large.gif)
 
 URL :

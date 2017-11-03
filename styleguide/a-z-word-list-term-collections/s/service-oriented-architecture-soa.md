@@ -6,15 +6,15 @@ Loading...
 
 service-oriented architecture (SOA)
 
-![Copy URL](service-oriented-architecture-soa_files/Copy.png)
+![Copy URL](media/service-oriented-architecture-soa/Copy.png)
 Copy URL
 
-![Download](service-oriented-architecture-soa_files/Download.png)
+![Download](media/service-oriented-architecture-soa/Download.png)
 
 Download topic
 
 **See** [Cloud-computing term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28841)
 
-![In progress](service-oriented-architecture-soa_files/activity-large.gif)
+![In progress](media/service-oriented-architecture-soa/activity-large.gif)
 
 URL :

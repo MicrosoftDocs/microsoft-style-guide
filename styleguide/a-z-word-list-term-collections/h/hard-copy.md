@@ -6,10 +6,10 @@ Loading...
 
 hard copy
 
-![Copy URL](hard-copy_files/Copy.png)
+![Copy URL](media/hard-copy/Copy.png)
 Copy URL
 
-![Download](hard-copy_files/Download.png)
+![Download](media/hard-copy/Download.png)
 
 Download topic
 
@@ -19,6 +19,6 @@ Example Scan a hard copy of a document and save it as a file.
 
 Don't use *soft copy.*
 
-![In progress](hard-copy_files/activity-large.gif)
+![In progress](media/hard-copy/activity-large.gif)
 
 URL :

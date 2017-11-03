@@ -6,10 +6,10 @@ Loading...
 
 bounding outline
 
-![Copy URL](bounding-outline_files/Copy.png)
+![Copy URL](media/bounding-outline/Copy.png)
 Copy URL
 
-![Download](bounding-outline_files/Download.png)
+![Download](media/bounding-outline/Download.png)
 
 Download topic
 
@@ -17,6 +17,6 @@ Use to describe the visible element, usually a dotted rectangle, that surrounds 
 
 Don't use *marquee* as a synonym. 
 
-![In progress](bounding-outline_files/activity-large.gif)
+![In progress](media/bounding-outline/activity-large.gif)
 
 URL :

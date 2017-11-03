@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Code names
 
-![Copy URL](code-names_files/Copy.png)
+![Copy URL](media/code-names/Copy.png)
 Copy URL
 
-![Download](code-names_files/Download.png)
+![Download](media/code-names/Download.png)
 
 Download topic
 
@@ -30,6 +30,6 @@ Avoid using code names in documentation. If you must use a code name:
   - Never use code names in file names, art, context IDs, or link text. 
   - Be careful to replace all instances of the code name when the official name is confirmed.
 
-![In progress](code-names_files/activity-large.gif)
+![In progress](media/code-names/activity-large.gif)
 
 URL :

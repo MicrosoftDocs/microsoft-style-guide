@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Slashes
 
-![Copy URL](slashes_files/Copy.png)
+![Copy URL](media/slashes/Copy.png)
 Copy URL
 
-![Download](slashes_files/Download.png)
+![Download](media/slashes/Download.png)
 
 Download topic
 
@@ -61,6 +61,6 @@ See also
 [country or region](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33582)
 [either/or](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33673)
 
-![In progress](slashes_files/activity-large.gif)
+![In progress](media/slashes/activity-large.gif)
 
 URL :

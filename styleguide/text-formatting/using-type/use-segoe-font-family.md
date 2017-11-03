@@ -6,10 +6,10 @@ Loading...
 
 Use the Segoe font family
 
-![Copy URL](use-segoe-font-family_files/Copy.png)
+![Copy URL](media/use-segoe-font-family/Copy.png)
 Copy URL
 
-![Download](use-segoe-font-family_files/Download.png)
+![Download](media/use-segoe-font-family/Download.png)
 
 Download topic
 
@@ -86,6 +86,6 @@ To learn more about using Segoe, see the [brand type guidelines](https://microso
 </tbody>
 </table>
 
-![In progress](use-segoe-font-family_files/activity-large.gif)
+![In progress](media/use-segoe-font-family/activity-large.gif)
 
 URL :

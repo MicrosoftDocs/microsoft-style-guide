@@ -6,15 +6,15 @@ Loading...
 
 data record
 
-![Copy URL](data-record_files/Copy.png)
+![Copy URL](media/data-record/Copy.png)
 Copy URL
 
-![Download](data-record_files/Download.png)
+![Download](media/data-record/Download.png)
 
 Download topic
 
 Don't use. Use *record* instead*.*
 
-![In progress](data-record_files/activity-large.gif)
+![In progress](media/data-record/activity-large.gif)
 
 URL :

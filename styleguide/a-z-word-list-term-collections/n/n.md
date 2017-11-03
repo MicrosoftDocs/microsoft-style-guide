@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 n
 
-![Copy URL](n_files/Copy.png)
+![Copy URL](media/n/Copy.png)
 Copy URL
 
-![Download](n_files/Download.png)
+![Download](media/n/Download.png)
 
 Download topic
 
@@ -23,6 +23,6 @@ Reserve a lowercase *x* in italic type for representing an unknown in mathematic
 
 **See also** [x](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35498)
 
-![In progress](n_files/activity-large.gif)
+![In progress](media/n/activity-large.gif)
 
 URL :

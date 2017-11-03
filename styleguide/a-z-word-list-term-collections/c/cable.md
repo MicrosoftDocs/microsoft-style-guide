@@ -6,15 +6,15 @@ Loading...
 
 cable
 
-![Copy URL](cable_files/Copy.png)
+![Copy URL](media/cable/Copy.png)
 Copy URL
 
-![Download](cable_files/Download.png)
+![Download](media/cable/Download.png)
 
 Download topic
 
 Don't use as a verb. 
 
-![In progress](cable_files/activity-large.gif)
+![In progress](media/cable/activity-large.gif)
 
 URL :

@@ -6,15 +6,15 @@ Loading...
 
 property
 
-![Copy URL](property_files/Copy.png)
+![Copy URL](media/property/Copy.png)
 Copy URL
 
-![Download](property_files/Download.png)
+![Download](media/property/Download.png)
 
 Download topic
 
 Use only to reference something named in the UI as a property. 
 
-![In progress](property_files/activity-large.gif)
+![In progress](media/property/activity-large.gif)
 
 URL :

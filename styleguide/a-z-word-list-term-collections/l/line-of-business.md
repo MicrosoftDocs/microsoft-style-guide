@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 line of business, line-of-business
 
-![Copy URL](line-of-business_files/Copy.png)
+![Copy URL](media/line-of-business/Copy.png)
 Copy URL
 
-![Download](line-of-business_files/Download.png)
+![Download](media/line-of-business/Download.png)
 
 Download topic
 
@@ -19,6 +19,6 @@ Examples
 line-of-business app 
 In any line of business, …
 
-![In progress](line-of-business_files/activity-large.gif)
+![In progress](media/line-of-business/activity-large.gif)
 
 URL :

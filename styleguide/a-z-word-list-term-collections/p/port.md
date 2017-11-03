@@ -6,10 +6,10 @@ Loading...
 
 port
 
-![Copy URL](port_files/Copy.png)
+![Copy URL](media/port/Copy.png)
 Copy URL
 
-![Download](port_files/Download.png)
+![Download](media/port/Download.png)
 
 Download topic
 
@@ -17,6 +17,6 @@ Use the verb forms *port to* and *port* only in content for a technical audience
 
 Don't use in content for a general audience.
 
-![In progress](port_files/activity-large.gif)
+![In progress](media/port/activity-large.gif)
 
 URL :

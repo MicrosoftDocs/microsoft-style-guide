@@ -6,10 +6,10 @@ Loading...
 
 build
 
-![Copy URL](build_files/Copy.png)
+![Copy URL](media/build/Copy.png)
 Copy URL
 
-![Download](build_files/Download.png)
+![Download](media/build/Download.png)
 
 Download topic
 
@@ -19,6 +19,6 @@ documents, charts, graphics, and worksheets. Use *create* instead.
 
 In content for a technical audience, it's OK to use *build* as a verb to mean to compile and link code and as a noun to refer to a prerelease version.
 
-![In progress](build_files/activity-large.gif)
+![In progress](media/build/activity-large.gif)
 
 URL :

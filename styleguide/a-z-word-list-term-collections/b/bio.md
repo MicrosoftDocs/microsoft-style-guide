@@ -6,10 +6,10 @@ Loading...
 
 bio
 
-![Copy URL](bio_files/Copy.png)
+![Copy URL](media/bio/Copy.png)
 Copy URL
 
-![Download](bio_files/Download.png)
+![Download](media/bio/Download.png)
 
 Download topic
 
@@ -20,6 +20,6 @@ many languages, the full term is translated because an abbreviation
 isn't available. So you'll still need to allow ample space for expansion
 in localized text. 
 
-![In progress](bio_files/activity-large.gif)
+![In progress](media/bio/activity-large.gif)
 
 URL :

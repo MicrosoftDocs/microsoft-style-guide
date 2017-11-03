@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Prepositions
 
-![Copy URL](prepositions_files/Copy.png)
+![Copy URL](media/prepositions/Copy.png)
 Copy URL
 
-![Download](prepositions_files/Download.png)
+![Download](media/prepositions/Download.png)
 
 Download topic
 
@@ -34,6 +34,6 @@ prepositional phrases are hard to read and easy to misinterpret.
 
 It’s OK to end a sentence with a preposition when it improves readability.
 
-![In progress](prepositions_files/activity-large.gif)
+![In progress](media/prepositions/activity-large.gif)
 
 URL :

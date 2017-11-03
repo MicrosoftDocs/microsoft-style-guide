@@ -6,15 +6,15 @@ Loading...
 
 extend
 
-![Copy URL](extend_files/Copy.png)
+![Copy URL](media/extend/Copy.png)
 Copy URL
 
-![Download](extend_files/Download.png)
+![Download](media/extend/Download.png)
 
 Download topic
 
 Use *extend* instead of *grow* to refer to extending a selection.
 
-![In progress](extend_files/activity-large.gif)
+![In progress](media/extend/activity-large.gif)
 
 URL :

@@ -6,10 +6,10 @@ Loading...
 
 terminate
 
-![Copy URL](terminate_files/Copy.png)
+![Copy URL](media/terminate/Copy.png)
 Copy URL
 
-![Download](terminate_files/Download.png)
+![Download](media/terminate/Download.png)
 
 Download topic
 
@@ -19,6 +19,6 @@ In content for a technical audience, it's OK to use *terminate* in phrases such 
 
 **See also** [Describing interactions with UI](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26472)
 
-![In progress](terminate_files/activity-large.gif)
+![In progress](media/terminate/activity-large.gif)
 
 URL :

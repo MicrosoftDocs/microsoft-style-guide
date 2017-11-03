@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 how to, how-to
 
-![Copy URL](how-how-to_files/Copy.png)
+![Copy URL](media/how-how-to/Copy.png)
 Copy URL
 
-![Download](how-how-to_files/Download.png)
+![Download](media/how-how-to/Download.png)
 
 Download topic
 
@@ -21,6 +21,6 @@ how-to article
 How to add an article to the library
 (Title-style capitalization) Writing a How-to Article
 
-![In progress](how-how-to_files/activity-large.gif)
+![In progress](media/how-how-to/activity-large.gif)
 
 URL :

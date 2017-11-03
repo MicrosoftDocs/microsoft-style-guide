@@ -6,10 +6,10 @@ Loading...
 
 gallery
 
-![Copy URL](gallery_files/Copy.png)
+![Copy URL](media/gallery/Copy.png)
 Copy URL
 
-![Download](gallery_files/Download.png)
+![Download](media/gallery/Download.png)
 
 Download topic
 
@@ -24,6 +24,6 @@ Example Select a picture from the gallery.
 
 See also [store, marketplace, gallery](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36046)
 
-![In progress](gallery_files/activity-large.gif)
+![In progress](media/gallery/activity-large.gif)
 
 URL :

@@ -6,10 +6,10 @@ Loading...
 
 double buffering
 
-![Copy URL](double-buffering_files/Copy.png)
+![Copy URL](media/double-buffering/Copy.png)
 Copy URL
 
-![Download](double-buffering_files/Download.png)
+![Download](media/double-buffering/Download.png)
 
 Download topic
 
@@ -19,6 +19,6 @@ Hyphenate as an adjective.
 
 Don't use as a verb. Instead, use a phrase such as *uses double buffering**.*
 
-![In progress](double-buffering_files/activity-large.gif)
+![In progress](media/double-buffering/activity-large.gif)
 
 URL :

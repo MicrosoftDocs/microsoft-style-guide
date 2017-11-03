@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 HDMI (High-Definition Multimedia Interface)
 
-![Copy URL](hdmi_files/Copy.png)
+![Copy URL](media/hdmi/Copy.png)
 Copy URL
 
-![Download](hdmi_files/Download.png)
+![Download](media/hdmi/Download.png)
 
 Download topic
 
@@ -23,6 +23,6 @@ Examples
 This monitor requires an HDMI cable.
 Connect the HDMI cable to the HDMI port on your TV.
 
-![In progress](hdmi_files/activity-large.gif)
+![In progress](media/hdmi/activity-large.gif)
 
 URL :

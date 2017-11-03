@@ -6,15 +6,15 @@ Loading...
 
 DevOps
 
-![Copy URL](devops_files/Copy.png)
+![Copy URL](media/devops/Copy.png)
 Copy URL
 
-![Download](devops_files/Download.png)
+![Download](media/devops/Download.png)
 
 Download topic
 
 Note spelling and capitalization.
 
-![In progress](devops_files/activity-large.gif)
+![In progress](media/devops/activity-large.gif)
 
 URL :

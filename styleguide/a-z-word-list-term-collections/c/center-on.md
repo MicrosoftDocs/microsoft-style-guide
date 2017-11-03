@@ -6,15 +6,15 @@ Loading...
 
 center on
 
-![Copy URL](center-on_files/Copy.png)
+![Copy URL](media/center-on/Copy.png)
 Copy URL
 
-![Download](center-on_files/Download.png)
+![Download](media/center-on/Download.png)
 
 Download topic
 
 Use instead of *center around.*
 
-![In progress](center-on_files/activity-large.gif)
+![In progress](media/center-on/activity-large.gif)
 
 URL :

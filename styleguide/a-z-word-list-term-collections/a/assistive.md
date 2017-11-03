@@ -6,10 +6,10 @@ Loading...
 
 assistive
 
-![Copy URL](assistive_files/Copy.png)
+![Copy URL](media/assistive/Copy.png)
 Copy URL
 
-![Download](assistive_files/Download.png)
+![Download](media/assistive/Download.png)
 
 Download topic
 
@@ -25,6 +25,6 @@ Examples
 
 **See also** **** [Accessibility guidelines and requirements](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26589)
 
-![In progress](assistive_files/activity-large.gif)
+![In progress](media/assistive/activity-large.gif)
 
 URL :

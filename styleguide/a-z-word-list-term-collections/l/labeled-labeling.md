@@ -6,15 +6,15 @@ Loading...
 
 labeled, labeling
 
-![Copy URL](labeled-labeling_files/Copy.png)
+![Copy URL](media/labeled-labeling/Copy.png)
 Copy URL
 
-![Download](labeled-labeling_files/Download.png)
+![Download](media/labeled-labeling/Download.png)
 
 Download topic
 
 Use one *l,* not two.
 
-![In progress](labeled-labeling_files/activity-large.gif)
+![In progress](media/labeled-labeling/activity-large.gif)
 
 URL :

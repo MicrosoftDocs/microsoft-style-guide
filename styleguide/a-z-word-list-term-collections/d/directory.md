@@ -6,10 +6,10 @@ Loading...
 
 directory
 
-![Copy URL](directory_files/Copy.png)
+![Copy URL](media/directory/Copy.png)
 Copy URL
 
-![Download](directory_files/Download.png)
+![Download](media/directory/Download.png)
 
 Download topic
 
@@ -19,6 +19,6 @@ Don't use *directory icon.*
 
 **See also** **** [folder](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33642)
 
-![In progress](directory_files/activity-large.gif)
+![In progress](media/directory/activity-large.gif)
 
 URL :

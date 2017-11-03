@@ -6,10 +6,10 @@ Loading...
 
 URL
 
-![Copy URL](url_files/Copy.png)
+![Copy URL](media/url/Copy.png)
 Copy URL
 
-![Download](url_files/Download.png)
+![Download](media/url/Download.png)
 
 Download topic
 
@@ -21,6 +21,6 @@ Example Search results include the URL of the page.
 
 **See also** [URLs and web addresses](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=34905)
 
-![In progress](url_files/activity-large.gif)
+![In progress](media/url/activity-large.gif)
 
 URL :

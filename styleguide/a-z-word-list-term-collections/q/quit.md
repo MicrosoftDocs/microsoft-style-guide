@@ -6,10 +6,10 @@ Loading...
 
 quit
 
-![Copy URL](quit_files/Copy.png)
+![Copy URL](media/quit/Copy.png)
 Copy URL
 
-![Download](quit_files/Download.png)
+![Download](media/quit/Download.png)
 
 Download topic
 
@@ -23,6 +23,6 @@ Don't use *quit* to refer to any of the following:
 
 Use *stop responding*, not *quit,* when an app encounters a problem and can't close itself.
 
-![In progress](quit_files/activity-large.gif)
+![In progress](media/quit/activity-large.gif)
 
 URL :

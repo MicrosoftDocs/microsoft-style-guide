@@ -6,10 +6,10 @@ Loading...
 
 Recycle Bin, recycle bin
 
-![Copy URL](recycle-bin_files/Copy.png)
+![Copy URL](media/recycle-bin/Copy.png)
 Copy URL
 
-![Download](recycle-bin_files/Download.png)
+![Download](media/recycle-bin/Download.png)
 
 Download topic
 
@@ -21,6 +21,6 @@ In UI, it's OK to use *Recycle bin* for labels and headings.
 
 Always use the definite article *the*, as in *the* *recycle bin*.
 
-![In progress](recycle-bin_files/activity-large.gif)
+![In progress](media/recycle-bin/activity-large.gif)
 
 URL :

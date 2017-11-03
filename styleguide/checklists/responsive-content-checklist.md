@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Responsive content checklist
 
-![Copy URL](responsive-content-checklist_files/Copy.png)
+![Copy URL](media/responsive-content-checklist/Copy.png)
 Copy URL
 
-![Download](responsive-content-checklist_files/Download.png)
+![Download](media/responsive-content-checklist/Download.png)
 
 Download topic
 
@@ -26,6 +26,6 @@ Assume that most content will be viewed on tablets or mobile devices by some cus
 
 [](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28694)**Learn more**  about [responsive content](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36384).
 
-![In progress](responsive-content-checklist_files/activity-large.gif)
+![In progress](media/responsive-content-checklist/activity-large.gif)
 
 URL :

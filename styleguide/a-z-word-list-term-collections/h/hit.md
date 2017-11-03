@@ -6,10 +6,10 @@ Loading...
 
 hit
 
-![Copy URL](hit_files/Copy.png)
+![Copy URL](media/hit/Copy.png)
 Copy URL
 
-![Download](hit_files/Download.png)
+![Download](media/hit/Download.png)
 
 Download topic
 
@@ -21,6 +21,6 @@ retrieved. A single page view can result in many hits.
 
 **See** [Describing interactions with UI](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26472)
 
-![In progress](hit_files/activity-large.gif)
+![In progress](media/hit/activity-large.gif)
 
 URL :

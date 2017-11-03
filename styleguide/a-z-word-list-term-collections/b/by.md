@@ -6,10 +6,10 @@ Loading...
 
 by (publisher or company name)
 
-![Copy URL](by_files/Copy.png)
+![Copy URL](media/by/Copy.png)
 Copy URL
 
-![Download](by_files/Download.png)
+![Download](media/by/Download.png)
 
 Download topic
 
@@ -17,6 +17,6 @@ In an online store (either in a product experience or the web), avoid including 
 
 If you must include *by,* lowercase it.**
 
-![In progress](by_files/activity-large.gif)
+![In progress](media/by/activity-large.gif)
 
 URL :

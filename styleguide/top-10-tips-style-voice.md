@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Top 10 tips for Microsoft style and voice
 
-![Copy URL](top-10-tips-style-voice_files/Copy.png)
+![Copy URL](media/top-10-tips-style-voice/Copy.png)
 Copy URL
 
-![Download](top-10-tips-style-voice_files/Download.png)
+![Download](media/top-10-tips-style-voice/Download.png)
 
 Download topic
 
@@ -134,10 +134,10 @@ With this: Store files online, access them from all your devices, and share them
 
 Poster: Top 10 voice and style tips
 
-![](top-10-tips-style-voice_files/911998365.png)
+![](media/top-10-tips-style-voice/911998365.png)
 
 For easy reference, get the [Top 10 tips poster](https://worldready.blob.core.windows.net/document/getting-voice-right_010417.pdf "Printable top 10 tips poster").
 
-![In progress](top-10-tips-style-voice_files/activity-large.gif)
+![In progress](media/top-10-tips-style-voice/activity-large.gif)
 
 URL :

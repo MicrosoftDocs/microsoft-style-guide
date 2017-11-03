@@ -6,15 +6,15 @@ Loading...
 
 pinch
 
-![Copy URL](pinch_files/Copy.png)
+![Copy URL](media/pinch/Copy.png)
 Copy URL
 
-![Download](pinch_files/Download.png)
+![Download](media/pinch/Download.png)
 
 Download topic
 
 **See** [Touch and pen interaction term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=29032)
 
-![In progress](pinch_files/activity-large.gif)
+![In progress](media/pinch/activity-large.gif)
 
 URL :

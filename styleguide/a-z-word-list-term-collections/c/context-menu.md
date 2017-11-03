@@ -6,10 +6,10 @@ Loading...
 
 context menu
 
-![Copy URL](context-menu_files/Copy.png)
+![Copy URL](media/context-menu/Copy.png)
 Copy URL
 
-![Download](context-menu_files/Download.png)
+![Download](media/context-menu/Download.png)
 
 Download topic
 
@@ -21,6 +21,6 @@ Undo, Cut, Copy, Paste, Delete, and Select All menu commands are included as a s
 
 See also [shortcut, shortcut menu](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28830), [pop-up](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28831)
 
-![In progress](context-menu_files/activity-large.gif)
+![In progress](media/context-menu/activity-large.gif)
 
 URL :

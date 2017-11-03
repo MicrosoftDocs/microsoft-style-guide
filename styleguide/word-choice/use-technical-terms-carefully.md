@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Use technical terms carefully
 
-![Copy URL](use-technical-terms-carefully_files/Copy.png)
+![Copy URL](media/use-technical-terms-carefully/Copy.png)
 Copy URL
 
-![Download](use-technical-terms-carefully_files/Download.png)
+![Download](media/use-technical-terms-carefully/Download.png)
 
 Download topic
 
@@ -78,6 +78,6 @@ or contact your localization team to comment on any localization
 implications of new terms and usage. (Term Studio requires Microsoft
 network access.)
 
-![In progress](use-technical-terms-carefully_files/activity-large.gif)
+![In progress](media/use-technical-terms-carefully/activity-large.gif)
 
 URL :

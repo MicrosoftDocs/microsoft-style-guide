@@ -6,10 +6,10 @@ Loading...
 
 increment
 
-![Copy URL](increment_files/Copy.png)
+![Copy URL](media/increment/Copy.png)
 Copy URL
 
-![Download](increment_files/Download.png)
+![Download](media/increment/Download.png)
 
 Download topic
 
@@ -17,6 +17,6 @@ In content for developers and IT pros, use *increment* as a verb only to mean *i
 
 In other content, it's OK to use *increment* as long as the meaning is clear.
 
-![In progress](increment_files/activity-large.gif)
+![In progress](media/increment/activity-large.gif)
 
 URL :

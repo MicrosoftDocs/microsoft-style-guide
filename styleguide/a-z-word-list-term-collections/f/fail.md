@@ -6,10 +6,10 @@ Loading...
 
 extension, file name extension
 
-![Copy URL](fail_files/Copy.png)
+![Copy URL](media/fail/Copy.png)
 Copy URL
 
-![Download](fail_files/Download.png)
+![Download](media/fail/Download.png)
 
 Download topic
 
@@ -19,6 +19,6 @@ Examples
 the .bak extension
 the .bak file name extension
 
-![In progress](fail_files/activity-large.gif)
+![In progress](media/fail/activity-large.gif)
 
 URL :

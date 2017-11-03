@@ -6,15 +6,15 @@ Loading...
 
 graphics adapter
 
-![Copy URL](graphics-adapter_files/Copy.png)
+![Copy URL](media/graphics-adapter/Copy.png)
 Copy URL
 
-![Download](graphics-adapter_files/Download.png)
+![Download](media/graphics-adapter/Download.png)
 
 Download topic
 
 Don't use. Use *video card* instead.
 
-![In progress](graphics-adapter_files/activity-large.gif)
+![In progress](media/graphics-adapter/activity-large.gif)
 
 URL :

@@ -6,10 +6,10 @@ Loading...
 
 Units of measure terms
 
-![Copy URL](units-of-measure-terms_files/Copy.png)
+![Copy URL](media/units-of-measure-terms/Copy.png)
 Copy URL
 
-![Download](units-of-measure-terms_files/Download.png)
+![Download](media/units-of-measure-terms/Download.png)
 
 Download topic
 
@@ -168,6 +168,6 @@ See also [](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=2692
 </tbody>
 </table>
 
-![In progress](units-of-measure-terms_files/activity-large.gif)
+![In progress](media/units-of-measure-terms/activity-large.gif)
 
 URL :

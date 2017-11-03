@@ -6,10 +6,10 @@ Loading...
 
 left, leftmost, left-hand
 
-![Copy URL](left-leftmost-left-hand_files/Copy.png)
+![Copy URL](media/left-leftmost-left-hand/Copy.png)
 Copy URL
 
-![Download](left-leftmost-left-hand_files/Download.png)
+![Download](media/left-leftmost-left-hand/Download.png)
 
 Download topic
 
@@ -26,6 +26,6 @@ sighted user with dyslexia can clearly see a change in the interface as
 the result of an action, such as a change in the right pane when an
 option in the left pane is selected.
 
-![In progress](left-leftmost-left-hand_files/activity-large.gif)
+![In progress](media/left-leftmost-left-hand/activity-large.gif)
 
 URL :

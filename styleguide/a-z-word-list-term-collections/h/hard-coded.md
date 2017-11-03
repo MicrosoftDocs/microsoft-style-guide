@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 hard-coded
 
-![Copy URL](hard-coded_files/Copy.png)
+![Copy URL](media/hard-coded/Copy.png)
 Copy URL
 
-![Download](hard-coded_files/Download.png)
+![Download](media/hard-coded/Download.png)
 
 Download topic
 
@@ -20,6 +20,6 @@ is OK to use to describe a routine or program that uses embedded
 constants (in place of more general input). Don’t use in content for a
 general audience.
 
-![In progress](hard-coded_files/activity-large.gif)
+![In progress](media/hard-coded/activity-large.gif)
 
 URL :

@@ -6,10 +6,10 @@ Loading...
 
 launch
 
-![Copy URL](launch_files/Copy.png)
+![Copy URL](media/launch/Copy.png)
 Copy URL
 
-![Download](launch_files/Download.png)
+![Download](media/launch/Download.png)
 
 Download topic
 
@@ -21,6 +21,6 @@ Select Register to open the registration form.
 
 **See also** [Describing interactions with UI](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26472)
 
-![In progress](launch_files/activity-large.gif)
+![In progress](media/launch/activity-large.gif)
 
 URL :

@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Punctuation checklist
 
-![Copy URL](punctuation-checklist_files/Copy.png)
+![Copy URL](media/punctuation-checklist/Copy.png)
 Copy URL
 
-![Download](punctuation-checklist_files/Download.png)
+![Download](media/punctuation-checklist/Download.png)
 
 Download topic
 
@@ -66,6 +66,6 @@ Exception If punctuation is part of the quoted material, place it inside the quo
 
 Learn more about [punctuation](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25519).
 
-![In progress](punctuation-checklist_files/activity-large.gif)
+![In progress](media/punctuation-checklist/activity-large.gif)
 
 URL :

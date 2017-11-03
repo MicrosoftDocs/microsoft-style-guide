@@ -6,15 +6,15 @@ Loading...
 
 window
 
-![Copy URL](window_files/Copy.png)
+![Copy URL](media/window/Copy.png)
 Copy URL
 
-![Download](window_files/Download.png)
+![Download](media/window/Download.png)
 
 Download topic
 
 Don't use as a verb.
 
-![In progress](window_files/activity-large.gif)
+![In progress](media/window/activity-large.gif)
 
 URL :

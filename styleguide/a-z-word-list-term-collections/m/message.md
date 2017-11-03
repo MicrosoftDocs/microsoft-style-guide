@@ -6,10 +6,10 @@ Loading...
 
 message
 
-![Copy URL](message_files/Copy.png)
+![Copy URL](media/message/Copy.png)
 Copy URL
 
-![Download](message_files/Download.png)
+![Download](media/message/Download.png)
 
 Download topic
 
@@ -26,6 +26,6 @@ email](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33675)
 [instant message, IM](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=34943)
 [text](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35353)
 
-![In progress](message_files/activity-large.gif)
+![In progress](media/message/activity-large.gif)
 
 URL :

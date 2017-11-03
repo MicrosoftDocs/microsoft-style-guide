@@ -6,10 +6,10 @@ Loading...
 
 Date and time terms
 
-![Copy URL](date-time-terms_files/Copy.png)
+![Copy URL](media/date-time-terms/Copy.png)
 Copy URL
 
-![Download](date-time-terms_files/Download.png)
+![Download](media/date-time-terms/Download.png)
 
 Download topic
 
@@ -211,6 +211,6 @@ Spell out except in UI or when space is extremely tight.</td>
 </tbody>
 </table>
 
-![In progress](date-time-terms_files/activity-large.gif)
+![In progress](media/date-time-terms/activity-large.gif)
 
 URL :

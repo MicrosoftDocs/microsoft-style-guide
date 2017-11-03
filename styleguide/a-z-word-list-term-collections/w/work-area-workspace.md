@@ -6,10 +6,10 @@ Loading...
 
 work area, workspace
 
-![Copy URL](work-area-workspace_files/Copy.png)
+![Copy URL](media/work-area-workspace/Copy.png)
 Copy URL
 
-![Download](work-area-workspace_files/Download.png)
+![Download](media/work-area-workspace/Download.png)
 
 Download topic
 
@@ -21,6 +21,6 @@ If it's necessary to describe UI, use *workspace* to refer to the area within a 
 
 Use *work area* only when the term has a specific meaning in a particular product. 
 
-![In progress](work-area-workspace_files/activity-large.gif)
+![In progress](media/work-area-workspace/activity-large.gif)
 
 URL :

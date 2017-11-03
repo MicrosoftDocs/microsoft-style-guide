@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 turn on, turn off
 
-![Copy URL](turn-on-turn-off_files/Copy.png)
+![Copy URL](media/turn-on-turn-off/Copy.png)
 Copy URL
 
-![Download](turn-on-turn-off_files/Download.png)
+![Download](media/turn-on-turn-off/Download.png)
 
 Download topic
 
@@ -31,6 +31,6 @@ See also
 [shut down, shutdown](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35352)
 [unavailable](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33644)
 
-![In progress](turn-on-turn-off_files/activity-large.gif)
+![In progress](media/turn-on-turn-off/activity-large.gif)
 
 URL :

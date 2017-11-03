@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Words ending in -ing
 
-![Copy URL](ing-words_files/Copy.png)
+![Copy URL](media/ing-words/Copy.png)
 Copy URL
 
-![Download](ing-words_files/Download.png)
+![Download](media/ing-words/Download.png)
 
 Download topic
 
@@ -22,6 +22,6 @@ For example, we don’t know whether the heading, *Meeting requirements,* will b
   - The requirements for the meeting
   - How to meet the requirements
 
-![In progress](ing-words_files/activity-large.gif)
+![In progress](media/ing-words/activity-large.gif)
 
 URL :

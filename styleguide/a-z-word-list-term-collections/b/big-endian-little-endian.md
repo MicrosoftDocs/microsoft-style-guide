@@ -6,15 +6,15 @@ Loading...
 
 big data
 
-![Copy URL](big-endian-little-endian_files/Copy.png)
+![Copy URL](media/big-endian-little-endian/Copy.png)
 Copy URL
 
-![Download](big-endian-little-endian_files/Download.png)
+![Download](media/big-endian-little-endian/Download.png)
 
 Download topic
 
 Don't capitalize.
 
-![In progress](big-endian-little-endian_files/activity-large.gif)
+![In progress](media/big-endian-little-endian/activity-large.gif)
 
 URL :

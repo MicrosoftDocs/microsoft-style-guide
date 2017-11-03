@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 UI text and content design
 
-![Copy URL](ui-text-content-design_files/Copy.png)
+![Copy URL](media/ui-text-content-design/Copy.png)
 Copy URL
 
-![Download](ui-text-content-design_files/Download.png)
+![Download](media/ui-text-content-design/Download.png)
 
 Download topic
 
@@ -143,6 +143,6 @@ See also
 ](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28832)[sorry
 ](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28833)[thank you](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28834)
 
-![In progress](ui-text-content-design_files/activity-large.gif)
+![In progress](media/ui-text-content-design/activity-large.gif)
 
 URL :

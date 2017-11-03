@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Grammar and parts of speech checklist
 
-![Copy URL](grammar-parts-of-speech-checklist_files/Copy.png)
+![Copy URL](media/grammar-parts-of-speech-checklist/Copy.png)
 Copy URL
 
-![Download](grammar-parts-of-speech-checklist_files/Download.png)
+![Download](media/grammar-parts-of-speech-checklist/Download.png)
 
 Download topic
 
@@ -48,6 +48,6 @@ These basic guidelines will get you started creating clear and useful content.
     are words or phrases that modify other words or phrases. Make sure
     it’s clear what they modify. For example, in the phrase *the selected text only is modified,* the word *only* could modify *text* or *is modified.* Rewrite as *only the selected text is modified* to clarify. [Learn more](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25529).
 
-![In progress](grammar-parts-of-speech-checklist_files/activity-large.gif)
+![In progress](media/grammar-parts-of-speech-checklist/activity-large.gif)
 
 URL :

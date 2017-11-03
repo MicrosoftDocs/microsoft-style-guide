@@ -6,10 +6,10 @@ Loading...
 
 ampersand (&)
 
-![Copy URL](ampersand_files/Copy.png)
+![Copy URL](media/ampersand/Copy.png)
 Copy URL
 
-![Download](ampersand_files/Download.png)
+![Download](media/ampersand/Download.png)
 
 Download topic
 
@@ -25,6 +25,6 @@ semicolon. For example, use *\&lt;* or *&\#60;* to display the less than sign (\
 
 See also [plus sign (+)](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35249)
 
-![In progress](ampersand_files/activity-large.gif)
+![In progress](media/ampersand/activity-large.gif)
 
 URL :

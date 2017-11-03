@@ -6,15 +6,15 @@ Loading...
 
 working memory
 
-![Copy URL](working-memory_files/Copy.png)
+![Copy URL](media/working-memory/Copy.png)
 Copy URL
 
-![Download](working-memory_files/Download.png)
+![Download](media/working-memory/Download.png)
 
 Download topic
 
 Don't use. Use *available memory* instead.
 
-![In progress](working-memory_files/activity-large.gif)
+![In progress](media/working-memory/activity-large.gif)
 
 URL :

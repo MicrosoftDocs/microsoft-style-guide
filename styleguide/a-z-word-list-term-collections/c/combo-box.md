@@ -6,10 +6,10 @@ Loading...
 
 combo box
 
-![Copy URL](combo-box_files/Copy.png)
+![Copy URL](media/combo-box/Copy.png)
 Copy URL
 
-![Download](combo-box_files/Download.png)
+![Download](media/combo-box/Download.png)
 
 Download topic
 
@@ -25,6 +25,6 @@ For Size, enter a font size.
 
 See also [Describing interactions with UI](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26472)
 
-![In progress](combo-box_files/activity-large.gif)
+![In progress](media/combo-box/activity-large.gif)
 
 URL :

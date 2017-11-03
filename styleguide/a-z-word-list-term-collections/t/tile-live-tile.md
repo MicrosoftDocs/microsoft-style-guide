@@ -6,10 +6,10 @@ Loading...
 
 tile, Live Tile
 
-![Copy URL](tile-live-tile_files/Copy.png)
+![Copy URL](media/tile-live-tile/Copy.png)
 Copy URL
 
-![Download](tile-live-tile_files/Download.png)
+![Download](media/tile-live-tile/Download.png)
 
 Download topic
 
@@ -21,6 +21,6 @@ tiles.
 
 Capitalize *Live Tile* to describe the feature and in marketing materials. 
 
-![In progress](tile-live-tile_files/activity-large.gif)
+![In progress](media/tile-live-tile/activity-large.gif)
 
 URL :

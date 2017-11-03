@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Downloadable software
 
-![Copy URL](downloadable-software_files/Copy.png)
+![Copy URL](media/downloadable-software/Copy.png)
 Copy URL
 
-![Download](downloadable-software_files/Download.png)
+![Download](media/downloadable-software/Download.png)
 
 Download topic
 
@@ -29,6 +29,6 @@ If your page includes downloadable software:
 
 If you have a legal question about downloadable software, contact [your group’s paralegal](https://microsoft.sharepoint.com/sites/lcaweb/Pages/Applications/LegalContact.aspx). (This page requires Microsoft network access.)
 
-![In progress](downloadable-software_files/activity-large.gif)
+![In progress](media/downloadable-software/activity-large.gif)
 
 URL :

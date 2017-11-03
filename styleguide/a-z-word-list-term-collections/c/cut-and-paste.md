@@ -6,10 +6,10 @@ Loading...
 
 cut, cut-and-paste
 
-![Copy URL](cut-and-paste_files/Copy.png)
+![Copy URL](media/cut-and-paste/Copy.png)
 Copy URL
 
-![Download](cut-and-paste_files/Download.png)
+![Download](media/cut-and-paste/Download.png)
 
 Download topic
 
@@ -31,6 +31,6 @@ Select Cut to move the selected text to the clipboard.
 Delete the text and paste it somewhere else.
 Cut-and-paste capabilities are available across most Windows devices. 
 
-![In progress](cut-and-paste_files/activity-large.gif)
+![In progress](media/cut-and-paste/activity-large.gif)
 
 URL :

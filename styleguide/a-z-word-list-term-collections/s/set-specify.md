@@ -6,10 +6,10 @@ Loading...
 
 set, specify
 
-![Copy URL](set-specify_files/Copy.png)
+![Copy URL](media/set-specify/Copy.png)
 Copy URL
 
-![Download](set-specify_files/Download.png)
+![Download](media/set-specify/Download.png)
 
 Download topic
 
@@ -25,6 +25,6 @@ It's OK to use *set* in content for developers to describe entering or selecting
 
 **See also** [Describing interactions with UI](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26472)
 
-![In progress](set-specify_files/activity-large.gif)
+![In progress](media/set-specify/activity-large.gif)
 
 URL :

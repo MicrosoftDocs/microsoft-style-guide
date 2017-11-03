@@ -6,10 +6,10 @@ Loading...
 
 hot link
 
-![Copy URL](hot-link_files/Copy.png)
+![Copy URL](media/hot-link/Copy.png)
 Copy URL
 
-![Download](hot-link_files/Download.png)
+![Download](media/hot-link/Download.png)
 
 Download topic
 
@@ -21,6 +21,6 @@ Don't use to refer to a hyperlink.
 
 **See also** [hyperlink](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33969)
 
-![In progress](hot-link_files/activity-large.gif)
+![In progress](media/hot-link/activity-large.gif)
 
 URL :

@@ -6,10 +6,10 @@ Loading...
 
 Content-planning checklist
 
-![Copy URL](content-planning-checklist_files/Copy.png)
+![Copy URL](media/content-planning-checklist/Copy.png)
 Copy URL
 
-![Download](content-planning-checklist_files/Download.png)
+![Download](media/content-planning-checklist/Download.png)
 
 Download topic
 
@@ -25,6 +25,6 @@ A little upfront planning will save you time and keep your writing focused.
 
 Learn more about [content planning](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36376).
 
-![In progress](content-planning-checklist_files/activity-large.gif)
+![In progress](media/content-planning-checklist/activity-large.gif)
 
 URL :

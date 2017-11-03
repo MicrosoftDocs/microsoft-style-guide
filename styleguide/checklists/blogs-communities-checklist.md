@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Blogs and communities checklist
 
-![Copy URL](blogs-communities-checklist_files/Copy.png)
+![Copy URL](media/blogs-communities-checklist/Copy.png)
 Copy URL
 
-![Download](blogs-communities-checklist_files/Download.png)
+![Download](media/blogs-communities-checklist/Download.png)
 
 Download topic
 
@@ -44,6 +44,6 @@ Learn more about [blogs](https://worldready.cloudapp.net/Styleguide/Read?id=2700
 
 Learn more about [communities](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36388 "communities").
 
-![In progress](blogs-communities-checklist_files/activity-large.gif)
+![In progress](media/blogs-communities-checklist/activity-large.gif)
 
 URL :

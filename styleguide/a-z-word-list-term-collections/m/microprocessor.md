@@ -6,15 +6,15 @@ Loading...
 
 microprocessor
 
-![Copy URL](microprocessor_files/Copy.png)
+![Copy URL](media/microprocessor/Copy.png)
 Copy URL
 
-![Download](microprocessor_files/Download.png)
+![Download](media/microprocessor/Download.png)
 
 Download topic
 
 Use instead of *processor* to refer to the chip used in personal computers.
 
-![In progress](microprocessor_files/activity-large.gif)
+![In progress](media/microprocessor/activity-large.gif)
 
 URL :

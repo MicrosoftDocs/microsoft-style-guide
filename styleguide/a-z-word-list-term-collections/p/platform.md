@@ -6,10 +6,10 @@ Loading...
 
 platform
 
-![Copy URL](platform_files/Copy.png)
+![Copy URL](media/platform/Copy.png)
 Copy URL
 
-![Download](platform_files/Download.png)
+![Download](media/platform/Download.png)
 
 Download topic
 
@@ -26,6 +26,6 @@ Use *on* as a preposition with *platform* in discussions about hardware platform
 
 **See also** **** [operating environment, operating system](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35538)
 
-![In progress](platform_files/activity-large.gif)
+![In progress](media/platform/activity-large.gif)
 
 URL :

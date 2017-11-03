@@ -6,10 +6,10 @@ Loading...
 
 operating environment, operating system
 
-![Copy URL](operating-environment-operating-system_files/Copy.png)
+![Copy URL](media/operating-environment-operating-system/Copy.png)
 Copy URL
 
-![Download](operating-environment-operating-system_files/Download.png)
+![Download](media/operating-environment-operating-system/Download.png)
 
 Download topic
 
@@ -29,6 +29,6 @@ Microsoft Exchange Server runs on the Windows Server operating system.
 
 See also [platform](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35539)
 
-![In progress](operating-environment-operating-system_files/activity-large.gif)
+![In progress](media/operating-environment-operating-system/activity-large.gif)
 
 URL :

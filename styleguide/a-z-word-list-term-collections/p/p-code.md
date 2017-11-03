@@ -6,10 +6,10 @@ Loading...
 
 p-code
 
-![Copy URL](p-code_files/Copy.png)
+![Copy URL](media/p-code/Copy.png)
 Copy URL
 
-![Download](p-code_files/Download.png)
+![Download](media/p-code/Download.png)
 
 Download topic
 
@@ -19,6 +19,6 @@ Capitalize as *P-code* when it's the first word in a sentence.
 
 Use only in content for a technical audience.
 
-![In progress](p-code_files/activity-large.gif)
+![In progress](media/p-code/activity-large.gif)
 
 URL :

@@ -6,10 +6,10 @@ Loading...
 
 appears, displays
 
-![Copy URL](appears-displays_files/Copy.png)
+![Copy URL](media/appears-displays/Copy.png)
 Copy URL
 
-![Download](appears-displays_files/Download.png)
+![Download](media/appears-displays/Download.png)
 
 Download topic
 
@@ -21,6 +21,6 @@ Examples
 If you try to close the program without saving the file, a message appears. 
 Word displays a message if you try to close the program without saving the file. 
 
-![In progress](appears-displays_files/activity-large.gif)
+![In progress](media/appears-displays/activity-large.gif)
 
 URL :

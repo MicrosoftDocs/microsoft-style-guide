@@ -6,10 +6,10 @@ Loading...
 
 given
 
-![Copy URL](given_files/Copy.png)
+![Copy URL](media/given/Copy.png)
 Copy URL
 
-![Download](given_files/Download.png)
+![Download](media/given/Download.png)
 
 Download topic
 
@@ -20,6 +20,6 @@ Examples**
 Use the Find **** command to search for all occurrences of a specific word.
 The meeting is always at a particular time.
 
-![In progress](given_files/activity-large.gif)
+![In progress](media/given/activity-large.gif)
 
 URL :

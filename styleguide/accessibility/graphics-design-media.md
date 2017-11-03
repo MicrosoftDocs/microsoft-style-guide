@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Graphics, design, and media
 
-![Copy URL](graphics-design-media_files/Copy.png)
+![Copy URL](media/graphics-design-media/Copy.png)
 Copy URL
 
-![Download](graphics-design-media_files/Download.png)
+![Download](media/graphics-design-media/Download.png)
 
 Download topic
 
@@ -53,6 +53,6 @@ Provide text links in addition to image maps.
 
 Plan links and image-map links to support Tab key navigation with bidirectional text. 
 
-![In progress](graphics-design-media_files/activity-large.gif)
+![In progress](media/graphics-design-media/activity-large.gif)
 
 URL :

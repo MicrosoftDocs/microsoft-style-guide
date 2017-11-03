@@ -6,15 +6,15 @@ Loading...
 
 work style
 
-![Copy URL](work-style_files/Copy.png)
+![Copy URL](media/work-style/Copy.png)
 Copy URL
 
-![Download](work-style_files/Download.png)
+![Download](media/work-style/Download.png)
 
 Download topic
 
 Two words.
 
-![In progress](work-style_files/activity-large.gif)
+![In progress](media/work-style/activity-large.gif)
 
 URL :

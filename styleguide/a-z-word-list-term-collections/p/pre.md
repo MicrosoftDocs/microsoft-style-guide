@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 pre-
 
-![Copy URL](pre_files/Copy.png)
+![Copy URL](media/pre/Copy.png)
 Copy URL
 
-![Download](pre_files/Download.png)
+![Download](media/pre/Download.png)
 
 Download topic
 
@@ -17,6 +17,6 @@ In general, don’t hyphenate words beginning with *pre-*, such as *preallocate*
 
 To learn more about hyphenation, see [Hyphens](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28765).
 
-![In progress](pre_files/activity-large.gif)
+![In progress](media/pre/activity-large.gif)
 
 URL :

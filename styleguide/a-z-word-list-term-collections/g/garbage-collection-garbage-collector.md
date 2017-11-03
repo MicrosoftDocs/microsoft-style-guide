@@ -6,10 +6,10 @@ Loading...
 
 garbage collection, garbage collector
 
-![Copy URL](garbage-collection-garbage-collector_files/Copy.png)
+![Copy URL](media/garbage-collection-garbage-collector/Copy.png)
 Copy URL
 
-![Download](garbage-collection-garbage-collector_files/Download.png)
+![Download](media/garbage-collection-garbage-collector/Download.png)
 
 Download topic
 
@@ -20,6 +20,6 @@ longer being used.
 
 Use *garbage collector* to describe the component of a runtime environment that performs garbage collection.
 
-![In progress](garbage-collection-garbage-collector_files/activity-large.gif)
+![In progress](media/garbage-collection-garbage-collector/activity-large.gif)
 
 URL :

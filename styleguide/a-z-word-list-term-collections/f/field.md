@@ -6,10 +6,10 @@ Loading...
 
 field
 
-![Copy URL](field_files/Copy.png)
+![Copy URL](media/field/Copy.png)
 Copy URL
 
-![Download](field_files/Download.png)
+![Download](media/field/Download.png)
 
 Download topic
 
@@ -17,6 +17,6 @@ Don't use to refer to a text-entry box. Refer to the box by its label. If you mu
 
 It's OK to use *field* to refer to Word field codes, in a database context, and in other technical contexts.
 
-![In progress](field_files/activity-large.gif)
+![In progress](media/field/activity-large.gif)
 
 URL :

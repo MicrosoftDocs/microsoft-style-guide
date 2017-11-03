@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Em dashes
 
-![Copy URL](emes_files/Copy.png)
+![Copy URL](media/emes/Copy.png)
 Copy URL
 
-![Download](emes_files/Download.png)
+![Download](media/emes/Download.png)
 
 Download topic
 
@@ -38,6 +38,6 @@ Don’t use an em dash:
 
 Don’t capitalize the first word after an em dash unless the word is a proper noun.
 
-![In progress](emes_files/activity-large.gif)
+![In progress](media/emes/activity-large.gif)
 
 URL :

@@ -6,10 +6,10 @@ Loading...
 
 toggle
 
-![Copy URL](toggle_files/Copy.png)
+![Copy URL](media/toggle/Copy.png)
 Copy URL
 
-![Download](toggle_files/Download.png)
+![Download](media/toggle/Download.png)
 
 Download topic
 
@@ -21,6 +21,6 @@ Examples
 Use the Caps lock key to switch from typing capital letters to typing lowercase letters.
 To switch between Normal, Outline, and Slide Sorter views, use the buttons on the View tab. 
 
-![In progress](toggle_files/activity-large.gif)
+![In progress](media/toggle/activity-large.gif)
 
 URL :

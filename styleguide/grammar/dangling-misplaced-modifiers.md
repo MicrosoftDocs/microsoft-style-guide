@@ -6,10 +6,10 @@ Loading...
 
 Dangling and misplaced modifiers
 
-![Copy URL](dangling-misplaced-modifiers_files/Copy.png)
+![Copy URL](media/dangling-misplaced-modifiers/Copy.png)
 Copy URL
 
-![Download](dangling-misplaced-modifiers_files/Download.png)
+![Download](media/dangling-misplaced-modifiers/Download.png)
 
 Download topic
 
@@ -71,6 +71,6 @@ There are files on the disk <em>that can’t be removed</em>.
 </tbody>
 </table>
 
-![In progress](dangling-misplaced-modifiers_files/activity-large.gif)
+![In progress](media/dangling-misplaced-modifiers/activity-large.gif)
 
 URL :

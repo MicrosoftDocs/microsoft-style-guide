@@ -6,10 +6,10 @@ Loading...
 
 upload
 
-![Copy URL](upload_files/Copy.png)
+![Copy URL](media/upload/Copy.png)
 Copy URL
 
-![Download](upload_files/Download.png)
+![Download](media/upload/Download.png)
 
 Download topic
 
@@ -23,6 +23,6 @@ Example Upload a document from your computer to this library.
 
 **See also** [download](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33615), [load](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33614)
 
-![In progress](upload_files/activity-large.gif)
+![In progress](media/upload/activity-large.gif)
 
 URL :

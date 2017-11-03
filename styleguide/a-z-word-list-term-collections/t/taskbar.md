@@ -6,15 +6,15 @@ Loading...
 
 taskbar
 
-![Copy URL](taskbar_files/Copy.png)
+![Copy URL](media/taskbar/Copy.png)
 Copy URL
 
-![Download](taskbar_files/Download.png)
+![Download](media/taskbar/Download.png)
 
 Download topic
 
 One word.
 
-![In progress](taskbar_files/activity-large.gif)
+![In progress](media/taskbar/activity-large.gif)
 
 URL :

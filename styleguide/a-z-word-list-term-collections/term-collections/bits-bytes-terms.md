@@ -6,10 +6,10 @@ Loading...
 
 Bits and bytes terms
 
-![Copy URL](bits-bytes-terms_files/Copy.png)
+![Copy URL](media/bits-bytes-terms/Copy.png)
 Copy URL
 
-![Download](bits-bytes-terms_files/Download.png)
+![Download](media/bits-bytes-terms/Download.png)
 
 Download topic
 
@@ -197,6 +197,6 @@ ZB
 </tbody>
 </table>
 
-![In progress](bits-bytes-terms_files/activity-large.gif)
+![In progress](media/bits-bytes-terms/activity-large.gif)
 
 URL :

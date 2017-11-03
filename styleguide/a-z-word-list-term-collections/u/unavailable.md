@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 unavailable
 
-![Copy URL](unavailable_files/Copy.png)
+![Copy URL](media/unavailable/Copy.png)
 Copy URL
 
-![Download](unavailable_files/Download.png)
+![Download](media/unavailable/Download.png)
 
 Download topic
 
@@ -25,6 +25,6 @@ Some My Site features are temporarily unavailable. Please try again later.
 
 See also [disable, disabled](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33643), [turn on, turn off](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33405)
 
-![In progress](unavailable_files/activity-large.gif)
+![In progress](media/unavailable/activity-large.gif)
 
 URL :

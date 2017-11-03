@@ -6,10 +6,10 @@ Loading...
 
 header
 
-![Copy URL](header_files/Copy.png)
+![Copy URL](media/header/Copy.png)
 Copy URL
 
-![Download](header_files/Download.png)
+![Download](media/header/Download.png)
 
 Download topic
 
@@ -26,6 +26,6 @@ program's functions.
 
 **See also** [footer](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33792)
 
-![In progress](header_files/activity-large.gif)
+![In progress](media/header/activity-large.gif)
 
 URL :

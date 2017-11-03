@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Name development
 
-![Copy URL](name-development_files/Copy.png)
+![Copy URL](media/name-development/Copy.png)
 Copy URL
 
-![Download](name-development_files/Download.png)
+![Download](media/name-development/Download.png)
 
 Download topic
 
@@ -21,6 +21,6 @@ process for name development. Get a [geopolitical review](https://microsoft.shar
 
 Learn more For information about the naming process, see the [Brand Central naming guidelines](https://microsoft.sharepoint.com/teams/BrandCentral/Pages/The-Microsoft-brand-Identity-Naming.aspx "new product naming guidelines on Brand Central"). For Microsoft's approach to localizing names, see the [Brand Central name localization guidelines](https://microsoft.sharepoint.com/teams/BrandCentral/Guidelines/Microsoft_naming_playbook_Localization.pdf "Brand Central guidelines for localizing names"). (These pages require Microsoft network access.) 
 
-![In progress](name-development_files/activity-large.gif)
+![In progress](media/name-development/activity-large.gif)
 
 URL :

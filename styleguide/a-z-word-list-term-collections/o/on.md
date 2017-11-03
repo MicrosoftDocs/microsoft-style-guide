@@ -6,10 +6,10 @@ Loading...
 
 on
 
-![Copy URL](on_files/Copy.png)
+![Copy URL](media/on/Copy.png)
 Copy URL
 
-![Download](on_files/Download.png)
+![Download](media/on/Download.png)
 
 Download topic
 
@@ -27,6 +27,6 @@ In COM programming, an interface is implemented *on* an object.
 
 **See also** [Describing interactions with UI](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26472)
 
-![In progress](on_files/activity-large.gif)
+![In progress](media/on/activity-large.gif)
 
 URL :

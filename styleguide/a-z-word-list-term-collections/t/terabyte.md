@@ -6,15 +6,15 @@ Loading...
 
 terabyte, TB
 
-![Copy URL](terabyte_files/Copy.png)
+![Copy URL](media/terabyte/Copy.png)
 Copy URL
 
-![Download](terabyte_files/Download.png)
+![Download](media/terabyte/Download.png)
 
 Download topic
 
 **See** [Bits and bytes term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26920)
 
-![In progress](terabyte_files/activity-large.gif)
+![In progress](media/terabyte/activity-large.gif)
 
 URL :

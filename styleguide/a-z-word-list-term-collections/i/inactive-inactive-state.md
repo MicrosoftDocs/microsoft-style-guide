@@ -6,10 +6,10 @@ Loading...
 
 inactive, inactive state
 
-![Copy URL](inactive-inactive-state_files/Copy.png)
+![Copy URL](media/inactive-inactive-state/Copy.png)
 Copy URL
 
-![Download](inactive-inactive-state_files/Download.png)
+![Download](media/inactive-inactive-state/Download.png)
 
 Download topic
 
@@ -19,6 +19,6 @@ In content for a technical audience, use instead of *not current*
 to refer to windows, apps, documents, files, devices, or portions
 of the screen that are available but not currently in use.
 
-![In progress](inactive-inactive-state_files/activity-large.gif)
+![In progress](media/inactive-inactive-state/activity-large.gif)
 
 URL :

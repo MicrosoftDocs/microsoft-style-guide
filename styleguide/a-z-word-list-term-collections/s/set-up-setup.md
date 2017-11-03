@@ -6,10 +6,10 @@ Loading...
 
 set up, setup, Setup
 
-![Copy URL](set-up-setup_files/Copy.png)
+![Copy URL](media/set-up-setup/Copy.png)
 Copy URL
 
-![Download](set-up-setup_files/Download.png)
+![Download](media/set-up-setup/Download.png)
 
 Download topic
 
@@ -23,6 +23,6 @@ The setup time is about 15 minutes.
 Your office setup should be ergonomically designed.
 Run Setup before you open other apps. 
 
-![In progress](set-up-setup_files/activity-large.gif)
+![In progress](media/set-up-setup/activity-large.gif)
 
 URL :

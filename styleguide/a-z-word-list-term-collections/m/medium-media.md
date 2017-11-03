@@ -6,10 +6,10 @@ Loading...
 
 medium, media
 
-![Copy URL](medium-media_files/Copy.png)
+![Copy URL](media/medium-media/Copy.png)
 Copy URL
 
-![Download](medium-media_files/Download.png)
+![Download](media/medium-media/Download.png)
 
 Download topic
 
@@ -29,6 +29,6 @@ Examples **
 The media covers computer industry news.
 The medium used for many large computer programs is the DVD-ROM. 
 
-![In progress](medium-media_files/activity-large.gif)
+![In progress](media/medium-media/activity-large.gif)
 
 URL :

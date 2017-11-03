@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Names and contact information
 
-![Copy URL](names-contact-information_files/Copy.png)
+![Copy URL](media/names-contact-information/Copy.png)
 Copy URL
 
-![Download](names-contact-information_files/Download.png)
+![Download](media/names-contact-information/Download.png)
 
 Download topic
 
@@ -53,6 +53,6 @@ your international program manager and your [group's paralegal](https://microsof
     suggest where customers outside the United States can
     look for local resources.
 
-![In progress](names-contact-information_files/activity-large.gif)
+![In progress](media/names-contact-information/activity-large.gif)
 
 URL :

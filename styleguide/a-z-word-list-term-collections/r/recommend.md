@@ -6,10 +6,10 @@ Loading...
 
 recommend
 
-![Copy URL](recommend_files/Copy.png)
+![Copy URL](media/recommend/Copy.png)
 Copy URL
 
-![Download](recommend_files/Download.png)
+![Download](media/recommend/Download.png)
 
 Download topic
 
@@ -28,6 +28,6 @@ Windows 10.
 
 **See also** [should vs. must](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35667)
 
-![In progress](recommend_files/activity-large.gif)
+![In progress](media/recommend/activity-large.gif)
 
 URL :

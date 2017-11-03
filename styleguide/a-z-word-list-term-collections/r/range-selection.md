@@ -6,10 +6,10 @@ Loading...
 
 range selection
 
-![Copy URL](range-selection_files/Copy.png)
+![Copy URL](media/range-selection/Copy.png)
 Copy URL
 
-![Download](range-selection_files/Download.png)
+![Download](media/range-selection/Download.png)
 
 Download topic
 
@@ -19,6 +19,6 @@ Use the same type of phrasing in content for a technical audience, but if you're
 
 Use *multiple selection* to describe selecting more than one nonadjacent items.
 
-![In progress](range-selection_files/activity-large.gif)
+![In progress](media/range-selection/activity-large.gif)
 
 URL :

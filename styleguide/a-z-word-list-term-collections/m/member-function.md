@@ -6,15 +6,15 @@ Loading...
 
 member function
 
-![Copy URL](member-function_files/Copy.png)
+![Copy URL](media/member-function/Copy.png)
 Copy URL
 
-![Download](member-function_files/Download.png)
+![Download](media/member-function/Download.png)
 
 Download topic
 
 Don't use if you can correctly use *method* instead.
 
-![In progress](member-function_files/activity-large.gif)
+![In progress](media/member-function/activity-large.gif)
 
 URL :

@@ -6,10 +6,10 @@ Loading...
 
 nonprintable, nonprinting
 
-![Copy URL](nonprintable-nonprinting_files/Copy.png)
+![Copy URL](media/nonprintable-nonprinting/Copy.png)
 Copy URL
 
-![Download](nonprintable-nonprinting_files/Download.png)
+![Download](media/nonprintable-nonprinting/Download.png)
 
 Download topic
 
@@ -21,6 +21,6 @@ Examples
 Some text extends into the nonprintable area of the page. 
 Select Show/Hide to display **** all nonprinting characters, including paragraph marks and space marks.
 
-![In progress](nonprintable-nonprinting_files/activity-large.gif)
+![In progress](media/nonprintable-nonprinting/activity-large.gif)
 
 URL :

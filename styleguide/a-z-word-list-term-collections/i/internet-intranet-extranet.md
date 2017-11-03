@@ -6,10 +6,10 @@ Loading...
 
 internet, intranet, extranet
 
-![Copy URL](internet-intranet-extranet_files/Copy.png)
+![Copy URL](media/internet-intranet-extranet/Copy.png)
 Copy URL
 
-![Download](internet-intranet-extranet_files/Download.png)
+![Download](media/internet-intranet-extranet/Download.png)
 
 Download topic
 
@@ -28,6 +28,6 @@ to refer to an extension of an intranet that uses
 internet protocols to give authorized outside
 users limited access to the intranet. Don't capitalize.
 
-![In progress](internet-intranet-extranet_files/activity-large.gif)
+![In progress](media/internet-intranet-extranet/activity-large.gif)
 
 URL :

@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 co-
 
-![Copy URL](co_files/Copy.png)
+![Copy URL](media/co/Copy.png)
 Copy URL
 
-![Download](co_files/Download.png)
+![Download](media/co/Download.png)
 
 Download topic
 
@@ -17,6 +17,6 @@ In general, don’t hyphenate words beginning with *co-*, such as *coauthor* and
 
 To learn more about hyphenation, see [Hyphens](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28765).
 
-![In progress](co_files/activity-large.gif)
+![In progress](media/co/activity-large.gif)
 
 URL :

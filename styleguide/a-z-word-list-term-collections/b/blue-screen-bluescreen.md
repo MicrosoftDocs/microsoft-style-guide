@@ -6,10 +6,10 @@ Loading...
 
 blue screen, bluescreen
 
-![Copy URL](blue-screen-bluescreen_files/Copy.png)
+![Copy URL](media/blue-screen-bluescreen/Copy.png)
 Copy URL
 
-![Download](blue-screen-bluescreen_files/Download.png)
+![Download](media/blue-screen-bluescreen/Download.png)
 
 Download topic
 
@@ -19,6 +19,6 @@ It's OK to use *blue screen* (two words) to refer to the screen display itself.
 
 Example The operating system stopped unexpectedly, and an error message appeared on a blue screen.
 
-![In progress](blue-screen-bluescreen_files/activity-large.gif)
+![In progress](media/blue-screen-bluescreen/activity-large.gif)
 
 URL :

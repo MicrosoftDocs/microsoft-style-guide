@@ -6,10 +6,10 @@ Loading...
 
 Describing interactions with UI
 
-![Copy URL](describing-interactions-with-ui_files/Copy.png)
+![Copy URL](media/describing-interactions-with-ui/Copy.png)
 Copy URL
 
-![Download](describing-interactions-with-ui_files/Download.png)
+![Download](media/describing-interactions-with-ui/Download.png)
 
 Download topic
 
@@ -235,6 +235,6 @@ Press and hold the app you want to pin, and then select </span><b>Pin to Start</
 </tbody>
 </table>
 
-![In progress](describing-interactions-with-ui_files/activity-large.gif)
+![In progress](media/describing-interactions-with-ui/activity-large.gif)
 
 URL :

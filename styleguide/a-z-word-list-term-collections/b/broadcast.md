@@ -6,10 +6,10 @@ Loading...
 
 broadcast
 
-![Copy URL](broadcast_files/Copy.png)
+![Copy URL](media/broadcast/Copy.png)
 Copy URL
 
-![Download](broadcast_files/Download.png)
+![Download](media/broadcast/Download.png)
 
 Download topic
 
@@ -17,6 +17,6 @@ OK to use as an adjective, a noun, or a verb. Use *broadcast*, not *broadcasted*
 
 Use *webcast* to refer to a broadcast delivered on the web.
 
-![In progress](broadcast_files/activity-large.gif)
+![In progress](media/broadcast/activity-large.gif)
 
 URL :

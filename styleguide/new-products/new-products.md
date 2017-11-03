@@ -6,10 +6,10 @@ Loading...
 
 New products
 
-![Copy URL](new-products_files/Copy.png)
+![Copy URL](media/new-products/Copy.png)
 Copy URL
 
-![Download](new-products_files/Download.png)
+![Download](media/new-products/Download.png)
 
 Download topic
 
@@ -26,6 +26,6 @@ See also [Legal content](https://worldready.cloudapp.net/Styleguide/Read?id=2700
 
 ## 
 
-![In progress](new-products_files/activity-large.gif)
+![In progress](media/new-products/activity-large.gif)
 
 URL :

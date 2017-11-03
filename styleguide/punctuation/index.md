@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Punctuation
 
-![Copy URL](index_files/Copy.png)
+![Copy URL](media/index/Copy.png)
 Copy URL
 
-![Download](index_files/Download.png)
+![Download](media/index/Download.png)
 
 Download topic
 
@@ -43,6 +43,6 @@ This section covers:
   - [Exclamation points](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28759), used sparingly.
   - [Slashes](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28760) in phrases, file paths, and URLs.
 
-![In progress](index_files/activity-large.gif)
+![In progress](media/index/activity-large.gif)
 
 URL :

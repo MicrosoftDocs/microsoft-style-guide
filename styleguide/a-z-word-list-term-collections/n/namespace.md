@@ -6,15 +6,15 @@ Loading...
 
 namespace
 
-![Copy URL](namespace_files/Copy.png)
+![Copy URL](media/namespace/Copy.png)
 Copy URL
 
-![Download](namespace_files/Download.png)
+![Download](media/namespace/Download.png)
 
 Download topic
 
 One word.
 
-![In progress](namespace_files/activity-large.gif)
+![In progress](media/namespace/activity-large.gif)
 
 URL :

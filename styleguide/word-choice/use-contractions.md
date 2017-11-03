@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Use contractions
 
-![Copy URL](use-contractions_files/Copy.png)
+![Copy URL](media/use-contractions/Copy.png)
 Copy URL
 
-![Download](use-contractions_files/Download.png)
+![Download](media/use-contractions/Download.png)
 
 Download topic
 
@@ -21,6 +21,6 @@ Write using the same, everyday words you use in conversation.
     *
   - Avoid ambiguous contractions, such as *there’d, it’ll,* and *they’ll*.
 
-![In progress](use-contractions_files/activity-large.gif)
+![In progress](media/use-contractions/activity-large.gif)
 
 URL :

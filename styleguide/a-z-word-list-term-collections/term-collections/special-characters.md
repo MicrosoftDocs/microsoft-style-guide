@@ -6,10 +6,10 @@ Loading...
 
 Special characters
 
-![Copy URL](special-characters_files/Copy.png)
+![Copy URL](media/special-characters/Copy.png)
 Copy URL
 
-![Download](special-characters_files/Download.png)
+![Download](media/special-characters/Download.png)
 
 Download topic
 
@@ -485,6 +485,6 @@ Don't use in place of <em>about</em> or <em>approximately.</em></span>
 </tbody>
 </table>
 
-![In progress](special-characters_files/activity-large.gif)
+![In progress](media/special-characters/activity-large.gif)
 
 URL :

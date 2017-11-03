@@ -6,10 +6,10 @@ Loading...
 
 Screenshots
 
-![Copy URL](screenshots_files/Copy.png)
+![Copy URL](media/screenshots/Copy.png)
 Copy URL
 
-![Download](screenshots_files/Download.png)
+![Download](media/screenshots/Download.png)
 
 Download topic
 
@@ -24,7 +24,7 @@ When you use screenshots, follow these guidelines.
 
   - Show only the portion of the screen that's necessary to explain the concept or procedure.
     Example
-    ![](screenshots_files/250946014.png)
+    ![](media/screenshots/250946014.png)
   - Create text in the interface that reflects Microsoft voice and editorial style.
   - Use approved fictitious names and scenarios. To learn more, see [Fictitious names, domains, and addresses](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26697).
   - Describe
@@ -36,6 +36,6 @@ When you use screenshots, follow these guidelines.
     the files shown in the image, in addition to detailed
     instructions on how to re-create the screenshot. 
 
-![In progress](screenshots_files/activity-large.gif)
+![In progress](media/screenshots/activity-large.gif)
 
 URL :

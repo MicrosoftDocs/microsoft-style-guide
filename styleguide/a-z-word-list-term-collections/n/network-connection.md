@@ -6,15 +6,15 @@ Loading...
 
 network connection
 
-![Copy URL](network-connection_files/Copy.png)
+![Copy URL](media/network-connection/Copy.png)
 Copy URL
 
-![Download](network-connection_files/Download.png)
+![Download](media/network-connection/Download.png)
 
 Download topic
 
 Use instead of *local area network connection*.
 
-![In progress](network-connection_files/activity-large.gif)
+![In progress](media/network-connection/activity-large.gif)
 
 URL :

@@ -6,10 +6,10 @@ Loading...
 
 deinstall
 
-![Copy URL](delete_files/Copy.png)
+![Copy URL](media/delete/Copy.png)
 Copy URL
 
-![Download](delete_files/Download.png)
+![Download](media/delete/Download.png)
 
 Download topic
 
@@ -20,6 +20,6 @@ The DeInstall method removes the specified network component from the operating 
 
 See also [](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33611)[uninstall](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33611)
 
-![In progress](delete_files/activity-large.gif)
+![In progress](media/delete/activity-large.gif)
 
 URL :

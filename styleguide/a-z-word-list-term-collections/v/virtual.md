@@ -6,10 +6,10 @@ Loading...
 
 virtual
 
-![Copy URL](virtual_files/Copy.png)
+![Copy URL](media/virtual/Copy.png)
 Copy URL
 
-![Download](virtual_files/Download.png)
+![Download](media/virtual/Download.png)
 
 Download topic
 
@@ -29,6 +29,6 @@ virtual server
 
 See also [Virtual Machines](https://worldready.cloudapp.net/Styleguide/Read?id=2696&topicid=27538) in the *Microsoft Cloud Style Guide*.
 
-![In progress](virtual_files/activity-large.gif)
+![In progress](media/virtual/activity-large.gif)
 
 URL :

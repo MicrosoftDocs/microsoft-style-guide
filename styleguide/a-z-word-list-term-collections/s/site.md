@@ -6,10 +6,10 @@ Loading...
 
 site
 
-![Copy URL](site_files/Copy.png)
+![Copy URL](media/site/Copy.png)
 Copy URL
 
-![Download](site_files/Download.png)
+![Download](media/site/Download.png)
 
 Download topic
 
@@ -19,6 +19,6 @@ Information is *on* a site, but the address of a site is *at* [www.example.com](
 
 **See also** [page](https://worldready.cloudapp.net/Styleguide/Read?id=1413&topicid=5650), [URLs and web addresses](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=34905)
 
-![In progress](site_files/activity-large.gif)
+![In progress](media/site/activity-large.gif)
 
 URL :

@@ -6,10 +6,10 @@ Loading...
 
 email
 
-![Copy URL](email_files/Copy.png)
+![Copy URL](media/email/Copy.png)
 Copy URL
 
-![Download](email_files/Download.png)
+![Download](media/email/Download.png)
 
 Download topic
 
@@ -34,6 +34,6 @@ Email us your comments.
 
 See also [](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35453)[message](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35453)
 
-![In progress](email_files/activity-large.gif)
+![In progress](media/email/activity-large.gif)
 
 URL :

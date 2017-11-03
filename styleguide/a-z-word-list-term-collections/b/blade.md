@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 blade
 
-![Copy URL](blade_files/Copy.png)
+![Copy URL](media/blade/Copy.png)
 Copy URL
 
-![Download](blade_files/Download.png)
+![Download](media/blade/Download.png)
 
 Download topic
 
@@ -32,6 +32,6 @@ When you must mention a blade:
     Example On the Web app blade, name your site.
   - Use *open* and *close* as verbs with blades.
 
-![In progress](blade_files/activity-large.gif)
+![In progress](media/blade/activity-large.gif)
 
 URL :

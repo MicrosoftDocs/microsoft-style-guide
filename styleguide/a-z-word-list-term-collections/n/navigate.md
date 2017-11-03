@@ -6,10 +6,10 @@ Loading...
 
 navigate
 
-![Copy URL](navigate_files/Copy.png)
+![Copy URL](media/navigate/Copy.png)
 Copy URL
 
-![Download](navigate_files/Download.png)
+![Download](media/navigate/Download.png)
 
 Download topic
 
@@ -25,6 +25,6 @@ Avoid referring to UI controls and buttons as *navigation* buttons and to webpag
 
 Don't use *navigation pane* unless the term appears in the UI. Use *left pane* instead if you can.
 
-![In progress](navigate_files/activity-large.gif)
+![In progress](media/navigate/activity-large.gif)
 
 URL :

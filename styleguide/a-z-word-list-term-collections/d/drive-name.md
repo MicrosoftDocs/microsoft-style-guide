@@ -6,15 +6,15 @@ Loading...
 
 drive name
 
-![Copy URL](drive-name_files/Copy.png)
+![Copy URL](media/drive-name/Copy.png)
 Copy URL
 
-![Download](drive-name_files/Download.png)
+![Download](media/drive-name/Download.png)
 
 Download topic
 
 Use instead of *drive specification, designator*, or *designation*.
 
-![In progress](drive-name_files/activity-large.gif)
+![In progress](media/drive-name/activity-large.gif)
 
 URL :

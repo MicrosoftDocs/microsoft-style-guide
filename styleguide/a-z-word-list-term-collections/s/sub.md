@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 sub-
 
-![Copy URL](sub_files/Copy.png)
+![Copy URL](media/sub/Copy.png)
 Copy URL
 
-![Download](sub_files/Download.png)
+![Download](media/sub/Download.png)
 
 Download topic
 
@@ -17,6 +17,6 @@ In general, don’t hyphenate words beginning with *sub-*, such as *subheading* 
 
 To learn more about hyphenation, see [Hyphens](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28765).
 
-![In progress](sub_files/activity-large.gif)
+![In progress](media/sub/activity-large.gif)
 
 URL :

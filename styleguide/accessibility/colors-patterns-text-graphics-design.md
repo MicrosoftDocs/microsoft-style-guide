@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Colors and patterns in text, graphics, and design
 
-![Copy URL](colors-patterns-text-graphics-design_files/Copy.png)
+![Copy URL](media/colors-patterns-text-graphics-design/Copy.png)
 Copy URL
 
-![Download](colors-patterns-text-graphics-design_files/Download.png)
+![Download](media/colors-patterns-text-graphics-design/Download.png)
 
 Download topic
 
@@ -33,6 +33,6 @@ in Windows alter text color.
 
 **Don’t use screened or shaded backgrounds, watermarks, or other images behind text. Reduced contrast makes text harder to read and hinders screen readers.**
 
-![In progress](colors-patterns-text-graphics-design_files/activity-large.gif)
+![In progress](media/colors-patterns-text-graphics-design/activity-large.gif)
 
 URL :

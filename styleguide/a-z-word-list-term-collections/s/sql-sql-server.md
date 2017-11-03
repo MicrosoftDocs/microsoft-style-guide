@@ -6,10 +6,10 @@ Loading...
 
 SQL, SQL Server
 
-![Copy URL](sql-sql-server_files/Copy.png)
+![Copy URL](media/sql-sql-server/Copy.png)
 Copy URL
 
-![Download](sql-sql-server_files/Download.png)
+![Download](media/sql-sql-server/Download.png)
 
 Download topic
 
@@ -24,6 +24,6 @@ Never refer to a computer that's running Microsoft SQL Server as any of the foll
 
 When you're referring to Structured Query Language as *SQL*, use the indefinite article *an:* *an* *SQL database.*
 
-![In progress](sql-sql-server_files/activity-large.gif)
+![In progress](media/sql-sql-server/activity-large.gif)
 
 URL :

@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 achievement
 
-![Copy URL](achievement_files/Copy.png)
+![Copy URL](media/achievement/Copy.png)
 Copy URL
 
-![Download](achievement_files/Download.png)
+![Download](media/achievement/Download.png)
 
 Download topic
 
@@ -28,6 +28,6 @@ Take a bow—you’ve earned your Superstar.
 
 **See also** [badge](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32274)
 
-![In progress](achievement_files/activity-large.gif)
+![In progress](media/achievement/activity-large.gif)
 
 URL :

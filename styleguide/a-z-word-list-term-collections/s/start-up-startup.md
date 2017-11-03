@@ -6,10 +6,10 @@ Loading...
 
 start up, startup
 
-![Copy URL](start-up-startup_files/Copy.png)
+![Copy URL](media/start-up-startup/Copy.png)
 Copy URL
 
-![Download](start-up-startup_files/Download.png)
+![Download](media/start-up-startup/Download.png)
 
 Download topic
 
@@ -28,6 +28,6 @@ Open OneNote and start taking notes.
 
 **See also** [Start button, Start menu](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36078)
 
-![In progress](start-up-startup_files/activity-large.gif)
+![In progress](media/start-up-startup/activity-large.gif)
 
 URL :

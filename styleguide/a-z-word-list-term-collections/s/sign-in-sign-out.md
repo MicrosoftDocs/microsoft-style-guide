@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 sign in, sign out
 
-![Copy URL](sign-in-sign-out_files/Copy.png)
+![Copy URL](media/sign-in-sign-out/Copy.png)
 Copy URL
 
-![Download](sign-in-sign-out_files/Download.png)
+![Download](media/sign-in-sign-out/Download.png)
 
 Download topic
 
@@ -28,6 +28,6 @@ After an extended period without activity, the network will sign you out automat
 
 See also [connect](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33572)
 
-![In progress](sign-in-sign-out_files/activity-large.gif)
+![In progress](media/sign-in-sign-out/activity-large.gif)
 
 URL :

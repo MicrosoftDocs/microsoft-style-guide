@@ -6,10 +6,10 @@ Loading...
 
 status bar
 
-![Copy URL](status-bar_files/Copy.png)
+![Copy URL](media/status-bar/Copy.png)
 Copy URL
 
-![Download](status-bar_files/Download.png)
+![Download](media/status-bar/Download.png)
 
 Download topic
 
@@ -18,12 +18,12 @@ to the area at the bottom of a document window that shows the
 status of a document and other information, such as the meaning of a
 command. Messages appear *on*, not *in*, the status bar.
 
-![](status-bar_files/1622172745.png)
+![](media/status-bar/1622172745.png)
 
-![](status-bar_files/1474851511.png)
+![](media/status-bar/1474851511.png)
 
 Example The page number is displayed on the status bar.
 
-![In progress](status-bar_files/activity-large.gif)
+![In progress](media/status-bar/activity-large.gif)
 
 URL :

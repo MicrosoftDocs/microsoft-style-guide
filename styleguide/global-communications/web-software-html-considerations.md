@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Web, software, and HTML considerations
 
-![Copy URL](web-software-html-considerations_files/Copy.png)
+![Copy URL](media/web-software-html-considerations/Copy.png)
 Copy URL
 
-![Download](web-software-html-considerations_files/Download.png)
+![Download](media/web-software-html-considerations/Download.png)
 
 Download topic
 
@@ -90,6 +90,6 @@ Newsletters emailed to people outside the United States must
 be globalized, localized, or customized to meet local
 requirements.
 
-![In progress](web-software-html-considerations_files/activity-large.gif)
+![In progress](media/web-software-html-considerations/activity-large.gif)
 
 URL :

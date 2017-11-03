@@ -6,15 +6,15 @@ Loading...
 
 destination drive, destination file
 
-![Copy URL](destination-drive-destination-file_files/Copy.png)
+![Copy URL](media/destination-drive-destination-file/Copy.png)
 Copy URL
 
-![Download](destination-drive-destination-file_files/Download.png)
+![Download](media/destination-drive-destination-file/Download.png)
 
 Download topic
 
 Avoid. If you can, use more specific language, such as *copy the file to OneDrive.* Don't use *target drive* or *target file*. 
 
-![In progress](destination-drive-destination-file_files/activity-large.gif)
+![In progress](media/destination-drive-destination-file/activity-large.gif)
 
 URL :

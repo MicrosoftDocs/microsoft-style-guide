@@ -6,10 +6,10 @@ Loading...
 
 Use US spelling and avoid non-English words
 
-![Copy URL](use-us-spelling-avoid-non-english-words_files/Copy.png)
+![Copy URL](media/use-us-spelling-avoid-non-english-words/Copy.png)
 Copy URL
 
-![Download](use-us-spelling-avoid-non-english-words_files/Download.png)
+![Download](media/use-us-spelling-avoid-non-english-words/Download.png)
 
 Download topic
 
@@ -50,6 +50,6 @@ Exception It’s OK to use *etc.,* in situations where space is limited. Otherwi
 </tbody>
 </table>
 
-![In progress](use-us-spelling-avoid-non-english-words_files/activity-large.gif)
+![In progress](media/use-us-spelling-avoid-non-english-words/activity-large.gif)
 
 URL :

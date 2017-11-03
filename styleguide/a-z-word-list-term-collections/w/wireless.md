@@ -6,10 +6,10 @@ Loading...
 
 wireless
 
-![Copy URL](wireless_files/Copy.png)
+![Copy URL](media/wireless/Copy.png)
 Copy URL
 
-![Download](wireless_files/Download.png)
+![Download](media/wireless/Download.png)
 
 Download topic
 
@@ -19,6 +19,6 @@ context of connecting to a network. Even in that context, whenever
 you can, discuss connecting to the internet without referring to the
 technology. 
 
-![In progress](wireless_files/activity-large.gif)
+![In progress](media/wireless/activity-large.gif)
 
 URL :

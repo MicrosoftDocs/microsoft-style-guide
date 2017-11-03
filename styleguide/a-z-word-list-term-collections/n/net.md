@@ -6,10 +6,10 @@ Loading...
 
 .NET
 
-![Copy URL](net_files/Copy.png)
+![Copy URL](media/net/Copy.png)
 Copy URL
 
-![Download](net_files/Download.png)
+![Download](media/net/Download.png)
 
 Download topic
 
@@ -19,6 +19,6 @@ Use *Microsoft .NET* on the first mention. After that, it's OK to use *.NET.*
 
 It's OK to begin a sentence with *.NET* to avoid awkwardness or ambiguity, but be aware that the consecutive periods *(. .NET)* might briefly confuse some readers.
 
-![In progress](net_files/activity-large.gif)
+![In progress](media/net/activity-large.gif)
 
 URL :

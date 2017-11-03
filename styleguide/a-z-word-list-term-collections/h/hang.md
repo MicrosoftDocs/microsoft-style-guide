@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 hang
 
-![Copy URL](hang_files/Copy.png)
+![Copy URL](media/hang/Copy.png)
 Copy URL
 
-![Download](hang_files/Download.png)
+![Download](media/hang/Download.png)
 
 Download topic
 
@@ -28,6 +28,6 @@ specificity.
 
 **See also** [stop, stop responding](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35398)
 
-![In progress](hang_files/activity-large.gif)
+![In progress](media/hang/activity-large.gif)
 
 URL :

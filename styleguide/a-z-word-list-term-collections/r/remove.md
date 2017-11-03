@@ -6,10 +6,10 @@ Loading...
 
 remove
 
-![Copy URL](remove_files/Copy.png)
+![Copy URL](media/remove/Copy.png)
 Copy URL
 
-![Download](remove_files/Download.png)
+![Download](media/remove/Download.png)
 
 Download topic
 
@@ -27,6 +27,6 @@ Use *r**emove*:
 
 **See also**  [uninstall](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33611), [delete](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33613)[,](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33613) [load](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33614)
 
-![In progress](remove_files/activity-large.gif)
+![In progress](media/remove/activity-large.gif)
 
 URL :

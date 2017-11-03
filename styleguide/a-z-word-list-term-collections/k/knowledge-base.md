@@ -6,10 +6,10 @@ Loading...
 
 knowledge base, Knowledge Base
 
-![Copy URL](knowledge-base_files/Copy.png)
+![Copy URL](media/knowledge-base/Copy.png)
 Copy URL
 
-![Download](knowledge-base_files/Download.png)
+![Download](media/knowledge-base/Download.png)
 
 Download topic
 
@@ -17,6 +17,6 @@ Use title-style capitalization to refer to the Microsoft Knowledge Base. (You do
 
 Otherwise, use lowercase for generic references to a *knowledge base,* or *expert system*. 
 
-![In progress](knowledge-base_files/activity-large.gif)
+![In progress](media/knowledge-base/activity-large.gif)
 
 URL :

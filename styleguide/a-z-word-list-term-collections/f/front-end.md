@@ -6,10 +6,10 @@ Loading...
 
 front end, front-end
 
-![Copy URL](front-end_files/Copy.png)
+![Copy URL](media/front-end/Copy.png)
 Copy URL
 
-![Download](front-end_files/Download.png)
+![Download](media/front-end/Download.png)
 
 Download topic
 
@@ -20,6 +20,6 @@ to the program by name, or use *interface*, *program*, *app,* or another specifi
 
 Two words as a noun. Hyphenate as an adjective.
 
-![In progress](front-end_files/activity-large.gif)
+![In progress](media/front-end/activity-large.gif)
 
 URL :

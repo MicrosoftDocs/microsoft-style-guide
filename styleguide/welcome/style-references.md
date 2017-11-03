@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Microsoft style references
 
-![Copy URL](style-references_files/Copy.png)
+![Copy URL](media/style-references/Copy.png)
 Copy URL
 
-![Download](style-references_files/Download.png)
+![Download](media/style-references/Download.png)
 
 Download topic
 
@@ -37,6 +37,6 @@ For tips on becoming a better writer, the Microsoft Editorial Board recommends t
   - *Nicely Said: Writing for the Web with Style and Purpose* by Nicole Fenton and Kate Kiefer Lee
   - *Everybody Writes: Your Go-To Guide to Creating Ridiculously Good Content* by Ann Handley
 
-![In progress](style-references_files/activity-large.gif)
+![In progress](media/style-references/activity-large.gif)
 
 URL :

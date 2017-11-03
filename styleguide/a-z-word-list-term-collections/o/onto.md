@@ -6,10 +6,10 @@ Loading...
 
 onto
 
-![Copy URL](onto_files/Copy.png)
+![Copy URL](media/onto/Copy.png)
 Copy URL
 
-![Download](onto_files/Download.png)
+![Download](media/onto/Download.png)
 
 Download topic
 
@@ -17,6 +17,6 @@ Use one word (*onto*) to indicate moving something to a position on top of somet
 
 **See also**  [sign in, sign out](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28799)
 
-![In progress](onto_files/activity-large.gif)
+![In progress](media/onto/activity-large.gif)
 
 URL :

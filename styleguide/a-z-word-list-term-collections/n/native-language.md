@@ -6,15 +6,15 @@ Loading...
 
 native language
 
-![Copy URL](native-language_files/Copy.png)
+![Copy URL](media/native-language/Copy.png)
 Copy URL
 
-![Download](native-language_files/Download.png)
+![Download](media/native-language/Download.png)
 
 Download topic
 
 Don't use to refer to a computer system's machine language. Use *machine language* or *host language* instead.
 
-![In progress](native-language_files/activity-large.gif)
+![In progress](media/native-language/activity-large.gif)
 
 URL :

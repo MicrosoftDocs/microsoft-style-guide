@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Word choice
 
-![Copy URL](index_files/Copy.png)
+![Copy URL](media/index/Copy.png)
 Copy URL
 
-![Download](index_files/Download.png)
+![Download](media/index/Download.png)
 
 Download topic
 
@@ -29,6 +29,6 @@ This section provides tips for choosing the right words for the job:
 
 For information about specific words and phrases, refer to the [A–Z word list](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25512), your group’s editorial style guide, and [*The American Heritage Dictionary*](https://ahdictionary.com/).
 
-![In progress](index_files/activity-large.gif)
+![In progress](media/index/activity-large.gif)
 
 URL :

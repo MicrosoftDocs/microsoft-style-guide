@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 gray, grayed out
 
-![Copy URL](gray-grayed-out_files/Copy.png)
+![Copy URL](media/gray-grayed-out/Copy.png)
 Copy URL
 
-![Download](gray-grayed-out_files/Download.png)
+![Download](media/gray-grayed-out/Download.png)
 
 Download topic
 
@@ -24,6 +24,6 @@ Selected effects appear shaded.
 
 See also [disable, disabled](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33643), [unavailable](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33644)
 
-![In progress](gray-grayed-out_files/activity-large.gif)
+![In progress](media/gray-grayed-out/activity-large.gif)
 
 URL :

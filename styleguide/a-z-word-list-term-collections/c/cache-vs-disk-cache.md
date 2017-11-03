@@ -6,10 +6,10 @@ Loading...
 
 cache vs. disk cache
 
-![Copy URL](cache-vs-disk-cache_files/Copy.png)
+![Copy URL](media/cache-vs-disk-cache/Copy.png)
 Copy URL
 
-![Download](cache-vs-disk-cache_files/Download.png)
+![Download](media/cache-vs-disk-cache/Download.png)
 
 Download topic
 
@@ -20,6 +20,6 @@ Differentiate between *cache* and *disk cache*.
 
 Don't use *cache* or *file cache* to refer to the location of internet files that are downloaded as you browse the web. Use *Temporary Internet Files folder*.
 
-![In progress](cache-vs-disk-cache_files/activity-large.gif)
+![In progress](media/cache-vs-disk-cache/activity-large.gif)
 
 URL :

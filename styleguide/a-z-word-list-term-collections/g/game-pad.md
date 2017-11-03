@@ -6,15 +6,15 @@ Loading...
 
 game pad
 
-![Copy URL](game-pad_files/Copy.png)
+![Copy URL](media/game-pad/Copy.png)
 Copy URL
 
-![Download](game-pad_files/Download.png)
+![Download](media/game-pad/Download.png)
 
 Download topic
 
 Two words. 
 
-![In progress](game-pad_files/activity-large.gif)
+![In progress](media/game-pad/activity-large.gif)
 
 URL :

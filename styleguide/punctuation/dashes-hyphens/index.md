@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Dashes and hyphens
 
-![Copy URL](index_files/Copy.png)
+![Copy URL](media/index/Copy.png)
 Copy URL
 
-![Download](index_files/Download.png)
+![Download](media/index/Download.png)
 
 Download topic
 
@@ -21,6 +21,6 @@ Dashes and hyphens aren’t interchangeable. Follow these guidelines to help you
     Use in ranges of numbers and dates, in negative numbers, and as a minus
     sign. Use to connect compound modifiers under specific conditions.
 
-![In progress](index_files/activity-large.gif)
+![In progress](media/index/activity-large.gif)
 
 URL :

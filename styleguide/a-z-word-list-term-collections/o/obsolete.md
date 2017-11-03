@@ -6,15 +6,15 @@ Loading...
 
 obsolete
 
-![Copy URL](obsolete_files/Copy.png)
+![Copy URL](media/obsolete/Copy.png)
 Copy URL
 
-![Download](obsolete_files/Download.png)
+![Download](media/obsolete/Download.png)
 
 Download topic
 
 Don't use as a verb. Use a phrase such as *make obsolete* instead.
 
-![In progress](obsolete_files/activity-large.gif)
+![In progress](media/obsolete/activity-large.gif)
 
 URL :

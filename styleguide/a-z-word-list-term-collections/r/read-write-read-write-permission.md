@@ -6,10 +6,10 @@ Loading...
 
 read/write, read/write permission
 
-![Copy URL](read-write-read-write-permission_files/Copy.png)
+![Copy URL](media/read-write-read-write-permission/Copy.png)
 Copy URL
 
-![Download](read-write-read-write-permission_files/Download.png)
+![Download](media/read-write-read-write-permission/Download.png)
 
 Download topic
 
@@ -17,6 +17,6 @@ Use instead of *read-write.* Capitalize both *read* and *write* if the context r
 
 Use *read/write permission*, not *read/write access*. 
 
-![In progress](read-write-read-write-permission_files/activity-large.gif)
+![In progress](media/read-write-read-write-permission/activity-large.gif)
 
 URL :

@@ -6,10 +6,10 @@ Loading...
 
 foo, foobar, fubar
 
-![Copy URL](foo-foobar-fubar_files/Copy.png)
+![Copy URL](media/foo-foobar-fubar/Copy.png)
 Copy URL
 
-![Download](foo-foobar-fubar_files/Download.png)
+![Download](media/foo-foobar-fubar/Download.png)
 
 Download topic
 
@@ -20,6 +20,6 @@ these words as placeholders or variable names in content for a
 technical audience, but if you can, use another placeholder instead,
 such as *Example.exe*.
 
-![In progress](foo-foobar-fubar_files/activity-large.gif)
+![In progress](media/foo-foobar-fubar/activity-large.gif)
 
 URL :

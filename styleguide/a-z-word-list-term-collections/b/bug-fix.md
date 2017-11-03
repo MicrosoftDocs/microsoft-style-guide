@@ -6,15 +6,15 @@ Loading...
 
 bug fix
 
-![Copy URL](bug-fix_files/Copy.png)
+![Copy URL](media/bug-fix/Copy.png)
 Copy URL
 
-![Download](bug-fix_files/Download.png)
+![Download](media/bug-fix/Download.png)
 
 Download topic
 
 Don't use. To describe the general category of fixes for an issue, use *software update*. 
 
-![In progress](bug-fix_files/activity-large.gif)
+![In progress](media/bug-fix/activity-large.gif)
 
 URL :

@@ -6,10 +6,10 @@ Loading...
 
 function
 
-![Copy URL](function_files/Copy.png)
+![Copy URL](media/function/Copy.png)
 Copy URL
 
-![Download](function_files/Download.png)
+![Download](media/function/Download.png)
 
 Download topic
 
@@ -21,6 +21,6 @@ Examples
 A RESTful API uses HTTP requests to get, put, post, and delete data.
 Every C++ program has at least one function, which is main().
 
-![In progress](function_files/activity-large.gif)
+![In progress](media/function/activity-large.gif)
 
 URL :

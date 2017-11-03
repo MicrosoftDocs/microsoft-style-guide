@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Procedures and instructions checklist
 
-![Copy URL](procedures-instructions-checklist_files/Copy.png)
+![Copy URL](media/procedures-instructions-checklist/Copy.png)
 Copy URL
 
-![Download](procedures-instructions-checklist_files/Download.png)
+![Download](media/procedures-instructions-checklist/Download.png)
 
 Download topic
 
@@ -120,6 +120,6 @@ If you need to document multiple ways to perform a task, use one of these method
 
 Learn more about [multiple input methods](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=29028).
 
-![In progress](procedures-instructions-checklist_files/activity-large.gif)
+![In progress](media/procedures-instructions-checklist/activity-large.gif)
 
 URL :

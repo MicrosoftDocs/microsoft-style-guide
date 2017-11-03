@@ -6,10 +6,10 @@ Loading...
 
 program file
 
-![Copy URL](program-file_files/Copy.png)
+![Copy URL](media/program-file/Copy.png)
 Copy URL
 
-![Download](program-file_files/Download.png)
+![Download](media/program-file/Download.png)
 
 Download topic
 
@@ -17,6 +17,6 @@ It's OK to use *program file* as an alternative to *executable file* in content 
 
 Don't use *app file* or *application file.*
 
-![In progress](program-file_files/activity-large.gif)
+![In progress](media/program-file/activity-large.gif)
 
 URL :

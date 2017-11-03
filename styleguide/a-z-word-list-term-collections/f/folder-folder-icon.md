@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 folder, folder icon
 
-![Copy URL](folder-folder-icon_files/Copy.png)
+![Copy URL](media/folder-folder-icon/Copy.png)
 Copy URL
 
-![Download](folder-folder-icon_files/Download.png)
+![Download](media/folder-folder-icon/Download.png)
 
 Download topic
 
@@ -34,6 +34,6 @@ The system files are in the System subdirectory in the Windows directory.
 Select the Windows **** folder.
 Select Documents, and then select the file you want.
 
-![In progress](folder-folder-icon_files/activity-large.gif)
+![In progress](media/folder-folder-icon/activity-large.gif)
 
 URL :

@@ -6,10 +6,10 @@ Loading...
 
 abort, abortion
 
-![Copy URL](abort-abortion_files/Copy.png)
+![Copy URL](media/abort-abortion/Copy.png)
 Copy URL
 
-![Download](abort-abortion_files/Download.png)
+![Download](media/abort-abortion/Download.png)
 
 Download topic
 
@@ -29,6 +29,6 @@ in comments and descriptions.
   - *Stop:* use for hardware operations.
   - *Cancel:* use for requests and processes. 
 
-![In progress](abort-abortion_files/activity-large.gif)
+![In progress](media/abort-abortion/activity-large.gif)
 
 URL :

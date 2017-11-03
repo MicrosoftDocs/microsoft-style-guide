@@ -6,15 +6,15 @@ Loading...
 
 administer
 
-![Copy URL](administer_files/Copy.png)
+![Copy URL](media/administer/Copy.png)
 Copy URL
 
-![Download](administer_files/Download.png)
+![Download](media/administer/Download.png)
 
 Download topic
 
 Use instead of *administrate*.
 
-![In progress](administer_files/activity-large.gif)
+![In progress](media/administer/activity-large.gif)
 
 URL :

@@ -6,10 +6,10 @@ Loading...
 
 add
 
-![Copy URL](add_files/Copy.png)
+![Copy URL](media/add/Copy.png)
 Copy URL
 
-![Download](add_files/Download.png)
+![Download](media/add/Download.png)
 
 Download topic
 
@@ -19,6 +19,6 @@ Don't use *add* to refer to installing apps and programs. Use *install* instead.
 
 **See also** [install](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32283)
 
-![In progress](add_files/activity-large.gif)
+![In progress](media/add/activity-large.gif)
 
 URL :

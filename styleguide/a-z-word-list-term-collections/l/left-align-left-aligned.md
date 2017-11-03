@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 left align, left-aligned
 
-![Copy URL](left-align-left-aligned_files/Copy.png)
+![Copy URL](media/left-align-left-aligned/Copy.png)
 Copy URL
 
-![Download](left-align-left-aligned_files/Download.png)
+![Download](media/left-align-left-aligned/Download.png)
 
 Download topic
 
@@ -17,6 +17,6 @@ Use to refer to text that's aligned at the left margin. Always hyphenate *left-a
 
 See also [justify, justified](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28815), [right align, right-aligned](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28819)
 
-![In progress](left-align-left-aligned_files/activity-large.gif)
+![In progress](media/left-align-left-aligned/activity-large.gif)
 
 URL :

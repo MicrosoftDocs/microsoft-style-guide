@@ -6,10 +6,10 @@ Loading...
 
 spam
 
-![Copy URL](spam_files/Copy.png)
+![Copy URL](media/spam/Copy.png)
 Copy URL
 
-![Download](spam_files/Download.png)
+![Download](media/spam/Download.png)
 
 Download topic
 
@@ -21,6 +21,6 @@ Don't use to refer generally to commercial email, such as bulk email sent to a c
 
 Don't use *spam* as a verb.
 
-![In progress](spam_files/activity-large.gif)
+![In progress](media/spam/activity-large.gif)
 
 URL :

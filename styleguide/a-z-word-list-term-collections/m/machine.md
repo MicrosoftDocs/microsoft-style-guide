@@ -6,10 +6,10 @@ Loading...
 
 machine
 
-![Copy URL](machine_files/Copy.png)
+![Copy URL](media/machine/Copy.png)
 Copy URL
 
-![Download](machine_files/Download.png)
+![Download](media/machine/Download.png)
 
 Download topic
 
@@ -24,6 +24,6 @@ A signed machine certificate uniquely identifies the computer.
 
 **See also** [Computer and device term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26597)
 
-![In progress](machine_files/activity-large.gif)
+![In progress](media/machine/activity-large.gif)
 
 URL :

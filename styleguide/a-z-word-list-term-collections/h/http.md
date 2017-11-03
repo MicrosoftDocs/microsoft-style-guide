@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 HTTP
 
-![Copy URL](http_files/Copy.png)
+![Copy URL](media/http/Copy.png)
 Copy URL
 
-![Download](http_files/Download.png)
+![Download](media/http/Download.png)
 
 Download topic
 
@@ -24,6 +24,6 @@ In general, omit *http://* from a URL. If for some reason you need to include *h
 
 See also [](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=34905)[URLs and web addresses](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=34905)
 
-![In progress](http_files/activity-large.gif)
+![In progress](media/http/activity-large.gif)
 
 URL :

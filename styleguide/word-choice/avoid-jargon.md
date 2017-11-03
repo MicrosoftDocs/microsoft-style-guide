@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Avoid jargon
 
-![Copy URL](avoid-jargon_files/Copy.png)
+![Copy URL](media/avoid-jargon/Copy.png)
 Copy URL
 
-![Download](avoid-jargon_files/Download.png)
+![Download](media/avoid-jargon/Download.png)
 
 Download topic
 
@@ -36,6 +36,6 @@ Differentiating jargon from technical terminology is tricky. First, check the [A
   - If the term is used in *The Wall Street Journal* or *The New York Times*, or in general-interest magazines, such as *Time* or *Newsweek*, it might be appropriate for some audiences.
   - If the term is used in technical periodicals such as *CNET* or *Re/code*, it's probably OK to use for technical audiences.
 
-![In progress](avoid-jargon_files/activity-large.gif)
+![In progress](media/avoid-jargon/activity-large.gif)
 
 URL :

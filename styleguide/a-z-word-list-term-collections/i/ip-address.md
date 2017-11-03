@@ -6,15 +6,15 @@ Loading...
 
 IP address
 
-![Copy URL](ip-address_files/Copy.png)
+![Copy URL](media/ip-address/Copy.png)
 Copy URL
 
-![Download](ip-address_files/Download.png)
+![Download](media/ip-address/Download.png)
 
 Download topic
 
 Don't spell out. 
 
-![In progress](ip-address_files/activity-large.gif)
+![In progress](media/ip-address/activity-large.gif)
 
 URL :

@@ -6,15 +6,15 @@ Loading...
 
 file attributes
 
-![Copy URL](file-attributes_files/Copy.png)
+![Copy URL](media/file-attributes/Copy.png)
 Copy URL
 
-![Download](file-attributes_files/Download.png)
+![Download](media/file-attributes/Download.png)
 
 Download topic
 
 Use lowercase for file attributes such as *hidden*, *system*, *read-only*, and *archive*.
 
-![In progress](file-attributes_files/activity-large.gif)
+![In progress](media/file-attributes/activity-large.gif)
 
 URL :

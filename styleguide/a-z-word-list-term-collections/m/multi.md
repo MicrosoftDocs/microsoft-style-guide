@@ -6,10 +6,10 @@ Loading...
 
 multi-
 
-![Copy URL](multi_files/Copy.png)
+![Copy URL](media/multi/Copy.png)
 Copy URL
 
-![Download](multi_files/Download.png)
+![Download](media/multi/Download.png)
 
 Download topic
 
@@ -29,6 +29,6 @@ multiuser
 
 To learn more about hyphenation, see [Hyphens](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28765).
 
-![In progress](multi_files/activity-large.gif)
+![In progress](media/multi/activity-large.gif)
 
 URL :

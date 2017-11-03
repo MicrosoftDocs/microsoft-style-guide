@@ -6,15 +6,15 @@ Loading...
 
 defragment
 
-![Copy URL](defragment_files/Copy.png)
+![Copy URL](media/defragment/Copy.png)
 Copy URL
 
-![Download](defragment_files/Download.png)
+![Download](media/defragment/Download.png)
 
 Download topic
 
 Don't abbreviate to *defrag*.
 
-![In progress](defragment_files/activity-large.gif)
+![In progress](media/defragment/activity-large.gif)
 
 URL :

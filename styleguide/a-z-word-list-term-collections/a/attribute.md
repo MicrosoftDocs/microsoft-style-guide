@@ -6,10 +6,10 @@ Loading...
 
 attribute
 
-![Copy URL](attribute_files/Copy.png)
+![Copy URL](media/attribute/Copy.png)
 Copy URL
 
-![Download](attribute_files/Download.png)
+![Download](media/attribute/Download.png)
 
 Download topic
 
@@ -17,6 +17,6 @@ Don't use as a synonym for *property*.
 
 **See** [property](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32546)
 
-![In progress](attribute_files/activity-large.gif)
+![In progress](media/attribute/activity-large.gif)
 
 URL :

@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 to-do
 
-![Copy URL](to-do_files/Copy.png)
+![Copy URL](media/to-do/Copy.png)
 Copy URL
 
-![Download](to-do_files/Download.png)
+![Download](media/to-do/Download.png)
 
 Download topic
 
@@ -19,6 +19,6 @@ Examples
 items on your to-do list
 Here's what you need to do.
 
-![In progress](to-do_files/activity-large.gif)
+![In progress](media/to-do/activity-large.gif)
 
 URL :

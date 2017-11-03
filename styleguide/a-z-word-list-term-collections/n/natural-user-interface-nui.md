@@ -6,15 +6,15 @@ Loading...
 
 natural user interface, NUI
 
-![Copy URL](natural-user-interface-nui_files/Copy.png)
+![Copy URL](media/natural-user-interface-nui/Copy.png)
 Copy URL
 
-![Download](natural-user-interface-nui_files/Download.png)
+![Download](media/natural-user-interface-nui/Download.png)
 
 Download topic
 
 Don't use *natural user interface* in content for a general audience. Don't abbreviate as *NUI.*
 
-![In progress](natural-user-interface-nui_files/activity-large.gif)
+![In progress](media/natural-user-interface-nui/activity-large.gif)
 
 URL :

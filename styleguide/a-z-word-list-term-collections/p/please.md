@@ -6,10 +6,10 @@ Loading...
 
 please
 
-![Copy URL](please_files/Copy.png)
+![Copy URL](media/please/Copy.png)
 Copy URL
 
-![Download](please_files/Download.png)
+![Download](media/please/Download.png)
 
 Download topic
 
@@ -20,6 +20,6 @@ inconvenient or the application or site is to blame for the situation.
 Examples
 The network connection was lost. Please reenter your password. 
 
-![In progress](please_files/activity-large.gif)
+![In progress](media/please/activity-large.gif)
 
 URL :

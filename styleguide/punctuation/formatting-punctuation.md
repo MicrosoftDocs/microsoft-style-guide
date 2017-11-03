@@ -6,10 +6,10 @@ Loading...
 
 Formatting punctuation
 
-![Copy URL](formatting-punctuation_files/Copy.png)
+![Copy URL](media/formatting-punctuation/Copy.png)
 Copy URL
 
-![Download](formatting-punctuation_files/Download.png)
+![Download](media/formatting-punctuation/Download.png)
 
 Download topic
 
@@ -48,6 +48,6 @@ Example Open any Office app and select File \> Account. (If you're doing this in
 
 Use the same font style for the closing parenthesis or bracket that you use for the opening parenthesis or bracket. 
 
-![In progress](formatting-punctuation_files/activity-large.gif)
+![In progress](media/formatting-punctuation/activity-large.gif)
 
 URL :

@@ -6,10 +6,10 @@ Loading...
 
 Legal red flag terms
 
-![Copy URL](legal-red-flag-terms_files/Copy.png)
+![Copy URL](media/legal-red-flag-terms/Copy.png)
 Copy URL
 
-![Download](legal-red-flag-terms_files/Download.png)
+![Download](media/legal-red-flag-terms/Download.png)
 
 Download topic
 
@@ -23,6 +23,6 @@ The following words have specific legal meanings. Review [Red flag terms in adve
   - New
   - Partnership and business relationships
 
-![In progress](legal-red-flag-terms_files/activity-large.gif)
+![In progress](media/legal-red-flag-terms/activity-large.gif)
 
 URL :

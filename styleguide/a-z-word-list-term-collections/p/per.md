@@ -6,10 +6,10 @@ Loading...
 
 per
 
-![Copy URL](per_files/Copy.png)
+![Copy URL](media/per/Copy.png)
 Copy URL
 
-![Download](per_files/Download.png)
+![Download](media/per/Download.png)
 
 Download topic
 
@@ -25,6 +25,6 @@ Examples
 Find all the topics that contain a specific word by following the instructions on your screen. 
 Identify your computer by using the procedure in the next section.
 
-![In progress](per_files/activity-large.gif)
+![In progress](media/per/activity-large.gif)
 
 URL :

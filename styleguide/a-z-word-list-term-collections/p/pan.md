@@ -6,15 +6,15 @@ Loading...
 
 pan
 
-![Copy URL](pan_files/Copy.png)
+![Copy URL](media/pan/Copy.png)
 Copy URL
 
-![Download](pan_files/Download.png)
+![Download](media/pan/Download.png)
 
 Download topic
 
 **See** [Touch and pen interaction term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=29032)
 
-![In progress](pan_files/activity-large.gif)
+![In progress](media/pan/activity-large.gif)
 
 URL :

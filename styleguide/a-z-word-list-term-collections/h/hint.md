@@ -6,15 +6,15 @@ Loading...
 
 hint
 
-![Copy URL](hint_files/Copy.png)
+![Copy URL](media/hint/Copy.png)
 Copy URL
 
-![Download](hint_files/Download.png)
+![Download](media/hint/Download.png)
 
 Download topic
 
 Don't use *hint* as a heading for a type of note. Use *tip* instead.
 
-![In progress](hint_files/activity-large.gif)
+![In progress](media/hint/activity-large.gif)
 
 URL :

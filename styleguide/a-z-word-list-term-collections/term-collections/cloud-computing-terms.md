@@ -6,10 +6,10 @@ Loading...
 
 Cloud-computing terms
 
-![Copy URL](cloud-computing-terms_files/Copy.png)
+![Copy URL](media/cloud-computing-terms/Copy.png)
 Copy URL
 
-![Download](cloud-computing-terms_files/Download.png)
+![Download](media/cloud-computing-terms/Download.png)
 
 Download topic
 
@@ -178,6 +178,6 @@ Don’t hyphenate as a modifier, but include the abbreviated form in parentheses
 </tbody>
 </table>
 
-![In progress](cloud-computing-terms_files/activity-large.gif)
+![In progress](media/cloud-computing-terms/activity-large.gif)
 
 URL :

@@ -6,10 +6,10 @@ Loading...
 
 null, NULL, Null
 
-![Copy URL](null_files/Copy.png)
+![Copy URL](media/null/Copy.png)
 Copy URL
 
-![Download](null_files/Download.png)
+![Download](media/null/Download.png)
 
 Download topic
 
@@ -17,6 +17,6 @@ Use lowercase *null* to refer to a null value. Better yet, use *null value* to a
 
 Use NULL or Null (depending on the language) only to refer to the constant.
 
-![In progress](null_files/activity-large.gif)
+![In progress](media/null/activity-large.gif)
 
 URL :

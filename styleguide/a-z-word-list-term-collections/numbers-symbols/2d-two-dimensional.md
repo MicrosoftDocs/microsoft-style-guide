@@ -6,10 +6,10 @@ Loading...
 
 2D, two-dimensional
 
-![Copy URL](2d-two-dimensional_files/Copy.png)
+![Copy URL](media/2d-two-dimensional/Copy.png)
 Copy URL
 
-![Download](2d-two-dimensional_files/Download.png)
+![Download](media/2d-two-dimensional/Download.png)
 
 Download topic
 
@@ -17,6 +17,6 @@ Spell out on the first mention if your audience may be unfamiliar with the term.
 
 Always hyphenate *two-dimensional*.
 
-![In progress](2d-two-dimensional_files/activity-large.gif)
+![In progress](media/2d-two-dimensional/activity-large.gif)
 
 URL :

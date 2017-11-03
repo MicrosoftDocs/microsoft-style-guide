@@ -6,10 +6,10 @@ Loading...
 
 hyperlink
 
-![Copy URL](hyperlink_files/Copy.png)
+![Copy URL](media/hyperlink/Copy.png)
 Copy URL
 
-![Download](hyperlink_files/Download.png)
+![Download](media/hyperlink/Download.png)
 
 Download topic
 
@@ -32,6 +32,6 @@ On the Insert tab, select Hyperlink in the Links group.
 
 **See also** [URLs and web addresses](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=34905), [Describing interactions with UI](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26472)
 
-![In progress](hyperlink_files/activity-large.gif)
+![In progress](media/hyperlink/activity-large.gif)
 
 URL :

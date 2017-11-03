@@ -6,10 +6,10 @@ Loading...
 
 spell checker
 
-![Copy URL](spell-checker_files/Copy.png)
+![Copy URL](media/spell-checker/Copy.png)
 Copy URL
 
-![Download](spell-checker_files/Download.png)
+![Download](media/spell-checker/Download.png)
 
 Download topic
 
@@ -24,6 +24,6 @@ Use the Spelling and Grammar tool to check spelling in the document.
 Check the spelling in the document.
 Use a spell checker to find spelling errors in your document. 
 
-![In progress](spell-checker_files/activity-large.gif)
+![In progress](media/spell-checker/activity-large.gif)
 
 URL :

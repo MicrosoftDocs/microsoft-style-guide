@@ -6,15 +6,15 @@ Loading...
 
 RAM
 
-![Copy URL](ram_files/Copy.png)
+![Copy URL](media/ram/Copy.png)
 Copy URL
 
-![Download](ram_files/Download.png)
+![Download](media/ram/Download.png)
 
 Download topic
 
 **See** [memory](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35450)
 
-![In progress](ram_files/activity-large.gif)
+![In progress](media/ram/activity-large.gif)
 
 URL :

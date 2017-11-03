@@ -6,15 +6,15 @@ Loading...
 
 big data
 
-![Copy URL](big-data_files/Copy.png)
+![Copy URL](media/big-data/Copy.png)
 Copy URL
 
-![Download](big-data_files/Download.png)
+![Download](media/big-data/Download.png)
 
 Download topic
 
 Don't capitalize.
 
-![In progress](big-data_files/activity-large.gif)
+![In progress](media/big-data/activity-large.gif)
 
 URL :

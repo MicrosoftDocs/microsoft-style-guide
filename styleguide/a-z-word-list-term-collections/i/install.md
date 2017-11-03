@@ -6,10 +6,10 @@ Loading...
 
 install
 
-![Copy URL](install_files/Copy.png)
+![Copy URL](media/install/Copy.png)
 Copy URL
 
-![Download](install_files/Download.png)
+![Download](media/install/Download.png)
 
 Download topic
 
@@ -19,6 +19,6 @@ Don't use *install* as a noun. Use *installation* instead.
 
 **See also** [add](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32282)
 
-![In progress](install_files/activity-large.gif)
+![In progress](media/install/activity-large.gif)
 
 URL :

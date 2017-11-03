@@ -6,10 +6,10 @@ Loading...
 
 antispyware
 
-![Copy URL](antispyware_files/Copy.png)
+![Copy URL](media/antispyware/Copy.png)
 Copy URL
 
-![Download](antispyware_files/Download.png)
+![Download](media/antispyware/Download.png)
 
 Download topic
 
@@ -17,6 +17,6 @@ Use only as an adjective. Don't hyphenate.
 
 Example antispyware tools 
 
-![In progress](antispyware_files/activity-large.gif)
+![In progress](media/antispyware/activity-large.gif)
 
 URL :

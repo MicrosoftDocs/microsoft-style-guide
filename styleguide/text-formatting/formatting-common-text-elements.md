@@ -6,10 +6,10 @@ Loading...
 
 Formatting common text elements
 
-![Copy URL](formatting-common-text-elements_files/Copy.png)
+![Copy URL](media/formatting-common-text-elements/Copy.png)
 Copy URL
 
-![Download](formatting-common-text-elements_files/Download.png)
+![Download](media/formatting-common-text-elements/Download.png)
 
 Download topic
 
@@ -152,6 +152,6 @@ See also
 </tbody>
 </table>
 
-![In progress](formatting-common-text-elements_files/activity-large.gif)
+![In progress](media/formatting-common-text-elements/activity-large.gif)
 
 URL :

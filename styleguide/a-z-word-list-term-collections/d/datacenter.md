@@ -6,15 +6,15 @@ Loading...
 
 datacenter
 
-![Copy URL](datacenter_files/Copy.png)
+![Copy URL](media/datacenter/Copy.png)
 Copy URL
 
-![Download](datacenter_files/Download.png)
+![Download](media/datacenter/Download.png)
 
 Download topic
 
 One word.
 
-![In progress](datacenter_files/activity-large.gif)
+![In progress](media/datacenter/activity-large.gif)
 
 URL :

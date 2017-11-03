@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Microsoft account
 
-![Copy URL](microsoft-account_files/Copy.png)
+![Copy URL](media/microsoft-account/Copy.png)
 Copy URL
 
-![Download](microsoft-account_files/Download.png)
+![Download](media/microsoft-account/Download.png)
 
 Download topic
 
@@ -29,6 +29,6 @@ Example This
 contact info is from your Microsoft account. Friends who have it will
 be able to find you on Skype. Would you like to add it?
 
-![In progress](microsoft-account_files/activity-large.gif)
+![In progress](media/microsoft-account/activity-large.gif)
 
 URL :

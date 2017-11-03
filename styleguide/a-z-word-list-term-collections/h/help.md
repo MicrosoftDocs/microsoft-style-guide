@@ -6,10 +6,10 @@ Loading...
 
 Help
 
-![Copy URL](help_files/Copy.png)
+![Copy URL](media/help/Copy.png)
 Copy URL
 
-![Download](help_files/Download.png)
+![Download](media/help/Download.png)
 
 Download topic
 
@@ -19,6 +19,6 @@ It's OK to use *definition Help, context-sensitive Help*, and *online Help files
 
 Example Word Help
 
-![In progress](help_files/activity-large.gif)
+![In progress](media/help/activity-large.gif)
 
 URL :

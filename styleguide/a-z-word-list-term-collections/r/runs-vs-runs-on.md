@@ -6,10 +6,10 @@ Loading...
 
 runs vs. runs on
 
-![Copy URL](runs-vs-runs-on_files/Copy.png)
+![Copy URL](media/runs-vs-runs-on/Copy.png)
 Copy URL
 
-![Download](runs-vs-runs-on_files/Download.png)
+![Download](media/runs-vs-runs-on/Download.png)
 
 Download topic
 
@@ -22,6 +22,6 @@ Office 2016 runs on the following versions of Windows: Windows
 Server, Windows Server 2012 R2, Windows Server 2012, and Windows Server
 2008 R2.
 
-![In progress](runs-vs-runs-on_files/activity-large.gif)
+![In progress](media/runs-vs-runs-on/activity-large.gif)
 
 URL :

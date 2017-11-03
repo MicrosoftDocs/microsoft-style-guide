@@ -6,10 +6,10 @@ Loading...
 
 destination
 
-![Copy URL](destination_files/Copy.png)
+![Copy URL](media/destination/Copy.png)
 Copy URL
 
-![Download](destination_files/Download.png)
+![Download](media/destination/Download.png)
 
 Download topic
 
@@ -21,6 +21,6 @@ stored. Use *destination* as a modifier only if necessary for clarity.
 
 Don't use *target* as a synonym.
 
-![In progress](destination_files/activity-large.gif)
+![In progress](media/destination/activity-large.gif)
 
 URL :

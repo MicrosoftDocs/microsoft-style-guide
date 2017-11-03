@@ -6,15 +6,15 @@ Loading...
 
 nanosecond
 
-![Copy URL](nanosecond_files/Copy.png)
+![Copy URL](media/nanosecond/Copy.png)
 Copy URL
 
-![Download](nanosecond_files/Download.png)
+![Download](media/nanosecond/Download.png)
 
 Download topic
 
 See [Date and time term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=27390)
 
-![In progress](nanosecond_files/activity-large.gif)
+![In progress](media/nanosecond/activity-large.gif)
 
 URL :

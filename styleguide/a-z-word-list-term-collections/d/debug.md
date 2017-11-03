@@ -6,15 +6,15 @@ Loading...
 
 debug
 
-![Copy URL](debug_files/Copy.png)
+![Copy URL](media/debug/Copy.png)
 Copy URL
 
-![Download](debug_files/Download.png)
+![Download](media/debug/Download.png)
 
 Download topic
 
 Use only in the context of software development. Don't use as a synonym for *troubleshoot*. 
 
-![In progress](debug_files/activity-large.gif)
+![In progress](media/debug/activity-large.gif)
 
 URL :

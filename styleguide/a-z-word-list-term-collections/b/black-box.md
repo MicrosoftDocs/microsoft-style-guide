@@ -6,15 +6,15 @@ Loading...
 
 black box
 
-![Copy URL](black-box_files/Copy.png)
+![Copy URL](media/black-box/Copy.png)
 Copy URL
 
-![Download](black-box_files/Download.png)
+![Download](media/black-box/Download.png)
 
 Download topic
 
 Don't use. 
 
-![In progress](black-box_files/activity-large.gif)
+![In progress](media/black-box/activity-large.gif)
 
 URL :

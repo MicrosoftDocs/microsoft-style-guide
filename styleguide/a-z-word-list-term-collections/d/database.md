@@ -6,15 +6,15 @@ Loading...
 
 database
 
-![Copy URL](database_files/Copy.png)
+![Copy URL](media/database/Copy.png)
 Copy URL
 
-![Download](database_files/Download.png)
+![Download](media/database/Download.png)
 
 Download topic
 
 One word.
 
-![In progress](database_files/activity-large.gif)
+![In progress](media/database/activity-large.gif)
 
 URL :

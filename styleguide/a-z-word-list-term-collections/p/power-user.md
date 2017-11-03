@@ -6,15 +6,15 @@ Loading...
 
 power user
 
-![Copy URL](power-user_files/Copy.png)
+![Copy URL](media/power-user/Copy.png)
 Copy URL
 
-![Download](power-user_files/Download.png)
+![Download](media/power-user/Download.png)
 
 Download topic
 
 Don't use to mean that someone must be an expert to use certain programs or features. Instead, identify the specific knowledge or skill that's required.
 
-![In progress](power-user_files/activity-large.gif)
+![In progress](media/power-user/activity-large.gif)
 
 URL :

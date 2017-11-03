@@ -6,15 +6,15 @@ Loading...
 
 search box
 
-![Copy URL](search-box_files/Copy.png)
+![Copy URL](media/search-box/Copy.png)
 Copy URL
 
-![Download](search-box_files/Download.png)
+![Download](media/search-box/Download.png)
 
 Download topic
 
 Don't capitalize unless you need to match the UI.
 
-![In progress](search-box_files/activity-large.gif)
+![In progress](media/search-box/activity-large.gif)
 
 URL :

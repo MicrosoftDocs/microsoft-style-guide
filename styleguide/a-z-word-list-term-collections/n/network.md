@@ -6,10 +6,10 @@ Loading...
 
 network
 
-![Copy URL](network_files/Copy.png)
+![Copy URL](media/network/Copy.png)
 Copy URL
 
-![Download](network_files/Download.png)
+![Download](media/network/Download.png)
 
 Download topic
 
@@ -21,6 +21,6 @@ A computer is *on*, not *in*, a network, and computers on a network are *linked*
 
 Use *network* as a verb and the noun *networking* only to describe making personal and business connections.
 
-![In progress](network_files/activity-large.gif)
+![In progress](media/network/activity-large.gif)
 
 URL :

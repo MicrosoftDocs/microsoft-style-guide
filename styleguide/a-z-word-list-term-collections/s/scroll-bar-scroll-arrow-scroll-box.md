@@ -6,10 +6,10 @@ Loading...
 
 scroll bar, scroll arrow, scroll box
 
-![Copy URL](scroll-bar-scroll-arrow-scroll-box_files/Copy.png)
+![Copy URL](media/scroll-bar-scroll-arrow-scroll-box/Copy.png)
 Copy URL
 
-![Download](scroll-bar-scroll-arrow-scroll-box_files/Download.png)
+![Download](media/scroll-bar-scroll-arrow-scroll-box/Download.png)
 
 Download topic
 
@@ -21,6 +21,6 @@ Don't use *slider* or *slider box* as a synonym for *scroll box*.
 
 Don't use *gray* or *shaded area* to refer to the *scroll bar*.
 
-![In progress](scroll-bar-scroll-arrow-scroll-box_files/activity-large.gif)
+![In progress](media/scroll-bar-scroll-arrow-scroll-box/activity-large.gif)
 
 URL :

@@ -6,10 +6,10 @@ Loading...
 
 invalid, not valid
 
-![Copy URL](invalid-not-valid_files/Copy.png)
+![Copy URL](media/invalid-not-valid/Copy.png)
 Copy URL
 
-![Download](invalid-not-valid_files/Download.png)
+![Download](media/invalid-not-valid/Download.png)
 
 Download topic
 
@@ -21,6 +21,6 @@ Examples**
 **There are several reasons why a product key might not be valid. 
 The FileType you specified is too long. The FileType must begin with a period and can be 1 to 64 characters long.
 
-![In progress](invalid-not-valid_files/activity-large.gif)
+![In progress](media/invalid-not-valid/activity-large.gif)
 
 URL :

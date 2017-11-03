@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Security, safety, and privacy content
 
-![Copy URL](security-safety-privacy-content_files/Copy.png)
+![Copy URL](media/security-safety-privacy-content/Copy.png)
 Copy URL
 
-![Download](security-safety-privacy-content_files/Download.png)
+![Download](media/security-safety-privacy-content/Download.png)
 
 Download topic
 
@@ -55,6 +55,6 @@ For a full list of security-related terms and their definitions, see the [Micr
 
 See also [Security, safety, and privacy term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26894)
 
-![In progress](security-safety-privacy-content_files/activity-large.gif)
+![In progress](media/security-safety-privacy-content/activity-large.gif)
 
 URL :

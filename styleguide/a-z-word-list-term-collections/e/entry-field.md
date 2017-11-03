@@ -6,10 +6,10 @@ Loading...
 
 entry field
 
-![Copy URL](entry-field_files/Copy.png)
+![Copy URL](media/entry-field/Copy.png)
 Copy URL
 
-![Download](entry-field_files/Download.png)
+![Download](media/entry-field/Download.png)
 
 Download topic
 
@@ -17,6 +17,6 @@ Don't use to refer to a text-entry field. Refer to the box by its label. If you 
 
 It's OK to use *entry field* in a database context.
 
-![In progress](entry-field_files/activity-large.gif)
+![In progress](media/entry-field/activity-large.gif)
 
 URL :

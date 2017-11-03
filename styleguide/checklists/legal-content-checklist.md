@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Legal content checklist
 
-![Copy URL](legal-content-checklist_files/Copy.png)
+![Copy URL](media/legal-content-checklist/Copy.png)
 Copy URL
 
-![Download](legal-content-checklist_files/Download.png)
+![Download](media/legal-content-checklist/Download.png)
 
 Download topic
 
@@ -77,6 +77,6 @@ provides an overview of the most common legal issues in content. For complete in
 
 #### 
 
-![In progress](legal-content-checklist_files/activity-large.gif)
+![In progress](media/legal-content-checklist/activity-large.gif)
 
 URL :

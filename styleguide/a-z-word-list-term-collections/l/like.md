@@ -6,10 +6,10 @@ Loading...
 
 \-like
 
-![Copy URL](like_files/Copy.png)
+![Copy URL](media/like/Copy.png)
 Copy URL
 
-![Download](like_files/Download.png)
+![Download](media/like/Download.png)
 
 Download topic
 
@@ -22,6 +22,6 @@ computer-like
 
 To learn more about hyphenation, see [Hyphens](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28765).
 
-![In progress](like_files/activity-large.gif)
+![In progress](media/like/activity-large.gif)
 
 URL :

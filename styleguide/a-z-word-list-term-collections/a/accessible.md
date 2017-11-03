@@ -6,10 +6,10 @@ Loading...
 
 accessible
 
-![Copy URL](accessible_files/Copy.png)
+![Copy URL](media/accessible/Copy.png)
 Copy URL
 
-![Download](accessible_files/Download.png)
+![Download](media/accessible/Download.png)
 
 Download topic
 
@@ -23,6 +23,6 @@ Reading view sweeps distracting content out of your way, so it's easier to read 
 
 **See also** **** [assistive](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32272), [Accessibility guidelines and requirements](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26589)
 
-![In progress](accessible_files/activity-large.gif)
+![In progress](media/accessible/activity-large.gif)
 
 URL :

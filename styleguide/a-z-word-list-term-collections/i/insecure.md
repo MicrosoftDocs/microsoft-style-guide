@@ -6,15 +6,15 @@ Loading...
 
 insecure
 
-![Copy URL](insecure_files/Copy.png)
+![Copy URL](media/insecure/Copy.png)
 Copy URL
 
-![Download](insecure_files/Download.png)
+![Download](media/insecure/Download.png)
 
 Download topic
 
 Don't use to mean *not secure*. 
 
-![In progress](insecure_files/activity-large.gif)
+![In progress](media/insecure/activity-large.gif)
 
 URL :

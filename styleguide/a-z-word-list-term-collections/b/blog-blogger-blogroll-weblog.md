@@ -6,10 +6,10 @@ Loading...
 
 blog, blogger, blogroll, weblog
 
-![Copy URL](blog-blogger-blogroll-weblog_files/Copy.png)
+![Copy URL](media/blog-blogger-blogroll-weblog/Copy.png)
 Copy URL
 
-![Download](blog-blogger-blogroll-weblog_files/Download.png)
+![Download](media/blog-blogger-blogroll-weblog/Download.png)
 
 Download topic
 
@@ -19,6 +19,6 @@ Use *blogger* to refer to a person who writes or publishes entries for a blog.
 
 Use *blogroll* to refer to a list of links to other online content, particularly blogs, that's provided on a blog page. 
 
-![In progress](blog-blogger-blogroll-weblog_files/activity-large.gif)
+![In progress](media/blog-blogger-blogroll-weblog/activity-large.gif)
 
 URL :

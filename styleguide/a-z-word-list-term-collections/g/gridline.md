@@ -6,15 +6,15 @@ Loading...
 
 gridline
 
-![Copy URL](gridline_files/Copy.png)
+![Copy URL](media/gridline/Copy.png)
 Copy URL
 
-![Download](gridline_files/Download.png)
+![Download](media/gridline/Download.png)
 
 Download topic
 
 One word.
 
-![In progress](gridline_files/activity-large.gif)
+![In progress](media/gridline/activity-large.gif)
 
 URL :

@@ -6,10 +6,10 @@ Loading...
 
 pointer
 
-![Copy URL](pointer_files/Copy.png)
+![Copy URL](media/pointer/Copy.png)
 Copy URL
 
-![Download](pointer_files/Download.png)
+![Download](media/pointer/Download.png)
 
 Download topic
 
@@ -20,6 +20,6 @@ use *mouse pointer* and *pointer variable* as necessary to avoid ambiguity.
 
 **See** [Mouse and mouse interaction term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=29013)
 
-![In progress](pointer_files/activity-large.gif)
+![In progress](media/pointer/activity-large.gif)
 
 URL :

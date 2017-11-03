@@ -6,10 +6,10 @@ Loading...
 
 restore
 
-![Copy URL](restore_files/Copy.png)
+![Copy URL](media/restore/Copy.png)
 Copy URL
 
-![Download](restore_files/Download.png)
+![Download](media/restore/Download.png)
 
 Download topic
 
@@ -39,6 +39,6 @@ time.
 Restore the database.
 Use the RESTORE statement to specify the restore operation.
 
-![In progress](restore_files/activity-large.gif)
+![In progress](media/restore/activity-large.gif)
 
 URL :

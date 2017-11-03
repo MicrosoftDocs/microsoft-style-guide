@@ -6,10 +6,10 @@ Loading...
 
 Blogs and social media
 
-![Copy URL](social-mediablogs-social-media_files/Copy.png)
+![Copy URL](media/social-mediablogs-social-media/Copy.png)
 Copy URL
 
-![Download](social-mediablogs-social-media_files/Download.png)
+![Download](media/social-mediablogs-social-media/Download.png)
 
 Download topic
 
@@ -28,6 +28,6 @@ This section will help you manage blogs and other social media and grow communit
 
 Before you begin, read the [Microsoft blogging and social media guidelines](https://microsoft.sharepoint.com/sites/LCAWeb/Home/Marketing/Social-Media/Social-Media-Guidelines). (This page requires Microsoft network access.)
 
-![In progress](social-mediablogs-social-media_files/activity-large.gif)
+![In progress](media/social-mediablogs-social-media/activity-large.gif)
 
 URL :

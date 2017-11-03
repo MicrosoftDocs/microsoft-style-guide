@@ -6,10 +6,10 @@ Loading...
 
 Reference documentation
 
-![Copy URL](reference-documentation_files/Copy.png)
+![Copy URL](media/reference-documentation/Copy.png)
 Copy URL
 
-![Download](reference-documentation_files/Download.png)
+![Download](media/reference-documentation/Download.png)
 
 Download topic
 
@@ -130,6 +130,6 @@ aren’t suitable for documentation.
 
 **Learn more For examples of technical reference topics, see the [.NET Framework Class Library](http://msdn.microsoft.com/en-us/library/gg145045.aspx) section of the [Microsoft Developer Network (MSDN) Library](http://msdn.microsoft.com/library/).**
 
-![In progress](reference-documentation_files/activity-large.gif)
+![In progress](media/reference-documentation/activity-large.gif)
 
 URL :

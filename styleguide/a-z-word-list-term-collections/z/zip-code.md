@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 ZIP Code
 
-![Copy URL](zip-code_files/Copy.png)
+![Copy URL](media/zip-code/Copy.png)
 Copy URL
 
-![Download](zip-code_files/Download.png)
+![Download](media/zip-code/Download.png)
 
 Download topic
 
@@ -17,6 +17,6 @@ It’s OK to use *ZIP Code* in content that's intended for a US audience only. O
 
 Capitalize as shown.
 
-![In progress](zip-code_files/activity-large.gif)
+![In progress](media/zip-code/activity-large.gif)
 
 URL :

@@ -6,10 +6,10 @@ Loading...
 
 permissions
 
-![Copy URL](permissions_files/Copy.png)
+![Copy URL](media/permissions/Copy.png)
 Copy URL
 
-![Download](permissions_files/Download.png)
+![Download](media/permissions/Download.png)
 
 Download topic
 
@@ -32,6 +32,6 @@ Whenever possible, assign permissions to groups instead of users.
 
 **See also** **** [rights](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35561), [user rights](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35562)
 
-![In progress](permissions_files/activity-large.gif)
+![In progress](media/permissions/activity-large.gif)
 
 URL :

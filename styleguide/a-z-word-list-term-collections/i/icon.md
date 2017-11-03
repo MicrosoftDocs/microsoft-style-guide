@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 icon
 
-![Copy URL](icon_files/Copy.png)
+![Copy URL](media/icon/Copy.png)
 Copy URL
 
-![Download](icon_files/Download.png)
+![Download](media/icon/Download.png)
 
 Download topic
 
@@ -27,7 +27,7 @@ Don't use *icon* to refer to the buttons (Back, Start, Search, Volume, Power) on
 
 When referring to an icon, use bold formatting for the icon name. In instructions, use the name of the icon and its image, but don't use the word *icon*.
 Example
-Select Xbox ![](icon_files/1465752354.png).
+Select Xbox ![](media/icon/1465752354.png).
 
 It's OK to use the word *icon*:
 
@@ -37,8 +37,8 @@ It's OK to use the word *icon*:
   - When you need to differentiate between the Start icon and the Start button (a rare occurrence)​. 
 
 Example
-Most apps have their own settings. Look for this icon ![](icon_files/10090115.PNG) in the app.
+Most apps have their own settings. Look for this icon ![](media/icon/10090115.PNG) in the app.
 
-![In progress](icon_files/activity-large.gif)
+![In progress](media/icon/activity-large.gif)
 
 URL :

@@ -6,10 +6,10 @@ Loading...
 
 far-left, far-right
 
-![Copy URL](far-left-far-right_files/Copy.png)
+![Copy URL](media/far-left-far-right/Copy.png)
 Copy URL
 
-![Download](far-left-far-right_files/Download.png)
+![Download](media/far-left-far-right/Download.png)
 
 Download topic
 
@@ -26,6 +26,6 @@ sighted user with dyslexia can clearly see a change in the interface as
 the result of an action, such as a change in the right pane when an
 option in the left pane is selected.
 
-![In progress](far-left-far-right_files/activity-large.gif)
+![In progress](media/far-left-far-right/activity-large.gif)
 
 URL :

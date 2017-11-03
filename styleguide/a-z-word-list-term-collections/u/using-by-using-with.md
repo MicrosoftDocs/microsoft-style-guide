@@ -6,10 +6,10 @@ Loading...
 
 using, by using, with
 
-![Copy URL](using-by-using-with_files/Copy.png)
+![Copy URL](media/using-by-using-with/Copy.png)
 Copy URL
 
-![Download](using-by-using-with_files/Download.png)
+![Download](media/using-by-using-with/Download.png)
 
 Download topic
 
@@ -23,6 +23,6 @@ Don't use *with* as a synonym for *using* or *by using.* It's OK to use *with* i
 
 Example With OneDrive, you can share your favorite things across your favorite devices, including PCs, Macs, tablets, and phones.
 
-![In progress](using-by-using-with_files/activity-large.gif)
+![In progress](media/using-by-using-with/activity-large.gif)
 
 URL :

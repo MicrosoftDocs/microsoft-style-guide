@@ -6,15 +6,15 @@ Loading...
 
 wordwrap, wordwrapping
 
-![Copy URL](wordwrap-wordwrapping_files/Copy.png)
+![Copy URL](media/wordwrap-wordwrapping/Copy.png)
 Copy URL
 
-![Download](wordwrap-wordwrapping_files/Download.png)
+![Download](media/wordwrap-wordwrapping/Download.png)
 
 Download topic
 
 Don't use.
 
-![In progress](wordwrap-wordwrapping_files/activity-large.gif)
+![In progress](media/wordwrap-wordwrapping/activity-large.gif)
 
 URL :

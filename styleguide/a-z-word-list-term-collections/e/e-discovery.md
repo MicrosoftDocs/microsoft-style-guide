@@ -6,10 +6,10 @@ Loading...
 
 e-discovery
 
-![Copy URL](e-discovery_files/Copy.png)
+![Copy URL](media/e-discovery/Copy.png)
 Copy URL
 
-![Download](e-discovery_files/Download.png)
+![Download](media/e-discovery/Download.png)
 
 Download topic
 
@@ -19,6 +19,6 @@ Use *E-discovery* at the beginning of a sentence or heading. In uncommon situati
 
 See also [Capitalization](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33685)
 
-![In progress](e-discovery_files/activity-large.gif)
+![In progress](media/e-discovery/activity-large.gif)
 
 URL :

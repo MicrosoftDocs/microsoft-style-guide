@@ -6,10 +6,10 @@ Loading...
 
 legal
 
-![Copy URL](legal_files/Copy.png)
+![Copy URL](media/legal/Copy.png)
 Copy URL
 
-![Download](legal_files/Download.png)
+![Download](media/legal/Download.png)
 
 Download topic
 
@@ -17,6 +17,6 @@ Use only to refer to matters of law. Don't use to mean *valid*, as in a *valid a
 
 Example Enter a valid path name. 
 
-![In progress](legal_files/activity-large.gif)
+![In progress](media/legal/activity-large.gif)
 
 URL :

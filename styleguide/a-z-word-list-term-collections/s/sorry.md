@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 sorry
 
-![Copy URL](sorry_files/Copy.png)
+![Copy URL](media/sorry/Copy.png)
 Copy URL
 
-![Download](sorry_files/Download.png)
+![Download](media/sorry/Download.png)
 
 Download topic
 
@@ -34,6 +34,6 @@ Let's try this again.
 
 Use the [A–Z word list](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25512) and your group's editorial style guide to find preferred terms.
 
-![In progress](sorry_files/activity-large.gif)
+![In progress](media/sorry/activity-large.gif)
 
 URL :

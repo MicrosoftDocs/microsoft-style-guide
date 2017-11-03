@@ -6,10 +6,10 @@ Loading...
 
 enable, enables
 
-![Copy URL](enable-enables_files/Copy.png)
+![Copy URL](media/enable-enables/Copy.png)
 Copy URL
 
-![Download](enable-enables_files/Download.png)
+![Download](media/enable-enables/Download.png)
 
 Download topic
 
@@ -25,6 +25,6 @@ In content for a technical audience, it's OK to describe a feature or command as
 It's OK to use *enable the customer to* when you need to refer to the customer in the third person.
 Example Include this control to enable the customer to ....
 
-![In progress](enable-enables_files/activity-large.gif)
+![In progress](media/enable-enables/activity-large.gif)
 
 URL :

@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 UI text and design checklist
 
-![Copy URL](ui-text-design-checklist_files/Copy.png)
+![Copy URL](media/ui-text-design-checklist/Copy.png)
 Copy URL
 
-![Download](ui-text-design-checklist_files/Download.png)
+![Download](media/ui-text-design-checklist/Download.png)
 
 Download topic
 
@@ -46,6 +46,6 @@ Well-designed UI feels like a conversation. These tips will help get you there.
 
 **Learn more**  about [UI text and design](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28880).
 
-![In progress](ui-text-design-checklist_files/activity-large.gif)
+![In progress](media/ui-text-design-checklist/activity-large.gif)
 
 URL :

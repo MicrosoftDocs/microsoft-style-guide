@@ -6,10 +6,10 @@ Loading...
 
 value axis
 
-![Copy URL](value-axis_files/Copy.png)
+![Copy URL](media/value-axis/Copy.png)
 Copy URL
 
-![Download](value-axis_files/Download.png)
+![Download](media/value-axis/Download.png)
 
 Download topic
 
@@ -25,6 +25,6 @@ In 3D charts, the z-axis is usually the value axis.
 
 **See also** [category axis](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33517), [z-axis](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28863)
 
-![In progress](value-axis_files/activity-large.gif)
+![In progress](media/value-axis/activity-large.gif)
 
 URL :

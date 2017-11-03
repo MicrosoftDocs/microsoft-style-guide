@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+ï»¿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Final publishing check
 
-![Copy URL](final-publishing-check_files/Copy.png)
+![Copy URL](media/final-publishing-check/Copy.png)
 Copy URL
 
-![Download](final-publishing-check_files/Download.png)
+![Download](media/final-publishing-check/Download.png)
 
 Download topic
 
@@ -60,6 +60,6 @@ Take a break. Leave the finished piece alone for a day. Read it again tomorrowâ€
 
 Evaluate the voice and personality. Before you call it done, read it one final time. Can you hear the fresh and modern [Microsoft voice](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28361)? Your writing should sound warm and relaxed, crisp and clear, and ready to lend a hand.
 
-![In progress](final-publishing-check_files/activity-large.gif)
+![In progress](media/final-publishing-check/activity-large.gif)
 
 URL :

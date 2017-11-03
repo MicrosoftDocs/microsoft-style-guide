@@ -6,10 +6,10 @@ Loading...
 
 notification area
 
-![Copy URL](notification-area_files/Copy.png)
+![Copy URL](media/notification-area/Copy.png)
 Copy URL
 
-![Download](notification-area_files/Download.png)
+![Download](media/notification-area/Download.png)
 
 Download topic
 
@@ -31,6 +31,6 @@ Examples**
 **The clock appears in the notification area, at the far right of the taskbar. 
 The notification area is located at the far right of the taskbar.
 
-![In progress](notification-area_files/activity-large.gif)
+![In progress](media/notification-area/activity-large.gif)
 
 URL :

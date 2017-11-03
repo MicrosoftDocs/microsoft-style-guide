@@ -6,10 +6,10 @@ Loading...
 
 actionable
 
-![Copy URL](actionable_files/Copy.png)
+![Copy URL](media/actionable/Copy.png)
 Copy URL
 
-![Download](actionable_files/Download.png)
+![Download](media/actionable/Download.png)
 
 Download topic
 
@@ -21,6 +21,6 @@ Once identified, the problem is easy to solve.
 Aggregate customer data to make it easier to act on. 
 Aggregate customer data to make it more conducive to action.
 
-![In progress](actionable_files/activity-large.gif)
+![In progress](media/actionable/activity-large.gif)
 
 URL :

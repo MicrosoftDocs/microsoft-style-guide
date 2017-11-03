@@ -6,10 +6,10 @@ Loading...
 
 noncontiguous selection
 
-![Copy URL](noncontiguous-selection_files/Copy.png)
+![Copy URL](media/noncontiguous-selection/Copy.png)
 Copy URL
 
-![Download](noncontiguous-selection_files/Download.png)
+![Download](media/noncontiguous-selection/Download.png)
 
 Download topic
 
@@ -19,6 +19,6 @@ Use in content for a technical audience only if the term appears in the UI or AP
 
 Example To select multiple cells, select Ctrl as you select the cells. 
 
-![In progress](noncontiguous-selection_files/activity-large.gif)
+![In progress](media/noncontiguous-selection/activity-large.gif)
 
 URL :

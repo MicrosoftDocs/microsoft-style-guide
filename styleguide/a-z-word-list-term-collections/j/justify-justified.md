@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 justify, justified
 
-![Copy URL](justify-justified_files/Copy.png)
+![Copy URL](media/justify-justified/Copy.png)
 Copy URL
 
-![Download](justify-justified_files/Download.png)
+![Download](media/justify-justified/Download.png)
 
 Download topic
 
@@ -19,6 +19,6 @@ If your content has an index or a glossary that includes topics about alignment,
 
 See also [left align, left-aligned,](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28817) [right align, right-aligned](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28819)
 
-![In progress](justify-justified_files/activity-large.gif)
+![In progress](media/justify-justified/activity-large.gif)
 
 URL :

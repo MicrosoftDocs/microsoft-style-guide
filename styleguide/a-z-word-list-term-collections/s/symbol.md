@@ -6,10 +6,10 @@ Loading...
 
 symbol
 
-![Copy URL](symbol_files/Copy.png)
+![Copy URL](media/symbol/Copy.png)
 Copy URL
 
-![Download](symbol_files/Download.png)
+![Download](media/symbol/Download.png)
 
 Download topic
 
@@ -37,8 +37,8 @@ Only 75 percent of the students attended.
     definition. ****
 
 Examples
-Select the Minimize **** button (![](symbol_files/1689948149.PNG)).
-Select ![](symbol_files/1414490202.PNG). 
+Select the Minimize **** button (![](media/symbol/1689948149.PNG)).
+Select ![](media/symbol/1414490202.PNG). 
 
   - Write out the plurals of symbols, showing the use in parentheses. Don't add *s* or *'s* to a symbol. ****
 
@@ -52,6 +52,6 @@ Examples
 
 See also [Special character term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28875), [Keys and keyboard shortcuts term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=27401)[](https://worldready.cloudapp.net/Styleguide/Read?id=1413&topicid=3863)
 
-![In progress](symbol_files/activity-large.gif)
+![In progress](media/symbol/activity-large.gif)
 
 URL :

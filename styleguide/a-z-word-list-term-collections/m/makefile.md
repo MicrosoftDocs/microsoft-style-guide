@@ -6,15 +6,15 @@ Loading...
 
 makefile
 
-![Copy URL](makefile_files/Copy.png)
+![Copy URL](media/makefile/Copy.png)
 Copy URL
 
-![Download](makefile_files/Download.png)
+![Download](media/makefile/Download.png)
 
 Download topic
 
 One word. Use only in content for a technical audience. 
 
-![In progress](makefile_files/activity-large.gif)
+![In progress](media/makefile/activity-large.gif)
 
 URL :

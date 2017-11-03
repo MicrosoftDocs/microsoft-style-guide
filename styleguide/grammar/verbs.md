@@ -6,10 +6,10 @@ Loading...
 
 Verbs
 
-![Copy URL](verbs_files/Copy.png)
+![Copy URL](media/verbs/Copy.png)
 Copy URL
 
-![Download](verbs_files/Download.png)
+![Download](media/verbs/Download.png)
 
 Download topic
 
@@ -162,6 +162,6 @@ Singular or plural, to match the closest subject<br />
 </tbody>
 </table>
 
-![In progress](verbs_files/activity-large.gif)
+![In progress](media/verbs/activity-large.gif)
 
 URL :

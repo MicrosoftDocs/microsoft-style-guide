@@ -6,15 +6,15 @@ Loading...
 
 network drive
 
-![Copy URL](network-drive_files/Copy.png)
+![Copy URL](media/network-drive/Copy.png)
 Copy URL
 
-![Download](network-drive_files/Download.png)
+![Download](media/network-drive/Download.png)
 
 Download topic
 
 Use instead of *remote drive*.
 
-![In progress](network-drive_files/activity-large.gif)
+![In progress](media/network-drive/activity-large.gif)
 
 URL :

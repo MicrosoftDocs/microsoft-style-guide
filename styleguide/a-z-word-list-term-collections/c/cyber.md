@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 cyber-
 
-![Copy URL](cyber_files/Copy.png)
+![Copy URL](media/cyber/Copy.png)
 Copy URL
 
-![Download](cyber_files/Download.png)
+![Download](media/cyber/Download.png)
 
 Download topic
 
@@ -17,6 +17,6 @@ Don’t hyphenate words that begin with *cyber,* such as *cybersecurity,* *cyber
 
 To learn more about hyphenation, see [Hyphens](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28765).
 
-![In progress](cyber_files/activity-large.gif)
+![In progress](media/cyber/activity-large.gif)
 
 URL :

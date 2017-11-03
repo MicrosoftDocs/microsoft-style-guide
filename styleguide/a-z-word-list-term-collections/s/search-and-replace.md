@@ -6,10 +6,10 @@ Loading...
 
 search, search and replace
 
-![Copy URL](search-and-replace_files/Copy.png)
+![Copy URL](media/search-and-replace/Copy.png)
 Copy URL
 
-![Download](search-and-replace_files/Download.png)
+![Download](media/search-and-replace/Download.png)
 
 Download topic
 
@@ -21,6 +21,6 @@ Example Search your document.
 
 See also [](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33782)[find and replace](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33782)
 
-![In progress](search-and-replace_files/activity-large.gif)
+![In progress](media/search-and-replace/activity-large.gif)
 
 URL :

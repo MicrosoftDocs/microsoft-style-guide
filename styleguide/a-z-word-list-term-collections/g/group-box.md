@@ -6,10 +6,10 @@ Loading...
 
 group box
 
-![Copy URL](group-box_files/Copy.png)
+![Copy URL](media/group-box/Copy.png)
 Copy URL
 
-![Download](group-box_files/Download.png)
+![Download](media/group-box/Download.png)
 
 Download topic
 
@@ -25,6 +25,6 @@ It's OK to use *group box* in content for a technical audience.
 
 **See also** [Formatting text in instructions](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=29014)
 
-![In progress](group-box_files/activity-large.gif)
+![In progress](media/group-box/activity-large.gif)
 
 URL :

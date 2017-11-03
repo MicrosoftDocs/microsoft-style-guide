@@ -6,10 +6,10 @@ Loading...
 
 command
 
-![Copy URL](command_files/Copy.png)
+![Copy URL](media/command/Copy.png)
 Copy URL
 
-![Download](command_files/Download.png)
+![Download](media/command/Download.png)
 
 Download topic
 
@@ -19,6 +19,6 @@ In content for developers about creating UI elements, it's OK to use *menu item*
 
 **See also** **** [Describing interactions with UI,](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26472) [option, option button](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35540)
 
-![In progress](command_files/activity-large.gif)
+![In progress](media/command/activity-large.gif)
 
 URL :

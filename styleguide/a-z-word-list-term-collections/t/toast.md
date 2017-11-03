@@ -6,10 +6,10 @@ Loading...
 
 toast
 
-![Copy URL](toast_files/Copy.png)
+![Copy URL](media/toast/Copy.png)
 Copy URL
 
-![Download](toast_files/Download.png)
+![Download](media/toast/Download.png)
 
 Download topic
 
@@ -17,6 +17,6 @@ Don't use to refer to a notification triggered by an app or the operating system
 
 See also [Notification](https://worldready.cloudapp.net/Styleguide/Read?id=2547&topicid=16439) in the *Windows, Xbox, and devices style guide*
 
-![In progress](toast_files/activity-large.gif)
+![In progress](media/toast/activity-large.gif)
 
 URL :

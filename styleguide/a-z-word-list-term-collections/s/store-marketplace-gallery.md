@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 store, marketplace, gallery
 
-![Copy URL](store-marketplace-gallery_files/Copy.png)
+![Copy URL](media/store-marketplace-gallery/Copy.png)
 Copy URL
 
-![Download](store-marketplace-gallery_files/Download.png)
+![Download](media/store-marketplace-gallery/Download.png)
 
 Download topic
 
@@ -20,6 +20,6 @@ from Microsoft only or from partners as well. Examples: Office Store, Windows St
 
 In an online store (either in a product experience or the web), avoid including *by* in the publisher line. For example, use *Microsoft,* not *by Microsoft.* If you must include *by,* lowercase it. 
 
-![In progress](store-marketplace-gallery_files/activity-large.gif)
+![In progress](media/store-marketplace-gallery/activity-large.gif)
 
 URL :

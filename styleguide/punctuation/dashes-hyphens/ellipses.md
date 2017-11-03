@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Ellipses
 
-![Copy URL](ellipses_files/Copy.png)
+![Copy URL](media/ellipses/Copy.png)
 Copy URL
 
-![Download](ellipses_files/Download.png)
+![Download](media/ellipses/Download.png)
 
 Download topic
 
@@ -40,7 +40,7 @@ In quoted material, use an ellipsis to indicate omitted text.
 
 It’s OK to use an ellipsis in multiple-part callouts, especially with screenshots or graphics in documentation. 
 
-![](ellipses_files/2036405554.png)![](ellipses_files/2085992510.png)
+![](media/ellipses/2036405554.png)![](media/ellipses/2085992510.png)
 
   - Ensure that the path through the callouts is clear. Document each step.
   - Insert a space and then an ellipsis at the end of a phrase that continues later.
@@ -55,6 +55,6 @@ you're writing in an environment that doesn't have the Segoe
 font and using a font that doesn't have the
 ellipsis character, use three periods with no space between them.
 
-![In progress](ellipses_files/activity-large.gif)
+![In progress](media/ellipses/activity-large.gif)
 
 URL :

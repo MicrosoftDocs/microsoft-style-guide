@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 boot
 
-![Copy URL](boot_files/Copy.png)
+![Copy URL](media/boot/Copy.png)
 Copy URL
 
-![Download](boot_files/Download.png)
+![Download](media/boot/Download.png)
 
 Download topic
 
@@ -25,6 +25,6 @@ Diagnosing and correcting problems that affect the startup process is an importa
 
 **See also** [turn on, turn off](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33405)
 
-![In progress](boot_files/activity-large.gif)
+![In progress](media/boot/activity-large.gif)
 
 URL :

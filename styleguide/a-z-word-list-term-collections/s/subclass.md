@@ -6,15 +6,15 @@ Loading...
 
 subclass
 
-![Copy URL](subclass_files/Copy.png)
+![Copy URL](media/subclass/Copy.png)
 Copy URL
 
-![Download](subclass_files/Download.png)
+![Download](media/subclass/Download.png)
 
 Download topic
 
 Don't use as a verb. Use a common verb, such as *create a subclass*, instead.
 
-![In progress](subclass_files/activity-large.gif)
+![In progress](media/subclass/activity-large.gif)
 
 URL :

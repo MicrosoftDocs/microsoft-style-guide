@@ -6,10 +6,10 @@ Loading...
 
 y-axis
 
-![Copy URL](y-axis_files/Copy.png)
+![Copy URL](media/y-axis/Copy.png)
 Copy URL
 
-![Download](y-axis_files/Download.png)
+![Download](media/y-axis/Download.png)
 
 Download topic
 
@@ -21,6 +21,6 @@ Don't use italic formatting for the *y* in *y-axis* unless the entire word is it
 
 **See also** [category axis](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33517), [value axis](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33518)
 
-![In progress](y-axis_files/activity-large.gif)
+![In progress](media/y-axis/activity-large.gif)
 
 URL :

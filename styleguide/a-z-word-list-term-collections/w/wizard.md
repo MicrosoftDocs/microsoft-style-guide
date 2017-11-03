@@ -6,10 +6,10 @@ Loading...
 
 wizard
 
-![Copy URL](wizard_files/Copy.png)
+![Copy URL](media/wizard/Copy.png)
 Copy URL
 
-![Download](wizard_files/Download.png)
+![Download](media/wizard/Download.png)
 
 Download topic
 
@@ -21,6 +21,6 @@ Use lowercase for the generic term *wizard*. Capitalize *wizard* if it's part of
 
 If you need to refer to an individual screen in a wizard, call it a *page*.
 
-![In progress](wizard_files/activity-large.gif)
+![In progress](media/wizard/activity-large.gif)
 
 URL :

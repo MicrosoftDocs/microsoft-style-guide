@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Accessibility checklist
 
-![Copy URL](accessibility-checklist_files/Copy.png)
+![Copy URL](media/accessibility-checklist/Copy.png)
 Copy URL
 
-![Download](accessibility-checklist_files/Download.png)
+![Download](media/accessibility-checklist/Download.png)
 
 Download topic
 
@@ -78,6 +78,6 @@ and interactive content. (The Microsoft Accessibility Standards page requires Mi
     recommended terms when you describe specific disabilities or
     people with specific disabilities. To learn more, see the [Accessibility term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26596). 
 
-![In progress](accessibility-checklist_files/activity-large.gif)
+![In progress](media/accessibility-checklist/activity-large.gif)
 
 URL :

@@ -6,15 +6,15 @@ Loading...
 
 i.e.
 
-![Copy URL](ie_files/Copy.png)
+![Copy URL](media/ie/Copy.png)
 Copy URL
 
-![Download](ie_files/Download.png)
+![Download](media/ie/Download.png)
 
 Download topic
 
 Don't use. Use *that is* instead.
 
-![In progress](ie_files/activity-large.gif)
+![In progress](media/ie/activity-large.gif)
 
 URL :

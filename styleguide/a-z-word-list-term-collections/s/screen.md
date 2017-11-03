@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 screen
 
-![Copy URL](screen_files/Copy.png)
+![Copy URL](media/screen/Copy.png)
 Copy URL
 
-![Download](screen_files/Download.png)
+![Download](media/screen/Download.png)
 
 Download topic
 
@@ -23,6 +23,6 @@ display on a computing device and an external monitor or projector.
 
 It’s OK to use *screen* in instructions to describe what customers see on the screen or how they interact with it. 
 
-![In progress](screen_files/activity-large.gif)
+![In progress](media/screen/activity-large.gif)
 
 URL :

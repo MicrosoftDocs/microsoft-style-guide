@@ -6,10 +6,10 @@ Loading...
 
 multitask, multitasking
 
-![Copy URL](multitask-multitasking_files/Copy.png)
+![Copy URL](media/multitask-multitasking/Copy.png)
 Copy URL
 
-![Download](multitask-multitasking_files/Download.png)
+![Download](media/multitask-multitasking/Download.png)
 
 Download topic
 
@@ -19,6 +19,6 @@ Examples
 A multitasking operating system divides the available microprocessor time among the processes that need it.
 Multitasking on Microsoft Surface is a snap.
 
-![In progress](multitask-multitasking_files/activity-large.gif)
+![In progress](media/multitask-multitasking/activity-large.gif)
 
 URL :

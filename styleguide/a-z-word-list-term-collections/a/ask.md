@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 ask
 
-![Copy URL](ask_files/Copy.png)
+![Copy URL](media/ask/Copy.png)
 Copy URL
 
-![Download](ask_files/Download.png)
+![Download](media/ask/Download.png)
 
 Download topic
 
@@ -19,6 +19,6 @@ Examples
 Your assigned tasks
 After you submit your request, you’ll receive a confirmation email.
 
-![In progress](ask_files/activity-large.gif)
+![In progress](media/ask/activity-large.gif)
 
 URL :

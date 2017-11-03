@@ -6,10 +6,10 @@ Loading...
 
 antivirus
 
-![Copy URL](antivirus_files/Copy.png)
+![Copy URL](media/antivirus/Copy.png)
 Copy URL
 
-![Download](antivirus_files/Download.png)
+![Download](media/antivirus/Download.png)
 
 Download topic
 
@@ -21,6 +21,6 @@ Examples
 antivirus program
 Windows Defender has both antivirus and antispyware capabilities. 
 
-![In progress](antivirus_files/activity-large.gif)
+![In progress](media/antivirus/activity-large.gif)
 
 URL :

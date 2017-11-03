@@ -6,10 +6,10 @@ Loading...
 
 shut down, shutdown
 
-![Copy URL](shut-down-shutdown_files/Copy.png)
+![Copy URL](media/shut-down-shutdown/Copy.png)
 Copy URL
 
-![Download](shut-down-shutdown_files/Download.png)
+![Download](media/shut-down-shutdown/Download.png)
 
 Download topic
 
@@ -30,6 +30,6 @@ The accidental shutdown might have damaged some files.
 [turn on, turn off](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33405)
 [sleep](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35395)
 
-![In progress](shut-down-shutdown_files/activity-large.gif)
+![In progress](media/shut-down-shutdown/activity-large.gif)
 
 URL :

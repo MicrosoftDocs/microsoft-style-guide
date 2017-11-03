@@ -6,10 +6,10 @@ Loading...
 
 text, text message
 
-![Copy URL](text-text-message_files/Copy.png)
+![Copy URL](media/text-text-message/Copy.png)
 Copy URL
 
-![Download](text-text-message_files/Download.png)
+![Download](media/text-text-message/Download.png)
 
 Download topic
 
@@ -23,6 +23,6 @@ the more common usage, localization teams will use the appropriate term.
 
 See also [message](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35453)
 
-![In progress](text-text-message_files/activity-large.gif)
+![In progress](media/text-text-message/activity-large.gif)
 
 URL :

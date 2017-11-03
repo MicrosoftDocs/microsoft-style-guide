@@ -6,10 +6,10 @@ Loading...
 
 Using type
 
-![Copy URL](index_files/Copy.png)
+![Copy URL](media/index/Copy.png)
 Copy URL
 
-![Download](index_files/Download.png)
+![Download](media/index/Download.png)
 
 Download topic
 
@@ -22,6 +22,6 @@ Beautiful typography is a cornerstone of modern design. The guidelines in this s
 
 To learn more about using typography, see the [brand type guidelines](https://microsoft.sharepoint.com/teams/BrandCentral/Pages/The-Microsoft-brand-Core-elements-Type.aspx). (This site requires Microsoft network access.)
 
-![In progress](index_files/activity-large.gif)
+![In progress](media/index/activity-large.gif)
 
 URL :

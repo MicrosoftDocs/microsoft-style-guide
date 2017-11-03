@@ -6,10 +6,10 @@ Loading...
 
 path
 
-![Copy URL](path_files/Copy.png)
+![Copy URL](media/path/Copy.png)
 Copy URL
 
-![Download](path_files/Download.png)
+![Download](media/path/Download.png)
 
 Download topic
 
@@ -46,6 +46,6 @@ Example**
 
 See also **** [Formatting common text elements](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36402), [URLs and web addresses](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=34905)
 
-![In progress](path_files/activity-large.gif)
+![In progress](media/path/activity-large.gif)
 
 URL :

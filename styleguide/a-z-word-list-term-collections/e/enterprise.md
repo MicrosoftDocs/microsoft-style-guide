@@ -6,15 +6,15 @@ Loading...
 
 enter
 
-![Copy URL](enterprise_files/Copy.png)
+![Copy URL](media/enterprise/Copy.png)
 Copy URL
 
-![Download](enterprise_files/Download.png)
+![Download](media/enterprise/Download.png)
 
 Download topic
 
 **See** [Describing interactions with UI](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26472)
 
-![In progress](enterprise_files/activity-large.gif)
+![In progress](media/enterprise/activity-large.gif)
 
 URL :

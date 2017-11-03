@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Control Panel
 
-![Copy URL](control-panel_files/Copy.png)
+![Copy URL](media/control-panel/Copy.png)
 Copy URL
 
-![Download](control-panel_files/Download.png)
+![Download](media/control-panel/Download.png)
 
 Download topic
 
@@ -33,6 +33,6 @@ To open Internet Options, select Start, select Control Panel, and then select Ne
 [applet](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32508)
 [tool](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32532)
 
-![In progress](control-panel_files/activity-large.gif)
+![In progress](media/control-panel/activity-large.gif)
 
 URL :

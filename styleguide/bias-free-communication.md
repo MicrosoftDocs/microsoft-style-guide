@@ -6,10 +6,10 @@ Loading...
 
 Bias-free communication
 
-![Copy URL](bias-free-communication_files/Copy.png)
+![Copy URL](media/bias-free-communication/Copy.png)
 Copy URL
 
-![Download](bias-free-communication_files/Download.png)
+![Download](media/bias-free-communication/Download.png)
 
 Download topic
 
@@ -124,6 +124,6 @@ Learn more For more information about writing that conveys respect to all people
 
 See also [Accessibility guidelines and requirements](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26589), [Global communications](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26906)
 
-![In progress](bias-free-communication_files/activity-large.gif)
+![In progress](media/bias-free-communication/activity-large.gif)
 
 URL :

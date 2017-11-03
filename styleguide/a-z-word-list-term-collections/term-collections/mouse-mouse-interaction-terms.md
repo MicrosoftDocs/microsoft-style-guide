@@ -6,10 +6,10 @@ Loading...
 
 Mouse and mouse interaction terms
 
-![Copy URL](mouse-mouse-interaction-terms_files/Copy.png)
+![Copy URL](media/mouse-mouse-interaction-terms/Copy.png)
 Copy URL
 
-![Download](mouse-mouse-interaction-terms_files/Download.png)
+![Download](media/mouse-mouse-interaction-terms/Download.png)
 
 Download topic
 
@@ -191,6 +191,6 @@ of the word *pointer*—use both*.*
 </tbody>
 </table>
 
-![In progress](mouse-mouse-interaction-terms_files/activity-large.gif)
+![In progress](media/mouse-mouse-interaction-terms/activity-large.gif)
 
 URL :

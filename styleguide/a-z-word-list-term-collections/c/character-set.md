@@ -6,15 +6,15 @@ Loading...
 
 character set
 
-![Copy URL](character-set_files/Copy.png)
+![Copy URL](media/character-set/Copy.png)
 Copy URL
 
-![Download](character-set_files/Download.png)
+![Download](media/character-set/Download.png)
 
 Download topic
 
 Don't use as a synonym for *code page*. A character set appears on a code page.
 
-![In progress](character-set_files/activity-large.gif)
+![In progress](media/character-set/activity-large.gif)
 
 URL :

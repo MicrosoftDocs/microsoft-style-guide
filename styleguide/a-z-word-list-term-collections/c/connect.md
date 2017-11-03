@@ -6,10 +6,10 @@ Loading...
 
 connect
 
-![Copy URL](connect_files/Copy.png)
+![Copy URL](media/connect/Copy.png)
 Copy URL
 
-![Download](connect_files/Download.png)
+![Download](media/connect/Download.png)
 
 Download topic
 
@@ -19,6 +19,6 @@ Don't use *connect* as a synonym for *sign in* or ** *map*, as in mapping a driv
 
 See also **** [sign in, sign out](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28799)
 
-![In progress](connect_files/activity-large.gif)
+![In progress](media/connect/activity-large.gif)
 
 URL :

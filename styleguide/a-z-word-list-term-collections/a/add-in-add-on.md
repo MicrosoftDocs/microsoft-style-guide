@@ -6,10 +6,10 @@ Loading...
 
 add-in, add-on
 
-![Copy URL](add-in-add-on_files/Copy.png)
+![Copy URL](media/add-in-add-on/Copy.png)
 Copy URL
 
-![Download](add-in-add-on_files/Download.png)
+![Download](media/add-in-add-on/Download.png)
 
 Download topic
 
@@ -21,6 +21,6 @@ Use *add-on* to refer to a hardware device, such as an external drive, that's at
 
 In content for a general audience, use *add-in* and *add-on* primarily as modifiers. For example, *add-in program* or *add-on drive*.
 
-![In progress](add-in-add-on_files/activity-large.gif)
+![In progress](media/add-in-add-on/activity-large.gif)
 
 URL :

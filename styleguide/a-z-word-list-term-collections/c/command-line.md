@@ -6,10 +6,10 @@ Loading...
 
 command line, command-line
 
-![Copy URL](command-line_files/Copy.png)
+![Copy URL](media/command-line/Copy.png)
 Copy URL
 
-![Download](command-line_files/Download.png)
+![Download](media/command-line/Download.png)
 
 Download topic
 
@@ -27,6 +27,6 @@ Use *command-line program* in content for a general audience. Use *console appli
 
 **See also** [command prompt](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33562), [console](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33563)
 
-![In progress](command-line_files/activity-large.gif)
+![In progress](media/command-line/activity-large.gif)
 
 URL :

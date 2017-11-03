@@ -6,10 +6,10 @@ Loading...
 
 let, lets
 
-![Copy URL](let-lets_files/Copy.png)
+![Copy URL](media/let-lets/Copy.png)
 Copy URL
 
-![Download](let-lets_files/Download.png)
+![Download](media/let-lets/Download.png)
 
 Download topic
 
@@ -17,6 +17,6 @@ Don't use *lets* (or *allows* or *enables*) to refer to things that Microsoft or
 
 Example Present schedule information in a variety of ways using Microsoft Project.
 
-![In progress](let-lets_files/activity-large.gif)
+![In progress](media/let-lets/activity-large.gif)
 
 URL :

@@ -6,15 +6,15 @@ Loading...
 
 child folder
 
-![Copy URL](clear_files/Copy.png)
+![Copy URL](media/clear/Copy.png)
 Copy URL
 
-![Download](clear_files/Download.png)
+![Download](media/clear/Download.png)
 
 Download topic
 
 Don't use. Use *subfolder,* *subdirectory*, *folder*, or the name of the folder.
 
-![In progress](clear_files/activity-large.gif)
+![In progress](media/clear/activity-large.gif)
 
 URL :

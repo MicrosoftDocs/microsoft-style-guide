@@ -6,10 +6,10 @@ Loading...
 
 client
 
-![Copy URL](client-side_files/Copy.png)
+![Copy URL](media/client-side/Copy.png)
 Copy URL
 
-![Download](client-side_files/Download.png)
+![Download](media/client-side/Download.png)
 
 Download topic
 
@@ -17,6 +17,6 @@ Don't use *client* to refer to a person. Use *customer* instead.
 
 **See**  [Computer and device term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26597)
 
-![In progress](client-side_files/activity-large.gif)
+![In progress](media/client-side/activity-large.gif)
 
 URL :

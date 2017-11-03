@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 drop-down
 
-![Copy URL](drop-down_files/Copy.png)
+![Copy URL](media/drop-down/Copy.png)
 Copy URL
 
-![Download](drop-down_files/Download.png)
+![Download](media/drop-down/Download.png)
 
 Download topic
 
@@ -24,6 +24,6 @@ For other audiences, use *box* if you must name the UI element.
 
 Don’t use *drop down* as a noun or verb.
 
-![In progress](drop-down_files/activity-large.gif)
+![In progress](media/drop-down/activity-large.gif)
 
 URL :

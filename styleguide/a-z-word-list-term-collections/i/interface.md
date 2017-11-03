@@ -6,10 +6,10 @@ Loading...
 
 interface
 
-![Copy URL](interface_files/Copy.png)
+![Copy URL](media/interface/Copy.png)
 Copy URL
 
-![Download](interface_files/Download.png)
+![Download](media/interface/Download.png)
 
 Download topic
 
@@ -25,6 +25,6 @@ Examples**
 **The familiar interface helps to minimize training requirements.
 With Skype for Business, you can communicate with your team from wherever you are.
 
-![In progress](interface_files/activity-large.gif)
+![In progress](media/interface/activity-large.gif)
 
 URL :

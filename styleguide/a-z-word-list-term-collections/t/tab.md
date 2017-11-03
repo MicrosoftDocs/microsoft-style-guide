@@ -6,10 +6,10 @@ Loading...
 
 tab
 
-![Copy URL](tab_files/Copy.png)
+![Copy URL](media/tab/Copy.png)
 Copy URL
 
-![Download](tab_files/Download.png)
+![Download](media/tab/Download.png)
 
 Download topic
 
@@ -24,6 +24,6 @@ Examples**
 Set a tab stop on the ruler.
 On the View tab ....
 
-![In progress](tab_files/activity-large.gif)
+![In progress](media/tab/activity-large.gif)
 
 URL :

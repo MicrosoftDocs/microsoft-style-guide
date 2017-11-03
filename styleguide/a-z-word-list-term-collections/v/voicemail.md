@@ -6,10 +6,10 @@ Loading...
 
 voicemail
 
-![Copy URL](voicemail_files/Copy.png)
+![Copy URL](media/voicemail/Copy.png)
 Copy URL
 
-![Download](voicemail_files/Download.png)
+![Download](media/voicemail/Download.png)
 
 Download topic
 
@@ -26,6 +26,6 @@ Examples
 You have two new voicemails.
 To respond to the caller with a message ....
 
-![In progress](voicemail_files/activity-large.gif)
+![In progress](media/voicemail/activity-large.gif)
 
 URL :

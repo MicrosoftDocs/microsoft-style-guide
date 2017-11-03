@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 dialog box, dialog
 
-![Copy URL](dialog-box-dialog_files/Copy.png)
+![Copy URL](media/dialog-box-dialog/Copy.png)
 Copy URL
 
-![Download](dialog-box-dialog_files/Download.png)
+![Download](media/dialog-box-dialog/Download.png)
 
 Download topic
 
@@ -27,6 +27,6 @@ Exception In content for developers, it's OK to use *dialog* by itself as a modi
 
 See also [Formatting text in instructions](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=29014)
 
-![In progress](dialog-box-dialog_files/activity-large.gif)
+![In progress](media/dialog-box-dialog/activity-large.gif)
 
 URL :

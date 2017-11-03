@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,15 +6,15 @@ Loading...
 
 high-resolution
 
-![Copy URL](high-resolution_files/Copy.png)
+![Copy URL](media/high-resolution/Copy.png)
 Copy URL
 
-![Download](high-resolution_files/Download.png)
+![Download](media/high-resolution/Download.png)
 
 Download topic
 
 Always hyphenate. Don’t abbreviate as *hi-res*. 
 
-![In progress](high-resolution_files/activity-large.gif)
+![In progress](media/high-resolution/activity-large.gif)
 
 URL :

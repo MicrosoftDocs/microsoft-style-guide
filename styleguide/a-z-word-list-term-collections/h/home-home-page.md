@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 home, home page
 
-![Copy URL](home-home-page_files/Copy.png)
+![Copy URL](media/home-home-page/Copy.png)
 Copy URL
 
-![Download](home-home-page_files/Download.png)
+![Download](media/home-home-page/Download.png)
 
 Download topic
 
@@ -24,6 +24,6 @@ Don't use *start page.*
 
 See also [Start](https://worldready.cloudapp.net/Styleguide/Read?id=2547&topicid=16747) in the *Windows, Xbox, and devices style guide*
 
-![In progress](home-home-page_files/activity-large.gif)
+![In progress](media/home-home-page/activity-large.gif)
 
 URL :

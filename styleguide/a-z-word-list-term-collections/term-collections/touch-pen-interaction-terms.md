@@ -6,10 +6,10 @@ Loading...
 
 Touch and pen interaction terms
 
-![Copy URL](touch-pen-interaction-terms_files/Copy.png)
+![Copy URL](media/touch-pen-interaction-terms/Copy.png)
 Copy URL
 
-![Download](touch-pen-interaction-terms_files/Download.png)
+![Download](media/touch-pen-interaction-terms/Download.png)
 
 Download topic
 
@@ -144,6 +144,6 @@ Use to describe swiping a finger quickly or sliding across the screen from an ed
 </tbody>
 </table>
 
-![In progress](touch-pen-interaction-terms_files/activity-large.gif)
+![In progress](media/touch-pen-interaction-terms/activity-large.gif)
 
 URL :

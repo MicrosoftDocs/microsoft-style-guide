@@ -6,10 +6,10 @@ Loading...
 
 download
 
-![Copy URL](download_files/Copy.png)
+![Copy URL](media/download/Copy.png)
 Copy URL
 
-![Download](download_files/Download.png)
+![Download](media/download/Download.png)
 
 Download topic
 
@@ -34,6 +34,6 @@ install](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32283)
 [load](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33614)
 [upload](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33616)
 
-![In progress](download_files/activity-large.gif)
+![In progress](media/download/activity-large.gif)
 
 URL :

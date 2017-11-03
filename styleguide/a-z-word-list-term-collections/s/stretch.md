@@ -6,15 +6,15 @@ Loading...
 
 stretch
 
-![Copy URL](stretch_files/Copy.png)
+![Copy URL](media/stretch/Copy.png)
 Copy URL
 
-![Download](stretch_files/Download.png)
+![Download](media/stretch/Download.png)
 
 Download topic
 
 **See** [Touch and pen interaction term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=29032)
 
-![In progress](stretch_files/activity-large.gif)
+![In progress](media/stretch/activity-large.gif)
 
 URL :

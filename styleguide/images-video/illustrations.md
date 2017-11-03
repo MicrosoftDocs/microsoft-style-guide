@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Illustrations
 
-![Copy URL](illustrations_files/Copy.png)
+![Copy URL](media/illustrations/Copy.png)
 Copy URL
 
-![Download](illustrations_files/Download.png)
+![Download](media/illustrations/Download.png)
 
 Download topic
 
@@ -37,6 +37,6 @@ important to the story, describe them clearly and completely in
 captions or alt text to support people with low vision. To learn
 more about accessible images, see [Graphics, design, and media](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32191).
 
-![In progress](illustrations_files/activity-large.gif)
+![In progress](media/illustrations/activity-large.gif)
 
 URL :

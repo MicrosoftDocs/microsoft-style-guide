@@ -6,15 +6,15 @@ Loading...
 
 afterward
 
-![Copy URL](afterward_files/Copy.png)
+![Copy URL](media/afterward/Copy.png)
 Copy URL
 
-![Download](afterward_files/Download.png)
+![Download](media/afterward/Download.png)
 
 Download topic
 
 Use instead of *afterwards*.
 
-![In progress](afterward_files/activity-large.gif)
+![In progress](media/afterward/activity-large.gif)
 
 URL :

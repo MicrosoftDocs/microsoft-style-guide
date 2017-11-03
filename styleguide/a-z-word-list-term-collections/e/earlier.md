@@ -6,10 +6,10 @@ Loading...
 
 earlier
 
-![Copy URL](earlier_files/Copy.png)
+![Copy URL](media/earlier/Copy.png)
 Copy URL
 
-![Download](earlier_files/Download.png)
+![Download](media/earlier/Download.png)
 
 Download topic
 
@@ -28,6 +28,6 @@ to the version being discussed.)
 
 **See also**  [later](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32560)
 
-![In progress](earlier_files/activity-large.gif)
+![In progress](media/earlier/activity-large.gif)
 
 URL :

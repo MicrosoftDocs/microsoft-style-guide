@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Procedures and instructions
 
-![Copy URL](index_files/Copy.png)
+![Copy URL](media/index/Copy.png)
 Copy URL
 
-![Download](index_files/Download.png)
+![Download](media/index/Download.png)
 
 Download topic
 
@@ -21,20 +21,20 @@ isn’t necessary. Start there. See [UI text and design](https://worldready.clou
 Some tasks are more complex. When you need to provide a procedure, look for the clearest way to present it. That might be:
 
   - A picture, an illustration, a poster, or an infographic
-    ![](index_files/1980906142.png)
+    ![](media/index/1980906142.png)
   - A video.
 
-![](index_files/774741777.png)
+![](media/index/774741777.png)
 
   - A one-sentence instruction.
 
-![](index_files/1713306812.png)
+![](media/index/1713306812.png)
 
   - A numbered
     procedure, which might include pictures, videos, and links or
     buttons that take customers where they need to go.
 
-![](index_files/541572162.png)
+![](media/index/541572162.png)
 
 When
 a procedure is the best approach, use the guidelines in this
@@ -53,6 +53,6 @@ easiest way to approach this is to fully document interactions using
 each input method, and then write procedures that
 use input-neutral verbs. 
 
-![In progress](index_files/activity-large.gif)
+![In progress](media/index/activity-large.gif)
 
 URL :

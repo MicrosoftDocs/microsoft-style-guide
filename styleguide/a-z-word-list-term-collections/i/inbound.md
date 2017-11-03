@@ -6,10 +6,10 @@ Loading...
 
 inbound
 
-![Copy URL](inbound_files/Copy.png)
+![Copy URL](media/inbound/Copy.png)
 Copy URL
 
-![Download](inbound_files/Download.png)
+![Download](media/inbound/Download.png)
 
 Download topic
 
@@ -17,6 +17,6 @@ Don't use to describe email being delivered. Use *incoming* instead.
 
 It's OK to use *inbound* and *outbound* to describe marketing tactics.
 
-![In progress](inbound_files/activity-large.gif)
+![In progress](media/inbound/activity-large.gif)
 
 URL :

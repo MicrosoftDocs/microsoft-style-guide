@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Capitalization
 
-![Copy URL](capitalization_files/Copy.png)
+![Copy URL](media/capitalization/Copy.png)
 Copy URL
 
-![Download](capitalization_files/Download.png)
+![Download](media/capitalization/Download.png)
 
 Download topic
 
@@ -103,6 +103,6 @@ On the rare occasions when title-style capitalization is required, follow these 
 
 See also [Formatting titles](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36416)**
 
-![In progress](capitalization_files/activity-large.gif)
+![In progress](media/capitalization/activity-large.gif)
 
 URL :

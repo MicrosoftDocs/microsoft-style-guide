@@ -6,10 +6,10 @@ Loading...
 
 US
 
-![Copy URL](us_files/Copy.png)
+![Copy URL](media/us/Copy.png)
 Copy URL
 
-![Download](us_files/Download.png)
+![Download](media/us/Download.png)
 
 Download topic
 
@@ -21,6 +21,6 @@ If you use the abbreviation, you don't have to spell out *United States* on the 
 
 Learn more For the [official country/region list](https://microsoft.sharepoint.com/teams/celaGlobalReadiness/Lists/CountryRegion/CountryRegionList.aspx), visit the [Global Readiness website](https://microsoft.sharepoint.com/teams/celaGlobalReadiness/Pages/Home.aspx).
 
-![In progress](us_files/activity-large.gif)
+![In progress](media/us/activity-large.gif)
 
 URL :

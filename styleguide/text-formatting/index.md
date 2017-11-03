@@ -6,10 +6,10 @@ Loading...
 
 Text formatting
 
-![Copy URL](index_files/Copy.png)
+![Copy URL](media/index/Copy.png)
 Copy URL
 
-![Download](index_files/Download.png)
+![Download](media/index/Download.png)
 
 Download topic
 
@@ -37,6 +37,6 @@ See also[
 [Procedures and instructions](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26471)
 [](https://microsoft.sharepoint.com/teams/BrandCentral/Guidelines/Microsoft_Brand_Guidelines_Oct2014.pdf)[Brand type guidelines](https://microsoft.sharepoint.com/teams/BrandCentral/Pages/The-Microsoft-brand-Core-elements-Type.aspx) (This site requires Microsoft network access.)
 
-![In progress](index_files/activity-large.gif)
+![In progress](media/index/activity-large.gif)
 
 URL :

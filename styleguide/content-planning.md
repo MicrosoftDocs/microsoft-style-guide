@@ -6,10 +6,10 @@ Loading...
 
 Content planning
 
-![Copy URL](content-planning_files/Copy.png)
+![Copy URL](media/content-planning/Copy.png)
 Copy URL
 
-![Download](content-planning_files/Download.png)
+![Download](media/content-planning/Download.png)
 
 Download topic
 
@@ -257,6 +257,6 @@ UI troubleshooter
 </tbody>
 </table>
 
-![In progress](content-planning_files/activity-large.gif)
+![In progress](media/content-planning/activity-large.gif)
 
 URL :

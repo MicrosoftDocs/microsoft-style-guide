@@ -6,10 +6,10 @@ Loading...
 
 different
 
-![Copy URL](different_files/Copy.png)
+![Copy URL](media/different/Copy.png)
 Copy URL
 
-![Download](different_files/Download.png)
+![Download](media/different/Download.png)
 
 Download topic
 
@@ -33,6 +33,6 @@ make them parallel, consider rewriting.
 
 Example The regional setting doesn't match the language of the localized version of the operating system.
 
-![In progress](different_files/activity-large.gif)
+![In progress](media/different/activity-large.gif)
 
 URL :

@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Legal content
 
-![Copy URL](index_files/Copy.png)
+![Copy URL](media/index/Copy.png)
 Copy URL
 
-![Download](index_files/Download.png)
+![Download](media/index/Download.png)
 
 Download topic
 
@@ -33,6 +33,6 @@ For information about trademark names, see the [Microsoft Corporation trademarks
 
 For legal issues related to worldwide content, software, and websites, see [](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26917)[Legal considerations](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26917).
 
-![In progress](index_files/activity-large.gif)
+![In progress](media/index/activity-large.gif)
 
 URL :

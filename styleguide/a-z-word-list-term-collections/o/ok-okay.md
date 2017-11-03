@@ -6,15 +6,15 @@ Loading...
 
 OK, okay
 
-![Copy URL](ok-okay_files/Copy.png)
+![Copy URL](media/ok-okay/Copy.png)
 Copy URL
 
-![Download](ok-okay_files/Download.png)
+![Download](media/ok-okay/Download.png)
 
 Download topic
 
 Use *OK* instead of *alright.* Don't use *okay.* 
 
-![In progress](ok-okay_files/activity-large.gif)
+![In progress](media/ok-okay/activity-large.gif)
 
 URL :

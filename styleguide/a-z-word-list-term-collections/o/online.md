@@ -6,10 +6,10 @@ Loading...
 
 online
 
-![Copy URL](online_files/Copy.png)
+![Copy URL](media/online/Copy.png)
 Copy URL
 
-![Download](online_files/Download.png)
+![Download](media/online/Download.png)
 
 Download topic
 
@@ -19,6 +19,6 @@ Examples
 Search Help for more information.
 Check [online](http://example.com/) for more up-to-date information.
 
-![In progress](online_files/activity-large.gif)
+![In progress](media/online/activity-large.gif)
 
 URL :

@@ -6,15 +6,15 @@ Loading...
 
 W3C
 
-![Copy URL](w3c_files/Copy.png)
+![Copy URL](media/w3c/Copy.png)
 Copy URL
 
-![Download](w3c_files/Download.png)
+![Download](media/w3c/Download.png)
 
 Download topic
 
 Don't spell out.
 
-![In progress](w3c_files/activity-large.gif)
+![In progress](media/w3c/activity-large.gif)
 
 URL :

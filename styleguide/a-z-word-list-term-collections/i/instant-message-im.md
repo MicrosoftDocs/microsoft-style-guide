@@ -6,10 +6,10 @@ Loading...
 
 instant message, IM
 
-![Copy URL](instant-message-im_files/Copy.png)
+![Copy URL](media/instant-message-im/Copy.png)
 Copy URL
 
-![Download](instant-message-im_files/Download.png)
+![Download](media/instant-message-im/Download.png)
 
 Download topic
 
@@ -28,6 +28,6 @@ Global tip ****The abbreviated form isn't available in all languages, so allow e
 
 See also [message](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35453)
 
-![In progress](instant-message-im_files/activity-large.gif)
+![In progress](media/instant-message-im/activity-large.gif)
 
 URL :

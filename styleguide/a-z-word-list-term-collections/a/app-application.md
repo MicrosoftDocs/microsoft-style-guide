@@ -6,10 +6,10 @@ Loading...
 
 app, application
 
-![Copy URL](app-application_files/Copy.png)
+![Copy URL](media/app-application/Copy.png)
 Copy URL
 
-![Download](app-application_files/Download.png)
+![Download](media/app-application/Download.png)
 
 Download topic
 
@@ -35,6 +35,6 @@ Don't use application program.
 [tool](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32532) 
 [Control Panel](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36789)
 
-![In progress](app-application_files/activity-large.gif)
+![In progress](media/app-application/activity-large.gif)
 
 URL :

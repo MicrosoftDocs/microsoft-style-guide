@@ -6,15 +6,15 @@ Loading...
 
 iconize
 
-![Copy URL](iconize_files/Copy.png)
+![Copy URL](media/iconize/Copy.png)
 Copy URL
 
-![Download](iconize_files/Download.png)
+![Download](media/iconize/Download.png)
 
 Download topic
 
 Don't use. Use *shrink to an icon* or *minimize* instead.
 
-![In progress](iconize_files/activity-large.gif)
+![In progress](media/iconize/activity-large.gif)
 
 URL :

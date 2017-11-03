@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Examples and scenarios
 
-![Copy URL](examples-scenarios_files/Copy.png)
+![Copy URL](media/examples-scenarios/Copy.png)
 Copy URL
 
-![Download](examples-scenarios_files/Download.png)
+![Download](media/examples-scenarios/Download.png)
 
 Download topic
 
@@ -51,6 +51,6 @@ and video to measurement, paper size, character sets, and text
 direction. And don’t assume US standards are familiar or
 relevant to everyone. 
 
-![In progress](examples-scenarios_files/activity-large.gif)
+![In progress](media/examples-scenarios/activity-large.gif)
 
 URL :

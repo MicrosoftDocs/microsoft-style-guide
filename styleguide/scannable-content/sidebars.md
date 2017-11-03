@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Sidebars
 
-![Copy URL](sidebars_files/Copy.png)
+![Copy URL](media/sidebars/Copy.png)
 Copy URL
 
-![Download](sidebars_files/Download.png)
+![Download](media/sidebars/Download.png)
 
 Download topic
 
@@ -24,8 +24,8 @@ people read sidebars before or after the rest of the page, so don’t use
 sidebars for information that should be read in sequence with the
 main text.
 
-![](sidebars_files/1416770987.png)
+![](media/sidebars/1416770987.png)
 
-![In progress](sidebars_files/activity-large.gif)
+![In progress](media/sidebars/activity-large.gif)
 
 URL :

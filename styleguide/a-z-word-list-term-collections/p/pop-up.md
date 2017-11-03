@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 pop-up
 
-![Copy URL](pop-up_files/Copy.png)
+![Copy URL](media/pop-up/Copy.png)
 Copy URL
 
-![Download](pop-up_files/Download.png)
+![Download](media/pop-up/Download.png)
 
 Download topic
 
@@ -31,6 +31,6 @@ In the pop-up list, select Microsoft Excel.
 
 See also [context menu](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28829), [shortcut menu](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28830)
 
-![In progress](pop-up_files/activity-large.gif)
+![In progress](media/pop-up/activity-large.gif)
 
 URL :

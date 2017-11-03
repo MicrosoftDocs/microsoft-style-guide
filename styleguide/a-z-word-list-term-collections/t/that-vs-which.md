@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 that vs. which
 
-![Copy URL](that-vs-which_files/Copy.png)
+![Copy URL](media/that-vs-which/Copy.png)
 Copy URL
 
-![Download](that-vs-which_files/Download.png)
+![Download](media/that-vs-which/Download.png)
 
 Download topic
 
@@ -31,6 +31,6 @@ Don’t use *that* or *which* in clauses that refer to a person. Use *who* inste
 
 See also [who vs. that](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36437)
 
-![In progress](that-vs-which_files/activity-large.gif)
+![In progress](media/that-vs-which/activity-large.gif)
 
 URL :

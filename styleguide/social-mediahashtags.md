@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Hashtags
 
-![Copy URL](social-mediahashtags_files/Copy.png)
+![Copy URL](media/social-mediahashtags/Copy.png)
 Copy URL
 
-![Download](social-mediahashtags_files/Download.png)
+![Download](media/social-mediahashtags/Download.png)
 
 Download topic
 
@@ -40,6 +40,6 @@ See also
 [Social editorial best practices](https://onedrive.live.com/view.aspx?resid=11783A51554745FD!2689&ithint=file%2cdocx&app=Word&authkey=!AHiRYupzboQTjJg "Editorial guidelines from the Social Media team")
 [Guidelines for engaging with social media](https://microsoft.sharepoint.com/sites/LCAWeb/Home/Marketing/Social-Media/Social-Media-Guidelines "CELA guidelines for social media") (This page requires Microsoft network access.)
 
-![In progress](social-mediahashtags_files/activity-large.gif)
+![In progress](media/social-mediahashtags/activity-large.gif)
 
 URL :

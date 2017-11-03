@@ -6,15 +6,15 @@ Loading...
 
 offline
 
-![Copy URL](offline_files/Copy.png)
+![Copy URL](media/offline/Copy.png)
 Copy URL
 
-![Download](offline_files/Download.png)
+![Download](media/offline/Download.png)
 
 Download topic
 
 One word. Use only in the sense of not being connected to or part of a system or network.
 
-![In progress](offline_files/activity-large.gif)
+![In progress](media/offline/activity-large.gif)
 
 URL :

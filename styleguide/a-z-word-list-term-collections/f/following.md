@@ -6,10 +6,10 @@ Loading...
 
 following
 
-![Copy URL](following_files/Copy.png)
+![Copy URL](media/following/Copy.png)
 Copy URL
 
-![Download](following_files/Download.png)
+![Download](media/following/Download.png)
 
 Download topic
 
@@ -24,6 +24,6 @@ earlier](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32559)
 [later](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32560)
 [Lists](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36412)
 
-![In progress](following_files/activity-large.gif)
+![In progress](media/following/activity-large.gif)
 
 URL :

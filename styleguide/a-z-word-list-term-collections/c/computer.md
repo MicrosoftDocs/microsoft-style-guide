@@ -6,15 +6,15 @@ Loading...
 
 computer
 
-![Copy URL](computer_files/Copy.png)
+![Copy URL](media/computer/Copy.png)
 Copy URL
 
-![Download](computer_files/Download.png)
+![Download](media/computer/Download.png)
 
 Download topic
 
 **See** [Computer and device term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26597)
 
-![In progress](computer_files/activity-large.gif)
+![In progress](media/computer/activity-large.gif)
 
 URL :

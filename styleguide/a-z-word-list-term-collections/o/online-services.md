@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 online services
 
-![Copy URL](online-services_files/Copy.png)
+![Copy URL](media/online-services/Copy.png)
 Copy URL
 
-![Download](online-services_files/Download.png)
+![Download](media/online-services/Download.png)
 
 Download topic
 
@@ -21,6 +21,6 @@ that provide the means for integrating web-based apps. Use *web services* instea
 
 See [web services](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=41215)
 
-![In progress](online-services_files/activity-large.gif)
+![In progress](media/online-services/activity-large.gif)
 
 URL :

@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 dimmed
 
-![Copy URL](dimmed_files/Copy.png)
+![Copy URL](media/dimmed/Copy.png)
 Copy URL
 
-![Download](dimmed_files/Download.png)
+![Download](media/dimmed/Download.png)
 
 Download topic
 
@@ -24,6 +24,6 @@ Selected effects appear shaded.
 
 See also [disable, disabled](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33643), [unavailable](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33644)
 
-![In progress](dimmed_files/activity-large.gif)
+![In progress](media/dimmed/activity-large.gif)
 
 URL :

@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Apostrophes
 
-![Copy URL](apostrophes_files/Copy.png)
+![Copy URL](media/apostrophes/Copy.png)
 Copy URL
 
-![Download](apostrophes_files/Download.png)
+![Download](media/apostrophes/Download.png)
 
 Download topic
 
@@ -45,6 +45,6 @@ Download topic
 
 **Note:**  Don't use the possessive form of Microsoft trademarks and product, service, or feature names.
 
-![In progress](apostrophes_files/activity-large.gif)
+![In progress](media/apostrophes/activity-large.gif)
 
 URL :

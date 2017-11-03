@@ -6,15 +6,15 @@ Loading...
 
 AM, PM
 
-![Copy URL](am-pm_files/Copy.png)
+![Copy URL](media/am-pm/Copy.png)
 Copy URL
 
-![Download](am-pm_files/Download.png)
+![Download](media/am-pm/Download.png)
 
 Download topic
 
 **See** [Date and time term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=27390 "Click to ope Date and time term collection.")
 
-![In progress](am-pm_files/activity-large.gif)
+![In progress](media/am-pm/activity-large.gif)
 
 URL :

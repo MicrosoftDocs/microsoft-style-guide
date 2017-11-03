@@ -6,10 +6,10 @@ Loading...
 
 parenthesis, parentheses
 
-![Copy URL](parenthesis-parentheses_files/Copy.png)
+![Copy URL](media/parenthesis-parentheses/Copy.png)
 Copy URL
 
-![Download](parenthesis-parentheses_files/Download.png)
+![Download](media/parenthesis-parentheses/Download.png)
 
 Download topic
 
@@ -17,6 +17,6 @@ Use *opening parenthesis* or *closing parenthesis* for an individual parenthesis
 
 **See also** [Formatting punctuation](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28750)
 
-![In progress](parenthesis-parentheses_files/activity-large.gif)
+![In progress](media/parenthesis-parentheses/activity-large.gif)
 
 URL :

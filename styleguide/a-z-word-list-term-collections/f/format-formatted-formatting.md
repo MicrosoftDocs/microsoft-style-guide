@@ -6,10 +6,10 @@ Loading...
 
 format, formatted, formatting
 
-![Copy URL](format-formatted-formatting_files/Copy.png)
+![Copy URL](media/format-formatted-formatting/Copy.png)
 Copy URL
 
-![Download](format-formatted-formatting_files/Download.png)
+![Download](media/format-formatted-formatting/Download.png)
 
 Download topic
 
@@ -19,6 +19,6 @@ Use *formatting* or *formatted* to refer to specific character formatting, parag
 
 **See also** [font, font style](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33790)
 
-![In progress](format-formatted-formatting_files/activity-large.gif)
+![In progress](media/format-formatted-formatting/activity-large.gif)
 
 URL :

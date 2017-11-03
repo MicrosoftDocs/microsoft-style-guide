@@ -6,10 +6,10 @@ Loading...
 
 smart card, Smart Card
 
-![Copy URL](smart-card_files/Copy.png)
+![Copy URL](media/smart-card/Copy.png)
 Copy URL
 
-![Download](smart-card_files/Download.png)
+![Download](media/smart-card/Download.png)
 
 Download topic
 
@@ -17,6 +17,6 @@ Two words. Use lowercase for generic references to smart cards or smart card tec
 
 Capitalize as part of proper nouns, such as *Lenovo* *Integrated* *Smart Card Reader*, but not in general references to smart card implementations.
 
-![In progress](smart-card_files/activity-large.gif)
+![In progress](media/smart-card/activity-large.gif)
 
 URL :

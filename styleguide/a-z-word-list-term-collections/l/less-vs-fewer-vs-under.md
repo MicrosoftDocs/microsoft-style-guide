@@ -6,10 +6,10 @@ Loading...
 
 less vs. fewer vs. under
 
-![Copy URL](less-vs-fewer-vs-under_files/Copy.png)
+![Copy URL](media/less-vs-fewer-vs-under/Copy.png)
 Copy URL
 
-![Download](less-vs-fewer-vs-under_files/Download.png)
+![Download](media/less-vs-fewer-vs-under/Download.png)
 
 Download topic
 
@@ -26,6 +26,6 @@ The new building has fewer square feet of floor space and contains fewer offices
 Fewer than 75 members were present. 
 Less than a quorum attended.
 
-![In progress](less-vs-fewer-vs-under_files/activity-large.gif)
+![In progress](media/less-vs-fewer-vs-under/activity-large.gif)
 
 URL :

@@ -6,10 +6,10 @@ Loading...
 
 lower
 
-![Copy URL](lower_files/Copy.png)
+![Copy URL](media/lower/Copy.png)
 Copy URL
 
-![Download](lower_files/Download.png)
+![Download](media/lower/Download.png)
 
 Download topic
 
@@ -17,6 +17,6 @@ Don't use to indicate product version numbers. Use *earlier* instead.
 
 **See** [earlier](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32559)
 
-![In progress](lower_files/activity-large.gif)
+![In progress](media/lower/activity-large.gif)
 
 URL :

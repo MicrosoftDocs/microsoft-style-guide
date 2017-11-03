@@ -6,10 +6,10 @@ Loading...
 
 board
 
-![Copy URL](bold_files/Copy.png)
+![Copy URL](media/bold/Copy.png)
 Copy URL
 
-![Download](bold_files/Download.png)
+![Download](media/bold/Download.png)
 
 Download topic
 
@@ -19,6 +19,6 @@ Examples
 video card 
 motherboard
 
-![In progress](bold_files/activity-large.gif)
+![In progress](media/bold/activity-large.gif)
 
 URL :

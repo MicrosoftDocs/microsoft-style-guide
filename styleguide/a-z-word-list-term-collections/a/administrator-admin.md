@@ -6,10 +6,10 @@ Loading...
 
 administrator, admin
 
-![Copy URL](administrator-admin_files/Copy.png)
+![Copy URL](media/administrator-admin/Copy.png)
 Copy URL
 
-![Download](administrator-admin_files/Download.png)
+![Download](media/administrator-admin/Download.png)
 
 Download topic
 
@@ -21,6 +21,6 @@ Examples
 To log on as an administrator, you need to have a user account on the computer with an Administrator **** account type. 
 Limit the number of users in the Administrators group.
 
-![In progress](administrator-admin_files/activity-large.gif)
+![In progress](media/administrator-admin/activity-large.gif)
 
 URL :

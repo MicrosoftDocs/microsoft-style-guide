@@ -6,15 +6,15 @@ Loading...
 
 gigabit, Gbit
 
-![Copy URL](gigabit_files/Copy.png)
+![Copy URL](media/gigabit/Copy.png)
 Copy URL
 
-![Download](gigabit_files/Download.png)
+![Download](media/gigabit/Download.png)
 
 Download topic
 
 **See** [Bits and bytes term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26920)
 
-![In progress](gigabit_files/activity-large.gif)
+![In progress](media/gigabit/activity-large.gif)
 
 URL :

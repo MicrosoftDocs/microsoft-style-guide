@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Global communications checklist
 
-![Copy URL](global-communications-checklist_files/Copy.png)
+![Copy URL](media/global-communications-checklist/Copy.png)
 Copy URL
 
-![Download](global-communications-checklist_files/Download.png)
+![Download](media/global-communications-checklist/Download.png)
 
 Download topic
 
@@ -124,6 +124,6 @@ Names and contact information
 
 Learn more about [global communications](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26906). 
 
-![In progress](global-communications-checklist_files/activity-large.gif)
+![In progress](media/global-communications-checklist/activity-large.gif)
 
 URL :

@@ -6,10 +6,10 @@ Loading...
 
 palette
 
-![Copy URL](palette_files/Copy.png)
+![Copy URL](media/palette/Copy.png)
 Copy URL
 
-![Download](palette_files/Download.png)
+![Download](media/palette/Download.png)
 
 Download topic
 
@@ -26,6 +26,6 @@ name.
 Example**
 **In the Color palette, select a color for the object outline.
 
-![In progress](palette_files/activity-large.gif)
+![In progress](media/palette/activity-large.gif)
 
 URL :

@@ -6,10 +6,10 @@ Loading...
 
 runtime
 
-![Copy URL](runtime_files/Copy.png)
+![Copy URL](media/runtime/Copy.png)
 Copy URL
 
-![Download](runtime_files/Download.png)
+![Download](media/runtime/Download.png)
 
 Download topic
 
@@ -21,6 +21,6 @@ Use *runtime*:
 
 Don't use *runtime* as a synonym for reader programs, such as Microsoft Office file viewers.
 
-![In progress](runtime_files/activity-large.gif)
+![In progress](media/runtime/activity-large.gif)
 
 URL :

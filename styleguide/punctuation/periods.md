@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Periods
 
-![Copy URL](periods_files/Copy.png)
+![Copy URL](media/periods/Copy.png)
 Copy URL
 
-![Download](periods_files/Download.png)
+![Download](media/periods/Download.png)
 
 Download topic
 
@@ -35,6 +35,6 @@ When a phrase ending with a colon introduces a bulleted list:
     after every element, even if a list element contains three or fewer
     words.
 
-![In progress](periods_files/activity-large.gif)
+![In progress](media/periods/activity-large.gif)
 
 URL :

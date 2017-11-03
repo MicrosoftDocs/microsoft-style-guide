@@ -6,10 +6,10 @@ Loading...
 
 command prompt
 
-![Copy URL](command-prompt_files/Copy.png)
+![Copy URL](media/command-prompt/Copy.png)
 Copy URL
 
-![Download](command-prompt_files/Download.png)
+![Download](media/command-prompt/Download.png)
 
 Download topic
 
@@ -25,6 +25,6 @@ Example At the command prompt, enter certutil -setreg ca.
 
 See also **** [command line](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33561), [console](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33563)
 
-![In progress](command-prompt_files/activity-large.gif)
+![In progress](media/command-prompt/activity-large.gif)
 
 URL :

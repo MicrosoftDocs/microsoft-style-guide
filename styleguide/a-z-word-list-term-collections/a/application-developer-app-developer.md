@@ -6,15 +6,15 @@ Loading...
 
 application developer, app developer
 
-![Copy URL](application-developer-app-developer_files/Copy.png)
+![Copy URL](media/application-developer-app-developer/Copy.png)
 Copy URL
 
-![Download](application-developer-app-developer_files/Download.png)
+![Download](media/application-developer-app-developer/Download.png)
 
 Download topic
 
 Don't use *application developer,* *applications developer,* or *app developer*. Use *software developer*, *web developer*, *developer*, or *programmer* instead.
 
-![In progress](application-developer-app-developer_files/activity-large.gif)
+![In progress](media/application-developer-app-developer/activity-large.gif)
 
 URL :

@@ -6,15 +6,15 @@ Loading...
 
 public cloud
 
-![Copy URL](public-cloud_files/Copy.png)
+![Copy URL](media/public-cloud/Copy.png)
 Copy URL
 
-![Download](public-cloud_files/Download.png)
+![Download](media/public-cloud/Download.png)
 
 Download topic
 
 **See** [Cloud-computing term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28841)
 
-![In progress](public-cloud_files/activity-large.gif)
+![In progress](media/public-cloud/activity-large.gif)
 
 URL :

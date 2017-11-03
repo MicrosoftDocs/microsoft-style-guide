@@ -6,10 +6,10 @@ Loading...
 
 use terms
 
-![Copy URL](use-terms_files/Copy.png)
+![Copy URL](media/use-terms/Copy.png)
 Copy URL
 
-![Download](use-terms_files/Download.png)
+![Download](media/use-terms/Download.png)
 
 Download topic
 
@@ -17,6 +17,6 @@ Don't use to mean *license terms.*
 
 **See** [Microsoft Software License Terms](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33682)
 
-![In progress](use-terms_files/activity-large.gif)
+![In progress](media/use-terms/activity-large.gif)
 
 URL :

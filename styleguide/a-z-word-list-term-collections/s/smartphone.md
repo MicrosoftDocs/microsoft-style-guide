@@ -6,15 +6,15 @@ Loading...
 
 smartphone
 
-![Copy URL](smartphone_files/Copy.png)
+![Copy URL](media/smartphone/Copy.png)
 Copy URL
 
-![Download](smartphone_files/Download.png)
+![Download](media/smartphone/Download.png)
 
 Download topic
 
 **See** [Computer and device term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26597)
 
-![In progress](smartphone_files/activity-large.gif)
+![In progress](media/smartphone/activity-large.gif)
 
 URL :

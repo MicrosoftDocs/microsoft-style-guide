@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Semicolons
 
-![Copy URL](semicolons_files/Copy.png)
+![Copy URL](media/semicolons/Copy.png)
 Copy URL
 
-![Download](semicolons_files/Download.png)
+![Download](media/semicolons/Download.png)
 
 Download topic
 
@@ -48,6 +48,6 @@ Example In this tutorial, you'll learn how to:
     context-sensitive Help.
   - Take advantage of many built-in components of the class library.
 
-![In progress](semicolons_files/activity-large.gif)
+![In progress](media/semicolons/activity-large.gif)
 
 URL :

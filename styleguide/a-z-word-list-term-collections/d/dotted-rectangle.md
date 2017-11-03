@@ -6,10 +6,10 @@ Loading...
 
 dotted rectangle
 
-![Copy URL](dotted-rectangle_files/Copy.png)
+![Copy URL](media/dotted-rectangle/Copy.png)
 Copy URL
 
-![Download](dotted-rectangle_files/Download.png)
+![Download](media/dotted-rectangle/Download.png)
 
 Download topic
 
@@ -19,6 +19,6 @@ customer drags to select a region on the screen. Otherwise, use *bounding outlin
 
 **See** [bounding outline](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33410)
 
-![In progress](dotted-rectangle_files/activity-large.gif)
+![In progress](media/dotted-rectangle/activity-large.gif)
 
 URL :

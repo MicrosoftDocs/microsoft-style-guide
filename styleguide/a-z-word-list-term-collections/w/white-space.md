@@ -6,15 +6,15 @@ Loading...
 
 white space
 
-![Copy URL](white-space_files/Copy.png)
+![Copy URL](media/white-space/Copy.png)
 Copy URL
 
-![Download](white-space_files/Download.png)
+![Download](media/white-space/Download.png)
 
 Download topic
 
 Two words.
 
-![In progress](white-space_files/activity-large.gif)
+![In progress](media/white-space/activity-large.gif)
 
 URL :

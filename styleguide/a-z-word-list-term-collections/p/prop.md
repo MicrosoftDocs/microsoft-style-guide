@@ -6,15 +6,15 @@ Loading...
 
 prop
 
-![Copy URL](prop_files/Copy.png)
+![Copy URL](media/prop/Copy.png)
 Copy URL
 
-![Download](prop_files/Download.png)
+![Download](media/prop/Download.png)
 
 Download topic
 
 Don't use as an abbreviation for *propagate**.*
 
-![In progress](prop_files/activity-large.gif)
+![In progress](media/prop/activity-large.gif)
 
 URL :

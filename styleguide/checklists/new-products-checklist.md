@@ -6,10 +6,10 @@ Loading...
 
 New products checklist
 
-![Copy URL](new-products-checklist_files/Copy.png)
+![Copy URL](media/new-products-checklist/Copy.png)
 Copy URL
 
-![Download](new-products-checklist_files/Download.png)
+![Download](media/new-products-checklist/Download.png)
 
 Download topic
 
@@ -21,6 +21,6 @@ Download topic
   - Avoid using code names in documentation. 
   - Provide accurate system requirements for all products, including trial, evaluation, and preview products and products and services obtained digitally. [Learn more](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26705). 
 
-![In progress](new-products-checklist_files/activity-large.gif)
+![In progress](media/new-products-checklist/activity-large.gif)
 
 URL :

@@ -6,10 +6,10 @@ Loading...
 
 Formatting titles
 
-![Copy URL](formatting-titles_files/Copy.png)
+![Copy URL](media/formatting-titles/Copy.png)
 Copy URL
 
-![Download](formatting-titles_files/Download.png)
+![Download](media/formatting-titles/Download.png)
 
 Download topic
 
@@ -78,6 +78,6 @@ See also [Capitalization](https://worldready.cloudapp.net/Styleguide/Read?id=270
 </tbody>
 </table>
 
-![In progress](formatting-titles_files/activity-large.gif)
+![In progress](media/formatting-titles/activity-large.gif)
 
 URL :

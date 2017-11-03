@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Cascading Style Sheets (CSS)
 
-![Copy URL](cascading-style-sheets-css_files/Copy.png)
+![Copy URL](media/cascading-style-sheets-css/Copy.png)
 Copy URL
 
-![Download](cascading-style-sheets-css_files/Download.png)
+![Download](media/cascading-style-sheets-css/Download.png)
 
 Download topic
 
@@ -22,6 +22,6 @@ If this is your first time working with Cascading Style Sheets (CSS), don’t wo
 Use a custom style sheet to create a unique look for your SharePoint site. 
 It looks like there's a problem with the CSS file.
 
-![In progress](cascading-style-sheets-css_files/activity-large.gif)
+![In progress](media/cascading-style-sheets-css/activity-large.gif)
 
 URL :

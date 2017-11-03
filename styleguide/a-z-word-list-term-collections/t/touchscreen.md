@@ -6,15 +6,15 @@ Loading...
 
 touchscreen
 
-![Copy URL](touchscreen_files/Copy.png)
+![Copy URL](media/touchscreen/Copy.png)
 Copy URL
 
-![Download](touchscreen_files/Download.png)
+![Download](media/touchscreen/Download.png)
 
 Download topic
 
 One word. 
 
-![In progress](touchscreen_files/activity-large.gif)
+![In progress](media/touchscreen/activity-large.gif)
 
 URL :

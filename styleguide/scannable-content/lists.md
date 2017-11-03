@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Lists
 
-![Copy URL](lists_files/Copy.png)
+![Copy URL](media/lists/Copy.png)
 Copy URL
 
-![Download](lists_files/Download.png)
+![Download](media/lists/Download.png)
 
 Download topic
 
@@ -79,6 +79,6 @@ In bulleted and numbered lists, end each list item with a period if:
 
 Don’t use semicolons, commas, or conjunctions (like *and* or *or*) at the end of list items.
 
-![In progress](lists_files/activity-large.gif)
+![In progress](media/lists/activity-large.gif)
 
 URL :

@@ -6,10 +6,10 @@ Loading...
 
 secondary menu
 
-![Copy URL](secondary-menu_files/Copy.png)
+![Copy URL](media/secondary-menu/Copy.png)
 Copy URL
 
-![Download](secondary-menu_files/Download.png)
+![Download](media/secondary-menu/Download.png)
 
 Download topic
 
@@ -17,6 +17,6 @@ Don't use in content for a general audience. If it's important to describe how t
 
 In content for developers, use only in content about creating menus and only if you can't use *submenu*. 
 
-![In progress](secondary-menu_files/activity-large.gif)
+![In progress](media/secondary-menu/activity-large.gif)
 
 URL :

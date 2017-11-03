@@ -6,10 +6,10 @@ Loading...
 
 against
 
-![Copy URL](against_files/Copy.png)
+![Copy URL](media/against/Copy.png)
 Copy URL
 
-![Download](against_files/Download.png)
+![Download](media/against/Download.png)
 
 Download topic
 
@@ -23,6 +23,6 @@ queries on HDInsight using Hadoop, HBase, or Apache Storm clusters to
 extract meaning from structured and unstructured data in Azure Storage.
 Use Elastic Database jobs to run T-SQL scripts against all of the databases in an elastic database pool.
 
-![In progress](against_files/activity-large.gif)
+![In progress](media/against/activity-large.gif)
 
 URL :

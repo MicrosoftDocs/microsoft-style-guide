@@ -6,15 +6,15 @@ Loading...
 
 turnkey
 
-![Copy URL](turnkey_files/Copy.png)
+![Copy URL](media/turnkey/Copy.png)
 Copy URL
 
-![Download](turnkey_files/Download.png)
+![Download](media/turnkey/Download.png)
 
 Download topic
 
 One word. 
 
-![In progress](turnkey_files/activity-large.gif)
+![In progress](media/turnkey/activity-large.gif)
 
 URL :

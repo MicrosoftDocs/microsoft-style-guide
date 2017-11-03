@@ -6,10 +6,10 @@ Loading...
 
 open
 
-![Copy URL](open_files/Copy.png)
+![Copy URL](media/open/Copy.png)
 Copy URL
 
-![Download](open_files/Download.png)
+![Download](media/open/Download.png)
 
 Download topic
 
@@ -19,6 +19,6 @@ Don't use *open* to describe selecting a command, a menu, an option, or other si
 
 See [Describing interactions with UI](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26472)
 
-![In progress](open_files/activity-large.gif)
+![In progress](media/open/activity-large.gif)
 
 URL :

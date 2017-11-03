@@ -6,15 +6,15 @@ Loading...
 
 endline
 
-![Copy URL](endline_files/Copy.png)
+![Copy URL](media/endline/Copy.png)
 Copy URL
 
-![Download](endline_files/Download.png)
+![Download](media/endline/Download.png)
 
 Download topic
 
 One word.
 
-![In progress](endline_files/activity-large.gif)
+![In progress](media/endline/activity-large.gif)
 
 URL :

@@ -6,15 +6,15 @@ Loading...
 
 metafile
 
-![Copy URL](metafile_files/Copy.png)
+![Copy URL](media/metafile/Copy.png)
 Copy URL
 
-![Download](metafile_files/Download.png)
+![Download](media/metafile/Download.png)
 
 Download topic
 
 One word.
 
-![In progress](metafile_files/activity-large.gif)
+![In progress](media/metafile/activity-large.gif)
 
 URL :

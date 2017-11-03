@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Developer content checklist
 
-![Copy URL](developer-content-checklist_files/Copy.png)
+![Copy URL](media/developer-content-checklist/Copy.png)
 Copy URL
 
-![Download](developer-content-checklist_files/Download.png)
+![Download](media/developer-content-checklist/Download.png)
 
 Download topic
 
@@ -62,6 +62,6 @@ Learn more about [code examples](https://worldready.cloudapp.net/Styleguide/Read
 
 Learn more about [formatting conventions for developer content](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28975).
 
-![In progress](developer-content-checklist_files/activity-large.gif)
+![In progress](media/developer-content-checklist/activity-large.gif)
 
 URL :

@@ -6,15 +6,15 @@ Loading...
 
 black hat hacker
 
-![Copy URL](black-hat-hacker_files/Copy.png)
+![Copy URL](media/black-hat-hacker/Copy.png)
 Copy URL
 
-![Download](black-hat-hacker_files/Download.png)
+![Download](media/black-hat-hacker/Download.png)
 
 Download topic
 
 See [Security, safety, and privacy terms](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26894)
 
-![In progress](black-hat-hacker_files/activity-large.gif)
+![In progress](media/black-hat-hacker/activity-large.gif)
 
 URL :

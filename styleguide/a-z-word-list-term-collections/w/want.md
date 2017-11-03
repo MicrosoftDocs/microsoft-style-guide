@@ -6,10 +6,10 @@ Loading...
 
 want
 
-![Copy URL](want_files/Copy.png)
+![Copy URL](media/want/Copy.png)
 Copy URL
 
-![Download](want_files/Download.png)
+![Download](media/want/Download.png)
 
 Download topic
 
@@ -17,6 +17,6 @@ Use instead of *wish* or *desire* when the customer has a choice of actions. Don
 
 Example Select PC info if you want to find out what version of Windows you're running.
 
-![In progress](want_files/activity-large.gif)
+![In progress](media/want/activity-large.gif)
 
 URL :

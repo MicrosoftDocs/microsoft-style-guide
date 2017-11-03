@@ -6,15 +6,15 @@ Loading...
 
 mobile device, mobile phone
 
-![Copy URL](mobile-device-mobile-phone_files/Copy.png)
+![Copy URL](media/mobile-device-mobile-phone/Copy.png)
 Copy URL
 
-![Download](mobile-device-mobile-phone_files/Download.png)
+![Download](media/mobile-device-mobile-phone/Download.png)
 
 Download topic
 
 **See** [Computer and device term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26597)
 
-![In progress](mobile-device-mobile-phone_files/activity-large.gif)
+![In progress](media/mobile-device-mobile-phone/activity-large.gif)
 
 URL :

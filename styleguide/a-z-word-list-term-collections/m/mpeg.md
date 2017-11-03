@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,15 +6,15 @@ Loading...
 
 MPEG
 
-![Copy URL](mpeg_files/Copy.png)
+![Copy URL](media/mpeg/Copy.png)
 Copy URL
 
-![Download](mpeg_files/Download.png)
+![Download](media/mpeg/Download.png)
 
 Download topic
 
 Don’t spell out. The extension for MPEG files is .mpg.
 
-![In progress](mpeg_files/activity-large.gif)
+![In progress](media/mpeg/activity-large.gif)
 
 URL :

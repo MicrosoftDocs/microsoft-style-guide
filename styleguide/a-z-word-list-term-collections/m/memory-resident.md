@@ -6,10 +6,10 @@ Loading...
 
 memory-resident
 
-![Copy URL](memory-resident_files/Copy.png)
+![Copy URL](media/memory-resident/Copy.png)
 Copy URL
 
-![Download](memory-resident_files/Download.png)
+![Download](media/memory-resident/Download.png)
 
 Download topic
 
@@ -17,6 +17,6 @@ Always hyphenate. Use *memory-resident program*, not *TSR*, in content for a gen
 
 In content for a technical audience, it's OK to use *TSR* as an abbreviation for *terminate-and-stay-resident*.
 
-![In progress](memory-resident_files/activity-large.gif)
+![In progress](media/memory-resident/activity-large.gif)
 
 URL :

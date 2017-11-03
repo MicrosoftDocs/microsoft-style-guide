@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 emoticons, emoji
 
-![Copy URL](emoticons-emoji_files/Copy.png)
+![Copy URL](media/emoticons-emoji/Copy.png)
 Copy URL
 
-![Download](emoticons-emoji_files/Download.png)
+![Download](media/emoticons-emoji/Download.png)
 
 Download topic
 
@@ -38,6 +38,6 @@ and emoji might be removed in localized versions. Make sure
 your message gets across without them, and don't embed them in
 images.
 
-![In progress](emoticons-emoji_files/activity-large.gif)
+![In progress](media/emoticons-emoji/activity-large.gif)
 
 URL :

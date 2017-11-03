@@ -6,15 +6,15 @@ Loading...
 
 backlight
 
-![Copy URL](backlight_files/Copy.png)
+![Copy URL](media/backlight/Copy.png)
 Copy URL
 
-![Download](backlight_files/Download.png)
+![Download](media/backlight/Download.png)
 
 Download topic
 
 One word.
 
-![In progress](backlight_files/activity-large.gif)
+![In progress](media/backlight/activity-large.gif)
 
 URL :

@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 Microsoft Editorial Board
 
-![Copy URL](editorial-board_files/Copy.png)
+![Copy URL](media/editorial-board/Copy.png)
 Copy URL
 
-![Download](editorial-board_files/Download.png)
+![Download](media/editorial-board/Download.png)
 
 Download topic
 
@@ -58,6 +58,6 @@ writing, development, and subject matter expertise to this edition:
   - David Dzumba
   - Microsoft worldwide terminologists 
 
-![In progress](editorial-board_files/activity-large.gif)
+![In progress](media/editorial-board/activity-large.gif)
 
 URL :

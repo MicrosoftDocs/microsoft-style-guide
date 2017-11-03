@@ -6,15 +6,15 @@ Loading...
 
 finalize
 
-![Copy URL](finalize_files/Copy.png)
+![Copy URL](media/finalize/Copy.png)
 Copy URL
 
-![Download](finalize_files/Download.png)
+![Download](media/finalize/Download.png)
 
 Download topic
 
 Don't use. Use *finish* or *complete* instead.
 
-![In progress](finalize_files/activity-large.gif)
+![In progress](media/finalize/activity-large.gif)
 
 URL :

@@ -1,4 +1,4 @@
-Your browser does not support JavaScript. Please enable the Javascript.
+﻿Your browser does not support JavaScript. Please enable the Javascript.
 
 Loading...
 
@@ -6,10 +6,10 @@ Loading...
 
 ask
 
-![Copy URL](assembly-language_files/Copy.png)
+![Copy URL](media/assembly-language/Copy.png)
 Copy URL
 
-![Download](assembly-language_files/Download.png)
+![Download](media/assembly-language/Download.png)
 
 Download topic
 
@@ -19,6 +19,6 @@ Examples
 Your assigned tasks
 After you submit your request, you’ll receive a confirmation email.
 
-![In progress](assembly-language_files/activity-large.gif)
+![In progress](media/assembly-language/activity-large.gif)
 
 URL :

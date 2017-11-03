@@ -6,10 +6,10 @@ Loading...
 
 Developer content
 
-![Copy URL](index_files/Copy.png)
+![Copy URL](media/index/Copy.png)
 Copy URL
 
-![Download](index_files/Download.png)
+![Download](media/index/Download.png)
 
 Download topic
 
@@ -39,6 +39,6 @@ This section provides guidelines for creating:
 
 It also has [guidelines for formatting text in developer content](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28975).
 
-![In progress](index_files/activity-large.gif)
+![In progress](media/index/activity-large.gif)
 
 URL :

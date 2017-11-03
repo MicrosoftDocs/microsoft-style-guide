@@ -6,10 +6,10 @@ Loading...
 
 Formatting text in instructions
 
-![Copy URL](formatting-text-in-instructions_files/Copy.png)
+![Copy URL](media/formatting-text-in-instructions/Copy.png)
 Copy URL
 
-![Download](formatting-text-in-instructions_files/Download.png)
+![Download](media/formatting-text-in-instructions/Download.png)
 
 Download topic
 
@@ -483,6 +483,6 @@ Choose one of the approaches below and use it consistently.
 </tbody>
 </table>
 
-![In progress](formatting-text-in-instructions_files/activity-large.gif)
+![In progress](media/formatting-text-in-instructions/activity-large.gif)
 
 URL :

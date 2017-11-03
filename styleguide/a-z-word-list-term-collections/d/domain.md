@@ -6,10 +6,10 @@ Loading...
 
 domain
 
-![Copy URL](domain_files/Copy.png)
+![Copy URL](media/domain/Copy.png)
 Copy URL
 
-![Download](domain_files/Download.png)
+![Download](media/domain/Download.png)
 
 Download topic
 
@@ -18,6 +18,6 @@ has different meanings in database design, Windows, and
 internet addresses. Define the term on the first use, if necessary, to
 make sure the meaning is clear. Always consult your group's editorial style guide. 
 
-![In progress](domain_files/activity-large.gif)
+![In progress](media/domain/activity-large.gif)
 
 URL :
