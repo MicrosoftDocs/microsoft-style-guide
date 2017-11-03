@@ -24,10 +24,10 @@ in comments and descriptions.
 
 #### **Alternative terms**
 
-  - *End: *use for communications and network connections.
-  - *Close: *use for apps and programs.
-  - *Stop: *use for hardware operations.
-  - *Cancel: *use for requests and processes. 
+  - *End:* use for communications and network connections.
+  - *Close:* use for apps and programs.
+  - *Stop:* use for hardware operations.
+  - *Cancel:* use for requests and processes. 
 
 ![In progress](abort-abortion_files/activity-large.gif)
 

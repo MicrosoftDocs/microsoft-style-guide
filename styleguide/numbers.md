@@ -234,7 +234,7 @@ Examples
 
 #### Ordinal numbers
 
-  - Always spell out ordinal numbers*. *
+  - Always spell out ordinal numbers*.*
 
 Examples*
 *the first row
@@ -242,15 +242,15 @@ the twenty-first anniversary*
 *
 
   - Don’t use ordinal numbers, such as *June first,* for dates. 
-  - Don’t add -*ly *to an ordinal number, as in *firstly* or *secondly*.
+  - Don’t add -*ly* to an ordinal number, as in *firstly* or *secondly*.
 
 #### Ranges of numbers
 
-  - In most cases, use *from* and *through *to describe a range of numbers.
+  - In most cases, use *from* and *through* to describe a range of numbers.
 
 Example from 9 through 17
 
-Exceptions Use an en dash in a range of pages or where space is an issue, such as in tables and UI. For example, *2016–2020 *and *pages 112–120. *
+Exceptions Use an en dash in a range of pages or where space is an issue, such as in tables and UI. For example, *2016–2020* and *pages 112–120.*
 
   - Don’t use *from* before a range indicated by an en dash, such as *10–15*. 
 

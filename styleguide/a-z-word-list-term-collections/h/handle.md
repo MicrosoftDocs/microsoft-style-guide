@@ -13,10 +13,10 @@ Copy URL
 
 Download topic
 
-When you use *handle *to
+When you use *handle* to
 describe a token that's temporarily assigned to a device or object to
 identify and provide access to the device, insert a space between
-the word *handle *and the sequential number.
+the word *handle* and the sequential number.
 
 Examples 
 handle 0

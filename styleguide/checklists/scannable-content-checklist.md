@@ -25,7 +25,7 @@ scanning, and organize content into discrete, scannable chunks.
   - Keep sentences and paragraphs short.
   - Link to detailed information to help keep content brief and to the point.
   - Put the most important words near the beginning of phrases, sentences, and paragraphs.
-  - Include navigation in long content, and include *Back to top *links.
+  - Include navigation in long content, and include *Back to top* links.
   - Format text consistently. To learn more, see [Text formatting](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36381). 
   - Use
     the same structure for sentences and phrases that describe similar

@@ -17,7 +17,7 @@ In general, try not to talk about UI. Instead, talk about what the customer shou
 
 In content about Windows, use *folder* to refer to a container for files and other folders. Use *directory* only in content for developers when you need to refer to the structure of the file system or to match the API. For MS-DOS, use *directory*. 
 
-Use *folder icon *to describe the visual representation of a folder. Don't use *directory icon.*
+Use *folder icon* to describe the visual representation of a folder. Don't use *directory icon.*
 
 **Note** Not
 all folders contain files or other folders. For example, the

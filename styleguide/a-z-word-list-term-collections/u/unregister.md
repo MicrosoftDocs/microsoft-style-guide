@@ -13,7 +13,7 @@ Copy URL
 
 Download topic
 
-Don't use in content for a general audience. It's OK to use *unregister *in content for developers. 
+Don't use in content for a general audience. It's OK to use *unregister* in content for developers. 
 
 ![In progress](unregister_files/activity-large.gif)
 

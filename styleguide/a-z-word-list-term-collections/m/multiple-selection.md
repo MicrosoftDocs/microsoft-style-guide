@@ -13,7 +13,7 @@ Copy URL
 
 Download topic
 
-Use to refer to a selection that includes multiple items. It's OK to use *adjacent selection *if you must emphasize that the selected items are adjacent to one another.
+Use to refer to a selection that includes multiple items. It's OK to use *adjacent selection* if you must emphasize that the selected items are adjacent to one another.
 
 Don't use *disjoint selection*, *nonadjacent selection*, or *noncontiguous selection*,
 except in content for a technical audience, and only if the term

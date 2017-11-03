@@ -146,7 +146,7 @@ require much less space—so they’re ideal for packaging blurbs, web content, 
 When you use bold formatting for run-in headings:
 
   - Make sure the first few words of the paragraph are interesting and introduce the paragraph contents. 
-  - Consider repeating common phrases, such as *Tip, Note, *and *See also, *as
+  - Consider repeating common phrases, such as *Tip, Note,* and *See also,* as
     run-in headings to call attention to helpful information,
     interesting but nonessential information, or
     cross-references, respectively.

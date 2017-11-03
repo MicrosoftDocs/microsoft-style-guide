@@ -19,7 +19,7 @@ Examples**
 **command-line parameter 
 command-line tool
 
-Customers enter commands *at* a *command prompt*, not *on *a *command line.*
+Customers enter commands *at* a *command prompt*, not *on* a *command line.*
 
 It's OK to use *on the command line* in the context of building apps using command-line tools in Visual Studio.
 

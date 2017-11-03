@@ -22,7 +22,7 @@ Examples
 For information about the dialog box, click the Help button.
 For information about the dialog box, click Help.
 
-It's OK to use *command button *in content for developers about creating command buttons.
+It's OK to use *command button* in content for developers about creating command buttons.
 
 Don't refer to a command button as an *action button* or *push button*. 
 

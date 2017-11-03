@@ -13,7 +13,7 @@ Copy URL
 
 Download topic
 
-Use *matrices, *not *matrixes,* as the plural form of *matrix*.
+Use *matrices,* not *matrixes,* as the plural form of *matrix*.
 
 ![In progress](matrix-matrices_files/activity-large.gif)
 

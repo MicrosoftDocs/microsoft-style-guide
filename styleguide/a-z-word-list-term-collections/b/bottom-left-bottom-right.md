@@ -13,7 +13,7 @@ Copy URL
 
 Download topic
 
-Don't use except in discussions of the **BottomLeft** and **BottomRight** properties. Use *lower left* and *lower right *instead.  
+Don't use except in discussions of the **BottomLeft** and **BottomRight** properties. Use *lower left* and *lower right* instead.  
 
 Hyphenate *lower left* and *lower right* as adjectives.
 

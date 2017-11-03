@@ -13,7 +13,7 @@ Copy URL
 
 Download topic
 
-Don't use as a verb. Use a phrase such as *make obsolete *instead.
+Don't use as a verb. Use a phrase such as *make obsolete* instead.
 
 ![In progress](obsolete_files/activity-large.gif)
 

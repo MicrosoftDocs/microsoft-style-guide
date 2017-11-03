@@ -13,7 +13,7 @@ Copy URL
 
 Download topic
 
-Don't use. Use *for example *instead. 
+Don't use. Use *for example* instead. 
 
 ![In progress](eg_files/activity-large.gif)
 

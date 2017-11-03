@@ -19,7 +19,7 @@ Plural: *euros*
 
 Symbol: €
 
-HTML code: *&\#128; *(Alt+0128 on the numeric keypad) 
+HTML code: *&\#128;* (Alt+0128 on the numeric keypad) 
 
 In
 US content, place the euro symbol in front of the amount. Different
@@ -30,7 +30,7 @@ appropriate.
 
 Example €3.50
 
-Use *supports the euro currency standard *to refer to a country's use of the euro.
+Use *supports the euro currency standard* to refer to a country's use of the euro.
 
 Use the following phrases to refer to countries that have adopted the euro as their currency:
 

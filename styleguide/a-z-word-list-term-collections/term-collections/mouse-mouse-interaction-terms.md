@@ -52,7 +52,7 @@ When you need to talk specifically about the mouse, mouse interactions, or the p
 </div></td>
 <td><div>
 <div>
-<span style="font-size:small;">Use to describe selecting an item by clicking the mouse twice in rapid succession. Hyphenate. Don’t use </span><em><span style="font-size:small;">double-click on. </span></em>
+<span style="font-size:small;">Use to describe selecting an item by clicking the mouse twice in rapid succession. Hyphenate. Don’t use </span><em><span style="font-size:small;">double-click on.</span></em>
 </div>
 </div></td>
 </tr>
@@ -61,7 +61,7 @@ When you need to talk specifically about the mouse, mouse interactions, or the p
 <span style="font-family:Segoe UI Semibold;font-size:small;">drag</span>
 </div></td>
 <td><div>
-<span style="font-size:small;">Use to describe holding down a button while moving the mouse, and then releasing the button. Don’t use </span><em><span style="font-size:small;">click and drag</span></em><span style="font-size:small;"> or </span><em><span style="font-size:small;">drag and drop. </span></em><span style="font-size:small;">It’s OK to use </span><em><span style="font-size:small;">drop </span></em><span style="font-size:small;">by itself if </span><em><span style="font-size:small;">drag </span></em><span style="font-size:small;">isn’t precise enough.</span>
+<span style="font-size:small;">Use to describe holding down a button while moving the mouse, and then releasing the button. Don’t use </span><em><span style="font-size:small;">click and drag</span></em><span style="font-size:small;"> or </span><em><span style="font-size:small;">drag and drop.</span></em> <span style="font-size:small;">It’s OK to use </span><em><span style="font-size:small;">drop</span></em> <span style="font-size:small;">by itself if </span><em><span style="font-size:small;">drag</span></em> <span style="font-size:small;">isn’t precise enough.</span>
 </div></td>
 </tr>
 <tr class="even">
@@ -69,7 +69,7 @@ When you need to talk specifically about the mouse, mouse interactions, or the p
 <strong><span style="font-family:Segoe UI Semibold;font-size:small;">point to</span></strong>
 </div></td>
 <td><div>
-<span style="font-size:small;">Use instead of <em>mouse over</em> or </span><em><span style="font-size:small;">move the mouse pointer to. </span></em><span style="font-size:small;">It’s OK to use </span><em><span style="font-size:small;">move the mouse pointer to </span></em><span style="font-size:small;">in content that teaches beginning skills. </span>
+<span style="font-size:small;">Use instead of <em>mouse over</em> or </span><em><span style="font-size:small;">move the mouse pointer to.</span></em> <span style="font-size:small;">It’s OK to use </span><em><span style="font-size:small;">move the mouse pointer to</span></em> <span style="font-size:small;">in content that teaches beginning skills. </span>
 </div></td>
 </tr>
 <tr class="odd">
@@ -109,7 +109,7 @@ When you need to talk specifically about the mouse, mouse interactions, or the p
 </div></td>
 <td><div>
 <div>
-<span style="font-size:small;">Use </span><em><span style="font-size:small;">mouse</span></em><span style="font-size:small;"> to refer to one mouse. If you need to refer to more than one mouse, use </span><em><span style="font-size:small;">mouse devices, </span></em><span style="font-size:small;">not </span><em><span style="font-size:small;">mice. </span></em><span style="font-size:small;">(And try to write around this.)</span>
+<span style="font-size:small;">Use </span><em><span style="font-size:small;">mouse</span></em><span style="font-size:small;"> to refer to one mouse. If you need to refer to more than one mouse, use </span><em><span style="font-size:small;">mouse devices,</span></em> <span style="font-size:small;">not </span><em><span style="font-size:small;">mice.</span></em> <span style="font-size:small;">(And try to write around this.)</span>
 </div>
 </div></td>
 </tr>
@@ -167,7 +167,7 @@ of the word *pointer*—use both*.*
 <span style="font-family:Segoe UI Semibold;font-size:small;">double-headed arrow </span>
 </div></td>
 <td><div>
-<span style="font-size:small;">Use to describe how the pointer looks over a split line (</span><img src="mouse-mouse-interaction-terms_files/1502439723.png" /><span style="font-size:small;">). Don’t use </span><em><span style="font-size:small;">double-headed arrow </span></em><span style="font-size:small;">as a name for the pointer.<br />
+<span style="font-size:small;">Use to describe how the pointer looks over a split line (</span><img src="mouse-mouse-interaction-terms_files/1502439723.png" /><span style="font-size:small;">). Don’t use </span><em><span style="font-size:small;">double-headed arrow</span></em> <span style="font-size:small;">as a name for the pointer.<br />
 </span><span style="color:#006600;font-family:Segoe UI;font-size:small;">Example</span> <span style="color:#000000;font-size:small;"><br />
 </span><span style="font-size:small;">When the pointer becomes a </span><img src="mouse-mouse-interaction-terms_files/270050385.png" /><span style="font-size:small;">, drag the pointer to move the split line.</span>
 </div></td>

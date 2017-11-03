@@ -41,7 +41,7 @@ Follow these guidelines in Microsoft content:
     Country/Region
     Select the On/Off toggle.
 
-Learn more To learn more about capitalization, see [*The Chicago Manual of Style*](http://www.chicagomanualofstyle.org/home.html). (If you have Microsoft network access, you can use *[The Chicago Manual of Style Online](http://aka.ms/mslibrary/cms)* through MS Library.) If you’re not sure whether to capitalize a term, check your group's editorial style guide, the ** [A–Z word list](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25512)*, *and [*The American Heritage Dictionary*](https://ahdictionary.com/). 
+Learn more To learn more about capitalization, see [*The Chicago Manual of Style*](http://www.chicagomanualofstyle.org/home.html). (If you have Microsoft network access, you can use *[The Chicago Manual of Style Online](http://aka.ms/mslibrary/cms)* through MS Library.) If you’re not sure whether to capitalize a term, check your group's editorial style guide, the ** [A–Z word list](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25512)*,* and [*The American Heritage Dictionary*](https://ahdictionary.com/). 
 
 For information about capitalization in UI, see [UI text and design](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28880) and for information about capitalizing UI labels in instructions, see [Formatting text in instructions](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=29014). To learn more about using the Segoe font in formatting and design, see [Text formatting](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36381).
 
@@ -65,13 +65,13 @@ Available for Microsoft partners and commercial and public-sector customers
 Occasionally,
 title-style capitalization—capitalizing most words—is appropriate.
 For example, product and service names, the names of blogs, book and
-song titles, article titles in citations, and titles of people (*Vice President *or *Director of Marketing*) require title-style capitalization. In a tweet, it’s OK to use title-style capitalization to highlight the name of a quoted article. 
+song titles, article titles in citations, and titles of people (*Vice President* or *Director of Marketing*) require title-style capitalization. In a tweet, it’s OK to use title-style capitalization to highlight the name of a quoted article. 
 
 On the rare occasions when title-style capitalization is required, follow these guidelines: 
 
   - Always capitalize the first and last words.
     Example A Home to Go Back To
-  - Don’t capitalize *a, an, *or *the* unless it's the first word.
+  - Don’t capitalize *a, an,* or *the* unless it's the first word.
     Examples
     Microsoft on the Issues
     The Official Microsoft Blog 
@@ -83,7 +83,7 @@ On the rare occasions when title-style capitalization is required, follow these 
     Achieving Excellence in the Classroom Through Technology
     OneNote Class Notebooks for Teachers
     The Teaching Tool You're Looking For
-  - Don’t capitalize *and, but, or, nor, yet, *or *so* unless it's the first word or the last word.
+  - Don’t capitalize *and, but, or, nor, yet,* or *so* unless it's the first word or the last word.
     Example Monitoring and Operating a Private or Hybrid Cloud
   - Capitalize all other words, including nouns, verbs (including *is* and other forms of *be*), adverbs (including *very* and *too*), adjectives, and pronouns (including *this, that,* and *its*).
     Examples

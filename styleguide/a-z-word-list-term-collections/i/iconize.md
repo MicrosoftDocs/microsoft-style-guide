@@ -13,7 +13,7 @@ Copy URL
 
 Download topic
 
-Don't use. Use *shrink to an icon *or *minimize *instead.
+Don't use. Use *shrink to an icon* or *minimize* instead.
 
 ![In progress](iconize_files/activity-large.gif)
 

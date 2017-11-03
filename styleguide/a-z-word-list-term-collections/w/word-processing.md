@@ -13,11 +13,11 @@ Copy URL
 
 Download topic
 
-Use *word processor* or *word processing *as a noun.
+Use *word processor* or *word processing* as a noun.
 
-Hyphenate *word-processing *as an adjective.
+Hyphenate *word-processing* as an adjective.
 
-Don't use *word process* or *word processing *as a verb. Use *write, format*, or another term instead.
+Don't use *word process* or *word processing* as a verb. Use *write, format*, or another term instead.
 
 ![In progress](word-processing_files/activity-large.gif)
 

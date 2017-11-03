@@ -66,7 +66,7 @@ your wiki with an idea of how you'll organize the content. Most
 wikis don’t have a standard table of contents, but you can create one or
 more navigation articles to provide links to other articles. 
 
-To encourage contribution, create *stub topics: *partially
+To encourage contribution, create *stub topics:* partially
 completed topic drafts that the community can add to. Start with
 content that encourages contribution, such as troubleshooting or
 tips and tricks, and experiment from there. Make sure your product,

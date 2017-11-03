@@ -327,7 +327,7 @@ Use * instead if necessary to match software. </span><span style="color:#000000;
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">number sign or hashtag<br />
 <br />
-In general, </span><span style="font-size:small;">use </span><em><span style="font-size:small;">number sign </span></em><span style="font-size:small;">instead of </span><em><span style="font-size:small;">pound sign </span></em><span style="font-size:small;">to refer to the # symbol. In </span><span style="font-family:Segoe UI;font-size:small;">social media, use <em>hashtag.</em> Use <em>pound key</em> when referring to the phone keypad button.</span>
+In general, </span><span style="font-size:small;">use </span><em><span style="font-size:small;">number sign</span></em> <span style="font-size:small;">instead of </span><em><span style="font-size:small;">pound sign</span></em> <span style="font-size:small;">to refer to the # symbol. In </span><span style="font-family:Segoe UI;font-size:small;">social media, use <em>hashtag.</em> Use <em>pound key</em> when referring to the phone keypad button.</span>
 </div></td>
 </tr>
 <tr class="even">

@@ -13,11 +13,11 @@ Copy URL
 
 Download topic
 
-Always refer to a specific kind of memory, such as *random-access memory (**RAM)**, read-only memory (ROM), *or *hard drive space*. 
+Always refer to a specific kind of memory, such as *random-access memory (**RAM)**, read-only memory (ROM),* or *hard drive space*. 
 
 Spell out RAM and ROM on the first mention unless you're positive that your audience is familiar with the term.
 
-In the noun forms that refer to memory measurements, use *of *in a prepositional phrase, as in *512 MB of RAM*.
+In the noun forms that refer to memory measurements, use *of* in a prepositional phrase, as in *512 MB of RAM*.
 
 Example
 Here's what it takes to upgrade to Windows 10 on your PC or tablet: 

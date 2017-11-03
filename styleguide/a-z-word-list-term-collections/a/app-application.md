@@ -15,7 +15,7 @@ Download topic
 
 The Microsoft technologies that customers use to get things done come in a variety of shapes and sizes. Always refer to your group's editorial style guide for details about when to use *app, application, product,* and *service.*
 
-If possible, refer to a product by its descriptor, such as *database management system *or *spreadsheet.*
+If possible, refer to a product by its descriptor, such as *database management system* or *spreadsheet.*
 
 Most of the time use app, not application, to describe desktop apps and cloud apps for tablets and mobile devices. 
 

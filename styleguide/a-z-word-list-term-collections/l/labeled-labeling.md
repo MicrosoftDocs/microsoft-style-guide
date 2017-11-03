@@ -13,7 +13,7 @@ Copy URL
 
 Download topic
 
-Use one *l, *not two.
+Use one *l,* not two.
 
 ![In progress](labeled-labeling_files/activity-large.gif)
 

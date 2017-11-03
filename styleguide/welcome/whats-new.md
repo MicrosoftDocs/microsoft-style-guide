@@ -13,7 +13,7 @@ Copy URL
 
 Download topic
 
-This table shows a history of recent updates to the *Microsoft Writing Style Guide. *
+This table shows a history of recent updates to the *Microsoft Writing Style Guide.*
 
 Contact <msstyle@microsoft.com> for archives of earlier history.
 

@@ -31,7 +31,7 @@ consistent in how you list mouse procedures. For example,
 always list the mouse method before the keyboard method if
 you document both. Don’t combine keyboard and
 mouse actions as if they were keyboard shortcuts unless space is
-limited. For example, don’t use *Shift+click. *Instead, use *Select Shift while clicking ….*
+limited. For example, don’t use *Shift+click.* Instead, use *Select Shift while clicking ….*
 
 See also [Mouse and mouse interaction term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=29013)
 
@@ -72,7 +72,7 @@ Use *tap* and *double-tap* instead of *click* and *double-click* when writing co
 <span style="font-family:Segoe UI Semibold;font-size:small;">double-tap</span>
 </div></td>
 <td><div>
-<span style="font-size:small;">Use to describe selecting an item by tapping twice in rapid succession. Hyphenate. Don’t use </span><em><span style="font-size:small;">double-tap on. </span></em>
+<span style="font-size:small;">Use to describe selecting an item by tapping twice in rapid succession. Hyphenate. Don’t use </span><em><span style="font-size:small;">double-tap on.</span></em>
 </div></td>
 </tr>
 <tr class="even">
@@ -207,7 +207,7 @@ Example This table describes two ways to save a file.
 
 If one step has an alternative, make
 that alternative a separate paragraph in the step. In a
-single-step procedure, an alternative can be separated by the word *or *to make it clear that an alternative is available.
+single-step procedure, an alternative can be separated by the word *or* to make it clear that an alternative is available.
 Examples
 Press
 the key for the underlined letter in the menu name. You can also use

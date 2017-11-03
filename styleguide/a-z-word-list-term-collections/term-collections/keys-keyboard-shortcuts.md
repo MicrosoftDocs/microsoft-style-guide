@@ -35,7 +35,7 @@ For information about describing customers' interactions with UI, see [Procedure
 <td><div>
 <span style="font-family:Segoe UI Semibold;font-size:small;">keyboard shortcut, accelerator key, fast key, hot key, quick key, speed key</span>
 </div></td>
-<td><span style="font-size:small;">In general, use </span><em><span style="font-size:small;">keyboard shortcut </span></em><span style="font-size:small;">to describe a combination of keystrokes used to perform a task.<br />
+<td><span style="font-size:small;">In general, use </span><em><span style="font-size:small;">keyboard shortcut</span></em> <span style="font-size:small;">to describe a combination of keystrokes used to perform a task.<br />
 </span><span style="font-size:small;color:#107C10;">Example</span><span style="font-size:small;"> Alt+Ctrl+S<br />
 <br />
 </span><span style="font-size:small;"><span style="font-size:small;">Don’t use </span><em>accelerator key,</em> <em>fast key, hot key, quick key,</em> <span style="font-size:small;">or </span><em>speed key.</em></span></td>
@@ -101,10 +101,10 @@ Each group must resolve any problems that this approach might cause because of h
 <br />
 </span></span><span style="font-size:small;"><span style="font-size:small;">Don’t use </span><em>depressed</em><span style="font-size:small;"> to describe an indented toolbar button unless you have no other choice.</span></span><br />
 <span style="font-family:Segoe UI;font-size:small;"><br />
-Use </span><em><span style="font-family:Segoe UI;font-size:small;">use </span></em><span style="font-family:Segoe UI;font-size:small;"><span style="font-family:Segoe UI;font-size:small;">when <em>select</em> might be confusing, such as when referring to the arrow keys or function keys and</span><span style="font-family:Segoe UI;font-size:small;"> <em>select</em> </span></span><em><span style="font-family:Segoe UI;font-size:small;"></span></em><span style="font-family:Segoe UI;font-size:small;"><span style="font-family:Segoe UI;font-size:small;">might make customers think that they need to select all the arrow keys simultaneously.<br />
+Use </span><em><span style="font-family:Segoe UI;font-size:small;">use</span></em> <span style="font-family:Segoe UI;font-size:small;"><span style="font-family:Segoe UI;font-size:small;">when <em>select</em> might be confusing, such as when referring to the arrow keys or function keys and</span><span style="font-family:Segoe UI;font-size:small;"> <em>select</em> </span></span><em><span style="font-family:Segoe UI;font-size:small;"></span></em><span style="font-family:Segoe UI;font-size:small;"><span style="font-family:Segoe UI;font-size:small;">might make customers think that they need to select all the arrow keys simultaneously.<br />
 </span></span><span style="color:#006600;font-family:Segoe UI;font-size:small;">Example</span><span style="font-family:Segoe UI;font-size:small;"> Use the arrow keys to move around the text<span style="font-family:Segoe UI;font-size:small;">.<br />
 </span></span><br />
-<span style="font-family:Segoe UI;font-size:small;">Use </span><em><span style="font-family:Segoe UI;font-size:small;">use </span></em><span style="font-family:Segoe UI;font-size:small;"><span style="font-family:Segoe UI;font-size:small;">when multiple platform or peripheral choices initiate the same action or actions within a program.<br />
+<span style="font-family:Segoe UI;font-size:small;">Use </span><em><span style="font-family:Segoe UI;font-size:small;">use</span></em> <span style="font-family:Segoe UI;font-size:small;"><span style="font-family:Segoe UI;font-size:small;">when multiple platform or peripheral choices initiate the same action or actions within a program.<br />
 </span></span><span style="color:#006600;font-family:Segoe UI;font-size:small;">Example</span> <span style="font-family:Segoe UI;font-size:small;"><span style="font-family:Segoe UI;font-size:small;"></span>Use the controls on your keyboard or controller to run through the obstacle course<span style="font-family:Segoe UI;font-size:small;">.</span></span><span style="font-family:&#39;Segoe UI&#39;;"><br />
 <br />
 </span><span style="font-family:Segoe UI;font-size:small;"><span style="font-family:Segoe UI;font-size:small;">Be specific when teaching beginning skills.<br />
@@ -127,7 +127,7 @@ Use <em>select</em> </span><em><span style="font-family:Segoe UI;font-size:small
 </div>
 <div>
 <span style="font-size:small;"><span style="font-size:small;"><br />
-In content for developers or content about customizing the UI, it’s OK to distinguish between an </span><em>access key</em> <span style="font-size:small;">and a </span><em>shortcut key</em></span><span style="font-size:small;">. </span><span style="font-size:small;">An access key is a letter or number that users select to access UI controls that have text labels. For example, the </span><em><span style="font-size:small;">F </span></em><span style="font-size:small;">in Alt+F. A shortcut key is a key or key combination that users select to perform a common action. For example, Ctrl+V. </span><span style="font-size:small;">If you use these terms, explain the difference.</span>
+In content for developers or content about customizing the UI, it’s OK to distinguish between an </span><em>access key</em> <span style="font-size:small;">and a </span><em>shortcut key</em></span><span style="font-size:small;">. </span><span style="font-size:small;">An access key is a letter or number that users select to access UI controls that have text labels. For example, the </span><em><span style="font-size:small;">F</span></em> <span style="font-size:small;">in Alt+F. A shortcut key is a key or key combination that users select to perform a common action. For example, Ctrl+V. </span><span style="font-size:small;">If you use these terms, explain the difference.</span>
 </div></td>
 </tr>
 </tbody>
@@ -145,7 +145,7 @@ In content for developers or content about customizing the UI, it’s OK to dist
     and bold a letter key when instructing customers to enter the letter
     (unless you're instructing them to enter a capital letter).
     Example enter k
-  - On the first mention, you can use the definite article *the *and the word *key *with the key name if necessary for clarity. 
+  - On the first mention, you can use the definite article *the* and the word *key* with the key name if necessary for clarity. 
     Example Select the F1 key. 
   - On subsequent mentions, refer to the key by its name only. 
     Example Select F1.
@@ -256,7 +256,7 @@ It’s OK to use </span><em>star</em><span style="font-size:small;"> to refer to
 </tr>
 <tr class="odd">
 <td><span style="font-family:Segoe UI Semibold;font-size:small;">Caps lock</span></td>
-<td><span style="font-family:Segoe UI;font-size:small;">Use sentence capitalization. Use to refer to the </span><em><span style="font-family:Segoe UI;font-size:small;">Caps lock </span></em><span style="font-family:Segoe UI;font-size:small;"><em>key.</em></span></td>
+<td><span style="font-family:Segoe UI;font-size:small;">Use sentence capitalization. Use to refer to the </span><em><span style="font-family:Segoe UI;font-size:small;">Caps lock</span></em> <span style="font-family:Segoe UI;font-size:small;"><em>key.</em></span></td>
 </tr>
 <tr class="even">
 <td><div>
@@ -336,7 +336,7 @@ Capitalize </span><em>Comma</em> <span style="font-size:small;">when instructing
 <td><div>
 <span style="font-family:Segoe UI Semibold;font-size:small;">F1–F12 </span>
 </div></td>
-<td><span style="font-size:small;">Capitalize the </span><em><span style="font-size:small;">F. </span></em><span style="font-size:small;">Don't add a space between the </span><em><span style="font-size:small;">F </span></em><span style="font-size:small;">and the number.</span></td>
+<td><span style="font-size:small;">Capitalize the </span><em><span style="font-size:small;">F.</span></em> <span style="font-size:small;">Don't add a space between the </span><em><span style="font-size:small;">F</span></em> <span style="font-size:small;">and the number.</span></td>
 </tr>
 <tr class="even">
 <td><div>
@@ -399,7 +399,7 @@ Capitalize </span><em>Comma</em> <span style="font-size:small;">when instructing
 <span style="font-family:Segoe UI Semibold;font-size:small;">minus sign (–)</span>
 </div></td>
 <td><div>
-<span style="font-size:small;"><span style="font-size:small;">Spell out </span><em>minus sign</em> <span style="font-size:small;">when referring to a key. Use sentence capitalization (</span></span><em><span style="font-size:small;">Minus sign) </span></em><span style="font-size:small;">when instructing a reader to select the key. Include the symbol in parentheses when needed for clarity. </span><span style="font-family:Segoe UI;font-size:small;"><br />
+<span style="font-size:small;"><span style="font-size:small;">Spell out </span><em>minus sign</em> <span style="font-size:small;">when referring to a key. Use sentence capitalization (</span></span><em><span style="font-size:small;">Minus sign)</span></em> <span style="font-size:small;">when instructing a reader to select the key. Include the symbol in parentheses when needed for clarity. </span><span style="font-family:Segoe UI;font-size:small;"><br />
 HTML code: </span><em><span style="font-family:Segoe UI;font-size:small;">&amp;#150;</span></em>
 </div></td>
 </tr>

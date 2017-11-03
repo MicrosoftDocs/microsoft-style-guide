@@ -32,7 +32,7 @@ Writing tip If a series contains more than three items or the items are long, co
 
 Example With the Skype app, you can call any phone.
 
-  - To join independent clauses with a conjunction, such as *and, or, but, *or *so.*
+  - To join independent clauses with a conjunction, such as *and, or, but,* or *so.*
 
 Example Select Options, and then select Enable fast saves.
 

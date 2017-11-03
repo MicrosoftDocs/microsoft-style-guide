@@ -19,7 +19,7 @@ Use *indentation* to refer to the general concept.
 
 Don't use *outdent.*
 
-Don't use *indenting *or *outdenting into the margin*. Use *extending text into the margin* or *indenting to the previous tab stop* instead.
+Don't use *indenting* or *outdenting into the margin*. Use *extending text into the margin* or *indenting to the previous tab stop* instead.
 
 ![In progress](indent-outdent_files/activity-large.gif)
 

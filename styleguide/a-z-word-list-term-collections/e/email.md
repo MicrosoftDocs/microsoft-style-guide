@@ -16,7 +16,7 @@ Download topic
 Use to
 refer generically to an electronic mail program, to refer collectively
 to email messages, or to refer to individual email messages. If
-necessary to distinguish these meanings, use *email message *or *message* to refer to an individual piece of email. Make sure it's
+necessary to distinguish these meanings, use *email message* or *message* to refer to an individual piece of email. Make sure it's
 clear that you're not referring to instant messaging. After you
 have established the context of electronic mail, it's OK to use *mail* instead of *email*.
 

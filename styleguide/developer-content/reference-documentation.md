@@ -74,7 +74,7 @@ depending on the language, product, or technology being documented.
 <span style="font-size: small;">Type: System.Boolean </span></span><strong><span style="font-size: small;"><br />
 </span></strong><span style="font-size: small;"><span style="font-family: Segoe UI Semibold; font-size: small;">true</span></span><span style="font-size: small;"> to specify the box is rendered; </span><span style="font-family: Segoe UI Semibold; font-size: small;">false</span><span style="font-size: small;"> to specify it's not rendered</span>
 <p></p>
-<em><span style="font-family: &quot;Segoe UI Light&quot;,sans-serif; font-size: small;">Input </span></em><span style="font-family: &quot;Segoe UI Light&quot;,sans-serif; font-size: small;"><br />
+<em><span style="font-family: &quot;Segoe UI Light&quot;,sans-serif; font-size: small;">Input</span></em> <span style="font-family: &quot;Segoe UI Light&quot;,sans-serif; font-size: small;"><br />
 </span><span style="font-family: Segoe UI; font-size: small;"><span style="font-size: small;">Type: System.String </span><br />
 <span style="font-size: small;">The text to convert</span></span></td>
 </tr>

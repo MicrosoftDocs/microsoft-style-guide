@@ -22,7 +22,7 @@ Never refer to a computer that's running Microsoft SQL Server as any of the foll
   - SQL Servers
   - SQL server
 
-When you're referring to Structured Query Language as *SQL*, use the indefinite article *an: **an* *SQL database.*
+When you're referring to Structured Query Language as *SQL*, use the indefinite article *an:* *an* *SQL database.*
 
 ![In progress](sql-sql-server_files/activity-large.gif)
 

@@ -15,7 +15,7 @@ Download topic
 
 Lowercase *web* as a modifier except to match UI, in feature names that include *web,* and to comply with your group's editorial style guide. 
 
-Avoid the phrase *World Wide Web. *Use *the web *instead. 
+Avoid the phrase *World Wide Web.* Use *the web* instead. 
 
 Lowercase *www* in URLs and internet addresses. 
 

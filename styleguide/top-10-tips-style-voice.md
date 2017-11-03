@@ -109,7 +109,7 @@ Move a tile
 1\. Press and hold the tile.
 
 Remember the last comma
-In a list of three or more items, include a comma before the conjunction*. *(The comma that comes before the conjunction is known as the Oxford or serial comma*.*) ** To learn more, see [Commas](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28752). 
+In a list of three or more items, include a comma before the conjunction*.* (The comma that comes before the conjunction is known as the Oxford or serial comma*.*) ** To learn more, see [Commas](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28752). 
 
 Example
 Replace this: Android, iOS and Windows

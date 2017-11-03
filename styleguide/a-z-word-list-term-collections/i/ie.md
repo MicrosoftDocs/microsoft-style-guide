@@ -13,7 +13,7 @@ Copy URL
 
 Download topic
 
-Don't use. Use *that is *instead.
+Don't use. Use *that is* instead.
 
 ![In progress](ie_files/activity-large.gif)
 

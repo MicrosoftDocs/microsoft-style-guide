@@ -60,7 +60,7 @@ customer experiences:
 As you shape UI text, know the answers to these questions:
 
   - Who is the customer? Will everyone see this screen? Or is it for advanced users only? 
-  - What is the customer trying to do? (This is different from, What do we *want *the customer to do?) Is this screen a step in a larger task or customer goal? A warning, an error, or a notification? 
+  - What is the customer trying to do? (This is different from, What do we *want* the customer to do?) Is this screen a step in a larger task or customer goal? A warning, an error, or a notification? 
   - What is the customer’s frame of mind? Are
     they wondering if something has gone wrong? Mad because they can’t
     sign in? Confused about which option is best? Happy to

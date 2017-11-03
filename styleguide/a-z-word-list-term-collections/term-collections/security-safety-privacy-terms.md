@@ -16,7 +16,7 @@ Download topic
 Don’t
 use words that imply security, safety, or privacy without
 qualification. Instead, focus statements on features. For example,
-say *Outlook uses antiphishing technology to scan incoming mail automatically, *not *Outlook helps protect your computer from phishing.*
+say *Outlook uses antiphishing technology to scan incoming mail automatically,* not *Outlook helps protect your computer from phishing.*
 
 See [Security, safety, and privacy content](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26896) for more information.
 
@@ -255,7 +255,7 @@ This section describes usage for specific security terms. For definitions of sec
 <span style="font-family:Segoe UI Semibold;font-size:small;">lock</span>
 </div></td>
 <td><div>
-<span style="font-family:Segoe UI;font-size:small;">Don’t use to mean </span><em><span style="font-family:Segoe UI;font-size:small;">protect. </span></em>
+<span style="font-family:Segoe UI;font-size:small;">Don’t use to mean </span><em><span style="font-family:Segoe UI;font-size:small;">protect.</span></em>
 </div></td>
 </tr>
 <tr class="odd">

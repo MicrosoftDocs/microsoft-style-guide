@@ -13,7 +13,7 @@ Copy URL
 
 Download topic
 
-Use *extend* instead of *grow *to refer to extending a selection.
+Use *extend* instead of *grow* to refer to extending a selection.
 
 ![In progress](extend_files/activity-large.gif)
 

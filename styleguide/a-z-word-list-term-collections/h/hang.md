@@ -15,7 +15,7 @@ Download topic
 
 Don't use.
 
-Use *stop responding* to describe a situation in which a program encounters a problem and can’t close itself. (It's OK to mention *hang *to support search engine optimization.)
+Use *stop responding* to describe a situation in which a program encounters a problem and can’t close itself. (It's OK to mention *hang* to support search engine optimization.)
 
 Example If the application stops responding, or *hangs,* you might have to restart your computer. 
 

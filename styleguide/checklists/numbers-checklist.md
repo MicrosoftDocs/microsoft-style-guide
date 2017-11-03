@@ -53,7 +53,7 @@ Use for:
 
 #### Dates
 
-  - Don’t use ordinal numbers, such as *June first* or *October twenty-eighth*, for dates. Use a numeral instead*. *
+  - Don’t use ordinal numbers, such as *June* *first* or *October twenty-eighth*, for dates. Use a numeral instead*.*
   - Always spell out the name of the month.
 
  Learn more about [dates and time](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=27390).
@@ -83,8 +83,8 @@ Use for:
 
 #### Ranges of numbers
 
-  - In most cases, use *from* and *through *to describe a range of numbers.
-    Exceptions Use an en dash in a range of pages or where space is an issue, such as in tables and UI. * *
+  - In most cases, use *from* and *through* to describe a range of numbers.
+    Exceptions Use an en dash in a range of pages or where space is an issue, such as in tables and UI. **
   - Don’t use *from* before a range indicated by an en dash, such as *10–15*. 
 
  Learn more about [dashes and hyphens](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28757).

@@ -18,7 +18,7 @@ customer can interact with UI in a variety of ways. This section
 covers terms for UI interactions done with gestures of
 the hand or body and tablet pen. 
 
-In general, use input-neutral terms, which support all input methods. If you're writing content specific to touching a screen or using a pen, use *tap* and *double-tap* instead of *click *and *double-click*. *Tap* means to press the screen with a finger or pen tip and then to lift it, usually quickly. 
+In general, use input-neutral terms, which support all input methods. If you're writing content specific to touching a screen or using a pen, use *tap* and *double-tap* instead of *click* and *double-click*. *Tap* means to press the screen with a finger or pen tip and then to lift it, usually quickly. 
 
 **Learn more For information about input-neutral terms, see [Describing interactions with UI](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26472).**
 
@@ -43,7 +43,7 @@ When you need to write specifically about touch and pen UI interactions, use the
 <span style="font-family: Segoe UI Semibold; font-size: small;">double-tap</span>
 </div></td>
 <td><div>
-<span style="font-family: Segoe UI; font-size: small;">Use to describe selecting, opening, or activating a button, icon, or other element on the screen by tapping twice in rapid succession. Hyphenate. Don’t use </span><em><span style="font-family: Segoe UI; font-size: small;">double-tap on. </span></em>
+<span style="font-family: Segoe UI; font-size: small;">Use to describe selecting, opening, or activating a button, icon, or other element on the screen by tapping twice in rapid succession. Hyphenate. Don’t use </span><em><span style="font-family: Segoe UI; font-size: small;">double-tap on.</span></em>
 </div></td>
 </tr>
 <tr class="even">

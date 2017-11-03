@@ -28,9 +28,9 @@ open it, separated by a backslash, as follows:
 
 C:\\Documents and Settings\\user1
 
-Use *address* or *URL, *not *path,* to refer to a location on the internet.
+Use *address* or *URL,* not *path,* to refer to a location on the internet.
 
-In general, use *path of, *not *path to*, to refer to the location of a file.
+In general, use *path of,* not *path to*, to refer to the location of a file.
 
 Example
 The full path of my current tax form is:

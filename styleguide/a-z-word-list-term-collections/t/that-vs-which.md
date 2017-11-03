@@ -20,7 +20,7 @@ Global tip Include *that* even if the sentence is clear without it. It helps to 
 Use *which*
 at the beginning of a clause that adds supporting or parenthetical
 information. If you can omit the clause and the sentence still makes
-sense, use *which, *and put a comma before it.
+sense, use *which,* and put a comma before it.
 
 Examples
 To learn more about features that aren’t supported in the trial version, see the feature comparison chart.

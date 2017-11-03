@@ -15,7 +15,7 @@ Download topic
 
 Don’t use as a noun. For example, don't use *a pop-up;* use *a pop-up window* instead.
 
-Don't use *pop up *or *pops up *as a verb to describe the appearance of a window. Use *open* or a similar verb instead. 
+Don't use *pop up* or *pops up* as a verb to describe the appearance of a window. Use *open* or a similar verb instead. 
 
 It’s OK to use *pop-up window* to refer to windows that pop up in Help. Don’t use *pop-up window* as a synonym for *dialog box*.
 

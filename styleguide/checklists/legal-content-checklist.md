@@ -16,7 +16,7 @@ Download topic
 Knowing
 and following Microsoft’s legal standards in content helps protect
 our intellectual property and minimizes legal risks. This checklist
-provides an overview of the most common legal issues in content. For complete information, visit [](https://microsoft.sharepoint.com/sites/lcaweb/home)[](https://microsoft.sharepoint.com/sites/lcaweb/home)[CELAWeb](https://microsoft.sharepoint.com/sites/lcaweb/home)*. *(This site requires Microsoft network access.) If you still have questions, contact ** [your group’s paralegal](https://microsoft.sharepoint.com/sites/lcaweb/Pages/Applications/LegalContact.aspx)*. *(This page requires Microsoft network access.)
+provides an overview of the most common legal issues in content. For complete information, visit [](https://microsoft.sharepoint.com/sites/lcaweb/home)[](https://microsoft.sharepoint.com/sites/lcaweb/home)[CELAWeb](https://microsoft.sharepoint.com/sites/lcaweb/home)*.* (This site requires Microsoft network access.) If you still have questions, contact ** [your group’s paralegal](https://microsoft.sharepoint.com/sites/lcaweb/Pages/Applications/LegalContact.aspx)*.* (This page requires Microsoft network access.)
 
 #### Legal issues and content
 

@@ -19,7 +19,7 @@ Most people know the common definition of words—usually the one that appears f
     Example Don’t use *bucketize* to mean *group.
     *
   - Don't apply a new meaning to an ordinary word. 
-    Example Don’t use *graveyard *to mean *archive.
+    Example Don’t use *graveyard* to mean *archive.
     *
   - Be
     careful with common words that have industry-specific uses.

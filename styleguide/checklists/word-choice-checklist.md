@@ -21,7 +21,7 @@ Choose simple, precise words that you use in conversations.
     few words as possible. Omit unnecessary adverbs (words that describe
     how, when, or where) and use precise, one-word verbs (such as *try* instead of *attempt to*) whenever you can. [Learn more](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36390). 
   - If you mean the same thing, use the same word. Use the [A–Z word list](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25512) and your group's editorial style guide to find preferred terms for Microsoft content.
-  - Don’t give technical meanings to common words (like using *bucket *to mean *group)* or use nouns as verbs or verbs as nouns (like using *invite *instead of *invitation*). [Learn more](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36391). 
+  - Don’t give technical meanings to common words (like using *bucket* to mean *group)* or use nouns as verbs or verbs as nouns (like using *invite* instead of *invitation*). [Learn more](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36391). 
 
 <!-- end list -->
 

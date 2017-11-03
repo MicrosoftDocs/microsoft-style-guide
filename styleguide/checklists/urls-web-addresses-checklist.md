@@ -18,7 +18,7 @@ Follow these guidelines to refer to URLs and other addresses clearly and consist
   - Most of the time, use lowercase for URLs, email addresses, and newsgroup addresses.
     Exception
     To refer generally to a website or domain, such as Microsoft.com, capitalize only the first letter of the URL, even if the site name is capitalized differently.
-  - Don't include *http:// *in a URL. Include other protocols, such as *ftp://.
+  - Don't include *http://* in a URL. Include other protocols, such as *ftp://.
     *
   - Don't include a slash at the end of a URL.
   - Use *web address,* not *URL,* for a general audience. For a technical audience, it's OK to use *URL,* but don't spell it out on the first mention.

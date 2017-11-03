@@ -17,7 +17,7 @@ Capitalize references to the Start menu and the Start button on the Windows task
 
 Don’t refer to the Start button as the *Windows Start button*.
 
-Don't include the word *button *unless it's necessary for clarity. If you do, *button *is lowercase.
+Don't include the word *button* unless it's necessary for clarity. If you do, *button* is lowercase.
 
 If possible, to help customers locate the button, include the Start graphic ![](start-button-start-menu_files/967781121.png) in references to the Start button. 
 

@@ -13,7 +13,7 @@ Copy URL
 
 Download topic
 
-It's OK to use *we recommend* to introduce a Microsoft recommendation. Don't use *Microsoft recommends *or *it is recommended*.
+It's OK to use *we recommend* to introduce a Microsoft recommendation. Don't use *Microsoft recommends* or *it is recommended*.
 
 Don't use *recommend* when something is required.
 

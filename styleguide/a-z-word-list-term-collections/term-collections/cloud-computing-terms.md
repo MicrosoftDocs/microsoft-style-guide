@@ -65,7 +65,7 @@ Don’t use </span><em>cloud</em><span style="font-family:Segoe UI;font-size:sma
 </tr>
 <tr class="odd">
 <td><span style="font-family:Segoe UI Semibold;font-size:small;">dynamic service capacity</span></td>
-<td><span style="font-family:Segoe UI;font-size:small;">Don't use. Use </span><em><span style="font-family:Segoe UI;font-size:small;">elastic service capacity </span></em><span style="font-family:Segoe UI;font-size:small;">instead. </span></td>
+<td><span style="font-family:Segoe UI;font-size:small;">Don't use. Use </span><em><span style="font-family:Segoe UI;font-size:small;">elastic service capacity</span></em> <span style="font-family:Segoe UI;font-size:small;">instead. </span></td>
 </tr>
 <tr class="even">
 <td><span style="font-family:Segoe UI Semibold;font-size:small;">Dynamics CRM</span></td>

@@ -15,7 +15,7 @@ Download topic
 
 When necessary, differentiate between a *slash* for URLs and a *backslash* for servers and folders.
 
-When you instruct customers to enter a slash, always include the spelled-out term (*backslash *or *forward slash*) first, followed by the symbol in parentheses.
+When you instruct customers to enter a slash, always include the spelled-out term (*backslash* or *forward slash*) first, followed by the symbol in parentheses.
 Example Enter two backslashes (\\\\) ....
 
 See also
@@ -48,7 +48,7 @@ Examples
 a/x + b/y = 1
 x + 2/3(y) = m
 
-Don’t use a slash as a substitute for *or, *like *product/**service.* If the UI uses a slash in this way, follow the interface in describing the label, but use *or *to describe the action in text.
+Don’t use a slash as a substitute for *or,* like *product/**service.* If the UI uses a slash in this way, follow the interface in describing the label, but use *or* to describe the action in text.
 
 Examples
 Select Automatic trapping to add or remove a check mark.

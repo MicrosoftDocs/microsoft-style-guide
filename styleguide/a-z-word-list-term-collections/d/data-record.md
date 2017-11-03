@@ -13,7 +13,7 @@ Copy URL
 
 Download topic
 
-Don't use. Use *record *instead*.*
+Don't use. Use *record* instead*.*
 
 ![In progress](data-record_files/activity-large.gif)
 

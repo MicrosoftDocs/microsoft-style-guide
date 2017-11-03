@@ -18,7 +18,7 @@ general, refer to a person who has a kind of disability, not a
 disabled person. Use nouns that refer to physical differences
 rather than adjectives. For example, say *customers who are blind or have low vision* instead of *blind or vision-impaired customers*. 
 
-Avoid euphemisms like *differently abled* and collective terms that depersonalize entire groups of people, such as *the deaf. *It’s OK to say *he is blind* or *she is deaf.*
+Avoid euphemisms like *differently abled* and collective terms that depersonalize entire groups of people, such as *the deaf.* It’s OK to say *he is blind* or *she is deaf.*
 
 If necessary, use the following terms to describe people with disabilities or the disabilities themselves.
 

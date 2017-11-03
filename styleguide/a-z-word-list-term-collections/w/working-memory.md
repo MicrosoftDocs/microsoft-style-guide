@@ -13,7 +13,7 @@ Copy URL
 
 Download topic
 
-Don't use. Use *available memory *instead.
+Don't use. Use *available memory* instead.
 
 ![In progress](working-memory_files/activity-large.gif)
 

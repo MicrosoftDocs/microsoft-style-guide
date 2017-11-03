@@ -18,7 +18,7 @@ to an accomplishment that's formally recognized by a game, site, or
 app. Achievements are sometimes represented by a virtual badge, star,
 medal, or other reward. 
 
-Use title-style capitalization for the achievement name. Lowercase the word *achievement *when it follows the achievement name.
+Use title-style capitalization for the achievement name. Lowercase the word *achievement* when it follows the achievement name.
 
 For Microsoft games, use *achievement* only if the achievement is awarded in a player’s Xbox Live profile. Don't use *achievement* for any other accomplishments that are tracked by a game. 
 

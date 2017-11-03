@@ -13,7 +13,7 @@ Copy URL
 
 Download topic
 
-Avoid generic terms such as *set* and *specify *to describe customer actions. Try to use more specific verbs.
+Avoid generic terms such as *set* and *specify* to describe customer actions. Try to use more specific verbs.
 
 Examples**
 **Select a color for an appointment or a meeting.

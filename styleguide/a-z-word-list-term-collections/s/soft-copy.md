@@ -13,7 +13,7 @@ Copy URL
 
 Download topic
 
-Don't use. Use a more specific term, such as *electronic document* or *file, *instead.
+Don't use. Use a more specific term, such as *electronic document* or *file,* instead.
 
 ![In progress](soft-copy_files/activity-large.gif)
 

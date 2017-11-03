@@ -56,7 +56,7 @@ Use heading styles instead of text formatting. Heading levels communicate the hi
 Don’t use directional terms as the only clue to location. *Left, right, up, down, above,* and *below*
 aren’t very useful for people who use screen-reading software. If
 you must use a directional term, provide additional text
-about the location, such as *in the Save As ******dialog box, on the Standard ******toolbar*, or *in the title bar*. 
+about the location, such as *in the* *Save As* *****dialog box, on the* *Standard* *****toolbar*, or *in the title bar*. 
 
 #### Document alternate input methods
 

@@ -21,7 +21,7 @@ Note capitalization. Don't hyphenate.
 
 It's OK to use all lowercase (*plug and play*) for all audiences to refer to the ability of a computer to automatically configure a device that's added to it.
 
-Don't use as a synonym for *Universal Plug and Play *(UPnP). 
+Don't use as a synonym for *Universal Plug and Play* (UPnP). 
 
 Examples
 Plug and Play functionality

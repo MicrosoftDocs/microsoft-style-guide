@@ -13,7 +13,7 @@ Copy URL
 
 Download topic
 
-Use as a verb to describe stopping communications and network connections. Use *close *for apps and programs.
+Use as a verb to describe stopping communications and network connections. Use *close* for apps and programs.
 
 Example To end your server connection, go to Tools and select Disconnect Network Drive.
 

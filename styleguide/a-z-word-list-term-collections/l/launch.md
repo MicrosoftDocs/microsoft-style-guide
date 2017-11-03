@@ -13,7 +13,7 @@ Copy URL
 
 Download topic
 
-Don't use to mean *start *or *open*, as in *launch an app* or *open a form*.
+Don't use to mean *start* or *open*, as in *launch an app* or *open a form*.
 
 Examples
 Select a tile to start an app.

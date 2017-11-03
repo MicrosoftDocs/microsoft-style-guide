@@ -21,7 +21,7 @@ In general, Microsoft style is sentence-style capitalization.
   - Use
     title-style capitalization for product and service names, book and song
     titles, article titles in citations, names of blogs, and titles of
-    people (*Vice President, *for example). 
+    people (*Vice President,* for example). 
   - It's OK to use title-style capitalization in tweets to set off a quoted article. 
   - In programming languages, follow the traditional capitalization of keywords and other special terms*.*
   - Don't use all uppercase for emphasis. 

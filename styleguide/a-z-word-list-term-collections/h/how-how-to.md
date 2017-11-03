@@ -13,7 +13,7 @@ Copy URL
 
 Download topic
 
-Don’t use *how-to* as a noun. Always hyphenate as an adjective. Never capitalize the *t *in *to*.
+Don’t use *how-to* as a noun. Always hyphenate as an adjective. Never capitalize the *t* in *to*.
 
 Examples**
 **how-to book 

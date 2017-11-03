@@ -21,7 +21,7 @@ your international program manager and your [group's paralegal](https://microsof
 
 #### Names
 
-  - Use *First name *and *Last name* in forms, or simply *F**ull name.* 
+  - Use *First name* and *Last name* in forms, or simply *F**ull name.* 
   - If you include a *Middle name* field, make it optional. 
   - Use *Title*, not *Honorific*, to describe words such as *Mr*. and *Mrs*. Not all cultures have equivalents to some titles used in the United States, such as *Ms*.
   - Refer to [Article 1708: Personal name formats](https://microsoft.sharepoint.com/teams/celaGlobalReadiness/KBLibrary/1708.docx?web=1 "GPWeb KB article") on the [Global Readiness](https://microsoft.sharepoint.com/teams/celaGlobalReadiness/Pages/Home.aspx) website for
@@ -33,7 +33,7 @@ your international program manager and your [group's paralegal](https://microsof
 
   - Provide fields long enough for customers to include whatever information is appropriate for their locale. 
   - Use *State or province* instead of *State*. Fields that might not be relevant everywhere, such as S*tate or province*, should be optional. 
-  - Use *Country or region *instead of just *Country* to accommodate disputed territories. It's OK to use *Country/Region* if space is limited.
+  - Use *Country or region* instead of just *Country* to accommodate disputed territories. It's OK to use *Country/Region* if space is limited.
   - Include a field for *Country or region code* if you need information for mailing between European countries or regions. It's OK to use *Country/Region code* if space is limited.
   - Use *Postal code* instead of *ZIP Code*. Allow for at least 10 characters and a combination of letters and numbers. 
   - Provide enough space for long phone numbers. 

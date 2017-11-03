@@ -13,7 +13,7 @@ Copy URL
 
 Download topic
 
-Don't use *application developer, applications developer, *or *app developer*. Use *software developer*, *web developer*, *developer*, or *programmer* instead.
+Don't use *application developer,* *applications developer,* or *app developer*. Use *software developer*, *web developer*, *developer*, or *programmer* instead.
 
 ![In progress](application-developer-app-developer_files/activity-large.gif)
 

@@ -13,7 +13,7 @@ Copy URL
 
 Download topic
 
-In general, don’t hyphenate words beginning with *re- *unless it’s necessary to avoid confusion or *re-* is followed by a proper noun. When in doubt, refer to [*The American Heritage Dictionary*](https://ahdictionary.com/) or consult your group's editorial style guide.
+In general, don’t hyphenate words beginning with *re-* unless it’s necessary to avoid confusion or *re-* is followed by a proper noun. When in doubt, refer to [*The American Heritage Dictionary*](https://ahdictionary.com/) or consult your group's editorial style guide.
 
 Examples**
 **reenter 

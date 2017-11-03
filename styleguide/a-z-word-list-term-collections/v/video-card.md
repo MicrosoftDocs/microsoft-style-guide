@@ -13,7 +13,7 @@ Copy URL
 
 Download topic
 
-Use *video card* instead of *video adapter, display adapter, graphics adapter*, *graphics card*, or *graphics board**.*
+Use *video card* instead of *video adapter,* *display adapter,* *graphics adapter*, *graphics card*, or *graphics board**.*
 
 ![In progress](video-card_files/activity-large.gif)
 

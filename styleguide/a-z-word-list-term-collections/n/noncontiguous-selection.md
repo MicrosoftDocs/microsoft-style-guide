@@ -13,7 +13,7 @@ Copy URL
 
 Download topic
 
-Don't use in content for a general audience to refer to selecting multiple items that don't touch. Use *multiple selection *instead, or describe the specific noncontiguous items. 
+Don't use in content for a general audience to refer to selecting multiple items that don't touch. Use *multiple selection* instead, or describe the specific noncontiguous items. 
 
 Use in content for a technical audience only if the term appears in the UI or API. 
 

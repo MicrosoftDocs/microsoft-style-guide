@@ -18,7 +18,7 @@ Use the following guidelines when talking about time and place.
 #### Dates
 
   - Begin calendars on Mondays, which is the custom in much of the world. 
-  - Use the date format *month dd, yyyy. *Don’t use numerals to represent months. For example, use January 5, 2018.
+  - Use the date format *month dd, yyyy.* Don’t use numerals to represent months. For example, use January 5, 2018.
 
 #### Time
 

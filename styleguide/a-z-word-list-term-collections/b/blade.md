@@ -22,9 +22,9 @@ When you must mention a blade:
   - Use sentence-style capitalization for the blade name.
     Example the Resource group blade*
     *
-  - Don’t capitalize *blade, *but always include *blade *in the blade title or subtitle.
-  - In a blade title or subtitle, use a plus sign (+) instead of *and *or an ampersand (&). Include a space on each side of the plus sign.
-  - Add an article, such as *a *or *the*, to a blade name that consists of a verb and a singular noun.
+  - Don’t capitalize *blade,* but always include *blade* in the blade title or subtitle.
+  - In a blade title or subtitle, use a plus sign (+) instead of *and* or an ampersand (&). Include a space on each side of the plus sign.
+  - Add an article, such as *a* or *the*, to a blade name that consists of a verb and a singular noun.
     Example Add a connector blade. (Not *Add connector blade.*)
     *
     *

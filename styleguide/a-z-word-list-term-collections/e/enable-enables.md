@@ -22,7 +22,7 @@ Don't use to describe making commands or features available. Use *make available
 
 In content for a technical audience, it's OK to describe a feature or command as *enabled*. 
 
-It's OK to use *enable the customer to *when you need to refer to the customer in the third person.
+It's OK to use *enable the customer to* when you need to refer to the customer in the third person.
 Example Include this control to enable the customer to ....
 
 ![In progress](enable-enables_files/activity-large.gif)

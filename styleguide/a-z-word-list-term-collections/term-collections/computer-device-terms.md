@@ -70,7 +70,7 @@ It’s OK to modify </span><em>device</em> <span style="font-family:Segoe UI;fon
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">Use </span><em><span style="font-family:Segoe UI;font-size:small;">computer</span></em><span style="font-family:Segoe UI;font-size:small;"> in the uncommon event that you need to talk about computing devices other than phones, wearable devices, and gaming consoles.</span><br />
 <span style="font-family:Segoe UI;font-size:small;"><br />
-It’s also OK to use </span><em><span style="font-family:Segoe UI;font-size:small;">PC </span></em><span style="font-family:Segoe UI;font-size:small;">when space is a constraint, but don’t switch between </span><em><span style="font-family:Segoe UI;font-size:small;">PC</span></em><span style="font-family:Segoe UI;font-size:small;"> and </span><em><span style="font-family:Segoe UI;font-size:small;">computer</span></em><span style="font-family:Segoe UI;font-size:small;">.</span><br />
+It’s also OK to use </span><em><span style="font-family:Segoe UI;font-size:small;">PC</span></em> <span style="font-family:Segoe UI;font-size:small;">when space is a constraint, but don’t switch between </span><em><span style="font-family:Segoe UI;font-size:small;">PC</span></em><span style="font-family:Segoe UI;font-size:small;"> and </span><em><span style="font-family:Segoe UI;font-size:small;">computer</span></em><span style="font-family:Segoe UI;font-size:small;">.</span><br />
 <span style="font-family:Segoe UI;font-size:small;"><span style="font-family:Segoe UI;font-size:small;"><br />
 Don't use </span><em>desktop</em> <span style="font-family:Segoe UI;font-size:small;">as a synonym for </span><em>PC</em> <span style="font-family:Segoe UI;font-size:small;">or </span><em>computer.</em></span><br />
 <span style="font-family:Segoe UI;font-size:small;"><br />
@@ -99,7 +99,7 @@ Don't use </span><em>wireless phone,</em> <em>cell phone,</em> <span style="font
 </div></td>
 <td><div>
 <div>
-<span style="font-family:Segoe UI;font-size:small;">Use a more generic term unless you’re talking about a specific class of computers. </span><span style="font-family:Segoe UI;font-size:small;">Use </span><em><span style="font-family:Segoe UI;font-size:small;">tablet</span></em><span style="font-family:Segoe UI;font-size:small;"> only to refer to a touchscreen computer without a permanently attached keyboard. </span><span style="font-family:Segoe UI;font-size:small;">Use </span><em><span style="font-family:Segoe UI;font-size:small;">laptop </span></em><span style="font-family:Segoe UI;font-size:small;">to refer to a portable computer with a permanently attached keyboard, with or without a touchscreen.</span>
+<span style="font-family:Segoe UI;font-size:small;">Use a more generic term unless you’re talking about a specific class of computers. </span><span style="font-family:Segoe UI;font-size:small;">Use </span><em><span style="font-family:Segoe UI;font-size:small;">tablet</span></em><span style="font-family:Segoe UI;font-size:small;"> only to refer to a touchscreen computer without a permanently attached keyboard. </span><span style="font-family:Segoe UI;font-size:small;">Use </span><em><span style="font-family:Segoe UI;font-size:small;">laptop</span></em> <span style="font-family:Segoe UI;font-size:small;">to refer to a portable computer with a permanently attached keyboard, with or without a touchscreen.</span>
 </div>
 </div></td>
 </tr>
@@ -113,7 +113,7 @@ Don't use </span><em>wireless phone,</em> <em>cell phone,</em> <span style="font
 <div>
 <span style="font-family:Segoe UI;font-size:small;"><span style="font-size:small;"><span style="font-family:Segoe UI;font-size:small;">Use only when it’s necessary to differentiate devices that are meant to be worn from other devices. To avoid confusion with the Microsoft Band product, avoid using </span></span></span><em><span style="font-family:Segoe UI;font-size:small;">band</span></em><span style="font-family:Segoe UI;font-size:small;"> by itself as a noun.</span><br />
 <span style="font-family:Segoe UI;font-size:small;"><br />
-Avoid using </span><em><span style="font-family:Segoe UI;font-size:small;">wearable </span></em><span style="font-family:Segoe UI;font-size:small;">as a noun</span><em><span style="font-family:Segoe UI;font-size:small;">.</span></em>
+Avoid using </span><em><span style="font-family:Segoe UI;font-size:small;">wearable</span></em> <span style="font-family:Segoe UI;font-size:small;">as a noun</span><em><span style="font-family:Segoe UI;font-size:small;">.</span></em>
 </div>
 </div></td>
 </tr>
@@ -138,7 +138,7 @@ Use the following terms only when you need to be more specific than you can be b
 </div></td>
 <td><div>
 <div>
-<span style="font-family:Segoe UI;font-size:small;">Use only to refer to a small, limited-use device that accesses, captures, and updates information in real time, such as the devices often used in line-of-business (LOB) applications. </span><span style="font-family:Segoe UI;font-size:small;">If possible, just use </span><em><span style="font-family:Segoe UI;font-size:small;">device. </span></em><br />
+<span style="font-family:Segoe UI;font-size:small;">Use only to refer to a small, limited-use device that accesses, captures, and updates information in real time, such as the devices often used in line-of-business (LOB) applications. </span><span style="font-family:Segoe UI;font-size:small;">If possible, just use </span><em><span style="font-family:Segoe UI;font-size:small;">device.</span></em><br />
 
 </div>
 <div>
@@ -148,7 +148,7 @@ Don’t use </span><em><span style="font-family:Segoe UI;font-size:small;">handh
 </div>
 <div>
 <span style="font-family:Segoe UI;font-size:small;"><br />
-Don’t use </span><em><span style="font-family:Segoe UI;font-size:small;">handheld PC </span></em><span style="font-family:Segoe UI;font-size:small;">or </span><em><span style="font-family:Segoe UI;font-size:small;">handheld computer.</span></em>
+Don’t use </span><em><span style="font-family:Segoe UI;font-size:small;">handheld PC</span></em> <span style="font-family:Segoe UI;font-size:small;">or </span><em><span style="font-family:Segoe UI;font-size:small;">handheld computer.</span></em>
 </div>
 </div></td>
 </tr>
@@ -265,7 +265,7 @@ Use </span><em><span style="font-family:Segoe UI;font-size:small;">hard drive</s
 </div>
 <div>
 <span style="font-family:Segoe UI;font-size:small;"><br />
-Use </span><em><span style="font-family:Segoe UI;font-size:small;">drive C</span></em><span style="font-family:Segoe UI;font-size:small;">, not </span><em><span style="font-family:Segoe UI;font-size:small;">drive C:, </span><span style="font-family:Segoe UI;font-size:small;">drive C&gt;</span></em><span style="font-family:Segoe UI;font-size:small;">, or </span><em><span style="font-family:Segoe UI;font-size:small;">C: drive</span></em><span style="font-family:Segoe UI;font-size:small;">, when necessary. </span><br />
+Use </span><em><span style="font-family:Segoe UI;font-size:small;">drive C</span></em><span style="font-family:Segoe UI;font-size:small;">, not </span><em><span style="font-family:Segoe UI;font-size:small;">drive C:,</span></em> <em><span style="font-family:Segoe UI;font-size:small;">drive C&gt;</span></em><span style="font-family:Segoe UI;font-size:small;">, or </span><em><span style="font-family:Segoe UI;font-size:small;">C: drive</span></em><span style="font-family:Segoe UI;font-size:small;">, when necessary. </span><br />
 
 </div>
 <div>
@@ -281,7 +281,7 @@ Use </span><em><span style="font-family:Segoe UI;font-size:small;">drive C</span
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">In general, don’t talk about specific input devices. Most of the time, talk about how the customer interacts with the app or game by selecting, choosing, and so on. To learn more, see </span><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=26472"><span style="font-family:Segoe UI;font-size:small;">Describing interactions with UI</span></a><span style="font-family:Segoe UI;font-size:small;">.</span><br />
 <span style="font-family:Segoe UI;font-size:small;"><br />
-Don’t use </span><em><span style="font-family:Segoe UI;font-size:small;">pointing device </span></em><span style="font-family:Segoe UI;font-size:small;">or </span><em><span style="font-family:Segoe UI;font-size:small;">input device. </span></em><span style="font-family:Segoe UI;font-size:small;">When you must discuss interacting with a specific type of device, use the specific term for that device: </span><em><span style="font-family:Segoe UI;font-size:small;">mouse, pen, controller, trackball,</span></em><span style="font-family:Segoe UI;font-size:small;"> or </span><em><span style="font-family:Segoe UI;font-size:small;">joystick</span></em><span style="font-family:Segoe UI;font-size:small;">. Joysticks have </span><em><span style="font-family:Segoe UI;font-size:small;">controls</span></em><span style="font-family:Segoe UI;font-size:small;"> (not options) for controlling movement on the screen.</span><br />
+Don’t use </span><em><span style="font-family:Segoe UI;font-size:small;">pointing device</span></em> <span style="font-family:Segoe UI;font-size:small;">or </span><em><span style="font-family:Segoe UI;font-size:small;">input device.</span></em> <span style="font-family:Segoe UI;font-size:small;">When you must discuss interacting with a specific type of device, use the specific term for that device: </span><em><span style="font-family:Segoe UI;font-size:small;">mouse, pen, controller, trackball,</span></em><span style="font-family:Segoe UI;font-size:small;"> or </span><em><span style="font-family:Segoe UI;font-size:small;">joystick</span></em><span style="font-family:Segoe UI;font-size:small;">. Joysticks have </span><em><span style="font-family:Segoe UI;font-size:small;">controls</span></em><span style="font-family:Segoe UI;font-size:small;"> (not options) for controlling movement on the screen.</span><br />
 
 </div>
 <div>
@@ -298,7 +298,7 @@ When you need to refer to a specific input device made by Microsoft, refer to yo
 <span style="font-family:Segoe UI Semibold;font-size:small;">pen, stylus</span>
 </div></td>
 <td><div>
-<span style="font-family:Segoe UI;font-size:small;">Use </span><em><span style="font-family:Segoe UI;font-size:small;">tablet pen </span></em><span style="font-family:Segoe UI;font-size:small;">on first mention, and </span><em><span style="font-family:Segoe UI;font-size:small;">pen</span></em><span style="font-family:Segoe UI;font-size:small;"> thereafter. If you're talking specifically about Surface Pen, use <em>Microsoft</em> </span><em><span style="font-family:Segoe UI;font-size:small;">Surface Pen</span></em><span style="font-family:Segoe UI;font-size:small;"> on the first mention. </span><br />
+<span style="font-family:Segoe UI;font-size:small;">Use </span><em><span style="font-family:Segoe UI;font-size:small;">tablet pen</span></em> <span style="font-family:Segoe UI;font-size:small;">on first mention, and </span><em><span style="font-family:Segoe UI;font-size:small;">pen</span></em><span style="font-family:Segoe UI;font-size:small;"> thereafter. If you're talking specifically about Surface Pen, use <em>Microsoft</em> </span><em><span style="font-family:Segoe UI;font-size:small;">Surface Pen</span></em><span style="font-family:Segoe UI;font-size:small;"> on the first mention. </span><br />
 
 </div>
 <div>

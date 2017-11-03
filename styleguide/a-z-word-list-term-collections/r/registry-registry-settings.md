@@ -32,7 +32,7 @@ usually a mix of uppercase and lowercase characters.
 Examples**
 **SOFTWARE 
 ApplicationIdentifier 
-Application Identifier*Name ***
+Application Identifier*Name* **
 **stockfile 
 the new program subkey
 

@@ -13,7 +13,7 @@ Copy URL
 
 Download topic
 
-Don't use *or higher *to mean *or later* to refer to multiple versions of software.
+Don't use *or higher* to mean *or later* to refer to multiple versions of software.
 
 It's OK to use *higher* to refer to display resolution. 
 

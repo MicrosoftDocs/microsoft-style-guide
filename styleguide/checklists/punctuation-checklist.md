@@ -37,7 +37,7 @@ Keep it simple.
     You might know that extra comma as the Oxford comma. [Learn more](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28752).[
     ](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28752)
   - Use a comma following an introductory phrase, to join independent clauses with a conjunction, and to surround the year when you use a complete date within a sentence. [Learn more](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28752).
-  - Use an apostrophe to indicate a missing letter in a contraction (such as *don’t*) and to form the possessive case of a noun (as in *Insider’s Guide*). Don’t use an apostrophe for the possessive of *it* *(its) *to avoid confusion with the contraction *it’s. *[Learn more](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28753).[
+  - Use an apostrophe to indicate a missing letter in a contraction (such as *don’t*) and to form the possessive case of a noun (as in *Insider’s Guide*). Don’t use an apostrophe for the possessive of *it* *(its)* to avoid confusion with the contraction *it’s.* [Learn more](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28753).[
     ](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28753)
   - When
     you use a colon in a sentence, lowercase the word that follows
@@ -59,7 +59,7 @@ Exception If punctuation is part of the quoted material, place it inside the quo
     ](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28765)
   - Don’t use spaces around em dashes (—). [Learn more](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28766).[
     ](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28766)
-  - Don’t use a slash (/) to indicate a choice or as a substitute for *or. *[Learn more](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28760).
+  - Don’t use a slash (/) to indicate a choice or as a substitute for *or.* [Learn more](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28760).
   - In
     general, format punctuation in the same font style as the main
     content of a sentence or phrase unless it's part of an element such as a command, option, keyword, placeholder, hyperlink, pop-up text, or user input.

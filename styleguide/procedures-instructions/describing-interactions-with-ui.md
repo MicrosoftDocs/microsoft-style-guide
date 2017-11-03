@@ -85,7 +85,7 @@ input method. Don’t use input-specific verbs, such as *click* or *swipe*. Inst
 <li><span style="font-family:Segoe UI;font-size:small;">Opening a menu.</span></li>
 <li><span style="font-family:Segoe UI;font-size:small;">Going to a tab or another particular place in the UI.</span></li>
 <li><span style="font-family:Segoe UI;font-size:small;">Going to a website or webpage.</span></li>
-<li><span style="font-size:small;"><span style="font-family:Segoe UI;font-size:small;">It’s OK to use </span></span><em><span style="font-family:Segoe UI;font-size:small;">On the </span><span style="font-family:Segoe UI Semibold;font-size:small;">XXX</span><span style="font-family:Segoe UI;font-size:small;"> tab </span></em><span style="font-family:Segoe UI;font-size:small;">if the instruction is brief and continues immediately.</span><br />
+<li><span style="font-size:small;"><span style="font-family:Segoe UI;font-size:small;">It’s OK to use </span></span><em><span style="font-family:Segoe UI;font-size:small;">On the </span><span style="font-family:Segoe UI Semibold;font-size:small;">XXX</span><span style="font-family:Segoe UI;font-size:small;"> tab</span></em> <span style="font-family:Segoe UI;font-size:small;">if the instruction is brief and continues immediately.</span><br />
 </li>
 </ul></td>
 <td><ul>

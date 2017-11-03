@@ -32,7 +32,7 @@ In compound words that precede and modify a noun as a unit, don’t hyphenate:
 
   - *Very*, when it precedes another modifier.
     Example Very fast test
-  - An adverb ending in *-ly*, such as *completely*, when it precedes another modifier. Check [*The American Heritage Dictionary*](https://ahdictionary.com/) if you're not sure whether the word ending in *-ly *is an adverb.
+  - An adverb ending in *-ly*, such as *completely*, when it precedes another modifier. Check [*The American Heritage Dictionary*](https://ahdictionary.com/) if you're not sure whether the word ending in *-ly* is an adverb.
     Examples
     extremely stylized image
     highly graphical interface
@@ -143,7 +143,7 @@ reenter
 nonnegative
 cooperate
 
-For more information about using prefixes, see [The Chicago Manual of Style](http://www.chicagomanualofstyle.org/home.html). (If you have Microsoft network access, you can use *[The Chicago Manual of Style Online](http://aka.ms/mslibrary/cms) *through MS Library.)
+For more information about using prefixes, see [The Chicago Manual of Style](http://www.chicagomanualofstyle.org/home.html). (If you have Microsoft network access, you can use *[The Chicago Manual of Style Online](http://aka.ms/mslibrary/cms)* through MS Library.)
 
 #### **Capitalization in hyphenated compound words**
 
@@ -159,7 +159,7 @@ the final part of a hyphenated compound word if it's the last word in a
 context that requires title capitalization, such as a book or song
 title.
 
-Example Boone, Nettie. *The App E-Book. *Redmond, WA: Lucerne Publishing, 2015. 
+Example Boone, Nettie. *The App E-Book.* Redmond, WA: Lucerne Publishing, 2015. 
 
 #### **Words hyphenated in Microsoft usage**
 

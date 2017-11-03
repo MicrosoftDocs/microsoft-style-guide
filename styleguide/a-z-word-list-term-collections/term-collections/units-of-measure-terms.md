@@ -51,7 +51,7 @@ to measurement. For other units of measure not covered here, see [*The Chicago M
     0.5 points
     1 point
     12 points
-  - Spell out *by *in dimensions, except for tile sizes, screen resolutions, and paper sizes. For those, use the multiplication sign (×). Use a space before and after the multiplication sign (HTML code &\#0215;).
+  - Spell out *by* in dimensions, except for tile sizes, screen resolutions, and paper sizes. For those, use the multiplication sign (×). Use a space before and after the multiplication sign (HTML code &\#0215;).
     Examples
     10 by 12 ft room
     3" by 5" image

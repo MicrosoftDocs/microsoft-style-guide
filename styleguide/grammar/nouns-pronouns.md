@@ -26,13 +26,13 @@ Proper nouns include:
   - Titles of books, songs, and other published works.
   - Managed standards, such as Bluetooth.
 
-If there's more than one of a thing, it’s a common noun. For example, there are lots of chief operating officers, so *chief operating officer* is a common noun. There’s only one *Sophia Fischer, Chief Operating Officer, *so that’s a proper noun. 
+If there's more than one of a thing, it’s a common noun. For example, there are lots of chief operating officers, so *chief operating officer* is a common noun. There’s only one *Sophia Fischer, Chief Operating Officer,* so that’s a proper noun. 
 
 Don’t
 capitalize common nouns unless they begin a sentence or the situation
 calls for title-style capitalization. Most technology
 concepts, product categories, devices, and features are common
-nouns, not proper nouns. Examples of common nouns include *cloud computing, smartphone, e-commerce, *and *open source.*
+nouns, not proper nouns. Examples of common nouns include *cloud computing, smartphone, e-commerce,* and *open source.*
 
 Capitalize technology terms as proper nouns only when:
 
@@ -42,7 +42,7 @@ Capitalize technology terms as proper nouns only when:
     database server.
   - The terms are typically capitalized in the industry. Search *[The American Heritage Dictionary](https://ahdictionary.com/),* reputable internet sites, and industry-specific dictionaries. Don’t rely on unedited websites. 
 
-If you’re not sure whether a term is a proper noun (and thus capitalized) or a common noun (lowercase), check *[The American Heritage Dictionary](https://ahdictionary.com/), *the [A–Z word list](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25512), and your group's editorial style guide. Default to lowercase unless there's a compelling reason to capitalize the term.
+If you’re not sure whether a term is a proper noun (and thus capitalized) or a common noun (lowercase), check *[The American Heritage Dictionary](https://ahdictionary.com/),* the [A–Z word list](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25512), and your group's editorial style guide. Default to lowercase unless there's a compelling reason to capitalize the term.
 
 Learn more For guidelines for sentence-style and title-style capitalization, see [Capitalization](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28261).
 
@@ -131,15 +131,15 @@ Select the name of the person you want to call, select Make a phone call, and th
 
 If you can’t write around the problem, it’s OK to occasionally:
 
-  - Use the plural pronouns *they *or *their* to refer to a single person.
+  - Use the plural pronouns *they* or *their* to refer to a single person.
   - Use *he or she.*
-  - Use *he *for some individuals and *she *for others in the same topic. 
+  - Use *he* for some individuals and *she* for others in the same topic. 
 
 Don’t alternate between masculine and feminine pronouns to refer to the same individual, and don’t use *he/she* or *s/he*.
 
 #### Noun and pronoun agreement
 
-Use a singular pronoun when the noun is singular, and a plural pronoun when the noun is plural. Collective nouns like *company *take a singular pronoun. Don’t use a plural pronoun (like *they*).
+Use a singular pronoun when the noun is singular, and a plural pronoun when the noun is plural. Collective nouns like *company* take a singular pronoun. Don’t use a plural pronoun (like *they*).
 
 Examples
 Meet with up to 250 people. All they need is a phone or internet connection.

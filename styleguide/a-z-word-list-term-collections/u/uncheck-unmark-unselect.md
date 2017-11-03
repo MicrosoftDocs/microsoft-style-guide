@@ -13,7 +13,7 @@ Copy URL
 
 Download topic
 
-Don't use to refer to clearing a check box. Use *clear *instead.
+Don't use to refer to clearing a check box. Use *clear* instead.
 
 ![In progress](uncheck-unmark-unselect_files/activity-large.gif)
 

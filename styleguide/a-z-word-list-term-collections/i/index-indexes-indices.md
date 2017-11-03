@@ -13,7 +13,7 @@ Copy URL
 
 Download topic
 
-Use *indexes* as the plural form of *index. *Use *indices* only in the context of mathematical expressions.
+Use *indexes* as the plural form of *index.* Use *indices* only in the context of mathematical expressions.
 
 ![In progress](index-indexes-indices_files/activity-large.gif)
 

@@ -46,7 +46,7 @@ Use numbered steps—no more than seven, and preferably fewer.
     step, such as selecting the OK or Apply button, in related steps.
   - Make
     sure the customer knows where the action in the step takes place.
-    Provide a brief phrase if you need to, such as *on the Design tab, …. *Or provide an introductory step to avoid any confusion: *On the ribbon, go to the Design **** tab.*
+    Provide a brief phrase if you need to, such as *on the Design tab, ….* Or provide an introductory step to avoid any confusion: *On the ribbon, go to the Design **** tab.*
   - If there’s only one step, use the format you use for procedures with multiple steps, but replace the number with a bullet.
   - If  your
     editorial style guide allows it, abbreviate simple sequences of
@@ -92,14 +92,14 @@ Learn more about [describing interactions with UI](https://worldready.cloudapp.n
     primary input device. Include joystick information in a table along
     with other alternative input methods. 
   - Use these verbs for pen and touch input: 
-    Tap: Use to describe selecting something on the screen by tapping it once with a finger or pen. Don’t use *tap on. *Don’t use *click. *
-    Double-tap: Use to describe selecting something on the screen by tapping twice in quick succession. Don’t use *double-tap on. *Don’t use *double-click. *
+    Tap: Use to describe selecting something on the screen by tapping it once with a finger or pen. Don’t use *tap on.* Don’t use *click.* 
+    Double-tap: Use to describe selecting something on the screen by tapping twice in quick succession. Don’t use *double-tap on.* Don’t use *double-click.* 
     Tap and hold: Use only if required by a program or app. Don’t use *touch and hold.*
     Pan:
     Use to describe moving the screen in multiple directions, as you
     would pan a camera to see different views of the environment. For
     contact gestures, use to refer to moving a finger, hand, or pen on
-    the device surface to move through screens or menus. Don’t use *drag *or *scroll *for these actions. 
+    the device surface to move through screens or menus. Don’t use *drag* or *scroll* for these actions. 
     Flick: Use to describe moving one or more fingers to scroll through items on the screen. Don’t use *scroll.*
   - Use *swipe* to describe a short, quick movement in the direction opposite to how the page scrolls .
 

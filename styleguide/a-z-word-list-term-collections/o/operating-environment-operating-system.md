@@ -17,7 +17,7 @@ OK to use in content for a technical audience, but avoid in content for a genera
 
 Use *operating environment* or *environment* to describe both hardware and the operating system software.
 
-Use *operating system *to describe only the software. 
+Use *operating system* to describe only the software. 
 
 Use *graphical environment* to describe the graphical user interface (GUI) of an operating system. 
 
