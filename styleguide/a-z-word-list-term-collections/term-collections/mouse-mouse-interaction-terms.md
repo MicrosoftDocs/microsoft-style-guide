@@ -1,4 +1,4 @@
-﻿# Mouse and mouse interaction terms
+# Mouse and mouse interaction terms
 
 Most
 of the time, don't talk about the mouse, mouse actions, or the pointer
@@ -152,9 +152,9 @@ of the word *pointer*—use both*.*
 <b>double-headed arrow </b>
 </div></td>
 <td><div>
-<span style="font-size:small;">Use to describe how the pointer looks over a split line (</span><img src="mouse-mouse-interaction-terms_files/1502439723.png" /><span style="font-size:small;">). Don’t use </span><em><span style="font-size:small;">double-headed arrow</span></em> <span style="font-size:small;">as a name for the pointer.<br />
+<span style="font-size:small;">Use to describe how the pointer looks over a split line (</span><img src="media/mouse-mouse-interaction-terms/1502439723.png" /><span style="font-size:small;">). Don’t use </span><em><span style="font-size:small;">double-headed arrow</span></em> <span style="font-size:small;">as a name for the pointer.<br />
 </span><span style="color:#006600;font-family:Segoe UI;font-size:small;">Example</span> <span style="color:#000000;font-size:small;"><br />
-</span><span style="font-size:small;">When the pointer becomes a </span><img src="mouse-mouse-interaction-terms_files/270050385.png" /><span style="font-size:small;">, drag the pointer to move the split line.</span>
+</span><span style="font-size:small;">When the pointer becomes a </span><img src="media/mouse-mouse-interaction-terms/270050385.png" /><span style="font-size:small;">, drag the pointer to move the split line.</span>
 </div></td>
 </tr>
 <tr class="even">
