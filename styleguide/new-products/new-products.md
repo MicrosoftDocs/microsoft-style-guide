@@ -10,7 +10,3 @@ This section includes the following topics:
   - [System requirements](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26705)
 
 See also [Legal content](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26694)
-
-## ![In progress](media/new-products/activity-large.gif)
-
-URL :
