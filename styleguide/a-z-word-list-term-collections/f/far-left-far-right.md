@@ -15,7 +15,7 @@ Download topic
 
 Don't use. Use *leftmost* or *rightmost* instead. 
 
-Accessibility tip Don't use directional terms (*left, right, up, down*)
+**Accessibility tip** Don't use directional terms (*left, right, up, down*)
 as the only clue to location. Individuals with
 cognitive disabilities might have difficulty interpreting them,
 as might people who are blind and use screen-reading

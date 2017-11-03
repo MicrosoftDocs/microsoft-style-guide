@@ -24,7 +24,7 @@ which refers to the file at the beginning of a program that
 contains definitions of data types and variables used by the
 program's functions.
 
-See also [footer](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33792)
+**See also** [footer](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33792)
 
 ![In progress](header_files/activity-large.gif)
 

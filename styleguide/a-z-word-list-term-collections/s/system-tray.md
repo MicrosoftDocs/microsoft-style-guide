@@ -15,7 +15,7 @@ Download topic
 
 Don't use. Use *notification area* instead.
 
-See also [notification area](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35520)
+**See also** [notification area](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35520)
 
 ![In progress](system-tray_files/activity-large.gif)
 

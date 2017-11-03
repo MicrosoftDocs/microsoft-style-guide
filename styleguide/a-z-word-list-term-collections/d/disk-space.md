@@ -15,7 +15,7 @@ Download topic
 
 Use instead of *storage* or *memory* to refer to available capacity on a disk.
 
-See also [storage, storage device](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33651)
+**See also** [storage, storage device](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33651)
 
 ![In progress](disk-space_files/activity-large.gif)
 

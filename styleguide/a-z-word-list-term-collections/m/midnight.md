@@ -13,7 +13,7 @@ Copy URL
 
 Download topic
 
-See [Date and time term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=27390)
+**See** [Date and time term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=27390)
 
 ![In progress](midnight_files/activity-large.gif)
 

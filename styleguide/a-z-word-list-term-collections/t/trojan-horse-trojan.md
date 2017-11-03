@@ -13,7 +13,7 @@ Copy URL
 
 Download topic
 
-See [Security, safety, and privacy term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26894)
+**See** [Security, safety, and privacy term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26894)
 
 ![In progress](trojan-horse-trojan_files/activity-large.gif)
 

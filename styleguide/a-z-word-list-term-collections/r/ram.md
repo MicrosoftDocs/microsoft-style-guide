@@ -13,7 +13,7 @@ Copy URL
 
 Download topic
 
-See [memory](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35450)
+**See** [memory](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35450)
 
 ![In progress](ram_files/activity-large.gif)
 

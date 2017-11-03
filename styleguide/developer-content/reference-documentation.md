@@ -23,12 +23,12 @@ is essential in reference documentation. A standard topic design,
 predictable headings and structure, and consistent wording
 help developers find what they need quickly. 
 
-**Note** Information such
+****Note**** Information such
 as configuration schemas, compiler options, and error messages
 might not follow the guidelines described in this section. For
 information about documenting those features, see your group's editorial style guide.
 
-#### Topic titles
+#### **Topic titles**
 
 Use
 the name of a programming element (such as Clear), followed by an
@@ -44,7 +44,7 @@ Clear Method
 Device.Clear Method 
 Clear Method (Microsoft Ajax)
 
-#### Elements of a reference topic
+#### **Elements of a reference topic**
 
 The table lists the information typically provided in reference topics. Not all sections appear in all topics. For example, the *Property value* or *Field value*
 section appears only in reference topics for properties. Sections vary
@@ -128,7 +128,7 @@ comments. Developers might leave out details that are important to
 customers. Remove any implementation or internal details that
 aren’t suitable for documentation. 
 
-Learn more For examples of technical reference topics, see the [.NET Framework Class Library](http://msdn.microsoft.com/en-us/library/gg145045.aspx) section of the [Microsoft Developer Network (MSDN) Library](http://msdn.microsoft.com/library/).
+**Learn more For examples of technical reference topics, see the [.NET Framework Class Library](http://msdn.microsoft.com/en-us/library/gg145045.aspx) section of the [Microsoft Developer Network (MSDN) Library](http://msdn.microsoft.com/library/).**
 
 ![In progress](reference-documentation_files/activity-large.gif)
 

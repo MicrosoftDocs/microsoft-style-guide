@@ -15,7 +15,7 @@ Download topic
 
 Hyphenate as adjectives. Use instead of *bottom left* and *bottom right*. 
 
-Accessibility note Don't use directional terms (*left, right, up, down*)
+**Accessibility note** Don't use directional terms (*left, right, up, down*)
 as the only clue to location. Individuals with
 cognitive impairments might have difficulty interpreting them, as
 might people who are blind and use screen-reading

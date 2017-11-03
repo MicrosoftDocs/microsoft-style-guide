@@ -13,7 +13,7 @@ Copy URL
 
 Download topic
 
-See [command prompt](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33562)
+**See** [command prompt](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33562)
 
 ![In progress](system-prompt_files/activity-large.gif)
 

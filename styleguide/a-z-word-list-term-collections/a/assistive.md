@@ -23,7 +23,7 @@ Examples
 (General discussion) Calibrate your motion sensor to track your body movements correctly.
 (Specific discussion) Learn about assistive technology built into Windows 10.
 
-See also **** [Accessibility guidelines and requirements](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26589)
+**See also** **** [Accessibility guidelines and requirements](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26589)
 
 ![In progress](assistive_files/activity-large.gif)
 

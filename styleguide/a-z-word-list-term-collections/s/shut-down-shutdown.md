@@ -25,7 +25,7 @@ Use the Shut down command to safely close open apps, shut down Windows, and turn
 Many computers turn the power off automatically.
 The accidental shutdown might have damaged some files. 
 
-See also**
+**See also** **
 **[Describing interactions with UI](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26472)
 [turn on, turn off](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33405)
 [sleep](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35395)

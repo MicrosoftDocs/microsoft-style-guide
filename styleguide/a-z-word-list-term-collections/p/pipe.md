@@ -22,7 +22,7 @@ of another.
 
 The symbol for a pipe in programming content is a vertical bar ( | ).
 
-See also [Special characters term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28875)
+**See also** [Special characters term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28875)
 
 ![In progress](pipe_files/activity-large.gif)
 

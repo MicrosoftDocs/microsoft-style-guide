@@ -13,7 +13,7 @@ Copy URL
 
 Download topic
 
-See [Computer and device term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26597)
+**See** [Computer and device term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26597)
 
 ![In progress](tablet_files/activity-large.gif)
 

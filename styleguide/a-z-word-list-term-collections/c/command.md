@@ -17,7 +17,7 @@ In general, avoid talking about the UI. Instead, talk about what the customer ne
 
 In content for developers about creating UI elements, it's OK to use *menu item* when appropriate.
 
-See also **** [Describing interactions with UI,](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26472) [option, option button](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35540)
+**See also** **** [Describing interactions with UI,](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26472) [option, option button](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35540)
 
 ![In progress](command_files/activity-large.gif)
 

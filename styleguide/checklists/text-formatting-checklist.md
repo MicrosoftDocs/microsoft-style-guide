@@ -19,11 +19,11 @@ Download topic
   - Avoid widows, orphans, and lines that end with hyphens.
   - Don’t compress line spacing.
 
-Learn more about [using type](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36397).
+**Learn more** about [using type](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36397).
 
   - Format text elements consistently.
 
-Learn about 
+**Learn** **about**
  [Formatting common text elements](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36402)
 [Formatting titles](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36416)
 [Formatting developer text elements](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28975)

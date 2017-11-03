@@ -17,7 +17,7 @@ Don't use if you can use *multiple selection* instead. It's OK to use *adjacent 
 
 Don't use *contiguous selection*.
 
-See also **** [multiple selection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32286)
+**See also** **** [multiple selection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32286)
 
 ![In progress](adjacent-selection_files/activity-large.gif)
 

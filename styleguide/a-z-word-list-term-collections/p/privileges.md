@@ -15,7 +15,7 @@ Download topic
 
 Don't use as a synonym for *permissions* or *rights*. 
 
-See [permissions](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35560), [rights](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35561)
+**See** [permissions](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35560), [rights](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35561)
 
 ![In progress](privileges_files/activity-large.gif)
 

@@ -13,7 +13,7 @@ Copy URL
 
 Download topic
 
-See [Keys and keyboard shortcuts term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=27401) and [Special characters term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28875)
+**See** [Keys and keyboard shortcuts term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=27401) and [Special characters term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28875)
 
 ![In progress](pound-key-pound-sign_files/activity-large.gif)
 

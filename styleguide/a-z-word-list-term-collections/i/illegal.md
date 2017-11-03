@@ -27,7 +27,7 @@ Examples**
 **The queue path name is not valid. 
 You can't compose chords while a segment is playing.
 
-See also **** [invalid, not valid](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=34920)
+**See also** **** [invalid, not valid](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=34920)
 
 ![In progress](illegal_files/activity-large.gif)
 

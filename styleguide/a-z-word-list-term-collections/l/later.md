@@ -24,7 +24,7 @@ Examples
 Internet Explorer 7 or later, Firefox 3.6 or later
 Windows 7, Windows 8, Windows 8.1, and Windows 10****
 
-See also [earlier](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32559)
+**See also** [earlier](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32559)
 
 ![In progress](later_files/activity-large.gif)
 

@@ -23,7 +23,7 @@ Examples
 1920 × 1200 pixels or higher resolution
 a processer speed of 2.5 gigahertz (GHz) or faster
 
-See [later](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32560)
+**See** [later](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32560)
 
 ![In progress](higher_files/activity-large.gif)
 

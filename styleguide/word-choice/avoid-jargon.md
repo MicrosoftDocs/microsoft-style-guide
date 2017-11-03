@@ -26,7 +26,7 @@ Don’t use jargon if:
 
 Avoid business, marketing, and journalistic jargon, such as using *leverage* to mean *take advantage of*. 
 
-Testing for jargon
+**Testing for jargon**
 
 Differentiating jargon from technical terminology is tricky. First, check the [A–Z word list](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25512) and your group's editorial style guide. If you don’t find the term, the following checklist can help.
 

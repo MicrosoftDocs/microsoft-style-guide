@@ -22,7 +22,7 @@ have established the context of electronic mail, it's OK to use *mail* instead o
 
 It's OK to use *email* as a verb.
 
-Global tip In some languages, the translation of *email* is different for noun and verb forms. If you use *email* as a noun, provide enough context that localizers can identify its role in the sentence. For example, write *send an email,* which positions *email* after a verb and an article, where a noun is expected. In contrast, *Email* used by itself as a heading could be a noun or a verb. 
+**Global tip** In some languages, the translation of *email* is different for noun and verb forms. If you use *email* as a noun, provide enough context that localizers can identify its role in the sentence. For example, write *send an email,* which positions *email* after a verb and an article, where a noun is expected. In contrast, *Email* used by itself as a heading could be a noun or a verb. 
 
 Use *Email* at the beginning of a sentence or heading. Never hyphenate *email* or capitalize the *m.*
 

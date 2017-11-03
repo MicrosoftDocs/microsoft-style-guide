@@ -20,7 +20,7 @@ describe the relationships among nodes in a tree structure.
 
 Don't use as a synonym for a master/subordinate relationship. 
 
-See also [master/slave, master/subordinate](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35241)
+**See also** [master/slave, master/subordinate](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35241)
 
 ![In progress](parent-child_files/activity-large.gif)
 

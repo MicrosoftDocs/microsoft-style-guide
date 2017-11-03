@@ -24,7 +24,7 @@ Assume that most content will be viewed on tablets or mobile devices by some cus
   - Simplify charts and graphs, and write short chart titles and axis labels.
   - Limit the number of columns in a table.
 
-[](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28694)Learn more about [responsive content](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36384).
+[](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28694)**Learn more**  about [responsive content](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36384).
 
 ![In progress](responsive-content-checklist_files/activity-large.gif)
 

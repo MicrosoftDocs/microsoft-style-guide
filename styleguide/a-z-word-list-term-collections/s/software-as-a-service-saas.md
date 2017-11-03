@@ -13,7 +13,7 @@ Copy URL
 
 Download topic
 
-See [Cloud-computing term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28841)
+**See** [Cloud-computing term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28841)
 
 ![In progress](software-as-a-service-saas_files/activity-large.gif)
 

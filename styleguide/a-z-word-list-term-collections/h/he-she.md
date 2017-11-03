@@ -15,7 +15,7 @@ Download topic
 
 Don't use.
 
-See [Nouns and pronouns](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25525)
+**See** [Nouns and pronouns](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25525)
 
 ![In progress](he-she_files/activity-large.gif)
 

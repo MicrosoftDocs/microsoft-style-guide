@@ -21,7 +21,7 @@ Examples
 0 MB
 0 megabytes
 
-See also [Units of measure term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28884)
+**See also** [Units of measure term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28884)
 
 ![In progress](zero-zeros_files/activity-large.gif)
 

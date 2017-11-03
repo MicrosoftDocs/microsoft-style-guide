@@ -30,7 +30,7 @@ set the Execute File permission on all files within that folder.
 Grant Read, Read and Execute, and List Folder Content permissions to the Users group. 
 Whenever possible, assign permissions to groups instead of users.
 
-See also **** [rights](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35561), [user rights](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35562)
+**See also** **** [rights](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35561), [user rights](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35562)
 
 ![In progress](permissions_files/activity-large.gif)
 

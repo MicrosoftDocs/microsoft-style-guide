@@ -13,7 +13,7 @@ Copy URL
 
 Download topic
 
-See [Describing interactions with UI](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26472)
+**See** [Describing interactions with UI](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26472)
 
 ![In progress](go-to_files/activity-large.gif)
 

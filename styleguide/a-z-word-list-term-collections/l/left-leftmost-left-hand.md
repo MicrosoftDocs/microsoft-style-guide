@@ -15,7 +15,7 @@ Download topic
 
 Don't use *left* as a directional term by itself. Instead, use a term such as *upper left*, *lower left*, *leftmost*, or *on the left side of*. Include a hyphen when you use *left* to modify a noun, as in *upper-left corner*. Don't use *left-hand *as a modifier.
 
-Accessibility tip Don't use directional terms (*left, right, up, down*)
+**Accessibility tip** Don't use directional terms (*left, right, up, down*)
 as the only clue to location. Individuals with
 cognitive disabilities might have difficulty interpreting them,
 as might people who are blind and use screen-reading

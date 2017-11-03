@@ -13,7 +13,7 @@ Copy URL
 
 Download topic
 
-See [administrator, admin](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32359)
+**See** [administrator, admin](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32359)
 
 ![In progress](system-administrator_files/activity-large.gif)
 

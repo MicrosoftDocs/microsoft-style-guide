@@ -17,7 +17,7 @@ Use *console window* and *console application* only in content for a technical a
 
 Don't use *console* as a synonym for *snap-in*.
 
-See also [
+**See also** [
 command line](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33561)
 [command prompt](https://worldready.cloudapp.net/Styleguide/Read?id=1413&topicid=5119)
 [snap-in](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28839)

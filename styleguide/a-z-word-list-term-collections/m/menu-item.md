@@ -17,7 +17,7 @@ In general, avoid talking about the UI. Instead, talk about what the customer ne
 
 In content for developers, it's OK to use *menu items* in the context of UI development. 
 
-See also [Describing interactions with UI](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26472)
+**See also** [Describing interactions with UI](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26472)
 
 ![In progress](menu-item_files/activity-large.gif)
 

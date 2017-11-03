@@ -25,7 +25,7 @@ Examples
 Replace the selected text with the new text. 
 Replace the file with the changed file.
 
-See also [find and replace](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33782)
+**See also** [find and replace](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33782)
 
 ![In progress](replace_files/activity-large.gif)
 

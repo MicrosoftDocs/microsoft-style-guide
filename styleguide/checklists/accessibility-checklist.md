@@ -20,9 +20,9 @@ which cover software and hardware development, web content, and
 other forms of content, including audio, video, animations, images,
 and interactive content. (The Microsoft Accessibility Standards page requires Microsoft network access.) This checklist will get you started. 
 
-Learn more about [Accessibility guidelines and requirements](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26589). 
+**Learn more**  about [Accessibility guidelines and requirements](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26589). 
 
-#### Writing 
+#### **Writing**
 
   - Create text alternatives (alt text) for all elements other than text. 
   - Follow Microsoft voice guidelines to create brief, clear, and focused content.
@@ -40,7 +40,7 @@ Learn more about [Accessibility guidelines and requirements](https://worldready.
     modes of interaction, input commands, and keyboard shortcuts. 
   - In procedures and instructions, use generic verbs that work with any input method. To learn more, see [Describing interactions with UI](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26472).
 
-#### Colors and patterns 
+#### **Colors and patterns**
 
   - Don’t
     convey information using any single sensory cue—color, sound,
@@ -52,7 +52,7 @@ Learn more about [Accessibility guidelines and requirements](https://worldready.
     To learn more, see page 5 of [](https://microsoft.sharepoint.com/teams/BrandCentral/Guidelines/MS_color_and_accessibility_Oct2014.pdf "PowerPoint file")[the brand color guidelines](https://microsoft.sharepoint.com/teams/BrandCentral/Guidelines/Microsoft_color_guidelines.pdf "Microsoft color guidelines PDF"). (This page requires Microsoft network access.)
   - Don’t use screens or tints in art. Don't use patterns or images behind text. 
 
-#### Graphics, design, and media 
+#### **Graphics, design, and media**
 
   - Try to keep webpage and UI design simple, within a rectangular grid.
   - Design webpages to support known reading patterns.
@@ -71,7 +71,7 @@ Learn more about [Accessibility guidelines and requirements](https://worldready.
     audio descriptions.) 
   - Provide text links in addition to image maps.
 
-#### Terminology 
+#### **Terminology**
 
   - Always put people before the disability. For example, refer to a person who is blind, not a blind person. 
   - Use

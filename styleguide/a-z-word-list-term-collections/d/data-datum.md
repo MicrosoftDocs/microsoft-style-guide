@@ -24,7 +24,7 @@ The data shows that 95 percent of users prefer a graphical interface.
 The data gathered so far is incomplete. 
 These facts contradict earlier data.
 
-See also [big data](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32563)
+**See also** [big data](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32563)
 
 ![In progress](data-datum_files/activity-large.gif)
 

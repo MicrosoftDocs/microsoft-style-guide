@@ -29,7 +29,7 @@ Examples
 Install the app.
 To learn more about integrating data security across your enterprise, download the poster to your device. 
 
-See also [
+**See also** [
 install](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32283)
 [load](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33614)
 [upload](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33616)

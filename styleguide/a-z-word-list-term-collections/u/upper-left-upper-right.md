@@ -17,7 +17,7 @@ Hyphenate as adjectives. Use instead of *top left* and *top right*.
 
 Example The upper-right corner
 
-Accessibility note Don't use directional terms (*left, right, up, down*)
+**Accessibility note** Don't use directional terms (*left, right, up, down*)
 as the only clue to location. Individuals with
 cognitive impairments might have difficulty interpreting them, as
 might people who are blind and use screen-reading

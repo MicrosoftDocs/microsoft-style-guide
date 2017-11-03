@@ -15,7 +15,7 @@ Download topic
 
 Always hyphenate. **
 
-See also [read/write, read/write permissions](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35663)
+**See also** [read/write, read/write permissions](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35663)
 
 ![In progress](write-only_files/activity-large.gif)
 

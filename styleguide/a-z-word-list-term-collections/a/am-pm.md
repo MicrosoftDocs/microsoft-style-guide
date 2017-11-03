@@ -13,7 +13,7 @@ Copy URL
 
 Download topic
 
-See [Date and time term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=27390 "Click to ope Date and time term collection.")
+**See** [Date and time term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=27390 "Click to ope Date and time term collection.")
 
 ![In progress](am-pm_files/activity-large.gif)
 

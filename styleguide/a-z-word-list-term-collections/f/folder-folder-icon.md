@@ -19,7 +19,7 @@ In content about Windows, use *folder* to refer to a container for files and oth
 
 Use *folder icon *to describe the visual representation of a folder. Don't use *directory icon.*
 
-Note Not
+**Note** Not
 all folders contain files or other folders. For example, the
 Printers and Control Panel apps are also folders. Describe the
 nature of the folder, if necessary.

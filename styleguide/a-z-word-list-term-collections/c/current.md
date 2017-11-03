@@ -13,7 +13,7 @@ Copy URL
 
 Download topic
 
-See [active vs. current](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32279)
+**See** [active vs. current](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32279)
 
 ![In progress](current_files/activity-large.gif)
 

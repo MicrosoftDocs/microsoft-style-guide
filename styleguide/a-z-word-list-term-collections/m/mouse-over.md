@@ -13,7 +13,7 @@ Copy URL
 
 Download topic
 
-See [Mouse and mouse interaction term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=29013)
+**See** [Mouse and mouse interaction term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=29013)
 
 ![In progress](mouse-over_files/activity-large.gif)
 

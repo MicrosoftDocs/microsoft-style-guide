@@ -28,7 +28,7 @@ Examples
 (Sentence-style capitalization) E-commerce and security
 (Title-style capitalization) Strategic E-Commerce Systems and Tools for Competing in the Digital Marketplace
 
-See also [Capitalization](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33685)
+**See also** [Capitalization](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33685)
 
 ![In progress](e-words_files/activity-large.gif)
 

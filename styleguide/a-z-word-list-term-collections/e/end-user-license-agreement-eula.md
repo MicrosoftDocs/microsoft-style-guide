@@ -15,7 +15,7 @@ Download topic
 
 Don't use. Use *Microsoft Software License Terms*.
 
-See also **** [Microsoft Software License Terms](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33682)
+**See also** **** [Microsoft Software License Terms](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33682)
 
 ![In progress](end-user-license-agreement-eula_files/activity-large.gif)
 

@@ -13,7 +13,7 @@ Copy URL
 
 Download topic
 
-See [Accessibility term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26596)
+**See** [Accessibility term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26596)
 
 ![In progress](deaf-or-hard-of-hearing_files/activity-large.gif)
 

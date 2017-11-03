@@ -25,7 +25,7 @@ the **Wallpaper** list
 
 Don't use *box* as a synonym for client and server hardware. 
 
-See also [Describing interactions with UI](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26472), [Computer and device term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26597)
+**See also** [Describing interactions with UI](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26472), [Computer and device term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26597)
 
 ![In progress](box_files/activity-large.gif)
 

@@ -54,7 +54,7 @@ Example Select Options; then select Enable fast saves.
 
 Example The program evaluates your computer system and then copies the essential files to the target location. 
 
-Writing tip Consider replacing a compound predicate with two sentences. Or add a subject for the second verb. 
+**Writing tip Consider replacing a compound predicate with two sentences. Or add a subject for the second verb.**
 
 Examples 
 The program evaluates your computer system. Then it copies the essential files to the target location.

@@ -13,7 +13,7 @@ Copy URL
 
 Download topic
 
-See [Keys and keyboard shortcuts term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=27401)
+**See** [Keys and keyboard shortcuts term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=27401)
 
 ![In progress](keypress-keystroke_files/activity-large.gif)
 

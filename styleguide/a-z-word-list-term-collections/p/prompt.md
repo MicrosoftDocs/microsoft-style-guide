@@ -24,7 +24,7 @@ Examples
 If you see a message that more information is needed ....
 When you run Setup, you're prompted to select settings and file locations.
 
-See also **** [command prompt](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33562)
+**See also** **** [command prompt](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33562)
 
 ![In progress](prompt_files/activity-large.gif)
 

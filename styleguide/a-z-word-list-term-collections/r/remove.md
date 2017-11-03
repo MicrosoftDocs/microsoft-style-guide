@@ -25,7 +25,7 @@ Use *r**emove*:
   - As a synonym for *unload*. 
   - As a verb to describe removing add-ins and add-ons. 
 
-See also [uninstall](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33611), [delete](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33613)[,](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33613) [load](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33614)
+**See also**  [uninstall](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33611), [delete](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33613)[,](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33613) [load](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33614)
 
 ![In progress](remove_files/activity-large.gif)
 

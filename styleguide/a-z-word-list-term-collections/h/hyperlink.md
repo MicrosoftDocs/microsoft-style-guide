@@ -30,7 +30,7 @@ Examples
 Select the link to go to another webpage. 
 On the Insert tab, select Hyperlink in the Links group.
 
-See also [URLs and web addresses](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=34905), [Describing interactions with UI](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26472)
+**See also** [URLs and web addresses](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=34905), [Describing interactions with UI](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26472)
 
 ![In progress](hyperlink_files/activity-large.gif)
 

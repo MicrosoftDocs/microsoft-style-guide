@@ -26,7 +26,7 @@ Examples
 You just earned the Superstar achievement\!
 Take a bow—you’ve earned your Superstar.
 
-See also [badge](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32274)
+**See also** [badge](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32274)
 
 ![In progress](achievement_files/activity-large.gif)
 

@@ -28,7 +28,7 @@ Plug and Play functionality
 Plug and Play printer 
 Plug and Play records the information in an event log.
 
-See also [UPnP](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35574)
+**See also** [UPnP](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35574)
 
 ![In progress](plug-and-play_files/activity-large.gif)
 

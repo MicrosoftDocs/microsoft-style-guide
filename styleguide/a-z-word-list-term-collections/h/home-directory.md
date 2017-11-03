@@ -21,7 +21,7 @@ In Windows, the root directory is indicated by a backslash (\\).
 
 In all other content, use *top-level folder*.
 
-See also [root directory](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28845)
+**See also** [root directory](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28845)
 
 ![In progress](home-directory_files/activity-large.gif)
 

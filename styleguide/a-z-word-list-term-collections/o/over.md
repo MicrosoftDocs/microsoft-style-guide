@@ -21,7 +21,7 @@ The installed base is more than 2 million.
 
 Don't use to refer to version numbers. Use *later* instead.
 
-See also [later](https://worldready.cloudapp.net/Styleguide/Read?id=1413&topicid=5476)
+**See also** [later](https://worldready.cloudapp.net/Styleguide/Read?id=1413&topicid=5476)
 
 ![In progress](over_files/activity-large.gif)
 

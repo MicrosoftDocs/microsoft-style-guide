@@ -17,7 +17,7 @@ Most of the time, use *folder* instead. Use *directory* only in content for deve
 
 Don't use *directory icon.*
 
-See also **** [folder](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33642)
+**See also** **** [folder](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33642)
 
 ![In progress](directory_files/activity-large.gif)
 

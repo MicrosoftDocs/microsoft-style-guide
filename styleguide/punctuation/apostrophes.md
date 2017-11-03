@@ -43,7 +43,7 @@ Download topic
   - To form the plural of a singular noun.
     Example Play your favorite games on all your devices.
 
-**Note:** Don't use the possessive form of Microsoft trademarks and product, service, or feature names.
+**Note:**  Don't use the possessive form of Microsoft trademarks and product, service, or feature names.
 
 ![In progress](apostrophes_files/activity-large.gif)
 

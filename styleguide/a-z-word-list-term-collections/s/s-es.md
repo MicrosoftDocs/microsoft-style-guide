@@ -22,7 +22,7 @@ Examples
 To add rows or columns to a table, .... 
 To add one or more rows or columns to a table, ....
 
-See also **** [Nouns](https://worldready.cloudapp.net/Styleguide/Read?id=1413&topicid=3877)
+**See also** **** [Nouns](https://worldready.cloudapp.net/Styleguide/Read?id=1413&topicid=3877)
 
 ![In progress](s-es_files/activity-large.gif)
 

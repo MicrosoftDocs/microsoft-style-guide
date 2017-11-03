@@ -15,7 +15,7 @@ Download topic
 
 Don't use as a synonym for *property*.
 
-See [property](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32546)
+**See** [property](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32546)
 
 ![In progress](audiobook_files/activity-large.gif)
 

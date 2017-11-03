@@ -45,7 +45,7 @@ Buy or Download button there. If the navigation is on
 the left, put your most important information in the upper-left
 corner of the text pane.
 
-#### Be brief, be bold, be clear
+#### **Be brief, be bold, be clear**
 
 Long
 spans of dense text are daunting and unapproachable to readers.
@@ -97,7 +97,7 @@ When comparing things, use parallel sentence structures
 to describe each thing. Write headlines and bulleted list items
 using the same sentence structure, too.
 
-#### Give paragraphs room—and keep them short
+#### **Give paragraphs room—and keep them short**
 
 Paragraphs
 usually have extra space between them. How much extra space

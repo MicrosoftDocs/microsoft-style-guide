@@ -13,7 +13,7 @@ Copy URL
 
 Download topic
 
-See [hyperlink](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33969)
+**See** [hyperlink](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33969)
 
 ![In progress](link_files/activity-large.gif)
 

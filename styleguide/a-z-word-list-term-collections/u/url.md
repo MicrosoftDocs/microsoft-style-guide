@@ -19,7 +19,7 @@ Use *of* (not *for*) to describe the relationship of the word *URL* to a resourc
 
 Example Search results include the URL of the page. 
 
-See also [URLs and web addresses](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=34905)
+**See also** [URLs and web addresses](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=34905)
 
 ![In progress](url_files/activity-large.gif)
 

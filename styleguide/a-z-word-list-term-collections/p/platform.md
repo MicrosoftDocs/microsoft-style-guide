@@ -24,7 +24,7 @@ In content for a technical audience, use *cross-platform* to refer to an app or 
 
 Use *on* as a preposition with *platform* in discussions about hardware platforms: *on the Intel Atom platform,* for example, but *in Windows 10.*
 
-See also **** [operating environment, operating system](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35538)
+**See also** **** [operating environment, operating system](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35538)
 
 ![In progress](platform_files/activity-large.gif)
 

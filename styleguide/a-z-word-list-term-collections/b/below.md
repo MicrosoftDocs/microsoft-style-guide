@@ -22,7 +22,7 @@ Use the following code to display information about the database.
 See [Installation instructions](http://example.com/).
 See Installation instructions, later in this topic.
 
-See also **** [above](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=27392), [later](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32560)
+**See also** **** [above](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=27392), [later](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32560)
 
 ![In progress](below_files/activity-large.gif)
 

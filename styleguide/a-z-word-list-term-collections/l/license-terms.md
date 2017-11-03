@@ -13,7 +13,7 @@ Copy URL
 
 Download topic
 
-See [Microsoft Software License Terms](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33682)
+**See** [Microsoft Software License Terms](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33682)
 
 ![In progress](license-terms_files/activity-large.gif)
 

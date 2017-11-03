@@ -13,7 +13,7 @@ Copy URL
 
 Download topic
 
-See [Bits and bytes term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26920)
+**See** [Bits and bytes term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26920)
 
 ![In progress](kilobit_files/activity-large.gif)
 

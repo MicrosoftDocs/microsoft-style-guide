@@ -15,7 +15,7 @@ Download topic
 
 Don't use.
 
-See [Cloud-computing term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28841)
+**See** [Cloud-computing term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28841)
 
 ![In progress](software-plus-services_files/activity-large.gif)
 
