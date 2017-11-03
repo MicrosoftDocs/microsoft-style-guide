@@ -61,7 +61,3 @@ provides an overview of the most common legal issues in content. For complete in
     internationally. Verify that providing the download won’t
     break US laws.
   - Before distributing downloadable software or content internationally, check for any worldwide legal issues. [Learn more](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26917).
-
-#### ![In progress](media/legal-content-checklist/activity-large.gif)
-
-URL :
