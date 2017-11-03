@@ -1,7 +1,3 @@
-Your browser does not support JavaScript. Please enable the Javascript.
-
-Loading...
-
 # 
 
 input/output, I/O, input/output control

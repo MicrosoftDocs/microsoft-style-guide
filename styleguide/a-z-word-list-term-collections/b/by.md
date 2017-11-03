@@ -1,7 +1,3 @@
-Your browser does not support JavaScript. Please enable the Javascript.
-
-Loading...
-
 # 
 
 by (publisher or company name)

@@ -1,7 +1,3 @@
-Your browser does not support JavaScript. Please enable the Javascript.
-
-Loading...
-
 # 
 
 drag, drag and drop

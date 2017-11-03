@@ -1,8 +1,4 @@
-﻿Your browser does not support JavaScript. Please enable the Javascript.
-
-Loading...
-
-# 
+﻿# 
 
 Mouse and mouse interaction terms
 

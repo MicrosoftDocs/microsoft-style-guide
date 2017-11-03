@@ -1,8 +1,4 @@
-﻿Your browser does not support JavaScript. Please enable the Javascript.
-
-Loading...
-
-# 
+﻿# 
 
 8.5" x 11" paper
 

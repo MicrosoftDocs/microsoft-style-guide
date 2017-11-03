@@ -1,8 +1,4 @@
-﻿Your browser does not support JavaScript. Please enable the Javascript.
-
-Loading...
-
-# 
+﻿# 
 
 Microsoft's brand voice: above all, simple and human
 

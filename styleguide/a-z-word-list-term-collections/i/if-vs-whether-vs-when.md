@@ -1,8 +1,4 @@
-﻿Your browser does not support JavaScript. Please enable the Javascript.
-
-Loading...
-
-# 
+﻿# 
 
 if vs. whether vs. when
 
