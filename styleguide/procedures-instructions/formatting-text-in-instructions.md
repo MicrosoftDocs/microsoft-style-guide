@@ -1,4 +1,4 @@
-﻿# Formatting text in instructions
+# Formatting text in instructions
 
 Consistent
 text formatting helps readers locate and interpret information. Follow
@@ -10,10 +10,10 @@ team might vary from these guidelines to meet your content needs. Check
 your group's editorial style guide for additional
 conventions. 
 
-See also
- [Capitalization](/style-guide/capitalization)
-[Formatting common text elements](/style-guide/text-formatting/formatting-common-text-elements)
-[Formatting developer text elements](/style-guide/developer-content/formatting-developer-text-elements)
+See also  
+[Capitalization](/style-guide/capitalization)  
+[Formatting common text elements](/style-guide/text-formatting/formatting-common-text-elements)  
+[Formatting developer text elements](/style-guide/developer-content/formatting-developer-text-elements)  
 
 #### In documentation and technical content
 
