@@ -19,7 +19,7 @@ represent Microsoft, this guide is for you.
 
 Before you dive in:
 
-  - Learn [how to use this guide](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=29023).
+  - Learn [how to use this guide](./style-guide/welcome/guide-how-to.md).
   - Familiarize yourself with the recommended [Microsoft style references](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=29024). 
   - Meet the [Microsoft Editorial Board](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=29025) and others who contribute to this guide.
   - Find out how to [stay connected](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=29026).
