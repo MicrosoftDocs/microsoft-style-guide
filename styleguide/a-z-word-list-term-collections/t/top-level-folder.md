@@ -6,4 +6,4 @@ In content for developers, use *root directory*.
 
 Example **** The top-level folder for most customers is the Documents folder.
 
-See also [root directory](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28845)
+See also [root directory](/style-guide/a-z-word-list-term-collections/r/root-directory)

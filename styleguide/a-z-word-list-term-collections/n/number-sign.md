@@ -11,4 +11,4 @@ Example (on Twitter) A quick look at top conversations and \#Office365 product a
 
 It's OK to use the \# symbol in references to the \# key on the keyboard.
 
-See also [](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=27401)[Keys and keyboard shortcuts term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=27401)
+See also [](/style-guide/a-z-word-list-term-collections/term-collections/keys-keyboard-shortcuts)[Keys and keyboard shortcuts term collection](/style-guide/a-z-word-list-term-collections/term-collections/keys-keyboard-shortcuts)

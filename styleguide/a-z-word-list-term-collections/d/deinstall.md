@@ -5,4 +5,4 @@ Don't use except to reference the term when it appears in the UI or an API. Don'
  Example
 The DeInstall method removes the specified network component from the operating system.
 
-See also [](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33611)[uninstall](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33611)
+See also [](/style-guide/a-z-word-list-term-collections/u/uninstall)[uninstall](/style-guide/a-z-word-list-term-collections/u/uninstall)

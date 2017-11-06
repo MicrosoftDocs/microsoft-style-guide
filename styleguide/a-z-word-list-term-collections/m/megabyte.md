@@ -1,3 +1,3 @@
 # megabyte, MB, meg, M, M byte, Mbyte
 
-**See** [Bits and bytes term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26920)
+**See** [Bits and bytes term collection](/style-guide/a-z-word-list-term-collections/term-collections/bits-bytes-terms)

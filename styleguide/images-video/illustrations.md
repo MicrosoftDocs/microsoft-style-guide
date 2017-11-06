@@ -12,14 +12,14 @@ Use vivid color. Use energetic, flat colors drawn from the [Microsoft color pale
 
 Use the Microsoft illustration library. Avoid purchasing stock illustration whenever possible. [Find a Microsoft illustration.](https://microsoft.sharepoint.com/teams/BrandCentral/Pages/Bundles/Illustrations_Editable_AllCollections.aspx) (This site requires Microsoft network access.)
 
-Make sure you have legal permission to use the illustrations in your content. To learn about legal guidelines for using images, see [Copyrights and trademarks](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26696).
+Make sure you have legal permission to use the illustrations in your content. To learn about legal guidelines for using images, see [Copyrights and trademarks](/style-guide/legal-content/copyrights-trademarks).
 
 Avoid using text in illustrations that
 will be localized. If you must use text, put it on a separate
 layer from the graphics. To learn more about using images in global
-communications, see [Art](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26910).
+communications, see [Art](/style-guide/global-communications/art).
 
 If illustrations convey information that’s
 important to the story, describe them clearly and completely in
 captions or alt text to support people with low vision. To learn
-more about accessible images, see [Graphics, design, and media](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32191).
+more about accessible images, see [Graphics, design, and media](/style-guide/accessibility/graphics-design-media).

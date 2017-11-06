@@ -17,7 +17,7 @@ software files that includes executable files and other components.
 Don't use application program.
 
 **See also**
-[add-in, add-on](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28773)
-[applet](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32508)
-[tool](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32532) 
-[Control Panel](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36789)
+[add-in, add-on](/style-guide/a-z-word-list-term-collections/a/add-in-add-on)
+[applet](/style-guide/a-z-word-list-term-collections/a/applet)
+[tool](/style-guide/a-z-word-list-term-collections/t/tool) 
+[Control Panel](/style-guide/a-z-word-list-term-collections/c/control-panel)

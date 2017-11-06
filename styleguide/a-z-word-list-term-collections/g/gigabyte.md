@@ -1,5 +1,5 @@
 # gigabyte, GB, G, G byte, Gbyte
 
-See [Bits and bytes term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26920)
+See [Bits and bytes term collection](/style-guide/a-z-word-list-term-collections/term-collections/bits-bytes-terms)
 
 *GB* is also the abbreviation for *Great Britain* (England, Scotland, and Wales). Don't use *United Kingdom (UK)*, *Great Britain (GB)*, and *England* interchangeably. For guidance on when to use each term, look up *UK* in the [PoliCheck terminology database](https://policheck.azurewebsites.net/Pages/DisplayTermDetails.aspx?LCID=9).

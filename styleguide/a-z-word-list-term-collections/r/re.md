@@ -9,4 +9,4 @@ re-cover (to cover again)
 recreate (to take part in a recreational activity) 
 re-create (to create anew)
 
-To learn more about hyphenation, see [Hyphens](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28765).
+To learn more about hyphenation, see [Hyphens](/style-guide/punctuation/dashes-hyphens/hyphens).

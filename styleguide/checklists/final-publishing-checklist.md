@@ -10,12 +10,12 @@ content that’s free of spelling and grammar mistakes is easy to read and build
   - Frontload keywords in titles and headings.
   - Eliminate every repetitive or redundant element.
   - Excise adverbs (words describing how, when, and where). 
-  - Evaluate the personality—your writing should sound like a person, not a robot. Learn more about the [Microsoft voice](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28361 "Brand voice").
+  - Evaluate the personality—your writing should sound like a person, not a robot. Learn more about the [Microsoft voice](/style-guide/brand-voice-above-all-simple-human "Brand voice").
   - Take things out. If you don’t miss them, leave them out.
   - If you have to read anything twice, simplify it or take it out.
   - Reread your original objectives. Did you meet them?
   - Leave your copy alone for a day. Then give it a final read with a fresh perspective.
-  - Pay attention to [legal requirements](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26694) and [c](https://microsoft.sharepoint.com/sites/lcaweb/Home/Marketing/Marketing-and-Advertising-Content/Quotes)[ite quotations and references](https://microsoft.sharepoint.com/sites/lcaweb/Home/Marketing/Marketing-and-Advertising-Content/Quotes). (This page requires Microsoft network access.)
+  - Pay attention to [legal requirements](/style-guide/legal-content/) and [c](https://microsoft.sharepoint.com/sites/lcaweb/Home/Marketing/Marketing-and-Advertising-Content/Quotes)[ite quotations and references](https://microsoft.sharepoint.com/sites/lcaweb/Home/Marketing/Marketing-and-Advertising-Content/Quotes). (This page requires Microsoft network access.)
   - Use a spelling and grammar checker. But check each recommendation before you accept it—only you know whether you mean *manager* or *manger*. 
 
 Learn more about what to do [](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25522)[](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25522)[before you publish](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25522). 

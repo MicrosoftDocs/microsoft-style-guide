@@ -11,7 +11,7 @@ We can create a backup of all sorts of things to make the transition easier, inc
   - The passwords for your accounts. 
   - Your call history. 
 
-To learn more, see [Lists](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36412).
+To learn more, see [Lists](/style-guide/scannable-content/lists).
 
 Within sentences
 

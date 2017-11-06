@@ -11,7 +11,7 @@ following guidelines.
 In
 general, refer to a person who has a kind of disability, not a
 disabled person. When you must describe specific disabilities
-or people with specific disabilities, use [approved terminology](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26596 "Accessibility term collection"). 
+or people with specific disabilities, use [approved terminology](/style-guide/a-z-word-list-term-collections/term-collections/accessibility-terms "Accessibility term collection"). 
 
 #### Write brief, meaningful, and focused text
 
@@ -51,9 +51,9 @@ In product documentation, document all supported modes of interaction, input com
 
 Learn more
 [Documenting Accessibility Features and Services in Your Product's Help System](https://microsoft.sharepoint.com/teams/msenable/_layouts/15/WopiFrame.aspx?sourcedoc=%7B0891E2BB-087F-48E9-B1D4-3EA50DF8A254%7D&file=Documenting_Accessibility_Features.doc&action=default&DefaultItemOpen=1) provides instructions for and links to an Accessibility Boilerplate and an Accessibility Product Template. (This page requires Microsoft network access.)
-[Describing alternative input methods](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=29028)
+[Describing alternative input methods](/style-guide/procedures-instructions/describing-alternative-input-methods)
 
 In procedures and instructions, use generic verbs that apply to all input methods and devices. Avoid verbs like *click* (mouse) and *swipe* (touch) that don't make sense with some alternative input methods used for accessibility. 
 
-Learn more [](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26472)[
-Describing interactions with UI](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26472)
+Learn more [](/style-guide/procedures-instructions/describing-interactions-with-ui)[
+Describing interactions with UI](/style-guide/procedures-instructions/describing-interactions-with-ui)

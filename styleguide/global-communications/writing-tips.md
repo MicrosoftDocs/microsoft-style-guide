@@ -5,9 +5,9 @@ the most part, content that’s easy to read tends to be easy to localize
 and translate. If you follow the writing recommendations in this style
 guide, you’re off to a great start. Pay particular attention to:
 
-  - [Word choice](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36378)
-  - [Grammar and parts of speech](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25518)
-  - [Punctuation](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25519)
+  - [Word choice](/style-guide/word-choice/)
+  - [Grammar and parts of speech](/style-guide/grammar/grammar-and-parts-of-speech)
+  - [Punctuation](/style-guide/punctuation/)
 
 #### Tips for all global content
 

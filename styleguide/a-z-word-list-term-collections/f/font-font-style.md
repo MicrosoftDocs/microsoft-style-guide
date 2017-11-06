@@ -10,4 +10,4 @@ Example Select the bold characters, and then select Bold to remove bold formatti
 
 In writing for customers, use *regular type* to describe type that's neither bold nor italic.
 
-For information about when to use various font styles, see [Text formatting](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36381).
+For information about when to use various font styles, see [Text formatting](/style-guide/text-formatting/).

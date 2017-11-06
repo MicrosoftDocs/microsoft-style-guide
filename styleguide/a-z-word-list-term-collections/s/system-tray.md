@@ -2,4 +2,4 @@
 
 Don't use. Use *notification area* instead.
 
-**See also** [notification area](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35520)
+**See also** [notification area](/style-guide/a-z-word-list-term-collections/n/notification-area)

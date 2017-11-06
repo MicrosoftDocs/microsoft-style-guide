@@ -25,14 +25,14 @@ English content and for streamlining localization and machine
 translation. You’ll find a few exceptions to general Microsoft voice and
 style guidance. This section covers:
 
-  - [Writing tips](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26907)
-  - [Art](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26910)
-  - [Examples and scenarios](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26911)
-  - [Currency](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26912)
-  - [Time and place](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26913)
-  - [Names and contact information](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26914)
-  - [Web, software, and HTML considerations](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26916)
-  - [Legal considerations](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26917)
+  - [Writing tips](/style-guide/global-communications/writing-tips)
+  - [Art](/style-guide/global-communications/art)
+  - [Examples and scenarios](/style-guide/global-communications/examples-scenarios)
+  - [Currency](/style-guide/global-communications/currency)
+  - [Time and place](/style-guide/global-communications/time-place)
+  - [Names and contact information](/style-guide/global-communications/names-contact-information)
+  - [Web, software, and HTML considerations](/style-guide/global-communications/web-software-html-considerations)
+  - [Legal considerations](/style-guide/global-communications/legal-considerations)
 
 For Microsoft’s approach to localizing product names, see the [Brand Central name localization guidelines](https://microsoft.sharepoint.com/teams/BrandCentral/Guidelines/Microsoft_naming_playbook_Localization.pdf "name localization guidelines on Brand Central"). (This page requires Microsoft network access.)
 

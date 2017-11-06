@@ -10,4 +10,4 @@ Examples
 The Boot.ini file stores startup options.
 Diagnosing and correcting problems that affect the startup process is an important troubleshooting skill.
 
-**See also** [turn on, turn off](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33405)
+**See also** [turn on, turn off](/style-guide/a-z-word-list-term-collections/t/turn-on-turn-off)

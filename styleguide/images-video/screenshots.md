@@ -13,11 +13,11 @@ When you use screenshots, follow these guidelines.
     Example
     ![](media/screenshots/250946014.png)
   - Create text in the interface that reflects Microsoft voice and editorial style.
-  - Use approved fictitious names and scenarios. To learn more, see [Fictitious names, domains, and addresses](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26697).
+  - Use approved fictitious names and scenarios. To learn more, see [Fictitious names, domains, and addresses](/style-guide/legal-content/fictitious-names-domains-addresses).
   - Describe
     the image clearly and completely in captions or alt text to
     support people with low vision. To learn more about accessible
-    images, see [Graphics, design, and media](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32191).
+    images, see [Graphics, design, and media](/style-guide/accessibility/graphics-design-media).
   - If
     the screenshot will be localized, give your localization team or vendor
     the files shown in the image, in addition to detailed

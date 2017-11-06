@@ -8,4 +8,4 @@ Examples
 Support high-contrast themes to make the app more accessible for customers who have low vision.
 Reading view sweeps distracting content out of your way, so it's easier to read what you want. 
 
-**See also** **** [assistive](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32272), [Accessibility guidelines and requirements](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26589)
+**See also** **** [assistive](/style-guide/a-z-word-list-term-collections/a/assistive), [Accessibility guidelines and requirements](/style-guide/accessibility/accessibility-guidelines-requirements)

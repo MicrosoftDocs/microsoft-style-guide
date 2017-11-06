@@ -7,4 +7,4 @@ careful when using abbreviations or acronyms that form English words.
 Machine translation might incorrectly translate
 the abbreviation *in.* as the word *in*. 
 
-**See also** [Units of measure term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28884)
+**See also** [Units of measure term collection](/style-guide/a-z-word-list-term-collections/term-collections/units-of-measure-terms)

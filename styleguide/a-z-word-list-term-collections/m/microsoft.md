@@ -10,4 +10,4 @@ Microsoft Surface
 the Microsoft approach to diversity and inclusion
 Microsoft’s privacy policies
 
-For more information about the correct use of the Microsoft trademark, see [Copyrights and trademarks](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26696). For references to specific Microsoft product and service names, see the relevant product group editorial style guide.
+For more information about the correct use of the Microsoft trademark, see [Copyrights and trademarks](/style-guide/legal-content/copyrights-trademarks). For references to specific Microsoft product and service names, see the relevant product group editorial style guide.

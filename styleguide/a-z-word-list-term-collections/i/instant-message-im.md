@@ -13,4 +13,4 @@ Customize instant messaging features based on your friends, family, and work con
 
 Global tip ****The abbreviated form isn't available in all languages, so allow enough space for the full translated term in localized content.
 
-See also [message](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35453)
+See also [message](/style-guide/a-z-word-list-term-collections/m/message)

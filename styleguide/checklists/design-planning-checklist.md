@@ -10,4 +10,4 @@ Think about design before you start writing.
     limited design choices, find out which layout works best. 
   - Position content elements in the same place on every page if you can. 
 
-Learn more about [design planning](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36377).
+Learn more about [design planning](/style-guide/design-planning).

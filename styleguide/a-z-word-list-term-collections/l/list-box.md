@@ -10,4 +10,4 @@ Examples**
 **In the Background list, select Coffee Bean. 
 In the pop-up list, select Microsoft Excel. (Mac only)
 
-**See also** [Describing interactions with UI](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26472), [Formatting text in instructions](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=29014)
+**See also** [Describing interactions with UI](/style-guide/procedures-instructions/describing-interactions-with-ui), [Formatting text in instructions](/style-guide/procedures-instructions/formatting-text-in-instructions)

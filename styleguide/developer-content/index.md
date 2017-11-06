@@ -2,7 +2,7 @@
 
 Though
 the content for developers and IT professionals tends to be more
-technical than that for a general audience, the fundamentals of [the Microsoft brand voice](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28361) still apply. Be just as warm and relaxed, crisp and clear, and ready to lend a hand. After all, when they're not coding or managing solutions, developers and IT pros are some of the very same people who play Xbox and use Office. 
+technical than that for a general audience, the fundamentals of [the Microsoft brand voice](/style-guide/brand-voice-above-all-simple-human) still apply. Be just as warm and relaxed, crisp and clear, and ready to lend a hand. After all, when they're not coding or managing solutions, developers and IT pros are some of the very same people who play Xbox and use Office. 
 
 Of
 course, it's OK to assume IT pros and developers bring
@@ -21,7 +21,7 @@ examples show how to use those elements.
 
 This section provides guidelines for creating: 
 
-  - [Reference documentation](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28718)
-  - [Code examples](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28719)
+  - [Reference documentation](/style-guide/developer-content/reference-documentation)
+  - [Code examples](/style-guide/developer-content/code-examples)
 
-It also has [guidelines for formatting text in developer content](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28975).
+It also has [guidelines for formatting text in developer content](/style-guide/developer-content/formatting-developer-text-elements).

@@ -67,7 +67,7 @@ Use *vs*., not *v*. or *versus*, in headings.
 Use sentence-style capitalization for headings. In
 sentence-style capitalization, the first word is capitalized,
 proper nouns are capitalized, and everything else is lowercase. To learn
-more, see [Capitalization](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33685).
+more, see [Capitalization](/style-guide/capitalization).
 
 Examples
 Say hello to Surface Pro 
@@ -115,7 +115,7 @@ have to, and usually shouldn't, use them all.
 If you don't have a template, limit yourself to no more than two fonts in headings (for example, Segoe UI Semibold and Segoe UI).
 
 Learn more
-[Using type](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36397)
+[Using type](/style-guide/text-formatting/using-type/)
 [Brand type guidelines](https://microsoft.sharepoint.com/teams/BrandCentral/Guidelines/Microsoft_type_guidelines.pdf "Type guidelines on Brand Central") (This document requires Microsoft network access.)
 
 #### Using run-in headings

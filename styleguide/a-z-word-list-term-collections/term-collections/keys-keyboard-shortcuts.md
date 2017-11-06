@@ -2,7 +2,7 @@
 
 ## This term collection covers how to refer to keyboard shortcuts and the names of specific keys. 
 
-For information about describing customers' interactions with UI, see [Procedures and instructions](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26471).
+For information about describing customers' interactions with UI, see [Procedures and instructions](/style-guide/procedures-instructions/).
 
 #### Keyboard actions and access
 
@@ -557,4 +557,4 @@ Examples**
 Ctrl+Shift+\* 
 Ctrl+Shift+Comma
 
-See also [Special character term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28875)
+See also [Special character term collection](/style-guide/a-z-word-list-term-collections/term-collections/special-characters)

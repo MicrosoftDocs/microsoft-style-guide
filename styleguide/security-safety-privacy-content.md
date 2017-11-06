@@ -40,4 +40,4 @@ Learn more Use the [Security and privacy messaging checklist](https://microsoft.
 
 For a full list of security-related terms and their definitions, see the [Microsoft Malware Protection Center glossary](http://www.microsoft.com/security/portal/mmpc/shared/glossary.aspx). 
 
-See also [Security, safety, and privacy term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26894)
+See also [Security, safety, and privacy term collection](/style-guide/a-z-word-list-term-collections/term-collections/security-safety-privacy-terms)

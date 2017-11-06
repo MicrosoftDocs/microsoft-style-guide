@@ -8,4 +8,4 @@ Reserve a lowercase *x* in italic type for representing an unknown in mathematic
 
 **Global note** Because *n* doesn't refer to the generic use of a number in all languages, using *n* for this purpose might lead to mistranslation in machine-translated content.
 
-**See also** [x](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35498)
+**See also** [x](/style-guide/a-z-word-list-term-collections/x/x)

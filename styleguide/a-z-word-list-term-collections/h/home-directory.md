@@ -8,4 +8,4 @@ In Windows, the root directory is indicated by a backslash (\\).
 
 In all other content, use *top-level folder*.
 
-**See also** [root directory](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28845)
+**See also** [root directory](/style-guide/a-z-word-list-term-collections/r/root-directory)

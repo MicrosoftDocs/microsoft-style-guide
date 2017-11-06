@@ -6,4 +6,4 @@ On the first mention, use *category (x) axis* to refer to the horizontal axis in
 
 Don't use italic formatting for the *x* in *x-axis* unless the entire word is italic.
 
-See also [](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33518)[category axis](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33517)
+See also [](/style-guide/a-z-word-list-term-collections/v/value-axis)[category axis](/style-guide/a-z-word-list-term-collections/c/category-axis)

@@ -13,13 +13,13 @@ are sometimes called *document conventions.*
 
 This section covers:
 
-  - [Using type](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36397)
-  - [Formatting common text elements](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36402)
-  - [Formatting titles](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36416)
+  - [Using type](/style-guide/text-formatting/using-type/)
+  - [Formatting common text elements](/style-guide/text-formatting/formatting-common-text-elements)
+  - [Formatting titles](/style-guide/text-formatting/formatting-titles)
 
 See also[
-](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28880)[UI text and design](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28880)
-[Formatting developer text elements](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28975)
-[Reference documentation](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28718)
-[Procedures and instructions](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26471)
+](/style-guide/ui-text-content-design)[UI text and design](/style-guide/ui-text-content-design)
+[Formatting developer text elements](/style-guide/developer-content/formatting-developer-text-elements)
+[Reference documentation](/style-guide/developer-content/reference-documentation)
+[Procedures and instructions](/style-guide/procedures-instructions/)
 [](https://microsoft.sharepoint.com/teams/BrandCentral/Guidelines/Microsoft_Brand_Guidelines_Oct2014.pdf)[Brand type guidelines](https://microsoft.sharepoint.com/teams/BrandCentral/Pages/The-Microsoft-brand-Core-elements-Type.aspx) (This site requires Microsoft network access.)

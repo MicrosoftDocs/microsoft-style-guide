@@ -2,4 +2,4 @@
 
 Don't use. 
 
-**See** [restore](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35675)
+**See** [restore](/style-guide/a-z-word-list-term-collections/r/restore)

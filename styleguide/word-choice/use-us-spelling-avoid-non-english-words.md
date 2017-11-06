@@ -6,7 +6,7 @@ Avoid non-English words or phrases, such as *de facto* or *ad hoc*.
 
 Avoid Latin abbreviations for common English phrases. 
 
-Exception It’s OK to use *etc.,* in situations where space is limited. Otherwise, see [and so on](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=29202) for alternatives.
+Exception It’s OK to use *etc.,* in situations where space is limited. Otherwise, see [and so on](/style-guide/a-z-word-list-term-collections/a/and-so-on) for alternatives.
 
 <table>
 <tbody>

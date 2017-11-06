@@ -4,4 +4,4 @@ Use as a verb to describe stopping communications and network connections. Use *
 
 Example To end your server connection, go to Tools and select Disconnect Network Drive.
 
-**See also** [Describing interactions with UI](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26472)
+**See also** [Describing interactions with UI](/style-guide/procedures-instructions/describing-interactions-with-ui)

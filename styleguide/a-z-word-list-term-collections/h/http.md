@@ -9,4 +9,4 @@ Use all uppercase in conceptual discussions of the protocol.
 
 In general, omit *http://* from a URL. If for some reason you need to include *http://* as part of a URL, use all lowercase.
 
-See also [](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=34905)[URLs and web addresses](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=34905)
+See also [](/style-guide/urls-web-addresses)[URLs and web addresses](/style-guide/urls-web-addresses)

@@ -1,3 +1,3 @@
 # ROM
 
-**See** [memory](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35450)
+**See** [memory](/style-guide/a-z-word-list-term-collections/m/memory)

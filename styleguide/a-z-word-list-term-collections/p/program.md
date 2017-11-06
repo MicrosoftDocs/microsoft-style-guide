@@ -1,3 +1,3 @@
 # program
 
-**See** [app, application](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32507)
+**See** [app, application](/style-guide/a-z-word-list-term-collections/a/app-application)

@@ -1,7 +1,7 @@
 ﻿# Top 10 tips for Microsoft style and voice
 
 Use bigger ideas, fewer words
-Our modern design hinges on crisp minimalism. Shorter is always better. To learn more, see [Brand voice](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28361).
+Our modern design hinges on crisp minimalism. Shorter is always better. To learn more, see [Brand voice](/style-guide/brand-voice-above-all-simple-human).
 
 Example
 Replace this: If you're ready to purchase Office 365 for your organization, contact your Microsoft account representative.
@@ -12,7 +12,7 @@ Write like you speak
 Read
 your text aloud. Does it sound like something a real person would
 say? Be friendly and conversational. No. Robot. Words. To
-learn more, see [Brand voice](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28361).
+learn more, see [Brand voice](/style-guide/brand-voice-above-all-simple-human).
 
 Example
 Replace this: Invalid ID
@@ -20,7 +20,7 @@ Replace this: Invalid ID
 With this: You need an ID that looks like this: <someone@example.com>
 
 Project friendliness
-Use contractions: *it’s, you’ll, you’re, we’re, let’s.* To learn more, see [Use contractions](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36389).
+Use contractions: *it’s, you’ll, you’re, we’re, let’s.* To learn more, see [Use contractions](/style-guide/word-choice/use-contractions).
 
 Example
 Replace this: Your
@@ -36,7 +36,7 @@ swimming or in the shower.
 Get to the point fast
 Lead
 with what’s most important. Front-load keywords for scanning. Make
-customer choices and next steps obvious. To learn more, see [Scannable content](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36380).
+customer choices and next steps obvious. To learn more, see [Scannable content](/style-guide/scannable-content/).
 
 Example
 Replace this: Templates
@@ -51,7 +51,7 @@ and page layouts you use most often. Then use the template whenever you
 create a new document.
 
 Be brief
-Give customers just enough information to make decisions confidently. Prune every excess word. To learn more, see [Word choice](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36378).
+Give customers just enough information to make decisions confidently. Prune every excess word. To learn more, see [Word choice](/style-guide/word-choice/).
 
 Example
 Replace this:
@@ -65,7 +65,7 @@ When in doubt, don’t capitalize
 Default
 to sentence-style capitalization—capitalize only the first word of
 a heading or phrase and any proper nouns or names. Never Use Title
-Capitalization (Like This). Never Ever. To learn more, see [Capitalization](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33685).
+Capitalization (Like This). Never Ever. To learn more, see [Capitalization](/style-guide/capitalization).
 
 Examples
 Replace these: 
@@ -84,7 +84,7 @@ Skip periods (and : \! ?)
 Skip
 end punctuation on titles, headings, subheads, UI titles, and
 items in a list that are three or fewer words. Save the periods for
-paragraphs and body copy. To learn more, see [Punctuation](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25519), [Headings](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36408), and [Lists](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36412). 
+paragraphs and body copy. To learn more, see [Punctuation](/style-guide/punctuation/), [Headings](/style-guide/scannable-content/headings), and [Lists](/style-guide/scannable-content/lists). 
 
 Example
 Replace this:
@@ -96,7 +96,7 @@ Move a tile
 1\. Press and hold the tile.
 
 Remember the last comma
-In a list of three or more items, include a comma before the conjunction*.* (The comma that comes before the conjunction is known as the Oxford or serial comma*.*) ** To learn more, see [Commas](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28752). 
+In a list of three or more items, include a comma before the conjunction*.* (The comma that comes before the conjunction is known as the Oxford or serial comma*.*) ** To learn more, see [Commas](/style-guide/punctuation/commas). 
 
 Example
 Replace this: Android, iOS and Windows
@@ -104,7 +104,7 @@ Replace this: Android, iOS and Windows
 With this: Android, iOS, and Windows
 
 Don’t be spacey
-Use only one space after periods, question marks, and colons—and no spaces around dashes. To learn more, see [Punctuation](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25519).
+Use only one space after periods, question marks, and colons—and no spaces around dashes. To learn more, see [Punctuation](/style-guide/punctuation/).
 
 Example
 Replace this: Use pipelines — logical groups of activities — to consolidate activities that are part of a task.
@@ -112,7 +112,7 @@ Replace this: Use pipelines — logical groups of activities — to consolidate 
 With this: Use pipelines—logical groups of activities—to consolidate activities that are part of a task.
 
 Kill off weak writing
-Most of the time, start each statement with a verb. Axe *you can* and *there is, there are, there were*. To learn more, see [Verbs](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25523) and [Word choice](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36378).
+Most of the time, start each statement with a verb. Axe *you can* and *there is, there are, there were*. To learn more, see [Verbs](/style-guide/grammar/verbs) and [Word choice](/style-guide/word-choice/).
 
 Example
 Replace this: You can access Office apps across your devices, and you get online file storage and sharing.

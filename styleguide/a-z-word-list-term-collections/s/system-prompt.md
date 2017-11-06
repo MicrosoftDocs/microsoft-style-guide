@@ -1,3 +1,3 @@
 # system prompt
 
-**See** [command prompt](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33562)
+**See** [command prompt](/style-guide/a-z-word-list-term-collections/c/command-prompt)

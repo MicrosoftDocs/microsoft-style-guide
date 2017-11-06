@@ -16,7 +16,7 @@ Don't use emoticons when:
 
 The emoticons :) and :( are widely understood. Be cautious using other emoticons. 
 
-Most of the time, don’t use emoji in text-based communications. When you do, be aware of potential cultural and diversity implications, as you would with any image. To learn more, see [Bias-free communication](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26708) and [Global communications](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26906).
+Most of the time, don’t use emoji in text-based communications. When you do, be aware of potential cultural and diversity implications, as you would with any image. To learn more, see [Bias-free communication](/style-guide/bias-free-communication) and [Global communications](/style-guide/global-communications/).
 
 In discussions about emoji, use emoji as both the singular and plural noun forms. 
 

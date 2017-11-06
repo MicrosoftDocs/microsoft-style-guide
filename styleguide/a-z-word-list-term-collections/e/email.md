@@ -19,4 +19,4 @@ Scroll through email to find the message you want to read.
 You have new mail.
 Email us your comments. 
 
-See also [](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35453)[message](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35453)
+See also [](/style-guide/a-z-word-list-term-collections/m/message)[message](/style-guide/a-z-word-list-term-collections/m/message)

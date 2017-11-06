@@ -45,7 +45,7 @@ Use gender-neutral or inclusive terms to refer to people.
 </tbody>
 </table>
 
-Avoid masculine pronouns. Don’t use *he* and *his* in references to a person whose gender is unknown. Instead, rewrite to use *the* instead of *his* or the second person (*you*). Or refer to a person’s role (reader, employee, or client, for example), or simply use *person* or *individual.* For more information, see [Nouns and pronouns](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25525).
+Avoid masculine pronouns. Don’t use *he* and *his* in references to a person whose gender is unknown. Instead, rewrite to use *the* instead of *his* or the second person (*you*). Or refer to a person’s role (reader, employee, or client, for example), or simply use *person* or *individual.* For more information, see [Nouns and pronouns](/style-guide/grammar/nouns-pronouns).
 
 Examples 
 If you have the appropriate rights, you can set other users’ passwords.
@@ -105,8 +105,8 @@ Avoid culturally sensitive terms, such as the terms associated with military or 
 </tbody>
 </table>
 
-Focus on people, not disabilities. For example, talk about readers who are blind or have low vision and customers with limited dexterity. Don’t use words that imply pity, such as *stricken with* or *suffering from.* Don’t mention a disability unless it's relevant. For more information, see the [Accessibility term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26596). 
+Focus on people, not disabilities. For example, talk about readers who are blind or have low vision and customers with limited dexterity. Don’t use words that imply pity, such as *stricken with* or *suffering from.* Don’t mention a disability unless it's relevant. For more information, see the [Accessibility term collection](/style-guide/a-z-word-list-term-collections/term-collections/accessibility-terms). 
 
 Learn more For more information about writing that conveys respect to all people and promotes equal opportunities, see the [Guidelines for Inclusive Language](http://www.linguisticsociety.org/content/guidelines-inclusive-language "Linguistic Society of America's guidelines for inclusive language") from the Linguistic Society of America. For more about how to achieve balanced representation in your content, see the guidelines for [balancing geopolitical sensitivity](https://microsoft.sharepoint.com/teams/BrandCentral/Guidelines/Balancing_Global_Readiness_and_Diversity.pdf?WT.mc_id=Feb17_NL_DiversityInPhotos_15) on Brand Central. (This site requires Microsoft network access.)
 
-See also [Accessibility guidelines and requirements](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26589), [Global communications](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26906)
+See also [Accessibility guidelines and requirements](/style-guide/accessibility/accessibility-guidelines-requirements), [Global communications](/style-guide/global-communications/)

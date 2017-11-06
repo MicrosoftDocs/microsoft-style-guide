@@ -15,17 +15,17 @@ Learn more Refer to [*The Chicago Manual of Style*](http://www.chicagomanualofst
 
 This section covers:
 
-  - [Formatting punctuation](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28750) in text describing interaction with the UI, parentheses, and brackets.
-  - [Periods](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28751) in sentences and lists.
-  - [Commas](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28752) in series, clauses, and dates.
-  - [Apostrophes](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28753) in possessives and contractions.
-  - [Colons](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28754) in lists and to elaborate on a statement.
-  - [Semicolons](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28755) between independent clauses, contrasting statements, and items in a list.
-  - [Question marks](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28756), used sparingly.
-  - [Quotation marks](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28768) for quotations only.
-  - [Hyphens](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28765) in words and spelled-out numbers.
-  - [Em dashes](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28766) to set off phrases.
-  - [En dashes](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28767) in open or hyphenated compound words and with numbers.
-  - [Ellipses](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28758) in syntax and for omissions. 
-  - [Exclamation points](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28759), used sparingly.
-  - [Slashes](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28760) in phrases, file paths, and URLs.
+  - [Formatting punctuation](/style-guide/punctuation/formatting-punctuation) in text describing interaction with the UI, parentheses, and brackets.
+  - [Periods](/style-guide/punctuation/periods) in sentences and lists.
+  - [Commas](/style-guide/punctuation/commas) in series, clauses, and dates.
+  - [Apostrophes](/style-guide/punctuation/apostrophes) in possessives and contractions.
+  - [Colons](/style-guide/punctuation/colons) in lists and to elaborate on a statement.
+  - [Semicolons](/style-guide/punctuation/semicolons) between independent clauses, contrasting statements, and items in a list.
+  - [Question marks](/style-guide/punctuation/question-marks), used sparingly.
+  - [Quotation marks](/style-guide/punctuation/quotation-marks) for quotations only.
+  - [Hyphens](/style-guide/punctuation/dashes-hyphens/hyphens) in words and spelled-out numbers.
+  - [Em dashes](/style-guide/punctuation/dashes-hyphens/emes) to set off phrases.
+  - [En dashes](/style-guide/punctuation/dashes-hyphens/enes) in open or hyphenated compound words and with numbers.
+  - [Ellipses](/style-guide/punctuation/dashes-hyphens/ellipses) in syntax and for omissions. 
+  - [Exclamation points](/style-guide/punctuation/dashes-hyphens/exclamation-points), used sparingly.
+  - [Slashes](/style-guide/punctuation/dashes-hyphens/slashes) in phrases, file paths, and URLs.

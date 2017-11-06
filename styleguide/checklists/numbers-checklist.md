@@ -3,7 +3,7 @@
 When
 you write about numbers used in examples or UI, duplicate them
 exactly as they appear in the UI. In all other content, follow
-these guidelines. For detailed guidelines, see [Numbers](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33688). 
+these guidelines. For detailed guidelines, see [Numbers](/style-guide/numbers). 
 
 #### Spelled out numbers
 
@@ -22,7 +22,7 @@ Use for:
   - Numbers 10 or greater.
   - Numbers zero through nine when you have limited space.
   - All numbers in a category if one or more numbers requires a numeral. For example, *a 16-page article, a 7-page article, and a 3-page article.* 
-  - Measurements of distance, temperature, volume, size, weight, pixels, points, and so on. To learn more, see [Units of measure term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28884).
+  - Measurements of distance, temperature, volume, size, weight, pixels, points, and so on. To learn more, see [Units of measure term collection](/style-guide/a-z-word-list-term-collections/term-collections/units-of-measure-terms).
   - A round number of 1 million or more.
   - Numbers the customer is directed to type.
   - Dimensions. Use the multiplication sign (×), preceded and followed by a space, for tile sizes, screen resolutions, and paper sizes. For everything else, spell out *by.* 
@@ -41,24 +41,24 @@ Use for:
   - Don’t use ordinal numbers, such as *June* *first* or *October twenty-eighth*, for dates. Use a numeral instead*.*
   - Always spell out the name of the month.
 
- Learn more about [dates and time](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=27390).
+ Learn more about [dates and time](/style-guide/a-z-word-list-term-collections/term-collections/date-time-terms).
 
 #### #### Negative numbers
 
-  - Form a negative number with an en dash, not a hyphen. Learn more about [](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28757)[dashes and hyphens](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28757).
+  - Form a negative number with an en dash, not a hyphen. Learn more about [](/style-guide/punctuation/dashes-hyphens/)[dashes and hyphens](/style-guide/punctuation/dashes-hyphens/).
 
 #### #### Compound numbers
 
-  - Hyphenate compound numbers when they're spelled out. Learn more about [dashes and hyphens](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28757).[](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28757 "Dashes and hyphens")
+  - Hyphenate compound numbers when they're spelled out. Learn more about [dashes and hyphens](/style-guide/punctuation/dashes-hyphens/).[](/style-guide/punctuation/dashes-hyphens/ "Dashes and hyphens")
 
 #### #### Fractions and decimals
 
   - Don’t use numerals separated by a slash to express fractions. 
     Exception When an equation occurs in text, it's OK to use a slash between the numerator and the denominator. 
-  - Hyphenate spelled-out fractions. Connect the numerator and denominator with a hyphen unless either already contains a hyphen (for example, *one-third* but *three sixty-fourths*). Learn more about [dashes and hyphens](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28757). 
+  - Hyphenate spelled-out fractions. Connect the numerator and denominator with a hyphen unless either already contains a hyphen (for example, *one-third* but *three sixty-fourths*). Learn more about [dashes and hyphens](/style-guide/punctuation/dashes-hyphens/). 
   - In tables, align decimals on the decimal point. 
   - In decimal fractions less than one, include a zero (*0.1255*, for example) unless the customer is asked to type the value.
-  - When spelling out units of measure, use the singular form for quantities of one or less, except for zero, which takes the plural form. Learn more about [units of measure](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28884).
+  - When spelling out units of measure, use the singular form for quantities of one or less, except for zero, which takes the plural form. Learn more about [units of measure](/style-guide/a-z-word-list-term-collections/term-collections/units-of-measure-terms).
 
 #### Ranges of numbers
 
@@ -66,10 +66,10 @@ Use for:
     Exceptions Use an en dash in a range of pages or where space is an issue, such as in tables and UI. **
   - Don’t use *from* before a range indicated by an en dash, such as *10–15*. 
 
- Learn more about [dashes and hyphens](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28757).
+ Learn more about [dashes and hyphens](/style-guide/punctuation/dashes-hyphens/).
 
 See also
-[Numbers](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33688)
-[Date and time term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=27390)
-[Units of measure term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28884)
-[Dashes and hyphens](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28757)
+[Numbers](/style-guide/numbers)
+[Date and time term collection](/style-guide/a-z-word-list-term-collections/term-collections/date-time-terms)
+[Units of measure term collection](/style-guide/a-z-word-list-term-collections/term-collections/units-of-measure-terms)
+[Dashes and hyphens](/style-guide/punctuation/dashes-hyphens/)

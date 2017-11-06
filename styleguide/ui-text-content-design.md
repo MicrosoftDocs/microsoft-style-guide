@@ -107,7 +107,7 @@ Put yourself in your customer’s shoes. What do they need to know? Did you expl
     customers, consider bringing in your peers to review it for a fresh
     perspective.
 
-Apply Microsoft voice guidelines. Revise the content until the voice is conversational, clear, and concise. At each point in the task flow, map the tone to the customer's likely frame of mind. To learn more, see [Brand voice](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28361).
+Apply Microsoft voice guidelines. Revise the content until the voice is conversational, clear, and concise. At each point in the task flow, map the tone to the customer's likely frame of mind. To learn more, see [Brand voice](/style-guide/brand-voice-above-all-simple-human).
 
 Collaborate. Walk
 through your content with design and PM partners and peers to
@@ -120,12 +120,12 @@ guide to make sure it's ready for customers and consistent with other
 Microsoft brand experiences. 
 
   - Make sure the content is easy to use and shows a high level of craft. 
-  - Pay attention to details like sentence-style capitalization and correct punctuation. To learn more, see [Capitalization](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33685) and [Punctuation](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25519).
+  - Pay attention to details like sentence-style capitalization and correct punctuation. To learn more, see [Capitalization](/style-guide/capitalization) and [Punctuation](/style-guide/punctuation/).
   - For specifics on how to use brand and product names properly in UI, see the [Microsoft brand guidelines for digital small spaces](https://microsoft.sharepoint.com/teams/BrandCentral/Guidelines/Microsoft_small_space_guidelines.pdf). (This page requires Microsoft network access.)
 
 Learn more For information about writing for and about specific UI elements, see [UI](https://worldready.cloudapp.net/Styleguide/Read?id=2547&topicid=37019 "Open the UI section in the Style Guide for Windows, Windows Phone, and Xbox.") in the *Windows, Xbox, and devices style guide* or your group's editorial style guide.
 
 See also
 [please
-](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28832)[sorry
-](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28833)[thank you](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28834)
+](/style-guide/a-z-word-list-term-collections/p/please)[sorry
+](/style-guide/a-z-word-list-term-collections/s/sorry)[thank you](/style-guide/a-z-word-list-term-collections/t/thank-you)

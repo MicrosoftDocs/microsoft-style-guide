@@ -18,4 +18,4 @@ A cascading style sheet establishes global design formats.
 Use the Find and Replace commands to find all occurrences of specific text and replace it with different text.
 The manufacturer is using Office 365 to expand its global supply chain.
 
-See also [worldwide vs. international](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=39585)
+See also [worldwide vs. international](/style-guide/a-z-word-list-term-collections/w/worldwide-vs-international)

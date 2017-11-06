@@ -35,4 +35,4 @@ Examples
 2:15 AM‒4:45 PM 4/1/16 (time range on a single day)
 2:15 PM 12/1/17 ‒ 4:45 PM 4/1/18 (range includes both time and date)
 
-See also [Date and time term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=27390)
+See also [Date and time term collection](/style-guide/a-z-word-list-term-collections/term-collections/date-time-terms)

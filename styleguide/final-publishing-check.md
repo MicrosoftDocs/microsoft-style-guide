@@ -24,7 +24,7 @@ Check for keywords in titles and headings.
 Titles and headings help readers scan and help search engines find
 your content. Make sure you include relevant keywords in the first
 few words. While you’re at it, read your first sentence to see if
-it will make sense as a search engine description. To learn more, see [Search and writing](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36379).
+it will make sense as a search engine description. To learn more, see [Search and writing](/style-guide/search-writing).
 
 Search for and remove unnecessary and redundant elements.
 Try removing words, sentences, paragraphs, headings, even entire
@@ -41,8 +41,8 @@ Cite quotations and references. See [Using quotes in advertising and marketing](
 
 Keep it legal. Refer to
 company and product names correctly and make sure your content complies
-with legal requirements. If you include examples or scenarios, use the [fictitious content](https://microsoft.sharepoint.com/sites/LCAWeb/Home/Copyrights-Trademarks-and-Patents/Trademarks/Fictitious-Names) provided on CELAWeb. (This page requires Microsoft network access.) To learn more, see [Legal content](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26694).
+with legal requirements. If you include examples or scenarios, use the [fictitious content](https://microsoft.sharepoint.com/sites/LCAWeb/Home/Copyrights-Trademarks-and-Patents/Trademarks/Fictitious-Names) provided on CELAWeb. (This page requires Microsoft network access.) To learn more, see [Legal content](/style-guide/legal-content/).
 
 Take a break. Leave the finished piece alone for a day. Read it again tomorrow—you may see things you missed. 
 
-Evaluate the voice and personality. Before you call it done, read it one final time. Can you hear the fresh and modern [Microsoft voice](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28361)? Your writing should sound warm and relaxed, crisp and clear, and ready to lend a hand.
+Evaluate the voice and personality. Before you call it done, read it one final time. Can you hear the fresh and modern [Microsoft voice](/style-guide/brand-voice-above-all-simple-human)? Your writing should sound warm and relaxed, crisp and clear, and ready to lend a hand.

@@ -1,3 +1,3 @@
 # stretch
 
-**See** [Touch and pen interaction term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=29032)
+**See** [Touch and pen interaction term collection](/style-guide/a-z-word-list-term-collections/term-collections/touch-pen-interaction-terms)

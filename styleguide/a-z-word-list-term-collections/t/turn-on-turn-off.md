@@ -12,8 +12,8 @@ To turn off pop-up blocking ….
 If the command prompt isn’t available, your network administrator might have turned off this feature.
 
 See also
-[Describing interactions with UI](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26472)
-[disable, disabled](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33643)
-[enable, enables](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33678)
-[shut down, shutdown](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35352)
-[unavailable](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33644)
+[Describing interactions with UI](/style-guide/procedures-instructions/describing-interactions-with-ui)
+[disable, disabled](/style-guide/a-z-word-list-term-collections/d/disable-disabled)
+[enable, enables](/style-guide/a-z-word-list-term-collections/e/enable-enables)
+[shut down, shutdown](/style-guide/a-z-word-list-term-collections/s/shut-down-shutdown)
+[unavailable](/style-guide/a-z-word-list-term-collections/u/unavailable)

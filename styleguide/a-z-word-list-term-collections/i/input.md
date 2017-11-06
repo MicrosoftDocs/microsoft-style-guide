@@ -8,4 +8,4 @@ Examples
 Existing characters move to the right as you enter new text. 
 (General audience) To verify the text that you entered ….
 
-See also [Describing interactions with UI](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26472)
+See also [Describing interactions with UI](/style-guide/procedures-instructions/describing-interactions-with-ui)

@@ -3,6 +3,6 @@
 Don't use. Use *turn off* and *turn on* instead. Don't use *shut down* to refer to turning off a device.
 
 **See also** [
-](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35352)[start, restart](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35210)[
-shut down, shutdown](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35352)
-[turn on, turn off](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33405)
+](/style-guide/a-z-word-list-term-collections/s/shut-down-shutdown)[start, restart](/style-guide/a-z-word-list-term-collections/s/start-restart)[
+shut down, shutdown](/style-guide/a-z-word-list-term-collections/s/shut-down-shutdown)
+[turn on, turn off](/style-guide/a-z-word-list-term-collections/t/turn-on-turn-off)

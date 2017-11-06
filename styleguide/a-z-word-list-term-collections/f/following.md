@@ -7,6 +7,6 @@ Example The following table compares the different rates.
 If *following* is the last word before what it introduces, follow it with a colon.
 
 See also [
-earlier](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32559)
-[later](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32560)
-[Lists](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36412)
+earlier](/style-guide/a-z-word-list-term-collections/e/earlier)
+[later](/style-guide/a-z-word-list-term-collections/l/later)
+[Lists](/style-guide/scannable-content/lists)

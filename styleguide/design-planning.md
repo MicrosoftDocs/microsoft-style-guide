@@ -9,7 +9,7 @@ The time to think about design is before you start writing.
 
 #### Consult with your design partners early
 
-Collaborate with your designer and marketing manager or PM to develop the [content strategy](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36376). 
+Collaborate with your designer and marketing manager or PM to develop the [content strategy](/style-guide/content-planning). 
 
 If
 you’re working with a designer, meet early and often. Share your

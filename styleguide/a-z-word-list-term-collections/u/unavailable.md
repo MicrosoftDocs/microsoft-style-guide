@@ -10,4 +10,4 @@ If the option appears dimmed, it's not available.
 If the command prompt isn’t available, your network administrator might have turned off this feature.
 Some My Site features are temporarily unavailable. Please try again later.
 
-See also [disable, disabled](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33643), [turn on, turn off](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33405)
+See also [disable, disabled](/style-guide/a-z-word-list-term-collections/d/disable-disabled), [turn on, turn off](/style-guide/a-z-word-list-term-collections/t/turn-on-turn-off)

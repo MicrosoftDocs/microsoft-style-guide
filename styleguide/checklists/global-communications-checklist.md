@@ -5,11 +5,11 @@ customers live and work all over the world and speak a variety of
 languages. This checklist will help you write content that’s appropriate
 wherever they live and whatever languages they speak. 
 
-If you have questions about whether writing, images, or design are appropriate for a global audience, see the full [Global communications](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26906) section of this guide. Or find a [Global Readiness contact](https://microsoft.sharepoint.com/teams/celaGlobalReadiness/Pages/Contact-Us.aspx) for your group who can help. (This page requires Microsoft network access.)
+If you have questions about whether writing, images, or design are appropriate for a global audience, see the full [Global communications](/style-guide/global-communications/) section of this guide. Or find a [Global Readiness contact](https://microsoft.sharepoint.com/teams/celaGlobalReadiness/Pages/Contact-Us.aspx) for your group who can help. (This page requires Microsoft network access.)
 
 #### Tips for global writing 
 
-Content that's easy to read tends to be easy to localize and translate. To get started, review the checklists for [grammar and parts of speech](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25515), [punctuation](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26918), and [word choice](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36378). 
+Content that's easy to read tends to be easy to localize and translate. To get started, review the checklists for [grammar and parts of speech](/style-guide/checklists/grammar-parts-of-speech-checklist), [punctuation](/style-guide/checklists/punctuation-checklist), and [word choice](/style-guide/word-choice/). 
 
   - Write short, simple sentences. Replace complex sentences with lists and tables. 
   - Include optional words—articles and pronouns (*that* and *who*). Include verbs in short headings for clarification.
@@ -109,4 +109,4 @@ Names and contact information
     Determine whether worldwide distribution affects royalties, and remove
     the content before the license expires. For more information, see [Using photos, videos, or other media in advertising](https://microsoft.sharepoint.com/sites/LCAWeb/Home/Marketing/Marketing-and-Advertising-Content/Photos-and-Other-Media) on CELAWeb. (This page requires Microsoft network access.)
 
-Learn more about [global communications](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26906). 
+Learn more about [global communications](/style-guide/global-communications/). 

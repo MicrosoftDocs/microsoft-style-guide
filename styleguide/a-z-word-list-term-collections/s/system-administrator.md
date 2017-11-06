@@ -1,3 +1,3 @@
 # system administrator
 
-**See** [administrator, admin](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32359)
+**See** [administrator, admin](/style-guide/a-z-word-list-term-collections/a/administrator-admin)

@@ -10,4 +10,4 @@ Examples
 In the Size box, enter the font size you want.
 For Size, enter a font size.
 
-See also [Describing interactions with UI](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26472)
+See also [Describing interactions with UI](/style-guide/procedures-instructions/describing-interactions-with-ui)

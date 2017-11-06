@@ -2,4 +2,4 @@
 
 Don’t use. Use *right-aligned instead.*
 
-See [right align, right aligned](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28817)
+See [right align, right aligned](/style-guide/a-z-word-list-term-collections/l/left-align-left-aligned)

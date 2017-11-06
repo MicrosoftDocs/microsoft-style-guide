@@ -11,4 +11,4 @@ Microsoft Dynamics 365 and Office 365 are better together.
 Choose from more than 750,000 apps in the Windows Store.
 999+ connections (in the UI) 
 
-See also [ampersand (&)](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32501)
+See also [ampersand (&)](/style-guide/a-z-word-list-term-collections/a/ampersand)

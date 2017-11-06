@@ -14,7 +14,7 @@
   - Add a disclaimer to archived posts, which may become inaccurate over time.
   - Use social media to raise awareness about new blog posts.
 
-Learn more about [blogs](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36387 "blogs").
+Learn more about [blogs](/style-guide/social-mediablogs "blogs").
 
 #### Communities
 
@@ -29,4 +29,4 @@ Learn more about [blogs](https://worldready.cloudapp.net/Styleguide/Read?id=2700
   - Tag entries with keywords.
   - Use social media to promote interesting content and encourage community contributions.
 
-Learn more about [communities](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36388 "communities").
+Learn more about [communities](/style-guide/social-mediacommunities "communities").

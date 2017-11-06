@@ -9,8 +9,8 @@ past. Plus, they often allow readers to contribute.
 
 This section will help you manage blogs and other social media and grow communities.
 
-  - [Blogs](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36387)
-  - [Communities](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36388)
-  - [Hashtags](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=39581)
+  - [Blogs](/style-guide/social-mediablogs)
+  - [Communities](/style-guide/social-mediacommunities)
+  - [Hashtags](/style-guide/social-mediahashtags)
 
 Before you begin, read the [Microsoft blogging and social media guidelines](https://microsoft.sharepoint.com/sites/LCAWeb/Home/Marketing/Social-Media/Social-Media-Guidelines). (This page requires Microsoft network access.)

@@ -4,6 +4,6 @@ In general, don’t hyphenate words beginning with *auto-*, such as *autoscale* 
 
 Don’t create new words beginning with *auto-.*
 
-To learn more about hyphenation, see [Hyphens](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28765).
+To learn more about hyphenation, see [Hyphens](/style-guide/punctuation/dashes-hyphens/hyphens).
 
 For more information about prefixes, see [*The Chicago Manual of Style*](http://www.chicagomanualofstyle.org/home.html). If you have Microsoft network access, you can use [*The Chicago Manual of Style Online*](http://aka.ms/mslibrary/cms) through MS Library. 

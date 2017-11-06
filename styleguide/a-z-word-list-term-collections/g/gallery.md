@@ -9,4 +9,4 @@ Use the verb *select* for items in a gallery.
 
 Example Select a picture from the gallery. 
 
-See also [store, marketplace, gallery](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36046)
+See also [store, marketplace, gallery](/style-guide/a-z-word-list-term-collections/s/store-marketplace-gallery)

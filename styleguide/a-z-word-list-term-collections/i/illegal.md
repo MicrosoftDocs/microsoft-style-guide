@@ -14,4 +14,4 @@ Examples**
 **The queue path name is not valid. 
 You can't compose chords while a segment is playing.
 
-**See also** **** [invalid, not valid](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=34920)
+**See also** **** [invalid, not valid](/style-guide/a-z-word-list-term-collections/i/invalid-not-valid)

@@ -9,4 +9,4 @@ The command isn’t available until you select text.
 If the option appears dimmed, it's not available.
 Selected effects appear shaded. 
 
-See also [disable, disabled](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33643), [unavailable](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33644)
+See also [disable, disabled](/style-guide/a-z-word-list-term-collections/d/disable-disabled), [unavailable](/style-guide/a-z-word-list-term-collections/u/unavailable)

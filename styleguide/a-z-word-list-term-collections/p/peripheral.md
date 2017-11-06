@@ -2,4 +2,4 @@
 
 Don't use as a noun. Use *peripheral device* or a more specific term instead.
 
-See also [](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26597)[Computer and device term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26597)
+See also [](/style-guide/a-z-word-list-term-collections/term-collections/computer-device-terms)[Computer and device term collection](/style-guide/a-z-word-list-term-collections/term-collections/computer-device-terms)

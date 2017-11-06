@@ -4,9 +4,9 @@ Brand-new products have a few special considerations.
 
 This section includes the following topics:
 
-  - [](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=42332)[Name development](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=42332)
-  - [Product previews](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=29088)
-  - [Code names](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26703) 
-  - [System requirements](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26705)
+  - [](/style-guide/new-products/name-development)[Name development](/style-guide/new-products/name-development)
+  - [Product previews](/style-guide/new-products/product-previews)
+  - [Code names](/style-guide/new-products/code-names) 
+  - [System requirements](/style-guide/new-products/system-requirements)
 
-See also [Legal content](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26694)
+See also [Legal content](/style-guide/legal-content/)

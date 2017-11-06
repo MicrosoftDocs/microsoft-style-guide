@@ -15,7 +15,7 @@ When referring to a control panel item’s hub page, use *main \<control panel i
 To open Internet Options, select Start, select Control Panel, and then select Network and Internet. 
 
 **See also
-** [add-in, add-on](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28773)
-[app](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32507)[, application](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32507)
-[applet](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32508)
-[tool](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32532)
+** [add-in, add-on](/style-guide/a-z-word-list-term-collections/a/add-in-add-on)
+[app](/style-guide/a-z-word-list-term-collections/a/app-application)[, application](/style-guide/a-z-word-list-term-collections/a/app-application)
+[applet](/style-guide/a-z-word-list-term-collections/a/applet)
+[tool](/style-guide/a-z-word-list-term-collections/t/tool)

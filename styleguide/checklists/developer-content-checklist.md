@@ -18,7 +18,7 @@ technology and product information they need.
     all details that are important to customers and
     remove anything extraneous. 
 
-Learn more about [writing](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28718)[developer reference topics](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28718).
+Learn more about [writing](/style-guide/developer-content/reference-documentation)[developer reference topics](/style-guide/developer-content/reference-documentation).
 
 #### Code examples
 
@@ -39,12 +39,12 @@ the problems developers are trying to solve.
   - Show exception handling only when it's intrinsic to the example. 
   - Compile and test the code.
   - Provide an easy way for developers to copy and run the code. 
-  - Use keywords, linking strategies, and other SEO techniques to help developers find the code. To learn more, see [Search and writing](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36379).
+  - Use keywords, linking strategies, and other SEO techniques to help developers find the code. To learn more, see [Search and writing](/style-guide/search-writing).
 
-Learn more about [code examples](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28719).
+Learn more about [code examples](/style-guide/developer-content/code-examples).
 
 #### Formatting text elements
 
   - Format text elements consistently to help readers locate and interpret information more easily.
 
-Learn more about [formatting conventions for developer content](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28975).
+Learn more about [formatting conventions for developer content](/style-guide/developer-content/formatting-developer-text-elements).

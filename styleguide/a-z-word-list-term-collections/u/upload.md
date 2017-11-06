@@ -8,4 +8,4 @@ object (the thing the subject is uploaded to) with the verb *upload.*
 
 Example Upload a document from your computer to this library. 
 
-**See also** [download](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33615), [load](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33614)
+**See also** [download](/style-guide/a-z-word-list-term-collections/d/download), [load](/style-guide/a-z-word-list-term-collections/l/load)

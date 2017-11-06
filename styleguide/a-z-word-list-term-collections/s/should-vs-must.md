@@ -2,7 +2,7 @@
 
 Before using *should* or *must*,
 consider other ways to discuss recommendations or requirements, such as
-the imperative mood for required actions and a phrase such as *we recommend* for optional ones. Don't use *Microsoft recommends* or *it is recommended*. Be careful to make your tone helpful, not bossy. (For information about the imperative mood, see [Verbs](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25523).)
+the imperative mood for required actions and a phrase such as *we recommend* for optional ones. Don't use *Microsoft recommends* or *it is recommended*. Be careful to make your tone helpful, not bossy. (For information about the imperative mood, see [Verbs](/style-guide/grammar/verbs).)
 
 Examples
 You'll need an internet connection to install the upgrade.

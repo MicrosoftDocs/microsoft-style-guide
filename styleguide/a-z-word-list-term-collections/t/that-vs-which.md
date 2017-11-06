@@ -16,4 +16,4 @@ The comparison chart shows which features aren't supported in the trial version.
 
 Don’t use *that* or *which* in clauses that refer to a person. Use *who* instead.
 
-See also [who vs. that](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36437)
+See also [who vs. that](/style-guide/a-z-word-list-term-collections/w/who-vs-that)
