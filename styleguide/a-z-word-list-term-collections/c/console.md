@@ -5,6 +5,6 @@ Use *console window* and *console application* only in content for a technical a
 Don't use *console* as a synonym for *snap-in*.
 
 **See also** [
-command line](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33561)
+command line](/style-guide/a-z-word-list-term-collections/c/command-line)
 [command prompt](https://worldready.cloudapp.net/Styleguide/Read?id=1413&topicid=5119)
-[snap-in](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28839)
+[snap-in](/style-guide/a-z-word-list-term-collections/s/snap-in)

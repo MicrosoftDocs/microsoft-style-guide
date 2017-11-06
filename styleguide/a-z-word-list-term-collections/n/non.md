@@ -7,4 +7,4 @@ Don't use *non-* to negate an entire phrase.
 Example
 unrelated to security (instead of *non-security related*)
 
-To learn more about hyphenation, see **** [Hyphens](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28765).
+To learn more about hyphenation, see **** [Hyphens](/style-guide/punctuation/dashes-hyphens/hyphens).

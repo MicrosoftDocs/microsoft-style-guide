@@ -15,7 +15,7 @@ Avoid
 joining more than two prepositional phrases. Long chains of
 prepositional phrases are hard to read and easy to misinterpret.
 
-**Learn more** For information about using prepositional phrases in procedures, see [Writing step-by-step instructions](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=29016).
+**Learn more** For information about using prepositional phrases in procedures, see [Writing step-by-step instructions](/style-guide/procedures-instructions/writing-step-by-step-instructions).
 
 #### Placement in the sentence
 

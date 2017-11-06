@@ -10,11 +10,11 @@ forms of content like audio, video, animations, images, and interactive.
 
 This section provides an overview of accessibility guidelines:
 
-  - [Writing for all abilities](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32189)
-  - [Colors and patterns in text, graphics, and design](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32190) 
-  - [Graphics, design, and media](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32191)
+  - [Writing for all abilities](/style-guide/accessibility/writing-all-abilities)
+  - [Colors and patterns in text, graphics, and design](/style-guide/accessibility/colors-patterns-text-graphics-design) 
+  - [Graphics, design, and media](/style-guide/accessibility/graphics-design-media)
 
-See also [Accessibility term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26596)
+See also [Accessibility term collection](/style-guide/a-z-word-list-term-collections/term-collections/accessibility-terms)
 
 To
 ensure that you're complying with Microsoft accessibility policies, get

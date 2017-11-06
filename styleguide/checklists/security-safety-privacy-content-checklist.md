@@ -8,7 +8,7 @@ Absolute security, privacy, and safety don't exist. When you write about these s
 
   - Avoid images that might imply absolute security, safety, or privacy, such as padlocks, fortresses, vaults, or safes. 
 
-  - Use security terms properly. [Learn how.](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26894)
+  - Use security terms properly. [Learn how.](/style-guide/a-z-word-list-term-collections/term-collections/security-safety-privacy-terms)
 
   - Use the [Security & privacy messaging checklist](https://microsoft.sharepoint.com/sites/LCAWeb/Home/Marketing/Marketing-and-Advertising-Content/Security-Privacy) on CELAWeb to ensure that your security, safety, and privacy content meets legal requirements. (This page requires Microsoft network access.)
 
@@ -20,4 +20,4 @@ Absolute security, privacy, and safety don't exist. When you write about these s
 
   - Review the [Microsoft Security Guidelines for Covered Services](https://microsoft.sharepoint.com/sites/LCAWebAuthoring/LSWDocuments/Microsoft_Security_Guidelines_For_Covered_Services_Marketing.docx?d=wd7f81ee2e7c6424c82fa70dc26d03084) if you're writing about Microsoft account (formerly Windows Live ID), Passport, Windows Marketplace, mobile, or portions of Outlook.com (formerly Hotmail) and CX (formerly MX). (This page requires Microsoft network access.)
 
-Learn more about [security, safety, and privacy content](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26896). 
+Learn more about [security, safety, and privacy content](/style-guide/security-safety-privacy-content). 

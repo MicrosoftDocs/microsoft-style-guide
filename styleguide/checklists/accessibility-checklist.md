@@ -7,7 +7,7 @@ which cover software and hardware development, web content, and
 other forms of content, including audio, video, animations, images,
 and interactive content. (The Microsoft Accessibility Standards page requires Microsoft network access.) This checklist will get you started. 
 
-**Learn more**  about [Accessibility guidelines and requirements](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26589). 
+**Learn more**  about [Accessibility guidelines and requirements](/style-guide/accessibility/accessibility-guidelines-requirements). 
 
 #### **Writing**
 
@@ -25,7 +25,7 @@ and interactive content. (The Microsoft Accessibility Standards page requires Mi
   - In
     documentation, cover all input methods and describe all supported
     modes of interaction, input commands, and keyboard shortcuts. 
-  - In procedures and instructions, use generic verbs that work with any input method. To learn more, see [Describing interactions with UI](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26472).
+  - In procedures and instructions, use generic verbs that work with any input method. To learn more, see [Describing interactions with UI](/style-guide/procedures-instructions/describing-interactions-with-ui).
 
 #### **Colors and patterns**
 
@@ -63,4 +63,4 @@ and interactive content. (The Microsoft Accessibility Standards page requires Mi
   - Always put people before the disability. For example, refer to a person who is blind, not a blind person. 
   - Use
     recommended terms when you describe specific disabilities or
-    people with specific disabilities. To learn more, see the [Accessibility term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26596). 
+    people with specific disabilities. To learn more, see the [Accessibility term collection](/style-guide/a-z-word-list-term-collections/term-collections/accessibility-terms). 

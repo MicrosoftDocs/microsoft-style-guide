@@ -11,7 +11,7 @@ Follow these guidelines in Microsoft content:
       - Capitalize
         the first word of a sentence, heading, title, UI label (such as
         the name of a button or check box), or standalone phrase. 
-      - Capitalize proper nouns. To learn more about proper nouns, see [Nouns and pronouns](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25525).
+      - Capitalize proper nouns. To learn more about proper nouns, see [Nouns and pronouns](/style-guide/grammar/nouns-pronouns).
       - Use lowercase for everything else.
   - Always
     capitalize the first word of a new sentence. Rewrite sentences
@@ -30,7 +30,7 @@ Follow these guidelines in Microsoft content:
 
 Learn more To learn more about capitalization, see [*The Chicago Manual of Style*](http://www.chicagomanualofstyle.org/home.html). (If you have Microsoft network access, you can use *[The Chicago Manual of Style Online](http://aka.ms/mslibrary/cms)* through MS Library.) If you’re not sure whether to capitalize a term, check your group's editorial style guide, the ** [A–Z word list](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25512)*,* and [*The American Heritage Dictionary*](https://ahdictionary.com/). 
 
-For information about capitalization in UI, see [UI text and design](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28880) and for information about capitalizing UI labels in instructions, see [Formatting text in instructions](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=29014). To learn more about using the Segoe font in formatting and design, see [Text formatting](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36381).
+For information about capitalization in UI, see [UI text and design](/style-guide/ui-text-content-design) and for information about capitalizing UI labels in instructions, see [Formatting text in instructions](/style-guide/procedures-instructions/formatting-text-in-instructions). To learn more about using the Segoe font in formatting and design, see [Text formatting](/style-guide/text-formatting/).
 
 #### Sentence-style capitalization in titles and headings
 
@@ -88,4 +88,4 @@ On the rare occasions when title-style capitalization is required, follow these 
     *fdisk)*. 
   - In programming languages, follow the traditional capitalization of keywords and other special terms*.*
 
-See also [Formatting titles](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36416)**
+See also [Formatting titles](/style-guide/text-formatting/formatting-titles)**

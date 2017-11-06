@@ -11,7 +11,7 @@ If the command prompt isn’t available, your network administrator might have t
 Disable the command prompt to prevent users from opening a command window. 
 
 See also
-[Accessibility term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26596)
-[turn on, turn off](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33405)
-[unavailable](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33644)
-[enable, enables](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33678)
+[Accessibility term collection](/style-guide/a-z-word-list-term-collections/term-collections/accessibility-terms)
+[turn on, turn off](/style-guide/a-z-word-list-term-collections/t/turn-on-turn-off)
+[unavailable](/style-guide/a-z-word-list-term-collections/u/unavailable)
+[enable, enables](/style-guide/a-z-word-list-term-collections/e/enable-enables)

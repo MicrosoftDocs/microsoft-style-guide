@@ -11,7 +11,7 @@ Always check with [your group's paralegal](https://microsoft.sharepoint.com/site
 This section covers some important areas where US and international law may affect content.
 
 See also [
-Legal content](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26694) in this guide.
+Legal content](/style-guide/legal-content/) in this guide.
 For complete information, visit [](https://microsoft.sharepoint.com/sites/lcaweb/home)[CELAWeb](https://microsoft.sharepoint.com/sites/lcaweb/home). (This site requires Microsoft network access.)
 If you still have questions, contact [your group’s paralegal](https://microsoft.sharepoint.com/sites/lcaweb/Pages/Applications/LegalContact.aspx). (This page requires Microsoft network access.)
 
@@ -60,7 +60,7 @@ guidance.
 
 Learn more about copyrights and trademarks:
 
-  - [Copyrights and trademarks](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26696) in this guide
+  - [Copyrights and trademarks](/style-guide/legal-content/copyrights-trademarks) in this guide
   - [Protecting our content](https://microsoft.sharepoint.com/sites/LCAWeb/Home/Copyrights-Trademarks-and-Patents/Copyrights/Protecting-Copyrights) on CELAWeb (This page requires Microsoft network access.)
 
 When in doubt, check with [your group's paralegal](https://microsoft.sharepoint.com/sites/lcaweb/Pages/Applications/LegalContact.aspx). (This page requires Microsoft network access.)

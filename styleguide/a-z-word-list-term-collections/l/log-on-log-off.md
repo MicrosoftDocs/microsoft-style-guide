@@ -4,4 +4,4 @@ Don't use *log on, logon, log off, logoff,* log in, login, log onto, log off of,
 
 Use *sign in* or *sign out* instead.
 
-**See** [sign in, sign out](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28799), [connect](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28799)
+**See** [sign in, sign out](/style-guide/a-z-word-list-term-collections/s/sign-in-sign-out), [connect](/style-guide/a-z-word-list-term-collections/s/sign-in-sign-out)

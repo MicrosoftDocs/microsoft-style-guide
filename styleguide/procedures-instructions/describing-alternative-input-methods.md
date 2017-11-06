@@ -9,7 +9,7 @@ ability or the device they use, include mice, keyboards, voice
 recognition devices, game controllers, touch, and other interaction
 methods. Use the [Accessibility Product Template](http://enable/RelatedResources/Guidelines/Section_1_Accessibility_product_template.doc) to get started. (This document requires Microsoft network access.)
 
-Learn more To learn more about creating accessible content, see [Accessibility guidelines and requirements](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26589).
+Learn more To learn more about creating accessible content, see [Accessibility guidelines and requirements](/style-guide/accessibility/accessibility-guidelines-requirements).
 
 #### Mouse procedures
 
@@ -20,7 +20,7 @@ you document both. Don’t combine keyboard and
 mouse actions as if they were keyboard shortcuts unless space is
 limited. For example, don’t use *Shift+click.* Instead, use *Select Shift while clicking ….*
 
-See also [Mouse and mouse interaction term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=29013)
+See also [Mouse and mouse interaction term collection](/style-guide/a-z-word-list-term-collections/term-collections/mouse-mouse-interaction-terms)
 
 #### Joystick procedures
 
@@ -34,7 +34,7 @@ Keyboard procedures
 
 Always document keyboard procedures for accessibility, even though they're indicated in UI by underlined letters.
 
-See also [Keys and keyboard shortcuts term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=27401) 
+See also [Keys and keyboard shortcuts term collection](/style-guide/a-z-word-list-term-collections/term-collections/keys-keyboard-shortcuts) 
 
 Pen-computing and touch procedures
 
@@ -101,7 +101,7 @@ Use *tap* and *double-tap* instead of *click* and *double-click* when writing co
 </tbody>
 </table>
 
-See also [Touch and pen interaction term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=29032)
+See also [Touch and pen interaction term collection](/style-guide/a-z-word-list-term-collections/term-collections/touch-pen-interaction-terms)
 
 #### Multiple input methods and branching within procedures
 

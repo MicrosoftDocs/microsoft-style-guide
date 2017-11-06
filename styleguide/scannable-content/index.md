@@ -8,11 +8,11 @@ Writing to facilitate scanning will help.
 
 Organize text into discrete components to support scanning. This section describes some of the methods you can use:
 
-  - [Headings](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36408)
-  - [Lists](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36412)
-  - [Pull quotes](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36414)
-  - [Sidebars](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36415)
-  - [Tables](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36413)
+  - [Headings](/style-guide/scannable-content/headings)
+  - [Lists](/style-guide/scannable-content/lists)
+  - [Pull quotes](/style-guide/scannable-content/pull-quotes)
+  - [Sidebars](/style-guide/scannable-content/sidebars)
+  - [Tables](/style-guide/scannable-content/tables)
 
 How you write is equally important to scanning.
 
@@ -72,7 +72,7 @@ content to create familiar landmarks for your readers:
     with what's most important. Place important keywords near the beginning
     of headings, table entries, and paragraphs so they're easy to
     spot. 
-  - Use text formatting consistently, such as using bold in procedures to identify UI labels. To learn more, see [Text formatting](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36381). 
+  - Use text formatting consistently, such as using bold in procedures to identify UI labels. To learn more, see [Text formatting](/style-guide/text-formatting/). 
   - Apply
     the same sentence structures to similar information. For example,
     use prepositional phrases consistently in procedures to

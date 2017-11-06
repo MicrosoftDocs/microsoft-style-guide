@@ -2,4 +2,4 @@
 
 Don't use. 
 
-**See** [File Explorer](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36445)
+**See** [File Explorer](/style-guide/a-z-word-list-term-collections/f/file-explorer)

@@ -18,7 +18,7 @@ Sometimes content calls for images of people, places, and events. When creating 
   - Avoid posed photos or photos that show fake emotion. 
   - Look for photos with rich color. 
   - Avoid contrived or unrealistic settings. 
-  - Avoid photos that are biased toward western culture. To learn more, see [Bias-free communication](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26708).
+  - Avoid photos that are biased toward western culture. To learn more, see [Bias-free communication](/style-guide/bias-free-communication).
 
 Crop images, if necessary,
 to eliminate unnecessary detail. If text will overlay an image,
@@ -26,12 +26,12 @@ make sure it won’t cover any important details. The guidelines for
 your website, template, or platform may include guidance
 for placing text over images. 
 
-Make sure you have legal permission to use the photos in your content. To learn about legal guidelines for using images, see [Copyrights and trademarks](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26696).
+Make sure you have legal permission to use the photos in your content. To learn about legal guidelines for using images, see [Copyrights and trademarks](/style-guide/legal-content/copyrights-trademarks).
 
 Never incorporate text as
 part of an image file—images are difficult and expensive to
 localize. To learn more about using images in global communications,
-see [Art](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26910).
+see [Art](/style-guide/global-communications/art).
 
 If images convey information
 that’s important to the story, describe them clearly and

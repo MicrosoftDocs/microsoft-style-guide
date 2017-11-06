@@ -13,4 +13,4 @@ To open the app, select the icon.
 When the app opens, a startup screen appears.
 Open OneNote and start taking notes.
 
-**See also** [Start button, Start menu](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36078)
+**See also** [Start button, Start menu](/style-guide/a-z-word-list-term-collections/s/start-button-start-menu)

@@ -9,4 +9,4 @@ Use the preceding code to display information about the database.
 See [Installation instructions](http://example.com/).
 See Installation instructions, earlier in this topic.
 
-**See also** [below](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=27393), [earlier](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32559)
+**See also** [below](/style-guide/a-z-word-list-term-collections/b/below), [earlier](/style-guide/a-z-word-list-term-collections/e/earlier)

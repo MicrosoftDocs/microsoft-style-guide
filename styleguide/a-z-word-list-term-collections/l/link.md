@@ -1,3 +1,3 @@
 # link
 
-**See** [hyperlink](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33969)
+**See** [hyperlink](/style-guide/a-z-word-list-term-collections/h/hyperlink)

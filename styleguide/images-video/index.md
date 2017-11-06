@@ -8,14 +8,14 @@ publishing platforms have guidelines for using images and video.
 Start there. This section will help you choose or create the right
 images for your message:
 
-  - [Photos](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36403)
-  - [Illustrations](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36404)
-  - [Screenshots](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36405)
-  - [Network traffic flows](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36406)
-  - [Video](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36407)
+  - [Photos](/style-guide/images-video/photos)
+  - [Illustrations](/style-guide/images-video/illustrations)
+  - [Screenshots](/style-guide/images-video/screenshots)
+  - [Network traffic flows](/style-guide/images-video/network-traffic-flows)
+  - [Video](/style-guide/images-video/video)
 
 Before using images in your content, familiarize yourself with the following guidelines:
 
-  - [Bias-free communication](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26708)
-  - [Graphics, design, and media](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32191) (Accessibility)
-  - [Copyrights and trademarks](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26696)
+  - [Bias-free communication](/style-guide/bias-free-communication)
+  - [Graphics, design, and media](/style-guide/accessibility/graphics-design-media) (Accessibility)
+  - [Copyrights and trademarks](/style-guide/legal-content/copyrights-trademarks)

@@ -13,4 +13,4 @@ Enter your password to sign in.
 Some networks can be set up to remember your username and password.
 After an extended period without activity, the network will sign you out automatically.
 
-See also [connect](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33572)
+See also [connect](/style-guide/a-z-word-list-term-collections/c/connect)

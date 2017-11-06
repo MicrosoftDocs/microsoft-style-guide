@@ -93,4 +93,4 @@ the CEO’s blog
 
 Global tip In machine-translated content, be careful with acronyms that form common English words, like *RAM.* If the acronym appears outside of the parentheses and without the spelled-out version, it might be translated incorrectly.
 
-See also [Bits and bytes term list](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26920), [Units of measure term list](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28884)
+See also [Bits and bytes term list](/style-guide/a-z-word-list-term-collections/term-collections/bits-bytes-terms), [Units of measure term list](/style-guide/a-z-word-list-term-collections/term-collections/units-of-measure-terms)

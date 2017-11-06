@@ -33,4 +33,4 @@ The following terms that include *web* are two words:
   - web folder 
   - web part
 
-See also [](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=34905)[URLs and web addresses](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=34905)
+See also [](/style-guide/urls-web-addresses)[URLs and web addresses](/style-guide/urls-web-addresses)

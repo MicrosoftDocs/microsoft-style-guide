@@ -12,4 +12,4 @@ the **Wallpaper** list
 
 Don't use *box* as a synonym for client and server hardware. 
 
-**See also** [Describing interactions with UI](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26472), [Computer and device term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26597)
+**See also** [Describing interactions with UI](/style-guide/procedures-instructions/describing-interactions-with-ui), [Computer and device term collection](/style-guide/a-z-word-list-term-collections/term-collections/computer-device-terms)

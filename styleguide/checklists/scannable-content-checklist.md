@@ -13,7 +13,7 @@ scanning, and organize content into discrete, scannable chunks.
   - Link to detailed information to help keep content brief and to the point.
   - Put the most important words near the beginning of phrases, sentences, and paragraphs.
   - Include navigation in long content, and include *Back to top* links.
-  - Format text consistently. To learn more, see [Text formatting](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36381). 
+  - Format text consistently. To learn more, see [Text formatting](/style-guide/text-formatting/). 
   - Use
     the same structure for sentences and phrases that describe similar
     information, such as procedures, cross-references, headings, and items
@@ -21,7 +21,7 @@ scanning, and organize content into discrete, scannable chunks.
   - Use the styles built into your template to break up text blocks and incorporate useful white space.
   - Consider callouts, pull quotes, sidebars, and tables to add interesting entry points to longer content.
 
- Learn more about [writing for scannability](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36380).
+ Learn more about [writing for scannability](/style-guide/scannable-content/).
 
 #### Headings
 
@@ -36,7 +36,7 @@ Write short, specific headings to create a visual, scannable list of topics with
   - Follow [](https://microsoft.sharepoint.com/teams/BrandCentral/Guidelines/Microsoft_type_guidelines.pdf)[brand type guidelines](https://microsoft.sharepoint.com/teams/BrandCentral/Pages/The-Microsoft-brand-Core-elements-Type.aspx) for heading fonts. (This document requires Microsoft network access.)
   - Use run-in headings (sometimes called bold lead-ins) to call attention to tips, notes, warnings, and cross-references.
 
- Learn more about [headings](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36408).
+ Learn more about [headings](/style-guide/scannable-content/headings).
 
 #### Lists
 
@@ -54,4 +54,4 @@ Create lists to simplify complex content.
     items are complete sentences (unless all list items are three or fewer
     words).
 
- Learn more about [lists](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36412).
+ Learn more about [lists](/style-guide/scannable-content/lists).

@@ -19,4 +19,4 @@ Examples
 You must have the Perform volume maintenance tasks user right to perform this task.
 You must be signed in as a member of the Administrators group to perform this task.
 
-**See also** [permissions](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35560), [rights](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35561)
+**See also** [permissions](/style-guide/a-z-word-list-term-collections/p/permissions), [rights](/style-guide/a-z-word-list-term-collections/r/rights)

@@ -13,4 +13,4 @@ Examples
 You just earned the Superstar achievement\!
 Take a bow—you’ve earned your Superstar.
 
-**See also** [badge](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32274)
+**See also** [badge](/style-guide/a-z-word-list-term-collections/b/badge)

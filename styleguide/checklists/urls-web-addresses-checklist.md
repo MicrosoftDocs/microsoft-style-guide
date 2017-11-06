@@ -1,6 +1,6 @@
 # URLs and web addresses checklist
 
-Follow these guidelines to refer to URLs and other addresses clearly and consistently. For detailed guidance, see [URLs and web addresses](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=34905).
+Follow these guidelines to refer to URLs and other addresses clearly and consistently. For detailed guidance, see [URLs and web addresses](/style-guide/urls-web-addresses).
 
   - Most of the time, use lowercase for URLs, email addresses, and newsgroup addresses.
     Exception

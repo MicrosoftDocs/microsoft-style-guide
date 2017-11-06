@@ -1,3 +1,3 @@
 # pound key, pound sign (\#)
 
-**See** [Keys and keyboard shortcuts term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=27401) and [Special characters term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28875)
+**See** [Keys and keyboard shortcuts term collection](/style-guide/a-z-word-list-term-collections/term-collections/keys-keyboard-shortcuts) and [Special characters term collection](/style-guide/a-z-word-list-term-collections/term-collections/special-characters)

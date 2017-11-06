@@ -16,4 +16,4 @@ A pop-up window gives additional information about an option.
 If you want to print the information in a pop-up window, right-click the window, and then select Print Topic.
 In the pop-up list, select Microsoft Excel.
 
-See also [context menu](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28829), [shortcut menu](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28830)
+See also [context menu](/style-guide/a-z-word-list-term-collections/c/context-menu), [shortcut menu](/style-guide/a-z-word-list-term-collections/s/shortcut-shortcut-menu)

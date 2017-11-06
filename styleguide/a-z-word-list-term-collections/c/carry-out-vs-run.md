@@ -2,4 +2,4 @@
 
 Use *run,* not *carry out,* to describe actions related to commands, macros, and programs. 
 
-**See also** [run vs. execute](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33512)
+**See also** [run vs. execute](/style-guide/a-z-word-list-term-collections/r/run-vs-execute)

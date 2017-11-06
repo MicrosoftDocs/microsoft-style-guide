@@ -11,9 +11,9 @@ your group's editorial style guide for additional
 conventions. 
 
 See also
- [Capitalization](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33685)
-[Formatting common text elements](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36402)
-[Formatting developer text elements](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28975)
+ [Capitalization](/style-guide/capitalization)
+[Formatting common text elements](/style-guide/text-formatting/formatting-common-text-elements)
+[Formatting developer text elements](/style-guide/developer-content/formatting-developer-text-elements)
 
 #### In documentation and technical content
 

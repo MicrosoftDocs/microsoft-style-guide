@@ -4,4 +4,4 @@ Most of the time, use *folder* instead. Use *directory* only in content for deve
 
 Don't use *directory icon.*
 
-**See also** **** [folder](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33642)
+**See also** **** [folder](/style-guide/a-z-word-list-term-collections/f/folder-folder-icon)

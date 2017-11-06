@@ -1,3 +1,3 @@
 # hybrid cloud
 
-**See** [Cloud-computing term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28841)
+**See** [Cloud-computing term collection](/style-guide/a-z-word-list-term-collections/term-collections/cloud-computing-terms)

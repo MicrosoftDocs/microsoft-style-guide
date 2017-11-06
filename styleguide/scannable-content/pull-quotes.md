@@ -15,4 +15,4 @@ Use
 pull quotes sparingly. If the quote is from a person
 or publication, make sure you have permission to use it in your
 content—even if you're quoting someone who works for Microsoft. For
-legal information about using quotations, see [Copyrights and trademarks](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26696).
+legal information about using quotations, see [Copyrights and trademarks](/style-guide/legal-content/copyrights-trademarks).

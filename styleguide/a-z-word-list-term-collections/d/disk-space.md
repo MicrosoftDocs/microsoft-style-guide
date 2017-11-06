@@ -2,4 +2,4 @@
 
 Use instead of *storage* or *memory* to refer to available capacity on a disk.
 
-**See also** [storage, storage device](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33651)
+**See also** [storage, storage device](/style-guide/a-z-word-list-term-collections/s/storage-storage-device)

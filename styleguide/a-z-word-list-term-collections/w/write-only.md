@@ -2,4 +2,4 @@
 
 Always hyphenate. **
 
-**See also** [read/write, read/write permissions](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35663)
+**See also** [read/write, read/write permissions](/style-guide/a-z-word-list-term-collections/r/read-write-read-write-permission)

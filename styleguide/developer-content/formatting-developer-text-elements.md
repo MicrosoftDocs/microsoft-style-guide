@@ -5,14 +5,14 @@ text formatting helps readers locate and interpret information.
 Follow these formatting conventions for text elements commonly used
 in content for developers. 
 
-For information about referring to UI elements, see [Formatting text in instructions](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=29014). 
+For information about referring to UI elements, see [Formatting text in instructions](/style-guide/procedures-instructions/formatting-text-in-instructions). 
 
 Your group's editorial style guide may include additional conventions.
 
 See also
-[Capitalization](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33685)
-[Formatting common text elements](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36402)
-[Procedures and instructions](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26471)
+[Capitalization](/style-guide/capitalization)
+[Formatting common text elements](/style-guide/text-formatting/formatting-common-text-elements)
+[Procedures and instructions](/style-guide/procedures-instructions/)
 
 <table>
 <tbody>

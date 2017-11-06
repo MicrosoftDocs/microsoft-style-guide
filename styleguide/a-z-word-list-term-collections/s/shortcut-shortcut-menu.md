@@ -10,7 +10,7 @@ Right-click the selected text, and then select **Copy**.
 Select the text, open the shortcut menu, and then select **Copy**.
 
 See also [
-Describing interactions with UI](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26472)
+Describing interactions with UI](/style-guide/procedures-instructions/describing-interactions-with-ui)
 [Keys and keyboard shortcuts term collection
-](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=27401)[pop-up
-](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28831)
+](/style-guide/a-z-word-list-term-collections/term-collections/keys-keyboard-shortcuts)[pop-up
+](/style-guide/a-z-word-list-term-collections/p/pop-up)

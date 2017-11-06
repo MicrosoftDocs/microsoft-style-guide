@@ -1,3 +1,3 @@
 # midnight
 
-**See** [Date and time term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=27390)
+**See** [Date and time term collection](/style-guide/a-z-word-list-term-collections/term-collections/date-time-terms)

@@ -39,7 +39,7 @@ might be the best approach.
 What search terms will the customer use? Plan for search
 keyword optimization; links back to your content; and promotion through
 home pages, blogs, newsletters, events, third-party sites,
-communities, and social media if appropriate. To learn more, see [Search and writing](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36379). 
+communities, and social media if appropriate. To learn more, see [Search and writing](/style-guide/search-writing). 
 
 **Where will the customer look for information?** 
 Part of knowing your customers is understanding where they go for
@@ -57,7 +57,7 @@ likely to use.
 **Will the content be translated or localized?** 
 If so, plan your content to streamline those processes and contain
 costs. To learn more about developing content for translation and
-localization, see [Global communications](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26906).
+localization, see [Global communications](/style-guide/global-communications/).
 
 **How will you measure success?** Do
 you have numeric targets for views, clicks, or downloads? Goals for

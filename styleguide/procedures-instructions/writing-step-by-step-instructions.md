@@ -6,8 +6,8 @@ whether you're writing simple, single-step procedures or complex
 procedures that consist of multiple steps.
 
 See also
-[Formatting text in instructions](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=29014)
-[Formatting punctuation](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28750)
+[Formatting text in instructions](/style-guide/procedures-instructions/formatting-text-in-instructions)
+[Formatting punctuation](/style-guide/punctuation/formatting-punctuation)
 
 #### Complex procedures
 
@@ -27,7 +27,7 @@ numbered list. For multiple-step procedures in numbered lists:
   - Use a separate numbered entry for each step. It's OK to combine short steps that occur in the same place in the UI.
   - Most of the time, include actions that finalize a step, such as OK or Apply buttons.
   - Use complete sentences.
-  - Use [imperative verb forms](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25523). In instructions, customers really want you to tell them what to do.
+  - Use [imperative verb forms](/style-guide/grammar/verbs). In instructions, customers really want you to tell them what to do.
   - Use
     consistent sentence structures. For example, always use
     a phrase when you need to tell the customer where to start. The

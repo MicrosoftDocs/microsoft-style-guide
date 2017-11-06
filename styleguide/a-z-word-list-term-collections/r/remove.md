@@ -12,4 +12,4 @@ Use *r**emove*:
   - As a synonym for *unload*. 
   - As a verb to describe removing add-ins and add-ons. 
 
-**See also**  [uninstall](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33611), [delete](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33613)[,](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33613) [load](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33614)
+**See also**  [uninstall](/style-guide/a-z-word-list-term-collections/u/uninstall), [delete](/style-guide/a-z-word-list-term-collections/d/delete)[,](/style-guide/a-z-word-list-term-collections/d/delete) [load](/style-guide/a-z-word-list-term-collections/l/load)

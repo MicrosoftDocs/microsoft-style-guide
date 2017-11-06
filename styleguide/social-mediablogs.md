@@ -24,7 +24,7 @@ With a plan in place, you can prepare for each post and let
 readers know what’s coming up. An editorial schedule is
 especially helpful for team blogs. 
 
-Be yourself. Keep your tone friendly and informal to encourage conversation. To learn more, see [Brand voice](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28361). 
+Be yourself. Keep your tone friendly and informal to encourage conversation. To learn more, see [Brand voice](/style-guide/brand-voice-above-all-simple-human). 
 
 Use common sense.
 Follow the same guidelines that you would in any interaction or

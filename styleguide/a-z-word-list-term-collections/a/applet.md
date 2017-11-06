@@ -7,6 +7,6 @@ In general, when referring to a small program, use the name of the program or th
 Example A Java applet in an HTML document supports animation, music, and page updates.
 
 **See also** **** [
-add-in, add-on](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28773),
-[app](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32507)[, application](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32507),
-[tool](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32532)
+add-in, add-on](/style-guide/a-z-word-list-term-collections/a/add-in-add-on),
+[app](/style-guide/a-z-word-list-term-collections/a/app-application)[, application](/style-guide/a-z-word-list-term-collections/a/app-application),
+[tool](/style-guide/a-z-word-list-term-collections/t/tool)

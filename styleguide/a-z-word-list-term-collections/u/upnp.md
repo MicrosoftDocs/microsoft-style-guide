@@ -17,4 +17,4 @@ Don't include *UPnP* in the name of any product or in the trademark of any devic
 
 For other guidelines required by the UPnP™ Implementers Corporation, see the [UPnP Implementers Corporation website](http://www.upnp.org/). 
 
-**See also** [Plug and Play, plug and play](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35573)
+**See also** [Plug and Play, plug and play](/style-guide/a-z-word-list-term-collections/p/plug-and-play)

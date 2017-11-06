@@ -8,4 +8,4 @@ Examples
 Select a file, and then select OK.
 To enlarge a window to fill the entire screen, select the Maximize button.
 
-**See also** [Describing interactions with UI](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26472)
+**See also** [Describing interactions with UI](/style-guide/procedures-instructions/describing-interactions-with-ui)

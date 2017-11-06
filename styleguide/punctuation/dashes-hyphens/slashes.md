@@ -7,8 +7,8 @@ Example Enter two backslashes (\\\\) ....
 
 See also
 [Numbers](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28876)
-[Special character term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28875)
-[URLs and web addresses](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=34905)
+[Special character term collection](/style-guide/a-z-word-list-term-collections/term-collections/special-characters)
+[URLs and web addresses](/style-guide/urls-web-addresses)
 
 Use a slash:
 
@@ -44,6 +44,6 @@ To turn the purchasing workflow on or off ....
 Exception It's OK to use *country/region* and *ZIP Code/postal code* where space is limited.
 
 See also
-[and/or](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32502)
-[country or region](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33582)
-[either/or](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33673)
+[and/or](/style-guide/a-z-word-list-term-collections/a/and-or)
+[country or region](/style-guide/a-z-word-list-term-collections/c/country-or-region)
+[either/or](/style-guide/a-z-word-list-term-collections/e/either-or)

@@ -6,11 +6,11 @@
   - Avoid widows, orphans, and lines that end with hyphens.
   - Don’t compress line spacing.
 
-**Learn more** about [using type](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36397).
+**Learn more** about [using type](/style-guide/text-formatting/using-type/).
 
   - Format text elements consistently.
 
 **Learn** **about**
- [Formatting common text elements](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36402)
-[Formatting titles](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36416)
-[Formatting developer text elements](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28975)
+ [Formatting common text elements](/style-guide/text-formatting/formatting-common-text-elements)
+[Formatting titles](/style-guide/text-formatting/formatting-titles)
+[Formatting developer text elements](/style-guide/developer-content/formatting-developer-text-elements)

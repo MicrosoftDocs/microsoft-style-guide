@@ -13,6 +13,6 @@ Many computers turn the power off automatically.
 The accidental shutdown might have damaged some files. 
 
 **See also** **
-**[Describing interactions with UI](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26472)
-[turn on, turn off](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33405)
-[sleep](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35395)
+**[Describing interactions with UI](/style-guide/procedures-instructions/describing-interactions-with-ui)
+[turn on, turn off](/style-guide/a-z-word-list-term-collections/t/turn-on-turn-off)
+[sleep](/style-guide/a-z-word-list-term-collections/s/sleep)

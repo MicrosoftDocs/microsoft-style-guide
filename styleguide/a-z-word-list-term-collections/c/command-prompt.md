@@ -10,4 +10,4 @@ Describe entering commands *at a command prompt*, not *on a command line*.
 
 Example At the command prompt, enter certutil -setreg ca.
 
-See also **** [command line](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33561), [console](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33563)
+See also **** [command line](/style-guide/a-z-word-list-term-collections/c/command-line), [console](/style-guide/a-z-word-list-term-collections/c/console)

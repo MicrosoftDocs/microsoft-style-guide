@@ -16,9 +16,9 @@ vision. To learn more, see the [](https://microsoft.sharepoint.com/teams/BrandCe
 
 #### Use consistent text formatting
 
-Use sentence-style capitalization. To learn more, see [Capitalization](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33685).
+Use sentence-style capitalization. To learn more, see [Capitalization](/style-guide/capitalization).
 
-Use fonts from the Segoe font family. To learn more, see [Using type](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36397).
+Use fonts from the Segoe font family. To learn more, see [Using type](/style-guide/text-formatting/using-type/).
 
 #### Represent communication with arrows, lines, and labels
 

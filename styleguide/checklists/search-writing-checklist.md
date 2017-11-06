@@ -15,6 +15,6 @@ Search-friendly writing can help customers find your content in search engines.
   - Ask other sites to link to your page from closely related content.
 
 Learn more about search engine optimization:
-[Search and writing](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36379)
+[Search and writing](/style-guide/search-writing)
 [MSCOM SEO library](https://microsoft.sharepoint.com/sites/mscom/seo/Pages/default.aspx) (This site requires Microsoft network access.)
 [Bing SEO primer](https://microsoft.sharepoint.com/teams/BingAPIs/SitePages/Bing%20SEO%20Primer.aspx) (This page requires Microsoft network access.)

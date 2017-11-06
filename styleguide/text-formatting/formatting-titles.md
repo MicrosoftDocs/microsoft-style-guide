@@ -2,7 +2,7 @@
 
 Follow these conventions for formatting titles.
 
-See also [Capitalization](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33685), [Headings](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36408)
+See also [Capitalization](/style-guide/capitalization), [Headings](/style-guide/scannable-content/headings)
 
 <table>
 <tbody>

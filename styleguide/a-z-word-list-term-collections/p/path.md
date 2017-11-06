@@ -31,4 +31,4 @@ names. File names don't require extensions.
 Example**
 **(Mac) Macintosh HD:My Documentation:Sales CORP-16:TOMCAT:EX130D Mac Temp:Workbook1
 
-See also **** [Formatting common text elements](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36402), [URLs and web addresses](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=34905)
+See also **** [Formatting common text elements](/style-guide/text-formatting/formatting-common-text-elements), [URLs and web addresses](/style-guide/urls-web-addresses)

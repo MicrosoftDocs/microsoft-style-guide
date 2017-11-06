@@ -2,4 +2,4 @@
 
 Don't use as a synonym for *permissions* or *rights*. 
 
-**See** [permissions](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35560), [rights](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35561)
+**See** [permissions](/style-guide/a-z-word-list-term-collections/p/permissions), [rights](/style-guide/a-z-word-list-term-collections/r/rights)

@@ -7,4 +7,4 @@ the marked items as *the selection* or *the* *selected* text, objects, cells, an
 
 Don't use *highlight* or *pick* as a synonym for *select*.
 
-For information about using *select* as a verb in instructions and procedures, see [Describing interactions with UI](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26472).
+For information about using *select* as a verb in instructions and procedures, see [Describing interactions with UI](/style-guide/procedures-instructions/describing-interactions-with-ui).

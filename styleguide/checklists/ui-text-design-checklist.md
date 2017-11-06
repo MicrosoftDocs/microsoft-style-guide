@@ -25,10 +25,10 @@ Well-designed UI feels like a conversation. These tips will help get you there.
   - Don’t get in the way. Great content is invisible. Prune every excess word and remove unnecessary details.
   - Consider what those button labels and words mean to customers. Make it clear what will happen when they choose an option or select a link. 
   - Use the same terms consistently for fundamental commands, menu items, and labels. 
-  - Apply Microsoft voice guidelines until your text reads like a conversation with a friend. To learn more, see [Brand voice](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28361).
+  - Apply Microsoft voice guidelines until your text reads like a conversation with a friend. To learn more, see [Brand voice](/style-guide/brand-voice-above-all-simple-human).
   - Collaborate with design and PM partners, usability researchers, and peers to identify issues as you revise. 
-  - Apply style rules. Sweat the details, like sentence-style capitalization and punctuation. To learn more, see [Capitalization](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28261) and [Punctuation](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25519).
+  - Apply style rules. Sweat the details, like sentence-style capitalization and punctuation. To learn more, see [Capitalization](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28261) and [Punctuation](/style-guide/punctuation/).
   - When something works, consider using it as a pattern you can reuse.
   - Keep a style sheet, and contribute to your UX team's guidance. 
 
-**Learn more**  about [UI text and design](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28880).
+**Learn more**  about [UI text and design](/style-guide/ui-text-content-design).

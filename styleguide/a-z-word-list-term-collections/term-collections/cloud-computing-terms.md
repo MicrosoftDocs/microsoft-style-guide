@@ -10,7 +10,7 @@ This section covers common cloud-computing terms. Look up individual cloud servi
 Before you
 create any new term, check with the applicable brand, marketing, and
 engineering teams to find out whether a term already exists. For more
-information about creating new terms or using emerging terminology, see [Use technical terms carefully](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36392).
+information about creating new terms or using emerging terminology, see [Use technical terms carefully](/style-guide/word-choice/use-technical-terms-carefully).
 
 <table>
 <tbody>

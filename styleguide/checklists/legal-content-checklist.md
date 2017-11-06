@@ -54,10 +54,10 @@ provides an overview of the most common legal issues in content. For complete in
 
   - Make sure
     you have legal distribution rights and distribution is appropriate
-    and permissible from a business standpoint. [Learn more](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26698).
+    and permissible from a business standpoint. [Learn more](/style-guide/legal-content/downloadable-software).
   - Include disclaimers, disclosures, and Microsoft Software License Terms. Check with [your group’s paralegal](https://microsoft.sharepoint.com/sites/lcaweb/Pages/Applications/LegalContact.aspx) to learn more. (This page requires Microsoft network access.)
   - US
     laws restrict the delivery of certain information and technology
     internationally. Verify that providing the download won’t
     break US laws.
-  - Before distributing downloadable software or content internationally, check for any worldwide legal issues. [Learn more](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26917).
+  - Before distributing downloadable software or content internationally, check for any worldwide legal issues. [Learn more](/style-guide/global-communications/legal-considerations).

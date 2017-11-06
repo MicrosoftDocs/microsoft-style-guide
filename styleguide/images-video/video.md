@@ -24,7 +24,7 @@ Follow these guidelines:
     a story with a beginning, a middle, and an end. Simple narratives
     are best. Start by telling viewers what they'll learn. End with a
     call to action to try it themselves.
-  - Use the same voice principles that you use in other content. For more information, see [Brand voice](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28361). 
+  - Use the same voice principles that you use in other content. For more information, see [Brand voice](/style-guide/brand-voice-above-all-simple-human). 
   - Maintain
     a consistent pace and ratio of audio to video. Don't talk too fast
     or too slowly. Practice timing your actions with your words.

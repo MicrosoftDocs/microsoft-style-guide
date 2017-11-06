@@ -18,4 +18,4 @@ that a new section or thought is beginning. All-lowercase text
 takes away that helpful cue.
 Example this sentence is all lowercase. or is it a sentence? it's hard to tell with no capital letters. 
 
-Learn more To learn more about proper nouns, see [Nouns and pronouns](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25525). To learn more about capitalization, see [Capitalization](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33685).
+Learn more To learn more about proper nouns, see [Nouns and pronouns](/style-guide/grammar/nouns-pronouns). To learn more about capitalization, see [Capitalization](/style-guide/capitalization).

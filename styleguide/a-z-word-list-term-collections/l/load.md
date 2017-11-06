@@ -18,4 +18,4 @@ Setting up Office 365 (heading)
 Download the e-book (link text)
 When you're ready to play again, load your saved game.
 
-**See also** [download](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33615)
+**See also** [download](/style-guide/a-z-word-list-term-collections/d/download)

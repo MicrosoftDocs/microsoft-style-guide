@@ -25,4 +25,4 @@ Here's what it takes to upgrade to Windows 10 on your PC or tablet:
 
   - Display: 800 × 600
 
-See also [Bits and bytes term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26920), [Units of measure term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28884)
+See also [Bits and bytes term collection](/style-guide/a-z-word-list-term-collections/term-collections/bits-bytes-terms), [Units of measure term collection](/style-guide/a-z-word-list-term-collections/term-collections/units-of-measure-terms)

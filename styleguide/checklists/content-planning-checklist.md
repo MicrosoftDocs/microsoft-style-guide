@@ -10,4 +10,4 @@ A little upfront planning will save you time and keep your writing focused.
   - Take steps to streamline translation and localization, if necessary. 
   - Decide how you will measure success before finalizing your plan.
 
-Learn more about [content planning](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36376).
+Learn more about [content planning](/style-guide/content-planning).

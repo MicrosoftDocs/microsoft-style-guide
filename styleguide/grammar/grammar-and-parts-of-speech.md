@@ -7,11 +7,11 @@ probably just right for most Microsoft content.
 
 This section covers common grammatical issues:
 
-  - [Verbs](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25523) 
-  - [Person](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25524) 
-  - [Nouns and pronouns](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25525#_Plural_nouns) 
-  - [Words ending in *–ing*](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25527) 
-  - [Prepositions](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25528) 
-  - [Dangling and misplaced modifiers](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25529) 
+  - [Verbs](/style-guide/grammar/verbs) 
+  - [Person](/style-guide/grammar/person) 
+  - [Nouns and pronouns](/style-guide/grammar/nouns-pronouns#_Plural_nouns) 
+  - [Words ending in *–ing*](/style-guide/grammar/ing-words) 
+  - [Prepositions](/style-guide/grammar/prepositions) 
+  - [Dangling and misplaced modifiers](/style-guide/grammar/dangling-misplaced-modifiers) 
 
 Learn more For more information about grammar and parts of speech, see *[The Chicago Manual of Style](http://www.chicagomanualofstyle.org/home.html)*. If you have Microsoft network access, you can use [*The Chicago Manual of Style Online*](http://aka.ms/mslibrary/cms) through MS Library.

@@ -13,4 +13,4 @@ can open files created in previous versions of Microsoft Visio.
 (If you can open files in every version of Visio including and previous
 to the version being discussed.) 
 
-**See also**  [later](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32560)
+**See also**  [later](/style-guide/a-z-word-list-term-collections/l/later)

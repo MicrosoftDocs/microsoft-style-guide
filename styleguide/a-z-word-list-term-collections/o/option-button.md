@@ -13,4 +13,4 @@ For Paste options, select Keep text only.
 
 In content for a technical audience, some product teams use *option* instead of *switch* to refer to a command argument or compiler option, such as /b or /Za. Refer to your group's editorial style guide.  
 
-**See also** **** [Describing interactions with UI](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26472)
+**See also** **** [Describing interactions with UI](/style-guide/procedures-instructions/describing-interactions-with-ui)

@@ -1,3 +1,3 @@
 # deaf or hard-of-hearing
 
-**See** [Accessibility term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26596)
+**See** [Accessibility term collection](/style-guide/a-z-word-list-term-collections/term-collections/accessibility-terms)

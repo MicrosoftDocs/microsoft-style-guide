@@ -1,3 +1,3 @@
 # hard drive
 
-**See** [Computer and device term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26597)
+**See** [Computer and device term collection](/style-guide/a-z-word-list-term-collections/term-collections/computer-device-terms)

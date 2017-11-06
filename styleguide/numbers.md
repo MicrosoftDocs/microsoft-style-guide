@@ -232,7 +232,7 @@ Exceptions Use an en dash in a range of pages or where space is an issue, such a
   - Don’t use *from* before a range indicated by an en dash, such as *10–15*. 
 
 See also [
-Date and time term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=27390)
-[Units of measure term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28884)
+Date and time term collection](/style-guide/a-z-word-list-term-collections/term-collections/date-time-terms)
+[Units of measure term collection](/style-guide/a-z-word-list-term-collections/term-collections/units-of-measure-terms)
 [Dashes and hyphens
-](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28757)[Percent, percentage](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35557)[](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28757)
+](/style-guide/punctuation/dashes-hyphens/)[Percent, percentage](/style-guide/a-z-word-list-term-collections/p/percent-percentage)[](/style-guide/punctuation/dashes-hyphens/)

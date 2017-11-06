@@ -4,18 +4,18 @@ To protect Microsoft intellectual property and minimize legal risks, follow the 
 
 This section includes the following topics:
 
-  - [Copyrights and trademarks](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26696)
-  - [Downloadable software](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26698)
-  - [Fictitious names, domains, and addresses](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26697) 
-  - [Legal issues and types of content](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26695)
-  - [Red flag terms](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26707)
+  - [Copyrights and trademarks](/style-guide/legal-content/copyrights-trademarks)
+  - [Downloadable software](/style-guide/legal-content/downloadable-software)
+  - [Fictitious names, domains, and addresses](/style-guide/legal-content/fictitious-names-domains-addresses) 
+  - [Legal issues and types of content](/style-guide/legal-content/legal-issues-types-of-content)
+  - [Red flag terms](/style-guide/legal-content/red-flag-terms)
 
 For legal issues related to new products, see: 
 
-  - [Product previews](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=29088)
-  - [Code names](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26703)
-  - [System requirements](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26705)
+  - [Product previews](/style-guide/new-products/product-previews)
+  - [Code names](/style-guide/new-products/code-names)
+  - [System requirements](/style-guide/new-products/system-requirements)
 
 For information about trademark names, see the [Microsoft Corporation trademarks list](https://microsoft.sharepoint.com/sites/LCAWeb/Home/Copyrights-Trademarks-and-Patents/Trademarks/Trademark-List). (This page requires Microsoft network access.)
 
-For legal issues related to worldwide content, software, and websites, see [](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26917)[Legal considerations](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26917).
+For legal issues related to worldwide content, software, and websites, see [](/style-guide/global-communications/legal-considerations)[Legal considerations](/style-guide/global-communications/legal-considerations).

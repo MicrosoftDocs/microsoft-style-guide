@@ -2,4 +2,4 @@
 
 Don't use.
 
-**See** [upper left, upper right](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36349)
+**See** [upper left, upper right](/style-guide/a-z-word-list-term-collections/u/upper-left-upper-right)

@@ -8,4 +8,4 @@ On the first mention, refer to the z-axis as the *value (z) axis*, where both th
 
 Don't use italic formatting for the *z* in *z-axis* unless the entire word is italic.
 
-**See also** [value axis](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33518)
+**See also** [value axis](/style-guide/a-z-word-list-term-collections/v/value-axis)

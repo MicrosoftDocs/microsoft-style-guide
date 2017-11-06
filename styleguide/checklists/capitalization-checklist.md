@@ -14,5 +14,5 @@ In general, Microsoft style is sentence-style capitalization.
   - Don't use all uppercase for emphasis. 
   - Don't use all lowercase as a design choice. 
 
-Learn more about [capitalization](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33685).
-Learn more about [proper nouns](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25525).
+Learn more about [capitalization](/style-guide/capitalization).
+Learn more about [proper nouns](/style-guide/grammar/nouns-pronouns).

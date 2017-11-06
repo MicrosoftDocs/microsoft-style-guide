@@ -8,4 +8,4 @@ Examples
 If you try to close the program without saving the file, a message appears. 
 Word displays a message if you try to close the program without saving the file. 
 
-See [](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26597)[Computer and device term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26597) for information about using *display* as a noun.
+See [](/style-guide/a-z-word-list-term-collections/term-collections/computer-device-terms)[Computer and device term collection](/style-guide/a-z-word-list-term-collections/term-collections/computer-device-terms) for information about using *display* as a noun.

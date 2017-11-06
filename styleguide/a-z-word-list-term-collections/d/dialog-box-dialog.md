@@ -12,4 +12,4 @@ Select the Paragraph dialog box launcher, and then select Tabs. Enter the positi
 
 Exception In content for developers, it's OK to use *dialog* by itself as a modifier. For example, "This article provides information about the dialog form pattern."
 
-See also [Formatting text in instructions](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=29014)
+See also [Formatting text in instructions](/style-guide/procedures-instructions/formatting-text-in-instructions)

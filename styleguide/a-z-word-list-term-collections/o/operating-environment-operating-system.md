@@ -14,4 +14,4 @@ Examples
 Word 2016 runs with the Windows operating system. 
 Microsoft Exchange Server runs on the Windows Server operating system.
 
-See also [platform](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35539)
+See also [platform](/style-guide/a-z-word-list-term-collections/p/platform)

@@ -27,7 +27,7 @@ Writing tip If the sentence is long or complex, consider rewriting as two senten
 
 Example See the product reviews in the February 4, 2015, issue of the *New York Times.*
 
-For information about using commas in numbers, see [](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36307)[Numbers](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33688).
+For information about using commas in numbers, see [](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36307)[Numbers](/style-guide/numbers).
 
 #### Don’t use a comma:
 

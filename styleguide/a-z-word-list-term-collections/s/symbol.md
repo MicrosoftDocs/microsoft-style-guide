@@ -37,4 +37,4 @@ Examples
 75%
 \<100 
 
-See also [Special character term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28875), [Keys and keyboard shortcuts term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=27401)[](https://worldready.cloudapp.net/Styleguide/Read?id=1413&topicid=3863)
+See also [Special character term collection](/style-guide/a-z-word-list-term-collections/term-collections/special-characters), [Keys and keyboard shortcuts term collection](/style-guide/a-z-word-list-term-collections/term-collections/keys-keyboard-shortcuts)[](https://worldready.cloudapp.net/Styleguide/Read?id=1413&topicid=3863)

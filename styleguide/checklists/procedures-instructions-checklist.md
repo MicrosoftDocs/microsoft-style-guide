@@ -15,16 +15,16 @@ complex or involves more than one UI, look for the simplest way to present it. T
 
 Follow this
 checklist when procedures are the best way to help your
-customer complete a task. Use consistent text formatting—see [Formatting text in instructions](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=29014). And always think accessibility—see [Accessibility guidelines and requirements](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26589) to learn more. 
+customer complete a task. Use consistent text formatting—see [Formatting text in instructions](/style-guide/procedures-instructions/formatting-text-in-instructions). And always think accessibility—see [Accessibility guidelines and requirements](/style-guide/accessibility/accessibility-guidelines-requirements) to learn more. 
 
-Learn more about [procedures and instructions](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26471)
+Learn more about [procedures and instructions](/style-guide/procedures-instructions/)
 
 #### Step-by-step instructions
 
 Use numbered steps—no more than seven, and preferably fewer. 
 
   - Write a complete sentence for each step: capitalize the first word and end the sentence with a period. 
-  - Use [imperative verb forms](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25523).
+  - Use [imperative verb forms](/style-guide/grammar/verbs).
   - Consider using a heading that tells customers what the procedure will help them do. 
   - Keep
     it short—ideally, fit the whole procedure on one screen. Omit
@@ -43,7 +43,7 @@ Use numbered steps—no more than seven, and preferably fewer.
     Example
     Select Accounts \> Other accounts \> Add an account.
 
-Learn more about [step-by-step instructions](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=29016). 
+Learn more about [step-by-step instructions](/style-guide/procedures-instructions/writing-step-by-step-instructions). 
 
 #### Interactions with UI
 
@@ -63,11 +63,11 @@ Use the following verbs, which describe any input method—touch, mouse, keyboar
   - Zoom, zoom in, zoom out, for changing the magnification of a screen or window.
   - Avoid *press, press and hold,* and *right-click* if you can. Try to use an input-neutral verb instead. 
 
-Learn more about [describing interactions with UI](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26472).
+Learn more about [describing interactions with UI](/style-guide/procedures-instructions/describing-interactions-with-ui).
 
 #### Alternative input methods
 
-  - Most of the time, use input-neutral verbs to describe interactions with UI. See [Describing interactions with UI](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26472) to learn how. 
+  - Most of the time, use input-neutral verbs to describe interactions with UI. See [Describing interactions with UI](/style-guide/procedures-instructions/describing-interactions-with-ui) to learn how. 
   - For accessibility, always document keyboard procedures, even if they're indicated in the UI by underlined letters.
   - If
     you need to document mouse procedures, be consistent. For example,
@@ -90,7 +90,7 @@ Learn more about [describing interactions with UI](https://worldready.cloudapp.n
     Flick: Use to describe moving one or more fingers to scroll through items on the screen. Don’t use *scroll.*
   - Use *swipe* to describe a short, quick movement in the direction opposite to how the page scrolls .
 
-Learn more about [alternative input methods](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=29028).
+Learn more about [alternative input methods](/style-guide/procedures-instructions/describing-alternative-input-methods).
 
 #### Multiple input methods
 
@@ -105,4 +105,4 @@ If you need to document multiple ways to perform a task, use one of these method
     and instructions on the right.
   - If a step has more than one option, list the options as bullets under the numbered step. 
 
-Learn more about [multiple input methods](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=29028).
+Learn more about [multiple input methods](/style-guide/procedures-instructions/describing-alternative-input-methods).
