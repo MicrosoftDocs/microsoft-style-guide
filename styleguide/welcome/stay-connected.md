@@ -4,4 +4,4 @@
     distribution group to receive announcements about guidance
     changes. (This group requires Microsoft network access.)
   - Ask the Microsoft content community a question or join the discussion on the [STET group](https://www.yammer.com/microsoft.com/#/threads/inGroup?type=in_group&feedId=2937380 "STET Yammer group") on Yammer or the [Editors Information and Discussion](http://idwebelements/GroupManagement.aspx?Group=stet&Operation=join "Join stet@microsoft.com") email distribution group. (These groups require Microsoft network access.)
-  - To request additions or revisions to the *Microsoft Writing Style Guide,* reach out to your group’s [Microsoft Editorial Board](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=29025) member or email <msstyle@microsoft.com>.
+  - To request additions or revisions to the *Microsoft Writing Style Guide,* reach out to your group’s [Microsoft Editorial Board](/style-guide/welcome/editorial-board) member or email <msstyle@microsoft.com>.
