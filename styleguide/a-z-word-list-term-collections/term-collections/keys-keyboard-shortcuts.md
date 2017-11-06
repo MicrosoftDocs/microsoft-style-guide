@@ -1,6 +1,6 @@
 ﻿# Keys and keyboard shortcuts
 
-## This term collection covers how to refer to keyboard shortcuts and the names of specific keys. 
+This term collection covers how to refer to keyboard shortcuts and the names of specific keys. 
 
 For information about describing customers' interactions with UI, see [Procedures and instructions](/style-guide/procedures-instructions/).
 
