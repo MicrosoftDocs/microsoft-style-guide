@@ -12,9 +12,9 @@ usually safe to assume your content will be read in many countries and
 by readers whose primary language isn't English. Some content
 will probably be translated into other languages or localized. 
 
-Translation is simply changing the language of content. Translation is often automated using machine translation.
+**Translation** is simply changing the language of content. Translation is often automated using machine translation.
 
-Localization is
+**Localization** is
 the process of adapting a product or content (including text
 and other elements) to meet the language, cultural, and political
 expectations and requirements of a specific local market (locale). Localization is done by people who are familiar with the local language and culture.
@@ -38,12 +38,12 @@ For Microsoft’s approach to localizing product names, see the [Brand Central n
 
 #### Learn more about worldwide audiences
 
-Be curious.
+**Be curious.**
 If you write for audiences in particular countries or regions,
 subscribe to local email newsletters, visit local websites, and
 follow local news. 
 
-Use these resources:
+**Use these resources:**
 
   - [Microsoft International Style Guides](http://worldready.cloudapp.net/)
   - [Microsoft Global Readiness website](https://microsoft.sharepoint.com/teams/celaGlobalReadiness/Pages/Home.aspx) (This page requires Microsoft network access.)
@@ -54,7 +54,7 @@ Use these resources:
   - [World Time Zones](http://www.worldtimeserver.com/)
   - [W3C Internationalization Activity](http://www.w3.org/international/)
 
-Read more:
+**Read more:**
 
   - John R. Kohl, *The Global English Style Guide: Writing Clear, Translatable Documentation for a Global Market* (Cary, NC: SAS Institute, Inc., 2008).
   - Edmond H. Weiss, *The
@@ -62,7 +62,7 @@ Read more:
     Correspondence, Reports, Technical Documents, and Internet Pages for a
     Global Audience* (Armonk, NY: M.E. Sharpe, 2005). 
 
-If you have questions, contact:
+**If you have questions, contact:**
 
   - [Localization Managers Forum](mailto:ms4n@microsoft.com) discussion group (This group requires Microsoft network access.)
   - For general localization questions, ask the Microsoft content community on the [STET group](https://www.yammer.com/microsoft.com/#/threads/inGroup?type=in_group&feedId=2937380 "STET Yammer group") on Yammer or the [Editors Information and Discussion](http://idwebelements/GroupManagement.aspx?Group=stet&Operation=join "Join stet@microsoft.com") email distribution group. (These groups require Microsoft network access.)
