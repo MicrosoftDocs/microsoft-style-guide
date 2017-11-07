@@ -53,7 +53,7 @@ Content that's easy to read tends to be easy to localize and translate. To get s
   - Avoid talking about seasons. If you do, specify the hemisphere. 
   - Include the country or region name in event locations. 
 
-Names and contact information
+#### Names and contact information
 
   - Use *First name* and *Last name* in forms. If you include *Middle name*, make it optional. Refer to [Article 1708: Personal name formats](https://microsoft.sharepoint.com/teams/celaGlobalReadiness/KBLibrary/1708.docx?web=1 "GPWeb KB article")
     on the Global Readiness site for the correct ordering of first and last
@@ -109,4 +109,4 @@ Names and contact information
     Determine whether worldwide distribution affects royalties, and remove
     the content before the license expires. For more information, see [Using photos, videos, or other media in advertising](https://microsoft.sharepoint.com/sites/LCAWeb/Home/Marketing/Marketing-and-Advertising-Content/Photos-and-Other-Media) on CELAWeb. (This page requires Microsoft network access.)
 
-Learn more about [global communications](/style-guide/global-communications/). 
+**Learn more** about [global communications](/style-guide/global-communications/). 
