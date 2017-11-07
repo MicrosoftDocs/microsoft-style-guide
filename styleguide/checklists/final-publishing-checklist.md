@@ -18,4 +18,4 @@ content that’s free of spelling and grammar mistakes is easy to read and build
   - Pay attention to [legal requirements](/style-guide/legal-content/) and [c](https://microsoft.sharepoint.com/sites/lcaweb/Home/Marketing/Marketing-and-Advertising-Content/Quotes)[ite quotations and references](https://microsoft.sharepoint.com/sites/lcaweb/Home/Marketing/Marketing-and-Advertising-Content/Quotes). (This page requires Microsoft network access.)
   - Use a spelling and grammar checker. But check each recommendation before you accept it—only you know whether you mean *manager* or *manger*. 
 
-Learn more about what to do [](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25522)[](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25522)[before you publish](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25522). 
+**Learn more** about what to do [](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25522)[](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25522)[before you publish](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25522). 
