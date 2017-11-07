@@ -26,145 +26,24 @@ In those cases, or after you’ve spelled out the term on the first mention, it�
 
     **Example** 1,024 MB
 
-<table>
-<tbody>
-<tr class="odd">
-<td><b>Term</b></td>
-<td><b>Abbreviation</b></td>
-</tr>
-<tr class="even">
-<td><div>
-<b>bits per pixel</b>
-</div></td>
-<td><div>
-bpp
-</div></td>
-</tr>
-<tr class="odd">
-<td><div>
-<b>bits per second</b>
-</div></td>
-<td><div>
-bps
-</div></td>
-</tr>
-<tr class="even">
-<td><b>byte</b></td>
-<td><em>None</em></td>
-</tr>
-<tr class="odd">
-<td><b>exabyte</b></td>
-<td>EB</td>
-</tr>
-<tr class="even">
-<td><div>
-<b>gigabit</b>
-</div></td>
-<td><div>
-<em>None</em>
-</div></td>
-</tr>
-<tr class="odd">
-<td><div>
-<b>gigabits per second</b>
-</div></td>
-<td><div>
-Gbps
-</div></td>
-</tr>
-<tr class="even">
-<td><div>
-<b>gigabyte</b>
-</div></td>
-<td><div>
-GB
-</div></td>
-</tr>
-<tr class="odd">
-<td><div>
-<b>kilobit</b>
-</div></td>
-<td><div>
-<em>None</em>
-</div></td>
-</tr>
-<tr class="even">
-<td><div>
-<b>kilobits per second</b>
-</div></td>
-<td><div>
-Kbps
-</div></td>
-</tr>
-<tr class="odd">
-<td><b>kilobyte</b></td>
-<td>KB</td>
-</tr>
-<tr class="even">
-<td><b>kilobytes per second</b></td>
-<td>KBps</td>
-</tr>
-<tr class="odd">
-<td><div>
-<b>megabit</b>
-</div></td>
-<td><div>
-<em>None</em>
-</div></td>
-</tr>
-<tr class="even">
-<td><div>
-<b>megabits per second</b>
-</div></td>
-<td><div>
-Mbps
-</div></td>
-</tr>
-<tr class="odd">
-<td><div>
-<b>megabyte</b>
-</div></td>
-<td><div>
-MB
-</div></td>
-</tr>
-<tr class="even">
-<td><div>
-<b>megabytes per second</b>
-</div></td>
-<td><div>
-MBps
-</div></td>
-</tr>
-<tr class="odd">
-<td><div>
-<b>petabyte</b>
-</div></td>
-<td><div>
-PB
-</div></td>
-</tr>
-<tr class="even">
-<td><div>
-<div>
-<b>terabyte</b>
-</div>
-</div></td>
-<td><div>
-<div>
-TB
-</div>
-</div></td>
-</tr>
-<tr class="odd">
-<td><div>
-<div>
-<b>zettabyte</b>
-</div>
-</div></td>
-<td><div>
-ZB
-</div></td>
-</tr>
-</tbody>
-</table>
+
+Term|Abbreviation|Usage
+---|---|---
+**bits per pixel**|bpp|
+**bits per second**|bps|Don't use as a synonym for *baud*. See Units of measure term collection for information about *baud*.
+**byte**|*None*|Don't abbreviate.
+**exabyte**|EB|Don’t use *E, E byte*, or *EByte*.
+**gigabit**|*None*|Don’t abbreviate.
+**gigabits per second**|Gbps|Don't spell out as *Gb per second*.
+**gigabyte**|GB|Don’t use *G, G byte,* or *GByte*.
+**kilobit**|*None*|Don’t abbreviate.
+**kilobits per second**|Kbps|Don't spell out as *KB per second*.
+**kilobyte**|KB|Don't use *K, K byte*, or *KByte*.
+**kilobytes per second**|KBps|Don't spell out as *KB per second*.
+**megabit**|*None*|Don’t abbreviate.
+**megabits per second**|Mbps|Don't spell out as *Mb per second*. 
+**megabyte**|MB|Don’t use *M, meg, M byte,* or *MByte*.
+**megabytes per second**|MBps|Don't spell out as *MB per second*.
+**petabyte**|PB|Don’t use *P, P byte,* or *PByte*.
+**terabyte**|TB|Don’t use *T, T byte,* or *TByte*.
+**zettabyte**|ZB|Don’t use *Z, Z byte,* or *ZByte.*
