@@ -29,12 +29,8 @@ says to use the acronym without spelling it out. If you’re sure your
 audience is familiar with an acronym, it’s OK to use it without spelling
 it out.
 
-Examples
-Conversations
-as a platform (CaaP) has the potential to make booking a flight as easy
-as sending a text message. Developers are also looking to CaaP to make
-computing more accessible to users of all abilities. 
-Learn how to connect a USB device to your Microsoft Surface.
+
+**Examples**</br>Conversations as a platform (CaaP) has the potential to make booking a flight as easy as sending a text message. Developers are also looking to CaaP to make computing more accessible to users of all abilities. </br>Learn how to connect a USB device to your Microsoft Surface.
 
 #### Don’t introduce acronyms that are used just once
 
@@ -42,7 +38,7 @@ If
 an acronym will appear only once in your content, just spell out the
 term. Don’t introduce it in parentheses after the spelled-out version.
 
-Exception It’s OK to use both the spelled-out term and the acronym if both are needed for SEO, even if the acronym is used only once.
+**Exception** It’s OK to use both the spelled-out term and the acronym if both are needed for SEO, even if the acronym is used only once.
 
 #### Be careful with acronyms in titles and headings
 
@@ -60,37 +56,26 @@ all words in the spelled-out form of an acronym except for proper
 nouns. The names of many protocols and specifications are considered
 proper nouns and are capitalized when spelled out.
 
-Examples
-infrastructure as a service (IaaS)
-dynamic-link library (DLL)
-High-Definition Multimedia Interface (HDMI)
+**Examples**</br>infrastructure as a service (IaaS)</br>dynamic-link library (DLL)<br>High-Definition Multimedia Interface (HDMI)
 
 #### Use *a* or *an,* depending on pronunciation
 
 Which article (*a* or *an*) you use depends on whether you pronounce the acronym like a word or pronounce each letter.
 
-Examples
-a DLL
-an ISP
-a URL
-an SQL database
-Add *s* to make an acronym plural
+**Examples**</br>a DLL</br>an ISP</br>a URL</br>an SQL database
+
+**Add *s* to make an acronym plural**
 
 Form the plural of an acronym like you would any other noun. If the acronym stands for a singular noun, add a lowercase *s* to make it plural. If an acronym stands for a plural noun, don’t add an *s.*
 
-Examples
-three APIs
-Microsoft Foundation Classes (MFC)
+**Examples**</br>three APIs</br>Microsoft Foundation Classes (MFC)
 
 #### Avoid the possessive form
 
 Unless an acronym refers to a person or an organization, avoid using the possessive form.
 
-Examples
-the IDE enhancements
-the purpose of the FAQ
-the CEO’s blog
+**Examples**</br>the IDE enhancements</br>the purpose of the FAQ</br>the CEO’s blog
 
-Global tip In machine-translated content, be careful with acronyms that form common English words, like *RAM.* If the acronym appears outside of the parentheses and without the spelled-out version, it might be translated incorrectly.
+**Global tip** In machine-translated content, be careful with acronyms that form common English words, like *RAM.* If the acronym appears outside of the parentheses and without the spelled-out version, it might be translated incorrectly.
 
-See also [Bits and bytes term list](/style-guide/a-z-word-list-term-collections/term-collections/bits-bytes-terms), [Units of measure term list](/style-guide/a-z-word-list-term-collections/term-collections/units-of-measure-terms)
+**See also** [Bits and bytes term list](/style-guide/a-z-word-list-term-collections/term-collections/bits-bytes-terms), [Units of measure term list](/style-guide/a-z-word-list-term-collections/term-collections/units-of-measure-terms)

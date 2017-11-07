@@ -21,7 +21,7 @@ scanning, and organize content into discrete, scannable chunks.
   - Use the styles built into your template to break up text blocks and incorporate useful white space.
   - Consider callouts, pull quotes, sidebars, and tables to add interesting entry points to longer content.
 
- Learn more about [writing for scannability](/style-guide/scannable-content/).
+ **Learn more** about [writing for scannability](/style-guide/scannable-content/).
 
 #### Headings
 
@@ -36,7 +36,7 @@ Write short, specific headings to create a visual, scannable list of topics with
   - Follow [](https://microsoft.sharepoint.com/teams/BrandCentral/Guidelines/Microsoft_type_guidelines.pdf)[brand type guidelines](https://microsoft.sharepoint.com/teams/BrandCentral/Pages/The-Microsoft-brand-Core-elements-Type.aspx) for heading fonts. (This document requires Microsoft network access.)
   - Use run-in headings (sometimes called bold lead-ins) to call attention to tips, notes, warnings, and cross-references.
 
- Learn more about [headings](/style-guide/scannable-content/headings).
+ **Learn more** about [headings](/style-guide/scannable-content/headings).
 
 #### Lists
 
@@ -54,4 +54,4 @@ Create lists to simplify complex content.
     items are complete sentences (unless all list items are three or fewer
     words).
 
- Learn more about [lists](/style-guide/scannable-content/lists).
+ **Learn more** about [lists](/style-guide/scannable-content/lists).

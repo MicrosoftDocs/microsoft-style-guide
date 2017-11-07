@@ -6,528 +6,79 @@ For information about describing customers' interactions with UI, see [Procedure
 
 #### Keyboard actions and access
 
-<table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><b>Term</b></td>
-<td><b>Usage</b></td>
-</tr>
-<tr class="even">
-<td><div>
-<b>keyboard shortcut, accelerator key, fast key, hot key, quick key, speed key</b>
-</div></td>
-<td><span style="font-size:small;">In general, use </span><em><span style="font-size:small;">keyboard shortcut</span></em> <span style="font-size:small;">to describe a combination of keystrokes used to perform a task.<br />
-</span><span style="font-size:small;color:#107C10;">Example</span><span style="font-size:small;"> Alt+Ctrl+S<br />
-<br />
-</span><span style="font-size:small;"><span style="font-size:small;">Don’t use </span><em>accelerator key,</em> <em>fast key, hot key, quick key,</em> <span style="font-size:small;">or </span><em>speed key.</em></span></td>
-</tr>
-<tr class="odd">
-<td><b>access key</b></td>
-<td><span style="font-size:small;">Don’t use in content for a general audience. Use <em>keyboard shortcut</em> instead.<br />
-</span><br />
-<span style="font-size:small;"><span style="font-size:small;">In content for developers or content about customizing the UI, it’s OK to distinguish between an </span><em>access key</em> <span style="font-size:small;">and a </span><em>shortcut key</em><span style="font-size:small;">. </span></span><span style="font-size:small;">An access key is a letter or number that users select to access UI controls that have text labels. For example, the </span><em><span style="font-size:small;">F</span></em><span style="font-size:small;"> in Alt+F. A shortcut key is a key or key combination that users select to perform a common action. For example, Ctrl+V. If you use these terms, explain the difference. </span><br />
-</td>
-</tr>
-<tr class="even">
-<td><span style="font-family:&#39;Segoe UI Semibold&#39;;font-size:small;">Key Tip</span></td>
-<td><span style="font-size:small;">In general, don’t use in content for a general audience. Use <em>keyboard shortcut</em> instead. </span><br />
-<br />
-<span style="font-size:small;">In content teaching basic skills or content for a technical audience, it's OK to use <em>Key Tip</em> to refer to the letter or number that appears in the ribbon when the Alt key is pressed.</span></td>
-</tr>
-<tr class="odd">
-<td><div>
-<b>key combination</b>
-</div></td>
-<td><div>
-<span style="font-size:small;"><span style="font-size:small;">Don’t use in content for a general audience. Use </span><em>keyboard shortcut</em><span style="font-size:small;"> instead.<br />
-<br />
-</span></span><span style="font-size:small;"><span style="font-size:small;">In content for a technical audience, it’s OK to distinguish between a</span> <em>key combination</em><span style="font-size:small;"> (two or more keys selected simultaneously) and a </span><em>key</em> <em>sequence</em><span style="font-size:small;"> (two or more keys selected sequentially). If you use these terms, explain the difference.</span></span>
-</div></td>
-</tr>
-<tr class="even">
-<td><div>
-<b>key sequence</b>
-</div></td>
-<td><div>
-<span style="font-size:small;"><span style="font-size:small;">Don’t use in content for a general audience. Use </span><em>keyboard shortcut</em><span style="font-size:small;"> instead.</span></span>
-</div>
-<div>
-<span style="font-size:small;"><span style="font-size:small;"><br />
-In content for a technical audience, it’s OK to distinguish between a </span><em>key</em> <em>sequence</em><span style="font-size:small;"> (two or more keys selected sequentially) and a </span><em>key combination</em><span style="font-size:small;"> (two or more keys selected simultaneously). If you use these terms, explain the difference.</span></span>
-</div></td>
-</tr>
-<tr class="odd">
-<td><span style="font-family:&#39;Segoe UI Semibold&#39;;font-size:small;">keypad</span></td>
-<td><span style="font-size:small;">Use <em>numeric keypad</em> <span style="font-family:&#39;Segoe UI&#39;;">on the first mention. Don't use </span><em>keypad</em> <span style="font-family:&#39;Segoe UI&#39;;">by itself unless the context has been established and there's no possibility the customer will confuse the keypad with the keyboard. When in doubt, continue to use </span><em>numeric keypad.</em><span style="font-family:&#39;Segoe UI&#39;;"><br />
-<br />
-</span></span><span style="font-size:small;">In general, don't distinguish between the keyboard and the numeric keypad. When the customer can select two keys that look the same, direct the customer to the correct key.<br />
-</span><span style="color:#006600;font-size:small;">Example </span><span style="color:#222222;font-size:small;">Select </span><span style="font-size:small;">the Minus sign on the numeric keypad, not the Hyphen key on the keyboard.<br />
-<br />
-Each group must resolve any problems that this approach might cause because of how certain keyboards and keypads function.</span></td>
-</tr>
-<tr class="even">
-<td><div>
-<b>keystroke, keypress</b>
-</div></td>
-<td><div>
-<span style="font-size:small;">Don’t use </span><em><span style="font-size:small;">keypress</span></em><span style="font-size:small;">. Use </span><em><span style="font-size:small;">keystroke</span></em><span style="font-size:small;"> instead.</span>
-</div></td>
-</tr>
-<tr class="odd">
-<td><div>
-<b>select, press, depress, hit, strike, use</b>
-</div></td>
-<td><div>
-<span style="font-family:Segoe UI;font-size:small;">Use <em>select</em> to describe pressing a key on a physical or on-screen keyboard. </span><span style="font-size:small;"><span style="font-size:small;">Don’t use <em>press,</em> </span><em>depress, hit,</em> <span style="font-size:small;">or </span><em>strike.</em></span><span style="font-size:small;"><span style="font-size:small;"><br />
-<br />
-</span></span><span style="font-size:small;"><span style="font-size:small;">Don’t use </span><em>depressed</em><span style="font-size:small;"> to describe an indented toolbar button unless you have no other choice.</span></span><br />
-<span style="font-family:Segoe UI;font-size:small;"><br />
-Use </span><em><span style="font-family:Segoe UI;font-size:small;">use</span></em> <span style="font-family:Segoe UI;font-size:small;"><span style="font-family:Segoe UI;font-size:small;">when <em>select</em> might be confusing, such as when referring to the arrow keys or function keys and</span><span style="font-family:Segoe UI;font-size:small;"> <em>select</em> </span></span><em><span style="font-family:Segoe UI;font-size:small;"></span></em><span style="font-family:Segoe UI;font-size:small;"><span style="font-family:Segoe UI;font-size:small;">might make customers think that they need to select all the arrow keys simultaneously.<br />
-</span></span><span style="color:#006600;font-family:Segoe UI;font-size:small;">Example</span><span style="font-family:Segoe UI;font-size:small;"> Use the arrow keys to move around the text<span style="font-family:Segoe UI;font-size:small;">.<br />
-</span></span><br />
-<span style="font-family:Segoe UI;font-size:small;">Use </span><em><span style="font-family:Segoe UI;font-size:small;">use</span></em> <span style="font-family:Segoe UI;font-size:small;"><span style="font-family:Segoe UI;font-size:small;">when multiple platform or peripheral choices initiate the same action or actions within a program.<br />
-</span></span><span style="color:#006600;font-family:Segoe UI;font-size:small;">Example</span> <span style="font-family:Segoe UI;font-size:small;"><span style="font-family:Segoe UI;font-size:small;"></span>Use the controls on your keyboard or controller to run through the obstacle course<span style="font-family:Segoe UI;font-size:small;">.</span></span><span style="font-family:&#39;Segoe UI&#39;;"><br />
-<br />
-</span><span style="font-family:Segoe UI;font-size:small;"><span style="font-family:Segoe UI;font-size:small;">Be specific when teaching beginning skills.<br />
-</span></span><span style="color:#006600;font-family:Segoe UI;font-size:small;">Example</span> <span style="font-family:Segoe UI;font-size:small;"><span style="font-family:Segoe UI;font-size:small;"></span>To run through the obstacle course, select the Spacebar on the keyboard or pull the right trigger on the Xbox controller<span style="font-family:Segoe UI;font-size:small;">.</span></span><br />
-<br />
-<span style="font-family:Segoe UI;font-size:small;">Consider using a table to present instructions that have more than two alternatives.</span><br />
-<span style="font-family:Segoe UI;font-size:small;"><br />
-Use <em>select</em> </span><em><span style="font-family:Segoe UI;font-size:small;">and hold</span></em><span style="font-family:Segoe UI;font-size:small;"> only if a delay is built into the software or hardware interaction. Don't use <em>select</em> </span><em><span style="font-family:Segoe UI;font-size:small;">and hold</span></em><span style="font-family:Segoe UI;font-size:small;"> when referring to a mouse button unless you're teaching beginning skills. </span><br />
-<span style="color:#000000;font-family:Segoe UI Semibold;font-size:small;"><br />
-</span><span style="color:#000000;font-family:Segoe UI Semibold;font-size:small;">See also</span> <span style="font-family:Segoe UI;font-size:small;"><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=26472">Describing interactions with UI</a></span><span style="font-size:small;">, <a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=29013">Mouse and mouse interaction term collection</a></span>
-</div></td>
-</tr>
-<tr class="even">
-<td><div>
-<b>shortcut key</b>
-</div></td>
-<td><div>
-<span style="font-size:small;">Don’t use in content for a general audience. Use </span><em><span style="font-size:small;">keyboard shortcut</span></em><span style="font-size:small;"> instead.<br />
-</span>
-</div>
-<div>
-<span style="font-size:small;"><span style="font-size:small;"><br />
-In content for developers or content about customizing the UI, it’s OK to distinguish between an </span><em>access key</em> <span style="font-size:small;">and a </span><em>shortcut key</em></span><span style="font-size:small;">. </span><span style="font-size:small;">An access key is a letter or number that users select to access UI controls that have text labels. For example, the </span><em><span style="font-size:small;">F</span></em> <span style="font-size:small;">in Alt+F. A shortcut key is a key or key combination that users select to perform a common action. For example, Ctrl+V. </span><span style="font-size:small;">If you use these terms, explain the difference.</span>
-</div></td>
-</tr>
-</tbody>
-</table>
+**Term**|**Usage**
+---|---
+**keyboard shortcut, accelerator key, fast key, hot key, quick key, speed key**|In general, use keyboard shortcut to describe a combination of keystrokes used to perform a task. <br />**Example** Alt+Ctrl+S <br /><br />Don’t use *accelerator key*, *fast key*, *hot key*, *quick key*, or *speed key*.
+**access key**|Don’t use in content for a general audience. Use *keyboard shortcut* instead. <br /><br />In content for developers or content about customizing the UI, it’s OK to distinguish between an *access key* and a *shortcut key*. An access key is a letter or number that users select to access UI controls that have text labels. For example, the *F* in Alt+F. A shortcut key is a key or key combination that users select to perform a common action. For example, Ctrl+V. If you use these terms, explain the difference. 
+**Key Tip**|In general, don’t use in content for a general audience. Use *keyboard shortcut* instead. <br /><br />In content teaching basic skills or content for a technical audience, it's OK to use *Key Tip* to refer to the letter or number that appears in the ribbon when the Alt key is pressed.
+**key combination**|Don’t use in content for a general audience. Use *keyboard shortcut* instead.<br /><br />In content for a technical audience, it’s OK to distinguish between a *key combination* (two or more keys selected simultaneously) and a *key sequence* (two or more keys selected sequentially). If you use these terms, explain the difference.
+**key sequence**|Don’t use in content for a general audience. Use *keyboard shortcut* instead.<br /><br />In content for a technical audience, it’s OK to distinguish between a *key sequence* (two or more keys selected sequentially) and a *key combination* (two or more keys selected simultaneously). If you use these terms, explain the difference.
+**keypad**|Use *numeric keypad* on the first mention. Don't use *keypad* by itself unless the context has been established and there's no possibility the customer will confuse the keypad with the keyboard. When in doubt, continue to use *numeric keypad*. <br /><br />In general, don't distinguish between the keyboard and the numeric keypad. When the customer can select two keys that look the same, direct the customer to the correct key. <br />**Example** Select the Minus sign on the numeric keypad, not the Hyphen key on the keyboard.  <br /><br />Each group must resolve any problems that this approach might cause because of how certain keyboards and keypads function.
+**keystroke, keypress**|Don’t use *keypress*. Use *keystroke* instead.
+**select, press, depress, hit, strike, use**|Use *select* to describe pressing a key on a physical or on-screen keyboard. Don’t use *press*, *depress*, *hit*, or *strike*.<br /><br />Don’t use *depressed* to describe an indented toolbar button unless you have no other choice.<br /><br />Use *use* when *select* might be confusing, such as when referring to the arrow keys or function keys and *select* might make customers think that they need to select all the arrow keys simultaneously.<br />**Example** Use the arrow keys to move around the text.<br /><br />Use *use* when multiple platform or peripheral choices initiate the same action or actions within a program. <br />**Example** Use the controls on your keyboard or controller to run through the obstacle course. <br /><br />Be specific when teaching beginning skills. <br />**Example** To run through the obstacle course, select the Spacebar on the keyboard or pull the right trigger on the Xbox controller. <br /><br />Consider using a table to present instructions that have more than two alternatives.<br /><br />Use *select and hold* only if a delay is built into the software or hardware interaction. Don't use *select and hold* when referring to a mouse button unless you're teaching beginning skills. <br /><br />**See also** [Describing interactions with UI](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26472), [Mouse and mouse interaction term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=29013)
+**shortcut key**|Don’t use in content for a general audience. Use *keyboard shortcut* instead.<br /><br />In content for developers or content about customizing the UI, it’s OK to distinguish between an *access key* and a *shortcut key*. An access key is a letter or number that users select to access UI controls that have text labels. For example, the *F* in Alt+F. A shortcut key is a key or key combination that users select to perform a common action. For example, Ctrl+V. If you use these terms, explain the difference.
+
 
 #### Key names
 
-  - In general, use sentence capitalization for key names.</br>    Examples</br>    the Shift key</br>    the Page up key
-  - Capitalize letter keys in general references.</br>    Example the K key
-  - Lowercase and bold a letter key when instructing customers to enter the letter (unless you're instructing them to enter a capital letter).</br>    Example enter k
-  - On the first mention, you can use the definite article *the* and the word *key* with the key name if necessary for clarity. </br> Example Select the F1 key. 
-  - On subsequent mentions, refer to the key by its name only. </br>    Example Select F1.
+  - In general, use sentence capitalization for key names.<br />    **Examples**<br />    the Shift key<br />    the Page up key
+  - Capitalize letter keys in general references.<br />    **Example** the K key
+  - Lowercase and bold a letter key when instructing customers to enter the letter (unless you're instructing them to enter a capital letter).<br />    **Example** enter k
+  - On the first mention, you can use the definite article *the* and the word *key* with the key name if necessary for clarity. <br /> **Example** Select the F1 key. 
+  - On subsequent mentions, refer to the key by its name only. <br />    Example Select F1.
 
 If
 you need guidance for a key name that isn't on this list, use sentence
 capitalization and spell it as it appears on the keyboard.
 
-<table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><b>Term</b></td>
-<td><b>Usage</b></td>
-</tr>
-<tr class="even">
-<td><div>
-<b>Alt</b>
-</div></td>
-<td><div>
-<span style="font-size:small;"><span style="font-size:small;">Capitalize. Use to refer to the </span><em>Alt key.</em></span>
-</div></td>
-</tr>
-<tr class="odd">
-<td><div>
-<b>Application key</b>
-</div></td>
-<td><div>
-<span style="font-size:small;">Capitalize. Use <em>the Application key</em> to refer to the key that opens a shortcut menu containing commands related to a selection. </span>
-</div></td>
-</tr>
-<tr class="even">
-<td><div>
-<b>arrow keys, direction keys, directional keys, movement keys</b>
-</div></td>
-<td><div>
-<span style="font-size:small;"><span style="font-size:small;">Arrow keys are labeled only with an arrow. Refer to similar keys on the numeric keypad as </span><em>the</em> <em>arrow keys on the numeric keypad</em><span style="font-size:small;">.</span></span>
-</div>
-<div>
-<span style="font-size:small;"><span style="font-size:small;"><br />
-Use sentence capitalization to refer to a specific arrow key: </span><em>the Left arrow key, the Right arrow key, the Up arrow key,</em><span style="font-size:small;"> or </span><em>the</em> <em>Down arrow</em> <em>key</em><span style="font-size:small;">. It’s OK to use </span><em>arrow key</em><span style="font-size:small;"> as a general term for any single arrow key. Include </span><em>the</em><span style="font-size:small;"> and </span><em>key</em><span style="font-size:small;"> in references to a specific arrow key except in key combinations or key sequences.</span></span>
-</div>
-<div>
-<span style="font-size:small;"><span style="font-size:small;"><br />
-Don’t use </span><em>direction keys</em><span style="font-size:small;">, </span><em>directional keys</em><span style="font-size:small;">, or </span><em>movement keys</em><span style="font-size:small;">.</span></span>
-</div>
-<div>
-<span style="font-size:small;"><span style="font-size:small;"><br />
-Use specific names to refer to other navigational keys, such as </span><em>Page up</em><span style="font-size:small;">, </span><em>Page down</em><span style="font-size:small;">, </span><em>Home</em><span style="font-size:small;">, and </span><em>End</em><span style="font-size:small;">.</span></span>
-</div></td>
-</tr>
-<tr class="odd">
-<td><div>
-<b>asterisk (*), star</b>
-</div></td>
-<td><div>
-<span style="font-size:small;"><span style="font-size:small;">Use </span><em>asterisk</em><span style="font-size:small;"> to refer to the * symbol.</span></span>
-</div>
-<div>
-<span style="font-size:small;"><br />
-An asterisk is used to indicate multiplication in a programming language or as a wildcard character representing one or more characters.</span>
-</div>
-<div>
-<span style="font-size:small;"><span style="font-size:small;"><br />
-It’s OK to use </span><em>star</em><span style="font-size:small;"> to refer to the key on a phone keypad. </span></span>
-</div></td>
-</tr>
-<tr class="even">
-<td><div>
-<b>at sign (@)</b>
-</div></td>
-<td><div>
-<span style="font-size:small;"><span style="font-size:small;">Pronounced </span><em>at</em><span style="font-size:small;">. In most cases, don’t spell out. </span></span>
-</div></td>
-</tr>
-<tr class="odd">
-<td><div>
-<b>Back</b>
-</div></td>
-<td><div>
-<span style="font-size:small;font-:10pt;"><span style="font-size:small;">Capitalize. Use to refer to the </span><em>Back key,</em><span style="font-size:small;"> which performs the same action as the </span></span><span style="font-family:Segoe UI Semibold;font-size:small;font-:10pt;"><span style="font-family:Segoe UI;">Back</span><span style="font-size:small;"> </span></span><span style="font-size:small;font-:10pt;"><span style="font-size:small;">button in a browser.</span></span>
-</div></td>
-</tr>
-<tr class="even">
-<td><b>Backspace</b></td>
-<td><div>
-<span style="font-size:small;font-:10pt;"><span style="font-size:small;">Capitalize. Use to refer to the </span><em>Backspace key.</em></span>
-</div></td>
-</tr>
-<tr class="odd">
-<td><div>
-<b>backtab</b>
-</div></td>
-<td><div>
-<span style="font-size:small;font-:10pt;">Don’t use to refer to the Shift+Tab keyboard shortcut.</span>
-</div></td>
-</tr>
-<tr class="even">
-<td><div>
-<b>Break caps</b>
-</div></td>
-<td><div>
-<span style="font-size:small;"><span style="font-size:small;">Use sentence capitalization. Use to refer to the </span><em>Break caps key.</em></span>
-</div></td>
-</tr>
-<tr class="odd">
-<td><b>Caps lock</b></td>
-<td><span style="font-family:Segoe UI;font-size:small;">Use sentence capitalization. Use to refer to the </span><em><span style="font-family:Segoe UI;font-size:small;">Caps lock</span></em> <span style="font-family:Segoe UI;font-size:small;"><em>key.</em></span></td>
-</tr>
-<tr class="even">
-<td><div>
-<b>comma (,)</b>
-</div></td>
-<td><div>
-<span style="font-size:small;"><span style="font-size:small;">Spell out </span><em>comma</em><span style="font-size:small;"> when referring to a key or the punctuation mark.<br />
-<br />
-Capitalize </span><em>Comma</em> <span style="font-size:small;">when instructing a reader to select the key. Include the symbol in parentheses when needed for clarity.</span></span>
-</div></td>
-</tr>
-<tr class="odd">
-<td><div>
-<b>Command</b>
-</div></td>
-<td><div>
-<span style="font-size:small;"><span style="font-size:small;">Capitalize. Use to refer to the </span><em>Command key</em> <span style="font-size:small;">on the Mac keyboard. Use the bitmap to show this key if possible. It isn't named on the keyboard.</span></span>
-</div></td>
-</tr>
-<tr class="even">
-<td><div>
-<b>Control</b>
-</div></td>
-<td><div>
-<span style="font-size:small;"><span style="font-size:small;">Capitalize. Use to refer to the </span><em>Control key</em> <span style="font-size:small;">on the Mac keyboard. </span></span>
-</div></td>
-</tr>
-<tr class="odd">
-<td><div>
-<b>Ctrl</b>
-</div></td>
-<td><div>
-<span style="font-size:small;"><span style="font-size:small;">Capitalize. Use to refer to the </span><em>Ctrl key.</em> <span style="font-size:small;">Don’t use for the Mac keyboard.</span></span>
-</div></td>
-</tr>
-<tr class="even">
-<td><div>
-<b>Del</b>
-</div></td>
-<td><div>
-<span style="font-size:small;"><span style="font-size:small;">Capitalize. Use to refer to the </span><em>Del key</em><span style="font-size:small;">. On the Mac keyboard only, use to refer to the <em>forward delete key.</em></span></span>
-</div></td>
-</tr>
-<tr class="odd">
-<td><div>
-<b>Delete</b>
-</div></td>
-<td><div>
-<span style="font-size:small;">Capitalize. Use to refer to the <em>back delete key</em> on the Mac keyboard.</span>
-</div></td>
-</tr>
-<tr class="even">
-<td><div>
-<b>End</b>
-</div></td>
-<td><div>
-<span style="font-size:small;"><span style="font-size:small;">Capitalize. Use to refer to the </span><em>End key.</em></span>
-</div></td>
-</tr>
-<tr class="odd">
-<td><div>
-<b>Enter</b>
-</div></td>
-<td><div>
-<span style="font-size:small;"><span style="font-size:small;">Capitalize. Use to refer to the </span><em>Enter key.</em> <span style="font-size:small;">On the Mac, use only when functionality requires it.</span></span>
-</div></td>
-</tr>
-<tr class="even">
-<td><div>
-<b>Esc</b>
-</div></td>
-<td><div>
-<span style="font-size:small;"><span style="font-size:small;">Always use </span><em>Esc</em><span style="font-size:small;">, not </span><em>Escape</em><span style="font-size:small;">.</span></span>
-</div></td>
-</tr>
-<tr class="odd">
-<td><div>
-<b>F1–F12 </b>
-</div></td>
-<td><span style="font-size:small;">Capitalize the </span><em><span style="font-size:small;">F.</span></em> <span style="font-size:small;">Don't add a space between the </span><em><span style="font-size:small;">F</span></em> <span style="font-size:small;">and the number.</span></td>
-</tr>
-<tr class="even">
-<td><div>
-<b>Forward</b>
-</div></td>
-<td><div>
-<span style="font-size:small;">Capitalize. Use to refer to the </span><span style="font-size:small;"><em>Forward key</em></span><span style="font-size:small;">,</span> <em></em> <span style="font-size:small;">which performs the same action as the </span><span style="font-family:Segoe UI;font-size:small;">Forward button </span><span style="font-size:small;">in a browser.</span>
-</div></td>
-</tr>
-<tr class="odd">
-<td><div>
-<b>Help</b>
-</div></td>
-<td><div>
-<span style="font-size:small;"><span style="font-size:small;">Use </span><em>the</em> <em>Help key</em><span style="font-size:small;"> only to refer to the key on the Mac keyboard.</span></span>
-</div></td>
-</tr>
-<tr class="even">
-<td><div>
-<b>HELP key</b>
-</div></td>
-<td><div>
-<span style="font-size:small;"><span style="font-size:small;">Use </span><em>the HELP</em> <em>key</em> <span style="font-size:small;">to avoid confusion with </span>the Help button<em>.</em> Always i<span style="font-size:small;">nclude </span><em>the</em> <span style="font-size:small;">and </span><em>key.</em></span>
-</div></td>
-</tr>
-<tr class="odd">
-<td><div>
-<b>Home</b>
-</div></td>
-<td><div>
-<span style="font-size:small;"><span style="font-size:small;">Capitalize. Use to refer to the </span><em>Home key.</em></span>
-</div></td>
-</tr>
-<tr class="even">
-<td><div>
-<b>hyphen (-)</b>
-</div></td>
-<td><div>
-<span style="font-size:small;"><span style="font-size:small;">Spell out </span><em>hyphen</em> <span style="font-size:small;">when referring to a key. Capitalize </span><em>Hyphen</em> when instructing a reader to select the key. Include the symbol in parentheses when needed for clarity.</span>
-</div></td>
-</tr>
-<tr class="odd">
-<td><div>
-<b>Insert</b>
-</div></td>
-<td><div>
-<span style="font-size:small;"><span style="font-size:small;">Capitalize. Use to refer to the </span><em>Insert key.</em></span>
-</div></td>
-</tr>
-<tr class="even">
-<td><div>
-<b>Lock clear</b>
-</div></td>
-<td><div>
-<span style="font-size:small;"><span style="font-size:small;">Capitalize. Use to refer to the </span><em>Lock clear key</em><span style="font-size:small;">.</span></span>
-</div></td>
-</tr>
-<tr class="odd">
-<td><div>
-<b>minus sign (–)</b>
-</div></td>
-<td><div>
-<span style="font-size:small;"><span style="font-size:small;">Spell out </span><em>minus sign</em> <span style="font-size:small;">when referring to a key. Use sentence capitalization (</span></span><em><span style="font-size:small;">Minus sign)</span></em> <span style="font-size:small;">when instructing a reader to select the key. Include the symbol in parentheses when needed for clarity. </span><span style="font-family:Segoe UI;font-size:small;"><br />
-HTML code: </span><em><span style="font-family:Segoe UI;font-size:small;">&amp;#150;</span></em>
-</div></td>
-</tr>
-<tr class="even">
-<td><div>
-<b>Num lock option</b>
-</div></td>
-<td><div>
-<span style="font-size:small;"><span style="font-size:small;">Use sentence capitalization. Use to refer to the </span><em>Num lock option key</em><span style="font-size:small;"> on the Mac keyboard.</span></span>
-</div></td>
-</tr>
-<tr class="odd">
-<td><div>
-<b>number sign (#), pound key, hashtag</b>
-</div></td>
-<td><div>
-<span style="font-size:small;"><span style="font-size:small;">Use </span><em># key</em><span style="font-size:small;"> to describe the key. </span></span>
-</div>
-<div>
-<span style="font-size:small;"><span style="font-size:small;"><br />
-</span></span><span style="font-size:small;"><span style="font-size:small;">It’s OK to use </span><em>pound key (#)</em><span style="font-size:small;">, including the symbol in parentheses, to refer to the keypad on a telephone.</span></span> <span style="font-size:small;"><span style="font-size:small;"></span></span><span style="font-size:small;">It's OK to use </span><em>hashtag (#)</em> <span style="font-size:small;">to describe the use of the # key to identify a metadata term in social media.</span>
-</div></td>
-</tr>
-<tr class="even">
-<td><div>
-<b>numeric keypad, keypad, numerical keypad, numeric keyboard</b>
-</div></td>
-<td><div>
-<span style="font-size:small;"><span style="font-size:small;">Use </span><em>numeric keypad</em><span style="font-size:small;"> on first mention. Don’t use </span><em>keypad</em><span style="font-size:small;"> by itself unless there's no possibility of confusion with the keyboard. Don’t use </span><em>numerical keypad</em> or <em>numeric keyboard.</em> </span>
-</div>
-<div>
-<span style="font-size:small;"><span style="font-size:small;"><br />
-In general, don’t distinguish between the keyboard and the numeric keypad. If a customer can select two keys that look the same, specify the correct key.<br />
-</span></span><span style="color:#107C10;font-family:Segoe UI;font-size:small;">Example</span><span style="font-size:small;"> Select the Minus sign on the numeric keypad.</span>
-</div></td>
-</tr>
-<tr class="odd">
-<td><div>
-<b>on-screen keyboard, keyboard display, soft keyboard, virtual keyboard, visual keyboard</b>
-</div></td>
-<td><div>
-<span style="font-family:Segoe UI;font-size:small;">Use to describe the keyboard representation on the screen that the customer touches to enter characters.<br />
-<br />
-</span><span style="font-size:small;"><span style="font-size:small;">Hyphenate </span><em>on-screen keyboard</em><span style="font-size:small;">. </span></span><span style="font-size:small;"><span style="font-size:small;">Don’t use </span><em>virtual keyboard</em><span style="font-size:small;">, </span><em>soft keyboard</em><span style="font-size:small;">, </span><em>visual keyboard</em><span style="font-size:small;">, or </span><em>keyboard display</em><span style="font-size:small;">.</span></span>
-</div></td>
-</tr>
-<tr class="even">
-<td><div>
-<b>Page down, Page up</b>
-</div></td>
-<td><div>
-<span style="font-size:small;"><span style="font-size:small;">Use sentence capitalization. Use to refer to the </span><em>Page up key</em> <span style="font-size:small;">and the </span><em>Page down key.</em></span>
-</div></td>
-</tr>
-<tr class="odd">
-<td><div>
-<b>Pause</b>
-</div></td>
-<td><div>
-<span style="font-size:small;"><span style="font-size:small;">Capitalize. Use to refer to the </span><em>Pause key.</em></span>
-</div></td>
-</tr>
-<tr class="even">
-<td><div>
-<b>period (.)</b>
-</div></td>
-<td><div>
-<span style="font-size:small;"><span style="font-size:small;">Spell out </span><em>period</em><span style="font-size:small;"> when referring to a key. Capitalize </span><em>Period</em> <span style="font-size:small;">when instructing a reader to select the key. Include the symbol in parentheses when needed for clarity.</span></span>
-</div></td>
-</tr>
-<tr class="odd">
-<td><div>
-<b>plus sign (+)</b>
-</div></td>
-<td><div>
-<span style="font-size:small;"><span style="font-size:small;">Spell out </span><em>plus sign</em><span style="font-size:small;"> when referring to a key. Use sentence capitalization (</span><em>Plus sign)</em><span style="font-size:small;"> when instructing a reader to select the key. Include the symbol in parentheses when needed for clarity. </span></span>
-</div></td>
-</tr>
-<tr class="even">
-<td><div>
-<b>Print screen </b>
-</div></td>
-<td><div>
-<span style="font-size:small;"><span style="font-size:small;">Use sentence capitalization. Use to refer to the </span><em>Print screen key.</em></span>
-</div></td>
-</tr>
-<tr class="odd">
-<td><div>
-<b>Reset</b>
-</div></td>
-<td><div>
-<span style="font-size:small;"><span style="font-size:small;">Capitalize. Use to refer to the </span><em>Reset</em><span style="font-size:small;"> <em>key</em>.</span></span>
-</div></td>
-</tr>
-<tr class="even">
-<td><div>
-<b>Return</b>
-</div></td>
-<td><div>
-<span style="font-size:small;"><span style="font-size:small;">Capitalize. Use to refer to the </span><em>Return key</em> on <span style="font-size:small;">the Mac keyboard.</span></span>
-</div></td>
-</tr>
-<tr class="odd">
-<td><div>
-<b>Scroll lock </b>
-</div></td>
-<td><div>
-<span style="font-size:small;"><span style="font-size:small;">Use sentence capitalization. Use to refer to the </span><em>Scroll lock key.</em></span>
-</div></td>
-</tr>
-<tr class="even">
-<td><div>
-<b>Select</b>
-</div></td>
-<td><div>
-<span style="font-size:small;"><span style="font-size:small;">Capitalize. Use to refer to the </span><em>Select</em> <span style="font-size:small;"><em>key</em>.</span></span>
-</div></td>
-</tr>
-<tr class="odd">
-<td><div>
-<b>Shift</b>
-</div></td>
-<td><div>
-<span style="font-size:small;"><span style="font-size:small;">Capitalize. Use to refer to the </span><em>Shift key.</em></span>
-</div></td>
-</tr>
-<tr class="even">
-<td><div>
-<b>Spacebar </b>
-</div></td>
-<td><div>
-<span style="font-size:small;"><span style="font-size:small;">Capitalize. Use to refer to </span>the <em>Spacebar.</em> <span style="font-size:small;">Always precede with </span><em>the</em> <span style="font-size:small;">except in procedures, key combinations, and key sequences.</span></span>
-</div></td>
-</tr>
-<tr class="odd">
-<td><div>
-<b>Tab </b>
-</div></td>
-<td><div>
-<span style="font-size:small;"><span style="font-size:small;">Capitalize. Use to refer to </span>the <em>Tab key.</em> <span style="font-size:small;">Always use </span><em>the</em><span style="font-size:small;"> and </span><em>key</em><span style="font-size:small;"> except in key combinations and key sequences.</span></span>
-</div></td>
-</tr>
-<tr class="even">
-<td><div>
-<b>Windows logo key</b>
-</div></td>
-<td><div>
-<span style="font-size:small;"><span style="font-size:small;">Capitalize </span><em>Windows.</em> <span style="font-size:small;">Use to refer to the </span><em>Windows logo key.</em></span>
-</div></td>
-</tr>
-</tbody>
-</table>
+**Term**|**Usage**
+--|--
+**Alt**|Capitalize. Use to refer to the *Alt key*.
+**Application key**|Capitalize. Use *the Application key* to refer to the key that opens a shortcut menu containing commands related to a selection.
+**arrow keys, direction keys, directional keys, movement keys**|Arrow keys are labeled only with an arrow. Refer to similar keys on the numeric keypad as *the arrow keys on the numeric keypad*.<br /><br />Use sentence capitalization to refer to a specific arrow key: *the Left arrow key, the Right arrow key, the Up arrow key, or the Down arrow key*. It’s OK to use *arrow key* as a general term for any single arrow key. Include *the* and *key* in references to a specific arrow key except in key combinations or key sequences.<br /><br />Don’t use *direction keys*, *directional keys*, or *movement keys*.<br /><br />Use specific names to refer to other navigational keys, such as *Page up*, *Page down*, *Home*, and *End*.
+**asterisk (*), star**|Use *asterisk* to refer to the \* symbol.<br /><br />An asterisk is used to indicate multiplication in a programming language or as a wildcard character representing one or more characters.<br /><br />It’s OK to use *star* to refer to the key on a phone keypad.
+**at sign (@)**|	Pronounced *at*. In most cases, don’t spell out.
+**Back**|	Capitalize. Use to refer to the *Back key*, which performs the same action as the Back button in a browser.
+**Backspace**|	Capitalize. Use to refer to the *Backspace key*.
+**backtab**|	Don’t use to refer to the Shift+Tab keyboard shortcut.
+**Break caps**|	Use sentence capitalization. Use to refer to the *Break caps key*.
+**Caps lock**|	Use sentence capitalization. Use to refer to the *Caps lock key*.
+**comma (,)**|Spell out *comma* when referring to a key or the punctuation mark. <br /><br />Capitalize *Comma* when instructing a reader to select the key. Include the symbol in parentheses when needed for clarity.
+**Command**|	Capitalize. Use to refer to the *Command key* on the Mac keyboard. Use the bitmap to show this key if possible. It isn't named on the keyboard.
+**Control**|	Capitalize. Use to refer to the *Control key* on the Mac keyboard.
+**Ctrl**|	Capitalize. Use to refer to the *Ctrl key*. Don’t use for the Mac keyboard.
+**Del**|	Capitalize. Use to refer to the *Del key*. On the Mac keyboard only, use to refer to the *forward delete key*.
+**Delete**|	Capitalize. Use to refer to the *back delete key* on the Mac keyboard.
+**End**|	Capitalize. Use to refer to the *End key*.
+**Enter**|	Capitalize. Use to refer to the *Enter key*. On the Mac, use only when functionality requires it.
+**Esc**|	Always use *Esc*, not *Escape*.
+**F1–F12**| 	Capitalize the *F*. Don't add a space between the *F* and the number.
+**Forward**|	Capitalize. Use to refer to the *Forward key*, which performs the same action as the Forward button in a browser.
+**Help**|	Use *the Help key* only to refer to the key on the Mac keyboard.
+**HELP key**|	Use *the HELP key* to avoid confusion with the Help button. Always include *the* and *key*.
+**Home**|	Capitalize. Use to refer to the *Home key*.
+**hyphen (-)**|	Spell out *hyphen* when referring to a key. Capitalize *Hyphen* when instructing a reader to select the key. Include the symbol in parentheses when needed for clarity.
+**Insert**|	Capitalize. Use to refer to the *Insert key*.
+**Lock clear**|	Capitalize. Use to refer to the *Lock clear key*.
+**minus sign (–)**|Spell out *minus sign* when referring to a key. Use sentence capitalization (*Minus sign*) when instructing a reader to select the key. Include the symbol in parentheses when needed for clarity.  <br />HTML code: \&#150;
+**Num lock option**|Use sentence capitalization. Use to refer to the *Num lock option key* on the Mac keyboard.
+**number sign (#), pound key, hashtag**|Use *# key* to describe the key.<br /><br />It’s OK to use *pound key (#)*, including the symbol in parentheses, to refer to the keypad on a telephone. It's OK to use *hashtag (#)* to describe the use of the # key to identify a metadata term in social media.
+**numeric keypad, keypad, numerical keypad, numeric keyboard**|Use *numeric keypad* on first mention. Don’t use *keypad* by itself unless there's no possibility of confusion with the keyboard. Don’t use *numerical keypad* or *numeric keyboard*.<br /><br />In general, don’t distinguish between the keyboard and the numeric keypad. If a customer can select two keys that look the same, specify the correct key. <br />**Example** Select the Minus sign on the numeric keypad.
+**on-screen keyboard, keyboard display, soft keyboard, virtual keyboard, visual keyboard**|Use to describe the keyboard representation on the screen that the customer touches to enter characters. <br /><br />Hyphenate *on-screen keyboard*. Don’t use *virtual keyboard*, *soft keyboard*, *visual keyboard*, or *keyboard display*.
+**Page down, Page up**|	Use sentence capitalization. Use to refer to the *Page up key* and the *Page down key*.
+**Pause**|	Capitalize. Use to refer to the *Pause key*.
+**period (.)**|	Spell out *period* when referring to a key. Capitalize *Period* when instructing a reader to select the key. Include the symbol in parentheses when needed for clarity.
+**plus sign (+)**|	Spell out *plus sign* when referring to a key. Use sentence capitalization (*Plus sign*) when instructing a reader to select the key. Include the symbol in parentheses when needed for clarity.
+**Print screen**|	Use sentence capitalization. Use to refer to the *Print screen key*.
+**Reset**|	Capitalize. Use to refer to the *Reset key*.
+**Return**|	Capitalize. Use to refer to the *Return key* on the Mac keyboard.
+**Scroll lock**|	Use sentence capitalization. Use to refer to the *Scroll lock key*.
+**Select**|	Capitalize. Use to refer to the *Select key*.
+**Shift**|	Capitalize. Use to refer to the *Shift key*.
+**Spacebar**|	Capitalize. Use to refer to the *Spacebar*. Always precede with the except in procedures, key combinations, and key sequences.
+**Tab**|	Capitalize. Use to refer to the *Tab key*. Always use *the* and *key* except in key combinations and key sequences.
+**Windows logo key**|	Capitalize *Windows*. Use to refer to the *Windows logo key*.
+
 
 #### Special character names
 
@@ -536,13 +87,12 @@ special character names could be confused with an action (such as
 \+) or be difficult to see, always spell out the following special
 character names: *Plus sign, Minus sign, Hyphen, Period,* and *Comma*. 
 
-To avoid confusion, it's OK to add the character in parentheses after spelling out the name.
-Example Plus sign (+) 
+To avoid confusion, it's OK to add the character in parentheses after spelling out the name.<br />**Example** Plus sign (+) 
 
 Use discretion. This might not be necessary for commonly used characters, such as the period (.).
 
 To show a key combination that includes punctuation requiring use of the Shift key, such as the question mark, use *Shift* and the name or symbol of the shifted key. Using the name of the unshifted key, such as *4* rather than *$*, could be confusing or even wrong. For example, the *?* and */* characters aren't shifted keys on every keyboard. Always spell out *Plus sign, Minus sign, Hyphen, Period,* and *Comma*.
 
-**Examples**</br>Ctrl+Shift+? </br>Ctrl+Shift+\* </br>Ctrl+Shift+Comma
+**Examples**<br />Ctrl+Shift+? <br />Ctrl+Shift+\* <br />Ctrl+Shift+Comma
 
 See also [Special character term collection](/style-guide/a-z-word-list-term-collections/term-collections/special-characters)
