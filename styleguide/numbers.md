@@ -173,7 +173,7 @@ Examples
 twenty-five fonts  
 the twenty-first day  
 
-#### #### Fractions and decimals
+#### Fractions and decimals
 
   - Express fractions in words, as symbols, or as decimals, whichever is most appropriate.  
   - In tables, align decimals on the decimal point. 
