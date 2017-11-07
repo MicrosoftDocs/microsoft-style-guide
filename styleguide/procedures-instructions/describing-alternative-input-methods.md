@@ -1,7 +1,6 @@
 ﻿# Describing alternative input methods
 
-If
-you use input-neutral methods in instructions, provide a topic
+If you use input-neutral methods in instructions, provide a topic
 that explains how to interact with the product using each available
 input method. (The topic can be in the product or included in
 documentation or Help.) To support customers regardless of their
@@ -13,8 +12,7 @@ Learn more To learn more about creating accessible content, see [Accessibility g
 
 #### Mouse procedures
 
-Be
-consistent in how you list mouse procedures. For example,
+Be consistent in how you list mouse procedures. For example,
 always list the mouse method before the keyboard method if
 you document both. Don’t combine keyboard and
 mouse actions as if they were keyboard shortcuts unless space is
@@ -24,19 +22,18 @@ See also [Mouse and mouse interaction term collection](/style-guide/a-z-word-lis
 
 #### Joystick procedures
 
-Assume
-that the mouse is the primary input device. Include joystick
+Assume that the mouse is the primary input device. Include joystick
 information in a table along with other alternative input devices. 
 
 Refer to joystick *controls*, not *options,* when you provide specific joystick procedures.
 
-Keyboard procedures
+#### Keyboard procedures
 
 Always document keyboard procedures for accessibility, even though they're indicated in UI by underlined letters.
 
 See also [Keys and keyboard shortcuts term collection](/style-guide/a-z-word-list-term-collections/term-collections/keys-keyboard-shortcuts) 
 
-Pen-computing and touch procedures
+#### Pen-computing and touch procedures
 
 Use *tap* and *double-tap* instead of *click* and *double-click* when writing content specific to touching a screen or using a tablet pen. *Tap* means to press the screen with a finger or pen tip and then to lift it, usually quickly.
 
@@ -101,7 +98,7 @@ Use *tap* and *double-tap* instead of *click* and *double-click* when writing co
 </tbody>
 </table>
 
-See also [Touch and pen interaction term collection](/style-guide/a-z-word-list-term-collections/term-collections/touch-pen-interaction-terms)
+**See also** [Touch and pen interaction term collection](/style-guide/a-z-word-list-term-collections/term-collections/touch-pen-interaction-terms)
 
 #### Multiple input methods and branching within procedures
 
@@ -122,6 +119,9 @@ To make webpages easier to see, you can change the text, background, link, and h
 <td><div style="text-align:left;" data-align="center">
 <b>Mouse actions </b>
 </div></td>
+<td><div style="text-align:left;" data-align="center">
+<b>Keyboard actions </b>
+</div></td>
 </tr>
 <tr class="even">
 <td><div>
@@ -133,6 +133,14 @@ To make webpages easier to see, you can change the text, background, link, and h
 </div>
 <ul>
 <li><span style="font-size:small;">Click </span><b>Internet Explorer</b><span style="font-family:Segoe UI;font-size:small;">.</span></li>
+</ul>
+</div></td>
+<td><div>
+<div>
+<span style="font-size:small;">Display the </span><b>Start</b><span style="font-size:small;"> menu by pressing the Windows logo  key:</span>
+</div>
+<ul>
+<li><span style="font-size:small;">Select </span><b>Internet Explorer</b> by using the arrow keys, and then press Enter.<span style="font-family:Segoe UI;font-size:small;"></span></li>
 </ul>
 </div></td>
 </tr>
@@ -147,15 +155,22 @@ To make webpages easier to see, you can change the text, background, link, and h
 <li><span style="font-size:small;">Click the </span><b>Tools</b> <span style="font-size:small;">menu.</span></li>
 <li><span style="font-size:small;">Click </span><b>Internet Options</b><span style="font-family:Segoe UI;font-size:small;">.</span></li>
 </ul></td>
+<td><div>
+<span style="font-size:small;">In Internet Explorer:</span>
+</div>
+<ul>
+<li><span style="font-size:small;">Select the </span><b>Tools</b> <span style="font-size:small;">menu by pressing Alt+T.</span></li>
+<li><span style="font-size:small;">Select </span><b>Internet Options</b><span style="font-family:Segoe UI;font-size:small;"> by pressing O.</span></li>
+</ul></td>
 </tr>
 </tbody>
 </table>
 
-Document the primary input method, and provide the alternative instructions in parentheses or separate sentences after the main instructions. 
+**Document the primary input method**, and provide the alternative instructions in parentheses or separate sentences after the main instructions. 
 
-Examples
-To pan, slide one finger in any direction (or drag the mouse pointer, or use the arrow keys).
-To copy the selection, click Copy on the toolbar. You can also press Ctrl+C.
+Examples  
+To pan, slide one finger in any direction (or drag the mouse pointer, or use the arrow keys).  
+To copy the selection, click Copy on the toolbar. You can also press Ctrl+C.  
 
 If there are multiple ways to perform an entire procedure and you must describe each one, use a table to detail the alternatives. This approach helps the customer decide when to use which method.
 
@@ -195,10 +210,9 @@ Example This table describes two ways to save a file.
 If one step has an alternative, make
 that alternative a separate paragraph in the step. In a
 single-step procedure, an alternative can be separated by the word *or* to make it clear that an alternative is available.
-Examples
-Press
-the key for the underlined letter in the menu name. You can also use
-the Left Arrow key or the Right Arrow key to move to another menu.
+
+Examples  
+Press the key for the underlined letter in the menu name. You can also use the Left Arrow key or the Right Arrow key to move to another menu.
 
   - Press Alt+the key for the underlined letter in the menu name. 
 
@@ -206,9 +220,9 @@ or
 
   - Use the Left Arrow key or the Right Arrow key to move to another menu. 
 
-For several choices within one procedure step, use a bulleted list.  
+**For several choices within one procedure step**, use a bulleted list.  
 
-Example
+Example  
 1\. Select the text that you want to move or copy.
  Do one of the following:
 
