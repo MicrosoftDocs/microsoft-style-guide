@@ -17,7 +17,7 @@ Use photos that are authentic, optimistic, and brave.
   - Avoid purchasing photos—look in the [Microsoft photo library](https://microsoft.sharepoint.com/teams/BrandCentral/Search/pages/BCPhotographyResults.aspx) first. (This site requires Microsoft network access.)
   - When you must create or purchase photos, follow the [Microsoft brand guidelines](https://microsoft.sharepoint.com/teams/BrandCentral/Pages/The-Microsoft-brand-Core-elements-Photography.aspx). (This site requires Microsoft network access.)
 
- Learn more about [photos](/style-guide/images-video/photos).
+ **Learn more** about [photos](/style-guide/images-video/photos).
 
 #### Illustrations
 
@@ -26,7 +26,7 @@ Use vividly colored illustrations, stylized with active geometry, that tell an e
   - If possible, use illustrations from the [Microsoft illustration library](https://microsoft.sharepoint.com/teams/BrandCentral/Pages/Bundles/Illustrations_Editable_AllCollections.aspx). (This site requires Microsoft network access.)
   - When you must create or purchase illustrations, follow the [Microsoft brand guidelines](https://microsoft.sharepoint.com/teams/BrandCentral/Pages/The-Microsoft-brand-Core-elements-Illustration.aspx). (This site requires Microsoft network access.)
 
- Learn more about [illustrations](/style-guide/images-video/illustrations)[](/style-guide/images-video/photos).
+ **Learn more** about [illustrations](/style-guide/images-video/illustrations)[](/style-guide/images-video/photos).
 
 #### Screenshots
 
@@ -37,7 +37,7 @@ Use screenshots sparingly to simplify complex procedures or concepts.
   - Accompany each screenshot with a caption or other text that reflects Microsoft voice and editorial style. 
   - Give your localization team or vendor the files and details they need to re-create the screenshot.
 
- Learn more about [screenshots](/style-guide/images-video/screenshots)[](/style-guide/images-video/illustrations).
+ **Learn more** about [screenshots](/style-guide/images-video/screenshots)[](/style-guide/images-video/illustrations).
 
 #### Network traffic flows
 
@@ -56,7 +56,7 @@ Illustrate network traffic consistently.
   - Represent security boundaries with solid vertical lines. Show traffic crossing them when appropriate.
   - Use standard syntax.
 
- Learn more about [network traffic flows](/style-guide/images-video/network-traffic-flows).
+ **Learn more** about [network traffic flows](/style-guide/images-video/network-traffic-flows).
 
 #### Video
 
@@ -79,4 +79,4 @@ and quality up.
   - Include full script captions for accessibility.
   - Use brand elements for opening and closing frames properly. (Check in with your marketing team, or use the [Microsoft end-card ](https://microsoft.sharepoint.com/teams/BrandCentral/Pages/Bundles/Microsoft_logo_endcard_animation.aspx)[animation and guidelines](https://microsoft.sharepoint.com/teams/BrandCentral/Pages/Bundles/Microsoft_logo_endcard_animation.aspx). (This page requires Microsoft network access.)
 
-Learn more about [video](/style-guide/images-video/video).
+**Learn more** about [video](/style-guide/images-video/video).
