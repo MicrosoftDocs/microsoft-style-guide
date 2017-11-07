@@ -1,4 +1,4 @@
-﻿# Hyphens
+  ﻿# Hyphens
 
 For information about hyphenating specific technology words, see the [A–Z word list](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25512). For information about hyphenating common words, see [*The American Heritage Dictionary*](https://ahdictionary.com/) and [*The Chicago Manual of Style*](http://www.chicagomanualofstyle.org/home.html). (If you have Microsoft network access, you can use *[The Chicago Manual of Style Online](http://aka.ms/mslibrary/cms)* through MS Library.)
 
@@ -6,10 +6,10 @@ For information about hyphenating specific technology words, see the [A–Z word
 
 Don't hyphenate a predicate adjective (an adjective that complements the subject of a sentence and follows a linking verb) unless the *Microsoft Writing Style Guide* specifically recommends it. Check the [A–Z word list](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25512) to find out.
 
-Examples
-The text is left aligned.
-The camera is built in.
-Many viruses are memory-resident.
+Examples  
+The text is left aligned.  
+The camera is built in.  
+Many viruses are memory-resident.  
 
 **Noun modifiers**
 
@@ -18,32 +18,32 @@ In compound words that precede and modify a noun as a unit, don’t hyphenate:
   - *Very*, when it precedes another modifier.
     Example Very fast test
   - An adverb ending in *-ly*, such as *completely*, when it precedes another modifier. Check [*The American Heritage Dictionary*](https://ahdictionary.com/) if you're not sure whether the word ending in *-ly* is an adverb.
-    Examples
-    extremely stylized image
-    highly graphical interface
-    **Note** Use adverbs sparingly. They usually aren't necessary.
+    Examples  
+    extremely stylized image  
+    highly graphical interface  
+    **Note** Use adverbs sparingly. They usually aren't necessary.  
 
 Hyphenate two or more words that precede and modify a noun as a unit if:
 
   - Confusion might result without the hyphen.
 
-Examples
-built-in drive 
-high-level-language compiler 
-read-only memory 
-lower-left corner 
-floating-point decimal 
-line-by-line scrolling 
-scrolling line by line
-up-to-date information
+Examples  
+built-in drive   
+high-level-language compiler  
+read-only memory  
+lower-left corner  
+floating-point decimal  
+line-by-line scrolling  
+scrolling line by line 
+up-to-date information 
 
   - One of the words is a past or present participle (a verb form ending in *-ed* or -*ing* and used as an adjective or noun).
 
-Examples
-left-aligned text 
-free-flowing form
-well-defined schema
-The schema is well defined.
+Examples  
+left-aligned text   
+free-flowing form  
+well-defined schema  
+The schema is well defined.  
 
   - The modifier is a number or single letter plus a noun or participle.
 
@@ -70,9 +70,9 @@ Example uppercase and lowercase letters
 
 Hyphenate compound nouns when one of the words is abbreviated.
 
-Examples
-e-book
-e-commerce
+Examples  
+e-book  
+e-commerce  
 
 Exception email
 
@@ -80,9 +80,9 @@ Exception email
 
 Hyphenate compound numerals and fractions.
 
-Examples 
-a twenty-fifth anniversary
-one-third of the page
+Examples  
+a twenty-fifth anniversary  
+one-third of the page  
 
 **En dashes in compound adjectives**
 
@@ -113,27 +113,27 @@ Use a hyphen between a prefix and a stem word:
   - If a confusing word results without the hyphen.
   - If the stem word begins with a capital letter. 
 
-Examples
-non-native
-pro-Microsoft
+Examples  
+non-native  
+pro-Microsoft  
 
 A prefix affects a word, not a phrase. For example, instead of *non-security related*, use *unrelated to security*.
 
 When adding a prefix to a stem word results in a double vowel and each vowel is pronounced, don’t use a hyphen. 
 
-Examples
-reenter
-nonnegative
-cooperate
+Examples  
+reenter  
+nonnegative  
+cooperate  
 
 For more information about using prefixes, see [The Chicago Manual of Style](http://www.chicagomanualofstyle.org/home.html). (If you have Microsoft network access, you can use *[The Chicago Manual of Style Online](http://aka.ms/mslibrary/cms)* through MS Library.)
 
 #### **Capitalization in hyphenated compound words**
 
-Capitalize
-any part of a hyphenated compound word that would be capitalized
-if there were no hyphen. For example, capitalize the first word if
-it's the first word of a sentence or heading. 
+Capitalize  
+any part of a hyphenated compound word that would be capitalized  
+if there were no hyphen. For example, capitalize the first word if  
+it's the first word of a sentence or heading.  
 
 Example Customer-friendly content is brief, accurate, and to the point. 
 
