@@ -1,4 +1,5 @@
-﻿# Legal considerations
+
+# Legal considerations
 
 Content
 is subject to the laws of the countries where it's distributed.
@@ -10,9 +11,12 @@ Always check with [your group's paralegal](https://microsoft.sharepoint.com/site
 
 This section covers some important areas where US and international law may affect content.
 
-See also [
-Legal content](/style-guide/legal-content/) in this guide.
+See also
+
+[Legal content](/style-guide/legal-content/) in this guide.
+
 For complete information, visit [](https://microsoft.sharepoint.com/sites/lcaweb/home)[CELAWeb](https://microsoft.sharepoint.com/sites/lcaweb/home). (This site requires Microsoft network access.)
+
 If you still have questions, contact [your group’s paralegal](https://microsoft.sharepoint.com/sites/lcaweb/Pages/Applications/LegalContact.aspx). (This page requires Microsoft network access.)
 
 #### Discounts and special offers
