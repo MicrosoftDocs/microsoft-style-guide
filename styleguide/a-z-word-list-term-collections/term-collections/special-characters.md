@@ -79,7 +79,7 @@ It's OK to use <em>star</em> to refer to the key on a phone keypad.</span>
 </tr>
 <tr class="odd">
 <td><div>
-<b>\</b>
+<b>&#92;</b>
 </div></td>
 <td><div>
 <span style="font-family:Segoe UI;font-size:small;">backslash</span>
