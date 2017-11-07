@@ -46,7 +46,7 @@ Follow these guidelines:
     it’s necessary. If you must refer to earlier parts of the video,
     keep it general. 
 
-**Example**</br>Earlier, you saw how to add *x* to *z.* Here's something else you can do with *x* ....
+    **Example**</br>Earlier, you saw how to add *x* to *z.* Here's something else you can do with *x* ....
 
   - Include
     captions for accessibility. If possible, break closed-captioning
@@ -60,7 +60,7 @@ Follow these guidelines:
   
   - Use brand elements and colors for opening and closing frames. The easiest way to do that is to use the [Microsoft end-card](https://microsoft.sharepoint.com/teams/BrandCentral/Pages/Bundles/Microsoft_logo_endcard_animation.aspx)[animation and guidelines](https://microsoft.sharepoint.com/teams/BrandCentral/Pages/Bundles/Microsoft_logo_endcard_animation.aspx). (This page requires Microsoft network access.) Clearly identifying Microsoft as the source gives your video added credibility.
 
-Learn more
+**Learn more**
 
   - [CSS video production guide](https://microsoft.sharepoint.com/teams/cssclp/_layouts/15/WopiFrame.aspx?sourcedoc=%7B0C43A47E-BC20-44B3-A1E7-4FDC06EAF830%7D&file=Video%20Production%20Guide.docx&action=default&DefaultItemOpen=1) (This page requires Microsoft network access.)
   - [Google video site map guidance](http://www.reelseo.com/how-video-sitemaps/)
