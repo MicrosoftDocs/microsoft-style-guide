@@ -120,20 +120,11 @@ In content for developers or content about customizing the UI, it’s OK to dist
 
 #### Key names
 
-  - In general, use sentence capitalization for key names.
-    Examples
-    the Shift key
-    the Page up key
-  - Capitalize letter keys in general references.
-    Example the K key
-  - Lowercase
-    and bold a letter key when instructing customers to enter the letter
-    (unless you're instructing them to enter a capital letter).
-    Example enter k
-  - On the first mention, you can use the definite article *the* and the word *key* with the key name if necessary for clarity. 
-    Example Select the F1 key. 
-  - On subsequent mentions, refer to the key by its name only. 
-    Example Select F1.
+  - In general, use sentence capitalization for key names.</br>    Examples</br>    the Shift key</br>    the Page up key
+  - Capitalize letter keys in general references.</br>    Example the K key
+  - Lowercase and bold a letter key when instructing customers to enter the letter (unless you're instructing them to enter a capital letter).</br>    Example enter k
+  - On the first mention, you can use the definite article *the* and the word *key* with the key name if necessary for clarity. </br> Example Select the F1 key. 
+  - On subsequent mentions, refer to the key by its name only. </br>    Example Select F1.
 
 If
 you need guidance for a key name that isn't on this list, use sentence
@@ -552,9 +543,6 @@ Use discretion. This might not be necessary for commonly used characters, such a
 
 To show a key combination that includes punctuation requiring use of the Shift key, such as the question mark, use *Shift* and the name or symbol of the shifted key. Using the name of the unshifted key, such as *4* rather than *$*, could be confusing or even wrong. For example, the *?* and */* characters aren't shifted keys on every keyboard. Always spell out *Plus sign, Minus sign, Hyphen, Period,* and *Comma*.
 
-Examples**
-**Ctrl+Shift+? 
-Ctrl+Shift+\* 
-Ctrl+Shift+Comma
+**Examples**</br>Ctrl+Shift+? </br>Ctrl+Shift+\* </br>Ctrl+Shift+Comma
 
 See also [Special character term collection](/style-guide/a-z-word-list-term-collections/term-collections/special-characters)
