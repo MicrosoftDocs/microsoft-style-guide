@@ -58,7 +58,7 @@ out whether other groups are using it, and how.
     internal tool—reach out to your product marketing team or engage in your
     group’s established process for name development. Get a [geopolitical review](https://microsoft.sharepoint.com/teams/celaGlobalReadiness/Pages/NewNameReview.aspx "New product name review"), and include legal and branding teams in the naming process. To learn more, see the [Brand Central naming guidelines](https://microsoft.sharepoint.com/teams/BrandCentral/Pages/The-Microsoft-brand-Identity-Naming.aspx). (These pages require Microsoft network access.)
 
-Global tip If possible, check [Term Studio](http://aka.ms/termstudio)
+**Global tip** If possible, check [Term Studio](http://aka.ms/termstudio)
 or contact your localization team to comment on any localization
 implications of new terms and usage. (Term Studio requires Microsoft
 network access.)
