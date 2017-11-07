@@ -23,13 +23,13 @@ address the problems developers are trying to solve.
 
 Follow these guidelines when writing code examples.
 
-**Create concise examples that exemplify key development tasks. Start with simple examples and build up complexity after you cover common scenarios.
-**
+**Create concise examples that exemplify key development tasks.** Start with simple examples and build up complexity after you cover common scenarios.
 
-**Prioritize frequently used elements and elements that may be difficult to understand or tricky to use.**
 
-**Don't use code examples to illustrate obvious points or contrived scenarios.
-**
+**Prioritize frequently used elements** and elements that may be difficult to understand or tricky to use.
+
+**Don't use code examples to illustrate obvious points** or contrived scenarios.
+
 
 **Create code examples that are easy to scan and understand.** Reserve
 complicated examples for tutorials and walkthroughs, where you
@@ -45,22 +45,22 @@ using or running the example.
 Help developers determine what to modify. Add comments to explain
 details, but don't overdo it. Don't state the obvious.
 
-**Show expected output, either in a separate section after the code example or by using code comments within the code example.
-**
+**Show expected output**, either in a separate section after the code example or by using code comments within the code example.
 
-**Consider accessibility requirements for code that creates UI. For example, include alternate text for images.
-**
+
+**Consider accessibility requirements** for code that creates UI. For example, include alternate text for images.
+
 
 **Write secure code.** 
 For example, always validate user input, never hard-code passwords
 in code, and use code-analysis tools to detect
 security issues.
 
-**Show exception handling only when it's intrinsic to the example. Don’t catch exceptions thrown when invalid arguments are passed to parameters.
-**
+**Show exception handling only when it's intrinsic to the example.** Don’t catch exceptions thrown when invalid arguments are passed to parameters.
 
-**Always compile and test your code.
-**
+
+**Always compile and test** your code.
+
 
 **Provide an easy way for developers to copy and run the code.** If
 the code example demonstrates interactive and animated
