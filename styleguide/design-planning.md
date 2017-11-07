@@ -1,4 +1,4 @@
-﻿# Design planning
+# Design planning
 
 Design is more than a pretty face. It provides a familiar environment for content. Text
 length, the use of images, headings, tables, lists, and other
@@ -25,18 +25,22 @@ focus on what you have to say. Taking advantage of all your
 template has to offer will both enhance the customer experience and
 streamline modifications you need to make down the road. 
 
-  - Use manual formatting sparingly. Templates
+  - **Use manual formatting sparingly**. Templates
     take care of most formatting for you. You may need a bold or
     italic phrase now and then, but always use the built-in styles for headings, subheadings, bulleted lists, tables, and whatever else your template provides.
-  - Use a limited number of styles. Most
+    
+  - **Use a limited number of styles**. Most
     content needs just a couple of heading levels, bulleted and
     numbered lists, tables, and of course body text. Using three or fewer
     styles leads to more streamlined, polished-looking results.
-  - Don’t create new styles or modify existing ones. New
+    
+  - **Don’t create new styles or modify existing ones**. New
     styles complicate design. You’ll almost always find enough styles
     in a template to meet the needs of your communication.
-  - Use styles consistently for headings, tables, lists, notes, tips, and other text, throughout your communication.
-  - Don’t fear white space.
+    
+  - **Use styles consistently** for headings, tables, lists, notes, tips, and other text, throughout your communication.
+  
+  - **Don’t fear white space**.
     Your template probably includes spacing for various text elements. Use
     it. Empty space helps focus the reader on what’s important and makes
     text seem less daunting. Wide margins, space around graphics, and space
