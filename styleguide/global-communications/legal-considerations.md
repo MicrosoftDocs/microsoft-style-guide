@@ -87,7 +87,7 @@ Learn more about product claims and comparisons on CELAWeb. (The following pages
 
 When in doubt, check with [your group's paralegal](https://microsoft.sharepoint.com/sites/lcaweb/Pages/Applications/LegalContact.aspx). (This page requires Microsoft network access.)
 
-#### #### Media ratings
+#### Media ratings
 
 Include the media ratings
 required in the countries and regions where your product will
