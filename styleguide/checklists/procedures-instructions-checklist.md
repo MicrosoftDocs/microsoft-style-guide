@@ -39,7 +39,7 @@ Use numbered steps—no more than seven, and preferably fewer.
     formatting for the brackets. Include a space before and after each
     one.
     
-    Example</br>Select **Accounts** \> **Other accounts** \> **Add an account**.
+    **Example**</br>Select **Accounts** \> **Other accounts** \> **Add an account**.
 
 **Learn more** about [step-by-step instructions](/style-guide/procedures-instructions/writing-step-by-step-instructions). 
 
