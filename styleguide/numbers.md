@@ -9,39 +9,39 @@ all other content, follow the guidelines below.
 
   - In body text, spell out whole numbers from zero through nine, and use numerals for 10 or greater. It’s OK to use numerals for zero through nine when you have limited space, such as in tables and UI. 
 
-Examples
-10 screen savers 
-five databases 
-zero probability 
-7,990,000 
-1,000 
+Examples  
+10 screen savers  
+five databases  
+zero probability  
+7,990,000  
+1,000  
 
   - Spell out zero through nine and use numerals for 10 or greater for days, weeks, and other units of time. 
 
-Examples
-seven years 
-28 days 
-12 hrs 
+Examples  
+seven years  
+28 days  
+12 hrs  
 
   - Be consistent within categories of information. If one number in a category requires a numeral, use numerals for all the numbers in that category. 
 
-Examples
-6‒12 
-One article has 16 pages, one has 7 pages, and the third has only 5 pages.
-The team has two product managers, 12 designers, six writers, and 16 developers.
+Examples  
+6‒12  
+One article has 16 pages, one has 7 pages, and the third has only 5 pages.  
+The team has two product managers, 12 designers, six writers, and 16 developers.  
 
   - When two numbers that refer to separate categories of items must appear together, spell out one of them. 
 
 Example two 3-page articles
 
-  - Don’t start a sentence with a numeral.
-    Add a modifier before the number, or spell the number out if
-    you can’t rewrite the sentence. It’s OK to start list items
-    with numerals—use your judgment.
+  - Don’t start a sentence with a numeral.  
+    Add a modifier before the number, or spell the number out if  
+    you can’t rewrite the sentence. It’s OK to start list items  
+    with numerals—use your judgment.  
 
-Examples
-More than 10 apps are included.
-Eleven apps are included. 
+Examples  
+More than 10 apps are included.  
+Eleven apps are included.   
 
   - Use numerals in these situations.
 
@@ -133,24 +133,24 @@ Eleven apps are included.
 </tbody>
 </table>
 
-#### #### Commas in numbers
+#### Commas in numbers
 
 Use commas in numbers that have four or more digits, regardless of how the numbers appear in the UI.
 
-Examples
-$1,024
-1,093 MB
+Examples  
+$1,024  
+1,093 MB  
 
 Exception When designating years or baud, use commas only when the number has five or more digits: *2500 B.C., 10,000 B.C., 9600 baud, 14,400 baud.*
 
 Don’t use commas in page numbers, addresses, or after the decimal point in decimal fractions.
 
-Examples
-page 1091
-15601 NE 40<sup>th</sup> Street
-1.06377 units
+Examples  
+page 1091  
+15601 NE 40<sup>th</sup> Street  
+1.06377 units  
 
-#### #### Numbers in dates
+#### Numbers in dates
 
 Don’t use ordinal numbers, such as *June* *first* or *October twenty-eighth*, for dates. Use a numeral instead: *June 1, October 28.*
 
@@ -159,19 +159,19 @@ avoid confusion, always spell out the name of the month. The
 positions of the month and day vary by country. For example,
 6/12/2017 might be June 12, 2017 or December 6, 2017.
 
-#### #### Negative numbers
+#### Negative numbers
 
 Form a negative number with an en dash, not a hyphen:
 
 Example –79
 
-#### #### Compound numbers
+#### Compound numbers
 
 Hyphenate compound numbers when they're spelled out.
 
-Examples
-twenty-five fonts
-the twenty-first day
+Examples  
+twenty-five fonts  
+the twenty-first day  
 
 #### #### Fractions and decimals
 
@@ -179,9 +179,9 @@ the twenty-first day
   - In tables, align decimals on the decimal point. 
   - Add a zero before the decimal point for decimal fractions less than one, unless the customer is asked to enter the value.
 
-Examples
-0.5 cm 
-enter .75"
+Examples  
+0.5 cm  
+enter .75"  
 
   - Don’t use numerals separated by a slash to express fractions. 
 
@@ -189,34 +189,34 @@ Exception
 When an equation occurs in text, it's OK to use a slash between the
 numerator and the denominator. Or, in Microsoft Word, go to the **Insert **tab, and select **Equation** to format the equation automatically.
 
-Example ½ + ½ = 1
+Example ½ + ½ = 1  
 
   - Hyphenate spelled-out fractions. Connect the numerator and denominator with a hyphen unless either already contains a hyphen. 
 
-Examples
-one-third of the page 
-two-thirds completed 
-three sixty-fourths 
+Examples  
+one-third of the page  
+two-thirds completed  
+three sixty-fourths  
 
   - In
     measurements where the unit of measure is spelled out, use the plural
     form when the quantity is a decimal fraction. Use the singular form only
     when the quantity is 1. 
 
-Examples
-0.5 inches 
-0 inches
-1 inch 
-5 inches
+Examples  
+0.5 inches  
+0 inches  
+1 inch  
+5 inches  
 
 #### Ordinal numbers
 
   - Always spell out ordinal numbers*.*
 
-Examples*
-*the first row
-the twenty-first anniversary*
-*
+Examples  
+*the first row*  
+*the twenty-first anniversary*  
+
 
   - Don’t use ordinal numbers, such as *June first,* for dates. 
   - Don’t add -*ly* to an ordinal number, as in *firstly* or *secondly*.
