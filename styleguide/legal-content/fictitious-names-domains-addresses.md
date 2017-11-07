@@ -17,13 +17,13 @@ the rare instances where available fictitious content doesn’t meet
 your needs, the Trademark group will review new fictitious
 content if your request meets certain criteria. See [Approved fictitious names & guidelines](https://microsoft.sharepoint.com/sites/LCAWeb/Home/Copyrights-Trademarks-and-Patents/Trademarks/Fictitious-Names) on CELAWeb. (This page requires Microsoft network access.)
 
-Domain names If you need to use a generic domain name or URL in content, use *Example.com*, *Example.org*, or *Example.net*.
+**Domain names** If you need to use a generic domain name or URL in content, use *Example.com*, *Example.org*, or *Example.net*.
 These domain names are reserved by the World Wide Web Consortium
 (W3C) for use in documentation examples. You can also use
 Microsoft.com or the home page of your product website. Don’t use
 other domain names, which may be owned by individuals or companies.
 
-IP addresses Internet
+**IP addresses** Internet
 Assigned Numbers Authority (IANA) has set aside several ranges of
 Internet Protocol (IP) addresses for use on intranets. These IP
 addresses are documented in Internet RFC 1918 and are guaranteed never
