@@ -125,10 +125,4 @@ Microsoft brand experiences.
 
 Learn more For information about writing for and about specific UI elements, see [UI](https://worldready.cloudapp.net/Styleguide/Read?id=2547&topicid=37019 "Open the UI section in the Style Guide for Windows, Windows Phone, and Xbox.") in the *Windows, Xbox, and devices style guide* or your group's editorial style guide.
 
-See also
-
-[please](/style-guide/a-z-word-list-term-collections/p/please)
-
-[sorry](/style-guide/a-z-word-list-term-collections/s/sorry)
-
-[thank you](/style-guide/a-z-word-list-term-collections/t/thank-you)
+See also</br>[please](/style-guide/a-z-word-list-term-collections/p/please)</br>[sorry](/style-guide/a-z-word-list-term-collections/s/sorry)</br>[thank you](/style-guide/a-z-word-list-term-collections/t/thank-you)
