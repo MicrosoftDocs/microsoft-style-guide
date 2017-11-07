@@ -21,8 +21,7 @@ In compound words that precede and modify a noun as a unit, don’t hyphenate:
    Examples  
    extremely stylized image  
    highly graphical interface  
-   > [!NOTE]
-   > Use adverbs sparingly. They usually aren't necessary.  
+   **Note** Use adverbs sparingly. They usually aren't necessary.  
 
 Hyphenate two or more words that precede and modify a noun as a unit if:
 
