@@ -6,12 +6,12 @@ well-documented rules. For example, every English sentence
 requires end punctuation (unless it's a title or a heading). Within
 those rules are stylistic choices, which we’ll cover here. 
 
-Writing tip The more
+**Writing tip** The more
 punctuation you add, the more complex a sentence becomes. If a
 sentence contains more than a comma or two and ending punctuation,
 consider rewriting it to make it crisp and clear. 
 
-Learn more Refer to [*The Chicago Manual of Style*](http://www.chicagomanualofstyle.org/home.html) to learn more about specific punctuation. If you have Microsoft network access, you can use *[The Chicago Manual of Style Online](http://aka.ms/mslibrary/cms)* through MS Library.
+**Learn more** Refer to [*The Chicago Manual of Style*](http://www.chicagomanualofstyle.org/home.html) to learn more about specific punctuation. If you have Microsoft network access, you can use *[The Chicago Manual of Style Online](http://aka.ms/mslibrary/cms)* through MS Library.
 
 This section covers:
 
