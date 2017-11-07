@@ -96,7 +96,7 @@ dialog box–type options
 
   - Two or more of the elements are made up of hyphenated compounds (a rare occurrence). 
 
-#### #### **Prefixes**
+#### **Prefixes**
 
 Avoid creating new words by adding prefixes to existing words. Rewrite to avoid creating a new word. If a word with a prefix is listed in [*The American Heritage Dictionary*](https://ahdictionary.com/) or the [A–Z word list](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25512), it’s OK to use in Microsoft content. 
 
