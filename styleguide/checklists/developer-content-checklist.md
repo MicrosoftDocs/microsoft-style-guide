@@ -18,7 +18,7 @@ technology and product information they need.
     all details that are important to customers and
     remove anything extraneous. 
 
-Learn more about [writing](/style-guide/developer-content/reference-documentation)[developer reference topics](/style-guide/developer-content/reference-documentation).
+**Learn more** about [writing](/style-guide/developer-content/reference-documentation)[developer reference topics](/style-guide/developer-content/reference-documentation).
 
 #### Code examples
 
@@ -41,10 +41,10 @@ the problems developers are trying to solve.
   - Provide an easy way for developers to copy and run the code. 
   - Use keywords, linking strategies, and other SEO techniques to help developers find the code. To learn more, see [Search and writing](/style-guide/search-writing).
 
-Learn more about [code examples](/style-guide/developer-content/code-examples).
+**Learn more** about [code examples](/style-guide/developer-content/code-examples).
 
 #### Formatting text elements
 
   - Format text elements consistently to help readers locate and interpret information more easily.
 
-Learn more about [formatting conventions for developer content](/style-guide/developer-content/formatting-developer-text-elements).
+**Learn more** about [formatting conventions for developer content](/style-guide/developer-content/formatting-developer-text-elements).
