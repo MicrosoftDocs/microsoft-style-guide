@@ -1,4 +1,4 @@
-﻿# Security, safety, and privacy terms
+# Security, safety, and privacy terms
 
 Don’t
 use words that imply security, safety, or privacy without
@@ -15,80 +15,16 @@ the accompanying qualifiers to avoid promising absolute
 security, safety, or privacy. Also, don’t use these terms to
 compare Microsoft technology with the competition. 
 
-<table>
-<tbody>
-<tr class="odd">
-<td><b>Trigger word</b></td>
-<td><b>How to use</b></td>
-</tr>
-<tr class="even">
-<td><div>
-<b>complete</b>
-</div></td>
-<td><span style="font-size:small;">more complete</span></td>
-</tr>
-<tr class="odd">
-<td><div>
-<b>control</b>
-</div></td>
-<td><div>
-<span style="font-size:small;">help control, helps to control, helps you control</span>
-</div></td>
-</tr>
-<tr class="even">
-<td><div>
-<div>
-<b>ensure</b>
-</div>
-</div></td>
-<td><div>
-<div>
-<span style="font-size:small;">help ensure, helps to ensure</span>
-</div>
-</div></td>
-</tr>
-<tr class="odd">
-<td><div>
-<b>guard</b>
-</div></td>
-<td><div>
-<span style="font-size:small;">helps guard, helps to guard</span>
-</div></td>
-</tr>
-<tr class="even">
-<td><div>
-<b>private, privacy</b>
-</div></td>
-<td><div>
-<span style="font-size:small;">more private, help protect your privacy, helps to protect your privacy, improve privacy</span>
-</div></td>
-</tr>
-<tr class="odd">
-<td><div>
-<b>protect, protection</b>
-</div></td>
-<td><div>
-<span style="font-size:small;">help protect, helps to protect, get powerful protection, more powerful protection</span>
-</div></td>
-</tr>
-<tr class="even">
-<td><div>
-<b>safe, safety, safely</b>
-</div></td>
-<td><div>
-<span style="font-size:small;">safer, more safely, improve online safety</span>
-</div></td>
-</tr>
-<tr class="odd">
-<td><div>
-<b>secure, security</b>
-</div></td>
-<td><div>
-<span style="font-size:small;">more secure, help secure, helps to secure, improve security</span>
-</div></td>
-</tr>
-</tbody>
-</table>
+|**Trigger word**|**How to use**|
+|---|---|
+|**complete**|more complete|
+|**control**|help control, helps to control, helps you control|
+|**ensure**|help ensure, helps to ensure|
+|**guard**|helps guard, helps to guard|
+|**private, privacy**|more private, help protect your privacy, helps to protect your privacy, improve privacy|
+|**protect, protection**|help protect, helps to protect, get powerful protection, more powerful protection|
+|**safe, safety, safely**|safer, more safely, improve online safety|
+|**secure, security**|more secure, help secure, helps to secure, improve security|
 
 Always use qualifiers with trigger words.
 
