@@ -30,7 +30,7 @@ In those cases, or after you’ve spelled out the term on the first mention, it�
 Term|Abbreviation|Usage
 ---|---|---
 **bits per pixel**|bpp|
-**bits per second**|bps|Don't use as a synonym for *baud*. See Units of measure term collection for information about *baud*.
+**bits per second**|bps|Don't use as a synonym for *baud*. See [Units of measure term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28884) for information about *baud*.
 **byte**|*None*|Don't abbreviate.
 **exabyte**|EB|Don’t use *E, E byte*, or *EByte*.
 **gigabit**|*None*|Don’t abbreviate.
