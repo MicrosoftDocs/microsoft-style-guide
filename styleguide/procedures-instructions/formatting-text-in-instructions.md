@@ -68,5 +68,5 @@ Choose one of the approaches below and use it consistently.
 | Describe the action without referring to a specific UI label. | Choose the group or groups that you want to assign services to. |
 | Use wording that clearly sets off the name of the element. | Assign services to the Business data only group. <br /> By selecting the Create my database button, you agree Microsoft can use entity and field names you create to help improve our common data model. <br /> Choose how often you want to refresh data in Schedule refresh. |
 | Use quotation marks. Quotation marks can make text cluttered, so use them sparingly and only when necessary for clarity. | Assign services to the “No business data allowed” group. |
-| Use bold formatting. | Assign services to either the Business data only or No business data allowed group. |
+| Use bold formatting. | Assign services to either the **Business data only** or **No business data allowed** group. |
 
