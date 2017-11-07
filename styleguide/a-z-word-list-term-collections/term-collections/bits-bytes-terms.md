@@ -9,22 +9,22 @@ In those cases, or after youâ€™ve spelled out the term on the first mention, itâ
 
   - Insert a space between the abbreviation and the numeral, or hyphenate if the measurement modifies a noun.
 
-**Examples**</br>512 gigabytes (GB) of RAM </br>From 1 GB to a maximum of 2 GB</br>23 MB/dayup to 2 terabytes of physical memory with 8 terabytes of address space</br>200 MB of available hard-drive space</br>a 650-MB limit
+    **Examples**</br>512 gigabytes (GB) of RAM </br>From 1 GB to a maximum of 2 GB</br>23 MB/dayup to 2 terabytes of physical memory with 8 terabytes of address space</br>200 MB of available hard-drive space</br>a 650-MB limit
 
   - In
     measurements, when the unit of measure isn't abbreviated, use the
     singular form of the unit of measure when the number is 1. Use
     the plural form for all other measurements.
 
-**Examples**</br>0 megabytes</br>0.5 megabytes</br>1 megabyte</br>15 megabytes
+    **Examples**</br>0 megabytes</br>0.5 megabytes</br>1 megabyte</br>15 megabytes
 
   - Use *of* to add a modifier to a measurement used as a noun.
 
-**Example** The operation requires 200 MB of available hard-drive space.
+    **Example** The operation requires 200 MB of available hard-drive space.
 
   - Use commas in numbers that have four or more digits, regardless of how the numbers appear in the UI.
 
-**Example** 1,024 MB
+    **Example** 1,024 MB
 
 <table>
 <tbody>
