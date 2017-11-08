@@ -49,7 +49,7 @@ training, Microsoft Virtual Academy or a video platform like
 YouTube might be their source. For tips and tricks, maybe it’s
 social media and blogs.
 
-**What devices will the customer use to experience the content? Laptops** ?
+**What devices will the customer use to experience the content?** Laptops?
 Tablets? Phones? Wearable devices? Entertainment consoles? All of
 those? Plan for a great experience across devices the customer is
 likely to use. 
@@ -75,8 +75,7 @@ With these questions answered, you can narrow your approach. For example:
     supported by text might meet the customer and business need at a
     lower cost.
 
-#### **Content ideas for specific user needs** **
-**
+#### Content ideas for specific user needs
 
 <table>
 <tbody>
