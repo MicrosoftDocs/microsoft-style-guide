@@ -9,4 +9,4 @@ command. Messages appear *on*, not *in*, the status bar.
 
 ![](media/status-bar/1474851511.png)
 
-Example The page number is displayed on the status bar.
+**Example** The page number is displayed on the status bar.
