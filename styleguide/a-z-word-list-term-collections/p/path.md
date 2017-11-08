@@ -6,7 +6,7 @@ Use *path* to refer to a drive and any folders below the root directory. When a 
 
 In command syntax, use *path* to represent only the folder portion of the full path:
 
-copy \[*drive:*\]\[*path*\]*filename*
+**copy** \[*drive:*\]\[*path*\]*filename*
 
 To
 indicate a path, first type the drive name, followed by a colon and a
@@ -19,16 +19,13 @@ Use *address* or *URL,* not *path,* to refer to a location on the internet.
 
 In general, use *path of,* not *path to*, to refer to the location of a file.
 
-Example
-The full path of my current tax form is:
-C:\\Documents and Settings\\user1\\My Documents\\Taxes\\This year's taxes
+**Example**</br>The full path of my current tax form is:</br>C:\\Documents and Settings\\user1\\My Documents\\Taxes\\This year's taxes
 
 When
 documenting products for the Mac, use colons with no spaces to
 separate zones, file servers, shared disks, folders, and file
 names. File names don't require extensions.
 
-Example**
-**(Mac) Macintosh HD:My Documentation:Sales CORP-16:TOMCAT:EX130D Mac Temp:Workbook1
+**Example**</br>(Mac) Macintosh HD:My Documentation:Sales CORP-16:TOMCAT:EX130D Mac Temp:Workbook1
 
-See also **** [Formatting common text elements](/style-guide/text-formatting/formatting-common-text-elements), [URLs and web addresses](/style-guide/urls-web-addresses)
+**See also**  [Formatting common text elements](/style-guide/text-formatting/formatting-common-text-elements), [URLs and web addresses](/style-guide/urls-web-addresses)
