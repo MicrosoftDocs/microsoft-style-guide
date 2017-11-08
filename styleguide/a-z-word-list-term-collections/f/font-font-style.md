@@ -6,7 +6,7 @@ Use *font style*, not *type style*, to refer to the formatting, such as bold, it
 
 When referring to bold formatting, use *bold*, not *bolded, boldface*, or *boldfaced*. When referring to italic formatting, use *italic*, not *italics* or *italicized*.
 
-Example Select the bold characters, and then select Bold to remove bold formatting.
+**Example** Select the bold characters, and then select **Bold** to remove bold formatting.
 
 In writing for customers, use *regular type* to describe type that's neither bold nor italic.
 
