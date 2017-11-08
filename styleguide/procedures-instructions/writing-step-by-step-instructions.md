@@ -46,10 +46,10 @@ numbered list. For multiple-step procedures in numbered lists:
 
 **To schedule sprints**
 
-1.  In the Backlogs view, select the first sprint under Current. Or, open your sprint backlog from the following URL:
+1.  In the **Backlogs** view, select the first sprint under Current. Or, open your sprint backlog from the following URL:
     [http://AccountName/DefaultCollection/TeamProjectName/\_backlogs/iteration](http://accountname/DefaultCollection/TeamProjectName/_backlogs/iteration)  
-    Several predefined sprints are listed under Current and Future. Actual sprint titles vary based on the [process template](https://msdn.microsoft.com/library/ms400752.aspx) used to create your team project. However, calendar dates haven’t been assigned.
-2.  To set the calendar dates, select the first sprint under **Current,** and select dates.   
+    Several predefined sprints are listed under **Current** and **Future**. Actual sprint titles vary based on the [process template](https://msdn.microsoft.com/library/ms400752.aspx) used to create your team project. However, calendar dates haven’t been assigned.
+2.  To set the calendar dates, select the first sprint under **Current**, and select dates.   
 
 ![](media/writing-step-by-step-instructions/1122697927.png)
 
