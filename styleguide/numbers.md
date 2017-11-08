@@ -32,7 +32,7 @@ all other content, follow the guidelines below.
 
   - When two numbers that refer to separate categories of items must appear together, spell out one of them. 
 
-**Example** two 3-page articles
+    **Example** two 3-page articles
 
   - Don’t start a sentence with a numeral.  
     Add a modifier before the number, or spell the number out if  
@@ -105,7 +105,7 @@ all other content, follow the guidelines below.
   - Don’t use numerals separated by a slash to express fractions. 
 
   **Exception**
-  When an equation occurs in text, it's OK to use a slash between the numerator and the denominator. Or, in Microsoft Word, go to the **Insert **tab, and select **Equation** to format the equation automatically.
+  When an equation occurs in text, it's OK to use a slash between the numerator and the denominator. Or, in Microsoft Word, go to the **Insert** tab, and select **Equation** to format the equation automatically.
 
   **Example** ½ + ½ = 1  
 
@@ -129,11 +129,11 @@ all other content, follow the guidelines below.
 
 #### Ordinal numbers
 
-  - Always spell out ordinal numbers*.*
+  - Always spell out ordinal numbers.
 
     **Examples**  
-    *the first row*  
-    *the twenty-first anniversary*  
+    the first row  
+    the twenty-first anniversary  
 
 
   - Don’t use ordinal numbers, such as *June first,* for dates. 
@@ -145,7 +145,7 @@ all other content, follow the guidelines below.
 
     **Example** from 9 through 17
 
-    Exceptions Use an en dash in a range of pages or where space is an issue, such as in tables and UI. For example, *2016–2020* and *pages 112–120.*
+    **Exceptions** Use an en dash in a range of pages or where space is an issue, such as in tables and UI. For example, *2016–2020* and *pages 112–120.*
 
   - Don’t use *from* before a range indicated by an en dash, such as *10–15*. 
 
