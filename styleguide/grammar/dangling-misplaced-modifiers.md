@@ -7,51 +7,10 @@ If you keep sentences short and simple and use active voice, you probably won’
   - A *dangling modifier* doesn’t modify anything in the sentence. 
   - A *misplaced modifier* is too far from the thing it modifies or too near to something else that it could modify. 
 
-<table>
-<tbody>
-<tr class="odd">
-<td><b>Example</b></td>
-<td><b>Meaning</b></td>
-</tr>
-<tr class="even">
-<td><div>
-<div>
-<em>Only</em> the selected text is deleted. 
-</div>
-</div></td>
-<td><div>
-<div>
-Nothing other than the selected text is deleted.
-</div>
-</div></td>
-</tr>
-<tr class="odd">
-<td><div>
-The selected text <em>only</em> is deleted.
-</div></td>
-<td><em>Only</em> could modify <em>is deleted</em> or <em>text.</em> This sentence could mean one of two things:
-<ul>
-<li>The selected graphics aren't deleted.</li>
-<li><span style="line-height: 107%; font-family: Segoe UI; font-size: small;">The text is deleted but not archived. </span></li>
-</ul></td>
-</tr>
-<tr class="even">
-<td><div>
-There are files <em>that can’t be removed</em> on the disk. 
-</div></td>
-<td><div>
-<span style="line-height: 107%; font-family: Segoe UI; font-size: small;">The phrase <em>t</em></span><em><span style="line-height: 107%; font-family: Segoe UI; font-size: small;">hat can’t be removed</span></em> <span style="line-height: 107%; font-family: Segoe UI; font-size: small;">modifies <em>the files.</em> This sentence clearly explains that the files can’t be removed, and they are on the disk. </span>
-</div></td>
-</tr>
-<tr class="odd">
-<td><div>
-There are files on the disk <em>that can’t be removed</em>.
-</div></td>
-<td>The phrase <em>that can’t be removed</em> probably modifies <em>the disk,</em> but the writer may have intended to modify <em>files.</em> This sentence could mean one of two things:
-<ul>
-<li>The files can’t be removed.</li>
-<li><span style="line-height: 107%; font-family: Segoe UI; font-size: small;">The disk can’t be removed. </span></li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+| Example | Meaning |
+|---|---|
+| <em>Only</em> the selected text is deleted. | Nothing other than the selected text is deleted. |
+| The selected text <em>only</em> is deleted. | <em>Only</em> could modify <em>is deleted</em> or <em>text.</em> This sentence could mean one of two things:<ul><li>The selected graphics aren't deleted.</li><li>The text is deleted but not archived.</li></ul> |
+| There are files <em>that can’t be removed</em> on the disk. | The phrase <em>that can’t be removed</em> modifies <em>the files.</em> This sentence clearly explains that the files can’t be removed, and they are on the disk.  |
+| There are files on the disk <em>that can’t be removed</em>. | The phrase <em>that can’t be removed</em> probably modifies <em>the disk,</em> but the writer may have intended to modify <em>files.</em> This sentence could mean one of two things:<ul><li>The files can’t be removed.</li><li>The disk can’t be removed. </li></ul> |
+
