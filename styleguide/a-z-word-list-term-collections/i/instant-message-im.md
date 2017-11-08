@@ -4,13 +4,10 @@ Spell out *instant message* or *instant messaging* on the first mention if your 
 
 Don't use *instant message* or *IM* as a verb. Use *send an instant message* or *send an IM* instead.
 
-Exception**
-** In mobile UI content or to form a parallel construction with another one-word phrase, it's OK to use *IM* as a verb. For example, *tap a name to call or IM someone*.
+**Exception**</br>In mobile UI content or to form a parallel construction with another one-word phrase, it's OK to use *IM* as a verb. For example, *tap a name to call or IM someone*.
 
-Examples**
-**To send an instant message, select Send IM **** on the toolbar. 
-Customize instant messaging features based on your friends, family, and work contacts. 
+**Examples**</br>To send an instant message, select **Send IM**  on the toolbar. </br>Customize instant messaging features based on your friends, family, and work contacts. 
 
-Global tip ****The abbreviated form isn't available in all languages, so allow enough space for the full translated term in localized content.
+**Global tip** The abbreviated form isn't available in all languages, so allow enough space for the full translated term in localized content.
 
-See also [message](/style-guide/a-z-word-list-term-collections/m/message)
+**See also** [message](/style-guide/a-z-word-list-term-collections/m/message)
