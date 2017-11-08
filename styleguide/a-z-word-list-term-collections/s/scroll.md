@@ -7,6 +7,6 @@ in content that teaches beginning skills to describe
 interacting with a document by using a mouse,
 keyboard, or other peripheral device.
 
-Examples
-Move through the folder until you see the file you want.
+**Examples**  
+Move through the folder until you see the file you want.  
 Move the the wheel button on the Microsoft Arc Touch Mouse to scroll up and down in a document.
