@@ -8,7 +8,7 @@ ability or the device they use, include mice, keyboards, voice
 recognition devices, game controllers, touch, and other interaction
 methods. Use the [Accessibility Product Template](http://enable/RelatedResources/Guidelines/Section_1_Accessibility_product_template.doc) to get started. (This document requires Microsoft network access.)
 
-Learn more To learn more about creating accessible content, see [Accessibility guidelines and requirements](/style-guide/accessibility/accessibility-guidelines-requirements).
+**Learn more** To learn more about creating accessible content, see [Accessibility guidelines and requirements](/style-guide/accessibility/accessibility-guidelines-requirements).
 
 #### Mouse procedures
 
@@ -59,8 +59,8 @@ other considerations. Some approaches are discussed below. Consult your group's 
 
 List the steps in a table, and provide a separate column for each input method. 
 
-Example
-Choose colors to use on webpages
+**Example**  
+**Choose colors to use on webpages**  
 To make webpages easier to see, you can change the text, background, link, and hover colors in Internet Explorer.
 
 | Step | Mouse actions | Keyboard actions |
@@ -76,7 +76,7 @@ To copy the selection, click Copy on the toolbar. You can also press Ctrl+C.
 
 If there are multiple ways to perform an entire procedure and you must describe each one, use a table to detail the alternatives. This approach helps the customer decide when to use which method.
 
-Example This table describes two ways to save a file.
+**Example** This table describes two ways to save a file.
 
 | To | Do this |
 |---|---|
@@ -87,7 +87,7 @@ If one step has an alternative, make
 that alternative a separate paragraph in the step. In a
 single-step procedure, an alternative can be separated by the word *or* to make it clear that an alternative is available.
 
-Examples  
+**Examples**    
 Press the key for the underlined letter in the menu name. You can also use the Left Arrow key or the Right Arrow key to move to another menu.
 
   - Press Alt+the key for the underlined letter in the menu name. 
@@ -98,7 +98,7 @@ or
 
 **For several choices within one procedure step**, use a bulleted list.  
 
-Example  
+**Example**    
 1\. Select the text that you want to move or copy.
  Do one of the following:
 
