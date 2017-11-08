@@ -8,7 +8,5 @@ In 3D charts, both the x-axis and y-axis are usually category axes*.*
 
 Don't use italic formatting for the *x* in *x-axis* or the *y* in *y-axis* unless the entire word is italic.
 
-**See also** [
-value axis](/style-guide/a-z-word-list-term-collections/v/value-axis)
-[x-axis](/style-guide/a-z-word-list-term-collections/x/x-axis)
-[y-axis](/style-guide/a-z-word-list-term-collections/y/y-axis)
+**See also**</br> [
+value axis](/style-guide/a-z-word-list-term-collections/v/value-axis)</br>[x-axis](/style-guide/a-z-word-list-term-collections/x/x-axis)</br>[y-axis](/style-guide/a-z-word-list-term-collections/y/y-axis)
