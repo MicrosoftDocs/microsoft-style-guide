@@ -4,4 +4,4 @@ Don't use *drag and drop* except as an adjective to describe behavior that a pro
 
 Don't use *click and drag.* It's OK to use *press and drag* to teach mouse techniques in content that teaches beginning skills.
 
-See also [](/style-guide/procedures-instructions/describing-interactions-with-ui)[Describing interactions with UI](/style-guide/procedures-instructions/describing-interactions-with-ui)
+**See also** [](/style-guide/procedures-instructions/describing-interactions-with-ui)[Describing interactions with UI](/style-guide/procedures-instructions/describing-interactions-with-ui)
