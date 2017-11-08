@@ -6,6 +6,6 @@ When you use *upload* as a verb, describe what the customer is transferring *and
 grammatical terms, use both a subject (the thing to be uploaded) and an
 object (the thing the subject is uploaded to) with the verb *upload.*
 
-Example Upload a document from your computer to this library. 
+**Example** Upload a document from your computer to this library. 
 
 **See also** [download](/style-guide/a-z-word-list-term-collections/d/download), [load](/style-guide/a-z-word-list-term-collections/l/load)
