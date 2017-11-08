@@ -12,8 +12,6 @@ Avoid using *slave* as an adjective. Never use *slave* as a noun.
 
 Don't use *master/subordinate* as a synonym for *parent/child*. 
 
-Examples
-Each subordinate device has a unique 7-bit or 10-bit address. 
-The architecture uses a standard master/subordinate design to replicate data from one server to many.
+**Examples**<br />Each subordinate device has a unique 7-bit or 10-bit address. <br />The architecture uses a standard master/subordinate design to replicate data from one server to many.
 
 **See also** [parent/child](/style-guide/a-z-word-list-term-collections/p/parent-child)
