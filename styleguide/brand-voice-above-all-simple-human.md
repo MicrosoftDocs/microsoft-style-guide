@@ -18,11 +18,11 @@ Our voice hinges on crisp simplicity. Bigger ideas and fewer words. Less head, m
 
 Our voice is:
 
-  - Warm and relaxed—We’re
+  - **Warm and relaxed**—We’re
     natural. Less formal, more grounded in real, everyday conversations.
     Occasionally, we’re fun. (We know when to celebrate.)
-  - Crisp and clear—We’re to the point. We write for scanning first, reading second. We make it simple above all.
-  - Ready to lend a hand—We show customers we’re on their side. We anticipate their real needs and offer great information at just the right time.
+  - **Crisp and clear**—We’re to the point. We write for scanning first, reading second. We make it simple above all.
+  - **Ready to lend a hand**—We show customers we’re on their side. We anticipate their real needs and offer great information at just the right time.
 
 #### One brand, one voice
 
@@ -59,7 +59,7 @@ A few key elements of writing Microsoft’s voice:
     Layer. Short sentences and fragments are easier to scan and read.
     Prune every excess word.
 
-Get started 
+**Get started**
 
 For more quick techniques, check out the [Top 10 tips for Microsoft style and voice](/style-guide/top-10-tips-style-voice). 
 
