@@ -14,10 +14,9 @@ This section provides an overview of accessibility guidelines:
   - [Colors and patterns in text, graphics, and design](/style-guide/accessibility/colors-patterns-text-graphics-design) 
   - [Graphics, design, and media](/style-guide/accessibility/graphics-design-media)
 
-See also [Accessibility term collection](/style-guide/a-z-word-list-term-collections/term-collections/accessibility-terms)
+**See also** [Accessibility term collection](/style-guide/a-z-word-list-term-collections/term-collections/accessibility-terms)
 
-To
-ensure that you're complying with Microsoft accessibility policies, get
+To ensure that you're complying with Microsoft accessibility policies, get
 familiar with the following resources. (These pages require Microsoft
 network access.)
 
@@ -27,9 +26,9 @@ network access.)
 
 For help with accessibility-related questions, reach out to the appropriate [accessibility contact](https://microsoft.sharepoint.com/teams/msenable/Pages/Contacts.aspx).
 
-Learn more
-[](https://www.microsoft.com/en-us/accessibility/)[Microsoft Accessibility site](https://www.microsoft.com/en-us/accessibility/ "Public-facing Accessibility site") (public site on Microsoft.com)
+**Learn more**  
+[Microsoft Accessibility site](https://www.microsoft.com/en-us/accessibility/ "Public-facing Accessibility site") (public site on Microsoft.com)  
 
-These resources require Microsoft network access:
-[](https://microsoft.sharepoint.com/teams/msenable/_layouts/15/WopiFrame.aspx?sourcedoc=%7BADE99E75-48EF-4AEC-83C3-37701D0AF407%7D&file=MSEnable-EngineeringResources-InclusiveDesignBooklet.pdf&action=default)[Accessibility 101 online training course](https://aka.ms/accessibility101 "introductory training on accessibility")
-[Creating accessible content](https://microsoft.sharepoint.com/teams/msenable/Pages/CreatingAccessibleContent.aspx) (on the Enable website)
+These resources require Microsoft network access:  
+[](https://microsoft.sharepoint.com/teams/msenable/_layouts/15/WopiFrame.aspx?sourcedoc=%7BADE99E75-48EF-4AEC-83C3-37701D0AF407%7D&file=MSEnable-EngineeringResources-InclusiveDesignBooklet.pdf&action=default)[Accessibility 101 online training course](https://aka.ms/accessibility101 "introductory training on accessibility")  
+[Creating accessible content](https://microsoft.sharepoint.com/teams/msenable/Pages/CreatingAccessibleContent.aspx) (on the Enable website)  

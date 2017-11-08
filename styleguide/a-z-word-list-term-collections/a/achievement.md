@@ -9,8 +9,6 @@ Use title-style capitalization for the achievement name. Lowercase the word *ach
 
 For Microsoft games, use *achievement* only if the achievement is awarded in a player’s Xbox Live profile. Don't use *achievement* for any other accomplishments that are tracked by a game. 
 
-Examples
-You just earned the Superstar achievement\!
-Take a bow—you’ve earned your Superstar.
+**Examples**<br />You just earned the Superstar achievement\! <br />Take a bow—you’ve earned your Superstar.
 
 **See also** [badge](/style-guide/a-z-word-list-term-collections/b/badge)

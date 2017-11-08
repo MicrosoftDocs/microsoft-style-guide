@@ -4,4 +4,4 @@ Use *connect*, *make a connection*, and similar phrases to describe attaching a 
 
 Don't use *connect* as a synonym for *sign in* or ** *map*, as in mapping a drive letter to a shared network folder. But use *d**i**sconnect* to describe removing a mapped network drive.
 
-See also **** [sign in, sign out](/style-guide/a-z-word-list-term-collections/s/sign-in-sign-out)
+**See also**  [sign in, sign out](/style-guide/a-z-word-list-term-collections/s/sign-in-sign-out)
