@@ -2,7 +2,7 @@
 
 Use instead of *screenful* or *full screen*. 
 
-Exception It's OK to say that a program or app is running in *full-screen mode*.
+**Exception** It's OK to say that a program or app is running in *full-screen mode*.
 
 Use *screen* to distinguish the usable portion of the display from its edges. Use *display*
 as a general term for any visual output device, including the built-in
