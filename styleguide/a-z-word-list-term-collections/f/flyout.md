@@ -7,6 +7,9 @@ as an adjective in content for a technical audience if you need to
 describe a transient UI element that displays settings or information
 related to what the customer is doing. 
 
-**Examples**</br>flyout menu</br>flyout message</br>flyout control
+**Examples**  
+flyout menu  
+flyout message  
+flyout control
 
 Avoid using *flyout* as a noun (for example, “the flyout appears”). Don’t use as a verb (for example, “the menu will fly out”).
