@@ -2,11 +2,11 @@
 
 Use an en dash for a minus sign.
 
-Exception In
+**Exception** In
 an example in which the customer must type a hyphen to represent a
 minus sign, use a hyphen in the example and clarify which key
 should be selected.
 
 HTML code *&\#150;*
 
-See also [Keys and keyboard shortcuts term collection](https://worldready.cloudapp.net/StyleGuide/minus%20sign%20\(-\))
+**See also** [Keys and keyboard shortcuts term collection](https://worldready.cloudapp.net/StyleGuide/minus%20sign%20\(-\))
