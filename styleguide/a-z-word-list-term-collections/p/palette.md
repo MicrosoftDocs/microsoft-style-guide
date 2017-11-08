@@ -10,5 +10,5 @@ the verb for picking options from a palette. Capitalize the palette
 name if it appears in the UI. Use bold formatting for a palette
 name.
 
-Example**
-**In the Color palette, select a color for the object outline.
+**Example**  
+In the **Color** palette, select a color for the object outline.
