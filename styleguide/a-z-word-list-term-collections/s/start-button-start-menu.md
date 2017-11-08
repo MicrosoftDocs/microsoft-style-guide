@@ -10,7 +10,4 @@ If possible, to help customers locate the button, include the Start graphic ![](
 
 On Windows phone, use *Start*, not *Start screen* or *Home screen,* to describe the initial screen. Don't use bold formatting for *Start* when discussing Windows phones.
 
-Examples
-You’ll find the Start ![](media/start-button-start-menu/967781121.png) button on the taskbar. 
-On Start, select Messaging. (Windows phone)
-Go to Start ![](media/start-button-start-menu/967781121.png), enter device manager, and then select Device Manager.
+**Examples**</br>You’ll find the Start ![](media/start-button-start-menu/967781121.png) button on the taskbar. </br>On Start, select Messaging. (Windows phone)</br>Go to Start ![](media/start-button-start-menu/967781121.png), enter device manager, and then select Device Manager.
