@@ -12,10 +12,10 @@ pattern and color to differentiate information in charts
 and graphs. Remember that high-contrast personalization themes
 in Windows alter text color. 
 
-**Don’t hard-code colors. They can become illegible in high-contrast themes.**
+**Don’t hard-code colors**. They can become illegible in high-contrast themes.
 
-**Don’t use low-contrast or hard-to-read color combinations, such as light green and white or red and green.**
+**Don’t use low-contrast or hard-to-read color combinations**, such as light green and white or red and green.
 
 **Don’t use screens or tints in art.**
 
-**Don’t use screened or shaded backgrounds, watermarks, or other images behind text. Reduced contrast makes text harder to read and hinders screen readers.**
+**Don’t use screened or shaded backgrounds, watermarks, or other images behind text**. Reduced contrast makes text harder to read and hinders screen readers.
