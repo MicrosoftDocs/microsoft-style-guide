@@ -2,9 +2,7 @@
 
 Avoid generic terms such as *set* and *specify* to describe customer actions. Try to use more specific verbs.
 
-Examples**
-**Select a color for an appointment or a meeting.
-Enter a location for Tab stop position.
+**Examples**</br>Select a color for an appointment or a meeting.</br>Enter a location for **Tab stop position**.
 
 Don't use *set* to indicate entering or selecting a value in a dialog box or other UI element.
 
