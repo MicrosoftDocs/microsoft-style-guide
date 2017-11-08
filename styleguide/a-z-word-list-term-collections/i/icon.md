@@ -12,16 +12,13 @@ that have graphics rather than text labels, use the most descriptive term availa
 
 Don't use *icon* to refer to the buttons (Back, Start, Search, Volume, Power) on Windows phone.
 
-When referring to an icon, use bold formatting for the icon name. In instructions, use the name of the icon and its image, but don't use the word *icon*.
-Example
-Select Xbox ![](media/icon/1465752354.png).
+When referring to an icon, use bold formatting for the icon name. In instructions, use the name of the icon and its image, but don't use the word *icon*.<br /><br />**Example**<br />Select **Xbox** ![](media/icon/1465752354.png).
 
 It's OK to use the word *icon*:
 
   - In content that teaches beginning Windows skills. 
   - When you don't have an image of the icon. 
   - In discussions about the icon itself. 
-  - When you need to differentiate between the Start icon and the Start button (a rare occurrence)​. 
+  - When you need to differentiate between the **Start** icon and the **Start** button (a rare occurrence)​. 
 
-Example
-Most apps have their own settings. Look for this icon ![](media/icon/10090115.PNG) in the app.
+**Example**<br />Most apps have their own settings. Look for this icon ![](media/icon/10090115.PNG) in the app.
