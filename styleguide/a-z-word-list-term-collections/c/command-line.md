@@ -2,9 +2,7 @@
 
 Two words as a noun. Hyphenate as an adjective.
 
-Examples**
-**command-line parameter 
-command-line tool
+**Examples**</br>command-line parameter </br>command-line tool
 
 Customers enter commands *at* a *command prompt*, not *on* a *command line.*
 
