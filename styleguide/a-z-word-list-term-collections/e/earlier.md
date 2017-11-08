@@ -7,8 +7,7 @@ refer to all versions of a product that precede a particular release if
 the statement is accurate for all preceding releases. For example,
 don't use *Windows 10 or earlier* unless the statement is accurate for Windows 1.0.
 
-Example**
-**You
+**Example**</br>You
 can open files created in previous versions of Microsoft Visio.
 (If you can open files in every version of Visio including and previous
 to the version being discussed.) 
