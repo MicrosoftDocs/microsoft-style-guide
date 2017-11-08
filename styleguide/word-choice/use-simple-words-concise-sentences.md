@@ -6,8 +6,8 @@ understand, and facilitate scanning. Use simple words with
 precise meanings, and remove words that don’t add substance.
 Use your judgment to avoid sounding abrupt or unfriendly.
 
-  - Choose simple verbs without modifiers. Whenever you can, avoid weak or vague verbs, such as *be*, *have*, *make*, and *do.* ** 
-    Examples
+  - Choose simple verbs without modifiers. Whenever you can, avoid weak or vague verbs, such as *be*, *have*, *make*, and *do.*   
+    **Examples**
 
 | Use this | Not this |
 |---|---|
@@ -15,8 +15,8 @@ Use your judgment to avoid sounding abrupt or unfriendly.
 | remove | extract, <br /> take away, <br /> eliminate |
 | tell | inform, <br /> let know |
 
-  - Don’t use two or three words when one will do.
-    Examples
+  - Don’t use two or three words when one will do.  
+    **Examples**  
 
 | Use this | Not this |
 |---|---|
@@ -24,8 +24,8 @@ Use your judgment to avoid sounding abrupt or unfriendly.
 | also | in addition |
 | connect | establish connectivity |
 
-  - Whenever possible, choose words that have one clear meaning.
-    Examples
+  - Whenever possible, choose words that have one clear meaning.  
+    **Examples**  
 
 | Use this | Not this |
 |---|---|
