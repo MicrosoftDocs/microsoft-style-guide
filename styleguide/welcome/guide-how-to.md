@@ -8,8 +8,7 @@
     this is a great place to start. Skimming through the checklists, you'll
     quickly figure out what you already know and start filling in the
     gaps for what you don't. It's also easy to download the entire guide as a
-    Word document by selecting **Download style guide.
-    **
+    Word document by selecting **Download style guide.**
 
 **Note:** Anyone
 with a Microsoft.com email account or partner credentials can
