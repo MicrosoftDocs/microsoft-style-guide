@@ -9,336 +9,56 @@ For information about referring to UI elements, see [Formatting text in instruct
 
 Your group's editorial style guide may include additional conventions.
 
-See also
-[Capitalization](/style-guide/capitalization)
-[Formatting common text elements](/style-guide/text-formatting/formatting-common-text-elements)
-[Procedures and instructions](/style-guide/procedures-instructions/)
+**See also**<br />[Capitalization](/style-guide/capitalization)<br />[Formatting common text elements](/style-guide/text-formatting/formatting-common-text-elements)<br />[Procedures and instructions](/style-guide/procedures-instructions/)
 
-<table>
-<tbody>
-<tr class="odd">
-<td><b>Element</b></td>
-<td><b>Convention</b></td>
-</tr>
-<tr class="even">
-<td><b>Attributes</b></td>
-<td><span style="font-family:Segoe UI;font-size:small;mso-fareast-font-family:&#39;Times New Roman&#39;;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;mso-bidi-font-size:12.0pt;">Bold. Capitalization varies.</span></td>
-</tr>
-<tr class="odd">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;mso-fareast-font-family:&#39;Times New Roman&#39;;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;mso-bidi-font-size:12.0pt;">Classes (predefined)</span></td>
-<td><span style="font-family:Segoe UI;font-size:small;mso-fareast-font-family:&#39;Times New Roman&#39;;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;mso-bidi-font-size:12.0pt;">Bold. Capitalization varies.</span></td>
-</tr>
-<tr class="even">
-<td><b>Classes (user-defined)</b></td>
-<td><span style="font-family:Segoe UI;font-size:small;mso-fareast-font-family:&#39;Times New Roman&#39;;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;mso-bidi-font-size:12.0pt;">Bold. Capitalization varies. </span></td>
-</tr>
-<tr class="odd">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;mso-fareast-font-family:&#39;Times New Roman&#39;;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;mso-bidi-font-size:12.0pt;">Code samples, including keywords and variables within text and as separate paragraphs, and user-defined program elements within text</span></td>
-<td><span style="font-family:Segoe UI;font-size:small;mso-fareast-font-family:&#39;Times New Roman&#39;;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;mso-bidi-font-size:12.0pt;">Monospace. </span></td>
-</tr>
-<tr class="even">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;mso-fareast-font-family:&#39;Times New Roman&#39;;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;mso-bidi-font-size:12.0pt;">Command-line commands</span></td>
-<td><span style="font-family:Segoe UI;font-size:small;mso-fareast-font-family:&#39;Times New Roman&#39;;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;mso-bidi-font-size:12.0pt;">Bold. All lowercase.</span></td>
-</tr>
-<tr class="odd">
-<td><b>Command-line options (also known as switches or flags)</b></td>
-<td><span style="font-family:Segoe UI;font-size:small;">Bold. Capitalize the way the option must be typed.</span></td>
-</tr>
-<tr class="even">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;mso-fareast-font-family:&#39;Times New Roman&#39;;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;mso-bidi-font-size:12.0pt;">Constants</span></td>
-<td><span style="font-family:Segoe UI;font-size:small;mso-fareast-font-family:&#39;Times New Roman&#39;;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;mso-bidi-font-size:12.0pt;">Usually bold. Capitalization varies. Treatment of constants may vary, so always refer to your group's editorial style guide.</span></td>
-</tr>
-<tr class="odd">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;mso-fareast-font-family:&#39;Times New Roman&#39;;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;mso-bidi-font-size:12.0pt;">Control classes</span></td>
-<td><span style="font-family:Segoe UI;font-size:small;mso-fareast-font-family:&#39;Times New Roman&#39;;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;mso-bidi-font-size:12.0pt;">All uppercase.</span></td>
-</tr>
-<tr class="even">
-<td><b>Data formats</b></td>
-<td><span style="font-family:Segoe UI;font-size:small;">All uppercase.</span></td>
-</tr>
-<tr class="odd">
-<td><div>
-<span style="font-family:Segoe UI Semibold;font-size:small;mso-fareast-font-family:&#39;Times New Roman&#39;;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;mso-bidi-font-size:12.0pt;">Data structures and their members (predefined)</span>
-</div></td>
-<td><div>
-<span style="font-family:Segoe UI;font-size:small;">Bold. Capitalization varies.</span>
-</div></td>
-</tr>
-<tr class="even">
-<td><b>Data types</b></td>
-<td><span style="font-family:Segoe UI;font-size:small;mso-fareast-font-family:&#39;Times New Roman&#39;;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;mso-bidi-font-size:12.0pt;">Bold. Capitalization follows that of the API.</span></td>
-</tr>
-<tr class="odd">
-<td><b>Database names</b></td>
-<td><span style="font-family:Segoe UI;font-size:small;">Bold. </span><span style="font-family:Segoe UI;font-size:small;">The capitalization of database names varies, so always refer to your group's editorial style guide.</span></td>
-</tr>
-<tr class="even">
-<td><b>Directives</b></td>
-<td><span style="font-family:Segoe UI;font-size:small;">Bold.</span></td>
-</tr>
-<tr class="odd">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;mso-fareast-font-family:&#39;Times New Roman&#39;;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;mso-bidi-font-size:12.0pt;">Environment variables</span></td>
-<td><span style="font-family:Segoe UI;font-size:small;">All uppercase.</span></td>
-</tr>
-<tr class="even">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;mso-fareast-font-family:&#39;Times New Roman&#39;;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;mso-bidi-font-size:12.0pt;">Error messages</span></td>
-<td><span style="font-family:Segoe UI;font-size:small;mso-fareast-font-family:&#39;Times New Roman&#39;;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;mso-bidi-font-size:12.0pt;">Sentence-style c</span><span style="font-family:Segoe UI;font-size:small;mso-fareast-font-family:&#39;Times New Roman&#39;;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;mso-bidi-font-size:12.0pt;">apitalization</span><span style="font-family:Segoe UI;font-size:small;">. Enclose in quotation marks when referencing error messages in text</span><span style="font-family:Segoe UI;font-size:small;mso-fareast-font-family:&#39;Times New Roman&#39;;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;mso-bidi-font-size:12.0pt;">.</span></td>
-</tr>
-<tr class="odd">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;mso-fareast-font-family:&#39;Times New Roman&#39;;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;mso-bidi-font-size:12.0pt;">Event names</span></td>
-<td><span style="font-family:Segoe UI;font-size:small;mso-fareast-font-family:&#39;Times New Roman&#39;;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;mso-bidi-font-size:12.0pt;">Bold. Treatment of event names may vary. Consult </span><span style="color:black;font-family:Segoe UI;font-size:small;mso-fareast-font-family:Calibri;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;mso-fareast-theme-font:minor-latin;">your group's editorial style guide</span><span style="font-family:Segoe UI;font-size:small;mso-fareast-font-family:&#39;Times New Roman&#39;;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;mso-bidi-font-size:12.0pt;">.</span></td>
-</tr>
-<tr class="even">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;mso-fareast-font-family:&#39;Times New Roman&#39;;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;mso-bidi-font-size:12.0pt;">Fields (members of a class or structure)</span></td>
-<td><span style="font-family:Segoe UI;font-size:small;mso-fareast-font-family:&#39;Times New Roman&#39;;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;mso-bidi-font-size:12.0pt;">Bold. Treatment may vary, so always consult your group's editorial style guide.</span></td>
-</tr>
-<tr class="odd">
-<td><b>File attributes</b></td>
-<td><span style="font-family:Segoe UI;font-size:small;">All lowercase.</span></td>
-</tr>
-<tr class="even">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;mso-fareast-font-family:&#39;Times New Roman&#39;;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;mso-bidi-font-size:12.0pt;">File extensions</span></td>
-<td><span style="font-family:Segoe UI;font-size:small;">All lowercase.</span></td>
-</tr>
-<tr class="odd">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;mso-fareast-font-family:&#39;Times New Roman&#39;;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;mso-bidi-font-size:12.0pt;">File names (user-defined examples)</span></td>
-<td><span style="font-family:Segoe UI;font-size:small;mso-fareast-font-family:Calibri;mso-bidi-font-family:&#39;Times New Roman&#39;;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;mso-fareast-theme-font:minor-latin;mso-bidi-font-size:12.0pt;">Title-style capitalization. It’s OK to use internal capital letters in file names for readability.</span></td>
-</tr>
-<tr class="even">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;mso-fareast-font-family:&#39;Times New Roman&#39;;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;mso-bidi-font-size:12.0pt;">Folder and directory names (user-defined examples)</span></td>
-<td><span style="font-family:Segoe UI;font-size:small;mso-fareast-font-family:Calibri;mso-bidi-font-family:&#39;Times New Roman&#39;;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;mso-fareast-theme-font:minor-latin;mso-bidi-font-size:12.0pt;">Sentence-style capitalization. It’s OK to use internal capital letters in folder and directory names for readability.</span></td>
-</tr>
-<tr class="odd">
-<td><span style="font-family:Segoe UI Semibold;font-size:small;mso-fareast-font-family:&#39;Times New Roman&#39;;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;mso-bidi-font-size:12.0pt;">Functions (predefined)</span></td>
-<td><span style="font-family:Segoe UI;font-size:small;mso-fareast-font-family:&#39;Times New Roman&#39;;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;mso-bidi-font-size:12.0pt;">Usually bold. Capitalization varies. Treatment may vary. Consult </span><span style="color:black;font-family:Segoe UI;font-size:small;mso-fareast-font-family:Calibri;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;mso-fareast-theme-font:minor-latin;">your group's editorial style guide</span><span style="font-family:Segoe UI;font-size:small;mso-fareast-font-family:&#39;Times New Roman&#39;;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;mso-bidi-font-size:12.0pt;">.</span></td>
-</tr>
-<tr class="even">
-<td><b>Handles</b></td>
-<td><span style="font-family:Segoe UI;font-size:small;">All uppercase.</span></td>
-</tr>
-<tr class="odd">
-<td><div>
-<div>
-<b>Keywords (language and operating system)</b>
-</div>
-</div></td>
-<td><div>
-<div>
-<span style="font-size:small;">Bold. Capitalization follows the application programming interface.</span>
-</div>
-</div></td>
-</tr>
-<tr class="even">
-<td><div>
-<b>Logical operators</b>
-</div></td>
-<td><div>
-<span style="font-size:small;">Bold. All uppercase.</span>
-</div></td>
-</tr>
-<tr class="odd">
-<td><div>
-<b>Macros</b>
-</div></td>
-<td><div>
-<span style="font-size:small;">Usually all uppercase. Bold if predefined. Might be monospace if user defined. Treatment varies. Consult your group's editorial style guide.</span>
-</div></td>
-</tr>
-<tr class="even">
-<td><div>
-<b>Markup language elements (tags)</b>
-</div></td>
-<td><div>
-<span style="font-size:small;">Bold. Capitalization varies.</span>
-</div></td>
-</tr>
-<tr class="odd">
-<td><div>
-<b>Mathematical constants and variables</b>
-</div></td>
-<td><div>
-<span style="font-size:small;">Italic.</span>
-</div></td>
-</tr>
-<tr class="even">
-<td><div>
-<b>Members</b>
-</div></td>
-<td><div>
-<span style="font-size:small;">Bold. Capitalization varies.</span>
-</div></td>
-</tr>
-<tr class="odd">
-<td><div>
-<b>Methods</b>
-</div></td>
-<td><div>
-<span style="font-size:small;">Bold. Capitalization varies.</span>
-</div></td>
-</tr>
-<tr class="even">
-<td><div>
-<b>New terms</b>
-</div></td>
-<td><span style="font-size:small;">Italicize the first mention of a new term if you're going to define it immediately in text.</span></td>
-</tr>
-<tr class="odd">
-<td><div>
-<b>Operators</b>
-</div></td>
-<td><div>
-<span style="font-size:small;">Bold.</span>
-</div></td>
-</tr>
-<tr class="even">
-<td><div>
-<b>Parameters</b>
-</div></td>
-<td><div>
-<span style="font-size:small;">Italic. Capitalization varies.</span>
-</div></td>
-</tr>
-<tr class="odd">
-<td><div>
-<b>Placeholders (in syntax and in user input)</b>
-</div></td>
-<td><div>
-<span style="font-size:small;">Italic.</span>
-</div></td>
-</tr>
-<tr class="even">
-<td><div>
-<b>Ports</b>
-</div></td>
-<td><div>
-<span style="font-size:small;">All uppercase.</span>
-</div></td>
-</tr>
-<tr class="odd">
-<td><div>
-<b>Products, services, apps, and trademarks</b>
-</div></td>
-<td><div>
-<span style="font-size:small;">Usually title-style capitalization. Check the </span><a href="https://microsoft.sharepoint.com/sites/LCAWeb/Home/Copyrights-Trademarks-and-Patents/Trademarks/Trademark-List"><span style="font-size:small;">Microsoft trademark list</span></a><span style="font-size:small;"> for capitalization of trademarked names. Also consult your group's editorial style guide.</span>
-</div></td>
-</tr>
-<tr class="even">
-<td><div>
-<b>Properties</b>
-</div></td>
-<td><div>
-<span style="font-size:small;">Usually bold. Capitalization varies. Treatment may vary. Consult your group's editorial style guide.</span>
-</div></td>
-</tr>
-<tr class="odd">
-<td><div>
-<b>Registers</b>
-</div></td>
-<td><div>
-<span style="font-size:small;">All uppercase.</span>
-</div></td>
-</tr>
-<tr class="even">
-<td><div>
-<b>Registry settings</b>
-</div></td>
-<td><div>
-<span style="font-size:small;">Subtrees (first-level items) all uppercase. Separated by underscores. Usually bold.</span>
-</div>
-<div>
-<span style="font-size:small;">Registry keys (second-level items) follow the capitalization of the UI.</span>
-</div>
-<div>
-<span style="font-size:small;">Registry subkeys (below the second level) follow the capitalization of the UI.</span>
-</div>
-<div>
-<span style="font-size:small;">Treatment may vary. Consult your group's editorial style guide.</span>
-</div></td>
-</tr>
-<tr class="odd">
-<td><div>
-<b>Statements</b>
-</div></td>
-<td><div>
-<span style="font-size:small;">Bold. Capitalization varies.</span>
-</div></td>
-</tr>
-<tr class="even">
-<td><div>
-<b>Structures</b>
-</div></td>
-<td><div>
-<span style="font-size:small;">Usually bold. Capitalization varies.</span>
-</div></td>
-</tr>
-<tr class="odd">
-<td><div>
-<b>Switches</b>
-</div></td>
-<td><div>
-<span style="font-size:small;">Bold. Usually lowercase.</span>
-</div></td>
-</tr>
-<tr class="even">
-<td><div>
-<b>System commands</b>
-</div></td>
-<td><div>
-<span style="font-size:small;">All uppercase.</span>
-</div></td>
-</tr>
-<tr class="odd">
-<td><div>
-<b>UI text or strings</b>
-</div></td>
-<td><div>
-<span style="font-size:small;">Sentence-style </span><span style="font-family:Segoe UI;font-size:small;">capitalization. Enclose error messages in quotation marks when referring to them in text</span><span style="font-family:Segoe UI;font-size:small;mso-fareast-font-family:&#39;Times New Roman&#39;;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;mso-bidi-font-size:12.0pt;">.</span>
-</div></td>
-</tr>
-<tr class="even">
-<td><div>
-<b>URLs</b>
-</div></td>
-<td><div>
-<div>
-<span style="font-size:small;">All lowercase for complete URLs. If necessary, line-break long URLs before a slash. Don’t hyphenate. </span>
-<div>
-<span style="color:#000000;font-family:Segoe UI Semibold;font-size:small;">See also</span> <a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=34905"><span style="font-size:small;">URLs and web addresses</span></a>.
-</div>
-</div>
-</div></td>
-</tr>
-<tr class="odd">
-<td><div>
-<b>User input</b>
-</div></td>
-<td><div>
-<span style="font-size:small;">Usually lowercase, unless case sensitive. Bold or italic, depending on the element. If the user input string contains placeholder text, use italic for that text.</span>
-</div></td>
-</tr>
-<tr class="even">
-<td><div>
-<b>Values</b>
-</div></td>
-<td><div>
-<span style="font-size:small;">All uppercase.</span>
-</div></td>
-</tr>
-<tr class="odd">
-<td><div>
-<b>Variables</b>
-</div></td>
-<td><div>
-<span style="font-size:small;">Treatment varies, so always consult your group's editorial style guide.</span>
-</div></td>
-</tr>
-<tr class="even">
-<td><div>
-<b>XML schema elements</b>
-</div></td>
-<td><div>
-<span style="font-size:small;">Bold. Capitalization varies.</span>
-</div></td>
-</tr>
-</tbody>
-</table>
+**Element**|**Convention**|**Example**
+--|--|--
+**Attributes**|Bold. Capitalization varies.|**IfOutputPrecision**
+**Classes (predefined)**|Bold. Capitalization varies.|**ios**<br />**filebuf**<br />**bitArray**
+**Classes (user-defined)**|Bold. Capitalization varies.|**BlueTimerControl**
+**Code samples, including keywords and variables within text and as separate paragraphs, and user-defined program elements within text**|Monospace. |\#include <iostream.h>void main ()
+**Command-line commands**|Bold. All lowercase.|**copy**
+**Command-line options (also known as switches or flags)**|Bold. Capitalize the way the option must be typed.|**/a**<br />**/Aw**
+**Constants**|Usually bold. Capitalization varies. Treatment of constants may vary, so always refer to your group's editorial style guide.|**INT_MAX**<br />**bDenyWrite**<br />**CS**
+**Control classes**|All uppercase.|EDIT control class
+**Data formats**|All uppercase.|CF_DIB
+**Data structures and their members (predefined)**|Bold. Capitalization varies.|**BITMAP**<br />**bmbits**<br />**CREATESTRUCT**<br />**hinstance**
+**Data types**|Bold. Capitalization follows that of the API.|**DWORD**<br />**float**<br />**HANDLE**
+**Database names**|Bold. The capitalization of database names varies, so always refer to your group's editorial style guide.|**Contoso** database
+**Directives**|Bold.|**\#include**<br />**\#define**
+**Environment variables**|All uppercase.|INCLUDE<br />SESSION_SIGNON
+**Error messages**|Sentence-style capitalization. Enclose in quotation marks when referencing error messages in text.|An error occurred during report processing.   <br />If you see the error message, “Placeholder text in a content control contains items that aren't valid,” remove floating objects, revision marks, or content controls from placeholder text, and try again.
+**Event names**|Bold. Treatment of event names may vary. Consult your group's editorial style guide.|In the **OnClick** event procedure...
+**Fields (members of a class or structure)**|Bold. Treatment may vary, so always consult your group's editorial style guide.|**IfHeight**<br />**biPlanes**
+**File attributes**|All lowercase.|The **attrib** command displays, sets, or removes the read-only, archive, system, and hidden attributes assigned to files or directories.
+**File extensions**|All lowercase.|.mdb<br />.doc
+**File names (user-defined examples)**|Title-style capitalization. It’s OK to use internal capital letters in file names for readability.|My Taxes for 2016<br />MyTaxesFor2016
+**Folder and directory names (user-defined examples)**|Sentence-style capitalization. It’s OK to use internal capital letters in folder and directory names for readability.|Vacation and sick pay<br />MyFiles\Accounting\Payroll\VacPay
+**Functions (predefined)**|Usually bold. Capitalization varies. Treatment may vary. Consult your group's editorial style guide.|**CompactDatabase**<br />**CWnd::CreateEx**<br />**FadePic**
+**Handles**|All uppercase.|HWND
+**Keywords (language and operating system)**|Bold. Capitalization follows the application programming interface.|**main**<br />**True**<br />**AddNew**
+**Logical operators**|Bold. All uppercase.|**AND**<br />**XOR**
+**Macros**|Usually all uppercase. Bold if predefined. Might be monospace if user defined. Treatment varies. Consult your group's editorial style guide.|**LOWORD**<br />MASKROP
+**Markup language elements (tags)**|Bold. Capitalization varies.|**\<img>**<br />**\<input type=text>**<br />**\<!DOCTYPE html>**
+**Mathematical constants and variables**|Italic.|*a2 + b2 = c2*
+**Members**|Bold. Capitalization varies.|**ulNumCharsAllowed**
+**Methods**|Bold. Capitalization varies.|**OpenForm**<br />**GetPrevious**
+**New terms**|Italicize the first mention of a new term if you're going to define it immediately in text.|Microsoft Exchange consists of both server and client components.
+**Operators**|Bold.|**+, -**<br />**of**
+**Parameters**|Italic. Capitalization varies.|*hdc*<br />*grfFlag*<br />*ClientBinding*
+**Placeholders (in syntax and in user input)**|Italic.|*hdc*<br />*grfFlag*<br />*ClientBinding*
+**Ports**|All uppercase.|LPT1
+**Products, services, apps, and trademarks**|Usually title-style capitalization. Check the [Microsoft trademark list](https://microsoft.sharepoint.com/sites/LCAWeb/Home/Copyrights-Trademarks-and-Patents/Trademarks/Trademark-List) for capitalization of trademarked names. Also consult your group's editorial style guide.|Microsoft Arc Touch Mouse<br />Microsoft Word<br />Surface Pro<br />Notepad<br />Network Connections<br />Makefile<br />RC Program
+**Properties**|Usually bold. Capitalization varies. Treatment may vary. Consult your group's editorial style guide.|**M_bClipped**<br />**AbsolutePosition**<br />**Message ID**
+**Registers**|All uppercase.|DS
+**Registry settings**|Subtrees (first-level items) all uppercase. Separated by underscores. Usually bold.<br />Registry keys (second-level items) follow the capitalization of the UI.<br />Registry subkeys (below the second level) follow the capitalization of the UI.<br />Treatment may vary. Consult your group's editorial style guide.|**HKEY_CLASSES_ROOT**<br />**HKEY_LOCAL_MACHINE**<br />**SOFTWARE**<br />**ApplicationIdentifier**<br />**Microsoft**
+**Statements**|Bold. Capitalization varies.|**IMPORTS**<br />**LIBRARY**
+**Structures**|Usually bold. Capitalization varies.|ACCESSTIMEOUT
+**Switches**|Bold. Usually lowercase.|**build: commands**
+**System commands**|All uppercase.|SC_HOTLIST
+**UI text or strings**|Sentence-style capitalization. Enclose error messages in quotation marks when referring to them in text.|Hmm … looks like that’s a broken link.<br />If you see the error message, “Placeholder text in a content control contains items that aren't valid,” remove floating objects, revision marks, or content controls from placeholder text, and try again.
+**URLs**|All lowercase for complete URLs. If necessary, line-break long URLs before a slash. Don’t hyphenate.<br />**See also** [URLs and web addresses](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=34905).|www.microsoft.com<br />msdn.microsoft.com/downloads
+**User input**|Usually lowercase, unless case sensitive. Bold or italic, depending on the element. If the user input string contains placeholder text, use italic for that text.|Enter **hello world**<br />Enter **-p** *password*
+**Values**|All uppercase.|DIB_PAL_COLORS
+**Variables**|Treatment varies, so always consult your group's editorial style guide.|bEmpty<br />**m_nParams**<br />*file_name*
+**XML schema elements**|Bold. Capitalization varies.|**ElementType** element<br />**Xml:space** attribute
