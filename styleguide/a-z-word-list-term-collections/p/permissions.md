@@ -10,11 +10,8 @@ If you refer to a named permission, use title-style capitalization and regular t
 
 Don't use *privileges* or *permission records* as a synonym for *permissions*.
 
-****Examples
-Setting
+**Examples**</br>Setting
 the Traverse Folder permission on a folder doesn't automatically
-set the Execute File permission on all files within that folder.
-Grant Read, Read and Execute, and List Folder Content permissions to the Users group. 
-Whenever possible, assign permissions to groups instead of users.
+set the Execute File permission on all files within that folder.</br>Grant Read, Read and Execute, and List Folder Content permissions to the Users group. </br>Whenever possible, assign permissions to groups instead of users.
 
-**See also** **** [rights](/style-guide/a-z-word-list-term-collections/r/rights), [user rights](/style-guide/a-z-word-list-term-collections/u/user-rights)
+**See also** [rights](/style-guide/a-z-word-list-term-collections/r/rights), [user rights](/style-guide/a-z-word-list-term-collections/u/user-rights)
