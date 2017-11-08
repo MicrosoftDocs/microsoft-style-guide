@@ -8,6 +8,6 @@ Don't refer to the Command Prompt window as a *console window* except in content
 
 Describe entering commands *at a command prompt*, not *on a command line*.
 
-Example At the command prompt, enter certutil -setreg ca.
+**Example** At the command prompt, enter **certutil -setreg ca**.
 
-See also **** [command line](/style-guide/a-z-word-list-term-collections/c/command-line), [console](/style-guide/a-z-word-list-term-collections/c/console)
+**See also**  [command line](/style-guide/a-z-word-list-term-collections/c/command-line), [console](/style-guide/a-z-word-list-term-collections/c/console)

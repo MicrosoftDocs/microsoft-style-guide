@@ -41,80 +41,21 @@ To
 check the spelling of plural forms of words derived from Latin and
 Greek that retain their Latin or Greek endings (typically *-a*, *-us*, *-um*, *-on*, *-ix*, or -*ex*), see specific entries in the [A–Z word list](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25512) and *[The American Heritage Dictionary](https://ahdictionary.com/).*
 
-<table>
-<tbody>
-<tr class="odd">
-<td><b>Noun</b></td>
-<td><b>Plural form</b></td>
-</tr>
-<tr class="even">
-<td><div>
-<b>Common and proper nouns ending in <em>s</em></b>
-</div></td>
-<td><div>
-<span style="font-size:small;">If the noun ends in </span><em><span style="font-size:small;">s</span></em><span style="font-size:small;">, add </span><em><span style="font-size:small;">es</span></em><span style="font-size:small;">.</span>
-</div></td>
-</tr>
-<tr class="odd">
-<td><div>
-<b>Singular abbreviation</b>
-</div></td>
-<td><div>
-<span style="font-size:small;">Add an </span><em><span style="font-size:small;">s</span></em><span style="font-size:small;">, even if the abbreviation ends in </span><em><span style="font-size:small;">s.</span></em>
-</div></td>
-</tr>
-<tr class="even">
-<td><div>
-<b>Plural abbreviation</b>
-</div></td>
-<td><div>
-<span style="font-size:small;">If an abbreviation already represents a plural, don’t add an </span><em><span style="font-size:small;">s</span></em><span style="font-size:small;">.</span>
-</div></td>
-</tr>
-<tr class="odd">
-<td><div>
-<div>
-<b>Single letter</b>
-</div>
-</div></td>
-<td><div>
-<div>
-<span style="font-size:small;">Add an apostrophe and an </span><em><span style="font-size:small;">s</span></em><span style="font-size:small;">. </span>
-</div>
-<div>
-<span style="font-size:small;">The letter itself (but not the apostrophe or the ending </span><em><span style="font-size:small;">s</span></em><span style="font-size:small;">) is italic.</span>
-</div>
-</div></td>
-</tr>
-<tr class="even">
-<td><div>
-<b>Number</b>
-</div></td>
-<td><div>
-<span style="font-size:small;">Add an </span><em><span style="font-size:small;">s</span></em><span style="font-size:small;">.</span>
-</div></td>
-</tr>
-<tr class="odd">
-<td><div>
-<div>
-<b>Variable </b>
-</div>
-</div></td>
-<td><div>
-<span style="font-size:small;">Don’t add </span><em><span style="font-size:small;">(s)</span></em><span style="font-size:small;"> to a word to indicate that it could be either singular or plural unless you have no other choice. Use the plural form instead.</span>
-</div></td>
-</tr>
-</tbody>
-</table>
+**Noun**|**Plural form**|**Examples**
+--|--|--
+Common and proper nouns ending in *s*|If the noun ends in *s*, add *es*.|the Johnsons<br />the Joneses<br />biases
+Singular abbreviation|Add an *s*, even if the abbreviation ends in *s*.|ISVs<br />DBMSs
+Plural abbreviation|If an abbreviation already represents a plural, don’t add an *s*.|*MFC*(Microsoft Foundation Classes)
+Single letter|Add an apostrophe and an *s*.<br />The letter itself (but not the apostrophe or the ending s) is italic.|*x's*
+Number|Add an *s*.|the 1950s
+Variable|Don’t add (*s*) to a word to indicate that it could be either singular or plural unless you have no other choice. Use the plural form instead.|Wait for *x* minutes.
+
 
 #### Pronouns and gender
 
 Don’t use *he* and *his* in references to a person whose gender is unknown. Instead, rewrite to use the second person (*you*). Or refer to a person’s role (reader, employee, or client, for example), or simply use *person* or *individual.*
 
-Examples
-If you have the appropriate rights, you can set other users’ passwords..
-A user with the appropriate rights can set other users’ passwords.
-Select the name of the person you want to call, select Make a phone call, and then choose a phone number.
+**Examples**<br />If you have the appropriate rights, you can set other users’ passwords..<br />A user with the appropriate rights can set other users’ passwords.<br />Select the name of the person you want to call, select Make a phone call, and then choose a phone number.
 
 If you can’t write around the problem, it’s OK to occasionally:
 
@@ -128,8 +69,6 @@ Don’t alternate between masculine and feminine pronouns to refer to the same i
 
 Use a singular pronoun when the noun is singular, and a plural pronoun when the noun is plural. Collective nouns like *company* take a singular pronoun. Don’t use a plural pronoun (like *they*).
 
-Examples
-Meet with up to 250 people. All they need is a phone or internet connection.
-The company upgraded its cloud storage solution to Microsoft Azure.
+**Examples**<br />Meet with up to 250 people. All they need is a phone or internet connection.<br />The company upgraded its cloud storage solution to Microsoft Azure.
 
-Exception If the emphasis is on the individuals in a group, it’s OK to use a plural pronoun with a singular noun.
+**Exception** If the emphasis is on the individuals in a group, it’s OK to use a plural pronoun with a singular noun.

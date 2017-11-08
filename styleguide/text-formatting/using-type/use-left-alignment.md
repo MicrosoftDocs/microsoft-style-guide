@@ -12,43 +12,8 @@ Avoid these awkward situations in text:
 
 In Word and PowerPoint, you can manage these situations without using manual line breaks.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><b>To</b></td>
-<td><b>Do this</b></td>
-</tr>
-<tr class="even">
-<td><div>
-Keep a hyphenated word from breaking at the end of a line 
-</div></td>
-<td><div>
-Insert a nonbreaking hyphen by pressing Ctrl+Shift+_. 
-</div></td>
-</tr>
-<tr class="odd">
-<td><div>
-<div>
-Keep the last word of a paragraph with the word that precedes it
-</div>
-</div></td>
-<td><div>
-<div>
-Insert a nonbreaking space by pressing Ctrl+Shift+Space.
-</div>
-</div></td>
-</tr>
-<tr class="even">
-<td><div>
-<div>
-Control widows and orphans in Word 
-</div>
-</div></td>
-<td><div>
-<div>
-Select a paragraph formatted with Normal style. On the context menu, select <b>Styles &gt; Apply Styles</b>. In the <b>Apply Styles</b> pane, select <b>Modify</b>. Select <b>Format &gt; Paragraph</b>. On the <b>Line and page breaks</b> <strong></strong> tab, select <b>Widow/Orphan control</b>.
-</div>
-</div></td>
-</tr>
-</tbody>
-</table>
+**To**|**Do this**
+--|--
+Keep a hyphenated word from breaking at the end of a line|Insert a nonbreaking hyphen by pressing Ctrl+Shift+_.
+Keep the last word of a paragraph with the word that precedes it|Insert a nonbreaking space by pressing Ctrl+Shift+Space.
+Control widows and orphans in Word|Select a paragraph formatted with Normal style. On the context menu, select **Styles > Apply Styles**. In the **Apply Styles** pane, select **Modify**. Select **Format > Paragraph**. On the **Line and page breaks** tab, select **Widow/Orphan control**.

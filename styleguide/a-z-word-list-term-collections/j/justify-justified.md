@@ -4,4 +4,4 @@ Don’t use as a synonym for *aligned*. Justified text is text that is both left
 
 If your content has an index or a glossary that includes topics about alignment, include *justify* in the index or glossary with cross-references to *align*, *left align*, and *right align*, as appropriate.
 
-See also [left align, left-aligned,](/style-guide/a-z-word-list-term-collections/l/left-align-left-aligned) [right align, right-aligned](/style-guide/a-z-word-list-term-collections/r/right-align-right-aligned)
+**See also** [left align, left-aligned,](/style-guide/a-z-word-list-term-collections/l/left-align-left-aligned) [right align, right-aligned](/style-guide/a-z-word-list-term-collections/r/right-align-right-aligned)

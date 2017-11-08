@@ -19,8 +19,8 @@ Keep it simple.
         after every element, even if a list element contains three or fewer
         words.
 
-  - Include commas after every item in a series, including the last one.
-    Example networks, storage, and virtual machines
+  - Include commas after every item in a series, including the last one.<br />    **Example** networks, storage, and virtual machines<br />
+  
     You might know that extra comma as the Oxford comma. [Learn more](/style-guide/punctuation/commas).[
     ](/style-guide/punctuation/commas)
   - Use a comma following an introductory phrase, to join independent clauses with a conjunction, and to surround the year when you use a complete date within a sentence. [Learn more](/style-guide/punctuation/commas).
@@ -40,7 +40,7 @@ Keep it simple.
       - Outside commas and periods.
       - Inside other punctuation.
 
-Exception If punctuation is part of the quoted material, place it inside the quotation marks.
+    **Exception** If punctuation is part of the quoted material, place it inside the quotation marks.
 
   - In general, don’t use hyphens unless leaving them out could result in confusion. [Learn more](/style-guide/punctuation/dashes-hyphens/hyphens).[
     ](/style-guide/punctuation/dashes-hyphens/hyphens)
