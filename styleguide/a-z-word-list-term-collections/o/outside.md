@@ -2,4 +2,4 @@
 
 Use instead of *outside of*.
 
-Example ****The taskbar is outside the main window area. 
+**Example** The taskbar is outside the main window area. 
