@@ -26,4 +26,4 @@ socioeconomic class.
 
   - Focus on the person, not the disability. 
 
-Learn more about [Bias-free communication](/style-guide/bias-free-communication). 
+**Learn more** about [Bias-free communication](/style-guide/bias-free-communication). 
