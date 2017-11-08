@@ -1,5 +1,5 @@
 # write-only
 
-Always hyphenate. **
+Always hyphenate. 
 
 **See also** [read/write, read/write permissions](/style-guide/a-z-word-list-term-collections/r/read-write-read-write-permission)
