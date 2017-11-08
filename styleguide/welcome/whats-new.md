@@ -4,215 +4,54 @@ This table shows a history of recent updates to the *Microsoft Writing Style Gui
 
 Contact <msstyle@microsoft.com> for archives of earlier history.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><b>Version</b></td>
-<td><b>Topic</b></td>
-</tr>
-<tr class="even">
-<td><span style="font-family:Segoe UI;font-size:small;">October 17, 2017</span></td>
-<td><span style="font-size:small;"><span style="font-family:Segoe UI;font-size:small;"><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=33405">turn on, turn off</a><br />
-<a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=33848">gray, grayed out<br />
-</a><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=33639">dimmed</a><br />
-<a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=33849">shaded</a></span></span></td>
-</tr>
-<tr class="odd">
-<td><span style="font-family:Segoe UI;font-size:small;">October 17, 2017</span></td>
-<td><span style="font-family:Segoe UI;font-size:small;"><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=33644">unavailable</a></span></td>
-</tr>
-<tr class="even">
-<td><span style="font-family:Segoe UI;font-size:small;">October 17, 2017</span></td>
-<td><span style="font-family:Segoe UI;font-size:small;"><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=33643">disable, disabled</a></span></td>
-</tr>
-<tr class="odd">
-<td><span style="font-family:&#39;Segoe UI&#39;;font-size:small;">September 21, 2017</span></td>
-<td><span style="font-family:&#39;Segoe UI&#39;;font-size:small;">Reserve human characteristics for people</span></td>
-</tr>
-<tr class="even">
-<td><span style="font-family:&#39;Segoe UI&#39;;font-size:small;">September 21, 2017</span></td>
-<td><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=28793"><span style="font-family:&#39;Segoe UI&#39;;font-size:small;">slideshow</span></a></td>
-</tr>
-<tr class="odd">
-<td><span style="font-family:&#39;Segoe UI&#39;;font-size:small;">September 15, 2017</span></td>
-<td><span style="font-family:&#39;Segoe UI&#39;;font-size:small;">gateway</span></td>
-</tr>
-<tr class="even">
-<td><span style="font-family:&#39;Segoe UI&#39;;font-size:small;">September 11, 2017</span></td>
-<td><span style="font-family:&#39;Segoe UI&#39;;font-size:small;"><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=42332"></a><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=42332">Name development</a></span></td>
-</tr>
-<tr class="odd">
-<td><span style="font-family:&#39;Segoe UI&#39;;font-size:small;">August 29, 2017</span></td>
-<td><span style="font-family:&#39;Segoe UI&#39;;font-size:small;"><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=28884">Units of measure term collection</a></span></td>
-</tr>
-<tr class="even">
-<td><span style="font-family:&#39;Segoe UI&#39;;font-size:small;">August 28, 2017</span></td>
-<td><span style="font-family:&#39;Segoe UI&#39;;font-size:small;"><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=33685">Capitalization</a></span><br />
-<span style="font-family:&#39;Segoe UI&#39;;font-size:small;"><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=28760">Slashes</a></span></td>
-</tr>
-<tr class="odd">
-<td><span style="font-family:&#39;Segoe UI&#39;;font-size:small;">August 28, 2017</span></td>
-<td><span style="font-family:&#39;Segoe UI&#39;;font-size:small;"><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=26696">Copyrights and trademarks</a></span></td>
-</tr>
-<tr class="even">
-<td><span style="font-family:&#39;Segoe UI&#39;;font-size:small;">August 9, 2017</span></td>
-<td><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=33688"><span style="font-family:&#39;Segoe UI&#39;;font-size:small;">Numbers</span></a></td>
-</tr>
-<tr class="odd">
-<td><span style="font-family:&#39;Segoe UI&#39;;font-size:small;">August 2, 2017</span></td>
-<td><span style="font-family:&#39;Segoe UI&#39;;font-size:small;"><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=26589">Accessibility</a></span></td>
-</tr>
-<tr class="even">
-<td><span style="font-family:&#39;Segoe UI&#39;;font-size:small;">July 30, 2017</span></td>
-<td><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=34947"><span style="font-family:&#39;Segoe UI&#39;;font-size:small;">internet, intranet, extranet</span></a></td>
-</tr>
-<tr class="odd">
-<td><span style="font-family:&#39;Segoe UI&#39;;font-size:small;">July 28, 2017</span></td>
-<td><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=29024"><span style="font-family:&#39;Segoe UI&#39;;font-size:small;">Microsoft style references</span></a></td>
-</tr>
-<tr class="even">
-<td><span style="font-family:&#39;Segoe UI&#39;;font-size:small;">July 18, 2017</span></td>
-<td><span style="font-size:small;font-family:&#39;Segoe UI&#39;;">data modem</span></td>
-</tr>
-<tr class="odd">
-<td><span style="font-family:&#39;Segoe UI&#39;;font-size:small;">June 26, 2017</span></td>
-<td><span style="font-family:&#39;Segoe UI&#39;;font-size:small;"><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=33655">document</a></span><br />
-<span style="font-family:&#39;Segoe UI&#39;;font-size:small;"><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=33777">file<br />
-<span style="font-family:&#39;Segoe UI&#39;;font-size:small;"></span></a><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=36075">spreadsheet vs. workbook</a></span><br />
-</td>
-</tr>
-<tr class="even">
-<td><span style="font-family:&#39;Segoe UI&#39;;font-size:small;">June 6, 2017</span></td>
-<td><span style="font-family:&#39;Segoe UI&#39;;font-size:small;"><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=42282">e-discovery</a></span></td>
-</tr>
-<tr class="odd">
-<td><span style="font-family:Segoe UI;font-size:small;">May 24, 2017</span></td>
-<td><span style="font-family:Segoe UI;font-size:small;"><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=32189">Writing for all abilities</a></span></td>
-</tr>
-<tr class="even">
-<td><span style="font-family:Segoe UI;font-size:small;">May 24, 2017</span></td>
-<td><span style="font-family:Segoe UI;font-size:small;"><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=35249">plus sign (+)</a></span></td>
-</tr>
-<tr class="odd">
-<td><span style="font-family:&#39;Segoe UI&#39;;font-size:small;">May 22, 2017</span></td>
-<td><span style="font-family:&#39;Segoe UI&#39;;font-size:small;"><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=28768">Quotation marks</a></span></td>
-</tr>
-<tr class="even">
-<td><span style="font-family:&#39;Segoe UI&#39;;font-size:small;">May 11, 2017</span></td>
-<td><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=33514"><span style="font-family:&#39;Segoe UI&#39;;font-size:small;">Cascading Style Sheets (CSS)</span></a></td>
-</tr>
-<tr class="odd">
-<td><span style="font-family:&#39;Segoe UI&#39;;font-size:small;">May 11, 2017</span></td>
-<td><span style="font-family:&#39;Segoe UI&#39;;font-size:small;">Use certain words carefully</span></td>
-</tr>
-<tr class="even">
-<td><span style="font-family:&#39;Segoe UI&#39;;font-size:small;">April 14, 2017</span></td>
-<td><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=42256"><span style="font-size:small;font-family:&#39;Segoe UI&#39;;">Acronyms</span></a></td>
-</tr>
-<tr class="odd">
-<td><span style="font-size:small;font-family:&#39;Segoe UI&#39;;">April 13, 2017</span></td>
-<td><span style="font-size:small;font-family:&#39;Segoe UI&#39;;"><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=29014">Formatting text in instructions</a></span></td>
-</tr>
-<tr class="even">
-<td><span style="font-family:&#39;Segoe UI&#39;;font-size:small;">March 16, 2017</span></td>
-<td><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=36412"><span style="font-family:&#39;Segoe UI&#39;;font-size:small;">Lists</span></a></td>
-</tr>
-<tr class="odd">
-<td><span style="font-family:&#39;Segoe UI&#39;;font-size:small;">March 16, 2017</span></td>
-<td><span style="font-family:&#39;Segoe UI&#39;;font-size:small;"><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=36413">Tables</a></span></td>
-</tr>
-<tr class="even">
-<td><span style="font-family:&#39;Segoe UI&#39;;font-size:small;">March 10, 2017</span></td>
-<td><span style="font-family:&#39;Segoe UI&#39;;font-size:small;"><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=41216">online services</a></span></td>
-</tr>
-<tr class="odd">
-<td><span style="font-family:&#39;Segoe UI&#39;;font-size:small;">March 10, 2017</span></td>
-<td><span style="font-family:&#39;Segoe UI&#39;;font-size:small;"><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=41215">web services</a></span></td>
-</tr>
-<tr class="even">
-<td><span style="font-family:&#39;Segoe UI&#39;;font-size:small;">March 9, 2017</span></td>
-<td><span style="font-family:&#39;Segoe UI&#39;;font-size:small;"><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=28760">Slashes</a></span></td>
-</tr>
-<tr class="odd">
-<td><span style="font-family:&#39;Segoe UI&#39;;font-size:small;">March 9, 2017</span></td>
-<td><span style="font-family:&#39;Segoe UI&#39;;font-size:small;"><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=33582">Country or region</a></span></td>
-</tr>
-<tr class="even">
-<td><span style="font-family:&#39;Segoe UI&#39;;font-size:small;">February 24, 2017</span></td>
-<td><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=26907"><span style="font-family:&#39;Segoe UI&#39;;font-size:small;">Writing tips</span></a><span style="font-family:&#39;Segoe UI&#39;;font-size:small;"> in global communications</span></td>
-</tr>
-<tr class="odd">
-<td><span style="font-family:&#39;Segoe UI&#39;;font-size:small;">February 23, 2017</span></td>
-<td><span style="font-family:&#39;Segoe UI&#39;;font-size:small;"><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=26906">Global communications</a></span></td>
-</tr>
-<tr class="even">
-<td><span style="font-family:&#39;Segoe UI&#39;;font-size:small;">February 9, 2017</span></td>
-<td><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=35456"><span style="font-family:&#39;Segoe UI&#39;;font-size:small;">Microsoft</span></a></td>
-</tr>
-<tr class="odd">
-<td><span style="font-family:Segoe UI;font-size:small;">January 19, 2017</span></td>
-<td><span style="font-family:Segoe UI;font-size:small;"><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=29022">What's new</a></span></td>
-</tr>
-<tr class="even">
-<td><span style="font-family:&#39;Segoe UI&#39;;font-size:small;">December 20, 2016</span></td>
-<td><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=33636"><span style="font-family:&#39;Segoe UI&#39;;font-size:small;">dialog box, dialog</span></a></td>
-</tr>
-<tr class="odd">
-<td><span style="font-family:&#39;Segoe UI&#39;;font-size:small;">December 16, 2016</span></td>
-<td><span style="font-family:&#39;Segoe UI&#39;;font-size:small;"><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=29024">Microsoft style references</a> and others</span></td>
-</tr>
-<tr class="even">
-<td><span style="font-family:&#39;Segoe UI&#39;;font-size:small;">December 15, 2016</span></td>
-<td><span style="font-family:&#39;Segoe UI&#39;;font-size:small;"><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=26914">Names and contact information</a></span><br />
-<a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=29203"><span style="font-family:&#39;Segoe UI&#39;;font-size:small;">Global communications checklist</span></a></td>
-</tr>
-<tr class="odd">
-<td><span style="font-family:&#39;Segoe UI&#39;;font-size:small;">November 17, 2016</span></td>
-<td><span style="font-family:&#39;Segoe UI&#39;;font-size:small;">user name topic in the A–Z word list</span></td>
-</tr>
-<tr class="even">
-<td><span style="font-family:&#39;Segoe UI&#39;;font-size:small;">November 4, 2016</span></td>
-<td><span style="font-family:&#39;Segoe UI&#39;;font-size:small;"><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=39599">flyout</a></span></td>
-</tr>
-<tr class="odd">
-<td><span style="font-family:&#39;Segoe UI&#39;;font-size:small;">November 2, 2016</span></td>
-<td><span style="font-family:&#39;Segoe UI&#39;;font-size:small;"><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=39598">that vs. which</a></span></td>
-</tr>
-<tr class="even">
-<td><span style="font-family:&#39;Segoe UI&#39;;font-size:small;">October 19, 2016</span></td>
-<td><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=26912"><span style="font-size:small;font-family:&#39;Segoe UI&#39;;">Currency</span></a></td>
-</tr>
-<tr class="odd">
-<td><span style="font-family:&#39;Segoe UI&#39;;font-size:small;">October 18, 2016</span></td>
-<td><span style="font-family:&#39;Segoe UI&#39;;font-size:small;"><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=27401">Keys and keyboard shortcuts term list</a></span></td>
-</tr>
-<tr class="even">
-<td><span style="font-family:&#39;Segoe UI&#39;;font-size:small;">October 14, 2016</span></td>
-<td><span style="font-family:&#39;Segoe UI&#39;;font-size:small;"><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=39581">Hashtags</a></span></td>
-</tr>
-<tr class="odd">
-<td><span style="font-family:&#39;Segoe UI&#39;;font-size:small;">October 13, 2016</span></td>
-<td><span style="font-family:&#39;Segoe UI&#39;;font-size:small;"><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=39585">worldwide vs. international</a></span></td>
-</tr>
-<tr class="even">
-<td><span style="font-family:&#39;Segoe UI&#39;;font-size:small;">October 10, 2016</span></td>
-<td><span style="font-family:&#39;Segoe UI&#39;;font-size:small;"><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=26589">Accessibility guidelines and requirements</a></span></td>
-</tr>
-<tr class="odd">
-<td><span style="font-family:&#39;Segoe UI&#39;;font-size:small;">October 7, 2016</span></td>
-<td><span style="font-family:&#39;Segoe UI&#39;;font-size:small;"><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=26894">Security, safety, and privacy term list</a>, <a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=39192">black hat hacker</a>, <a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=39193">white hat hacker</a></span></td>
-</tr>
-<tr class="even">
-<td><span style="font-family:&#39;Segoe UI&#39;;font-size:small;">October 3, 2016</span></td>
-<td><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=26912"><span style="font-family:&#39;Segoe UI&#39;;font-size:small;">Currency</span></a></td>
-</tr>
-<tr class="odd">
-<td><span style="font-family:&#39;Segoe UI&#39;;font-size:small;">September 9, 2016</span></td>
-<td><span style="font-family:&#39;Segoe UI&#39;;font-size:small;"><a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=28841">Cloud-computing term list</a></span></td>
-</tr>
-<tr class="even">
-<td><span style="font-family:&#39;Segoe UI&#39;;font-size:small;">September 2, 2016</span></td>
-<td><span style="font-size:small;">Collaborate, collaboration, collaborator topic in the A–Z word list</span></td>
-</tr>
-</tbody>
-</table>
+**Version**|**Topic**|**Change**
+--|--|--
+October 17, 2017|[turn on, turn off](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33405)<br />[gray, grayed out](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33848)<br />[dimmed](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33639)<br />[shaded](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33849)|Topics updated to clarify how to refer to commands and options that aren't available.
+October 17, 2017|[unavailable](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33644)|Updated the topic to say that *not available* or *isn't available* should be used instead of *unavailable* to describe commands and options that are in an unusable state.
+October 17, 2017|[disable, disabled](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33643)|Updated the topic to say that *disable* and *disabled* can be used for a technical audience to refer to commands and functions that are made inactive.
+September 21, 2017|Reserve human characteristics for people|Deleted this subtopic in the [Word choice](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36378) topic to reflect current Microsoft voice and style.
+September 21, 2017|[slideshow](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28793)|Updated the topic to say that slideshow is one word unless you need to match the UI.
+September 15, 2017|gateway|Deleted this unnecessary topic.
+September 11, 2017|[Name development](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=42332)|Added a new topic with links to information about how to name new products and guidelines for localizing product names.
+August 29, 2017|[Units of measure term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28884)|Added guidance about the correct spacing and hyphenation of a number plus a unit of measure.
+August 28, 2017|[Capitalization](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33685)<br />[Slashes](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28760)|Added the guideline that when words are joined with a slash, the word after the slash is capitalized if the word before the slash is. Updated examples.
+August 28, 2017|[Copyrights and trademarks](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26696)|Deleted the requirement to include the trademark descriptor after the first mention of a trademark.
+August 9, 2017|[Numbers](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33688)|Clarified that in measurements where the unit is spelled out, the plural form is used unless the number is 1, in which case the singular form of the unit of measure is used.
+August 2, 2017|[Accessibility](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26589)|Added links to the Accessibility Assessment Tool and the Accessibility team contacts.
+July 30, 2017|[internet, intranet, extranet](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=34947)|Updated to say that *internet* should be lowercase.
+July 28, 2017|[Microsoft style references](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=29024)|Added a link to the Docs Help style guide, for technical content and documentation that's posted to the Docs.Microsoft.com site.
+July 18, 2017|data modem|Deleted this unnecessary topic.
+June 26, 2017|[document](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33655)<br />[file](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33777)<br />[spreadsheet vs. workbook](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36075)|Clarified when to use the terms *document, file, workbook*, and *spreadsheet*. The name of the "spreadsheet vs. worksheet" topic was changed to [spreadsheet vs. workbook](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36075).
+June 6, 2017|[e-discovery](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=42282)|Added a topic to the A–Z word list.
+May 24, 2017|[Writing for all abilities](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=32189)|Added the guideline that words like *and*, *plus*, and *about* should be spelled out because screen readers can misread text that uses the plus sign (+) or tilde (~). 
+May 24, 2017|[plus sign (+)](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35249)|Updated with information about using the plus sign (+) as a replacement for words like *and*, *over*, and *plus*. Updated examples.
+May 22, 2017|[Quotation marks](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28768)|Added a guideline that, in most content, use double quotation marks (" ") not single quotation marks (' ').
+May 11, 2017|[Cascading Style Sheets (CSS)](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33514)|Expanded the topic to cover references to the Cascading Style Sheets technique and generic references to style sheets created using CSS. 
+May 11, 2017|Use certain words carefully|Deleted this subtopic in the [Word choice](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36378) topic. The guidelines that were here can be found in the [Security, safety, and privacy content](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26896) topic (for the words *safe*, *private*, *secure*, and *protect*) and in the [please](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28832), [sorry](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28833), and [thank you](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28834) topics. 
+April 14, 2017|[Acronyms](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=42256)|Added a topic with guidelines for using acronyms and their spelled-out forms.
+April 13, 2017|[Formatting text in instructions](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=29014)|Added guidance for instructions that appear within the UI and in general content such as blogs and marketing.
+March 16, 2017|[Lists](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36412)|Expanded guidance for capitalization and punctuation of common list types.
+16-Mar-17|[Tables](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36413)|Expanded guidance for content, capitalization, and punctuation of tables.
+10-Mar-17|[online services](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=41216)|Added a topic to the A–Z word list.
+10-Mar-17|[web services](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=41215)|Added a topic to the A–Z word list.
+9-Mar-17|[Slashes](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28760)|Clarified that it's OK to use a forward slash (/) to show a combination but not to replace the word *or*. Updated examples.
+9-Mar-17|[Country or region](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33582)|Clarified when it's OK to use *country or region* and *country/region*. Changed the topic title from *Country/region* to *Country or region*.
+24-Feb-17|[Writing tips](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26907) in global communications|Updated the tips for writing for machine translation.
+23-Feb-17|[Global communications](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26906)|Added links to new Global Readiness resources: a video explaining the importance of global readiness and an online training course.
+9-Feb-17|[Microsoft](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35456)|Added guidance for using *Microsoft's* and examples of correct usage.
+19-Jan-17|[What's new](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=29022)|Moved the revision history to the [What’s new](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=29022) topic. Deleted the “Recent changes” topic and “What happened to the old style guide?” topic.
+20-Dec-16|[dialog box, dialog](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33636)|Clarified guidance for using the term with different audiences and added examples.
+16-Dec-16|[Microsoft style references](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=29024) and others|Changed links to the GetMSCOM site to go to the current Microsoft Web Framework site.
+15-Dec-16|[Names and contact information](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26914)<br />[Global communications checklist](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=29203)|Added links to GPWeb for information about the correct ordering of first and last names in various cultures and guidelines for the personal name formats available on the GPWeb Regional Formats page.
+17-Nov-16|user name topic in the A–Z word list|Deleted so that Microsoft style is consistent with *American Heritage Dictionary*, which now lists *username* as one word.
+4-Nov-16|[flyout](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=39599)|Added a topic to the A–Z word list.
+2-Nov-16|[that vs. which](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=39598)|Added a topic explaining when to use *that* and when to use *which* in clauses.
+19-Oct-16|[Currency](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26912)|Added guidelines for using codes and symbols in references to specific amounts.
+18-Oct-16|[Keys and keyboard shortcuts term list](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=27401)|Added a row with guidance for the term *Key Tip*. Clarified the difference between *access key* and *shortcut key*.
+14-Oct-16|[Hashtags](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=39581)|Added a new topic with guidelines for how to use hashtags effectively.
+13-Oct-16|[worldwide vs. international](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=39585)|Added a topic to the A–Z word list that explains when it's appropriate to use each term and gives examples of correct usage.
+10-Oct-16|[Accessibility guidelines and requirements](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26589)|Added a link to the [Accessibility 101 online training course](https://aka.ms/accessibility101) and the public [Microsoft Accessibility site](https://www.microsoft.com/en-us/accessibility/).
+7-Oct-16|[Security, safety, and privacy term list](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26894), [black hat hacker](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=39192), [white hat hacker](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=39193)|Moved guidance for *black hat hacker* and *white hat hacker* to the [Security, safety, and privacy term list](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26894). 
+3-Oct-16|[Currency](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26912)|Changed the topic title from "International currency" to "Currency." Updated the information about how to find official currency names.
+9-Sep-16|[Cloud-computing term list](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28841)|Added guidance for *conversations as a platform (CaaP)*.
+2-Sep-16|Collaborate, collaboration, collaborator topic in the A–Z word list|Deleted to be consistent with the PoliCheck English term list, which no longer restricts the use of *collaborator*.
