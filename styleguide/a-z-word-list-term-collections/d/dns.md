@@ -16,4 +16,4 @@ is the Windows service that appears in the Computer Management console.
 In general, refer to the service only in a discussion about stopping
 and starting it.
 
-See also [Azure DNS](https://worldready.cloudapp.net/Styleguide/Read?id=2696&topicid=40745 "Azure DNS topic in the Cloud Style Guide") in the *Microsoft Cloud Style Guide*
+**See also** [Azure DNS](https://worldready.cloudapp.net/Styleguide/Read?id=2696&topicid=40745 "Azure DNS topic in the Cloud Style Guide") in the *Microsoft Cloud Style Guide*
