@@ -13,10 +13,4 @@ nature of the folder, if necessary.
 
 In instructions, use bold formatting for the folder name if you’re directing the customer to select, type, or otherwise interact with the name.
 
-Examples
-You can find the file on your hard drive in C:\\Windows\\System\\Color. 
-You can find the file on X:\\Windows\\System\\Color. 
-You can find the file in the Color folder. 
-The system files are in the System subdirectory in the Windows directory. 
-Select the Windows **** folder.
-Select Documents, and then select the file you want.
+**Examples**<br />You can find the file on your hard drive in C:\\Windows\\System\\Color. <br />You can find the file on X:\\Windows\\System\\Color. <br />You can find the file in the Color folder. <br />The system files are in the System subdirectory in the Windows directory. <br />Select the **Windows** folder.<br />Select **Documents**, and then select the file you want.
