@@ -1,9 +1,8 @@
-# executable, .exe
+# executable-exe
 
-Use *executable* and *.exe* as adjectives, not nouns. Use *an*, not *a*, as the article preceding .exe: *an .exe file.*
+Don't use except to follow the UI. Use *run* instead. Even if the UI includes *execute*, the action is *run*. Always use *run* in the context of macros and queries.
 
-Examples
-an executable program 
-the .exe file
-
-Use *executable file* only in content for a technical audience. For a general audience, use *program file* instead. 
+**Examples**  
+To run the program, select **Execute**.  
+Commands are run in the order in which they're listed in the file. 
+A thread is the basic unit of program execution.
