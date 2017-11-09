@@ -4,4 +4,4 @@ Don't use if you can use *multiple selection* instead. It's OK to use *adjacent 
 
 Don't use *contiguous selection*.
 
-**See also** **** [multiple selection](/style-guide/a-z-word-list-term-collections/m/multiple-selection)
+**See also** [multiple selection](/style-guide/a-z-word-list-term-collections/m/multiple-selection)
