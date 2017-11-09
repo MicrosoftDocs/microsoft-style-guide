@@ -9,11 +9,11 @@ It’s OK to use *pop-up window* to refer to windows that pop up in Help. Don’
 It’s OK to use
 *pop-up menu* for a programming audience to describe the menu that appears when a customer right-clicks an item. If you must use a term to describe this type of menu in content for a general audience, use *shortcut menu*.
 
-Examples
-Answer the questions in the wizard as they appear. 
-Some commands carry out an action immediately. Others open a dialog box so that you can select options. 
-A pop-up window gives additional information about an option. 
-If you want to print the information in a pop-up window, right-click the window, and then select Print Topic.
-In the pop-up list, select Microsoft Excel.
+**Examples**  
+Answer the questions in the wizard as they appear.   
+Some commands carry out an action immediately. Others open a dialog box so that you can select options.  
+A pop-up window gives additional information about an option.  
+If you want to print the information in a pop-up window, right-click the window, and then select **Print Topic**.  
+In the pop-up list, select **Microsoft Excel**.  
 
-See also [context menu](/style-guide/a-z-word-list-term-collections/c/context-menu), [shortcut menu](/style-guide/a-z-word-list-term-collections/s/shortcut-shortcut-menu)
+*See also* [context menu](/style-guide/a-z-word-list-term-collections/c/context-menu), [shortcut menu](/style-guide/a-z-word-list-term-collections/s/shortcut-shortcut-menu)
