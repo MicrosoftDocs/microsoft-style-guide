@@ -8,12 +8,13 @@ grammar and usage.
 Stick with these trustworthy resources, and use them in this order:
 
 1.  Consider your group's editorial style guide as your primary reference.
-2.  Use this *Microsoft Writing Style Guide* **as your go-to guide for matters of style and voice.
+
+2.  Use this *Microsoft Writing Style Guide* as your go-to guide for matters of style and voice.
 3.  Determine whether another team has already addressed your issue by searching this style guide and product group guides.
 4.  Check trademark names on the [Microsoft Corporation trademarks list](https://microsoft.sharepoint.com/sites/LCAWeb/Home/Copyrights-Trademarks-and-Patents/Trademarks/Trademark-List). (This page requires Microsoft network access.)
 5.  Check product names in the corporate taxonomy:
       - Go to [the Microsoft corporate taxonomy](https://microsoft.sharepoint.com/teams/corptaxbrowse/_layouts/15/termstoremanager.aspx). (This page requires Microsoft network access.)
-      - In the left navigation, open Corporate tagging taxonomies \> Products for tagging, and then find the product name.
+      - In the left navigation, open **Corporate tagging taxonomies \> Products for tagging**, and then find the product name.
         [](https://microsoft.sharepoint.com/teams/corptaxbrowse/_layouts/15/termstoremanager.aspx.)
 6.  Use [*The American Heritage Dictionary*](https://ahdictionary.com/) for spelling and usage not covered in this guide. If *American Heritage* lists alternative spellings for a word, use the first one.
 7.  Visit [Microsoft Brand Central](https://microsoft.sharepoint.com/teams/brandcentral "Brand portal") for visual assets, brand guidelines, and templates. And the [Docs Help style guide](https://review.docs.microsoft.com/en-us/help/?branch=master "Style guide for Microsoft Documentation site") if you're writing technical content or documentation for the Docs.Microsoft.com site. (These sites require Microsoft network access.) See the [](http://www.getmwf.com/)[Microsoft Web Framework](http://www.getmwf.com/) for Microsoft.com design standards. 
