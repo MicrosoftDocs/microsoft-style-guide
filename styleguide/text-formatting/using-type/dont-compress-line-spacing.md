@@ -14,39 +14,9 @@ need to modify line spacing later, change it in the styles, not in
 individual paragraphs, so spacing remains consistent throughout
 the content. Never reduce line spacing to fit more text on a slide or page. Edit the text instead.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><b>Font size</b></td>
-<td><b>Line spacing</b></td>
-</tr>
-<tr class="even">
-<td><div>
-<div>
-<span style="font-family:Segoe UI;font-size:small;">Body text (up to 14 points)</span>
-</div>
-</div></td>
-<td><div>
-<div>
-<span style="font-family:Segoe UI;font-size:small;">120% minimum</span>
-</div>
-</div></td>
-</tr>
-<tr class="odd">
-<td><div>
-<span style="font-family:Segoe UI;font-size:small;">Subheadings (14–36 points)</span>
-</div></td>
-<td><div>
-<span style="font-family:Segoe UI;font-size:small;">110% minimum</span>
-</div></td>
-</tr>
-<tr class="even">
-<td><div>
-<span style="font-family:Segoe UI;font-size:small;">Headings (36 points or larger)</span>
-</div></td>
-<td><div>
-<span style="font-family:Segoe UI;font-size:small;">120% maximum</span>
-</div></td>
-</tr>
-</tbody>
-</table>
+| Font size | Line spacing |
+|---|---|
+| Body text (up to 14 points) | 120% minimum |
+| Subheadings (14–36 points) | 110% minimum |
+| Headings (36 points or larger) | 120% maximum |
+
