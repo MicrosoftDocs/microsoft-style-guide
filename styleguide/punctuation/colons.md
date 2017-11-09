@@ -4,7 +4,7 @@
 
 Include a colon at the end of a phrase that directly introduces a list.
 
-Example
+**Example**  
 We can create a backup of all sorts of things to make the transition easier, including: 
 
   - The apps you've installed on your phone, along with high scores and progress from participating apps. 
@@ -13,7 +13,7 @@ We can create a backup of all sorts of things to make the transition easier, inc
 
 To learn more, see [Lists](/style-guide/scannable-content/lists).
 
-Within sentences
+#### Within sentences
 
 Use colons sparingly at the end of a statement followed by a second statement that expands on it. 
 
@@ -26,7 +26,7 @@ Most of the time, two sentences are more readable.
 
 When you use a colon in a sentence, lowercase the word that follows it unless:
 
-  - The colon introduces a direct quotation.
-    Example What does it mean when I see a message that asks: "Are you trying to visit this site?"
-  - The first word after the colon is a proper noun.
-    Example We're considering three cities for the event: Los Angeles, Munich, and Tokyo. 
+  - The colon introduces a direct quotation.  
+    **Example** What does it mean when I see a message that asks: "Are you trying to visit this site?"
+  - The first word after the colon is a proper noun.  
+    **Example** We're considering three cities for the event: Los Angeles, Munich, and Tokyo. 
