@@ -2,7 +2,7 @@
 
 Don't use except to reference the term when it appears in the UI or an API. Don't use *deinstall* to refer to the related action. Use *remove* instead. 
 
- Example
-The DeInstall method removes the specified network component from the operating system.
+ **Example**  
+The **DeInstall** method removes the specified network component from the operating system.
 
-See also [](/style-guide/a-z-word-list-term-collections/u/uninstall)[uninstall](/style-guide/a-z-word-list-term-collections/u/uninstall)
+**See also** [](/style-guide/a-z-word-list-term-collections/u/uninstall)[uninstall](/style-guide/a-z-word-list-term-collections/u/uninstall)
