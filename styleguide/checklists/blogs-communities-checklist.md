@@ -14,7 +14,7 @@
   - Add a disclaimer to archived posts, which may become inaccurate over time.
   - Use social media to raise awareness about new blog posts.
 
-Learn more about [blogs](/style-guide/social-mediablogs "blogs").
+**Learn more about** [blogs](/style-guide/social-mediablogs "blogs").
 
 #### Communities
 
@@ -29,4 +29,4 @@ Learn more about [blogs](/style-guide/social-mediablogs "blogs").
   - Tag entries with keywords.
   - Use social media to promote interesting content and encourage community contributions.
 
-Learn more about [communities](/style-guide/social-mediacommunities "communities").
+**Learn more** about [communities](/style-guide/social-mediacommunities "communities").

@@ -6,6 +6,6 @@ Use the abbreviation *HDMI* most of the time. It’s OK to spell out in parenthe
 
 Use *an* as an article with *HDMI.*
 
-Examples
-This monitor requires an HDMI cable.
+**Examples**  
+This monitor requires an HDMI cable.  
 Connect the HDMI cable to the HDMI port on your TV.

@@ -4,6 +4,6 @@
 
 Avoid using *is displayed*. It's passive.
 
-Examples
-If you try to close the program without saving the file, a message appears. 
+**Examples**  
+If you try to close the program without saving the file, a message appears.   
 Word displays a message if you try to close the program without saving the file. 
