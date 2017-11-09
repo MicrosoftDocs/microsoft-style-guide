@@ -10,7 +10,7 @@
 
   - Format text elements consistently.
 
-**Learn** **about**
- [Formatting common text elements](/style-guide/text-formatting/formatting-common-text-elements)
-[Formatting titles](/style-guide/text-formatting/formatting-titles)
+**Learn** **about**  
+ [Formatting common text elements](/style-guide/text-formatting/formatting-common-text-elements)  
+[Formatting titles](/style-guide/text-formatting/formatting-titles)  
 [Formatting developer text elements](/style-guide/developer-content/formatting-developer-text-elements)
