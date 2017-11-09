@@ -2,5 +2,5 @@
 
 Use *who* instead of *that* to introduce clauses referring to people.
 
-Example
+Example  
 Custom Setup is the best choice for customers who want to alter the standard Windows configuration.
