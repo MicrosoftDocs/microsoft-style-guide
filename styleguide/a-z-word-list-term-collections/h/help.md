@@ -4,4 +4,4 @@ Most of the time, use just *Help.* Don't use *online Help* unless you need to de
 
 It's OK to use *definition Help, context-sensitive Help*, and *online Help files* to describe the Help system itself or to explain how to develop a Help system.
 
-Example Word Help
+**Example** Word Help
