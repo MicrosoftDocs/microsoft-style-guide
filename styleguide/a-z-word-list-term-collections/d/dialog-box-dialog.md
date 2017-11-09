@@ -1,4 +1,4 @@
-  ﻿# dialog box, dialog
+﻿# dialog box, dialog
 
 Most of the time, avoid talking about UI elements. Talk about customer actions instead.
 
@@ -6,7 +6,7 @@ When you need to refer to a dialog box, use *dialog box*—don’t shorten to *d
 
 Don't hyphenate *dialog box* as a modifier.
 
-**Examples**
+**Examples**  
 Word can’t open this document because a dialog box is open. Close the dialog box to continue.  
 Select the **Paragraph** dialog box launcher, and then select **Tabs**. Enter the position on the ruler where you want to set the tab stop.  
 
