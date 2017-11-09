@@ -4,6 +4,6 @@ In content for a general audience, use *address* rather than *URL*. In content f
 
 Use *of* (not *for*) to describe the relationship of the word *URL* to a resource. 
 
-Example Search results include the URL of the page. 
+**Example** Search results include the URL of the page. 
 
 **See also** [URLs and web addresses](/style-guide/urls-web-addresses)
