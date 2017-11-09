@@ -6,4 +6,4 @@ Don't use *x* to refer to a generic, unspecified number. Use *n* instead.
 
 Don't use *x* in place of a multiplication sign.
 
-**See also** **** [n](/style-guide/a-z-word-list-term-collections/n/n), [multiplication sign (×)](/style-guide/a-z-word-list-term-collections/m/multiplication-sign)
+**See also** [n](/style-guide/a-z-word-list-term-collections/n/n), [multiplication sign (×)](/style-guide/a-z-word-list-term-collections/m/multiplication-sign)
