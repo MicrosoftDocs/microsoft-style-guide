@@ -10,10 +10,8 @@ Don't use the following terms as synonyms for *notification area:*
   - systray 
   - status area 
 
-Don't use the word *area*
-by itself to refer to the notification area. Avoid descriptions
-that might imply there's more than one notification area.
+Don't use the word *area* by itself to refer to the notification area. Avoid descriptions that might imply there's more than one notification area.
 
-Examples**
-**The clock appears in the notification area, at the far right of the taskbar. 
-The notification area is located at the far right of the taskbar.
+**Examples**  
+The clock appears in the notification area, at the far right of the taskbar.   
+The notification area is located at the far right of the taskbar.  
