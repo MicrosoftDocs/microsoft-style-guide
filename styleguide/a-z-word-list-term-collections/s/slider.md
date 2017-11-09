@@ -13,5 +13,5 @@ In content for developers, it's OK to refer to a slider as a *trackbar control*.
 
 Don't refer to the scroll box or a progress indicator as a slider.
 
-Example
-Move the slider downward to decrease the volume.
+**Example**  
+Move the slider downward to decrease the volume.  
