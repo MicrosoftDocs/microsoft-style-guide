@@ -4,8 +4,8 @@ Use as a verb to describe the process of preparing hardware and installed apps f
 
 Capitalize *Setup* when it refers to the Setup program. 
 
-Examples
-Unpack everything before you set up your computer.
-The setup time is about 15 minutes.
-Your office setup should be ergonomically designed.
+**Examples**  
+Unpack everything before you set up your computer.  
+The setup time is about 15 minutes.  
+Your office setup should be ergonomically designed.  
 Run Setup before you open other apps. 
