@@ -6,9 +6,9 @@ Always use *data* with a singular verb, even if you're talking about more than o
 
 Lowercase *data* unless it's at the beginning of a sentence or phrase. 
 
-Examples
-The data shows that 95 percent of users prefer a graphical interface. 
-The data gathered so far is incomplete. 
-These facts contradict earlier data.
+**Examples**  
+The data shows that 95 percent of users prefer a graphical interface.  
+The data gathered so far is incomplete.  
+These facts contradict earlier data. 
 
 **See also** [big data](/style-guide/a-z-word-list-term-collections/b/big-data)
