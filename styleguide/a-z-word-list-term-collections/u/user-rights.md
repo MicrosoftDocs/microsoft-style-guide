@@ -15,8 +15,8 @@ of to the associated user rights.
 
 Don't use *privilege* as a synonym for *user right*.
 
-Examples
-You must have the Perform volume maintenance tasks user right to perform this task.
+**Examples**  
+You must have the Perform volume maintenance tasks user right to perform this task.  
 You must be signed in as a member of the Administrators group to perform this task.
 
 **See also** [permissions](/style-guide/a-z-word-list-term-collections/p/permissions), [rights](/style-guide/a-z-word-list-term-collections/r/rights)
