@@ -6,10 +6,10 @@ When you need to refer to a dialog box, use *dialog box*—don’t shorten to *d
 
 Don't hyphenate *dialog box* as a modifier.
 
-Examples
+**Examples**
 Word can’t open this document because a dialog box is open. Close the dialog box to continue.
-Select the Paragraph dialog box launcher, and then select Tabs. Enter the position on the ruler where you want to set the tab stop.
+Select the **Paragraph** dialog box launcher, and then select **Tabs**. Enter the position on the ruler where you want to set the tab stop.
 
-Exception In content for developers, it's OK to use *dialog* by itself as a modifier. For example, "This article provides information about the dialog form pattern."
+**Exception** In content for developers, it's OK to use *dialog* by itself as a modifier. For example, "This article provides information about the dialog form pattern."
 
-See also [Formatting text in instructions](/style-guide/procedures-instructions/formatting-text-in-instructions)
+**See also** [Formatting text in instructions](/style-guide/procedures-instructions/formatting-text-in-instructions)
