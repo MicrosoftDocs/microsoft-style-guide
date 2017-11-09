@@ -18,10 +18,10 @@ Place closing quotation marks:
   - Outside commas and periods.
   - Inside other punctuation.
 
-Exception If punctuation is part of the quoted material, place it inside the quotation marks.
+**Exception** If punctuation is part of the quoted material, place it inside the quotation marks.
 
-Examples
-One type of malware is called a "trojan clicker."
-One type of malware, called a "trojan clicker," uses your PC to "click" online ads.
-What is “gaze awareness”?
+**Examples**  
+One type of malware is called a "trojan clicker."  
+One type of malware, called a "trojan clicker," uses your PC to "click" online ads.  
+What is “gaze awareness”?  
 A reader asks, “How can I get Windows 10?”
