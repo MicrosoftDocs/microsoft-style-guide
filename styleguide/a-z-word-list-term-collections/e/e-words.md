@@ -11,8 +11,8 @@ a heading. The letter following the hyphen is capitalized
 only when title-style capitalization is required, which is
 rare in Microsoft content. 
 
-Examples
-(Sentence-style capitalization) E-commerce and security
+**Examples**  
+(Sentence-style capitalization) E-commerce and security  
 (Title-style capitalization) Strategic E-Commerce Systems and Tools for Competing in the Digital Marketplace
 
 **See also** [Capitalization](/style-guide/capitalization)
