@@ -11,7 +11,7 @@ Use *media* to describe:
 
 Don't use *media* as a shortened form of *multimedia*.
 
-Examples **
-**The media include online broadcasts as well as newspapers, magazines, radio, and television. 
-The media covers computer industry news.
-The medium used for many large computer programs is the DVD-ROM. 
+**Examples**  
+The media include online broadcasts as well as newspapers, magazines, radio, and television.  
+The media covers computer industry news.  
+The medium used for many large computer programs is the DVD-ROM.  
