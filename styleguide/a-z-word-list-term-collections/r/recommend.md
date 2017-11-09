@@ -4,7 +4,7 @@ It's OK to use *we recommend* to introduce a Microsoft recommendation. Don't use
 
 Don't use *recommend* when something is required.
 
-Examples
+**Examples**  
 Windows 10 requires 16 GB of hard drive space for 32-bit OS and 20 GB for 64-bit OS.
 Small
 storage devices, like devices with 32-GB hard drives or older devices
