@@ -9,4 +9,4 @@ This section includes the following topics:
   - [Code names](/style-guide/new-products/code-names) 
   - [System requirements](/style-guide/new-products/system-requirements)
 
-See also [Legal content](/style-guide/legal-content/)
+**See also** [Legal content](/style-guide/legal-content/)
