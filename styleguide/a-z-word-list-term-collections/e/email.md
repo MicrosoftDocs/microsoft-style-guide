@@ -13,6 +13,10 @@ It's OK to use *email* as a verb.
 
 Use *Email* at the beginning of a sentence or heading. Never hyphenate *email* or capitalize the *m.*
 
-**Examples**</br>You have two new emails.</br>Scroll through email to find the message you want to read.</br>You have new mail.</br>Email us your comments. 
+**Examples**  
+You have two new emails.  
+Scroll through email to find the message you want to read.  
+You have new mail.  
+Email us your comments. 
 
 **See also** [](/style-guide/a-z-word-list-term-collections/m/message)[message](/style-guide/a-z-word-list-term-collections/m/message)

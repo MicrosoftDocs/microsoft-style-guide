@@ -21,12 +21,15 @@ it into multiple sentences.
 
 **Include *that* and *who.*** They help to clarify the sentence structure. 
 
-**Examples**</br>Inspect the database to verify that all tables, data, and relationships were correctly migrated.
+**Examples**  
+Inspect the database to verify that all tables, data, and relationships were correctly migrated.
 Select the check box of each folder that you want to sync with your desktop.
 
 **Include articles**, such as *the*. Articles help readers and translation software identify the nouns and modifiers in a sentence. 
 
-**Examples**</br>Empty the container.</br>The empty container
+**Examples**  
+Empty the container.  
+The empty container
 
 **If necessary for clarity, include verbs** in short headings and UI labels. For example, say *Access is denied* instead of *Access denied.*
 
@@ -69,10 +72,18 @@ the same word to refer to multiple concepts or features.
 
 **Use words ending in *–ed* carefully**.A word ending in *-ed* can be a modifier or part of a verb phrase. Use the sentence structure and optional words to clarify the role of the *–ed* word.
 
-  - Add a determiner *(a, an, the, this)* before or after the *–ed* word.</br>Example</br>They have **an** added functionality.
-  - Add a form of the verb *be*.</br>Example</br>Configure limits for the backup **that are based** on the amount of storage space available.
-  - Split the sentence in two.</br>Example</br>Configure limits for the backup. These limits should be based on the amount of storage space available. **
-  - Rewrite the sentence to avoid the *–ed* word.</br>Example</br>Configure limits for the backup. **Base the limits** on the amount of storage space available.
+  - Add a determiner *(a, an, the, this)* before or after the *–ed* word.  
+Example  
+They have **an** added functionality.
+  - Add a form of the verb *be*.  
+Example  
+Configure limits for the backup **that are based** on the amount of storage space available.
+  - Split the sentence in two.  
+Example  
+Configure limits for the backup. These limits should be based on the amount of storage space available. **
+  - Rewrite the sentence to avoid the *–ed* word.  
+Example  
+Configure limits for the backup. **Base the limits** on the amount of storage space available.
 
 **Use only common abbreviations,** such as *USB,* and
 abbreviations that are defined in glossaries. Check with a

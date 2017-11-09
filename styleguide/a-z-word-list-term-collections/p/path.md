@@ -19,13 +19,16 @@ Use *address* or *URL,* not *path,* to refer to a location on the internet.
 
 In general, use *path of,* not *path to*, to refer to the location of a file.
 
-**Example**</br>The full path of my current tax form is:</br>C:\\Documents and Settings\\user1\\My Documents\\Taxes\\This year's taxes
+**Example**  
+The full path of my current tax form is:  
+C:\\Documents and Settings\\user1\\My Documents\\Taxes\\This year's taxes
 
 When
 documenting products for the Mac, use colons with no spaces to
 separate zones, file servers, shared disks, folders, and file
 names. File names don't require extensions.
 
-**Example**</br>(Mac) Macintosh HD:My Documentation:Sales CORP-16:TOMCAT:EX130D Mac Temp:Workbook1
+**Example**  
+(Mac) Macintosh HD:My Documentation:Sales CORP-16:TOMCAT:EX130D Mac Temp:Workbook1
 
 **See also**  [Formatting common text elements](/style-guide/text-formatting/formatting-common-text-elements), [URLs and web addresses](/style-guide/urls-web-addresses)

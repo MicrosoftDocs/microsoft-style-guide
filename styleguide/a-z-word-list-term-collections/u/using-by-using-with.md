@@ -2,7 +2,9 @@
 
 In instructions or technical content, use *by using* or *that use* to eliminate ambiguity.
 
-**Examples**</br>Refine your pictures by using the photo editor.</br>You need Adobe Reader to open files that use the PDF format. 
+**Examples**  
+Refine your pictures by using the photo editor.  
+You need Adobe Reader to open files that use the PDF format. 
 
 Don't use *with* as a synonym for *using* or *by using.* It's OK to use *with* in marketing contexts and with product and service names. 
 

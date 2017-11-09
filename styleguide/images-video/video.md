@@ -1,4 +1,4 @@
-# Video
+﻿# Video
 
 Done
 well, video often communicates faster and more clearly than text and
@@ -46,7 +46,8 @@ Follow these guidelines:
     it’s necessary. If you must refer to earlier parts of the video,
     keep it general. 
 
-    **Example**</br>Earlier, you saw how to add *x* to *z.* Here's something else you can do with *x* ....
+    **Example**  
+Earlier, you saw how to add *x* to *z.* Here's something else you can do with *x* ....
 
   - Include
     captions for accessibility. If possible, break closed-captioning

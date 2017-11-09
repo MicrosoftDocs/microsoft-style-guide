@@ -6,6 +6,8 @@ In general, avoid talking about UI. Instead, talk about what the customer needs 
 
 When you need to help a customer interact with UI, refer to a list box by its label and the word *list*, not *list box*. For the Mac, use *pop-up list* to refer to unnamed list boxes.
 
-**Examples**</br>In the **Background** list, select **Coffee Bean**. </br>In the pop-up list, select **Microsoft Excel**. (Mac only)
+**Examples**  
+In the **Background** list, select **Coffee Bean**.   
+In the pop-up list, select **Microsoft Excel**. (Mac only)
 
 **See also** [Describing interactions with UI](/style-guide/procedures-instructions/describing-interactions-with-ui), [Formatting text in instructions](/style-guide/procedures-instructions/formatting-text-in-instructions)

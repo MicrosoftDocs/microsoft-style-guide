@@ -10,6 +10,8 @@ In general, use only in specific situations, such as:
 
 Don't use to mean *invalid* or *not valid*.
 
-**Examples**</br>The queue path name is not valid. </br>You can't compose chords while a segment is playing.
+**Examples**  
+The queue path name is not valid.   
+You can't compose chords while a segment is playing.
 
 **See also**  [invalid, not valid](/style-guide/a-z-word-list-term-collections/i/invalid-not-valid)

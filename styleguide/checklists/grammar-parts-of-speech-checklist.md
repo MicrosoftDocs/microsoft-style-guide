@@ -22,7 +22,9 @@ These basic guidelines will get you started creating clear and useful content.
     
   - Match a verb with its subject in person and number. [Learn more.](/style-guide/grammar/verbs)
   
-    Examples</br>The document is in the folder.</br>The documents are in the folder. [
+    Examples  
+The document is in the folder.  
+The documents are in the folder. [
     ](/style-guide/grammar/verbs)
     
   - Use second person most of the time. Second person often uses the pronoun *you,* as though you're speaking to the customer. [Learn more](/style-guide/grammar/person).

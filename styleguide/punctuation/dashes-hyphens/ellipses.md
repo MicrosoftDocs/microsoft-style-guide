@@ -6,9 +6,11 @@ In
 general, don’t use an ellipsis (…) except in the situations
 described here or to indicate omitted code in technical content. 
 
-It's OK to use an ellipsis to indicate a pause in conversational UI messages.</br>**Example** *(Hmm ... looks like that link is broken.)*
+It's OK to use an ellipsis to indicate a pause in conversational UI messages.  
+**Example** *(Hmm ... looks like that link is broken.)*
 
-When there's an ellipsis in UI, don’t include it in instructions or procedures.</br>**Example** Select **Safety**, and then **Delete browsing history**.
+When there's an ellipsis in UI, don’t include it in instructions or procedures.  
+**Example** Select **Safety**, and then **Delete browsing history**.
 
 In quoted material, use an ellipsis to indicate omitted text.
 

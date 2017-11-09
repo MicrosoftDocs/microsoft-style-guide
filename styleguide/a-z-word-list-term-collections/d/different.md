@@ -4,7 +4,9 @@ Don't use *different* to mean *many* or *various*.
 
 In comparisons, use *different from* most of the time. Use *different than* only when *than* is followed by a clause. Don't use *different to*. 
 
-**Examples**</br>The result of the first calculation is different from the result of the second.</br>If the result is different from the result that you expected, verify that you entered your data correctly. 
+**Examples**  
+The result of the first calculation is different from the result of the second.  
+If the result is different from the result that you expected, verify that you entered your data correctly. 
 
 Make sure comparative statements that use *different* are parallel. Read them carefully to make sure they mean what you intended.
 

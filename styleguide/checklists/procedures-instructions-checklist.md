@@ -39,7 +39,8 @@ Use numbered steps—no more than seven, and preferably fewer.
     formatting for the brackets. Include a space before and after each
     one.
     
-    **Example**</br>Select **Accounts** \> **Other accounts** \> **Add an account**.
+    **Example**  
+Select **Accounts** \> **Other accounts** \> **Add an account**.
 
 **Learn more** about [step-by-step instructions](/style-guide/procedures-instructions/writing-step-by-step-instructions). 
 
@@ -76,7 +77,12 @@ Use the following verbs, which describe any input method—touch, mouse, keyboar
     you describe joystick interactions, assume that a mouse is a
     primary input device. Include joystick information in a table along
     with other alternative input methods. 
-  - Use these verbs for pen and touch input:</br>**Tap**: Use to describe selecting something on the screen by tapping it once with a finger or pen. Don’t use *tap on.* Don’t use *click.*</br>**Double-tap**: Use to describe selecting something on the screen by tapping twice in quick succession. Don’t use *double-tap on.* Don’t use *double-click.*</br>**Tap and hold**: Use only if required by a program or app. Don’t use *touch and hold.*</br>**Pan**:Use to describe moving the screen in multiple directions, as youwould pan a camera to see different views of the environment. Forcontact gestures, use to refer to moving a finger, hand, or pen onthe device surface to move through screens or menus. Don’t use *drag* or *scroll* for these actions.</br>**Flick**: Use to describe moving one or more fingers to scroll through items on the screen. Don’t use *scroll.*
+  - Use these verbs for pen and touch input:  
+**Tap**: Use to describe selecting something on the screen by tapping it once with a finger or pen. Don’t use *tap on.* Don’t use *click.*  
+**Double-tap**: Use to describe selecting something on the screen by tapping twice in quick succession. Don’t use *double-tap on.* Don’t use *double-click.*  
+**Tap and hold**: Use only if required by a program or app. Don’t use *touch and hold.*  
+**Pan**:Use to describe moving the screen in multiple directions, as youwould pan a camera to see different views of the environment. Forcontact gestures, use to refer to moving a finger, hand, or pen onthe device surface to move through screens or menus. Don’t use *drag* or *scroll* for these actions.  
+**Flick**: Use to describe moving one or more fingers to scroll through items on the screen. Don’t use *scroll.*
   - Use *swipe* to describe a short, quick movement in the direction opposite to how the page scrolls .
 
 **Learn more** about [alternative input methods](/style-guide/procedures-instructions/describing-alternative-input-methods).
