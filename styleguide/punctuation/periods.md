@@ -6,9 +6,9 @@ titles, UI text, or simple lists (three or fewer words per item).
 
 End all sentences with a period, even if they're only two words. Put one space, not two, after a period. 
 
-Headline example Be brief—make every word count
+**Headline example** Be brief—make every word count
 
-Text example Be brief. Make every word count.
+**Text example** Be brief. Make every word count.
 
 When a phrase ending with a colon introduces a bulleted list:
 
