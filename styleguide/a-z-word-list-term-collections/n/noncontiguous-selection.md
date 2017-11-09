@@ -4,4 +4,4 @@ Don't use in content for a general audience to refer to selecting multiple items
 
 Use in content for a technical audience only if the term appears in the UI or API. 
 
-Example To select multiple cells, select Ctrl as you select the cells. 
+**Example** To select multiple cells, select Ctrl as you select the cells. 
