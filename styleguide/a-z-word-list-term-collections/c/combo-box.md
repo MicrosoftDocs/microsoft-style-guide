@@ -6,8 +6,8 @@ in which the user can enter or select a value. Don't use in content for a genera
 
 Use *enter* to indicate that the user can either type an item in the box or select an item in the list. Or just say *For \[Control name\],* *enter \[value\].*
 
-Examples
-In the Size box, enter the font size you want.
-For Size, enter a font size.
+**Examples**  
+In the **Size** box, enter the font size you want.  
+For **Size**, enter a font size.
 
-See also [Describing interactions with UI](/style-guide/procedures-instructions/describing-interactions-with-ui)
+**See also** [Describing interactions with UI](/style-guide/procedures-instructions/describing-interactions-with-ui)
