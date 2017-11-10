@@ -1,3 +1,7 @@
-# deceptive software
+# decrement
 
-**See** [Security, safety, and privacy term collection](/style-guide/a-z-word-list-term-collections/term-collections/security-safety-privacy-terms)
+Use only in content for a technical audience.  
+
+As a verb, use only to refer to decreasing an integer count by one. Don't use as a synonym for *decrease*.  
+
+It's OK to use *decrement* as an adjective when discussing decrement operators and values.  
