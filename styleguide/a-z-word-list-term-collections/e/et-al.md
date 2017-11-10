@@ -1,5 +1,3 @@
-# erase
+# et al.
 
-Don't use as a synonym for *delete* unless the app requires it, as in Paint.
-
-**See also** [delete](/style-guide/a-z-word-list-term-collections/d/delete)
+Don't use except in a citation that includes three or more authors. Use *and others* instead.
