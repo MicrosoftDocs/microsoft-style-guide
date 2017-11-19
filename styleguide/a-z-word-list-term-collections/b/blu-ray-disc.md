@@ -1,7 +1,5 @@
-# blue screen, bluescreen
+# Blu-ray Disc
 
-Don't use *blue screen* or *bluescreen*, either as a noun or as a verb, to refer to an operating system that's not responding. As a verb, use *stop*. As noun, use *stop error*.
+Use this spelling and capitalization when talking about the disc. After the first mention, it's OK to abbreviate to *BD* (no hyphen).
 
-It's OK to use *blue screen* (two words) to refer to the screen display itself.
-
-Example The operating system stopped unexpectedly, and an error message appeared on a blue screen.
+When referring to the technology (not a specific disc), it's OK to use *Blue-ray [X]*.
