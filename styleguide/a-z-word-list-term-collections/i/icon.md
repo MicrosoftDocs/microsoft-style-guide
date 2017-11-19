@@ -1,4 +1,4 @@
-﻿# icon
+# icon
 
 Use
 only to describe a graphic representation of an object that

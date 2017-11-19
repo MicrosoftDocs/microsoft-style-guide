@@ -1,4 +1,4 @@
-﻿# Security, safety, and privacy content
+# Security, safety, and privacy content
 
 Absolute
 security, privacy, and safety don't exist. So when you write about

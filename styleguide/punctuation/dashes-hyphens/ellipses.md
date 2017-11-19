@@ -1,4 +1,4 @@
-﻿# Ellipses
+# Ellipses
 
 HTML code &\#0133;
 

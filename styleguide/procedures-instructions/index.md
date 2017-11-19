@@ -1,4 +1,4 @@
-﻿# Procedures and instructions
+# Procedures and instructions
 
 The
 best procedure is the one you don’t need. If the UI is crystal

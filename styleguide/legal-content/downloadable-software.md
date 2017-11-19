@@ -1,4 +1,4 @@
-﻿# Downloadable software
+# Downloadable software
 
 If your page includes downloadable software:
 

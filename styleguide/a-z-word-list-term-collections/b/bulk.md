@@ -1,4 +1,4 @@
-﻿# bulk
+# bulk
 
 In content for a general audience, don’t use *bulk* as an adverb, such as *bulk add* or *bulk edit*, unless the term is in the UI.
 

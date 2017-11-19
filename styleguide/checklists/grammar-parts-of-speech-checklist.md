@@ -1,4 +1,4 @@
-﻿# Grammar and parts of speech checklist
+# Grammar and parts of speech checklist
 
 As
 creative as it is, the art of writing is governed by a set of rules

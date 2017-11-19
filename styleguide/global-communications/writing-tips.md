@@ -1,15 +1,15 @@
-﻿# Writing tips
+# Writing tips
 
 For
-the most part, content that’s easy to read tends to be easy to localize
+the most part, content that???s easy to read tends to be easy to localize
 and translate. If you follow the writing recommendations in this style
-guide, you’re off to a great start. Pay particular attention to:
+guide, you???re off to a great start. Pay particular attention to:
 
   - [Word choice](/style-guide/word-choice/)
   - [Grammar and parts of speech](/style-guide/grammar/grammar-and-parts-of-speech)
   - [Punctuation](/style-guide/punctuation/)
 
-#### Tips for all global content
+## Tips for all global content
 
 These practices will help localizers and non-native English speakers understand your writing.
 
@@ -49,7 +49,7 @@ your country.
 
 **Avoid linking more than three phrases or clauses** by using coordinate conjunctions such as *and*, *or*, or *but*. Better yet, avoid linking more than two. 
 
-#### Additional tips for machine translation
+## Additional tips for machine translation
 
 Writing
 style affects the quality of machine translation. These tips will help
@@ -63,16 +63,16 @@ value but won't be localized.
 **Use simple sentence structures.** Write sentences that use standard word order (that is, subject + verb + object) whenever possible.
 
 **Use one word for a concept, and use it consistently.** Avoid
-using synonyms to refer to the same concept or feature. And don’t use
+using synonyms to refer to the same concept or feature. And don???t use
 the same word to refer to multiple concepts or features.
 
 **Limit your use of sentence fragments.** Sentence fragments can be hard to translate.
 
-**Use words ending in *–ing* carefully**.A word ending in *–ing* can be a verb, an adjective, or a noun. Use the sentence structure and optional words to clarify the role of the *–ing* word.
+**Use words ending in *???ing* carefully**.A word ending in *???ing* can be a verb, an adjective, or a noun. Use the sentence structure and optional words to clarify the role of the *???ing* word.
 
-**Use words ending in *–ed* carefully**.A word ending in *-ed* can be a modifier or part of a verb phrase. Use the sentence structure and optional words to clarify the role of the *–ed* word.
+**Use words ending in *???ed* carefully**.A word ending in *-ed* can be a modifier or part of a verb phrase. Use the sentence structure and optional words to clarify the role of the *???ed* word.
 
-  - Add a determiner *(a, an, the, this)* before or after the *–ed* word.  
+  - Add a determiner *(a, an, the, this)* before or after the *???ed* word.  
 Example  
 They have **an** added functionality.
   - Add a form of the verb *be*.  
@@ -81,7 +81,7 @@ Configure limits for the backup **that are based** on the amount of storage spac
   - Split the sentence in two.  
 Example  
 Configure limits for the backup. These limits should be based on the amount of storage space available. **
-  - Rewrite the sentence to avoid the *–ed* word.  
+  - Rewrite the sentence to avoid the *???ed* word.  
 Example  
 Configure limits for the backup. **Base the limits** on the amount of storage space available.
 

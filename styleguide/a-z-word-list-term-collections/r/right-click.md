@@ -1,4 +1,4 @@
-﻿# right-click
+# right-click
 
 Hyphenate. Define for novice audiences if you think it’s necessary.
 

@@ -1,4 +1,4 @@
-﻿# Colors and patterns in text, graphics, and design
+# Colors and patterns in text, graphics, and design
 
 Choose
 colors and patterns carefully. High contrast may improve

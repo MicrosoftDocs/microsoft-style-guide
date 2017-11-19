@@ -1,4 +1,4 @@
-﻿# Semicolons
+# Semicolons
 
 Sentences
 that contain semicolons are often complex. Try to simplify the

@@ -1,4 +1,4 @@
-﻿# Capitalization
+# Capitalization
 
 Microsoft
 style is sentence-style capitalization. That means everything is
@@ -15,22 +15,22 @@ Follow these guidelines in Microsoft content:
   - Always capitalize the first word of a new sentence. Rewrite sentences
     that start with a word that's always lowercase.
   - Don't use all uppercase for emphasis. (It's OK to use italic sparingly for emphasis.)
-  - Don't use all lowercase as a design choice. Although all uppercase is used occasionally as a design element, don’t use it in text.
+  - Don't use all lowercase as a design choice. Although all uppercase is used occasionally as a design element, don???t use it in text.
 
 <!-- end list -->
 
   - Don't use internal capitalization (such as *AutoScale* or *e-Book)* unless it's part of a brand name.
-  - Don’t capitalize the spelled-out form of an acronym unless it's a proper noun.
+  - Don???t capitalize the spelled-out form of an acronym unless it's a proper noun.
   - When words are joined by a slash, capitalize the word after the slash if the word before the slash is capitalized.  
     **Examples**  
     Country/Region  
     Select the On/Off toggle.  
 
-**Learn more** To learn more about capitalization, see [*The Chicago Manual of Style*](http://www.chicagomanualofstyle.org/home.html). (If you have Microsoft network access, you can use *[The Chicago Manual of Style Online](http://aka.ms/mslibrary/cms)* through MS Library.) If you’re not sure whether to capitalize a term, check your group's editorial style guide, the [A–Z word list](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25512), and *[The American Heritage Dictionary](https://ahdictionary.com/)*. 
+**Learn more** To learn more about capitalization, see [*The Chicago Manual of Style*](http://www.chicagomanualofstyle.org/home.html). (If you have Microsoft network access, you can use *[The Chicago Manual of Style Online](http://aka.ms/mslibrary/cms)* through MS Library.) If you???re not sure whether to capitalize a term, check your group's editorial style guide, the [A???Z word list](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25512), and *[The American Heritage Dictionary](https://ahdictionary.com/)*. 
 
 For information about capitalization in UI, see [UI text and design](/style-guide/ui-text-content-design) and for information about capitalizing UI labels in instructions, see [Formatting text in instructions](/style-guide/procedures-instructions/formatting-text-in-instructions). To learn more about using the Segoe font in formatting and design, see [Text formatting](/style-guide/text-formatting/).
 
-#### Sentence-style capitalization in titles and headings
+## Sentence-style capitalization in titles and headings
 
 Use sentence-style capitalization in most titles and headings: capitalize
 the first word and lowercase the rest. (Proper nouns, including
@@ -41,24 +41,24 @@ use sentence-style capitalization.
 **Examples**  
 Watch your favorite HD movies, TV shows, and more.  
 1 TB of cloud storage  
-Choose the Office version that’s right for you.  
+Choose the Office version that???s right for you.  
 Available for Microsoft partners and commercial and public-sector customers  
 
-#### Title-style capitalization
+## Title-style capitalization
 
-Occasionally, title-style capitalization—capitalizing most words—is appropriate.
+Occasionally, title-style capitalization???capitalizing most words???is appropriate.
 For example, product and service names, the names of blogs, book and
-song titles, article titles in citations, and titles of people (*Vice President* or *Director of Marketing*) require title-style capitalization. In a tweet, it’s OK to use title-style capitalization to highlight the name of a quoted article. 
+song titles, article titles in citations, and titles of people (*Vice President* or *Director of Marketing*) require title-style capitalization. In a tweet, it???s OK to use title-style capitalization to highlight the name of a quoted article. 
 
 On the rare occasions when title-style capitalization is required, follow these guidelines: 
 
   - Always capitalize the first and last words.  
     **Example** A Home to Go Back To
-  - Don’t capitalize *a, an,* or *the* unless it's the first word.  
+  - Don???t capitalize *a, an,* or *the* unless it's the first word.  
     **Examples**  
     Microsoft on the Issues  
     The Official Microsoft Blog  
-  - Don’t capitalize prepositions of four or fewer letters (such as *on, to, in, up, down, of,* and *for*) unless the preposition is the first or last word.  
+  - Don???t capitalize prepositions of four or fewer letters (such as *on, to, in, up, down, of,* and *for*) unless the preposition is the first or last word.  
     **Examples**  
     How to Personalize Windows  
     To Personalize Windows  
@@ -66,7 +66,7 @@ On the rare occasions when title-style capitalization is required, follow these 
     Achieving Excellence in the Classroom Through Technology  
     OneNote Class Notebooks for Teachers  
     The Teaching Tool You're Looking For  
-  - Don’t capitalize *and, but, or, nor, yet,* or *so* unless it's the first word or the last word.  
+  - Don???t capitalize *and, but, or, nor, yet,* or *so* unless it's the first word or the last word.  
     **Example** Monitoring and Operating a Private or Hybrid Cloud
   - Capitalize all other words, including nouns, verbs (including *is* and other forms of *be*), adverbs (including *very* and *too*), adjectives, and pronouns (including *this, that,* and *its*).  
     **Examples**  

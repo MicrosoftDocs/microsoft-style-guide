@@ -1,4 +1,4 @@
-﻿# drop-down
+# drop-down
 
 It’s OK to use *drop-down* as an adjective in content for developers if you need to describe the type of UI item or how it works.
 

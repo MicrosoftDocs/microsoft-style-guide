@@ -1,4 +1,4 @@
-﻿# Slashes
+# Slashes
 
 When necessary, differentiate between a *slash* for URLs and a *backslash* for servers and folders.
 

@@ -1,4 +1,4 @@
-﻿# Top 10 tips for Microsoft style and voice
+# Top 10 tips for Microsoft style and voice
 
 **Use bigger ideas, fewer words**<br />Our modern design hinges on crisp minimalism. Shorter is always better. To learn more, see [Brand voice](/style-guide/brand-voice-above-all-simple-human).
 
@@ -14,7 +14,7 @@ learn more, see [Brand voice](/style-guide/brand-voice-above-all-simple-human).
 
 With this: You need an ID that looks like this: <someone@example.com>
 
-**Project friendliness**<br />Use contractions: *it’s, you’ll, you’re, we’re, let’s.* To learn more, see [Use contractions](/style-guide/word-choice/use-contractions).
+**Project friendliness**<br />Use contractions: *it???s, you???ll, you???re, we???re, let???s.* To learn more, see [Use contractions](/style-guide/word-choice/use-contractions).
 
 **Example**<br />Replace this: Your Microsoft Band is not waterproof. Light rain and hand washing should
 not harm it, but do not immerse your Band in liquids of any kind. Do not
@@ -26,7 +26,7 @@ harm it, but don't immerse it in liquids or wear it while you're
 swimming or in the shower.
 
 **Get to the point fast**<br />Lead
-with what’s most important. Front-load keywords for scanning. Make
+with what???s most important. Front-load keywords for scanning. Make
 customer choices and next steps obvious. To learn more, see [Scannable content](/style-guide/scannable-content/).
 
 **Example**<br />Replace this: Templates
@@ -49,8 +49,8 @@ to visually present data, and you're not sure how to do it.
 
 With this: Create a chart that's just right for your data by using the Recommend Charts command on the Insert tab.
 
-**When in doubt, don’t capitalize**<br />Default
-to sentence-style capitalization—capitalize only the first word of
+**When in doubt, don???t capitalize**<br />Default
+to sentence-style capitalization???capitalize only the first word of
 a heading or phrase and any proper nouns or names. Never Use Title
 Capitalization (Like This). Never Ever. To learn more, see [Capitalization](/style-guide/capitalization).
 
@@ -73,11 +73,11 @@ With this:<br />**Move a tile**<br />1\. Press and hold the tile.
 
 With this: Android, iOS, and Windows
 
-**Don’t be spacey**<br />Use only one space after periods, question marks, and colons—and no spaces around dashes. To learn more, see [Punctuation](/style-guide/punctuation/).
+**Don???t be spacey**<br />Use only one space after periods, question marks, and colons???and no spaces around dashes. To learn more, see [Punctuation](/style-guide/punctuation/).
 
-**Example**<br />Replace this: Use pipelines — logical groups of activities — to consolidate activities that are part of a task.
+**Example**<br />Replace this: Use pipelines ??? logical groups of activities ??? to consolidate activities that are part of a task.
 
-With this: Use pipelines—logical groups of activities—to consolidate activities that are part of a task.
+With this: Use pipelines???logical groups of activities???to consolidate activities that are part of a task.
 
 **Kill off weak writing**<br />Most of the time, start each statement with a verb. Axe *you can* and *there is, there are, there were*. To learn more, see [Verbs](/style-guide/grammar/verbs) and [Word choice](/style-guide/word-choice/).
 
@@ -85,7 +85,7 @@ With this: Use pipelines—logical groups of activities—to consolidate activit
 
 With this: Store files online, access them from all your devices, and share them with coworkers.
 
-#### Poster: Top 10 voice and style tips
+## Poster: Top 10 voice and style tips
 
 ![](media/top-10-tips-style-voice/911998365.png)
 

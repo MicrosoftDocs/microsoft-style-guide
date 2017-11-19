@@ -1,4 +1,4 @@
-﻿# cellular
+# cellular
 
 Don’t use *cellular phone* or *cell phone*. 
 

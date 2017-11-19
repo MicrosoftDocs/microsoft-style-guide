@@ -1,4 +1,4 @@
-﻿# store, marketplace, gallery
+# store, marketplace, gallery
 
 Use *store,* not *marketplace, gallery,* or
 another word, to refer to any Microsoft online shopping

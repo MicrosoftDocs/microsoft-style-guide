@@ -1,4 +1,4 @@
-﻿# Microsoft account
+# Microsoft account
 
 Don’t capitalize *account*.
 

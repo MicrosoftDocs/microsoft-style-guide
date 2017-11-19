@@ -1,4 +1,4 @@
-﻿# Sidebars
+# Sidebars
 
 Sidebars are
 useful in longer articles or documents to call out interesting

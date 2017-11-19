@@ -1,25 +1,25 @@
-﻿# Headings
+# Headings
 
 Headings provide both structure and visual points of reference to help readers scan content. If
 you can break text logically into smaller sections, the extra
 spacing and distinct fonts associated with headings
 will help readers scan content and find entry points.
 
-In any type of content—whether it’s UI, web content, marketing, or advertising—use headings consistently. 
+In any type of content???whether it???s UI, web content, marketing, or advertising???use headings consistently. 
 
-#### Writing headings
+## Writing headings
 
-**Think of headings as an outline,** only more interesting—pithy, even. If readers don’t read the headings, they probably won’t read the text that follows, either. 
+**Think of headings as an outline,** only more interesting???pithy, even. If readers don???t read the headings, they probably won???t read the text that follows, either. 
 
   - Top-level
-    headings communicate what’s most important and divide content into
+    headings communicate what???s most important and divide content into
     major subjects. Make them as specific as you can to catch the
-    reader’s attention.
+    reader???s attention.
     
   - When
-    there’s a lot to say under a top-level heading, look for two or
+    there???s a lot to say under a top-level heading, look for two or
     more distinct topics, and use second-level headings (subheads) to
-    break up the large section into more scannable chunks. If you can’t find
+    break up the large section into more scannable chunks. If you can???t find
     at least two distinct topics, skip the second-level headings.
   - Identify
     at least two distinct topics in a section before you add another
@@ -37,7 +37,7 @@ second-level heading should be more specific than a first-level
 heading.
 
 **Focus on what matters to customers,** and
-choose words they’d use themselves. In most cases, don’t talk
+choose words they???d use themselves. In most cases, don???t talk
 about products, features, or commands in headings. Concentrate
 on what customers can achieve or what they need to know.
 
@@ -57,13 +57,13 @@ infinitive phrases for headings in instructions.
 
 **Consider imperative phrases,** such as *To create a heading,* for headings and titles related to tasks. For headings that aren't related to tasks, use a noun phrase such as *Headings,* if possible. 
 
-**Don’t use ampersands (&) or plus signs (+)** in headings unless you're referring to UI that contains them or space is limited. 
+**Don???t use ampersands (&) or plus signs (+)** in headings unless you're referring to UI that contains them or space is limited. 
 
 **Avoid hyphens** in headings if you can. In resized windows or mobile devices, they can result in awkward line breaks.
 
 **Use *vs*.**, not *v*. or *versus*, in headings.
 
-#### Formatting headings
+## Formatting headings
 
 **Use sentence-style capitalization** for headings. In
 sentence-style capitalization, the first word is capitalized,
@@ -77,7 +77,7 @@ Templates and themes for Office Online
 My account  
 Find a store
 
-**Don’t use end punctuation** in headings.
+**Don???t use end punctuation** in headings.
 
 **Use italic** if it would be required in body text.
 
@@ -92,16 +92,16 @@ Enter inserts a manual line break in many authoring tools.)
   - Keep hyphenated words and multiple-word proper nouns (such as *New York*) on the same line.
   - Break after punctuation.
   - Break naturally, at the end of a complete phrase, if possible. 
-  - If you can’t fit a headline on two lines, rewrite it.
+  - If you can???t fit a headline on two lines, rewrite it.
 
 **Use vertical spacing to make headings stand out.** Headings
 typically have extra space above them and often less space below
 them. Close proximity between the heading and the text that
-follows it communicates to the reader that they’re related. Heading
+follows it communicates to the reader that they???re related. Heading
 spacing is built into heading styles in most templates. Use those
 styles to control spacing in a consistent way. 
 
-**Don’t use extra line breaks to increase heading spacing,** especially in web content. In responsive
+**Don???t use extra line breaks to increase heading spacing,** especially in web content. In responsive
 web design, the layout and screen elements (including headings) adjust
 to the screen size automatically, whether they're viewed on mobile
 devices, tablets, laptops, or desktops. Extra line breaks might detract
@@ -109,7 +109,7 @@ from the content appearance on mobile devices.
 
 **Follow Microsoft Brand Guidelines for heading fonts.** The
 heading font is often larger than the one used for body text. Sometimes
-it’s a heavier weight or a different color. Done well, these
+it???s a heavier weight or a different color. Done well, these
 distinct font treatments help attract users to the heading. Your
 template probably includes at least four heading styles. You don't
 have to, and usually shouldn't, use them all. 
@@ -120,17 +120,17 @@ If you don't have a template, limit yourself to no more than two fonts in headin
 [Using type](/style-guide/text-formatting/using-type/)  
 [Brand type guidelines](https://microsoft.sharepoint.com/teams/BrandCentral/Guidelines/Microsoft_type_guidelines.pdf "Type guidelines on Brand Central") (This document requires Microsoft network access.)
 
-#### Using run-in headings
+## Using run-in headings
 
 If
 you regularly highlight specific types of content, such as
 benefits, feature highlights, tips, notes, warnings, or
 cross-references, consider using a special kind of heading
-for them. Although they don’t add white space to a document, bold run-in headings,
-like the ones you see in this topic, draw the reader’s eye to
-interesting information. Because they’re part of the paragraph,
+for them. Although they don???t add white space to a document, bold run-in headings,
+like the ones you see in this topic, draw the reader???s eye to
+interesting information. Because they???re part of the paragraph,
 run-in headings have less impact than separate headings but
-require much less space—so they’re ideal for packaging blurbs, web content, screen callouts, and the like. 
+require much less space???so they???re ideal for packaging blurbs, web content, screen callouts, and the like. 
 
 When you use bold formatting for run-in headings:
 

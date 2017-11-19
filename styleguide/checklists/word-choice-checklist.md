@@ -1,4 +1,4 @@
-﻿# Word choice checklist
+# Word choice checklist
 
 Choose simple, precise words that you use in conversations.
 

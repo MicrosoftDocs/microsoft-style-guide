@@ -1,4 +1,4 @@
-﻿# Special characters
+# Special characters
 
 Use these terms to describe the special characters shown. 
 

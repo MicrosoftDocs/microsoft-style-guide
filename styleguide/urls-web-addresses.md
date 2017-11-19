@@ -5,13 +5,13 @@ to customers often refer to websites and URLs. Follow these
 guidelines to make your URL references clear and easy for customers to
 understand.
 
-#### URL vs. address
+## URL vs. address
 
 In content for a general audience, use *address* rather than *URL*. In content for a technical audience, don't spell out *URL* on first mention. If you have a reason to spell out URL, use *uniform* *resource locator*.
 
 Use *a*, not *an*, as an article preceding *URL*.
 
-#### References to specific sites and domains
+## References to specific sites and domains
 
 Don't include *http://* in a URL. Include the protocol only if it's something other than HTTP, such as File Transfer Protocol (FTP). 
 
@@ -32,7 +32,7 @@ www.microsoft.com
 Microsoft.com   
 Codeplex.com is home to the open source project site hosted by Microsoft.
 
-#### Grammar and formatting
+## Grammar and formatting
 
 Use *of* (not *for*) to describe the relationship of the word *URL* to a resource. Use the preposition *at* with the location of a specific address.
 

@@ -1,4 +1,4 @@
-﻿# Bias-free communication checklist
+# Bias-free communication checklist
 
 Microsoft
 technology reaches every part of the globe. Make sure all our

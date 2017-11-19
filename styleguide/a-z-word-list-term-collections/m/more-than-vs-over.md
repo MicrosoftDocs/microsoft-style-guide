@@ -1,4 +1,4 @@
-﻿# more than vs. over
+# more than vs. over
 
 Use *more than* to refer to quantifiable figures and amounts—things you can count. 
 

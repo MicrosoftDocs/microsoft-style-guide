@@ -1,4 +1,4 @@
-﻿# Formatting developer text elements
+# Formatting developer text elements
 
 Consistent
 text formatting helps readers locate and interpret information.

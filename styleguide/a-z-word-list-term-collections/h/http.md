@@ -1,4 +1,4 @@
-﻿# HTTP
+# HTTP
 
 Don’t
 spell out unless you're discussing protocols or URLs, or your

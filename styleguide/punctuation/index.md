@@ -1,4 +1,4 @@
-﻿# Punctuation
+# Punctuation
 
 Punctuation
 provides vital clues for reader understanding. It's governed by

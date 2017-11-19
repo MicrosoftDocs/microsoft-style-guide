@@ -1,4 +1,4 @@
-﻿# Final publishing check
+# Final publishing check
 
 Use these tips to help you edit like
 a pro, so your final content and design shine. 

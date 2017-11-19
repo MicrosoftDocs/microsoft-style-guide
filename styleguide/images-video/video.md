@@ -1,4 +1,4 @@
-﻿# Video
+# Video
 
 Done
 well, video often communicates faster and more clearly than text and

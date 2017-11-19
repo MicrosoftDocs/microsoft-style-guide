@@ -1,4 +1,4 @@
-﻿# dynamic-link library (DLL)
+# dynamic-link library (DLL)
 
 Spell
 out on the first mention unless you're positive that your audience

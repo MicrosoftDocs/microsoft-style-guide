@@ -1,4 +1,4 @@
-﻿# Fictitious names, domains, and addresses
+# Fictitious names, domains, and addresses
 
 We
 use realistic scenarios to create stories around Microsoft

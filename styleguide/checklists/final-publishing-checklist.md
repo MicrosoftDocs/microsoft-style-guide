@@ -1,4 +1,4 @@
-﻿# Final publishing checklist
+# Final publishing checklist
 
 Double-check your work. Every detail—from facts to proper
 usage and placement of punctuation marks—makes a difference. Clear, accurate

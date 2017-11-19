@@ -1,4 +1,4 @@
-﻿# sorry
+# sorry
 
 Use *sorry* only in error messages that result in serious problems for the customer. These include:
 

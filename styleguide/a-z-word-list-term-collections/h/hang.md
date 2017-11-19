@@ -1,4 +1,4 @@
-﻿# hang
+# hang
 
 Don't use.
 

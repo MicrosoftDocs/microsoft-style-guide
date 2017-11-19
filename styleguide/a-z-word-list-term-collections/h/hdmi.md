@@ -1,4 +1,4 @@
-﻿# HDMI (High-Definition Multimedia Interface)
+# HDMI (High-Definition Multimedia Interface)
 
 Use only as an adjective. 
 

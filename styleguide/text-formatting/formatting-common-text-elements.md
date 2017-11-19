@@ -1,4 +1,4 @@
-﻿# Formatting common text elements
+# Formatting common text elements
 
 Consistent
 text formatting helps readers locate and interpret information. Follow

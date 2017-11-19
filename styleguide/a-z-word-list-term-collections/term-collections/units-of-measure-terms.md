@@ -1,4 +1,4 @@
-﻿# Units of measure terms
+# Units of measure terms
 
 This
 section covers usage and abbreviations for a variety of terms related

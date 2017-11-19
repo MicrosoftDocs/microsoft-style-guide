@@ -1,4 +1,4 @@
-﻿# boot
+# boot
 
 Don't use as a verb. Use *turn on* to refer to turning on power to a device. 
 

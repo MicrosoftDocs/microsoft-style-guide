@@ -1,4 +1,4 @@
-﻿# Photos
+# Photos
 
 Microsoft photos are authentic, optimistic, and brave.
 

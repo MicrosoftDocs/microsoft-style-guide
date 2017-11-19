@@ -1,4 +1,4 @@
-﻿# plus sign (+)
+# plus sign (+)
 
 Don’t use the plus sign (+) to replace words like *and, over,* and *plus.*
 

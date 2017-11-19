@@ -1,4 +1,4 @@
-﻿# memory
+# memory
 
 Always refer to a specific kind of memory, such as *random-access memory (**RAM)**, read-only memory (ROM),* or *hard drive space*. 
 

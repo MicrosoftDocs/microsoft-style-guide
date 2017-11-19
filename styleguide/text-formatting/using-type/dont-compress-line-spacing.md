@@ -1,4 +1,4 @@
-﻿# Don't compress line spacing
+# Don't compress line spacing
 
 The amount of vertical space between lines of text in a paragraph, called *line spacing,*
 can help or hinder reading. Adequate line spacing helps readers

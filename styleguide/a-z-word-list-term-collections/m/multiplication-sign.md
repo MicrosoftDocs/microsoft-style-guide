@@ -1,4 +1,4 @@
-﻿# multiplication sign (×)
+# multiplication sign (×)
 
 Use the multiplication sign (×), not the letter *x*, to indicate the mathematical operation. Use an asterisk (\*) if you need to match the UI.
 

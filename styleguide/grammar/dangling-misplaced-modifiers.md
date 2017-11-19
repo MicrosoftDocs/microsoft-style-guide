@@ -1,4 +1,4 @@
-﻿# Dangling and misplaced modifiers
+# Dangling and misplaced modifiers
 
 Modifiers are single words or phrases that modify other words or phrases. Position a modifier to make it clear what it modifies.
 

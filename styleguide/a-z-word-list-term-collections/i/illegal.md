@@ -1,4 +1,4 @@
-﻿# illegal
+# illegal
 
 Consult [your group’s paralegal](https://microsoft.sharepoint.com/sites/lcaweb/Pages/Applications/LegalContact.aspx) before using this term. In many cases, *licensed* and *unlicensed* may be better term choices. 
 

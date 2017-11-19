@@ -1,4 +1,4 @@
-﻿# screen
+# screen
 
 Use instead of *screenful* or *full screen*. 
 

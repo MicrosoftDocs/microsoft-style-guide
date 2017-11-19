@@ -1,4 +1,4 @@
-﻿# UPnP
+# UPnP
 
 Don't spell out as *Universal Plug and Play*. Don't use as a synonym for *Plug and Play* or *PnP*.
 

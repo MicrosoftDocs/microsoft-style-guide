@@ -1,4 +1,4 @@
-﻿# blade
+# blade
 
 Avoid talking about blades. Instead, try to discuss what the customer needs to do. 
 

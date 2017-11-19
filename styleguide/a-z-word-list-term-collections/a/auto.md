@@ -1,4 +1,4 @@
-﻿# auto-
+# auto-
 
 In general, don’t hyphenate words beginning with *auto-*, such as *autoscale* and *autodial*, unless it's necessary to avoid confusion. When in doubt, check [*The American Heritage Dictionary*](https://ahdictionary.com/) or refer to your group's editorial style guide.
 

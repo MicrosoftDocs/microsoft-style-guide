@@ -1,4 +1,4 @@
-﻿# Responsive content checklist
+# Responsive content checklist
 
 Assume that most content will be viewed on tablets or mobile devices by some customers. Plan for it.
 

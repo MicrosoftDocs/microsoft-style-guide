@@ -1,4 +1,4 @@
-﻿# disable, disabled
+# disable, disabled
 
 Don't use *disabled* to refer to people with disabilities. 
 

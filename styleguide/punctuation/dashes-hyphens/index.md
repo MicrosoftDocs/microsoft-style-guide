@@ -1,4 +1,4 @@
-﻿# Dashes and hyphens
+# Dashes and hyphens
 
 Dashes and hyphens aren’t interchangeable. Follow these guidelines to help you use them the right way, in the right places.
 

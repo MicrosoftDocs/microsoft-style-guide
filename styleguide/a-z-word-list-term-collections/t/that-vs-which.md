@@ -1,4 +1,4 @@
-﻿# that vs. which
+# that vs. which
 
 Use *that* at the beginning of a clause that’s necessary for the sentence to make sense. Don’t put a comma before *that.*
 

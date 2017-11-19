@@ -1,4 +1,4 @@
-﻿# Microsoft style references
+# Microsoft style references
 
 Don’t
 use Microsoft.com, any other webpage, or product UI as a source

@@ -1,4 +1,4 @@
-﻿# left justify, left-justified
+# left justify, left-justified
 
 Don’t use. Use *left-aligned* instead.
 

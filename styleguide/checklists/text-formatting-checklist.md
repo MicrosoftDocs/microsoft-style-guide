@@ -1,4 +1,4 @@
-﻿# Text-formatting checklist
+# Text-formatting checklist
 
   - Use the Segoe font family.
   - Use sentence-style capitalization for everything except proper nouns.

@@ -1,4 +1,4 @@
-﻿# Use simple words, concise sentences
+# Use simple words, concise sentences
 
 Make
 every word count. Concise, clear sentences save space, are easy to

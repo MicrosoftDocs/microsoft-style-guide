@@ -1,12 +1,12 @@
-﻿# Names and contact information
+# Names and contact information
 
-If you’re creating a real or sample form that collects personal information, use these guidelines. And adhere to the [Privacy and security](https://microsoft.sharepoint.com/sites/LCAWeb/home/product-development/regulatory-compliance/privacy-and-security) guidelines on CELAWeb when you collect personal information. (This site requires Microsoft network access.) Many
+If you???re creating a real or sample form that collects personal information, use these guidelines. And adhere to the [Privacy and security](https://microsoft.sharepoint.com/sites/LCAWeb/home/product-development/regulatory-compliance/privacy-and-security) guidelines on CELAWeb when you collect personal information. (This site requires Microsoft network access.) Many
 countries strictly control what personal information
 can be legally collected, stored, and shared. Before
 collecting personal data outside the United States, check with
 your international program manager and your [group's paralegal](https://microsoft.sharepoint.com/sites/lcaweb/Pages/Applications/LegalContact.aspx). (This page requires Microsoft network access.)
 
-#### Names
+## Names
 
   - Use *First name* and *Last name* in forms, or simply *F**ull name.* 
   - If you include a *Middle name* field, make it optional. 
@@ -16,7 +16,7 @@ your international program manager and your [group's paralegal](https://microsof
     article also has guidelines for using the personal name formats
     available on the [Regional Formats](https://globalready.azurewebsites.net/marketreadiness/locale "GPWeb Regional Formats for personal names") page. (This site requires Microsoft network access.)
 
-#### Addresses
+## Addresses
 
   - Provide fields long enough for customers to include whatever information is appropriate for their locale. 
   - Use *State or province* instead of *State*. Fields that might not be relevant everywhere, such as S*tate or province*, should be optional. 
@@ -25,10 +25,10 @@ your international program manager and your [group's paralegal](https://microsof
   - Use *Postal code* instead of *ZIP Code*. Allow for at least 10 characters and a combination of letters and numbers. 
   - Provide enough space for long phone numbers. 
 
-#### Contact information for Microsoft and third parties
+## Contact information for Microsoft and third parties
 
   - If
-    you’re providing information about how to contact
+    you???re providing information about how to contact
     Microsoft, remember that toll-free telephone numbers aren't
     always available worldwide. Provide an alternate way for customers
     to contact Microsoft. If appropriate, link to <http://www.microsoft.com/worldwide>.
@@ -36,6 +36,6 @@ your international program manager and your [group's paralegal](https://microsof
     references to third-party companies and organizations in the
     United States. In particular, avoid referring customers to US
     resources. If you must provide a vendor, supplier, or retailer
-    reference, state that it’s a US company or organization, and
+    reference, state that it???s a US company or organization, and
     suggest where customers outside the United States can
     look for local resources.

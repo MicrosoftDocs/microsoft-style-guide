@@ -1,4 +1,4 @@
-﻿# Em dashes
+# Em dashes
 
 HTML code &\#151;
 

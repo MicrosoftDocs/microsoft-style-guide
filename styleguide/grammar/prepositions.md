@@ -1,6 +1,6 @@
-﻿# Prepositions
+# Prepositions
 
-#### Prepositional phrases
+## Prepositional phrases
 
 A
 prepositional phrase is a combination of a preposition and a noun that
@@ -17,6 +17,6 @@ prepositional phrases are hard to read and easy to misinterpret.
 
 **Learn more** For information about using prepositional phrases in procedures, see [Writing step-by-step instructions](/style-guide/procedures-instructions/writing-step-by-step-instructions).
 
-#### Placement in the sentence
+## Placement in the sentence
 
-It’s OK to end a sentence with a preposition when it improves readability.
+It???s OK to end a sentence with a preposition when it improves readability.

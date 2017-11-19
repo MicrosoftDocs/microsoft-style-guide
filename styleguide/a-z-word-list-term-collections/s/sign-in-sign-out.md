@@ -1,4 +1,4 @@
-﻿# sign in, sign out
+# sign in, sign out
 
 Use *sign in*
 to describe starting a session on a computer, a device, a network, an

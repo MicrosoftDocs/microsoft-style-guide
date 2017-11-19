@@ -1,4 +1,4 @@
-﻿# achievement
+# achievement
 
 Refers
 to an accomplishment that's formally recognized by a game, site, or

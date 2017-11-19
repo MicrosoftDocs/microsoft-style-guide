@@ -1,4 +1,4 @@
-﻿# Capitalization checklist
+# Capitalization checklist
 
 In general, Microsoft style is sentence-style capitalization. 
 

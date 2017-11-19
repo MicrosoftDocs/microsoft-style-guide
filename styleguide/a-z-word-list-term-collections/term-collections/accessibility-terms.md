@@ -1,4 +1,4 @@
-﻿# Accessibility terms
+# Accessibility terms
 
 In
 general, refer to a person who has a kind of disability, not a

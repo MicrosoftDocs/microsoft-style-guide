@@ -1,11 +1,11 @@
-﻿# Developer content checklist
+# Developer content checklist
 
 Be
 warm and relaxed, crisp and clear, and ready to lend a hand
 to your developer audience. Skip the basics, and get right to the
 technology and product information they need. 
 
-#### Reference documentation
+## Reference documentation
 
   - Use consistent design, headings, and structure to help developers find the information they need quickly.
   - Check your group's editorial style guide for specific information about documenting your product.
@@ -20,7 +20,7 @@ technology and product information they need.
 
 **Learn more** about [writing](/style-guide/developer-content/reference-documentation)[developer reference topics](/style-guide/developer-content/reference-documentation).
 
-#### Code examples
+## Code examples
 
 Create
 code examples for tasks and scenarios that are meaningful for
@@ -32,7 +32,7 @@ the problems developers are trying to solve.
   - Prioritize frequently used elements and elements that are tricky to use.
   - Create code examples that are easy to understand, but skip obvious or contrived scenarios.
   - Introduce each scenario, and cover requirements and dependencies.
-  - Write reusable code. Include comments to explain details that aren’t obvious.
+  - Write reusable code. Include comments to explain details that aren???t obvious.
   - Show expected output.
   - Consider accessibility requirements for code that creates UI.
   - Write secure code.
@@ -43,7 +43,7 @@ the problems developers are trying to solve.
 
 **Learn more** about [code examples](/style-guide/developer-content/code-examples).
 
-#### Formatting text elements
+## Formatting text elements
 
   - Format text elements consistently to help readers locate and interpret information more easily.
 

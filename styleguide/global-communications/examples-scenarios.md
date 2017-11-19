@@ -1,4 +1,4 @@
-﻿# Examples and scenarios
+# Examples and scenarios
 
 Fictitious
 examples that include the names of people, places, or organizations are

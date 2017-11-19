@@ -1,4 +1,4 @@
-﻿# Start button, Start menu
+# Start button, Start menu
 
 Capitalize references to the Start menu and the Start button on the Windows taskbar. Use bold formatting for *Start* when you're referring to the menu or button.
 

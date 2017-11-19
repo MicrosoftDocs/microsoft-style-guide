@@ -1,4 +1,4 @@
-﻿# if vs. whether vs. when
+# if vs. whether vs. when
 
 Use *if* to express a condition, use *whether* to express uncertainty, and use *when* for situations that require preparation or to denote the passage of time.
 

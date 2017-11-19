@@ -1,4 +1,4 @@
-﻿# Punctuation checklist
+# Punctuation checklist
 
 Keep it simple.
 

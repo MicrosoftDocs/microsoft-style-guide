@@ -1,18 +1,18 @@
-﻿# Global communications checklist
+# Global communications checklist
 
 Microsoft
 customers live and work all over the world and speak a variety of
-languages. This checklist will help you write content that’s appropriate
+languages. This checklist will help you write content that???s appropriate
 wherever they live and whatever languages they speak. 
 
 If you have questions about whether writing, images, or design are appropriate for a global audience, see the full [Global communications](/style-guide/global-communications/) section of this guide. Or find a [Global Readiness contact](https://microsoft.sharepoint.com/teams/celaGlobalReadiness/Pages/Contact-Us.aspx) for your group who can help. (This page requires Microsoft network access.)
 
-#### Tips for global writing 
+## Tips for global writing 
 
 Content that's easy to read tends to be easy to localize and translate. To get started, review the checklists for [grammar and parts of speech](/style-guide/checklists/grammar-parts-of-speech-checklist), [punctuation](/style-guide/checklists/punctuation-checklist), and [word choice](/style-guide/word-choice/). 
 
   - Write short, simple sentences. Replace complex sentences with lists and tables. 
-  - Include optional words—articles and pronouns (*that* and *who*). Include verbs in short headings for clarification.
+  - Include optional words???articles and pronouns (*that* and *who*). Include verbs in short headings for clarification.
   - Avoid idioms, colloquial expressions, and culture-specific references.
   - Limit your use of sentence fragments in instructions and technical information. 
   - Use
@@ -22,7 +22,7 @@ Content that's easy to read tends to be easy to localize and translate. To get s
   - Use words ending in *-ing* and *-ed* carefully. 
   - Use only common abbreviations, such as *USB*, that are defined in industry glossaries. 
 
-#### Global visual design and scenarios 
+## Global visual design and scenarios 
 
   - Use the Microsoft brand color palette and guidelines. Learn more on [Microsoft Brand Central](https://microsoft.sharepoint.com/teams/BrandCentral/Pages/The-Microsoft-brand-Core-elements-Color.aspx "Brand Central website"). (This site requires Microsoft network access.)
   - Feature
@@ -45,15 +45,15 @@ Content that's easy to read tends to be easy to localize and translate. To get s
   - If you're talking about technologies and standards that aren't used worldwide, say so. 
   - Follow the guidelines on the [Global Readiness](https://microsoft.sharepoint.com/teams/celaGlobalReadiness/Pages/GuidelinesforGraphics.aspx#maps-globes) site for maps. (This site requires Microsoft network access.)
 
-#### Time and place 
+## Time and place 
 
   - Begin calendars on Mondays. 
-  - Use the date format *month dd, yyyy*. Don’t use numerals to represent months. 
+  - Use the date format *month dd, yyyy*. Don???t use numerals to represent months. 
   - Include the time zone when it matters to customers, such as in an event listing. In time stamps that automatically display the customer's local time, you don't need to include the time zone.
   - Avoid talking about seasons. If you do, specify the hemisphere. 
   - Include the country or region name in event locations. 
 
-#### Names and contact information
+## Names and contact information
 
   - Use *First name* and *Last name* in forms. If you include *Middle name*, make it optional. Refer to [Article 1708: Personal name formats](https://microsoft.sharepoint.com/teams/celaGlobalReadiness/KBLibrary/1708.docx?web=1 "GPWeb KB article")
     on the Global Readiness site for the correct ordering of first and last
@@ -61,13 +61,13 @@ Content that's easy to read tends to be easy to localize and translate. To get s
     access.)
   - Use *Title*, not *Honorific*. 
   - Provide enough room in address fields to include whatever information is appropriate for the locale. 
-  - Use *State* *or* *province* instead of *State*, and make it (and other fields that aren’t relevant everywhere) optional. 
+  - Use *State* *or* *province* instead of *State*, and make it (and other fields that aren???t relevant everywhere) optional. 
   - Use *Country or region* instead of *Country.* 
   - Include a field for *Country or region code* if you need information for mailing between European countries or regions.
   - Use *Postal code* instead of *ZIP* *Code*. Allow at least 10 characters and a combination of letters and numbers. 
   - Provide enough space for long telephone numbers with country codes. 
 
-#### Local resources 
+## Local resources 
 
   - If
     you're providing contact information, make sure you provide a way to
@@ -79,7 +79,7 @@ Content that's easy to read tends to be easy to localize and translate. To get s
     look for local resources. 
   - Link to sites that are available and useful worldwide. 
 
-#### Web and software considerations 
+## Web and software considerations 
 
   - Follow [Microsoft Web Framework](http://www.getmwf.com/) design and publishing practices.
   - Use standard HTML tags. 
@@ -87,7 +87,7 @@ Content that's easy to read tends to be easy to localize and translate. To get s
   - Minimize download times, and design pages so that text loads first. 
   - Allow room for text expansion due to localization.
 
-#### US and local legal compliance
+## US and local legal compliance
 
   - Before
     collecting personal data outside the United States, check
@@ -96,7 +96,7 @@ Content that's easy to read tends to be easy to localize and translate. To get s
     with your product team to verify where products and technologies are
     available. If release dates or events differ by country or region, link
     to a list of region-specific information, or provide information that
-    can be customized based on the customer’s location.
+    can be customized based on the customer???s location.
   - Avoid comparing a Microsoft product with a competitive product and using superlatives, such as *fastest database*. 
   - Third-party
     recommendations must be provided willingly. Paid endorsements are

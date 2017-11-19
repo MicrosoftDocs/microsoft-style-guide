@@ -1,4 +1,4 @@
-﻿# Design-planning checklist
+# Design-planning checklist
 
 Think about design before you start writing.
 

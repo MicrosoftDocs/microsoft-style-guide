@@ -1,4 +1,4 @@
-﻿# opt in, opt out
+# opt in, opt out
 
 Use *opt in* and *opt out* as verbs. 
 

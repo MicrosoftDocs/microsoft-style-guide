@@ -1,4 +1,4 @@
-﻿# Blogs
+# Blogs
 
 Blogs
 are a good way to provide customers with ongoing,

@@ -1,4 +1,4 @@
-﻿# right justify, right-justified
+# right justify, right-justified
 
 Don’t use. Use *right-aligned instead.*
 

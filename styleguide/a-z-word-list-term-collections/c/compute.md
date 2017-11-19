@@ -1,4 +1,4 @@
-﻿# compute
+# compute
 
 It’s OK to use *compute* as a verb in content for all audiences.
 

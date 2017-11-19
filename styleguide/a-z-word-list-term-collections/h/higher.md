@@ -1,4 +1,4 @@
-﻿# higher
+# higher
 
 Don't use *or higher* to mean *or later* to refer to multiple versions of software.
 

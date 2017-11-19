@@ -1,8 +1,8 @@
-﻿# Procedures and instructions checklist
+# Procedures and instructions checklist
 
 In
 the best-case scenario, the UI is so clear and task driven that
-you don’t need additional instructions. When the task is more
+you don???t need additional instructions. When the task is more
 complex or involves more than one UI, look for the simplest way to present it. That might be:
   - A picture, an illustration, a poster, or an infographic.
   - A video. 
@@ -14,28 +14,28 @@ complex or involves more than one UI, look for the simplest way to present it. T
 
 Follow this
 checklist when procedures are the best way to help your
-customer complete a task. Use consistent text formatting—see [Formatting text in instructions](/style-guide/procedures-instructions/formatting-text-in-instructions). And always think accessibility—see [Accessibility guidelines and requirements](/style-guide/accessibility/accessibility-guidelines-requirements) to learn more. 
+customer complete a task. Use consistent text formatting???see [Formatting text in instructions](/style-guide/procedures-instructions/formatting-text-in-instructions). And always think accessibility???see [Accessibility guidelines and requirements](/style-guide/accessibility/accessibility-guidelines-requirements) to learn more. 
 
 **Learn more** about [procedures and instructions](/style-guide/procedures-instructions/)
 
-#### Step-by-step instructions
+## Step-by-step instructions
 
-Use numbered steps—no more than seven, and preferably fewer. 
+Use numbered steps???no more than seven, and preferably fewer. 
 
   - Write a complete sentence for each step: capitalize the first word and end the sentence with a period. 
   - Use [imperative verb forms](/style-guide/grammar/verbs).
    - Consider using a heading that tells customers what the procedure will help them do. 
   - Keep
-    it short—ideally, fit the whole procedure on one screen. Omit
+    it short???ideally, fit the whole procedure on one screen. Omit
     unnecessary details. Combine simple actions that occur in the same
     place in the UI in a single step. Include actions that finalize a
     step, such as selecting the **OK** or **Apply** button, in related steps.
   - Make
     sure the customer knows where the action in the step takes place.
-    Provide a brief phrase if you need to, such as *on the **Design** tab, ….* Or provide an introductory step to avoid any confusion: *On the ribbon, go to the **Design** **** tab.*   - If there’s only one step, use the format you use for procedures with multiple steps, but replace the number with a bullet.
+    Provide a brief phrase if you need to, such as *on the **Design** tab, ???.* Or provide an introductory step to avoid any confusion: *On the ribbon, go to the **Design** **** tab.*   - If there???s only one step, use the format you use for procedures with multiple steps, but replace the number with a bullet.
   - If  your
     editorial style guide allows it, abbreviate simple sequences of
-    menu interactions with right angle brackets. Don’t use bold
+    menu interactions with right angle brackets. Don???t use bold
     formatting for the brackets. Include a space before and after each
     one.
     
@@ -44,9 +44,9 @@ Select **Accounts** \> **Other accounts** \> **Add an account**.
 
 **Learn more** about [step-by-step instructions](/style-guide/procedures-instructions/writing-step-by-step-instructions). 
 
-#### Interactions with UI
+## Interactions with UI
 
-Use the following verbs, which describe any input method—touch, mouse, keyboard, voice, and so on. 
+Use the following verbs, which describe any input method???touch, mouse, keyboard, voice, and so on. 
 
   - **Open**, for apps, shortcut menus, files, and folders.
   - **Close**, for apps, blades, dialog boxes, windows, files, and folders.
@@ -64,30 +64,30 @@ Use the following verbs, which describe any input method—touch, mouse, keyboar
 
 **Learn more** about [describing interactions with UI](/style-guide/procedures-instructions/describing-interactions-with-ui).
 
-#### Alternative input methods
+## Alternative input methods
 
   - Most of the time, use input-neutral verbs to describe interactions with UI. See [Describing interactions with UI](/style-guide/procedures-instructions/describing-interactions-with-ui) to learn how. 
   - For accessibility, always document keyboard procedures, even if they're indicated in the UI by underlined letters.
   - If
     you need to document mouse procedures, be consistent. For example,
     list the mouse method before the keyboard method consistently if
-    you document both. Don’t combine keyboard and mouse actions using a
+    you document both. Don???t combine keyboard and mouse actions using a
     plus sign. For example, say *hold down Shift while clicking* instead of *Shift+click.*
   - If
     you describe joystick interactions, assume that a mouse is a
     primary input device. Include joystick information in a table along
     with other alternative input methods. 
   - Use these verbs for pen and touch input:  
-**Tap**: Use to describe selecting something on the screen by tapping it once with a finger or pen. Don’t use *tap on.* Don’t use *click.*  
-**Double-tap**: Use to describe selecting something on the screen by tapping twice in quick succession. Don’t use *double-tap on.* Don’t use *double-click.*  
-**Tap and hold**: Use only if required by a program or app. Don’t use *touch and hold.*  
-**Pan**:Use to describe moving the screen in multiple directions, as youwould pan a camera to see different views of the environment. Forcontact gestures, use to refer to moving a finger, hand, or pen onthe device surface to move through screens or menus. Don’t use *drag* or *scroll* for these actions.  
-**Flick**: Use to describe moving one or more fingers to scroll through items on the screen. Don’t use *scroll.*
+**Tap**: Use to describe selecting something on the screen by tapping it once with a finger or pen. Don???t use *tap on.* Don???t use *click.*  
+**Double-tap**: Use to describe selecting something on the screen by tapping twice in quick succession. Don???t use *double-tap on.* Don???t use *double-click.*  
+**Tap and hold**: Use only if required by a program or app. Don???t use *touch and hold.*  
+**Pan**:Use to describe moving the screen in multiple directions, as youwould pan a camera to see different views of the environment. Forcontact gestures, use to refer to moving a finger, hand, or pen onthe device surface to move through screens or menus. Don???t use *drag* or *scroll* for these actions.  
+**Flick**: Use to describe moving one or more fingers to scroll through items on the screen. Don???t use *scroll.*
   - Use *swipe* to describe a short, quick movement in the direction opposite to how the page scrolls .
 
 **Learn more** about [alternative input methods](/style-guide/procedures-instructions/describing-alternative-input-methods).
 
-#### Multiple input methods
+## Multiple input methods
 
 If you need to document multiple ways to perform a task, use one of these methods.
 
