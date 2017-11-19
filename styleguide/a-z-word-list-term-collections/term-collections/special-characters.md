@@ -43,9 +43,9 @@ Use these terms to describe the special characters shown.
 |<div>¶</div>|<div>paragraph mark HTML code &amp;#182;</div>|
 |<div><b>( )</b></div>|<div>parentheses (plural), opening or closing parenthesis (singular)</div>|
 |<div><b>%</b></div>|<div>percent</div>|
-|<div><b>π</b></div>|<div>pi HTML code <code>&amp;#928</code></div>|
+|<div><b>π</b></div>|<div>pi HTML code &amp;#928</div>|
 |<div><b>|</b></div>|<div>pipe, vertical bar, or <b>OR</b> logical operator</div>|
-|<div><b>+</b></div>|<div>plus sign<br /><br />Don’t use to replace words like <em>and, over,</em> or <em>plus.<br /><br /></em><b>See</b> <a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=35249">plus sign (+)</a></div>|
+|<div><b>+</b></div>|<div>plus sign<br /><br />Don’t use to replace words like <em>and, over,</em> or <em>plus.<br /><br /></em><b>See</b> [plus sign (+)](../p/plus-sign.md)</div>|
 |<div><b>±</b></div>|<div>plus or minus sign HTML code &amp;#177</div>|
 |<div><b>?</b></div>|<div>question mark</div>|
 |<div><b>“ ”</b></div>|<div>quotation marks (not <em>quotes</em> or <em>quote marks</em>)<em><br /><br />Curly quotation marks</em> is OK if necessary to distinguish from straight quotation marks.</div>|
