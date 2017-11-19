@@ -1,5 +1,6 @@
-# and/or
+# antialiasing
 
-Don't use unless it helps you avoid lengthy, complex wording. Most of the time, *or* can stand on its own.
+Don't hyphenate. Don't capitalize *antialiasing* unless it begins a sentence or phrase. Don't capitalize *aliasing* in *antialiasing*. 
 
-Example Save the document, using its current name or a new name. 
+**Example** Microsoft ClearType antialiasing is a smoothing method that improves font display resolution, compared to traditional antialiasing.
+
