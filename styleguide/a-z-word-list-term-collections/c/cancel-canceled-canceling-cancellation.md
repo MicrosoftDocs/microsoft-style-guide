@@ -1,9 +1,7 @@
-# can, may
+# cancel, canceled, canceling, cancellation
 
-When you see *can* in your writing, consider deleting it. *Can* implies ability but not action. Rewrite to describe the action if possible. 
+Use *cancel the selection* instead of *deselect* or *unmark*. Use *clear* to refer to check boxes.
 
-Example Use the **/b**  option to force a black-and-white screen.
+Use *cancel* to describe ending code requests and processes before they're complete.
 
-When ability is what you need to express, it's OK to use *can* to describe actions or tasks that the reader or program is able to do. Use *might* to express possibility. Don't use *may*, which might be interpreted as providing permission.
-
-Don't substitute *could* for *can* unless you're referring to the past. 
+Spell *canceled* and *canceling* with one l, but spell *cancellation* with two l's.
