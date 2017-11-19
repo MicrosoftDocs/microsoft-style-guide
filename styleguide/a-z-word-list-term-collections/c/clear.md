@@ -1,3 +1,3 @@
-# child folder
+# clear
 
-Don't use. Use *subfolder,* *subdirectory*, *folder*, or the name of the folder.
+See [Describing interactions with UI](../../procedures-instructions/describing-interactions-with-ui.md)
