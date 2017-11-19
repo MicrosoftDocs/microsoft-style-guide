@@ -1,4 +1,4 @@
-﻿# Network traffic flows
+# Network traffic flows
 
 When
 you need to create a graphical representation of network traffic

@@ -1,4 +1,4 @@
-﻿# Web, software, and HTML considerations
+# Web, software, and HTML considerations
 
 Web content attracts a worldwide audience. When you develop websites, keep in mind that customers may not have the latest browsers, broadband
 internet access isn't available everywhere, and internet service

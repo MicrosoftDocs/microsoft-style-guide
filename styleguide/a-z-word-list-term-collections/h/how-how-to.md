@@ -1,4 +1,4 @@
-﻿# how to, how-to
+# how to, how-to
 
 Don’t use *how-to* as a noun. Always hyphenate as an adjective. Never capitalize the *t* in *to*.
 

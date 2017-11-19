@@ -1,4 +1,4 @@
-﻿# input
+# input
 
 Don't use as a verb. Use *enter* or another appropriate verb instead. 
 

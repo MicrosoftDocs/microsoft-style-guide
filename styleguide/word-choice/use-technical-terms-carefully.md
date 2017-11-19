@@ -1,4 +1,4 @@
-﻿# Use technical terms carefully
+# Use technical terms carefully
 
 Technical terms come in a variety of shapes and sizes. Sometimes they're everyday words that are given new meanings, like *cloud, batch,* or *dashboard*. Other times, common words are combined to create technical terms, like *telemedicine* or *email.* Over
 time, some technical terms become widely understood, but before

@@ -1,4 +1,4 @@
-﻿# right align, right-aligned
+# right align, right-aligned
 
 Use to refer to text that's aligned at the right margin. Always hyphenate *right-aligned*. Don’t use *right-justified*.
 

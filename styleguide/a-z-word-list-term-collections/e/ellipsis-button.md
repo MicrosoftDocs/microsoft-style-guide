@@ -1,4 +1,4 @@
-﻿# ellipsis button
+# ellipsis button
 
 The
 name of the ellipsis button varies, based on the result of using it.

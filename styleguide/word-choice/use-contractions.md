@@ -1,4 +1,4 @@
-﻿# Use contractions
+# Use contractions
 
 Write using the same, everyday words you use in conversation. 
 

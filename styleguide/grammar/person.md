@@ -1,4 +1,4 @@
-﻿# Person
+# Person
 
 In grammar, *person* refers to the point of view represented by a statement and determines which pronoun to use. 
 

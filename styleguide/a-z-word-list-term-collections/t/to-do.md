@@ -1,4 +1,4 @@
-﻿# to-do
+# to-do
 
 Don’t use *to-do* as a noun. Always hyphenate as an adjective. Don't capitalize.
 

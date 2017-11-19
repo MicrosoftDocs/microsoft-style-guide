@@ -1,4 +1,4 @@
-﻿# UI text and content design
+# UI text and content design
 
 We
 need storytellers at the heart of product development. The UI

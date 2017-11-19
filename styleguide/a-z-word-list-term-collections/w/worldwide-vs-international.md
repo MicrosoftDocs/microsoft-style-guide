@@ -1,4 +1,4 @@
-﻿# worldwide vs. international
+# worldwide vs. international
 
 Use *worldwide* to describe something that encompasses all regions or involves the entire world.
 

@@ -1,4 +1,4 @@
-﻿# Developer content checklist
+# Developer content checklist
 
 Be
 warm and relaxed, crisp and clear, and ready to lend a hand

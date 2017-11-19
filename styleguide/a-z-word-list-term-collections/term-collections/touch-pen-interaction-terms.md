@@ -1,4 +1,4 @@
-﻿# Touch and pen interaction terms
+# Touch and pen interaction terms
 
 Today’s
 customer can interact with UI in a variety of ways. This section

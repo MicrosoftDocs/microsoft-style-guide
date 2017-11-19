@@ -1,4 +1,4 @@
-﻿# Code names
+# Code names
 
 Before you create or use code names for existing products, new offerings, or acquisitions, review CELAWeb [Code name guidelines](https://microsoft.sharepoint.com/sites/LCAWeb/Home/Copyrights-Trademarks-and-Patents/Trademarks/Code-Names). (This page requires Microsoft network access.) 
 

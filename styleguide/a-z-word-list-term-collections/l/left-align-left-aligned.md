@@ -1,4 +1,4 @@
-﻿# left align, left-aligned
+# left align, left-aligned
 
 Use to refer to text that's aligned at the left margin. Always hyphenate *left-aligned*. Don’t use *left-justified*.
 

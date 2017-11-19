@@ -1,4 +1,4 @@
-﻿# Scannable content
+# Scannable content
 
 The
 volume of content available to customers is overwhelming. Part of a

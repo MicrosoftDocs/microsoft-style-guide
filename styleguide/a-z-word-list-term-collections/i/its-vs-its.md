@@ -1,4 +1,4 @@
-﻿# its vs. it's
+# its vs. it's
 
 Proofread your work to be sure you've used the correct word. 
 

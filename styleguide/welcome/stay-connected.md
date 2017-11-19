@@ -1,4 +1,4 @@
-﻿# Stay connected
+# Stay connected
 
   - Join the [Microsoft Style Guide updates](http://idwebelements/GroupManagement.aspx?Group=mstpupdt&Operation=join "Join mstpupdt@microsoft.com") email
     distribution group to receive announcements about guidance

@@ -1,4 +1,4 @@
-﻿# home, home page
+# home, home page
 
 Use *home* to refer to the main page of a website or the page a browser displays upon opening. Capitalize *Home* only when it’s used as a UI label or in references to a UI label.
 

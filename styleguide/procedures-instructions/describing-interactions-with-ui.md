@@ -1,4 +1,4 @@
-﻿# Describing interactions with UI
+# Describing interactions with UI
 
 Customers
 interact with products using different input methods: keyboard,

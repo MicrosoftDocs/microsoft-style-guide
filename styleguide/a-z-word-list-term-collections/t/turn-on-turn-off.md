@@ -1,4 +1,4 @@
-﻿# turn on, turn off
+# turn on, turn off
 
 Use instead of *power on/power off, start/stop,* or *switch on/switch off* to mean turning the device on and off.
 

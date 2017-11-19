@@ -1,4 +1,4 @@
-﻿# Illustrations
+# Illustrations
 
 Follow [Microsoft brand illustration guidelines](https://microsoft.sharepoint.com/teams/BrandCentral/Pages/The-Microsoft-brand-Core-elements-Illustration.aspx) if you’re using illustrations in your content. (This page requires Microsoft network access.)
 

@@ -1,4 +1,4 @@
-﻿# ask
+# ask
 
 Don't use as a noun. Use *request, task,* or another suitable word.
 

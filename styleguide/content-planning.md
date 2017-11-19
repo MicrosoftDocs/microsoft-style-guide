@@ -1,4 +1,4 @@
-﻿# Content planning
+# Content planning
 
 Great content starts with a plan that begins with these questions.
 

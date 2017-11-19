@@ -1,4 +1,4 @@
-﻿# System requirements
+# System requirements
 
 Accurate
 system requirements for products, services, and downloads enhance

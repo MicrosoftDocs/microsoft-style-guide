@@ -1,4 +1,4 @@
-﻿# Describing alternative input methods
+# Describing alternative input methods
 
 If you use input-neutral methods in instructions, provide a topic
 that explains how to interact with the product using each available

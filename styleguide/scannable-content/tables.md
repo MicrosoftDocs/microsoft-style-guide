@@ -1,4 +1,4 @@
-﻿# Tables
+# Tables
 
 Tables make complex information easier to understand by presenting it in a clear structure. 
 

@@ -1,4 +1,4 @@
-﻿# Legal content checklist
+# Legal content checklist
 
 Knowing
 and following Microsoft’s legal standards in content helps protect

@@ -1,4 +1,4 @@
-﻿# Nouns and pronouns
+# Nouns and pronouns
 
 #### Capitalization and proper nouns
 

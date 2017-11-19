@@ -1,4 +1,4 @@
-﻿# Bits and bytes terms
+# Bits and bytes terms
 
 In general, spell out *bit* and *byte* terms on the first mention unless: 
 

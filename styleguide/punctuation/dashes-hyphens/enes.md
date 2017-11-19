@@ -1,4 +1,4 @@
-﻿# En dashes
+# En dashes
 
 HTML code &\#150;
 

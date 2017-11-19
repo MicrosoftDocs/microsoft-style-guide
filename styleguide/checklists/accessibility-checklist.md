@@ -1,4 +1,4 @@
-﻿# Accessibility checklist
+# Accessibility checklist
 
 Microsoft creates
 technology that's accessible to people of all abilities.

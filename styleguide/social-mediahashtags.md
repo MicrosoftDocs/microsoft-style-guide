@@ -1,4 +1,4 @@
-﻿# Hashtags
+# Hashtags
 
 Hashtags provide context and draw readers into conversations on Twitter and other social media and in Outlook. 
 

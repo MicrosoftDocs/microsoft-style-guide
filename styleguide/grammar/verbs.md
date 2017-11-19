@@ -1,4 +1,4 @@
-﻿# Verbs
+# Verbs
 
  Using precise verbs in the right way helps you write clear and simple sentences.
 

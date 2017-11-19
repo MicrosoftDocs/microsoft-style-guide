@@ -1,4 +1,4 @@
-﻿# Name development
+# Name development
 
 If
 you’re developing a new name—whether for a product or service, a

@@ -1,4 +1,4 @@
-﻿# Use US spelling and avoid non-English words
+# Use US spelling and avoid non-English words
 
 When the spelling of English words varies by locale, use the US spelling. For example, use *license*, not *licence.*
 

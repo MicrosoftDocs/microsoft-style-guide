@@ -1,4 +1,4 @@
-﻿# Don't use common words in new ways
+# Don't use common words in new ways
 
 Most people know the common definition of words—usually the one that appears first in the dictionary ([*The American Heritage Dictionary*](https://ahdictionary.com/), to be exact.) Use words in the most familiar sense, or define them if you can’t.
 

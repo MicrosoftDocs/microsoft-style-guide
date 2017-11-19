@@ -1,4 +1,4 @@
-﻿# Use sentence-style capitalization
+# Use sentence-style capitalization
 
 In sentence-style capitalization, you capitalize only the first word of a sentence or phrase and proper nouns.  
 **Example** This sentence and the subhead of this section both use sentence-style capitalization. 

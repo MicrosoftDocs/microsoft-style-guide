@@ -1,4 +1,4 @@
-﻿# Blogs and communities checklist
+# Blogs and communities checklist
 
 #### Blogs
 

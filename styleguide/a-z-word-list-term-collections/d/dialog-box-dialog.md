@@ -1,4 +1,4 @@
-﻿# dialog box, dialog
+# dialog box, dialog
 
 Most of the time, avoid talking about UI elements. Talk about customer actions instead.
 

@@ -1,4 +1,4 @@
-﻿# Quotation marks
+# Quotation marks
 
 In most content, use double quotation marks (“ ”) not single quotation marks (' ').
 

@@ -1,4 +1,4 @@
-﻿# Cascading Style Sheets (CSS)
+# Cascading Style Sheets (CSS)
 
 Capitalize references to the technique for adding fonts, colors, and so on to web content. Spell out unless the abbreviation *CSS* is familiar to your audience.
 

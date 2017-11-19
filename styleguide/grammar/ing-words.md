@@ -1,4 +1,4 @@
-﻿# Words ending in -ing
+# Words ending in -ing
 
 A word ending in *–ing* can be a verb, a noun, or an adjective. Use *–ing* words with care. The sentence should make it clear which role the word plays. 
 

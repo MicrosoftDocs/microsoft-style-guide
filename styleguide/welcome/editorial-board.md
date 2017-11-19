@@ -1,4 +1,4 @@
-﻿# Microsoft Editorial Board
+# Microsoft Editorial Board
 
 Microsoft-wide
 questions of style are managed by the Microsoft Editorial Board, which

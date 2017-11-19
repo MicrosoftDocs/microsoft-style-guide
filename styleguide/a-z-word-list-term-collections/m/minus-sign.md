@@ -1,4 +1,4 @@
-﻿# minus sign (–)
+# minus sign (–)
 
 Use an en dash for a minus sign.
 

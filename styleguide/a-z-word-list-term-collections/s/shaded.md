@@ -1,4 +1,4 @@
-﻿# shaded
+# shaded
 
 Most of the time, talk about the actions that customers should take.
 

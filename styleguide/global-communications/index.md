@@ -1,4 +1,4 @@
-﻿# Global communications
+# Global communications
 
 Microsoft
 customers live and work all over the world and speak a variety of

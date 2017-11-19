@@ -1,4 +1,4 @@
-﻿# Security, safety, and privacy content checklist
+# Security, safety, and privacy content checklist
 
 Absolute security, privacy, and safety don't exist. When you write about these subjects, which are a big concern for many customers, be reassuring but realistic.
 

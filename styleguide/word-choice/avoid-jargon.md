@@ -1,4 +1,4 @@
-﻿# Avoid jargon
+# Avoid jargon
 
 In
 the right context, for a particular audience, jargon serves as

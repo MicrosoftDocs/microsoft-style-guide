@@ -1,4 +1,4 @@
-﻿# Control Panel
+# Control Panel
 
 Use *Control Panel*, not *the Control Panel,* to refer to the entire Windows Control Panel feature. 
 

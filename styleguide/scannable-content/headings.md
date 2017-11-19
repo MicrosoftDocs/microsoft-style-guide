@@ -1,4 +1,4 @@
-﻿# Headings
+# Headings
 
 Headings provide both structure and visual points of reference to help readers scan content. If
 you can break text logically into smaller sections, the extra

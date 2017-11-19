@@ -1,4 +1,4 @@
-﻿# Writing step-by-step instructions
+# Writing step-by-step instructions
 
 Follow these guidelines to help you create clear, easy-to follow instructions,
 whether you're writing simple, single-step procedures or complex

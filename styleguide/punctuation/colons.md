@@ -1,4 +1,4 @@
-﻿# Colons
+# Colons
 
 #### Preceding lists
 

@@ -1,4 +1,4 @@
-﻿# n
+# n
 
 Use a lowercase *n* in italic type to refer to a generic use of a number—when the value of a number is arbitrary or immaterial. 
 

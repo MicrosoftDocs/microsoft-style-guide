@@ -1,4 +1,4 @@
-﻿# emoticons, emoji
+# emoticons, emoji
 
 Use emoticons. A little personality goes a long way.
 

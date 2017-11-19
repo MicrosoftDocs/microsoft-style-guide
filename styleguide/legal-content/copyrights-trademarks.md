@@ -1,4 +1,4 @@
-﻿# Copyrights and trademarks
+# Copyrights and trademarks
 
 Copyrights and trademark registration protect intellectual property. This
 section summarizes things you can do to help. For the full story,

@@ -1,4 +1,4 @@
-﻿# Periods
+# Periods
 
 Don’t
 use end punctuation in headlines, headings, subheadings, UI

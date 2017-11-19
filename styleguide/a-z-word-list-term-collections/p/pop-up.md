@@ -1,4 +1,4 @@
-﻿# pop-up
+# pop-up
 
 Don’t use as a noun. For example, don't use *a pop-up;* use *a pop-up window* instead.
 

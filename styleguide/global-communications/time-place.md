@@ -1,4 +1,4 @@
-﻿# Time and place
+# Time and place
 
 Use the following guidelines when talking about time and place.
 

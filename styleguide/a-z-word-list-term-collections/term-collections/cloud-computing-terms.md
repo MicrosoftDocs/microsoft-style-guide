@@ -1,4 +1,4 @@
-﻿# Cloud-computing terms
+# Cloud-computing terms
 
 As
 cloud computing evolves, the consistent use of its

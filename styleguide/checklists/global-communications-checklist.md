@@ -1,4 +1,4 @@
-﻿# Global communications checklist
+# Global communications checklist
 
 Microsoft
 customers live and work all over the world and speak a variety of

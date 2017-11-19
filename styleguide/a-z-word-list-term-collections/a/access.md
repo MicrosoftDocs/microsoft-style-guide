@@ -1,4 +1,4 @@
-﻿# access
+# access
 
 It's OK to use as a verb to mean *obtain access to*. 
 

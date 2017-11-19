@@ -1,4 +1,4 @@
-﻿# hard-coded
+# hard-coded
 
 Always hyphenate. 
 

@@ -1,4 +1,4 @@
-﻿# unavailable
+# unavailable
 
 Most of the time, talk about the actions that customers should take rather than describing UI. 
 

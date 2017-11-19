@@ -1,4 +1,4 @@
-﻿# Microsoft's brand voice: above all, simple and human
+# Microsoft's brand voice: above all, simple and human
 
 There’s *what* we say, our message. And there’s *how*
 we say it, our voice. 

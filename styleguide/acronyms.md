@@ -1,4 +1,4 @@
-﻿# Acronyms
+# Acronyms
 
 Acronyms
 and abbreviations can have an adverse effect on clarity, voice, and

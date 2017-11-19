@@ -1,4 +1,4 @@
-﻿# Responsive content
+# Responsive content
 
 If you’re writing for the web, assume your content will be used on a variety of devices. Many websites today are *responsive—*that is,
 they reconfigure automatically based on the device in use. Assume

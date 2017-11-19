@@ -1,4 +1,4 @@
-﻿# Word choice
+# Word choice
 
 To
 improve readability and comprehension, choose your words wisely

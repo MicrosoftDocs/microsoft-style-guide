@@ -1,4 +1,4 @@
-﻿# Grammar and parts of speech
+# Grammar and parts of speech
 
 Simple
 grammar tends to be easy to read and understand, like a

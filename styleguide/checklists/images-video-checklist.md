@@ -1,4 +1,4 @@
-﻿# Images and video checklist
+# Images and video checklist
 
 Before using images in content, familiarize yourself with the guidelines for [bias-free communication](/style-guide/bias-free-communication); [accessible graphics, design, and media](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26700); and [copyrights and trademarks](/style-guide/legal-content/copyrights-trademarks).
 

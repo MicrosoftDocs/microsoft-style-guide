@@ -1,4 +1,4 @@
-﻿# Search and writing
+# Search and writing
 
 Customers
 find content in a variety of ways. One of the most common is

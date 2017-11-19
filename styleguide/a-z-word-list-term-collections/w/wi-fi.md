@@ -1,4 +1,4 @@
-﻿# Wi-Fi
+# Wi-Fi
 
 Try to use a general phrase instead, such as *wireless network*, or refer to the specific technology that you're describing, such as *wireless LAN*.
 

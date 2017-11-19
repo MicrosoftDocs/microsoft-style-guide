@@ -1,4 +1,4 @@
-﻿# folder, folder icon
+# folder, folder icon
 
 In general, try not to talk about UI. Instead, talk about what the customer should do. 
 

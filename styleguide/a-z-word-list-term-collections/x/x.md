@@ -1,4 +1,4 @@
-﻿# x
+# x
 
 Use a lowercase *x* in italic type as a placeholder number or variable. 
 

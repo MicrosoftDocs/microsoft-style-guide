@@ -1,4 +1,4 @@
-﻿# Use left alignment
+# Use left alignment
 
 Left-aligned text has an even left margin and an erratic (ragged) right margin. 
 

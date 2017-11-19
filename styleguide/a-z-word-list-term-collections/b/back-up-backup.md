@@ -1,4 +1,4 @@
-﻿# back up, backup
+# back up, backup
 
 Two words as a verb, one word as an adjective or a noun.
 

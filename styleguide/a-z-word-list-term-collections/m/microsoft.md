@@ -1,4 +1,4 @@
-﻿# Microsoft
+# Microsoft
 
 Never abbreviate *Microsoft*. Don’t use *Microsoft’s.*
 

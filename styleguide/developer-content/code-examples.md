@@ -1,4 +1,4 @@
-﻿# Code examples
+# Code examples
 
 Code examples illustrate how to use a programming element to implement specific functionality. They might include:
 

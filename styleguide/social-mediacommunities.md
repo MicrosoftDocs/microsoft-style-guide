@@ -1,4 +1,4 @@
-﻿# Communities
+# Communities
 
 The
 web has evolved from a source of information to a place

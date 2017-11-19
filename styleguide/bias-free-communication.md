@@ -1,4 +1,4 @@
-﻿# Bias-free communication
+# Bias-free communication
 
 Microsoft technology reaches every part of the globe—so it’s critical that all our communications are inclusive and diverse.
 

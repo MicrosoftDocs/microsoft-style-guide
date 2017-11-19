@@ -1,4 +1,4 @@
-﻿# gray, grayed out
+# gray, grayed out
 
 Most of the time, talk about the actions that customers should take. 
 

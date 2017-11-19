@@ -1,4 +1,4 @@
-﻿# plug-in
+# plug-in
 
 Hyphenate
 as a noun to describe a component that permits a specific

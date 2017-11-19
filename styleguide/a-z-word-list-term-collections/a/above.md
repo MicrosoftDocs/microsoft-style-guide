@@ -1,4 +1,4 @@
-﻿# above
+# above
 
 Don’t use to mean *earlier*. 
 
