@@ -1,7 +1,6 @@
-# ask
+# assembly language
 
-Don't use as a noun. Use *request, task,* or another suitable word.
+Use instead of *assembler* or *machine language*. 
 
-Examples
-Your assigned tasks
-After you submit your request, you’ll receive a confirmation email.
+Hyphenate as an adjective.
+
