@@ -15,7 +15,7 @@ as configuration schemas, compiler options, and error messages
 might not follow the guidelines described in this section. For
 information about documenting those features, see your group's editorial style guide.
 
-#### Topic titles
+## Topic titles
 
 Use
 the name of a programming element (such as Clear), followed by an
@@ -31,7 +31,7 @@ Clear Method
 Device.Clear Method  
 Clear Method (Microsoft Ajax)  
 
-#### Elements of a reference topic
+## Elements of a reference topic
 
 The table lists the information typically provided in reference topics. Not all sections appear in all topics. For example, the *Property value* or *Field value*
 section appears only in reference topics for properties. Sections vary
@@ -41,7 +41,7 @@ depending on the language, product, or technology being documented.
 --|--
 **Description**|A concise sentence or two describing the element. If possible, explain what the element does or represents without repeating the element name.<br />**Example**<br />**Control.AllowDrop** Gets or sets a value that indicates whether the control can accept data the user drags onto it.
 **Declaration/Syntax**|The code signature that defines the element. This section might also provide usage syntax. If the technology can be used with multiple programming languages, provide syntax for each language.
-**Parameters**|If the element has parameters, provide a description of each parameter and its data type. If appropriate, indicate whether the parameter is required or optional and whether it represents input or output. Provide as much useful detail as possible. Don’t just repeat the words in the parameter name or the data type.**Examples**<br />*visible*<br />Type: System.Boolean <br />**true** to specify the box is rendered; **false** to specify it's not rendered<br /><br />*Input*<br />Type: System.String <br />The text to convert
+**Parameters**|If the element has parameters, provide a description of each parameter and its data type. If appropriate, indicate whether the parameter is required or optional and whether it represents input or output. Provide as much useful detail as possible. Don???t just repeat the words in the parameter name or the data type.**Examples**<br />*visible*<br />Type: System.Boolean <br />**true** to specify the box is rendered; **false** to specify it's not rendered<br /><br />*Input*<br />Type: System.String <br />The text to convert
 **Return value**|If the element returns a value, describe the value and information about its data type. If the value is a Boolean that indicates the presence of a condition, describe the condition.
 **Property/Field value**|A description of the value for a property or field. If the property or field has a default value, describe that as well. Include the data type of the property or field value if applicable.
 **Exceptions/Error codes**|If the element can throw exceptions or raise errors when called, list them and describe the conditions under which they occur.
@@ -55,6 +55,6 @@ depending on the language, product, or technology being documented.
 source code, review the quality and appropriateness of the
 comments. Developers might leave out details that are important to
 customers. Remove any implementation or internal details that
-aren’t suitable for documentation. 
+aren???t suitable for documentation. 
 
 **Learn more** For examples of technical reference topics, see the [.NET Framework Class Library](http://msdn.microsoft.com/en-us/library/gg145045.aspx) section of the [Microsoft Developer Network (MSDN) Library](http://msdn.microsoft.com/library/).

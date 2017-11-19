@@ -1,6 +1,6 @@
 # Commas
 
-#### Use a comma:
+## Use a comma:
 
   - In
     a list of three or more items, include a comma before the conjunction.
@@ -29,7 +29,7 @@
 
 For information about using commas in numbers, see [](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36307)[Numbers](/style-guide/numbers).
 
-#### Don’t use a comma:
+## Don???t use a comma:
 
   - To join independent clauses when you don't use a conjunction. (Use a semicolon instead.)
 
@@ -45,4 +45,4 @@ For information about using commas in numbers, see [](https://worldready.cloudap
     The program evaluates your computer system. Then it copies the essential files to the target location.  
     The program evaluates your computer system, and then it copies the essential files to the target location. 
 
-  - Between the month and the year when a specific date isn’t mentioned.
+  - Between the month and the year when a specific date isn???t mentioned.

@@ -5,7 +5,7 @@ you write about numbers used in examples or UI, duplicate them
 exactly as they appear in the UI. In all other content, follow
 these guidelines. For detailed guidelines, see [Numbers](/style-guide/numbers). 
 
-#### Spelled out numbers
+## Spelled out numbers
 
 Use for:
 
@@ -14,7 +14,7 @@ Use for:
   - At the beginning of a sentence.
   - Ordinal numbers, such as *first.* Don't add *-ly*, as in *firstly*, to ordinal numbers.
 
-#### Numerals
+## Numerals
 
 Use for:
 
@@ -25,46 +25,46 @@ Use for:
   - Measurements of distance, temperature, volume, size, weight, pixels, points, and so on. To learn more, see [Units of measure term collection](/style-guide/a-z-word-list-term-collections/term-collections/units-of-measure-terms).
   - A round number of 1 million or more.
   - Numbers the customer is directed to type.
-  - Dimensions. Use the multiplication sign (×), preceded and followed by a space, for tile sizes, screen resolutions, and paper sizes. For everything else, spell out *by.* 
+  - Dimensions. Use the multiplication sign (??), preceded and followed by a space, for tile sizes, screen resolutions, and paper sizes. For everything else, spell out *by.* 
   - Time of day.
   - Percentages. Spell out *percent.* Use *percentage* when no quantity is given.
   - Coordinates of tables or worksheets and numbered sections of documents.
 
-#### Commas
+## Commas
 
   - Use in numbers that have four or more digits, regardless of how they appear in the UI.  
     **Exception** When designating years or baud, use commas only when the number has five or more digits*.*
-  - Don’t use in page numbers, street addresses, or decimal fractions.
+  - Don???t use in page numbers, street addresses, or decimal fractions.
 
-#### Dates
+## Dates
 
-  - Don’t use ordinal numbers, such as *June* *first* or *October twenty-eighth*, for dates. Use a numeral instead*.*
+  - Don???t use ordinal numbers, such as *June* *first* or *October twenty-eighth*, for dates. Use a numeral instead*.*
   - Always spell out the name of the month.
 
  Learn more about [dates and time](/style-guide/a-z-word-list-term-collections/term-collections/date-time-terms).
 
-#### Negative numbers
+## Negative numbers
 
   - Form a negative number with an en dash, not a hyphen. Learn more about [](/style-guide/punctuation/dashes-hyphens/)[dashes and hyphens](/style-guide/punctuation/dashes-hyphens/).
 
-#### Compound numbers
+## Compound numbers
 
   - Hyphenate compound numbers when they're spelled out. Learn more about [dashes and hyphens](/style-guide/punctuation/dashes-hyphens/).[](/style-guide/punctuation/dashes-hyphens/ "Dashes and hyphens")
 
-#### Fractions and decimals
+## Fractions and decimals
 
-  - Don’t use numerals separated by a slash to express fractions.   
+  - Don???t use numerals separated by a slash to express fractions.   
     **Exception** When an equation occurs in text, it's OK to use a slash between the numerator and the denominator. 
   - Hyphenate spelled-out fractions. Connect the numerator and denominator with a hyphen unless either already contains a hyphen (for example, *one-third* but *three sixty-fourths*). Learn more about [dashes and hyphens](/style-guide/punctuation/dashes-hyphens/). 
   - In tables, align decimals on the decimal point. 
   - In decimal fractions less than one, include a zero (*0.1255*, for example) unless the customer is asked to type the value.
   - When spelling out units of measure, use the singular form for quantities of one or less, except for zero, which takes the plural form. Learn more about [units of measure](/style-guide/a-z-word-list-term-collections/term-collections/units-of-measure-terms).
 
-#### Ranges of numbers
+## Ranges of numbers
 
   - In most cases, use *from* and *through* to describe a range of numbers.  
     **Exceptions** Use an en dash in a range of pages or where space is an issue, such as in tables and UI. **
-  - Don’t use *from* before a range indicated by an en dash, such as *10–15*. 
+  - Don???t use *from* before a range indicated by an en dash, such as *10???15*. 
 
  **Learn more** about [dashes and hyphens](/style-guide/punctuation/dashes-hyphens/).
 

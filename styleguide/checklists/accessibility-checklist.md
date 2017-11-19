@@ -9,14 +9,14 @@ and interactive content. (The Microsoft Accessibility Standards page requires Mi
 
 **Learn more**  about [Accessibility guidelines and requirements](/style-guide/accessibility/accessibility-guidelines-requirements). 
 
-#### **Writing**
+## **Writing**
 
   - Create text alternatives (alt text) for all elements other than text. 
   - Follow Microsoft voice guidelines to create brief, clear, and focused content.
   - Write
     short, descriptive link text that maps to or clearly describes the
-    destination link. If possible, use at least two visual cues—color
-    and underline, for example—to distinguish links.
+    destination link. If possible, use at least two visual cues???color
+    and underline, for example???to distinguish links.
   - Use
     headings, tables, and lists to organize content logically, to
     emphasize key points, and to reinforce relationships between
@@ -27,19 +27,19 @@ and interactive content. (The Microsoft Accessibility Standards page requires Mi
     modes of interaction, input commands, and keyboard shortcuts. 
   - In procedures and instructions, use generic verbs that work with any input method. To learn more, see [Describing interactions with UI](/style-guide/procedures-instructions/describing-interactions-with-ui).
 
-#### **Colors and patterns**
+## **Colors and patterns**
 
-  - Don’t
-    convey information using any single sensory cue—color, sound,
+  - Don???t
+    convey information using any single sensory cue???color, sound,
     pattern, or otherwise. Use multiple cues, such as color, pattern,
     and text. 
-  - Don’t use
+  - Don???t use
     low-contrast or hard-to-read color combinations. Instead, follow
     minimum contrast standards and provide high-contrast alternatives.
     To learn more, see page 5 of [](https://microsoft.sharepoint.com/teams/BrandCentral/Guidelines/MS_color_and_accessibility_Oct2014.pdf "PowerPoint file")[the brand color guidelines](https://microsoft.sharepoint.com/teams/BrandCentral/Guidelines/Microsoft_color_guidelines.pdf "Microsoft color guidelines PDF"). (This page requires Microsoft network access.)
-  - Don’t use screens or tints in art. Don't use patterns or images behind text. 
+  - Don???t use screens or tints in art. Don't use patterns or images behind text. 
 
-#### **Graphics, design, and media**
+## **Graphics, design, and media**
 
   - Try to keep webpage and UI design simple, within a rectangular grid.
   - Design webpages to support known reading patterns.
@@ -58,7 +58,7 @@ and interactive content. (The Microsoft Accessibility Standards page requires Mi
     audio descriptions.) 
   - Provide text links in addition to image maps.
 
-#### **Terminology**
+## **Terminology**
 
   - Always put people before the disability. For example, refer to a person who is blind, not a blind person. 
   - Use
