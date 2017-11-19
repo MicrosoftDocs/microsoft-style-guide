@@ -1,7 +1,7 @@
-# e-book
+# e-commerce
 
-Always hyphenate. Don't use *ebook* or *eBook.*
+Always hyphenate. Don't use *ecommerce* or *eCommerce*. 
 
-Use *E-book* at the beginning of a sentence or heading. In uncommon situations where title-style capitalization is required, use *E-Book*.
+Use *E-commerce* at the beginning of a sentence or heading. In uncommon situations where title-style capitalization is required, use *E-Commerce*.
 
-See also [Capitalization](/style-guide/capitalization)
+**See also** [Capitalization](../../capitalization.md)
