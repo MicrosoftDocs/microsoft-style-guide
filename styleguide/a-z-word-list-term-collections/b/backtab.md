@@ -1,3 +1,3 @@
-# backspace
+# backtab
 
-One word. OK to use as a verb.
+Don't use. Instead, instruct the customer to use Shift+Tab.
