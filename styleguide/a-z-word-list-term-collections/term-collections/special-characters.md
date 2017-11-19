@@ -5,7 +5,7 @@ Use these terms to describe the special characters shown.
 |<b>Character</b>|<b>Name</b>|
 |---|---|
 |<div><div><b>´</b></div></div>|<div><div>acute accent (not <em>accent acute</em>) HTML code &amp;#180;</div></div>|
-|<div><b>&amp;</b></div>|<div><div>ampersand<br /><br />Don't use in place of <em>and.</em><p></p></div><b>See</b> <a href="https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=32501">ampersand (&amp;)</a><br /></div>|
+|<div><b>&amp;</b></div>|<div><div>ampersand<br /><br />Don't use in place of <em>and.</em><p></p></div><b>See</b> [ampersand (&amp;)](../a/ampersand.md)<br /></div>|
 |<div><b>&lt; &gt;</b></div>|<div>angle brackets</div>|
 |<div><b>’</b></div>|<div>apostrophe (publishing character)</div>|
 |<div><b>'</b></div>|<div>apostrophe (customer-typed text)</div>|
@@ -58,4 +58,3 @@ Use these terms to describe the special characters shown.
 |<div><b>~</b></div>|<div>tilde<br /><br />Don't use in place of <em>about</em> or <em>approximately.</em></div>|
 |<div><b>™</b></div>|<div>trademark symbol HTML code &amp;#153;</div>|
 |<div><b>_</b></div>|<div>underscore</div>|
-|</tbody></table>
