@@ -104,4 +104,6 @@ To show a key combination that includes punctuation requiring use of the Shift k
 
 **Examples**<br />Ctrl+Shift+? <br />Ctrl+Shift+\* <br />Ctrl+Shift+Comma
 
-See also [Special character term collection](/style-guide/a-z-word-list-term-collections/term-collections/special-characters)
+## See also 
+
+[Special character term collection](/style-guide/a-z-word-list-term-collections/term-collections/special-characters)

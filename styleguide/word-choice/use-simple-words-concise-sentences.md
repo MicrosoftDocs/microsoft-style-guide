@@ -17,28 +17,28 @@ Use your judgment to avoid sounding abrupt or unfriendly.
 
   - Choose simple verbs without modifiers. Whenever you can, avoid weak or vague verbs, such as *be*, *have*, *make*, and *do.*   
     **Examples**
-
-| Use this | Not this |
-|---|---|
-| use | utilize, <br /> make use of |
-| remove | extract, <br /> take away, <br /> eliminate |
-| tell | inform, <br /> let know |
+    
+    | Use this | Not this |
+    |---|---|
+    | use | utilize, <br /> make use of |
+    | remove | extract, <br /> take away, <br /> eliminate |
+    | tell | inform, <br /> let know |
 
   - Don’t use two or three words when one will do.  
     **Examples**  
-
-| Use this | Not this |
-|---|---|
-| to | in order to, <br /> as a means to |
-| also | in addition |
-| connect | establish connectivity |
+    
+    | Use this | Not this |
+    |---|---|
+    | to | in order to, <br /> as a means to |
+    | also | in addition |
+    | connect | establish connectivity |
 
   - Whenever possible, choose words that have one clear meaning.  
     **Examples**  
-
-| Use this | Not this |
-|---|---|
-| _Because_ you created the table, you can change it. | _Since_ you created the table, you can change it. |
+    
+    | Use this | Not this |
+    |---|---|
+    | _Because_ you created the table, you can change it. | _Since_ you created the table, you can change it. |
 
   - Omit unnecessary adverbs—words that describe how, when, or where.
     Unless they're important to the meaning of a statement, leave
