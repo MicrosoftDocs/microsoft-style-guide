@@ -13,7 +13,7 @@ Don't spell out as *Universal Plug and Play*. Don't use as a synonym for *Plug a
 
 Use the trademark symbol (™) on the first mention. Include the following in the trademark attribution sentence:
 
- UPnP™ is a certification mark of the UPnP™ Implementers Corporation.
+> UPnP™ is a certification mark of the UPnP™ Implementers Corporation.
 
 Use *UPnP* as an adjective followed by *certified*, if appropriate, and a specific term, such as *device**, architecture*, or *standards*.  
 **Example** This UPnP certified device features .... 
