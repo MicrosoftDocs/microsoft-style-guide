@@ -76,7 +76,7 @@ paragraphs and body copy. To learn more, see [Punctuation](/style-guide/punctuat
 
 With this:<br />**Move a tile**<br />1\. Press and hold the tile.
 
-**Remember the last comma**<br />In a list of three or more items, include a comma before the conjunction*.* (The comma that comes before the conjunction is known as the Oxford or serial comma*.*) ** To learn more, see [Commas](/style-guide/punctuation/commas). 
+**Remember the last comma**<br />In a list of three or more items, include a comma before the conjunction*.* (The comma that comes before the conjunction is known as the Oxford or serial comma*.*) To learn more, see [Commas](/style-guide/punctuation/commas). 
 
 **Example**<br />Replace this: Android, iOS and Windows
 
