@@ -16,21 +16,21 @@ isn’t necessary. Start there. See [UI text and design](/style-guide/ui-text-co
 
 Some tasks are more complex. When you need to provide a procedure, look for the clearest way to present it. That might be:
 
-  - A picture, an illustration, a poster, or an infographic
-    ![](media/index/1980906142.png)
+  - A picture, an illustration, a poster, or an infographic  
+    ![](media/index/1980906142.png)  
   - A video.
 
-![](media/index/774741777.png)
+    ![](media/index/774741777.png)
 
   - A one-sentence instruction.
 
-![](media/index/1713306812.png)
+    ![](media/index/1713306812.png)
 
   - A numbered
     procedure, which might include pictures, videos, and links or
     buttons that take customers where they need to go.
 
-![](media/index/541572162.png)
+    ![](media/index/541572162.png)
 
 When
 a procedure is the best approach, use the guidelines in this
