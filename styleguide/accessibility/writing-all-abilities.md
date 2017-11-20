@@ -1,4 +1,4 @@
-﻿# Writing for all abilities
+# Writing for all abilities
 
 Microsoft
 style—clean, simple design and crisp, clear content—is easier

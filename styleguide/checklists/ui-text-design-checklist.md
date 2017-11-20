@@ -1,4 +1,4 @@
-﻿# UI text and design checklist
+# UI text and design checklist
 
 Well-designed UI feels like a conversation. These tips will help get you there. 
 

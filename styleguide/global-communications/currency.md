@@ -1,4 +1,4 @@
-﻿# Currency
+# Currency
 
 ## Currency names
 

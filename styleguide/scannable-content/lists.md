@@ -1,4 +1,4 @@
-﻿# Lists
+# Lists
 
 Lists are a great way to present complex text in a way that's easy to scan. 
 

@@ -1,4 +1,4 @@
-﻿# Keys and keyboard shortcuts
+# Keys and keyboard shortcuts
 
 This term collection covers how to refer to keyboard shortcuts and the names of specific keys. 
 

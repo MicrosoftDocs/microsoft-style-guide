@@ -1,4 +1,4 @@
-﻿# Capitalization
+# Capitalization
 
 Microsoft
 style is sentence-style capitalization. That means everything is

@@ -1,4 +1,4 @@
-﻿# Mouse and mouse interaction terms
+# Mouse and mouse interaction terms
 
 Most
 of the time, don't talk about the mouse, mouse actions, or the pointer

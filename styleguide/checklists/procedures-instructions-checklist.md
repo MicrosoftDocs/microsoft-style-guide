@@ -1,4 +1,4 @@
-﻿# Procedures and instructions checklist
+# Procedures and instructions checklist
 
 In
 the best-case scenario, the UI is so clear and task driven that

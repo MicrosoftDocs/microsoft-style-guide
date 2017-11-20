@@ -1,4 +1,4 @@
-﻿
+
 # Legal considerations
 
 Content

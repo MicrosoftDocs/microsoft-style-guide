@@ -1,4 +1,4 @@
-﻿# Writing tips
+# Writing tips
 
 For
 the most part, content that’s easy to read tends to be easy to localize

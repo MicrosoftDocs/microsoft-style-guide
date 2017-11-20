@@ -1,4 +1,4 @@
-﻿# Computer and device terms
+# Computer and device terms
 
 In
 the modern world, customers get things done with whatever device

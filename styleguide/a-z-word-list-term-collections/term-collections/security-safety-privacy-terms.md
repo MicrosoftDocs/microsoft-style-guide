@@ -1,4 +1,4 @@
-﻿# Security, safety, and privacy terms
+# Security, safety, and privacy terms
 
 Don’t
 use words that imply security, safety, or privacy without

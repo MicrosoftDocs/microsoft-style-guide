@@ -1,4 +1,4 @@
-﻿# Graphics, design, and media
+# Graphics, design, and media
 
 Websites
 need to be accessible to everyone. Websites that are accessible

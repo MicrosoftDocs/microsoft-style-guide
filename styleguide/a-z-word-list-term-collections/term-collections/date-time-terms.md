@@ -1,4 +1,4 @@
-﻿# Date and time terms
+# Date and time terms
 
 This section covers usage for terms related to time and date.
 

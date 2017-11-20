@@ -1,4 +1,4 @@
-﻿# Reference documentation
+# Reference documentation
 
 Reference
 documentation provides details about the programming elements

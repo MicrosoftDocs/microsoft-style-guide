@@ -1,4 +1,4 @@
-﻿# Design planning
+# Design planning
 
 Design is more than a pretty face. It provides a familiar environment for content. Text
 length, the use of images, headings, tables, lists, and other

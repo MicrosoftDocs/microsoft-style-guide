@@ -1,4 +1,4 @@
-﻿# Numbers
+# Numbers
 
 Be consistent
 in your use of numbers. When you write about numbers used in

@@ -1,4 +1,4 @@
-﻿# Art
+# Art
 
 Use these guidelines to create or choose images that are helpful, legal, and inoffensive throughout the world. See the [Global Readiness](https://microsoft.sharepoint.com/teams/celaGlobalReadiness/Pages/Home.aspx "Global Readiness website") website for more information. (This site requires Microsoft network access.)
 

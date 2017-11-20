@@ -1,4 +1,4 @@
-﻿# Numbers checklist
+# Numbers checklist
 
 When
 you write about numbers used in examples or UI, duplicate them

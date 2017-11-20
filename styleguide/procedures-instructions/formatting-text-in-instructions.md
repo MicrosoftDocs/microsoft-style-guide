@@ -1,4 +1,4 @@
-﻿# Formatting text in instructions
+# Formatting text in instructions
 
 Consistent
 text formatting helps readers locate and interpret information. Follow
