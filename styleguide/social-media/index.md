@@ -18,8 +18,8 @@ past. Plus, they often allow readers to contribute.
 
 This section will help you manage blogs and other social media and grow communities.
 
-  - [Blogs](/style-guide/social-mediablogs)
-  - [Communities](/style-guide/social-mediacommunities)
-  - [Hashtags](/style-guide/social-mediahashtags)
+  - [Blogs](/style-guide/social-media/blogs)
+  - [Communities](/style-guide/social-media/communities)
+  - [Hashtags](/style-guide/social-media/hashtags)
 
 Before you begin, read the [Microsoft blogging and social media guidelines](https://microsoft.sharepoint.com/sites/LCAWeb/Home/Marketing/Social-Media/Social-Media-Guidelines). (This page requires Microsoft network access.)
