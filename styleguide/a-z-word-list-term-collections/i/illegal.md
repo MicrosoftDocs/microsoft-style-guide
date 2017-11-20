@@ -1,3 +1,12 @@
+---
+title: illegal - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # illegal
 
 Consult [your group’s paralegal](https://microsoft.sharepoint.com/sites/lcaweb/Pages/Applications/LegalContact.aspx) before using this term. In many cases, *licensed* and *unlicensed* may be better term choices. 

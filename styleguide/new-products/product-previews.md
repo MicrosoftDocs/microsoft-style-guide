@@ -1,3 +1,12 @@
+---
+title: Product previews - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # Product previews
 
 Prerelease versions of software and services are typically identified as *Product Name Preview* (preferred) or *Code Name Preview.*

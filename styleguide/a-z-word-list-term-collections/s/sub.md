@@ -1,3 +1,12 @@
+---
+title: sub- - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # sub-
 
 In general, don’t hyphenate words beginning with *sub-*, such as *subheading* and *subsection*, unless it’s necessary to avoid confusion or if *sub-* is followed by a proper noun, as in *sub-Saharan*. When in doubt, check [*The American Heritage Dictionary*](https://ahdictionary.com/) or consult your group's editorial style guide.

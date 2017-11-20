@@ -1,3 +1,12 @@
+---
+title: Hashtags - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # Hashtags
 
 Hashtags provide context and draw readers into conversations on Twitter and other social media and in Outlook. 

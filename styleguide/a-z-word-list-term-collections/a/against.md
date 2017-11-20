@@ -1,3 +1,12 @@
+---
+title: against - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # against
 
 Don't use to refer to running or building a program on a particular platform or operating system. Use *on* instead.

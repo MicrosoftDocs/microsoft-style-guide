@@ -1,3 +1,12 @@
+---
+title: dial-up - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # dial-up
 
 Use only as an adjective (as in *dial-up connection),* not as a noun or verb. Always hyphenate.

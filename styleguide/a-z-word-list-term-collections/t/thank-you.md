@@ -1,3 +1,12 @@
+---
+title: thank you - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # thank you
 
 Use *thank you* only when the customer has provided information that’s difficult or inconvenient to collect.

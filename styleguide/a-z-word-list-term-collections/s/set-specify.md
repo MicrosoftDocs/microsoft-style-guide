@@ -1,3 +1,12 @@
+---
+title: set, specify - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # set, specify
 
 Avoid generic terms such as *set* and *specify* to describe customer actions. Try to use more specific verbs.

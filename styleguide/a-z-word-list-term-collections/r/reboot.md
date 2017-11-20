@@ -1,3 +1,12 @@
+---
+title: reboot - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # reboot
 
 Don't use. Use *restart* instead, and be clear that *restart* in this context refers to the device, not to a program or an app.

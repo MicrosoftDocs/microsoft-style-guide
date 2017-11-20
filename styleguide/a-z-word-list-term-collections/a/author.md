@@ -1,3 +1,12 @@
+---
+title: author - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # author
 
 Don't use as a verb to mean *write*.

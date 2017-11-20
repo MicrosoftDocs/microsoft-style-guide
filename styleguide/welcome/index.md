@@ -2,6 +2,15 @@
 ms.date: 10/12/2017
 ---
 
+---
+title: Welcome - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # Welcome
 
 Last updated October 17, 2017

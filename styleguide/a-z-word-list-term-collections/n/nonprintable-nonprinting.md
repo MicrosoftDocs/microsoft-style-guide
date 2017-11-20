@@ -1,3 +1,12 @@
+---
+title: nonprintable, nonprinting - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # nonprintable, nonprinting
 
 Use *nonprintable* to refer to an area of a page that can't be printed on. Use *nonprinting* to refer to characters and other data that can't or won't be printed. 

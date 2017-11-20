@@ -1,3 +1,12 @@
+---
+title: Windows 7, Windows 8, Windows 10 - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # Windows 7, Windows 8, Windows 10
 
 Always use the entire name. Don't precede the name with *Microsoft.*

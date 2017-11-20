@@ -1,3 +1,12 @@
+---
+title: push button, push-button - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # push button, push-button
 
 Two words. Hyphenate as an adjective.

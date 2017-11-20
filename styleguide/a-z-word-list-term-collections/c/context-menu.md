@@ -1,3 +1,12 @@
+---
+title: context menu - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # context menu
 
 Use *context menu* only in content for developers. Make it clear that it refers to the shortcut menu.

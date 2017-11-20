@@ -1,3 +1,12 @@
+---
+title: Names and contact information - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # Names and contact information
 
 If you’re creating a real or sample form that collects personal information, use these guidelines. And adhere to the [Privacy and security](https://microsoft.sharepoint.com/sites/LCAWeb/home/product-development/regulatory-compliance/privacy-and-security) guidelines on CELAWeb when you collect personal information. (This site requires Microsoft network access.) Many

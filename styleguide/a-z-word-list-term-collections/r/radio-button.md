@@ -1,3 +1,12 @@
+---
+title: radio button - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # radio button
 
 Use *radio button* only in content for developers in which the API includes the term. In that case, use wording such as *\<name\> option button* (also known as a *radio button*).

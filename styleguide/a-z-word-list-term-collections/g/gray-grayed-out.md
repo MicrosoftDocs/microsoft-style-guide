@@ -1,3 +1,12 @@
+---
+title: gray, grayed out - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # gray, grayed out
 
 Most of the time, talk about the actions that customers should take. 

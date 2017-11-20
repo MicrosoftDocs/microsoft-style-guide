@@ -1,3 +1,12 @@
+---
+title: knowledge base, Knowledge Base - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # knowledge base, Knowledge Base
 
 Use title-style capitalization to refer to the Microsoft Knowledge Base. (You don't need to precede *Knowledge Base* with the company name.) 

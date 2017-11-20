@@ -1,3 +1,12 @@
+---
+title: less vs. fewer vs. under - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # less vs. fewer vs. under
 
 When comparing quantities:

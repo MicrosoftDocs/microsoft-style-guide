@@ -1,3 +1,12 @@
+---
+title: lay out, laid out, layout - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # lay out, laid out, layout
 
 In formatting discussions:

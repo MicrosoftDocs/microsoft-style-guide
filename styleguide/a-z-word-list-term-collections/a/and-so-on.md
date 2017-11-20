@@ -1,3 +1,12 @@
+---
+title: and so on - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # and so on
 
 In general, don't use *and so on* except where screen space is limited. Instead, be specific.

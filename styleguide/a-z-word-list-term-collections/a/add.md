@@ -1,3 +1,12 @@
+---
+title: add - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # add
 
 Use as a verb to describe installing add-ins and add-ons. Use *remove* to describe removing them. 

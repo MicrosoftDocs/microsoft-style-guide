@@ -1,3 +1,12 @@
+---
+title: Pull quotes - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # Pull quotes
 
 Pull quotes are short sentences—usually a quote from someone important to the story, but sometimes just a short, interesting sentence—set off from body text to grab the reader’s attention. 

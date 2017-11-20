@@ -1,3 +1,12 @@
+---
+title: lock up - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # lock up
 
 Don't use to describe a hardware failure or a program or an operating system that has stopped responding. Use *fail* instead for hardware, and *stop responding* for programs or the operating system.

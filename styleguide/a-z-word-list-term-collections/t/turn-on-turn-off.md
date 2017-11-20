@@ -1,3 +1,12 @@
+---
+title: turn on, turn off - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # turn on, turn off
 
 Use instead of *power on/power off, start/stop,* or *switch on/switch off* to mean turning the device on and off.

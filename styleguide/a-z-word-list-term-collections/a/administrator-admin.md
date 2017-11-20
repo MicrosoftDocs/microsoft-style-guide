@@ -1,3 +1,12 @@
+---
+title: administrator, admin - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # administrator, admin
 
 Use *administrator, admin,* or *system administrator* unless you need to specify a particular kind of administrator, such as a network administrator or a database administrator.

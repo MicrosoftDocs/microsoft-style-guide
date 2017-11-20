@@ -1,3 +1,12 @@
+---
+title: operating environment, operating system - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # operating environment, operating system
 
 OK to use in content for a technical audience, but avoid in content for a general audience. 

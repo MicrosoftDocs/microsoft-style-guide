@@ -1,3 +1,12 @@
+---
+title: set up, setup, Setup - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # set up, setup, Setup
 
 Use as a verb to describe the process of preparing hardware and installed apps for initial use. Two words as a verb, one word as an adjective and a noun. Don't hyphenate.

@@ -1,3 +1,12 @@
+---
+title: earlier - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # earlier
 
 If possible, use a hyperlink to help users find information elsewhere in the content. If you can't use a hyperlink, use *earlier*, *preceding*, or *previous* instead of *above* to mean earlier in a piece of content. 

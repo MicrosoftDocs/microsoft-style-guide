@@ -1,3 +1,12 @@
+---
+title: drag, drag and drop - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # drag, drag and drop
 
 Don't use *drag and drop* except as an adjective to describe behavior that a programmer puts in a program, such as *drag-and-drop editing* or *drag-and-drop feature*. Use *move* or *drag* instead.

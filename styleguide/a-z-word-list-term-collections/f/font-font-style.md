@@ -1,3 +1,12 @@
+---
+title: font, font style - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # font, font style
 
 Use *font*, not *typeface*, for the name of a typeface design such as Times New Roman or Segoe UI. 

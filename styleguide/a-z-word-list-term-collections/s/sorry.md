@@ -1,3 +1,12 @@
+---
+title: sorry - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # sorry
 
 Use *sorry* only in error messages that result in serious problems for the customer. These include:

@@ -1,3 +1,12 @@
+---
+title: terminate - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # terminate
 
 Don't use as a synonym for *close* or *exit*. 

@@ -1,3 +1,12 @@
+---
+title: right align, right-aligned - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # right align, right-aligned
 
 Use to refer to text that's aligned at the right margin. Always hyphenate *right-aligned*. Don’t use *right-justified*.

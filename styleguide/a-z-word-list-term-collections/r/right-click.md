@@ -1,3 +1,12 @@
+---
+title: right-click - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # right-click
 
 Hyphenate. Define for novice audiences if you think it’s necessary.

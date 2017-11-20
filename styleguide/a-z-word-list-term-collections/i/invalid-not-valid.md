@@ -1,3 +1,12 @@
+---
+title: invalid, not valid - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # invalid, not valid
 
 Both terms are OK to use, but try to use more specific terms instead. 

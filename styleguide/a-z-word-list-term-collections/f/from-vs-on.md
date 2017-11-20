@@ -1,3 +1,12 @@
+---
+title: from vs. on - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # from vs. on
 
 Use *from* to indicate a specific place or time as a starting point. 

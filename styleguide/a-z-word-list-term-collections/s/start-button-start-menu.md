@@ -1,3 +1,12 @@
+---
+title: Start button, Start menu - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # Start button, Start menu
 
 Capitalize references to the Start menu and the Start button on the Windows taskbar. Use bold formatting for *Start* when you're referring to the menu or button.

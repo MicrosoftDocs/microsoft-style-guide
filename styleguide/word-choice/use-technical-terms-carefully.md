@@ -1,3 +1,12 @@
+---
+title: Use technical terms carefully - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # Use technical terms carefully
 
 Technical terms come in a variety of shapes and sizes. Sometimes they're everyday words that are given new meanings, like *cloud, batch,* or *dashboard*. Other times, common words are combined to create technical terms, like *telemedicine* or *email.* Over

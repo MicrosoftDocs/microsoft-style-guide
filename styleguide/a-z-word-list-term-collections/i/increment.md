@@ -1,3 +1,12 @@
+---
+title: increment - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # increment
 
 In content for developers and IT pros, use *increment* as a verb only to mean *increase by one or by a specified interval*. As a noun, use *increment* to refer to the specified interval.

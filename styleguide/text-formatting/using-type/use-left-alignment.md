@@ -1,3 +1,12 @@
+---
+title: Use left alignment - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # Use left alignment
 
 Left-aligned text has an even left margin and an erratic (ragged) right margin. 

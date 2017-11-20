@@ -1,3 +1,12 @@
+---
+title: Art - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # Art
 
 Use these guidelines to create or choose images that are helpful, legal, and inoffensive throughout the world. See the [Global Readiness](https://microsoft.sharepoint.com/teams/celaGlobalReadiness/Pages/Home.aspx "Global Readiness website") website for more information. (This site requires Microsoft network access.)

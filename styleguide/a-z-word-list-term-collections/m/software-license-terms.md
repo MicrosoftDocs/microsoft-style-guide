@@ -1,3 +1,12 @@
+---
+title: Microsoft Software License Terms - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # Microsoft Software License Terms
 
 When referring to the license agreement, use *Microsoft Software License Terms*, not *End-User License Agreement* or *EULA*. On the first mention, use the full name. On subsequent mentions, it's OK to shorten to *license terms*. 

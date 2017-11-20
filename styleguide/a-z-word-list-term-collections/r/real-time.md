@@ -1,3 +1,12 @@
+---
+title: real time, real-time - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # real time, real-time
 
 Two words. Hyphenate as an adjective.

@@ -1,3 +1,12 @@
+---
+title: Maximize button, maximize - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # Maximize button, maximize
 
 Use the ***Maximize*** *button* to refer to the button, not just ***Maximize***. *Maximize* as part of the ***Maximize*** *button* is always bold. Don't use *Maximize box* or *Maximize icon*. 

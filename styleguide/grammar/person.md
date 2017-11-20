@@ -1,3 +1,12 @@
+---
+title: Person - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # Person
 
 In grammar, *person* refers to the point of view represented by a statement and determines which pronoun to use. 

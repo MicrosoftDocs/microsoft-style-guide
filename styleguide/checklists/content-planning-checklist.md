@@ -1,3 +1,12 @@
+---
+title: Content-planning checklist - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # Content-planning checklist
 
 A little upfront planning will save you time and keep your writing focused. 

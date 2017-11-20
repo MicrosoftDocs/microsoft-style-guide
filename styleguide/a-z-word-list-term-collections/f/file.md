@@ -1,3 +1,12 @@
+---
+title: file - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # file
 
 Try to use a more specific term, such as *document* (Word), *workbook* (Excel), or *presentation* (PowerPoint). 

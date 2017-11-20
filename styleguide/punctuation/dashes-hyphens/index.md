@@ -1,3 +1,12 @@
+---
+title: Dashes and hyphens - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # Dashes and hyphens
 
 Dashes and hyphens aren’t interchangeable. Follow these guidelines to help you use them the right way, in the right places.

@@ -1,3 +1,12 @@
+---
+title: path - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # path
 
 Use *path* instead of *pathname*, both in general references and in syntax. 

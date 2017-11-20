@@ -1,3 +1,12 @@
+---
+title: Formatting common text elements - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # Formatting common text elements
 
 Consistent

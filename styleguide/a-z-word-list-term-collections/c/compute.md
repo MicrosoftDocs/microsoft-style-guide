@@ -1,3 +1,12 @@
+---
+title: compute - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # compute
 
 It’s OK to use *compute* as a verb in content for all audiences.

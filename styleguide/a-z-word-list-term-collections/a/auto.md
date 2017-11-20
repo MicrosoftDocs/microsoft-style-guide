@@ -1,3 +1,12 @@
+---
+title: auto- - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # auto-
 
 In general, don’t hyphenate words beginning with *auto-*, such as *autoscale* and *autodial*, unless it's necessary to avoid confusion. When in doubt, check [*The American Heritage Dictionary*](https://ahdictionary.com/) or refer to your group's editorial style guide.

@@ -1,3 +1,12 @@
+---
+title: e-commerce - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # e-commerce
 
 Always hyphenate. Don't use *ecommerce* or *eCommerce*. 

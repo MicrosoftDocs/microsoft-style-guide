@@ -1,3 +1,12 @@
+---
+title: info - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # info
 
 It's OK to use *info* as an abbreviation for *information* in content with an informal tone. 

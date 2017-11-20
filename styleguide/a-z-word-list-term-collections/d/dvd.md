@@ -1,3 +1,12 @@
+---
+title: DVD - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # DVD
 
 Don't spell out *DVD*. If you refer to a DVD as a *disc*, use the correct spelling.

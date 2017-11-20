@@ -1,3 +1,12 @@
+---
+title: minus sign (–) - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # minus sign (–)
 
 Use an en dash for a minus sign.

@@ -1,3 +1,12 @@
+---
+title: Using type - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # Using type
 
 Beautiful typography is a cornerstone of modern design. The guidelines in this section will help you achieve it. 

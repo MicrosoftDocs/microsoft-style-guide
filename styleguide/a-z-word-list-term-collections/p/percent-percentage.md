@@ -1,3 +1,12 @@
+---
+title: percent, percentage - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # percent, percentage
 
 One word. Spell out unless space is constrained. When spelling out *percent*, insert a space between the number and the word. 

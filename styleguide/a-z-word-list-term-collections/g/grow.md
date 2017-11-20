@@ -1,3 +1,12 @@
+---
+title: grow - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # grow
 
 Don't use as a verb meaning to increase the size of something. Use a more specific verb.

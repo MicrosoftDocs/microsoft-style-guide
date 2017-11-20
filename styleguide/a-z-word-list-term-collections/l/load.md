@@ -1,3 +1,12 @@
+---
+title: load - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # load
 
 Don't use as a synonym for *start, install, run, set up,* or *download.*

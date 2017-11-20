@@ -1,3 +1,12 @@
+---
+title: displays, appears - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # displays, appears
 
 *Displays* requires both a subject (the thing doing the displaying) and a direct object (the thing being displayed). *Appears* doesn't require an object. 

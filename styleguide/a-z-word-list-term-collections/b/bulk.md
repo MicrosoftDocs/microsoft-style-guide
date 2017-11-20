@@ -1,3 +1,12 @@
+---
+title: bulk - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # bulk
 
 In content for a general audience, don’t use *bulk* as an adverb, such as *bulk add* or *bulk edit*, unless the term is in the UI.

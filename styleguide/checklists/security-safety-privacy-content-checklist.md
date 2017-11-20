@@ -1,3 +1,12 @@
+---
+title: Security, safety, and privacy content checklist - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # Security, safety, and privacy content checklist
 
 Absolute security, privacy, and safety don't exist. When you write about these subjects, which are a big concern for many customers, be reassuring but realistic.

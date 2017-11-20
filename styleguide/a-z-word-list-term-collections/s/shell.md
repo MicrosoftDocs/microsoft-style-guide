@@ -1,3 +1,12 @@
+---
+title: shell - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # shell
 
 OK to use as a noun in content for a technical audience. Don't use in content for a general audience.

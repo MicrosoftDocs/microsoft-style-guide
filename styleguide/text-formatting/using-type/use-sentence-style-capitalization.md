@@ -1,3 +1,12 @@
+---
+title: Use sentence-style capitalization - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # Use sentence-style capitalization
 
 In sentence-style capitalization, you capitalize only the first word of a sentence or phrase and proper nouns.  

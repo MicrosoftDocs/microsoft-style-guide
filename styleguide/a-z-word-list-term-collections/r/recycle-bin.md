@@ -1,3 +1,12 @@
+---
+title: Recycle Bin, recycle bin - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # Recycle Bin, recycle bin
 
 Capitalize both words when referring to the *Recycle Bin* on the Windows desktop.

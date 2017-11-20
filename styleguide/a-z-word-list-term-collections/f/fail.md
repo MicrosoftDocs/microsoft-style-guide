@@ -1,3 +1,12 @@
+---
+title: fail - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # fail
 
 In content for a general audience, use only to refer to disks and other hardware. Use *stop responding* to refer to programs or the operating system.

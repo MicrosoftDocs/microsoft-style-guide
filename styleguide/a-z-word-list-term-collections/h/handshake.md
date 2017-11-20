@@ -1,3 +1,12 @@
+---
+title: handshake - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # handshake
 
 One word. In content for a general audience, briefly define the term on the first mention. 

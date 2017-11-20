@@ -1,3 +1,12 @@
+---
+title: upload - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # upload
 
 Use as a verb to describe transferring files from a local device to a website, server, or share. 

@@ -1,3 +1,12 @@
+---
+title: assure, ensure, insure - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # assure, ensure, insure
 
 *Ensure**,* *insure*, and *assure* are interchangeable in many situations. To improve worldwide readability, Microsoft style makes these distinctions:

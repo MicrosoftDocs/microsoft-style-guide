@@ -1,3 +1,12 @@
+---
+title: client side, client-side - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # client side, client-side
 
 Don't use for a general audience. Use *client* instead.  

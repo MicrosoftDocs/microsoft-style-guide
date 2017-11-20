@@ -1,3 +1,12 @@
+---
+title: screened subnet - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # screened subnet
 
 Don't use. Use *perimeter network* instead. On the first mention, it's OK to say:

@@ -1,3 +1,12 @@
+---
+title: noncontiguous selection - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # noncontiguous selection
 
 Don't use in content for a general audience to refer to selecting multiple items that don't touch. Use *multiple selection* instead, or describe the specific noncontiguous items. 

@@ -1,3 +1,12 @@
+---
+title: app, application - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # app, application
 
 The Microsoft technologies that customers use to get things done come in a variety of shapes and sizes. Always refer to your group's editorial style guide for details about when to use *app*, *application*, *product*, and *service*.

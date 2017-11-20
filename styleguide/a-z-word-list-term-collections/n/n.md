@@ -1,3 +1,12 @@
+---
+title: n - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # n
 
 Use a lowercase *n* in italic type to refer to a generic use of a number—when the value of a number is arbitrary or immaterial. 

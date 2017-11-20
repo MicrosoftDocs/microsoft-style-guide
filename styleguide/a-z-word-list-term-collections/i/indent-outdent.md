@@ -1,3 +1,12 @@
+---
+title: indent, outdent - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # indent, outdent
 
 Use *indent* to refer to a single instance of indentation. For example, use *hanging indent, nested indent, negative indent*, or *positive indent*. 

@@ -1,3 +1,12 @@
+---
+title: Verbs - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # Verbs
 
  Using precise verbs in the right way helps you write clear and simple sentences.

@@ -1,3 +1,12 @@
+---
+title: parameter - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # parameter
 
 Use for a value given to a variable until an operation is completed. Don't use to mean *characteristic*, *element*, *limit*, or *boundary*.

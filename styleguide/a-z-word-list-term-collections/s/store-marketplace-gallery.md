@@ -1,3 +1,12 @@
+---
+title: store, marketplace, gallery - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # store, marketplace, gallery
 
 Use *store,* not *marketplace, gallery,* or

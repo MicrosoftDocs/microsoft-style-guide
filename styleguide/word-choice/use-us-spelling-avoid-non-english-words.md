@@ -1,3 +1,12 @@
+---
+title: Use US spelling and avoid non-English words - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # Use US spelling and avoid non-English words
 
 When the spelling of English words varies by locale, use the US spelling. For example, use *license*, not *licence.*

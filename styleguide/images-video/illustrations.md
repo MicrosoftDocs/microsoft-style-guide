@@ -1,3 +1,12 @@
+---
+title: Illustrations - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # Illustrations
 
 Follow [Microsoft brand illustration guidelines](https://microsoft.sharepoint.com/teams/BrandCentral/Pages/The-Microsoft-brand-Core-elements-Illustration.aspx) if you’re using illustrations in your content. (This page requires Microsoft network access.)

@@ -1,3 +1,12 @@
+---
+title: range selection - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # range selection
 
 Don't use. In content for a general audience, use a phrase such as *a range of cells* or a *range of dates* to refer to a selection of adjoining cells, dates, or other items.

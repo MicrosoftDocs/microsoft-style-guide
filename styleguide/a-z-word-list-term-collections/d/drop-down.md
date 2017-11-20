@@ -1,3 +1,12 @@
+---
+title: drop-down - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # drop-down
 
 It’s OK to use *drop-down* as an adjective in content for developers if you need to describe the type of UI item or how it works.

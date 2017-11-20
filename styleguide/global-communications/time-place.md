@@ -1,3 +1,12 @@
+---
+title: Time and place - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # Time and place
 
 Use the following guidelines when talking about time and place.

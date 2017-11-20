@@ -1,3 +1,12 @@
+---
+title: delete - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # delete
 
 Use as a verb to describe the results of using the **Delete** or **Cut** command, such as moving files to the **Recycle Bin** in Windows, moving items to the Deleted folder in Outlook, and moving items to the clipboard. Use delete to describe these actions even if the customer uses a different method, such as by dragging a file to the Recycle Bin or using the **Cut** command.

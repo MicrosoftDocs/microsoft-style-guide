@@ -1,3 +1,12 @@
+---
+title: adjacent selection - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # adjacent selection
 
 Don't use if you can use *multiple selection* instead. It's OK to use *adjacent selection* if you must emphasize that the selected items are adjacent to one another.

@@ -1,3 +1,12 @@
+---
+title: ampersand (&) - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # ampersand (&)
 
 Don't use *&* in place of *and* in text or headings unless you're referring to the use of the symbol in UI.

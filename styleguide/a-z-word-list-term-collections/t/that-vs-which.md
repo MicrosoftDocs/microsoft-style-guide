@@ -1,3 +1,12 @@
+---
+title: that vs. which - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # that vs. which
 
 Use *that* at the beginning of a clause that’s necessary for the sentence to make sense. Don’t put a comma before *that.*

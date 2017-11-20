@@ -1,3 +1,12 @@
+---
+title: recommend - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # recommend
 
 It's OK to use *we recommend* to introduce a Microsoft recommendation. Don't use *Microsoft recommends* or *it is recommended*.

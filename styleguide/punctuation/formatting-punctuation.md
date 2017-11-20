@@ -1,3 +1,12 @@
+---
+title: Formatting punctuation - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # Formatting punctuation
 
 In general, format punctuation in the same font style as the main content of a sentence or phrase.

@@ -1,3 +1,12 @@
+---
+title: should vs. must - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # should vs. must
 
 Before using *should* or *must*,

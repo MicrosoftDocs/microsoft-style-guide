@@ -1,3 +1,12 @@
+---
+title: Tables - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # Tables
 
 Tables make complex information easier to understand by presenting it in a clear structure. 

@@ -1,3 +1,12 @@
+---
+title: remote - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # remote
 
 It's OK to use *remote* as an adjective to describe a person or computer at another site. 

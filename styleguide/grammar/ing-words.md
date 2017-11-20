@@ -1,3 +1,12 @@
+---
+title: Words ending in -ing - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # Words ending in -ing
 
 A word ending in *–ing* can be a verb, a noun, or an adjective. Use *–ing* words with care. The sentence should make it clear which role the word plays. 

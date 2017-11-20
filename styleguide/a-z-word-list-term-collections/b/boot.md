@@ -1,3 +1,12 @@
+---
+title: boot - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # boot
 
 Don't use as a verb. Use *turn on* to refer to turning on power to a device. 

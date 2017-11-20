@@ -1,3 +1,12 @@
+---
+title: deinstall - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # deinstall
 
 Don't use except to reference the term when it appears in the UI or an API. Don't use *deinstall* to refer to the related action. Use *remove* instead. 

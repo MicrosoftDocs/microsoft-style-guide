@@ -1,3 +1,12 @@
+---
+title: interface - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # interface
 
 Use only as a noun, as in *user interface* and *application programming interface*. Use *interface* by itself only if the context is clear. 

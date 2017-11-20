@@ -1,3 +1,12 @@
+---
+title: data, datum - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # data, datum
 
 Use *data* as both a singular and plural noun. Don't use *datum.*

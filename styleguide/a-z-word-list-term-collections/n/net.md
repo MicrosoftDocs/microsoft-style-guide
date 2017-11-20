@@ -1,3 +1,12 @@
+---
+title: .NET - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # .NET
 
 Note capitalization. Always begin with a period (.). Don't spell out as *dot NET*. 

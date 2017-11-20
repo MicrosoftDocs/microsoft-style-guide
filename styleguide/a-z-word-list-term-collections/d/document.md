@@ -1,3 +1,12 @@
+---
+title: document - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # document
 
 Use for text files, such as files created in Word. 

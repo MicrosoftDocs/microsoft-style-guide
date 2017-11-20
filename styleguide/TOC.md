@@ -1,11 +1,47 @@
+---
+title: [Welcome](welcome/index.md) - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # [Welcome](welcome/index.md)
 ## [What's new?](welcome/whats-new.md)
 ## [How to use this guide](welcome/guide-how-to.md)
 ## [Microsoft style references](welcome/style-references.md)
 ## [Microsoft Editorial Board](welcome/editorial-board.md)
 ## [Stay connected](welcome/stay-connected.md)
+---
+title: [Microsoft's brand voice: above all, simple and human](brand-voice-above-all-simple-human.md) - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # [Microsoft's brand voice: above all, simple and human](brand-voice-above-all-simple-human.md)
+---
+title: [Top 10 tips for Microsoft style and voice](top-10-tips-style-voice.md) - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # [Top 10 tips for Microsoft style and voice](top-10-tips-style-voice.md)
+---
+title: [Checklists](checklists/checklists.md) - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # [Checklists](checklists/checklists.md)
 ## [Accessibility checklist](checklists/accessibility-checklist.md)
 ## [Bias-free communication checklist](checklists/bias-free-communication-checklist.md)
@@ -31,6 +67,15 @@
 ## [UI text and design checklist](checklists/ui-text-design-checklist.md)
 ## [URLs and web addresses checklist](checklists/urls-web-addresses-checklist.md)
 ## [Word choice checklist](checklists/word-choice-checklist.md)
+---
+title: A–Z word list and term collections - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # A–Z word list and term collections
 ## Term collections
 ### [Accessibility terms](a-z-word-list-term-collections/term-collections/accessibility-terms.md)
@@ -889,24 +934,141 @@
 ### [zero, zeros](a-z-word-list-term-collections/z/zero-zeros.md)
 ### [ZIP Code](a-z-word-list-term-collections/z/zip-code.md)
 ### [zoom in, zoom out](a-z-word-list-term-collections/z/zoom-in-zoom-out.md)
+---
+title: [Accessibility guidelines and requirements](accessibility/accessibility-guidelines-requirements.md) - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # [Accessibility guidelines and requirements](accessibility/accessibility-guidelines-requirements.md)
 ## [Writing for all abilities](accessibility/writing-all-abilities.md)
 ## [Colors and patterns in text, graphics, and design](accessibility/colors-patterns-text-graphics-design.md)
 ## [Graphics, design, and media](accessibility/graphics-design-media.md)
+---
+title: [Acronyms](acronyms.md) - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # [Acronyms](acronyms.md)
+---
+title: [Bias-free communication](bias-free-communication.md) - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # [Bias-free communication](bias-free-communication.md)
+---
+title: [Blogs and social media](social-mediablogs-social-media.md) - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # [Blogs and social media](social-mediablogs-social-media.md)
+---
+title: [Blogs](social-mediablogs.md) - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # [Blogs](social-mediablogs.md)
+---
+title: [Communities](social-mediacommunities.md) - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # [Communities](social-mediacommunities.md)
+---
+title: [Hashtags](social-mediahashtags.md) - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # [Hashtags](social-mediahashtags.md)
+---
+title: [Capitalization](capitalization.md) - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # [Capitalization](capitalization.md)
+---
+title: [Content planning](content-planning.md) - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # [Content planning](content-planning.md)
+---
+title: [Design planning](design-planning.md) - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # [Design planning](design-planning.md)
+---
+title: [Developer content](developer-content/index.md) - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # [Developer content](developer-content/index.md)
 ## [Reference documentation](developer-content/reference-documentation.md)
 ## [Code examples](developer-content/code-examples.md)
 ## [Formatting developer text elements](developer-content/formatting-developer-text-elements.md)
+---
+title: [Final publishing check](final-publishing-check.md) - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # [Final publishing check](final-publishing-check.md)
+---
+title: [Global communications](global-communications/index.md) - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # [Global communications](global-communications/index.md)
 ## [Writing tips](global-communications/writing-tips.md)
 ## [Art](global-communications/art.md)
@@ -916,6 +1078,15 @@
 ## [Names and contact information](global-communications/names-contact-information.md)
 ## [Web, software, and HTML considerations](global-communications/web-software-html-considerations.md)
 ## [Legal considerations](global-communications/legal-considerations.md)
+---
+title: [Grammar and parts of speech](grammar/grammar-and-parts-of-speech.md) - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # [Grammar and parts of speech](grammar/grammar-and-parts-of-speech.md)
 ## [Verbs](grammar/verbs.md)
 ## [Person](grammar/person.md)
@@ -923,29 +1094,83 @@
 ## [Words ending in -ing](grammar/ing-words.md)
 ## [Prepositions](grammar/prepositions.md)
 ## [Dangling and misplaced modifiers](grammar/dangling-misplaced-modifiers.md)
+---
+title: [Images and video](images-video/index.md) - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # [Images and video](images-video/index.md)
 ## [Photos](images-video/photos.md)
 ## [Illustrations](images-video/illustrations.md)
 ## [Screenshots](images-video/screenshots.md)
 ## [Network traffic flows](images-video/network-traffic-flows.md)
 ## [Video](images-video/video.md)
+---
+title: [Legal content](legal-content/index.md) - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # [Legal content](legal-content/index.md)
 ## [Copyrights and trademarks](legal-content/copyrights-trademarks.md)
 ## [Downloadable software](legal-content/downloadable-software.md)
 ## [Fictitious names, domains, and addresses](legal-content/fictitious-names-domains-addresses.md)
 ## [Legal issues and types of content](legal-content/legal-issues-types-of-content.md)
 ## [Red flag terms](legal-content/red-flag-terms.md)
+---
+title: [New products](new-products/new-products.md) - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # [New products](new-products/new-products.md)
 ## [Name development](new-products/name-development.md)
 ## [Product previews](new-products/product-previews.md)
 ## [Code names](new-products/code-names.md)
 ## [System requirements](new-products/system-requirements.md)
+---
+title: [Numbers](numbers.md) - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # [Numbers](numbers.md)
+---
+title: [Procedures and instructions](procedures-instructions/index.md) - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # [Procedures and instructions](procedures-instructions/index.md)
 ## [Writing step-by-step instructions](procedures-instructions/writing-step-by-step-instructions.md)
 ## [Describing interactions with UI](procedures-instructions/describing-interactions-with-ui.md)
 ## [Describing alternative input methods](procedures-instructions/describing-alternative-input-methods.md)
 ## [Formatting text in instructions](procedures-instructions/formatting-text-in-instructions.md)
+---
+title: [Punctuation](punctuation/index.md) - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # [Punctuation](punctuation/index.md)
 ## [Formatting punctuation](punctuation/formatting-punctuation.md)
 ## [Periods](punctuation/periods.md)
@@ -962,6 +1187,15 @@
 ## [Ellipses](punctuation/dashes-hyphens/ellipses.md)
 ## [Exclamation points](punctuation/dashes-hyphens/exclamation-points.md)
 ## [Slashes](punctuation/dashes-hyphens/slashes.md)
+---
+title: [Responsive content](responsive-content.md) - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # [Responsive content](responsive-content.md)
 ## [Scannable content](scannable-content/index.md)
 ## [Headings](scannable-content/headings.md)
@@ -969,8 +1203,35 @@
 ## [Pull quotes](scannable-content/pull-quotes.md)
 ## [Sidebars](scannable-content/sidebars.md)
 ## [Tables](scannable-content/tables.md)
+---
+title: [Search and writing](search-writing.md) - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # [Search and writing](search-writing.md)
+---
+title: [Security, safety, and privacy content](security-safety-privacy-content.md) - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # [Security, safety, and privacy content](security-safety-privacy-content.md)
+---
+title: [Text formatting](text-formatting/index.md) - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # [Text formatting](text-formatting/index.md)
 ## [Using type](text-formatting/using-type/index.md)
 ## [Use the Segoe font family](text-formatting/using-type/use-segoe-font-family.md)
@@ -979,8 +1240,35 @@
 ## [Don't compress line spacing](text-formatting/using-type/dont-compress-line-spacing.md)
 ## [Formatting common text elements](text-formatting/formatting-common-text-elements.md)
 ## [Formatting titles](text-formatting/formatting-titles.md)
+---
+title: [UI text and content design](ui-text-content-design.md) - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # [UI text and content design](ui-text-content-design.md)
+---
+title: [URLs and web addresses](urls-web-addresses.md) - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # [URLs and web addresses](urls-web-addresses.md)
+---
+title: [Word choice](word-choice/index.md) - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # [Word choice](word-choice/index.md)
 ## [Use contractions](word-choice/use-contractions.md)
 ## [Use simple words, concise sentences](word-choice/use-simple-words-concise-sentences.md)

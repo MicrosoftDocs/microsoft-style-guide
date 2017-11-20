@@ -1,3 +1,12 @@
+---
+title: pipe - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # pipe
 
 Don't use as a verb in content for a general audience. Use a more specific term, such as *send, move, copy, direct, redirect*, or *write*. 

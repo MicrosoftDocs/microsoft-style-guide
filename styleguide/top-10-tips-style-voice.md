@@ -1,3 +1,12 @@
+---
+title: Top 10 tips for Microsoft style and voice - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # Top 10 tips for Microsoft style and voice
 
 **Use bigger ideas, fewer words**<br />Our modern design hinges on crisp minimalism. Shorter is always better. To learn more, see [Brand voice](/style-guide/brand-voice-above-all-simple-human).

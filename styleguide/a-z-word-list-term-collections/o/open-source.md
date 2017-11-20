@@ -1,3 +1,12 @@
+---
+title: open source, open-source - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # open source, open-source
 
 Lowercase unless you're talking about the Open Source Initiative. 

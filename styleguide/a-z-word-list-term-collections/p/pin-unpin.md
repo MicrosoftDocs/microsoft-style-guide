@@ -1,3 +1,12 @@
+---
+title: pin, unpin - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # pin, unpin
 
 Use *pin* to refer to adding an app, link, contact, or other item as a tile on the Start menu. Use *unpin* to describe removing a pinned item.

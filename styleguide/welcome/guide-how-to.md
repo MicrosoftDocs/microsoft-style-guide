@@ -1,3 +1,12 @@
+---
+title: How to use this guide - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # How to use this guide
 
 1.  Review the list of [Microsoft style references](/style-guide/welcome/style-references). Always use your product group's editorial style guide first, and then this all-Microsoft guide.

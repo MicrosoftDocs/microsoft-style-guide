@@ -1,3 +1,12 @@
+---
+title: gallery - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # gallery
 
 Don't use to mean a marketplace or store. 

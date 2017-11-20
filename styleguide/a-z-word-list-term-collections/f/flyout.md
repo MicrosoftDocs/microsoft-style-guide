@@ -1,3 +1,12 @@
+---
+title: flyout - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # flyout
 
 Don’t use in content for a general audience. Instead, describe what the customer needs to do.

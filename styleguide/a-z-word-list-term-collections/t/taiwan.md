@@ -1,3 +1,12 @@
+---
+title: Taiwan - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # Taiwan
 
 Refer to Taiwan only as *Taiwan*, never as *Republic of China* or *ROC*. If you must abbreviate *Taiwan*, the ISO abbreviation is *TWN*.

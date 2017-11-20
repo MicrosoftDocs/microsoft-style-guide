@@ -1,3 +1,12 @@
+---
+title: Stay connected - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # Stay connected
 
   - Join the [Microsoft Style Guide updates](http://idwebelements/GroupManagement.aspx?Group=mstpupdt&Operation=join "Join mstpupdt@microsoft.com") email

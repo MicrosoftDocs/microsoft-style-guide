@@ -1,3 +1,12 @@
+---
+title: executable, .exe - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # executable, .exe
 
 Use *executable* and *.exe* as adjectives, not nouns. Use *an*, not *a*, as the article preceding .exe: *an .exe file.*

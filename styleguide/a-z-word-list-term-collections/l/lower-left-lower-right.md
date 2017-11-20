@@ -1,3 +1,12 @@
+---
+title: lower left, lower-left, lower right, lower-right - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # lower left, lower-left, lower right, lower-right
 
 Hyphenate as adjectives. Use instead of *bottom left* and *bottom right*. 

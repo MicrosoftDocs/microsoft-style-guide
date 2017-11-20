@@ -1,3 +1,12 @@
+---
+title: URLs and web addresses checklist - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # URLs and web addresses checklist
 
 Follow these guidelines to refer to URLs and other addresses clearly and consistently. For detailed guidance, see [URLs and web addresses](/style-guide/urls-web-addresses).

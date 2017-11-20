@@ -1,3 +1,12 @@
+---
+title: Lists - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # Lists
 
 Lists are a great way to present complex text in a way that's easy to scan. 

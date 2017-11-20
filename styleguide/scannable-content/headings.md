@@ -1,3 +1,12 @@
+---
+title: Headings - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # Headings
 
 Headings provide both structure and visual points of reference to help readers scan content. If

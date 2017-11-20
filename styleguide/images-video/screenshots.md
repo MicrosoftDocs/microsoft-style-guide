@@ -1,3 +1,12 @@
+---
+title: Screenshots - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # Screenshots
 
 Screenshots are useful for simplifying complex procedures or concepts. But use them sparingly. If they contain text, and most do, localizing them is expensive and time-consuming. 

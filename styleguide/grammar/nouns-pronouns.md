@@ -1,3 +1,12 @@
+---
+title: Nouns and pronouns - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # Nouns and pronouns
 
 ## Capitalization and proper nouns

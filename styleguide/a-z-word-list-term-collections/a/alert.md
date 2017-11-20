@@ -1,3 +1,12 @@
+---
+title: alert - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # alert
 
 For technical audiences, it's OK to use *alert* to refer to automated messages from apps, products, services, and websites. 

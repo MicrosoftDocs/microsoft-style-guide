@@ -1,3 +1,12 @@
+---
+title: hierarchical menu - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # hierarchical menu
 
 Don't use. Use *submenu* if you need to emphasize how the menu works as a feature. Better yet, avoid talking about UI. Instead, talk about what the customer wants to do. 

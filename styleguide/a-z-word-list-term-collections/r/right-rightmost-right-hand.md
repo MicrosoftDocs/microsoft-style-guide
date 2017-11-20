@@ -1,3 +1,12 @@
+---
+title: right, rightmost, right-hand - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # right, rightmost, right-hand
 
 Don't use *right* as a directional term by itself. Instead, use a term such as *upper right*, *lower right*, *rightmost*, or *the right side of.* Include a hyphen when you use *right* to modify a noun, as in *upper-right corner*. Don't use *right-hand* as a modifier.

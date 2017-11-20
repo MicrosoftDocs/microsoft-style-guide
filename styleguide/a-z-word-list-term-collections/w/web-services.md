@@ -1,3 +1,12 @@
+---
+title: web services - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # web services
 
 Use *web services* to refer to protocols and data formats, like XML, SOAP, and WSDL, that provide the means for integrating web-based apps. 

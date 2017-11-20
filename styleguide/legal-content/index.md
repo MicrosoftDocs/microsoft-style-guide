@@ -1,3 +1,12 @@
+---
+title: Legal content - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # Legal content
 
 To protect Microsoft intellectual property and minimize legal risks, follow the guidance for common legal issues in content. For complete information, visit [](https://microsoft.sharepoint.com/sites/lcaweb/home)[CELAWeb](https://microsoft.sharepoint.com/sites/lcaweb/home). (This site requires Microsoft network access.) If you still have questions, contact [your group’s paralegal](https://microsoft.sharepoint.com/sites/lcaweb/Pages/Applications/LegalContact.aspx). (This page requires Microsoft network access.)

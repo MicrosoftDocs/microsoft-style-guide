@@ -1,3 +1,12 @@
+---
+title: Microsoft's brand voice: above all, simple and human - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # Microsoft's brand voice: above all, simple and human
 
 There’s *what* we say, our message. And there’s *how*

@@ -1,3 +1,12 @@
+---
+title: uppercase - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # uppercase
 
 Most of the time, use *capital letters* instead of uppercase. It's OK to use *uppercase* when comparing with *lowercase* or to follow the UI. 

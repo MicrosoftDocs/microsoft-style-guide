@@ -1,3 +1,12 @@
+---
+title: friendly name - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # friendly name
 
 Don't use. Use *display name* instead to refer to a person's name as it appears in an address or email list.

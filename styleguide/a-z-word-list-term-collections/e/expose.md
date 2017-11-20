@@ -1,3 +1,12 @@
+---
+title: expose - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # expose
 
 Don't use in content about UI. Use *make available*, *display*, or a similar term.

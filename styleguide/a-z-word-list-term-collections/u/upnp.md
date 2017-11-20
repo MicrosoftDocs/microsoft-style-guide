@@ -1,3 +1,12 @@
+---
+title: UPnP - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # UPnP
 
 Don't spell out as *Universal Plug and Play*. Don't use as a synonym for *Plug and Play* or *PnP*.

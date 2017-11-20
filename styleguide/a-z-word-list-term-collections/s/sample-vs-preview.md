@@ -1,3 +1,12 @@
+---
+title: sample vs. preview - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # sample vs. preview
 
 Use *sample* to describe a graphic representation of something that might show up on the screen. Use *preview* to describe a graphic representation of exactly what the customer will see on the screen.

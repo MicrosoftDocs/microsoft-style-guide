@@ -1,3 +1,12 @@
+---
+title: Graphics, design, and media - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # Graphics, design, and media
 
 Websites

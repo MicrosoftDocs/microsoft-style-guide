@@ -1,3 +1,12 @@
+---
+title: search, search and replace - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # search, search and replace
 
 Don't use *search and replace* to describe finding and replacing things in a document or other location. Use *find* and *replace* instead.

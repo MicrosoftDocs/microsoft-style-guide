@@ -1,3 +1,12 @@
+---
+title: New products checklist - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # New products checklist
 
   - Follow the five-step, formal naming process when you're developing a new name. [Learn more](/style-guide/new-products/name-development).

@@ -1,3 +1,12 @@
+---
+title: Close button - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # Close button
 
 Spell out and capitalize the word *Close*. It's OK to use *the* ***Close*** *button* to eliminate ambiguity in content that teaches beginning skills, but for general audiences, just use ***Close***. Use bold for ***Close*** when you're talking about the **Close** button. If you can, use an inline graphic of the button.

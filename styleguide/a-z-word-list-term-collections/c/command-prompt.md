@@ -1,3 +1,12 @@
+---
+title: command prompt - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # command prompt
 
 Use instead of *C prompt*, *command-line prompt*, or *system prompt*.

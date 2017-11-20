@@ -1,3 +1,12 @@
+---
+title: Don't use common words in new ways - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # Don't use common words in new ways
 
 Most people know the common definition of words—usually the one that appears first in the dictionary ([*The American Heritage Dictionary*](https://ahdictionary.com/), to be exact.) Use words in the most familiar sense, or define them if you can’t.

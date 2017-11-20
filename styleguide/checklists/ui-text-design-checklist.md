@@ -1,3 +1,12 @@
+---
+title: UI text and design checklist - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # UI text and design checklist
 
 Well-designed UI feels like a conversation. These tips will help get you there. 

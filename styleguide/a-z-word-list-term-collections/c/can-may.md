@@ -1,3 +1,12 @@
+---
+title: can, may - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # can, may
 
 When you see *can* in your writing, consider deleting it. *Can* implies ability but not action. Rewrite to describe the action if possible. 

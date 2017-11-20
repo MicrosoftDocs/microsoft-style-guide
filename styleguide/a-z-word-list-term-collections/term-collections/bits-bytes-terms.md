@@ -1,3 +1,12 @@
+---
+title: Bits and bytes terms - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # Bits and bytes terms
 
 In general, spell out *bit* and *byte* terms on the first mention unless: 

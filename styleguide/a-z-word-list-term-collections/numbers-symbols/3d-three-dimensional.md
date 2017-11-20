@@ -1,3 +1,12 @@
+---
+title: 3D, three-dimensional - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # 3D, three-dimensional
 
 Use *3D* most of the time. 

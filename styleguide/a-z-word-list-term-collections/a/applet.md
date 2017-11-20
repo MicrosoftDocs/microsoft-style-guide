@@ -1,3 +1,12 @@
+---
+title: applet - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # applet
 
 Use to refer to an HTML-based program that a browser downloads temporarily to a customer's hard drive. *Applet* is most often associated with Java.

@@ -1,3 +1,12 @@
+---
+title: Writing step-by-step instructions - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # Writing step-by-step instructions
 
 Follow these guidelines to help you create clear, easy-to follow instructions,

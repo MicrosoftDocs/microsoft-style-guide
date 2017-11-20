@@ -1,3 +1,12 @@
+---
+title: power down, power up, power off, power on - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # power down, power up, power off, power on
 
 Don't use. Use *turn off* and *turn on* instead. Don't use *shut down* to refer to turning off a device.

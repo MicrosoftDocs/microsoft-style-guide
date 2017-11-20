@@ -1,3 +1,12 @@
+---
+title: more than vs. over - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # more than vs. over
 
 Use *more than* to refer to quantifiable figures and amounts—things you can count. 

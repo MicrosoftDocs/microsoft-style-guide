@@ -1,3 +1,12 @@
+---
+title: number sign (\#) - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # number sign (\#)
 
 Always spell out *number* in *number sign.* Don't use *pound sign.*

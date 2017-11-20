@@ -1,3 +1,12 @@
+---
+title: destination - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # destination
 
 Use a more precise term, such as *website* or *folder,* to

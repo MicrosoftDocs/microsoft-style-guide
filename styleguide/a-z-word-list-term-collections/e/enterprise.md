@@ -1,3 +1,12 @@
+---
+title: enterprise - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # enterprise
 
 It's OK to use *enterprise* for an IT pro or developer audience to mean a *large company* or *corporation*. Use as an adjective if possible, as in *enterprise computing* or *enterprise deployment*, rather than as a noun to mean *corporation*.

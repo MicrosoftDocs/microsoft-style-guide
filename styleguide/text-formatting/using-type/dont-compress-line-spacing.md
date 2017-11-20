@@ -1,3 +1,12 @@
+---
+title: Don't compress line spacing - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # Don't compress line spacing
 
 The amount of vertical space between lines of text in a paragraph, called *line spacing,*

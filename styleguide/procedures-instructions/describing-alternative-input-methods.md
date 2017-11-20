@@ -1,3 +1,12 @@
+---
+title: Describing alternative input methods - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # Describing alternative input methods
 
 If you use input-neutral methods in instructions, provide a topic

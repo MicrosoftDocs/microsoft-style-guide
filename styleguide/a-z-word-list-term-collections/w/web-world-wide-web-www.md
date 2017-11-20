@@ -1,3 +1,12 @@
+---
+title: web, World Wide Web, WWW - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # web, World Wide Web, WWW
 
 Lowercase *web* as a modifier except to match UI, in feature names that include *web,* and to comply with your group's editorial style guide. 

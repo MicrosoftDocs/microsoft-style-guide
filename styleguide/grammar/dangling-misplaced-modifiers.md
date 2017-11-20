@@ -1,3 +1,12 @@
+---
+title: Dangling and misplaced modifiers - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # Dangling and misplaced modifiers
 
 Modifiers are single words or phrases that modify other words or phrases. Position a modifier to make it clear what it modifies.

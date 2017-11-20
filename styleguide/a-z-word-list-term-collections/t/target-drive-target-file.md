@@ -1,3 +1,12 @@
+---
+title: target drive, target file - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # target drive, target file
 
 Don't use. Refer to the specific drive, folder, or file instead. If the concept of *target* is important to the discussion, use *destination drive* or *destination file* instead. 

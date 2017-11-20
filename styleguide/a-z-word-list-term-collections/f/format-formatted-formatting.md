@@ -1,3 +1,12 @@
+---
+title: format, formatted, formatting - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # format, formatted, formatting
 
 Use *format* to refer to the overall layout or pattern of a document. 

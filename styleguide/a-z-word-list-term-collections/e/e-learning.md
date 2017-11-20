@@ -1,3 +1,12 @@
+---
+title: e-learning - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # e-learning
 
 Always hyphenate. Don't use *elearning* or *eLearning.*

@@ -1,3 +1,12 @@
+---
+title: foo, foobar, fubar - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # foo, foobar, fubar
 
 Don't use *fubar*.

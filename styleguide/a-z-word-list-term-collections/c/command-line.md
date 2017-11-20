@@ -1,3 +1,12 @@
+---
+title: command line, command-line - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # command line, command-line
 
 Two words as a noun. Hyphenate as an adjective.

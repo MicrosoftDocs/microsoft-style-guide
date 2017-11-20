@@ -1,3 +1,12 @@
+---
+title: country or region - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # country or region
 
 Use instead of *country*

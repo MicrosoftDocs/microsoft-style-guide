@@ -1,3 +1,12 @@
+---
+title: hot link - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # hot link
 
 Don't use to describe a connection that

@@ -1,3 +1,12 @@
+---
+title: double buffering - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # double buffering
 
 Two words as a noun. 

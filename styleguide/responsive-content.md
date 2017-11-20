@@ -1,3 +1,12 @@
+---
+title: Responsive content - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # Responsive content
 
 If you’re writing for the web, assume your content will be used on a variety of devices. Many websites today are *responsive—*that is,

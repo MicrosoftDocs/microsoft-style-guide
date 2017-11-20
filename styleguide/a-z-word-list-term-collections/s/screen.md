@@ -1,3 +1,12 @@
+---
+title: screen - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # screen
 
 Use instead of *screenful* or *full screen*. 

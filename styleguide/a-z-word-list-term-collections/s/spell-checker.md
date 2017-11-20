@@ -1,3 +1,12 @@
+---
+title: spell checker - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # spell checker
 
 Use *spell checker* as a general term for a tool that checks spelling. To refer to a specific tool, use the name that appears in the UI. 

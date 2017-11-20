@@ -1,3 +1,12 @@
+---
+title: site - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # site
 
 Use to describe a collection of webpages that's part of a larger whole, such as the Microsoft website or the MSDN website. Use *website* instead of *site* if necessary for clarity.

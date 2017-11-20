@@ -1,3 +1,12 @@
+---
+title: What's new? - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # What's new?
 
 This table shows a history of recent updates to the *Microsoft Writing Style Guide.*

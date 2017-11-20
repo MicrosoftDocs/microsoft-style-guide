@@ -1,3 +1,12 @@
+---
+title: browse - Microsoft Style Guide
+author: pallep
+ms.author: pallep
+ms.date: 11/19/2016
+ms.topic: article
+ms.prod = non-product specific
+---
+
 # browse
 
 Use to refer to manually scanning internet sites or other files. To describe using the search feature of an app, product, or service, or using an internet search engine, use *find* or *search*.
