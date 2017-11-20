@@ -25,7 +25,7 @@ Your group's editorial style guide may include additional conventions.
 **Attributes**|Bold. Capitalization varies.|**IfOutputPrecision**
 **Classes (predefined)**|Bold. Capitalization varies.|**ios**<br />**filebuf**<br />**bitArray**
 **Classes (user-defined)**|Bold. Capitalization varies.|**BlueTimerControl**
-**Code samples, including keywords and variables within text and as separate paragraphs, and user-defined program elements within text**|Monospace. |\#include <iostream.h>void main ()
+**Code samples, including keywords and variables within text and as separate paragraphs, and user-defined program elements within text**|Monospace. |`#include <iostream.h>void main ()`
 **Command-line commands**|Bold. All lowercase.|**copy**
 **Command-line options (also known as switches or flags)**|Bold. Capitalize the way the option must be typed.|**/a**<br />**/Aw**
 **Constants**|Usually bold. Capitalization varies. Treatment of constants may vary, so always refer to your group's editorial style guide.|**INT_MAX**<br />**bDenyWrite**<br />**CS**
@@ -47,7 +47,7 @@ Your group's editorial style guide may include additional conventions.
 **Handles**|All uppercase.|HWND
 **Keywords (language and operating system)**|Bold. Capitalization follows the application programming interface.|**main**<br />**True**<br />**AddNew**
 **Logical operators**|Bold. All uppercase.|**AND**<br />**XOR**
-**Macros**|Usually all uppercase. Bold if predefined. Might be monospace if user defined. Treatment varies. Consult your group's editorial style guide.|**LOWORD**<br />MASKROP
+**Macros**|Usually all uppercase. Bold if predefined. Might be monospace if user defined. Treatment varies. Consult your group's editorial style guide.|**LOWORD**<br />`MASKROP`
 **Markup language elements (tags)**|Bold. Capitalization varies.|**\<img>**<br />**\<input type=text>**<br />**\<!DOCTYPE html>**
 **Mathematical constants and variables**|Italic.|*a2 + b2 = c2*
 **Members**|Bold. Capitalization varies.|**ulNumCharsAllowed**
