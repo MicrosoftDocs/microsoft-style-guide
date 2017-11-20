@@ -23,7 +23,7 @@ Use a slash:
 
   - In server, folder, and file names. <br /><br />**Example** \\\\mslibrary\\catalog\\collect.doc
 
-  - Between the numerator and denominator of fractions in equations that occur in text.<br />**Examples**<br />a/x + b/y = 1<br />x + 2/3(y) = m
+  - Between the numerator and denominator of fractions in equations that occur in text.<br /><br />**Examples**<br />a/x + b/y = 1<br />x + 2/3(y) = m
 
 Don’t use a slash as a substitute for *or,* like *product/**service.* If the UI uses a slash in this way, follow the interface in describing the label, but use *or* to describe the action in text.
 
