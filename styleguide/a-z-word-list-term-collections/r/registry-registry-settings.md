@@ -27,8 +27,7 @@ usually a mix of uppercase and lowercase characters.
 
 **Examples**  
 **SOFTWARE**   
-**ApplicationIdentifier** 
-  
+**ApplicationIdentifier**  
 **Application Identifier***Name*   
 **stockfile**   
 the **new program** subkey
