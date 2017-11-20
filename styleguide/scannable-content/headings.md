@@ -1,4 +1,4 @@
-# Headings
+﻿# Headings
 
 Headings provide both structure and visual points of reference to help readers scan content. If
 you can break text logically into smaller sections, the extra
@@ -7,7 +7,7 @@ will help readers scan content and find entry points.
 
 In any type of content—whether it’s UI, web content, marketing, or advertising—use headings consistently. 
 
-#### Writing headings
+## Writing headings
 
 **Think of headings as an outline,** only more interesting—pithy, even. If readers don’t read the headings, they probably won’t read the text that follows, either. 
 
@@ -63,7 +63,7 @@ infinitive phrases for headings in instructions.
 
 **Use *vs*.**, not *v*. or *versus*, in headings.
 
-#### Formatting headings
+## Formatting headings
 
 **Use sentence-style capitalization** for headings. In
 sentence-style capitalization, the first word is capitalized,
@@ -120,7 +120,7 @@ If you don't have a template, limit yourself to no more than two fonts in headin
 [Using type](/style-guide/text-formatting/using-type/)  
 [Brand type guidelines](https://microsoft.sharepoint.com/teams/BrandCentral/Guidelines/Microsoft_type_guidelines.pdf "Type guidelines on Brand Central") (This document requires Microsoft network access.)
 
-#### Using run-in headings
+## Using run-in headings
 
 If
 you regularly highlight specific types of content, such as

@@ -1,4 +1,4 @@
-# Search and writing
+﻿# Search and writing
 
 Customers
 find content in a variety of ways. One of the most common is
@@ -9,7 +9,7 @@ If you want to learn more about search engine optimization, the [MSCOM SEO libra
 
 As you write, follow these guidelines to help customers find relevant content.
 
-#### Keywords
+## Keywords
 
 Keywords are the terms customers use when they search for content. To help customers find your content in search engines, front-load keywords in headings, subheadings, and page descriptions.
 
@@ -36,7 +36,7 @@ repetitious) in these places:
 
 If your content is video, audio, or images, include keywords in a nearby text description and in alt text. 
 
-#### Links and backlinks
+## Links and backlinks
 
 Linking
 to supporting information is a good way to stick to the point and

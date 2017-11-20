@@ -1,4 +1,4 @@
-# Date and time terms
+﻿# Date and time terms
 
 This section covers usage for terms related to time and date.
 
@@ -13,7 +13,7 @@ This section covers usage for terms related to time and date.
 **Time, ranges of time**|Use numerals for times of day: 2:00, 4:15, 7:30. Always include *AM* and *PM*. <br /><br />Include the time zone if you’re discussing an event that customers beyond the local time zone may see or attend. <br /><br />In text, use to in a range of times.<br />**Example** 10:00 AM to 2:00 PM <br /><br />In a schedule or listing, use an en dash with no spaces around it. <br />**Example** 10:00 AM–2:00 PM<br /><br />**Exception**<br />In a date range that includes two times and two dates, add spaces around the en dash. Lead with whatever is most important to the customer within the context: time of day or date. <br /><br />**Examples**<br />2:15 AM–4:45 PM 4/1/16 (time range on a single day)<br />12/1/17 2:15 PM – 4/1/18 4:45 PM (time + date range)
 **Time zones: Eastern Time, Central Time, Mountain Time, Pacific Time, Coordinated Universal Time (UCT), Greenwich Mean Time (GMT)**|Capitalize time zones. Don’t abbreviate unless space is severely limited. If you must abbreviate, use *ET, CT, MT,* and *PT*.<br /><br />Don’t specify *standard time or daylight saving time* unless you're providing information about a specific event where that information matters.<br /><br />If you're referring to a time zone as a geographical area, call it a zone. <br />**Example** in the Pacific Time zone  <br /><br />Not all time zones have names, and some time-zone names are used in more than one geographical area. If you're talking about a particular place, clarify the country or reference Coordinated Universal Time (UTC). Don't include spaces around the plus sign (+) or hyphen (-).<br /><br />**Examples**<br />Eastern Time (UTC-5)<br />Eastern Time (UTC+10)<br />Eastern Time (Australia)<br /><br />For time zones without names, refer to the offset from Coordinated Universal Time. <br />**Example** UTC+7<br /><br />Don’t abbreviate *Coordinated Universal Time* in text unless space is severely limited. Use *UTC*, never *CUT*. (It’s OK to use UTC in references to a specific time zone, such as *UTC+7*.) Don’t use *Universal Time Coordinate or Universal Time Coordinated*.<br /><br />Don’t use *Greenwich Mean Time* or *GMT* by itself unless you have no other choice. Use *Coordinated Universal Time* instead. On the first mention, it's OK to refer to *Coordinated Universal Time (Greenwich Mean Time)*.
 
-#### Abbreviating units of time
+## Abbreviating units of time
 
 **Unit**|**Abbreviation**
 --|--

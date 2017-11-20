@@ -1,8 +1,8 @@
-# UI text and design checklist
+﻿# UI text and design checklist
 
 Well-designed UI feels like a conversation. These tips will help get you there. 
 
-#### **Be simple, straightforward, and human**
+## **Be simple, straightforward, and human**
 
   - Write
     in informal, conversational Microsoft voice. (Use short, everyday
@@ -10,14 +10,14 @@ Well-designed UI feels like a conversation. These tips will help get you there.
   - Read UI aloud. Is it conversational, clear, and concise? Keep revising until it is.
   - Don't use technical jargon or acronyms.
 
-#### **Put the customer at the center**
+## **Put the customer at the center**
 
   - Understand your customers. Then tailor the experience to their needs. 
   - Design around the customer’s primary intent—what the customer is trying to accomplish.
   - Always consider the context and the customer’s frame of mind during a specific interaction.
   - Reach out to your usability researchers, and use their insights.
 
-#### **Design great content**
+## **Design great content**
 
   - Participate in the project kickoff. Advocate for the customer throughout.
   - Design for customer scenarios. Put the most important information, action, or issue in the most noticeable spot. 

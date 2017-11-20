@@ -1,23 +1,23 @@
-# Use technical terms carefully
+﻿# Use technical terms carefully
 
 Technical terms come in a variety of shapes and sizes. Sometimes they're everyday words that are given new meanings, like *cloud, batch,* or *dashboard*. Other times, common words are combined to create technical terms, like *telemedicine* or *email.* Over
 time, some technical terms become widely understood, but before
 that happens, they can be confusing to people who aren't
 familiar with them. ** Use technical terms when they're the clearest way to communicate your message, but use them with care. 
 
-#### Use common words whenever possible
+## Use common words whenever possible
 
 Don't use a technical term when an everyday term will do. For example, don't use *rip* to refer to copying files from a CD if you can use *copy* instead.
 
-#### Don’t assume everyone will understand technical terms
+## Don’t assume everyone will understand technical terms
 
 When you must use technical terms for precise communication, define them in context.
 
-#### Use technical terms consistently
+## Use technical terms consistently
 
 When you've decided to use a technical term, use that term consistently across products and services, tools, websites, and marketing communications. Aim for one term, one concept.
 
-#### Use industry-specific terms for professional audiences
+## Use industry-specific terms for professional audiences
 
 Many
 industries and professions have their own terminology: banking,
@@ -33,14 +33,14 @@ the [A–Z word list](https://worldready.cloudapp.net/Styleguide/Read?id=2700&to
   - Industry research organizations, such as Forrester Research and Gartner. Check with the [MS Library](http://mslibrary/Pages/Home.aspx) to learn more. (This site requires Microsoft network access.)
   - Domain books, such as the *[PMI Lexicon of Project Management Terms](http://www.pmi.org/PMBOK-Guide-and-Standards/PMI-lexicon.aspx)* or the [FDIC List of Abbreviations and Glossary of Terms](http://www.fdic.gov/bank/historical/managing/history3-B.pdf).
 
-#### Don’t create a new term if one already exists
+## Don’t create a new term if one already exists
 
 Don't
 create a new term if an existing one serves your purpose. If you
 must create a new term, verify that it isn’t already being
 used to mean something else.  
 
-#### Research emerging terminology
+## Research emerging terminology
 
 Technology
 changes at light speed, and customers expect us to use the latest

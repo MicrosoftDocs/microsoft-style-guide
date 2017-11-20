@@ -1,4 +1,4 @@
-# Design planning
+﻿# Design planning
 
 Design is more than a pretty face. It provides a familiar environment for content. Text
 length, the use of images, headings, tables, lists, and other
@@ -7,7 +7,7 @@ content experience. Writing with design in mind builds predictability into conte
 
 The time to think about design is before you start writing.
 
-#### Consult with your design partners early
+## Consult with your design partners early
 
 Collaborate with your designer and marketing manager or PM to develop the [content strategy](/style-guide/content-planning). 
 
@@ -15,7 +15,7 @@ If
 you’re working with a designer, meet early and often. Share your
 outline, your preliminary drafts, this style guide, and your group's editorial style guide. Provide preliminary content early in the process so you can identify and solve issues in the design or content approach.
 
-#### Start with a template
+## Start with a template
 
 Templates
 provide a well thought out framework for clear and simple
@@ -52,7 +52,7 @@ you’re starting from scratch, use a template provided by the
 platform or site owner or your marketing team. If necessary, ask
 around. [Brand Central](https://microsoft.sharepoint.com/teams/BrandCentral/) provides a variety of [templates](https://microsoft.sharepoint.com/teams/BrandCentral/Search/Pages/BCTemplatesResults.aspx?k=microsoft) for standalone documents. (This site requires Microsoft network access.) The Microsoft.com design template is available on the [Microsoft Web Framework](http://getmwf.com/) site.
 
-#### Make layout decisions before you begin
+## Make layout decisions before you begin
 
 If
 you’re writing for a platform that limits your design choices,

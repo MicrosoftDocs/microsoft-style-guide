@@ -1,4 +1,4 @@
-# Global communications
+﻿# Global communications
 
 Microsoft
 customers live and work all over the world and speak a variety of
@@ -36,7 +36,7 @@ style guidance. This section covers:
 
 For Microsoft’s approach to localizing product names, see the [Brand Central name localization guidelines](https://microsoft.sharepoint.com/teams/BrandCentral/Guidelines/Microsoft_naming_playbook_Localization.pdf "name localization guidelines on Brand Central"). (This page requires Microsoft network access.)
 
-#### Learn more about worldwide audiences
+## Learn more about worldwide audiences
 
 **Be curious.**
 If you write for audiences in particular countries or regions,

@@ -1,4 +1,4 @@
-# Capitalization
+﻿# Capitalization
 
 Microsoft
 style is sentence-style capitalization. That means everything is
@@ -30,7 +30,7 @@ Follow these guidelines in Microsoft content:
 
 For information about capitalization in UI, see [UI text and design](/style-guide/ui-text-content-design) and for information about capitalizing UI labels in instructions, see [Formatting text in instructions](/style-guide/procedures-instructions/formatting-text-in-instructions). To learn more about using the Segoe font in formatting and design, see [Text formatting](/style-guide/text-formatting/).
 
-#### Sentence-style capitalization in titles and headings
+## Sentence-style capitalization in titles and headings
 
 Use sentence-style capitalization in most titles and headings: capitalize
 the first word and lowercase the rest. (Proper nouns, including
@@ -44,7 +44,7 @@ Watch your favorite HD movies, TV shows, and more.
 Choose the Office version that’s right for you.  
 Available for Microsoft partners and commercial and public-sector customers  
 
-#### Title-style capitalization
+## Title-style capitalization
 
 Occasionally, title-style capitalization—capitalizing most words—is appropriate.
 For example, product and service names, the names of blogs, book and

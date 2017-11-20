@@ -1,4 +1,4 @@
-# Formatting text in instructions
+﻿# Formatting text in instructions
 
 Consistent
 text formatting helps readers locate and interpret information. Follow
@@ -15,7 +15,7 @@ conventions.
 [Formatting common text elements](/style-guide/text-formatting/formatting-common-text-elements)  
 [Formatting developer text elements](/style-guide/developer-content/formatting-developer-text-elements)  
 
-#### In documentation and technical content
+## In documentation and technical content
 
 Use these conventions in instructions that appear in documentation and technical content.
 
@@ -52,7 +52,7 @@ Use these conventions in instructions that appear in documentation and technical
 | **Windows** | Avoid talking about windows. Instead, focus on what the customer needs to do.<br /> When you must refer to a window by name, use regular text. Use sentence-style capitalization unless you need to match the UI.<br /> Use _window_ only as a generic term for an area on a PC screen where apps and content appear. Don’t use _window_ to refer to a specific dialog box, blade, or similar UI element. | To embed the new object, switch to the source document. <br /> Easily switch between open windows. <br /> Open a new Microsoft Edge tab in a new window so you can look at tabs side by side. |
 | **XML schema elements** | Bold. Capitalization varies. | **ElementType** element <br /> **Xml:space** attribute |
 
-#### In the UI and general content
+## In the UI and general content
 
 Instructions
 can also appear in the UI itself and in content other than

@@ -1,4 +1,4 @@
-# Mouse and mouse interaction terms
+﻿# Mouse and mouse interaction terms
 
 Most
 of the time, don't talk about the mouse, mouse actions, or the pointer
@@ -7,7 +7,7 @@ customer interactions with the UI. To learn more, see [Describing interactions w
 
 When you need to talk specifically about the mouse, mouse interactions, or the pointer, use these terms.
 
-#### Mouse actions
+## Mouse actions
 
 **Term**|**Usage**
 --|--
@@ -20,7 +20,7 @@ When you need to talk specifically about the mouse, mouse interactions, or the p
 **right-click**|Use to describe clicking an item by using the secondary mouse button (the right button by default, but the user can customize this).
 
 
-#### Mouse devices
+## Mouse devices
 
 **Term**|**Usage**
 --|--
@@ -29,7 +29,7 @@ When you need to talk specifically about the mouse, mouse interactions, or the p
 **right mouse button**|Use to refer to the secondary mouse button. By default, this is the right mouse button. Customers who change the default understand that *right mouse button* indicates the secondary button.
 **wheel button**|Use to refer to the third or middle button on the mouse. Customers *rotate* the wheel and *click* the wheel button.
 
-#### On-screen pointers
+## On-screen pointers
 
 When you
 must talk about the appearance of the pointer on the screen, include

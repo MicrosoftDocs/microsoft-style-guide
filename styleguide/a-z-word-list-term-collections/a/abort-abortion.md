@@ -9,7 +9,7 @@ a technical audience only if it's part of the application
 programming interface (API). Use an alternative term
 in comments and descriptions.
 
-#### **Alternative terms**
+## **Alternative terms**
 
   - *End:* use for communications and network connections.
   - *Close:* use for apps and programs.

@@ -1,6 +1,6 @@
-# Commas
+﻿# Commas
 
-#### Use a comma:
+## Use a comma:
 
   - In
     a list of three or more items, include a comma before the conjunction.
@@ -29,7 +29,7 @@
 
 For information about using commas in numbers, see [](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36307)[Numbers](/style-guide/numbers).
 
-#### Don’t use a comma:
+## Don’t use a comma:
 
   - To join independent clauses when you don't use a conjunction. (Use a semicolon instead.)
 

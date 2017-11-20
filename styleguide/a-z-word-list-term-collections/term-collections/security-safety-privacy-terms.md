@@ -1,4 +1,4 @@
-# Security, safety, and privacy terms
+﻿# Security, safety, and privacy terms
 
 Don’t
 use words that imply security, safety, or privacy without
@@ -7,7 +7,7 @@ say *Outlook uses antiphishing technology to scan incoming mail automatically,* 
 
 See [Security, safety, and privacy content](/style-guide/security-safety-privacy-content) for more information.
 
-#### Trigger words and qualifiers
+## Trigger words and qualifiers
 
 If
 you must use any of the trigger words in the following table, use
@@ -34,7 +34,7 @@ Always use qualifiers with trigger words.
 **improve**|Use BitLocker to improve data security on PCs and removable drives.
 **more**|Use location services more safely.
 
-#### Security terms
+## Security terms
 
 This section describes usage for specific security terms. For definitions of security terms, see the [Microsoft Malware Protection Glossary](http://www.microsoft.com/security/portal/mmpc/shared/glossary.aspx). 
 

@@ -1,6 +1,6 @@
-# Blogs and communities checklist
+﻿# Blogs and communities checklist
 
-#### Blogs
+## Blogs
 
   - Follow [Microsoft blogging and social media guidelines](https://microsoft.sharepoint.com/sites/lcaweb/Home/Business-Conduct-and-Compliance/Confidential-Information/Blogging-and-Social-Media-Guidelines). (This page requires Microsoft network access.)
   - Identify and schedule blog topics in advance, using an editorial calendar.
@@ -16,7 +16,7 @@
 
 **Learn more about** [blogs](/style-guide/social-mediablogs "blogs").
 
-#### Communities
+## Communities
 
   - Consider offering customers a way to provide content on your site. 
   - Start with an enthusiastic community, and engage employees who have expertise and interest.

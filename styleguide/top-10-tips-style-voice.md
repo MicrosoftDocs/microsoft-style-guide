@@ -1,4 +1,4 @@
-# Top 10 tips for Microsoft style and voice
+﻿# Top 10 tips for Microsoft style and voice
 
 **Use bigger ideas, fewer words**<br />Our modern design hinges on crisp minimalism. Shorter is always better. To learn more, see [Brand voice](/style-guide/brand-voice-above-all-simple-human).
 
@@ -85,7 +85,7 @@ With this: Use pipelines—logical groups of activities—to consolidate activit
 
 With this: Store files online, access them from all your devices, and share them with coworkers.
 
-#### Poster: Top 10 voice and style tips
+## Poster: Top 10 voice and style tips
 
 ![](media/top-10-tips-style-voice/911998365.png)
 

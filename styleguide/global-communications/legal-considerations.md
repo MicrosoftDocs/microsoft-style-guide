@@ -1,4 +1,4 @@
-
+﻿
 # Legal considerations
 
 Content
@@ -19,14 +19,14 @@ For complete information, visit [](https://microsoft.sharepoint.com/sites/lcaweb
 
 If you still have questions, contact [your group’s paralegal](https://microsoft.sharepoint.com/sites/lcaweb/Pages/Applications/LegalContact.aspx). (This page requires Microsoft network access.)
 
-#### Discounts and special offers
+## Discounts and special offers
 
 **Include any limitations on availability** of
 the offer. For each country or region where the offer is valid,
 provide price information in the local currency and mention
 any taxes that apply.
 
-#### Events, products, contests, and special offers
+## Events, products, contests, and special offers
 **Review the [Promotions](https://microsoft.sharepoint.com/sites/lcaweb/Home/Marketing/Promotions) page on CELAWeb**. All contests and sweepstakes must be approved by the [CELA Promotions team](https://microsoft.sharepoint.com/sites/LCAWeb/Home/Marketing/Marketing-and-Advertising-Content/Promotions-Contacts). (These pages require Microsoft network access.)
 
 **Specify where events, products, contests, and special offers are available**. Use *only*
@@ -40,21 +40,21 @@ international shipping.
 
 **Include contact information for customers outside of the United States**, or include a link to <http://www.microsoft.com/worldwide/>.
 
-#### Standard legal language
+## Standard legal language
 
 **Include legal statements that are required in specific countries and regions**. Always check with [your group's paralegal](https://microsoft.sharepoint.com/sites/lcaweb/Pages/Applications/LegalContact.aspx) to verify that your legal statements comply with corporate policies and all applicable laws. (This page requires Microsoft network access.) CELA
 can help you determine what you must do to comply with internet,
 copyright, privacy, and business laws in various countries
 and regions. 
 
-#### Privacy laws
+## Privacy laws
 
 **Understand the local laws**
 regarding notification and the collection, storage, use, sharing, and
 retention or destruction of personal information—before you collect
 it. Adhering to the [Security and privacy](https://microsoft.sharepoint.com/sites/lcaweb/Home/Business-Conduct-and-Compliance/Security-and-Privacy) guidelines on CELAWeb is the surest way to comply with privacy laws worldwide. (This page requires Microsoft network access.)
 
-#### Copyrights and trademarks 
+## Copyrights and trademarks 
 
 **In web content, include a link to copyright and legal information**
 that can be updated for specific countries or regions. If you’re
@@ -68,7 +68,7 @@ Learn more about copyrights and trademarks:
 
 When in doubt, check with [your group's paralegal](https://microsoft.sharepoint.com/sites/lcaweb/Pages/Applications/LegalContact.aspx). (This page requires Microsoft network access.)
 
-#### Product claims
+## Product claims
 
 **Don’t compare one product with another**. If you must do this, send your comparisons to [your group's paralegal](https://microsoft.sharepoint.com/sites/lcaweb/Pages/Applications/LegalContact.aspx) for review, along with a description of your substantiation for the comparative claim. (This page requires Microsoft network access.) Some
 countries and regions have strict requirements of documented
@@ -90,14 +90,14 @@ permission. Always get a signed [quote permission form](https://microsoft.sharep
 
 When in doubt, check with [your group's paralegal](https://microsoft.sharepoint.com/sites/lcaweb/Pages/Applications/LegalContact.aspx). (This page requires Microsoft network access.)
 
-#### Media ratings
+## Media ratings
 
 **Include the media ratings**
 required in the countries and regions where your product will
 be distributed. For example, game software and hardware may require
 an epilepsy warning in some countries and regions. Check with [your group's paralegal](https://microsoft.sharepoint.com/sites/lcaweb/Pages/Applications/LegalContact.aspx) if you’re not sure about the laws in countries and regions where your product will be distributed. (This page requires Microsoft network access.)
 
-#### Restrictions on names of places and landmarks
+## Restrictions on names of places and landmarks
 
 **Don’t refer to countries, regions, cities, or land features that are in disputed areas** or show them on maps. Use the [PoliCheck tool](https://microsoft.sharepoint.com/teams/celaGlobalReadiness/Pages/PoliCheck.aspx "PoliCheck term tool on the Global Readiness website") to check text for problematic names and terms. (This tool requires Microsoft network access.) Errors
 in the names or boundaries of disputed territories may be
@@ -105,7 +105,7 @@ offensive or even illegal in some countries and regions.
 
 **Learn more** See the [](http://gpweb/marketreadiness/OfficialCountryregion)[official country/region list](https://microsoft.sharepoint.com/teams/celaGlobalReadiness/Lists/CountryRegion/CountryRegionList.aspx) on the [Global Readiness](https://microsoft.sharepoint.com/teams/celaGlobalReadiness/Pages/Home.aspx) website. (This site requires Microsoft network access.)
 
-#### Legal use of third-party content
+## Legal use of third-party content
 
 In
 most cases, using photographs, artwork, videos, music, or

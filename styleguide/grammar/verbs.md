@@ -1,8 +1,8 @@
-# Verbs
+﻿# Verbs
 
  Using precise verbs in the right way helps you write clear and simple sentences.
 
-#### Verb tense
+## Verb tense
 
 In
 the present tense, the action is happening now. The present tense
@@ -13,7 +13,7 @@ Examples
 The Windows Start screen is uniquely yours, personalized with your favorite apps, people, photos, and colors. 
 Windows Update installs important updates automatically.
 
-#### Mood of verbs
+## Mood of verbs
 
 The
 mood of a verb expresses the writer’s intent. Most of the time,
@@ -27,7 +27,7 @@ being bossy. Don’t switch moods within a sentence.
 **Subjunctive**|Wishes, hypotheses, and suggestions—avoid.|We recommend that you be careful about opening email attachments.
 
 
-#### Active and passive voice
+## Active and passive voice
 
 Voice is either active or passive. Keep it active whenever you can.
 
@@ -40,7 +40,7 @@ Voice is either active or passive. Keep it active whenever you can.
 **Passive**|<ul><li>Avoiding condescending text or blaming the customer, especially in errors, warnings, or notifications</ul></li> <ul><li>Avoiding awkward constructions</ul></li> <ul><li>Emphasizing the receiver of the action</ul></li> |That site can’t be found. Double-check the site address in the Address bar.<br />When the user clicks **OK**, the transaction is committed. (in content for developers) 
 
 
-#### Verb agreement
+## Verb agreement
 
 Verbs
 have singular and plural forms. Use the verb form that

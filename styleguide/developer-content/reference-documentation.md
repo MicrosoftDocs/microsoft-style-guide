@@ -1,4 +1,4 @@
-# Reference documentation
+﻿# Reference documentation
 
 Reference
 documentation provides details about the programming elements
@@ -15,7 +15,7 @@ as configuration schemas, compiler options, and error messages
 might not follow the guidelines described in this section. For
 information about documenting those features, see your group's editorial style guide.
 
-#### Topic titles
+## Topic titles
 
 Use
 the name of a programming element (such as Clear), followed by an
@@ -31,7 +31,7 @@ Clear Method
 Device.Clear Method  
 Clear Method (Microsoft Ajax)  
 
-#### Elements of a reference topic
+## Elements of a reference topic
 
 The table lists the information typically provided in reference topics. Not all sections appear in all topics. For example, the *Property value* or *Field value*
 section appears only in reference topics for properties. Sections vary

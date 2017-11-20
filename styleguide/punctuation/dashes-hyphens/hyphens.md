@@ -1,8 +1,8 @@
-# Hyphens
+﻿# Hyphens
 
 For information about hyphenating specific technology words, see the [A–Z word list](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25512). For information about hyphenating common words, see [*The American Heritage Dictionary*](https://ahdictionary.com/) and [*The Chicago Manual of Style*](http://www.chicagomanualofstyle.org/home.html). (If you have Microsoft network access, you can use *[The Chicago Manual of Style Online](http://aka.ms/mslibrary/cms)* through MS Library.)
 
-#### Predicate adjectives
+## Predicate adjectives
 
 Don't hyphenate a predicate adjective (an adjective that complements the subject of a sentence and follows a linking verb) unless the *Microsoft Writing Style Guide* specifically recommends it. Check the [A–Z word list](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25512) to find out.
 
@@ -52,7 +52,7 @@ two-sided arrow
 5-point star 
 y-coordinate values
 
-#### Suspended compound modifiers
+## Suspended compound modifiers
 
   - Don’t use suspended compound modifiers, such as *left- and right-aligned text*, unless space is limited. Instead, spell out the entire phrase.
 
@@ -66,7 +66,7 @@ y-coordinate values
 
 **Example** uppercase and lowercase letters
 
-#### Compound nouns
+## Compound nouns
 
 Hyphenate compound nouns when one of the words is abbreviated.
 
@@ -76,7 +76,7 @@ e-commerce
 
 Exception email
 
-#### Compound numerals and fractions
+## Compound numerals and fractions
 
 Hyphenate compound numerals and fractions.
 
@@ -96,7 +96,7 @@ dialog box–type options
 
   - Two or more of the elements are made up of hyphenated compounds (a rare occurrence). 
 
-#### **Prefixes**
+## **Prefixes**
 
 Avoid creating new words by adding prefixes to existing words. Rewrite to avoid creating a new word. If a word with a prefix is listed in [*The American Heritage Dictionary*](https://ahdictionary.com/) or the [A–Z word list](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25512), it’s OK to use in Microsoft content. 
 
@@ -128,7 +128,7 @@ cooperate
 
 For more information about using prefixes, see [The Chicago Manual of Style](http://www.chicagomanualofstyle.org/home.html). (If you have Microsoft network access, you can use *[The Chicago Manual of Style Online](http://aka.ms/mslibrary/cms)* through MS Library.)
 
-#### Capitalization in hyphenated compound words
+## Capitalization in hyphenated compound words
 
 **Capitalize**  
 any part of a hyphenated compound word that would be capitalized if there were no hyphen. For example, capitalize the first word if it's the first word of a sentence or heading.  
@@ -139,7 +139,7 @@ Capitalize the final part of a hyphenated compound word if it's the last word in
 
 Example Boone, Nettie. *The App E-Book.* Redmond, WA: Lucerne Publishing, 2015. 
 
-#### Words hyphenated in Microsoft usage
+## Words hyphenated in Microsoft usage
 
 Hyphenate the following words in Microsoft content.
 

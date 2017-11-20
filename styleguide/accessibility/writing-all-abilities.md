@@ -1,4 +1,4 @@
-# Writing for all abilities
+﻿# Writing for all abilities
 
 Microsoft
 style—clean, simple design and crisp, clear content—is easier
@@ -6,14 +6,14 @@ for all readers to use, so nearly every writing recommendation in
 this guide will improve accessibility. Pay special attention to the
 following guidelines. 
 
-#### Put the person first
+## Put the person first
 
 In
 general, refer to a person who has a kind of disability, not a
 disabled person. When you must describe specific disabilities
 or people with specific disabilities, use [approved terminology](/style-guide/a-z-word-list-term-collections/term-collections/accessibility-terms "Accessibility term collection"). 
 
-#### Write brief, meaningful, and focused text
+## Write brief, meaningful, and focused text
 
 **Be especially clear and concise** in instructions for product setup, basic features, input methods, and accessibility features. 
 
@@ -31,7 +31,7 @@ or people with specific disabilities, use [approved terminology](/style-guide/a-
 
 **Don’t force line breaks** (also known as hard returns) within sentences and paragraphs. They may not work well in resized windows or with enlarged text.
 
-#### Use content structure and location to communicate
+## Use content structure and location to communicate
 
 **Emphasize important points visually and stylistically.** Lists,
 headings, and tables reinforce relationships between
@@ -45,7 +45,7 @@ aren’t very useful for people who use screen-reading software. If
 you must use a directional term, provide additional text
 about the location, such as *in the* *Save As* *****dialog box, on the* *Standard* *****toolbar*, or *in the title bar*. 
 
-#### Document alternate input methods
+## Document alternate input methods
 
 **In product documentation, document all supported modes of interaction, input commands, and keyboard shortcuts.** Include mice, keyboards, voice recognition devices, game controllers, gestures, and other interaction modes. Use the [Accessibility Product Template](https://enableweb/intranet$/Technical%20Solutions/Section_1_Accessibility_product_template.doc)[](file://///enableweb/intranet$/Technical%20Solutions/Section_1_Accessibility_product_template.doc) to get started. (The template requires Microsoft network access.)
 

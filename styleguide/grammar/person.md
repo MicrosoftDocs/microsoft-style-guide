@@ -1,8 +1,8 @@
-# Person
+﻿# Person
 
 In grammar, *person* refers to the point of view represented by a statement and determines which pronoun to use. 
 
-#### In general, use second person
+## In general, use second person
 
 In second person, you write as though you're speaking to the reader. Second person often uses the personal pronoun *you,* but sometimes the word *you* is implied. It
 supports a friendly, human tone and helps avoid passive voice
@@ -12,7 +12,7 @@ by focusing the discussion on the reader. Consider omitting *you can* whenever t
 Create your own unique Lumia experience.  
 You can set advanced options later if you need them. 
 
-#### Use first person sparingly
+## Use first person sparingly
 
 Use first person (usually *I* or *me)* only when you need to write from the point of view of the customer. 
 
@@ -20,7 +20,7 @@ Use first person (usually *I* or *me)* only when you need to write from the poin
 
 **Exception** Cortana is a persona, so the use of *I* is appropriate. For information about writing for Cortana, see [Voice](https://worldready.cloudapp.net/Styleguide/Read?id=2547&topicid=19862) in the *Windows, Xbox, and devices style guide*.
 
-#### Avoid first-person plural
+## Avoid first-person plural
 
 First-person plural, which often uses the pronoun *we,* can feel like a daunting corporate presence—the opposite of Microsoft's modern voice. It’s OK to use phrasing like *we recommend* if it helps you avoid awkward phrasing like *it’s recommended,* but write around it if you can*.* Try to keep the focus on the customer, not Microsoft.
 

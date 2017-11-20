@@ -1,10 +1,10 @@
-# Copyrights and trademarks
+﻿# Copyrights and trademarks
 
 Copyrights and trademark registration protect intellectual property. This
 section summarizes things you can do to help. For the full story,
 see [Protecting our content](https://microsoft.sharepoint.com/sites/LCAWeb/Home/Copyrights-Trademarks-and-Patents/Copyrights/Protecting-Copyrights) on CELAWeb. (This page requires Microsoft network access.) If you have a question, contact [your group’s paralegal](https://microsoft.sharepoint.com/sites/lcaweb/Pages/Applications/LegalContact.aspx). (This page requires Microsoft network access.)
 
-#### Microsoft copyrights
+## Microsoft copyrights
 
 **Webpages on Microsoft.com** include a standard footer that covers copyright and other legal
 requirements for Microsoft websites. You don’t need to do anything else
@@ -18,7 +18,7 @@ any communication designed to influence a purchase decision.
 
 **Most other downloadable or printed content** requires a copyright notice. Follow the [](https://microsoft.sharepoint.com/sites/lcaweb/Home/Copyrights-Trademarks-and-Patents/Copyrights/Legal-Notices)[CELA guidelines for creating copyright notices](https://microsoft.sharepoint.com/sites/lcaweb/Home/Copyrights-Trademarks-and-Patents/Copyrights/Legal-Notices). (This page requires Microsoft network access.)
 
-#### Third-party copyrights
+## Third-party copyrights
 
 In the social media world we live in, you probably see bits of copy,
 images, and other content lifted from the internet, with or
@@ -53,7 +53,7 @@ These pages require Microsoft network access.
 
 Contact the [Media Acquisitions Group](https://mediaacquisitions.partners.extranet.microsoft.com/NewOrder) to find out about the acquisition and licensing of third-party content.
 
-#### Microsoft trademarks
+## Microsoft trademarks
 
 Your actions as a writer help protect Microsoft
 trademarks. Trademark guidelines vary depending on the
@@ -79,7 +79,7 @@ to protect Microsoft trademarks used on Microsoft.com sites. The standard footer
 
 **Products, product packaging, books, and product documentation** CELA maintains specific trademark requirements for these items. See [Trademark list and attribution requirements](https://microsoft.sharepoint.com/sites/LCAWeb/Home/Copyrights-Trademarks-and-Patents/Trademarks/Trademark-List-and-Usage) for more information. (This page requires Microsoft network access.)
 
-#### Third-party trademarks 
+## Third-party trademarks 
 
 Before using content that includes third-party logos, check with the [trademark legal contact](https://microsoft.sharepoint.com/sites/LCAWeb/Home/Copyrights-Trademarks-and-Patents/Trademarks/Contacts) for your group. (This page requires Microsoft network access.)
 

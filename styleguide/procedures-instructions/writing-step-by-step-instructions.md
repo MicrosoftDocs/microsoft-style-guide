@@ -1,4 +1,4 @@
-# Writing step-by-step instructions
+﻿# Writing step-by-step instructions
 
 Follow these guidelines to help you create clear, easy-to follow instructions,
 whether you're writing simple, single-step procedures or complex
@@ -8,7 +8,7 @@ procedures that consist of multiple steps.
 [Formatting text in instructions](/style-guide/procedures-instructions/formatting-text-in-instructions)  
 [Formatting punctuation](/style-guide/punctuation/formatting-punctuation)  
 
-#### Complex procedures
+## Complex procedures
 
 Complex instructions often consist of multiple steps formatted as a
 numbered list. For multiple-step procedures in numbered lists: 
@@ -53,7 +53,7 @@ numbered list. For multiple-step procedures in numbered lists:
 
 ![](media/writing-step-by-step-instructions/1122697927.png)
 
-#### Single-step procedures
+## Single-step procedures
 
 If you're using a consistent format for step-by-step instructions,
 use the same format for single-step instructions, but replace the
@@ -64,7 +64,7 @@ number with a bullet.
 
   - On the Start screen, zoom out and drag the group where you want.
 
-#### Tips for writing steps
+## Tips for writing steps
 
 Make sure the customer knows where the action should take place before you describe the action. 
 
@@ -74,7 +74,7 @@ Make sure the customer knows where the action should take place before you descr
   - If there’s a chance of confusion, provide an introductory step.  
     **Example** On the ribbon, go to the **Design** tab.
 
-#### Simple instructions with right angle brackets
+## Simple instructions with right angle brackets
 
 Abbreviate simple sequences by using right angle brackets. Include a
 space before and after each bracket, and don't make the

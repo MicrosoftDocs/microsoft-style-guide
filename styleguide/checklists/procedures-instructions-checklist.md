@@ -1,4 +1,4 @@
-# Procedures and instructions checklist
+﻿# Procedures and instructions checklist
 
 In
 the best-case scenario, the UI is so clear and task driven that
@@ -18,7 +18,7 @@ customer complete a task. Use consistent text formatting—see [Formatting text 
 
 **Learn more** about [procedures and instructions](/style-guide/procedures-instructions/)
 
-#### Step-by-step instructions
+## Step-by-step instructions
 
 Use numbered steps—no more than seven, and preferably fewer. 
 
@@ -44,7 +44,7 @@ Select **Accounts** \> **Other accounts** \> **Add an account**.
 
 **Learn more** about [step-by-step instructions](/style-guide/procedures-instructions/writing-step-by-step-instructions). 
 
-#### Interactions with UI
+## Interactions with UI
 
 Use the following verbs, which describe any input method—touch, mouse, keyboard, voice, and so on. 
 
@@ -64,7 +64,7 @@ Use the following verbs, which describe any input method—touch, mouse, keyboar
 
 **Learn more** about [describing interactions with UI](/style-guide/procedures-instructions/describing-interactions-with-ui).
 
-#### Alternative input methods
+## Alternative input methods
 
   - Most of the time, use input-neutral verbs to describe interactions with UI. See [Describing interactions with UI](/style-guide/procedures-instructions/describing-interactions-with-ui) to learn how. 
   - For accessibility, always document keyboard procedures, even if they're indicated in the UI by underlined letters.
@@ -87,7 +87,7 @@ Use the following verbs, which describe any input method—touch, mouse, keyboar
 
 **Learn more** about [alternative input methods](/style-guide/procedures-instructions/describing-alternative-input-methods).
 
-#### Multiple input methods
+## Multiple input methods
 
 If you need to document multiple ways to perform a task, use one of these methods.
 

@@ -1,4 +1,4 @@
-# Computer and device terms
+﻿# Computer and device terms
 
 In
 the modern world, customers get things done with whatever device
@@ -19,7 +19,7 @@ and kiosks to cars. For information about referring to these
 products, contact the team that provides the technology to the
 hardware partner. 
 
-#### Device interaction terms
+## Device interaction terms
 
 Use these verbs to talk about using devices and peripheral devices:
 
@@ -30,7 +30,7 @@ Use these verbs to talk about using devices and peripheral devices:
     refer to establishing a relationship between devices (direct or
     wireless) and connecting a device to a network or the internet.
 
-#### Preferred device terms
+## Preferred device terms
 
 **Term**|**Usage**
 --|--
@@ -40,7 +40,7 @@ Use these verbs to talk about using devices and peripheral devices:
 **tablet, laptop**|Use a more generic term unless you’re talking about a specific class of computers. Use *tablet* only to refer to a touchscreen computer without a permanently attached keyboard. Use *laptop* to refer to a portable computer with a permanently attached keyboard, with or without a touchscreen.
 **wearable device, fitness band**|Use only when it’s necessary to differentiate devices that are meant to be worn from other devices. To avoid confusion with the Microsoft Band product, avoid using *band* by itself as a noun.<br /><br />Avoid using *wearable* as a noun.
 
-#### Acceptable terms for specific references
+## Acceptable terms for specific references
 
 Use the following terms only when you need to be more specific than you can be by using the preferred terms.
 
@@ -52,7 +52,7 @@ Use the following terms only when you need to be more specific than you can be b
 **machine**|Use only to describe both physical computers and virtual machines in content about virtualization.
 **client or server, box**|Use *client* or *server* only if it's clear to the reader whether the client or server discussed is hardware or software.<br /><br />Use *client* or *server computer* if you need to clarify that you're discussing hardware.<br /><br />Don’t use *box* in reference to client and server hardware.
 
-#### **Peripheral devices and hardware components**
+## **Peripheral devices and hardware components**
 
 In general, use the most generic term that describes a peripheral device or hardware component. 
 

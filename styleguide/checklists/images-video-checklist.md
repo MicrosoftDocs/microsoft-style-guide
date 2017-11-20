@@ -1,4 +1,4 @@
-# Images and video checklist
+﻿# Images and video checklist
 
 Before using images in content, familiarize yourself with the guidelines for [bias-free communication](/style-guide/bias-free-communication); [accessible graphics, design, and media](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26700); and [copyrights and trademarks](/style-guide/legal-content/copyrights-trademarks).
 
@@ -10,7 +10,7 @@ Before using images in content, familiarize yourself with the guidelines for [bi
   - Make sure you have legal permission to use images. If you’re unsure, reach out to [your group’s paralegal](https://microsoft.sharepoint.com/sites/lcaweb/Pages/Applications/LegalContact.aspx). (This page requires Microsoft network access.)
   - Describe images using captions or alt text if they convey important information.
 
-#### Photos
+## Photos
 
 Use photos that are authentic, optimistic, and brave. 
 
@@ -19,7 +19,7 @@ Use photos that are authentic, optimistic, and brave.
 
  **Learn more** about [photos](/style-guide/images-video/photos).
 
-#### Illustrations
+## Illustrations
 
 Use vividly colored illustrations, stylized with active geometry, that tell an engaging story. 
 
@@ -28,7 +28,7 @@ Use vividly colored illustrations, stylized with active geometry, that tell an e
 
  **Learn more** about [illustrations](/style-guide/images-video/illustrations)[](/style-guide/images-video/photos).
 
-#### Screenshots
+## Screenshots
 
 Use screenshots sparingly to simplify complex procedures or concepts. 
 
@@ -39,7 +39,7 @@ Use screenshots sparingly to simplify complex procedures or concepts.
 
  **Learn more** about [screenshots](/style-guide/images-video/screenshots)[](/style-guide/images-video/illustrations).
 
-#### Network traffic flows
+## Network traffic flows
 
 Illustrate network traffic consistently.
 
@@ -58,7 +58,7 @@ Illustrate network traffic consistently.
 
  **Learn more** about [network traffic flows](/style-guide/images-video/network-traffic-flows).
 
-#### Video
+## Video
 
 Video is
 an interesting and effective way to communicate complex

@@ -1,4 +1,4 @@
-# Describing alternative input methods
+﻿# Describing alternative input methods
 
 If you use input-neutral methods in instructions, provide a topic
 that explains how to interact with the product using each available
@@ -10,7 +10,7 @@ methods. Use the [Accessibility Product Template](http://enable/RelatedResources
 
 **Learn more** To learn more about creating accessible content, see [Accessibility guidelines and requirements](/style-guide/accessibility/accessibility-guidelines-requirements).
 
-#### Mouse procedures
+## Mouse procedures
 
 Be consistent in how you list mouse procedures. For example,
 always list the mouse method before the keyboard method if
@@ -21,21 +21,21 @@ limited. For example, don’t use *Shift+click.* Instead, use *Select Shift whil
 **See also**  
 [Mouse and mouse interaction term collection](/style-guide/a-z-word-list-term-collections/term-collections/mouse-mouse-interaction-terms)
 
-#### Joystick procedures
+## Joystick procedures
 
 Assume that the mouse is the primary input device. Include joystick
 information in a table along with other alternative input devices. 
 
 Refer to joystick *controls*, not *options,* when you provide specific joystick procedures.
 
-#### Keyboard procedures
+## Keyboard procedures
 
 Always document keyboard procedures for accessibility, even though they're indicated in UI by underlined letters.
 
 **See also**  
 [Keys and keyboard shortcuts term collection](/style-guide/a-z-word-list-term-collections/term-collections/keys-keyboard-shortcuts) 
 
-#### Pen-computing and touch procedures
+## Pen-computing and touch procedures
 
 Use *tap* and *double-tap* instead of *click* and *double-click* when writing content specific to touching a screen or using a tablet pen. *Tap* means to press the screen with a finger or pen tip and then to lift it, usually quickly.
 
@@ -51,7 +51,7 @@ Use *tap* and *double-tap* instead of *click* and *double-click* when writing co
 **See also**  
 [Touch and pen interaction term collection](/style-guide/a-z-word-list-term-collections/term-collections/touch-pen-interaction-terms)
 
-#### Multiple input methods and branching within procedures
+## Multiple input methods and branching within procedures
 
 You can document multiple input methods in various
 ways, depending on the content design, space restrictions, and

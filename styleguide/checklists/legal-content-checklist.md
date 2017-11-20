@@ -1,11 +1,11 @@
-# Legal content checklist
+﻿# Legal content checklist
 
 Knowing
 and following Microsoft’s legal standards in content helps protect
 our intellectual property and minimizes legal risks. This checklist
 provides an overview of the most common legal issues in content. For complete information, visit [](https://microsoft.sharepoint.com/sites/lcaweb/home)[](https://microsoft.sharepoint.com/sites/lcaweb/home)[CELAWeb](https://microsoft.sharepoint.com/sites/lcaweb/home)*.* (This site requires Microsoft network access.) If you still have questions, contact ** [your group’s paralegal](https://microsoft.sharepoint.com/sites/lcaweb/Pages/Applications/LegalContact.aspx)*.* (This page requires Microsoft network access.)
 
-#### Legal issues and content
+## Legal issues and content
 
   - Review [Guidelines for engaging with social media](https://microsoft.sharepoint.com/sites/LCAWeb/Home/Marketing/Social-Media/Social-Media-Guidelines) before you post, tweet, pin, or otherwise participate in social media sites. (This page requires Microsoft network access.)
   - Use the checklists on the [Marketing self-service page](https://microsoft.sharepoint.com/sites/lcaweb/Home/Marketing/Checklists)
@@ -14,7 +14,7 @@ provides an overview of the most common legal issues in content. For complete in
     material, websites, white papers, and more. (This site requires Microsoft network access.)
   - Certain words, including *bundle, exclusive, free,* and *new,* have specific legal meanings. Review [Red flag terms in advertising and marketing](https://microsoft.sharepoint.com/sites/lcaweb/Home/Marketing/Marketing-and-Advertising-Content/Red-Flag-Terms) for the full list of these words and how to use them. (This page requires Microsoft network access.)
 
-#### Copyrights and trademarks 
+## Copyrights and trademarks 
 
   - Host websites
     and blogs on Microsoft.com, where copyright and trademark
@@ -37,7 +37,7 @@ provides an overview of the most common legal issues in content. For complete in
   - Only attribute (include a symbol and footnote) third-party trademarks if a specific contract requires it. 
   - Get approval from a [trademark licensing paralegal](https://microsoft.sharepoint.com/sites/LCAWeb/Home/Copyrights-Trademarks-and-Patents/Trademarks/Contacts) before using third-party logos. (This page requires Microsoft network access.)
 
-#### Fictitious names, domains, and addresses
+## Fictitious names, domains, and addresses
 
   - If you
     need fictitious names of people, businesses, or products in
@@ -50,7 +50,7 @@ provides an overview of the most common legal issues in content. For complete in
     or Example.net as generic domain names, or use Microsoft.com or
     your product's home page URL.
 
-#### Downloadable software 
+## Downloadable software 
 
   - Make sure
     you have legal distribution rights and distribution is appropriate

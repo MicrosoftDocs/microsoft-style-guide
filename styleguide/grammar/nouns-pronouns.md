@@ -1,6 +1,6 @@
-# Nouns and pronouns
+﻿# Nouns and pronouns
 
-#### Capitalization and proper nouns
+## Capitalization and proper nouns
 
 Proper nouns are one of a kind—unique people, places, and things. Capitalize proper nouns wherever they occur. 
 
@@ -33,7 +33,7 @@ If you’re not sure whether a term is a proper noun (and thus capitalized) or a
 
 Learn more For guidelines for sentence-style and title-style capitalization, see [Capitalization](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28261).
 
-#### Plural nouns
+## Plural nouns
 
 Some nouns can be challenging to use in the plural. The simple rules that follow will help. 
 
@@ -51,7 +51,7 @@ Number|Add an *s*.|the 1950s
 Variable|Don’t add (*s*) to a word to indicate that it could be either singular or plural unless you have no other choice. Use the plural form instead.|Wait for *x* minutes.
 
 
-#### Pronouns and gender
+## Pronouns and gender
 
 Don’t use *he* and *his* in references to a person whose gender is unknown. Instead, rewrite to use the second person (*you*). Or refer to a person’s role (reader, employee, or client, for example), or simply use *person* or *individual.*
 
@@ -65,7 +65,7 @@ If you can’t write around the problem, it’s OK to occasionally:
 
 Don’t alternate between masculine and feminine pronouns to refer to the same individual, and don’t use *he/she* or *s/he*.
 
-#### Noun and pronoun agreement
+## Noun and pronoun agreement
 
 Use a singular pronoun when the noun is singular, and a plural pronoun when the noun is plural. Collective nouns like *company* take a singular pronoun. Don’t use a plural pronoun (like *they*).
 

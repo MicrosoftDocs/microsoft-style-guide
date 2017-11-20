@@ -1,4 +1,4 @@
-# Content planning
+﻿# Content planning
 
 Great content starts with a plan that begins with these questions.
 
@@ -75,7 +75,7 @@ With these questions answered, you can narrow your approach. For example:
     supported by text might meet the customer and business need at a
     lower cost.
 
-#### Content ideas for specific user needs
+## Content ideas for specific user needs
 
 | Need | Content types | Examples |
 |---|---|---|

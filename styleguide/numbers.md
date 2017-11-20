@@ -1,11 +1,11 @@
-# Numbers
+﻿# Numbers
 
 Be consistent
 in your use of numbers. When you write about numbers used in
 examples or UI, duplicate them exactly as they appear in the UI. In
 all other content, follow the guidelines below.
 
-#### Numerals vs. words
+## Numerals vs. words
 
   - In body text, spell out whole numbers from zero through nine, and use numerals for 10 or greater. It’s OK to use numerals for zero through nine when you have limited space, such as in tables and UI. 
 
@@ -55,7 +55,7 @@ all other content, follow the guidelines below.
 | Percentages, no matter how small. Use a numeral plus _percent_ to specify a percentage. Use _percentage_ when you don't specify a quantity. | At least 50 percent of your system resources should be available.<br /> Only 1 percent of the test group was unable to complete the task.<br /> A large percentage of system resources should be available. |
 | Coordinates of tables or worksheets and numbered sections of documents. | row 3, column 4 <br /> Volume 2 <br /> Chapter 10 <br /> Part 5 <br /> step 1 |
 
-#### Commas in numbers
+## Commas in numbers
 
   Use commas in numbers that have four or more digits, regardless of how the numbers appear in the UI.
 
@@ -72,19 +72,19 @@ all other content, follow the guidelines below.
   15601 NE 40<sup>th</sup> Street  
   1.06377 units  
 
-#### Numbers in dates
+## Numbers in dates
 
   Don’t use ordinal numbers, such as *June* *first* or *October twenty-eighth*, for dates. Use a numeral instead: *June 1, October 28.*
 
   Global tip To avoid confusion, always spell out the name of the month. The positions of the month and day vary by country. For example, 6/12/2017 might be June 12, 2017 or December 6, 2017.
 
-#### Negative numbers
+## Negative numbers
 
   Form a negative number with an en dash, not a hyphen:
 
   **Example** –79
 
-#### Compound numbers
+## Compound numbers
 
   Hyphenate compound numbers when they're spelled out.
 
@@ -92,7 +92,7 @@ all other content, follow the guidelines below.
   twenty-five fonts  
   the twenty-first day  
 
-#### Fractions and decimals
+## Fractions and decimals
 
   - Express fractions in words, as symbols, or as decimals, whichever is most appropriate.  
   - In tables, align decimals on the decimal point. 
@@ -127,7 +127,7 @@ all other content, follow the guidelines below.
     1 inch  
     5 inches  
 
-#### Ordinal numbers
+## Ordinal numbers
 
   - Always spell out ordinal numbers.
 
@@ -139,7 +139,7 @@ all other content, follow the guidelines below.
   - Don’t use ordinal numbers, such as *June first,* for dates. 
   - Don’t add -*ly* to an ordinal number, as in *firstly* or *secondly*.
 
-#### Ranges of numbers
+## Ranges of numbers
 
   - In most cases, use *from* and *through* to describe a range of numbers.
 

@@ -1,15 +1,15 @@
-# Art
+﻿# Art
 
 Use these guidelines to create or choose images that are helpful, legal, and inoffensive throughout the world. See the [Global Readiness](https://microsoft.sharepoint.com/teams/celaGlobalReadiness/Pages/Home.aspx "Global Readiness website") website for more information. (This site requires Microsoft network access.)
 
-#### Color
+## Color
 
 **Choose carefully**. Colors may have religious, cultural, or political significance, particularly
 colors used on flags or for country- or region-specific holidays.
 Neutral and brand colors are usually OK. Your international program
 manager can provide guidance.
 
-#### Images
+## Images
 
 **Choose simple or generic images that are appropriate worldwide**. Soccer
 players and equipment, generic landscapes and settings, pens and

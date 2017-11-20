@@ -1,11 +1,11 @@
-# Network traffic flows
+﻿# Network traffic flows
 
 When
 you need to create a graphical representation of network traffic
 using industry or proprietary protocols, follow these guidelines.
 Always include a legend that explains the visual conventions.
 
-#### Use the Microsoft brand color palette
+## Use the Microsoft brand color palette
 
 Use
 a consistent color, such as white, gray, or a light accent color,
@@ -14,13 +14,13 @@ additional brand and accent colors. Text, graphics, and lines
 should contrast with the background to support people with limited
 vision. To learn more, see the [](https://microsoft.sharepoint.com/teams/BrandCentral/Guidelines/MS_color_and_accessibility_Oct2014.pdf "PDF guidelines for brand colors")[brand color guidelines](https://microsoft.sharepoint.com/teams/BrandCentral/Pages/The-Microsoft-brand-Core-elements-Color.aspx "Color guidelines on Brand Central site"). (This site requires Microsoft network access.)
 
-#### Use consistent text formatting
+## Use consistent text formatting
 
 Use sentence-style capitalization. To learn more, see [Capitalization](/style-guide/capitalization).
 
 Use fonts from the Segoe font family. To learn more, see [Using type](/style-guide/text-formatting/using-type/).
 
-#### Represent communication with arrows, lines, and labels
+## Represent communication with arrows, lines, and labels
 
 **Use arrows to indicate which computer initiates communication.**
 Use a single-headed arrow to indicate a single initiator of
@@ -46,7 +46,7 @@ Otherwise, add the label as a callout:
 
 ![](media/network-traffic-flows/572369390.png)
 
-#### Represent security boundaries with solid vertical lines
+## Represent security boundaries with solid vertical lines
 
 Use
 a solid vertical line to indicate a security boundary. Draw lines
@@ -56,7 +56,7 @@ Azure.
 
 ![](media/network-traffic-flows/881348326.png)
 
-#### Use standard network traffic syntax
+## Use standard network traffic syntax
 
 Use the following syntax to create the label for the network traffic flow:
 

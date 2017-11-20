@@ -1,4 +1,4 @@
-# Lists
+﻿# Lists
 
 Lists are a great way to present complex text in a way that's easy to scan. 
 
@@ -10,7 +10,7 @@ paragraphs in a list item, but don’t exceed that length too often.
 
 Make items in a list parallel. For example, each item should be a noun or a phrase that starts with a verb.
 
-#### Bulleted lists
+## Bulleted lists
 
 Use a bulleted list for things that have something in common but don’t need to appear in a particular order.
 
@@ -20,7 +20,7 @@ Use a bulleted list for things that have something in common but don’t need to
   - Add, delete, or modify a document.
   - Add, delete, or modify any information in the database. 
 
-#### Numbered lists
+## Numbered lists
 
 Use a numbered list for sequential items (like a procedure) or prioritized items (like a top 10 list). 
 
@@ -30,7 +30,7 @@ Use a numbered list for sequential items (like a procedure) or prioritized items
 2.  In **Username**, enter your name.
 3.  In **Password**, enter your password, and then select **OK**. 
 
-#### Introductory text
+## Introductory text
 
 Make
 sure the purpose of the list is clear. Introduce the list with a
@@ -45,7 +45,7 @@ your content will be localized, avoid lists where an introductory
 fragment is completed by the list items below it. This can be difficult
 to translate.
 
-#### Capitalization 
+## Capitalization 
 
 Begin
 each item in a list with a capital letter unless there's a reason not
@@ -53,7 +53,7 @@ to (for example, it’s a command that's always lowercase). If necessary,
 rewrite the list item so that all items begin with capital letters or
 all items begin with lowercase words.
 
-#### Punctuation
+## Punctuation
 
 In bulleted and numbered lists, end each list item with a period if:
 

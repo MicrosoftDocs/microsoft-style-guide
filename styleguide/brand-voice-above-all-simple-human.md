@@ -1,9 +1,9 @@
-# Microsoft's brand voice: above all, simple and human
+﻿# Microsoft's brand voice: above all, simple and human
 
 There’s *what* we say, our message. And there’s *how*
 we say it, our voice. 
 
-#### What do we mean by voice?
+## What do we mean by voice?
 
 The Microsoft voice is how we talk to people. It’s the interplay of personality, substance, tone, and style.
 
@@ -12,7 +12,7 @@ our voice is constant regardless of who we’re talking to or what we’re
 saying, we adapt our tone—from serious to empathetic to lighthearted—to
 fit the context and the customer's state of mind. 
 
-#### Three voice principles
+## Three voice principles
 
 Our voice hinges on crisp simplicity. Bigger ideas and fewer words. Less head, more heart. 
 
@@ -24,7 +24,7 @@ Our voice is:
   - **Crisp and clear**—We’re to the point. We write for scanning first, reading second. We make it simple above all.
   - **Ready to lend a hand**—We show customers we’re on their side. We anticipate their real needs and offer great information at just the right time.
 
-#### One brand, one voice
+## One brand, one voice
 
 Microsoft
 interacts directly with more than a billion customers worldwide. So
@@ -32,7 +32,7 @@ it’s crucial that our voice be distinctive yet consistent. Our unified
 voice sets us apart in a crowded marketplace and helps us communicate as
 one Microsoft to each customer, wherever we meet.
 
-#### A focus on the customer
+## A focus on the customer
 
 Our
 voice is the true reflection of Microsoft culture and our commitment to

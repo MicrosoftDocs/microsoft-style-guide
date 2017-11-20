@@ -1,4 +1,4 @@
-# Acronyms
+﻿# Acronyms
 
 Acronyms
 and abbreviations can have an adverse effect on clarity, voice, and
@@ -6,18 +6,18 @@ SEO. Although some acronyms are widely understood and preferred to the
 spelled-out term, others aren’t well-known or are familiar only to a
 specific group of customers. 
 
-#### Don’t create acronyms from product or feature names
+## Don’t create acronyms from product or feature names
 
 Always
 spell out Microsoft product and feature names to protect our trademarks
 and brand names. Exceptions require approval from CELA and your Brand
 Director—see your group’s style guide for details.
 
-#### Only use acronyms that your audience is familiar with
+## Only use acronyms that your audience is familiar with
 
 Check your group's editorial style guide to see whether an acronym is appropriate for your content. The [A–Z word list](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25512) also has guidelines for many common acronyms, and some acronyms are so widely used that they’re in *[The American Heritage Dictionary](https://ahdictionary.com/).* 
 
-#### If you have to use an acronym, also spell out the term for clarity
+## If you have to use an acronym, also spell out the term for clarity
 
 In
 general, include the acronym in parentheses following the spelled-out
@@ -34,7 +34,7 @@ it out.
 Conversations as a platform (CaaP) has the potential to make booking a flight as easy as sending a text message. Developers are also looking to CaaP to make computing more accessible to users of all abilities.   
 Learn how to connect a USB device to your Microsoft Surface.
 
-#### Don’t introduce acronyms that are used just once
+## Don’t introduce acronyms that are used just once
 
 If
 an acronym will appear only once in your content, just spell out the
@@ -42,7 +42,7 @@ term. Don’t introduce it in parentheses after the spelled-out version.
 
 **Exception** It’s OK to use both the spelled-out term and the acronym if both are needed for SEO, even if the acronym is used only once.
 
-#### Be careful with acronyms in titles and headings
+## Be careful with acronyms in titles and headings
 
 Avoid
 using an acronym for the first time in a title or heading, unless it’s a
@@ -51,7 +51,7 @@ first use of the acronym is in a title or heading, introduce the acronym
 (in parentheses, following the spelled-out term) in the following body
 text. 
 
-#### Lowercase the spelled-out term
+## Lowercase the spelled-out term
 
 Lowercase
 all words in the spelled-out form of an acronym except for proper
@@ -62,7 +62,7 @@ proper nouns and are capitalized when spelled out.
 infrastructure as a service (IaaS)  
 dynamic-link library (DLL)<br>High-Definition Multimedia Interface (HDMI)
 
-#### Use *a* or *an,* depending on pronunciation
+## Use *a* or *an,* depending on pronunciation
 
 Which article (*a* or *an*) you use depends on whether you pronounce the acronym like a word or pronounce each letter.
 
@@ -80,7 +80,7 @@ Form the plural of an acronym like you would any other noun. If the acronym stan
 three APIs  
 Microsoft Foundation Classes (MFC)
 
-#### Avoid the possessive form
+## Avoid the possessive form
 
 Unless an acronym refers to a person or an organization, avoid using the possessive form.
 

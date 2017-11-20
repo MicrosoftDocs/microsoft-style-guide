@@ -1,4 +1,4 @@
-# Scannable content
+﻿# Scannable content
 
 The
 volume of content available to customers is overwhelming. Part of a
@@ -16,7 +16,7 @@ Organize text into discrete components to support scanning. This section describ
 
 How you write is equally important to scanning.
 
-#### Put first things first
+## Put first things first
 
 Content on the first screen (also called *above the fold*)
 is the most likely to be read. Many readers won’t scroll
@@ -32,7 +32,7 @@ Buy or Download button there. If the navigation is on
 the left, put your most important information in the upper-left
 corner of the text pane.
 
-#### **Be brief, be bold, be clear**
+## **Be brief, be bold, be clear**
 
 Long
 spans of dense text are daunting and unapproachable to readers.
@@ -43,7 +43,7 @@ are easy to read—and more visually appealing.
 2.  Get to the point.
 3.  Then stop.
 
-#### Include navigation within long documents
+## Include navigation within long documents
 
 In
 general, keep web content short. When you have a
@@ -61,7 +61,7 @@ quickly get to what they need.
     contents with links to subheadings. 
   - Add *Back to top* links at the end of sections.
 
-#### Establish patterns in content
+## Establish patterns in content
 
 Consistent
 writing, design, and formatting create patterns, which help
@@ -84,7 +84,7 @@ When comparing things, use parallel sentence structures
 to describe each thing. Write headlines and bulleted list items
 using the same sentence structure, too.
 
-#### **Give paragraphs room—and keep them short**
+## **Give paragraphs room—and keep them short**
 
 Paragraphs
 usually have extra space between them. How much extra space

@@ -1,10 +1,10 @@
-# Keys and keyboard shortcuts
+﻿# Keys and keyboard shortcuts
 
 This term collection covers how to refer to keyboard shortcuts and the names of specific keys. 
 
 For information about describing customers' interactions with UI, see [Procedures and instructions](/style-guide/procedures-instructions/).
 
-#### Keyboard actions and access
+## Keyboard actions and access
 
 **Term**|**Usage**
 ---|---
@@ -19,7 +19,7 @@ For information about describing customers' interactions with UI, see [Procedure
 **shortcut key**|Don’t use in content for a general audience. Use *keyboard shortcut* instead.<br /><br />In content for developers or content about customizing the UI, it’s OK to distinguish between an *access key* and a *shortcut key*. An access key is a letter or number that users select to access UI controls that have text labels. For example, the *F* in Alt+F. A shortcut key is a key or key combination that users select to perform a common action. For example, Ctrl+V. If you use these terms, explain the difference.
 
 
-#### Key names
+## Key names
 
   - In general, use sentence capitalization for key names.<br />    **Examples**<br />    the Shift key<br />    the Page up key
   - Capitalize letter keys in general references.<br />    **Example** the K key
@@ -80,7 +80,7 @@ capitalization and spell it as it appears on the keyboard.
 **Windows logo key**|	Capitalize *Windows*. Use to refer to the *Windows logo key*.
 
 
-#### Special character names
+## Special character names
 
 Because
 special character names could be confused with an action (such as

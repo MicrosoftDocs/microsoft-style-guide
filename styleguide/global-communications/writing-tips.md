@@ -1,4 +1,4 @@
-# Writing tips
+﻿# Writing tips
 
 For
 the most part, content that’s easy to read tends to be easy to localize
@@ -9,7 +9,7 @@ guide, you’re off to a great start. Pay particular attention to:
   - [Grammar and parts of speech](/style-guide/grammar/grammar-and-parts-of-speech)
   - [Punctuation](/style-guide/punctuation/)
 
-#### Tips for all global content
+## Tips for all global content
 
 These practices will help localizers and non-native English speakers understand your writing.
 
@@ -49,7 +49,7 @@ your country.
 
 **Avoid linking more than three phrases or clauses** by using coordinate conjunctions such as *and*, *or*, or *but*. Better yet, avoid linking more than two. 
 
-#### Additional tips for machine translation
+## Additional tips for machine translation
 
 Writing
 style affects the quality of machine translation. These tips will help

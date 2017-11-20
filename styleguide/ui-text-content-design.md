@@ -1,4 +1,4 @@
-# UI text and content design
+﻿# UI text and content design
 
 We
 need storytellers at the heart of product development. The UI
@@ -10,7 +10,7 @@ needs.
 
 When you're writing and designing the user experience, follow these guidelines.
 
-#### Be simple, straightforward, and human
+## Be simple, straightforward, and human
 
 In
 products, we don’t need more content—we need content that does
@@ -29,7 +29,7 @@ Use these tips for writing in tight spaces.
     complex information—lead with what’s most important, and create layers
     for any details that are critical to the task at hand.
 
-#### Put the customer at the center
+## Put the customer at the center
 
 CEO
 Satya Nadella said, “Obsessing over our customers is everybody’s
@@ -53,7 +53,7 @@ As you shape UI text, know the answers to these questions:
     sign in? Confused about which option is best? Happy to
     have completed a task? Adjust your tone accordingly.
 
-#### Design content for customer needs
+## Design content for customer needs
 
 Good
 content meets the customer's needs. Great content exceeds them. The

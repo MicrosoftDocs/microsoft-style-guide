@@ -1,10 +1,10 @@
-# Web, software, and HTML considerations
+﻿# Web, software, and HTML considerations
 
 Web content attracts a worldwide audience. When you develop websites, keep in mind that customers may not have the latest browsers, broadband
 internet access isn't available everywhere, and internet service
 providers don't always charge a flat monthly rate for access. Follow these guidelines to support customers around the world.
 
-#### Support a variety of browsers and experiences
+## Support a variety of browsers and experiences
 
 **Follow [Microsoft Web Framework](http://www.getmwf.com/) design and publishing practices.**
 
@@ -25,7 +25,7 @@ available. Avoid hand-drawn fonts and fonts that are hard-coded in text or code.
 
 **Use the simplest possible design solutions.**
 
-#### Minimize download time
+## Minimize download time
 
 **Keep pages as small as possible,**
 and include text-only versions for larger content. Internet service
@@ -33,7 +33,7 @@ charges still vary greatly by locale and access method.
 
 **Design pages so text loads first**, followed by graphics, so pages are usable before they're finished loading. 
 
-#### Support multiple languages
+## Support multiple languages
 
 **Support reading from right to left or from top to bottom.**
 For example, provide key information, such as home
@@ -42,7 +42,7 @@ page.
 
 **Allow space for text expansion due to localization.**
 
-#### Comply with US and local laws as well as software availability
+## Comply with US and local laws as well as software availability
 
 **Follow laws pertaining to software restrictions.** Pay particular attention to downloads and multiproduct DVDs. 
 
@@ -62,7 +62,7 @@ Some products and formats aren't available worldwide.
 Localized versions of new and updated products and formats may lag
 behind US availability. 
 
-#### Globalize links
+## Globalize links
 
 **Link only to sites that are available and useful worldwide.**
 
@@ -70,7 +70,7 @@ behind US availability.
 
 **Identify links and cross-references that aren’t globally relevant.** If you must link to a site or refer to a publication that’s not globalized, inform your readers.
 
-#### Know where your email is going
+## Know where your email is going
 
 **Monitor subscriptions to your newsletter to determine the reader's location.**
 Newsletters emailed to people outside the United States must
