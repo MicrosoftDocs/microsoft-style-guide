@@ -10,48 +10,48 @@ methods. Use the [Accessibility Product Template](http://enable/RelatedResources
 
 **Learn more** To learn more about creating accessible content, see [Accessibility guidelines and requirements](/style-guide/accessibility/accessibility-guidelines-requirements).
 
-## Mouse procedures
+#### Mouse procedures
 
 Be consistent in how you list mouse procedures. For example,
 always list the mouse method before the keyboard method if
-you document both. Don???t combine keyboard and
+you document both. Don’t combine keyboard and
 mouse actions as if they were keyboard shortcuts unless space is
-limited. For example, don???t use *Shift+click.* Instead, use *Select Shift while clicking ???.*
+limited. For example, don’t use *Shift+click.* Instead, use *Select Shift while clicking ….*
 
 **See also**  
 [Mouse and mouse interaction term collection](/style-guide/a-z-word-list-term-collections/term-collections/mouse-mouse-interaction-terms)
 
-## Joystick procedures
+#### Joystick procedures
 
 Assume that the mouse is the primary input device. Include joystick
 information in a table along with other alternative input devices. 
 
 Refer to joystick *controls*, not *options,* when you provide specific joystick procedures.
 
-## Keyboard procedures
+#### Keyboard procedures
 
 Always document keyboard procedures for accessibility, even though they're indicated in UI by underlined letters.
 
 **See also**  
 [Keys and keyboard shortcuts term collection](/style-guide/a-z-word-list-term-collections/term-collections/keys-keyboard-shortcuts) 
 
-## Pen-computing and touch procedures
+#### Pen-computing and touch procedures
 
 Use *tap* and *double-tap* instead of *click* and *double-click* when writing content specific to touching a screen or using a tablet pen. *Tap* means to press the screen with a finger or pen tip and then to lift it, usually quickly.
 
 | Term | Usage |
 |---|---|
-| **tap** | Use to describe selecting a button, icon, or other element on the screen with a finger or the pen by tapping it once. Don???t use <em>tap on.</em> |
-| **double-tap** | Use to describe selecting an item by tapping twice in rapid succession. Hyphenate. Don???t use <em>double-tap on.</em> |
-| **tap and hold** | Use only if the app requires it to complete a specific interaction. Don???t use <em>touch and hold</em>. |
-| **pan** | Use to describe moving the screen in multiple directions at a controlled rate, as you would <em>pan</em> a camera to see different views. For contact gestures, use <em>pan</em> to refer to moving a finger, hand, or pen on the device surface to move through screens or menus at a controlled rate, rather than quickly skipping through content using the flick gesture. Don???t use <em>drag</em> or <em>scroll</em> as a synonym for <em>pan</em>. |
-| **flick** | Use to describe moving one or more fingers to scroll through items on the screen. Don???t use <em>scroll</em>. |
+| **tap** | Use to describe selecting a button, icon, or other element on the screen with a finger or the pen by tapping it once. Don’t use <em>tap on.</em> |
+| **double-tap** | Use to describe selecting an item by tapping twice in rapid succession. Hyphenate. Don’t use <em>double-tap on.</em> |
+| **tap and hold** | Use only if the app requires it to complete a specific interaction. Don’t use <em>touch and hold</em>. |
+| **pan** | Use to describe moving the screen in multiple directions at a controlled rate, as you would <em>pan</em> a camera to see different views. For contact gestures, use <em>pan</em> to refer to moving a finger, hand, or pen on the device surface to move through screens or menus at a controlled rate, rather than quickly skipping through content using the flick gesture. Don’t use <em>drag</em> or <em>scroll</em> as a synonym for <em>pan</em>. |
+| **flick** | Use to describe moving one or more fingers to scroll through items on the screen. Don’t use <em>scroll</em>. |
 | **swipe** | Use to describe a short, quick movement in the direction opposite to how the page scrolls. For example, if the page scrolls left or right, swipe an item up or down to select it.  |
 
 **See also**  
 [Touch and pen interaction term collection](/style-guide/a-z-word-list-term-collections/term-collections/touch-pen-interaction-terms)
 
-## Multiple input methods and branching within procedures
+#### Multiple input methods and branching within procedures
 
 You can document multiple input methods in various
 ways, depending on the content design, space restrictions, and
@@ -65,7 +65,7 @@ To make webpages easier to see, you can change the text, background, link, and h
 
 | Step | Mouse actions | Keyboard actions |
 |---|---|---|
-| **1** | On the **Start** menu: <br /> <ul><li>Click **Internet Explorer**.</li></ul> | Display the **Start** menu by pressing the Windows logo ??key: <br /><ul><li>Select **Internet Explorer** by using the arrow keys, and??then press Enter.</li> |
+| **1** | On the **Start** menu: <br /> <ul><li>Click **Internet Explorer**.</li></ul> | Display the **Start** menu by pressing the Windows logo  key: <br /><ul><li>Select **Internet Explorer** by using the arrow keys, and then press Enter.</li> |
 | **2** | In Internet Explorer:<br /><ul><li>Click the **Tools** menu.</li><li>Click **Internet Options**.</li></ul> | In Internet Explorer:<br /><ul><li>Select the **Tools** menu by pressing Alt+T.</li><li>Select **Internet Options** by pressing O.</li></ul> |
 
 **Document the primary input method**, and provide the alternative instructions in parentheses or separate sentences after the main instructions. 

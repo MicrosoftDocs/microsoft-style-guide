@@ -14,7 +14,7 @@ image maps.
 
 For information about designing for Microsoft.com, visit the [](https://getmscom.microsoft.com/style-guide/Pages/template_overview.aspx)[Microsoft Web Framework](http://getmwf.com/) site.
 
-## Design
+#### Design
 
 **Keep text within a rectangular grid** for visibility and ease of scanning. 
 
@@ -22,11 +22,11 @@ For information about designing for Microsoft.com, visit the [](https://getmscom
 
 **If you use frames**, provide alternative pages without them. 
 
-**Don???t use scrolling marquees** unless you have no other choice. 
+**Don’t use scrolling marquees** unless you have no other choice. 
 
-## Images, image maps, and multimedia
+#### Images, image maps, and multimedia
 
-**Provide clear descriptions that don???t require pictures**,
+**Provide clear descriptions that don’t require pictures**,
 or provide both. Make sure the reader can get the whole story
 from either the picture or the written description. 
 

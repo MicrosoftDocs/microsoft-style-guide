@@ -2,7 +2,7 @@
 
 In general, format punctuation in the same font style as the main content of a sentence or phrase.
 
-## Text describing interaction with the UI
+#### Text describing interaction with the UI
 
 In instructions
 that reference elements such as commands,
@@ -25,7 +25,7 @@ On the **Insert** menu, go to **Pictures**, and then select From File.
     Select **Accounts**  \> **Other accounts** \> **Add an account**.  
 (In this example, brackets aren't bold because they aren't part of the UI labels.)
 
-## Parentheses and brackets
+#### Parentheses and brackets
 
 Format
 parentheses and brackets in the font style of the

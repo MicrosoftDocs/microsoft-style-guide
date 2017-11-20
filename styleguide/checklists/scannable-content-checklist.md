@@ -4,7 +4,7 @@ Readers
 scan text to find what they need. To help them, write to support
 scanning, and organize content into discrete, scannable chunks. 
 
-## Scannable writing
+#### Scannable writing
 
   - Position important
     and interesting content in the areas of the page where readers
@@ -23,7 +23,7 @@ scanning, and organize content into discrete, scannable chunks.
 
  **Learn more** about [writing for scannability](/style-guide/scannable-content/).
 
-## Headings
+#### Headings
 
 Write short, specific headings to create a visual, scannable list of topics within content.
 
@@ -38,7 +38,7 @@ Write short, specific headings to create a visual, scannable list of topics with
 
  **Learn more** about [headings](/style-guide/scannable-content/headings).
 
-## Lists
+#### Lists
 
 Create lists to simplify complex content. 
 

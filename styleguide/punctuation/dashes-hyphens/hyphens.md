@@ -1,10 +1,10 @@
 # Hyphens
 
-For information about hyphenating specific technology words, see the [A???Z word list](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25512). For information about hyphenating common words, see [*The American Heritage Dictionary*](https://ahdictionary.com/) and [*The Chicago Manual of Style*](http://www.chicagomanualofstyle.org/home.html). (If you have Microsoft network access, you can use *[The Chicago Manual of Style Online](http://aka.ms/mslibrary/cms)* through MS Library.)
+For information about hyphenating specific technology words, see the [A–Z word list](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25512). For information about hyphenating common words, see [*The American Heritage Dictionary*](https://ahdictionary.com/) and [*The Chicago Manual of Style*](http://www.chicagomanualofstyle.org/home.html). (If you have Microsoft network access, you can use *[The Chicago Manual of Style Online](http://aka.ms/mslibrary/cms)* through MS Library.)
 
-## Predicate adjectives
+#### Predicate adjectives
 
-Don't hyphenate a predicate adjective (an adjective that complements the subject of a sentence and follows a linking verb) unless the *Microsoft Writing Style Guide* specifically recommends it. Check the [A???Z word list](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25512) to find out.
+Don't hyphenate a predicate adjective (an adjective that complements the subject of a sentence and follows a linking verb) unless the *Microsoft Writing Style Guide* specifically recommends it. Check the [A–Z word list](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25512) to find out.
 
 **Examples**  
 The text is left aligned.  
@@ -13,7 +13,7 @@ Many viruses are memory-resident.
 
 **Noun modifiers**
 
-In compound words that precede and modify a noun as a unit, don???t hyphenate:
+In compound words that precede and modify a noun as a unit, don’t hyphenate:
 
   - *Very*, when it precedes another modifier.
    Example Very fast test
@@ -52,9 +52,9 @@ two-sided arrow
 5-point star 
 y-coordinate values
 
-## Suspended compound modifiers
+#### Suspended compound modifiers
 
-  - Don???t use suspended compound modifiers, such as *left- and right-aligned text*, unless space is limited. Instead, spell out the entire phrase.
+  - Don’t use suspended compound modifiers, such as *left- and right-aligned text*, unless space is limited. Instead, spell out the entire phrase.
 
 **Example** upper-right or lower-right corner
 
@@ -62,11 +62,11 @@ y-coordinate values
 
 **Example** upper- or lower-right corner
 
-  - Don???t form suspended compound modifiers from one-word adjectives. 
+  - Don’t form suspended compound modifiers from one-word adjectives. 
 
 **Example** uppercase and lowercase letters
 
-## Compound nouns
+#### Compound nouns
 
 Hyphenate compound nouns when one of the words is abbreviated.
 
@@ -76,7 +76,7 @@ e-commerce
 
 Exception email
 
-## Compound numerals and fractions
+#### Compound numerals and fractions
 
 Hyphenate compound numerals and fractions.
 
@@ -86,21 +86,21 @@ one-third of the page
 
 **En dashes in compound adjectives**
 
-Use an en dash (???) instead of a hyphen in a compound adjective when:
+Use an en dash (–) instead of a hyphen in a compound adjective when:
 
   - The compound adjective includes an open compound.
 
 **Examples**  
-Windows 10???compatible products  
-dialog box???type options  
+Windows 10–compatible products  
+dialog box–type options  
 
   - Two or more of the elements are made up of hyphenated compounds (a rare occurrence). 
 
-## **Prefixes**
+#### **Prefixes**
 
-Avoid creating new words by adding prefixes to existing words. Rewrite to avoid creating a new word. If a word with a prefix is listed in [*The American Heritage Dictionary*](https://ahdictionary.com/) or the [A???Z word list](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25512), it???s OK to use in Microsoft content. 
+Avoid creating new words by adding prefixes to existing words. Rewrite to avoid creating a new word. If a word with a prefix is listed in [*The American Heritage Dictionary*](https://ahdictionary.com/) or the [A–Z word list](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25512), it’s OK to use in Microsoft content. 
 
-In general, don???t include a hyphen after the following prefixes unless omitting the hyphen could confuse the reader.
+In general, don’t include a hyphen after the following prefixes unless omitting the hyphen could confuse the reader.
 
 |  |  |  | |  |
 | ------ | ----- | ------ | ---- | ----- |
@@ -119,7 +119,7 @@ pro-Microsoft
 
 A prefix affects a word, not a phrase. For example, instead of *non-security related*, use *unrelated to security*.
 
-When adding a prefix to a stem word results in a double vowel and each vowel is pronounced, don???t use a hyphen. 
+When adding a prefix to a stem word results in a double vowel and each vowel is pronounced, don’t use a hyphen. 
 
 **Examples**  
 reenter  
@@ -128,7 +128,7 @@ cooperate
 
 For more information about using prefixes, see [The Chicago Manual of Style](http://www.chicagomanualofstyle.org/home.html). (If you have Microsoft network access, you can use *[The Chicago Manual of Style Online](http://aka.ms/mslibrary/cms)* through MS Library.)
 
-## Capitalization in hyphenated compound words
+#### Capitalization in hyphenated compound words
 
 **Capitalize**  
 any part of a hyphenated compound word that would be capitalized if there were no hyphen. For example, capitalize the first word if it's the first word of a sentence or heading.  
@@ -139,7 +139,7 @@ Capitalize the final part of a hyphenated compound word if it's the last word in
 
 Example Boone, Nettie. *The App E-Book.* Redmond, WA: Lucerne Publishing, 2015. 
 
-## Words hyphenated in Microsoft usage
+#### Words hyphenated in Microsoft usage
 
 Hyphenate the following words in Microsoft content.
 

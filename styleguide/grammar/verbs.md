@@ -2,32 +2,32 @@
 
  Using precise verbs in the right way helps you write clear and simple sentences.
 
-## Verb tense
+#### Verb tense
 
 In
 the present tense, the action is happening now. The present tense
 is often easier to read and understand than the past or future
-tense. It???s the best choice for most content. 
+tense. It’s the best choice for most content. 
 
 Examples
 The Windows Start screen is uniquely yours, personalized with your favorite apps, people, photos, and colors. 
 Windows Update installs important updates automatically.
 
-## Mood of verbs
+#### Mood of verbs
 
 The
-mood of a verb expresses the writer???s intent. Most of the time,
-use the indicative mood. It???s crisp and straightforward without
-being bossy. Don???t switch moods within a sentence.
+mood of a verb expresses the writer’s intent. Most of the time,
+use the indicative mood. It’s crisp and straightforward without
+being bossy. Don’t switch moods within a sentence.
 
 **Mood**|**Use for**|**Examples**
 --|--|--
-**Indicative**|Statements of fact, questions, assertions, and explanations???most Microsoft content.|Style sheets are powerful tools for formatting complex documents.
+**Indicative**|Statements of fact, questions, assertions, and explanations—most Microsoft content.|Style sheets are powerful tools for formatting complex documents.
 **Imperative**|Instructions, procedures, direct commands, requests, and headings for columns that list customer actions.|Enter a file name, and then save the file.<br />**To do this        Select this**
-**Subjunctive**|Wishes, hypotheses, and suggestions???avoid.|We recommend that you be careful about opening email attachments.
+**Subjunctive**|Wishes, hypotheses, and suggestions—avoid.|We recommend that you be careful about opening email attachments.
 
 
-## Active and passive voice
+#### Active and passive voice
 
 Voice is either active or passive. Keep it active whenever you can.
 
@@ -37,10 +37,10 @@ Voice is either active or passive. Keep it active whenever you can.
 **Voice**|**Uses**|**Examples**
 --|--|--
 **Active**|Most Microsoft content|Divide your document into as many sections as you want. <br />Office 365 includes the Office 2016 apps for PC and Mac.
-**Passive**|<ul><li>Avoiding condescending text or blaming the customer, especially in errors, warnings, or notifications</ul></li> <ul><li>Avoiding awkward constructions</ul></li> <ul><li>Emphasizing the receiver of the action</ul></li> |That site can???t be found. Double-check the site address in the Address bar.<br />When the user clicks **OK**, the transaction is committed. (in content for developers) 
+**Passive**|<ul><li>Avoiding condescending text or blaming the customer, especially in errors, warnings, or notifications</ul></li> <ul><li>Avoiding awkward constructions</ul></li> <ul><li>Emphasizing the receiver of the action</ul></li> |That site can’t be found. Double-check the site address in the Address bar.<br />When the user clicks **OK**, the transaction is committed. (in content for developers) 
 
 
-## Verb agreement
+#### Verb agreement
 
 Verbs
 have singular and plural forms. Use the verb form that

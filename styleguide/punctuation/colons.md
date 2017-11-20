@@ -1,6 +1,6 @@
 # Colons
 
-## Preceding lists
+#### Preceding lists
 
 Include a colon at the end of a phrase that directly introduces a list.
 
@@ -13,12 +13,12 @@ We can create a backup of all sorts of things to make the transition easier, inc
 
 To learn more, see [Lists](/style-guide/scannable-content/lists).
 
-## Within sentences
+#### Within sentences
 
 Use colons sparingly at the end of a statement followed by a second statement that expands on it. 
 
 Example Microsoft
-ActiveSync doesn???t recognize this device for one of two reasons:
+ActiveSync doesn’t recognize this device for one of two reasons:
 the device wasn't connected properly or the device isn't a
 smartphone.
 

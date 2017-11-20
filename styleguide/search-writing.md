@@ -9,7 +9,7 @@ If you want to learn more about search engine optimization, the [MSCOM SEO libra
 
 As you write, follow these guidelines to help customers find relevant content.
 
-## Keywords
+#### Keywords
 
 Keywords are the terms customers use when they search for content. To help customers find your content in search engines, front-load keywords in headings, subheadings, and page descriptions.
 
@@ -20,7 +20,7 @@ The search terms that customers use aren't necessarily the same terms you would 
   - [Google Analytics](https://analytics.google.com/analytics/web/)
 
 When
-you???ve identified the keywords that apply to your content, use
+you’ve identified the keywords that apply to your content, use
 them as early and as often as possible (without being contrived or
 repetitious) in these places:
 
@@ -36,7 +36,7 @@ repetitious) in these places:
 
 If your content is video, audio, or images, include keywords in a nearby text description and in alt text. 
 
-## Links and backlinks
+#### Links and backlinks
 
 Linking
 to supporting information is a good way to stick to the point and
@@ -57,5 +57,5 @@ your keywords, the more weight the backlink carries.
 
 Never
 create backlinks just to improve your site's search ranking.
-Search practices that don???t make sense for your content rarely
+Search practices that don’t make sense for your content rarely
 work and often backfire.
