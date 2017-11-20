@@ -23,7 +23,8 @@ Always use a numeral with *percent*, no matter how small.
 At least 50 percent of your system resources should be available.  
 Only 1 percent of the test group was unable to complete the task.   
 
-**Exception** When you use *percent* in column headings to name the rate percent term in the percentage formula (base \* rate percent = percentage), you can use *percent* without a numeral. (See the following examples.)
+**Exception**  
+When you use *percent* in column headings to name the rate percent term in the percentage formula (base \* rate percent = percentage), you can use *percent* without a numeral. (See the following examples.)
 
 Use *percentage*: 
 
