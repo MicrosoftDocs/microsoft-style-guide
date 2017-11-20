@@ -23,20 +23,18 @@ Always use a numeral with *percent*, no matter how small.
 At least 50 percent of your system resources should be available.  
 Only 1 percent of the test group was unable to complete the task.   
 
-**Exception**  
-When you use *percent*  
-in column headings to name the rate percent term in the percentage formula (base \* rate percent = percentage), you can use *percent* without a numeral. (See the following examples.)
+**Exception** When you use *percent* in column headings to name the rate percent term in the percentage formula (base \* rate percent = percentage), you can use *percent* without a numeral. (See the following examples.)
 
-Use *percentage:*  
+Use *percentage*: 
 
   - When you don't specify a quantity, such as in the phrase *a large percentage of system resources.*
   - When applying the percentage formula (base \* rate percent = percentage)*.*
 
 **Examples**  
 
-| List price | Discount percent | Discount percentage |
-|---|---|---|
-| $200 | 5% | $10.00 |
+| List price | Discount percent | Discount percentage |Sales Price|
+|---|---|---|---|
+| $200 | 5% | $10.00 |$190.00|
 
 10.00 USD is the percentage discount calculated by applying a 10 percent discount to a list price of 100.00 USD. $100.00 \* 10% = $10.00. 
 
