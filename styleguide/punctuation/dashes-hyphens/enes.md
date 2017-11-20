@@ -40,7 +40,7 @@ Don’t use spaces on either side of an en dash.
 12 – 3 = 9   
 2:15 PM 12/1/16 ‒ 4:45 PM 4/1/16.
 
-In text, don’t use an en dash in a range of times. Use *to* instead: *10:00 AM to 2:00 PM. * In a schedule or listing, use an en dash with no spaces around it: *10:00 AM–2:00 PM*. 
+In text, don’t use an en dash in a range of times. Use *to* instead: *10:00 AM to 2:00 PM.* In a schedule or listing, use an en dash with no spaces around it: *10:00 AM–2:00 PM*. 
 
 **Exception** In a date range that includes two times and two dates, add spaces around the en dash.  
 **Examples**  
