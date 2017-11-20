@@ -21,7 +21,8 @@ In those cases, or after youâ€™ve spelled out the term on the first mention, itâ
     **Examples**  
 512 gigabytes (GB) of RAM   
 From 1 GB to a maximum of 2 GB  
-23 MB/dayup to 2 terabytes of physical memory with 8 terabytes of address space  
+23 MB/day  
+up to 2 terabytes of physical memory with 8 terabytes of address space  
 200 MB of available hard-drive space  
 a 650-MB limit
 
