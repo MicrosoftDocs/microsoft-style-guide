@@ -18,8 +18,8 @@ the present tense, the action is happening now. The present tense
 is often easier to read and understand than the past or future
 tense. It’s the best choice for most content. 
 
-Examples
-The Windows Start screen is uniquely yours, personalized with your favorite apps, people, photos, and colors. 
+**Examples**  
+The Windows Start screen is uniquely yours, personalized with your favorite apps, people, photos, and colors.  
 Windows Update installs important updates automatically.
 
 ## Mood of verbs
