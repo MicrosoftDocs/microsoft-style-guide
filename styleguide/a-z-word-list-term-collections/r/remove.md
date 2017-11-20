@@ -13,7 +13,7 @@ Don't use *remove* to mean *delete*.
 
 Use *remove*:
 
-  - To describe taking an item off a list in a dialog box that has Add and Remove buttons. 
+  - To describe taking an item off a list in a dialog box that has **Add** and **Remove** buttons. 
   - To
     describe taking a toolbar button off a toolbar or hiding displayed
     data, such as columns in a spreadsheet, without deleting the
