@@ -36,44 +36,44 @@ Hyphenate two or more words that precede and modify a noun as a unit if:
 
   - Confusion might result without the hyphen.
 
-**Examples**  
-built-in drive  
-high-level-language compiler  
-read-only memory  
-lower-left corner  
-floating-point decimal  
-line-by-line scrolling  
-scrolling line by line 
-up-to-date information 
+	**Examples**  
+	built-in drive  
+	high-level-language compiler  
+	read-only memory  
+	lower-left corner  
+	floating-point decimal  
+	line-by-line scrolling  
+	scrolling line by line 
+	up-to-date information 
 
   - One of the words is a past or present participle (a verb form ending in *-ed* or -*ing* and used as an adjective or noun).
 
-**Examples**  
-left-aligned text  
-free-flowing form  
-well-defined schema  
-The schema is well defined.  
+	**Examples**  
+	left-aligned text  
+	free-flowing form  
+	well-defined schema  
+	The schema is well defined.  
 
   - The modifier is a number or single letter plus a noun or participle.
 
-**Examples**
-two-sided arrow 
-5-point star 
-y-coordinate values
+	**Examples**
+	two-sided arrow 
+	5-point star 
+	y-coordinate values
 
 ## Suspended compound modifiers
 
   - Don’t use suspended compound modifiers, such as *left- and right-aligned text*, unless space is limited. Instead, spell out the entire phrase.
 
-**Example** upper-right or lower-right corner
+	**Example** upper-right or lower-right corner
 
   - If you use a suspended compound modifier, include a hyphen with both adjectives. The first hyphen is followed by a space.
 
-**Example** upper- or lower-right corner
+	**Example** upper- or lower-right corner
 
   - Don’t form suspended compound modifiers from one-word adjectives. 
 
-**Example** uppercase and lowercase letters
+	**Example** uppercase and lowercase letters
 
 ## Compound nouns
 
@@ -99,13 +99,13 @@ Use an en dash (–) instead of a hyphen in a compound adjective when:
 
   - The compound adjective includes an open compound.
 
-**Examples**  
-Windows 10–compatible products  
-dialog box–type options  
+	**Examples**  
+	Windows 10–compatible products  
+	dialog box–type options  
 
   - Two or more of the elements are made up of hyphenated compounds (a rare occurrence). 
 
-## **Prefixes**
+	## **Prefixes**
 
 Avoid creating new words by adding prefixes to existing words. Rewrite to avoid creating a new word. If a word with a prefix is listed in [*The American Heritage Dictionary*](https://ahdictionary.com/) or the [A–Z word list](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25512), it’s OK to use in Microsoft content. 
 
