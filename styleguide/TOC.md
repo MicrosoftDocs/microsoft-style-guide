@@ -917,7 +917,7 @@
 ## [Exclamation points](punctuation/dashes-hyphens/exclamation-points.md)
 ## [Slashes](punctuation/dashes-hyphens/slashes.md)
 # [Responsive content](responsive-content.md)
-## [Scannable content](scannable-content/index.md)
+# [Scannable content](scannable-content/index.md)
 ## [Headings](scannable-content/headings.md)
 ## [Lists](scannable-content/lists.md)
 ## [Pull quotes](scannable-content/pull-quotes.md)
