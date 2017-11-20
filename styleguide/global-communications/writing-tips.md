@@ -28,7 +28,7 @@ usually indicates a complex sentence. Consider rewriting it or breaking
 it into multiple sentences. 
 **Replace complex sentences and paragraphs** with lists and tables.
 
-**Include *that* and *who.*** They help to clarify the sentence structure. 
+**Include *that* and *who*.** They help to clarify the sentence structure. 
 
 **Examples**  
 Inspect the database to verify that all tables, data, and relationships were correctly migrated.
@@ -77,9 +77,9 @@ the same word to refer to multiple concepts or features.
 
 **Limit your use of sentence fragments.** Sentence fragments can be hard to translate.
 
-**Use words ending in *–ing* carefully**.A word ending in *–ing* can be a verb, an adjective, or a noun. Use the sentence structure and optional words to clarify the role of the *–ing* word.
+**Use words ending in *–ing* carefully**. A word ending in *–ing* can be a verb, an adjective, or a noun. Use the sentence structure and optional words to clarify the role of the *–ing* word.
 
-**Use words ending in *–ed* carefully**.A word ending in *-ed* can be a modifier or part of a verb phrase. Use the sentence structure and optional words to clarify the role of the *–ed* word.
+**Use words ending in *–ed* carefully**. A word ending in *-ed* can be a modifier or part of a verb phrase. Use the sentence structure and optional words to clarify the role of the *–ed* word.
 
   - Add a determiner *(a, an, the, this)* before or after the *–ed* word.  
 Example  
@@ -89,7 +89,7 @@ Example
 Configure limits for the backup **that are based** on the amount of storage space available.
   - Split the sentence in two.  
 Example  
-Configure limits for the backup. These limits should be based on the amount of storage space available. **
+Configure limits for the backup. These limits should be based on the amount of storage space available.
   - Rewrite the sentence to avoid the *–ed* word.  
 Example  
 Configure limits for the backup. **Base the limits** on the amount of storage space available.
