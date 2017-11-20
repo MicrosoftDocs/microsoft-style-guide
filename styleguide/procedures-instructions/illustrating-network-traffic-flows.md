@@ -39,21 +39,21 @@ communication.
 
 With both types of arrows, subsequent communication is two-way.
 
-![](media/network-traffic-flows/589503366.PNG)
+![](media/illustrating-network-traffic-flows/589503366.PNG)
 
 **Use line styles to distinguish different traffic flows.**
 
-![](media/network-traffic-flows/1252879060.png)
+![](media/illustrating-network-traffic-flows/1252879060.png)
 
 Choose line colors from the Microsoft color palette that contrast with the image background and are distinct when printed or viewed in black and white. See the [brand color guidelines](https://microsoft.sharepoint.com/teams/BrandCentral/Pages/The-Microsoft-brand-Core-elements-Color.aspx "Color guidelines on Brand Central site") to learn more. (This site requires Microsoft network access.)
 
 **Label specific network traffic.** If possible, overlay the label onto the line: 
 
-![](media/network-traffic-flows/83067036.png)
+![](media/illustrating-network-traffic-flows/83067036.png)
 
 Otherwise, add the label as a callout:
 
-![](media/network-traffic-flows/572369390.png)
+![](media/illustrating-network-traffic-flows/572369390.png)
 
 ## Represent security boundaries with solid vertical lines
 
@@ -63,7 +63,7 @@ that indicate network traffic flow across the vertical line. This
 example shows firewalled and partitioned networks in Microsoft
 Azure.
 
-![](media/network-traffic-flows/881348326.png)
+![](media/illustrating-network-traffic-flows/881348326.png)
 
 ## Use standard network traffic syntax
 
