@@ -18,4 +18,4 @@ should be selected.
 
 HTML code *&\#150;*
 
-**See also** [Keys and keyboard shortcuts term collection](https://worldready.cloudapp.net/StyleGuide/minus%20sign%20\(-\))
+**See also** [Keys and keyboard shortcuts term collection](../term-collections/keys-keyboard-shortcuts.md)
