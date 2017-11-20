@@ -9,7 +9,7 @@ ms.prod: non-product specific
 
 # runtime
 
-Use *runtime*:
+Use *runtime:*
 
   - To indicate an environment required to run apps that aren't compiled to machine language. 
   - To indicate the time during which an application is running.
