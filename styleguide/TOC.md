@@ -44,7 +44,7 @@
 ### [alphabetical](a-z-word-list-term-collections/a/alphabetical.md)
 ### [alphanumeric](a-z-word-list-term-collections/a/alphanumeric.md)
 ### [AM, PM](a-z-word-list-term-collections/a/am-pm.md)
-### [ampersand (&amp;)](a-z-word-list-term-collections/a/ampersand.md)
+### [ampersand (&)](a-z-word-list-term-collections/a/ampersand.md)
 ### [and so on](a-z-word-list-term-collections/a/and-so-on.md)
 ### [and/or](a-z-word-list-term-collections/a/and-or.md)
 ### [antialiasing](a-z-word-list-term-collections/a/antialiasing.md)
