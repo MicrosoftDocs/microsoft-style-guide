@@ -15,5 +15,5 @@ Don't use *console* as a synonym for *snap-in*.
 
 **See also**   
 [command line](/style-guide/a-z-word-list-term-collections/c/command-line)  
-[command prompt](https://worldready.cloudapp.net/Styleguide/Read?id=1413&topicid=5119)  
+[command prompt](../c/command-prompt.md)  
 [snap-in](/style-guide/a-z-word-list-term-collections/s/snap-in)
