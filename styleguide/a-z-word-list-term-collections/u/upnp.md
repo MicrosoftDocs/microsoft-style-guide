@@ -11,7 +11,7 @@ ms.prod: non-product specific
 
 Don't spell out as *Universal Plug and Play*. Don't use as a synonym for *Plug and Play* or *PnP*.
 
-Use the trademark symbol (™ &trade;) on the first mention. Include the following in the trademark attribution sentence:
+Use the trademark symbol (<div>™</div>) on the first mention. Include the following in the trademark attribution sentence:
 
 > UPnP™ is a certification mark of the UPnP™ Implementers Corporation.
 
