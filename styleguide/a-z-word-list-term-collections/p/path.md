@@ -22,7 +22,7 @@ indicate a path, first type the drive name, followed by a colon and a
 backslash. Then type the name of each folder in the order that you would
 open it, separated by a backslash, as follows:
 
-    C:\Documents and Settings\user1
+> C:\Documents and Settings\user1
 
 Use *address* or *URL,* not *path,* to refer to a location on the internet.
 
