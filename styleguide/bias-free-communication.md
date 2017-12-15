@@ -25,8 +25,8 @@ work force, staff, personnel|manpower
 **Avoid masculine pronouns.** Don’t use *he* and *his* in references to a person whose gender is unknown. Instead, rewrite to use *the* instead of *his* or the second person (*you*). Or refer to a person’s role (reader, employee, or client, for example), or simply use *person* or *individual.* For more information, see [Nouns and pronouns](/style-guide/grammar/nouns-pronouns).
 
 **Examples**  
-If you have the appropriate rights, you can set other users’ passwords.
-A user with the appropriate rights can set other users' passwords.
+If you have the appropriate rights, you can set other users’ passwords.  
+A user with the appropriate rights can set other users' passwords.  
 Select the name of the person, select **Make a phone call**, and then choose the number you'd like to dial.
 
 **Don’t use slang**, especially if it could be considered profane or derogatory, such as *pimp* or *bitch*. 
