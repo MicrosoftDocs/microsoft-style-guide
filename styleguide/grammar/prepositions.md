@@ -16,9 +16,9 @@ prepositional phrase is a combination of a preposition and a noun that
 modifies or describes some part of a sentence. In the following
 sentence:
 
-The reading pane displays the content of the selected message.
+> The reading pane displays the content of the selected message.
 
-The prepositional phrase, *of the selected message**,* describes the noun, *the content.*
+The prepositional phrase, *of the selected message,* describes the noun, *the content.*
 
 Avoid
 joining more than two prepositional phrases. Long chains of
