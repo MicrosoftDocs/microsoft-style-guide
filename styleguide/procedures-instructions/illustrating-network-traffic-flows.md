@@ -1,5 +1,5 @@
 ---
-title: Network traffic flows - Microsoft Style Guide
+title: Illustrating network traffic flows - Microsoft Style Guide
 author: pallep
 ms.author: pallep
 ms.date: 11/19/2016
@@ -7,7 +7,7 @@ ms.topic: article
 ms.prod: non-product specific
 ---
 
-# Network traffic flows
+# Illustrating network traffic flows
 
 When
 you need to create a graphical representation of network traffic
