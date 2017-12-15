@@ -892,7 +892,7 @@
 ## [Describing interactions with UI](procedures-instructions/describing-interactions-with-ui.md)
 ## [Describing alternative input methods](procedures-instructions/describing-alternative-input-methods.md)
 ## [Formatting text in instructions](procedures-instructions/formatting-text-in-instructions.md)
-## [Network traffic flows](procedures-instructions/illustrating-network-traffic-flows.md)
+## [Illustrating network traffic flows](procedures-instructions/illustrating-network-traffic-flows.md)
 # [Punctuation](punctuation/index.md)
 ## [Formatting punctuation](punctuation/formatting-punctuation.md)
 ## [Periods](punctuation/periods.md)
