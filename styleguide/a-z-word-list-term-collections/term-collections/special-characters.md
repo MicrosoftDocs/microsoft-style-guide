@@ -53,7 +53,7 @@ Use these terms to describe the special characters shown.
 |<div><b>( )</b></div>|<div>parentheses (plural), opening or closing parenthesis (singular)</div>|
 |<div><b>%</b></div>|<div>percent</div>|
 |<div><b>π</b></div>|<div>pi HTML code &amp;#928</div>|
-|<div><b>|</b></div>|<div>pipe, vertical bar, or <b>OR</b> logical operator</div>|
+|<div><b>\|</b></div>|<div>pipe, vertical bar, or <b>OR</b> logical operator</div>|
 |<div><b>+</b></div>|<div>plus sign<br /><br />Don’t use to replace words like <em>and, over,</em> or <em>plus.<br /><br /></em><b>See</b> [plus sign (+)](../p/plus-sign.md)</div>|
 |<div><b>±</b></div>|<div>plus or minus sign HTML code &amp;#177</div>|
 |<div><b>?</b></div>|<div>question mark</div>|
