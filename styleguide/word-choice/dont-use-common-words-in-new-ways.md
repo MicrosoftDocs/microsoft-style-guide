@@ -29,9 +29,9 @@ Most people know the common definition of words—usually the one that appears f
   - Don’t use verbs as nouns or nouns as verbs.  
     **Examples**  
 
-**Use this**|**Not this**
---|--
-open an invitation|open an invite
-affect performance|impact performance
-download the paper|get the download
-respond to the request|respond to the ask
+    |**Use this**|**Not this**|
+    |--|--|
+    |open an invitation|open an invite|
+    |affect performance|impact performance|
+    |download the paper|get the download|
+    |respond to the request|respond to the ask|
