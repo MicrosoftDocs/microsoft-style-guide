@@ -1,4 +1,4 @@
-﻿---
+---
 title: Word choice - Microsoft Style Guide
 author: pallep
 ms.author: pallep

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Capitalization - Microsoft Style Guide
 author: pallep
 ms.author: pallep
