@@ -25,6 +25,6 @@ To open **Internet Options**, select **Start**, select **Control Panel**, and th
 
 **See also**  
 [add-in, add-on](/style-guide/a-z-word-list-term-collections/a/add-in-add-on)  
-[app](/style-guide/a-z-word-list-term-collections/a/app-application)[, application](/style-guide/a-z-word-list-term-collections/a/app-application)  
+[app, application](/style-guide/a-z-word-list-term-collections/a/app-application)  
 [applet](/style-guide/a-z-word-list-term-collections/a/applet)  
 [tool](/style-guide/a-z-word-list-term-collections/t/tool)
