@@ -182,7 +182,6 @@
 ### [corrupted](a-z-word-list-term-collections/c/corrupted.md)
 ### [country or region](a-z-word-list-term-collections/c/country-or-region.md)
 ### [crash](a-z-word-list-term-collections/c/crash.md)
-### [current](a-z-word-list-term-collections/c/current.md)
 ### [cut, cut-and-paste](a-z-word-list-term-collections/c/cut-and-paste.md)
 ### [cyber-](a-z-word-list-term-collections/c/cyber.md)
 ## D
@@ -494,7 +493,6 @@
 ### [microprocessor](a-z-word-list-term-collections/m/microprocessor.md)
 ### [Microsoft](a-z-word-list-term-collections/m/microsoft.md)
 ### [Microsoft account](a-z-word-list-term-collections/m/microsoft-account.md)
-### [Microsoft Edge](a-z-word-list-term-collections/m/microsoft-edge.md)
 ### [Microsoft Software License Terms](a-z-word-list-term-collections/m/software-license-terms.md)
 ### [midnight](a-z-word-list-term-collections/m/midnight.md)
 ### [Minimize button, minimize](a-z-word-list-term-collections/m/minimize-button-minimize.md)
