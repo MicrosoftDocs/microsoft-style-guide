@@ -21,6 +21,7 @@ Your group's editorial style guide might contain additional conventions.
 [Capitalization](/style-guide/capitalization)  
 [Formatting developer text elements](/style-guide/developer-content/formatting-developer-text-elements)  
 [Procedures and instructions](/style-guide/procedures-instructions/)
+<br /><br />
 
 **Element**|**Convention**|**Example**
 --|--|--
