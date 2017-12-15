@@ -42,7 +42,7 @@ For information about using commas in numbers, see [](https://worldready.cloudap
 
   - To join independent clauses when you don't use a conjunction. (Use a semicolon instead.)
 
-    **Example** Select Options; then select Enable fast saves.
+    **Example** Select **Options**; then select **Enable fast saves.**
 
   - Between verbs in a compound predicate (when two verbs apply to a single subject).
 
