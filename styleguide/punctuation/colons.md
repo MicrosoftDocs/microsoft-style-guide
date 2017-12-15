@@ -26,8 +26,8 @@ To learn more, see [Lists](/style-guide/scannable-content/lists).
 
 Use colons sparingly at the end of a statement followed by a second statement that expands on it. 
 
-Example Microsoft
-ActiveSync doesn’t recognize this device for one of two reasons:
+**Example**  
+Microsoft ActiveSync doesn’t recognize this device for one of two reasons:
 the device wasn't connected properly or the device isn't a
 smartphone.
 

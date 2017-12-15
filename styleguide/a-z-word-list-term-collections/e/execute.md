@@ -13,5 +13,5 @@ Don't use except to follow the UI. Use *run* instead. Even if the UI includes *e
 
 **Examples**  
 To run the program, select **Execute**.  
-Commands are run in the order in which they're listed in the file. 
+Commands are run in the order in which they're listed in the file.  
 A thread is the basic unit of program execution.

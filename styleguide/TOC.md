@@ -889,7 +889,6 @@
 ## [Words ending in -ing](grammar/ing-words.md)
 ## [Prepositions](grammar/prepositions.md)
 ## [Dangling and misplaced modifiers](grammar/dangling-misplaced-modifiers.md)
-# Images and video
 # [Numbers](numbers.md)
 # [Procedures and instructions](procedures-instructions/index.md)
 ## [Writing step-by-step instructions](procedures-instructions/writing-step-by-step-instructions.md)

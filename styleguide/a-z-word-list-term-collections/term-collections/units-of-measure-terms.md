@@ -38,8 +38,8 @@ to measurement. For other units of measure not covered here, see [*The Chicago M
     **Exception** Follow *in* with a period when used as an abbreviation for *inch.*
   - Use commas in numbers that have four or more digits, regardless of how the numbers appear in the UI: 1,093 MB.  
     **Exceptions**  
-    For baud, use commas only when the number has five or more digits: *9600 baud, 14,400 baud.  
-    *Don’t use commas after the decimal point in decimal fractions.
+    For baud, use commas only when the number has five or more digits: *9600 baud, 14,400 baud.*  
+    Don’t use commas after the decimal point in decimal fractions.
   - When
     the unit of measure is spelled out, use the singular form when the
     number is 1. Use the plural form for all other measurements.  
