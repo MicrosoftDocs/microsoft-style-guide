@@ -1,4 +1,4 @@
----
+﻿---
 title: sorry - Microsoft Style Guide
 author: pallep
 ms.author: pallep
@@ -28,4 +28,4 @@ Hmm ... looks like that link is broken.
 Oops ... this page didn't load properly.  
 Let's try this again.  
 
-Use the [A–Z word list](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25512) and your group's editorial style guide to find preferred terms.
+Use the A–Z word list and your group's editorial style guide to find preferred terms.

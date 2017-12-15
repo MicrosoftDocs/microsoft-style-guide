@@ -1,4 +1,4 @@
----
+﻿---
 title: Use technical terms carefully - Microsoft Style Guide
 author: pallep
 ms.author: pallep
@@ -35,7 +35,7 @@ healthcare, construction, IT, and project management, for example.
 If
 you're writing for an industry or profession, use the words your
 audience uses. First, verify Microsoft and industry usage. Check
-the [A–Z word list](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25512), [*The American Heritage Dictionary*](https://ahdictionary.com/), and your group's editorial style guide. Then look to authoritative industry resources: 
+the A–Z word list, [*The American Heritage Dictionary*](https://ahdictionary.com/), and your group's editorial style guide. Then look to authoritative industry resources: 
 
   - Terminology websites, such as [Webopedia.com](http://www.webopedia.com/), [BusinessDictionary.com](http://www.businessdictionary.com/), and [Whatis.TechTarget.com](http://whatis.techtarget.com/).
   - Industry standard sites, such as [W3C](http://www.w3.org/standards/xml) and [IEEE](http://www.ieee.org/index.html).

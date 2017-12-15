@@ -1,4 +1,4 @@
----
+﻿---
 title: Capitalization - Microsoft Style Guide
 author: pallep
 ms.author: pallep
@@ -35,7 +35,7 @@ Follow these guidelines in Microsoft content:
     Country/Region  
     Select the On/Off toggle.  
 
-**Learn more** To learn more about capitalization, see [*The Chicago Manual of Style*](http://www.chicagomanualofstyle.org/home.html). (If you have Microsoft network access, you can use *[The Chicago Manual of Style Online](http://aka.ms/mslibrary/cms)* through MS Library.) If you’re not sure whether to capitalize a term, check your group's editorial style guide, the [A–Z word list](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25512), and *[The American Heritage Dictionary](https://ahdictionary.com/)*. 
+**Learn more** To learn more about capitalization, see [*The Chicago Manual of Style*](http://www.chicagomanualofstyle.org/home.html). (If you have Microsoft network access, you can use *[The Chicago Manual of Style Online](http://aka.ms/mslibrary/cms)* through MS Library.) If you’re not sure whether to capitalize a term, check your group's editorial style guide, the A–Z word list, and *[The American Heritage Dictionary](https://ahdictionary.com/)*. 
 
 For information about capitalization in UI, see [UI text and design](/style-guide/ui-text-content-design) and for information about capitalizing UI labels in instructions, see [Formatting text in instructions](/style-guide/procedures-instructions/formatting-text-in-instructions). To learn more about using the Segoe font in formatting and design, see [Text formatting](/style-guide/text-formatting/).
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: Word choice - Microsoft Style Guide
 author: pallep
 ms.author: pallep
@@ -23,4 +23,4 @@ This section provides tips for choosing the right words for the job:
   - [Avoid jargon](/style-guide/word-choice/avoid-jargon)
   - [](/style-guide/word-choice/use-us-spelling-avoid-non-english-words)[Use US spelling and avoid non-English words](/style-guide/word-choice/use-us-spelling-avoid-non-english-words)
 
-For information about specific words and phrases, refer to the [A–Z word list](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25512), your group’s editorial style guide, and [*The American Heritage Dictionary*](https://ahdictionary.com/).
+For information about specific words and phrases, refer to the A–Z word list, your group’s editorial style guide, and [*The American Heritage Dictionary*](https://ahdictionary.com/).

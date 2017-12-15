@@ -1,4 +1,4 @@
----
+﻿---
 title: Nouns and pronouns - Microsoft Style Guide
 author: pallep
 ms.author: pallep
@@ -38,7 +38,7 @@ Capitalize technology terms as proper nouns only when:
     database server.
   - The terms are typically capitalized in the industry. Search *[The American Heritage Dictionary](https://ahdictionary.com/),* reputable internet sites, and industry-specific dictionaries. Don’t rely on unedited websites. 
 
-If you’re not sure whether a term is a proper noun (and thus capitalized) or a common noun (lowercase), check *[The American Heritage Dictionary](https://ahdictionary.com/),* the [A–Z word list](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25512), and your group's editorial style guide. Default to lowercase unless there's a compelling reason to capitalize the term.
+If you’re not sure whether a term is a proper noun (and thus capitalized) or a common noun (lowercase), check *[The American Heritage Dictionary](https://ahdictionary.com/),* the A–Z word list, and your group's editorial style guide. Default to lowercase unless there's a compelling reason to capitalize the term.
 
 Learn more For guidelines for sentence-style and title-style capitalization, see [Capitalization](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28261).
 
@@ -48,7 +48,7 @@ Some nouns can be challenging to use in the plural. The simple rules that follow
 
 To
 check the spelling of plural forms of words derived from Latin and
-Greek that retain their Latin or Greek endings (typically *-a*, *-us*, *-um*, *-on*, *-ix*, or -*ex*), see specific entries in the [A–Z word list](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=25512) and *[The American Heritage Dictionary](https://ahdictionary.com/).*
+Greek that retain their Latin or Greek endings (typically *-a*, *-us*, *-um*, *-on*, *-ix*, or -*ex*), see specific entries in the A–Z word list and *[The American Heritage Dictionary](https://ahdictionary.com/).*
 
 **Noun**|**Plural form**|**Examples**
 --|--|--
