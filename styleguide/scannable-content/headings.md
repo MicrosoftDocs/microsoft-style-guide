@@ -57,10 +57,15 @@ infinitive phrases for headings in instructions.
 
 **Examples**  
 **Source data**  
- **Prepare headings**  
-  *To create a heading*  
- **Scrub data**   
-  *To remove blank rows*  
+
+&nbsp;&nbsp;Prepare headings  
+
+&nbsp;&nbsp;&nbsp;&nbsp;*To create a heading*  
+
+&nbsp;&nbsp;Scrub data   
+
+&nbsp;&nbsp;&nbsp;&nbsp;*To remove blank rows*  
+
 **PivotTable reports**  
 **Report filters**
 
