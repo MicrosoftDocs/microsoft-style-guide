@@ -11,8 +11,6 @@ ms.prod: non-product specific
 
 This table shows a history of recent updates to the *Microsoft Writing Style Guide.*
 
-Contact <msstyle@microsoft.com> for archives of earlier history.
-
 **Version**|**Topic**|**Change**
 --|--|--
 October 17, 2017|[turn on, turn off](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33405)<br />[gray, grayed out](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33848)<br />[dimmed](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33639)<br />[shaded](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33849)|Topics updated to clarify how to refer to commands and options that aren't available.
@@ -26,9 +24,7 @@ August 29, 2017|[Units of measure term collection](https://worldready.cloudapp.n
 August 28, 2017|[Capitalization](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33685)<br />[Slashes](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28760)|Added the guideline that when words are joined with a slash, the word after the slash is capitalized if the word before the slash is. Updated examples.
 August 28, 2017|[Copyrights and trademarks](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26696)|Deleted the requirement to include the trademark descriptor after the first mention of a trademark.
 August 9, 2017|[Numbers](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33688)|Clarified that in measurements where the unit is spelled out, the plural form is used unless the number is 1, in which case the singular form of the unit of measure is used.
-August 2, 2017|[Accessibility](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26589)|Added links to the Accessibility Assessment Tool and the Accessibility team contacts.
 July 30, 2017|[internet, intranet, extranet](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=34947)|Updated to say that *internet* should be lowercase.
-July 28, 2017|[Microsoft style references](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=29024)|Added a link to the Docs Help style guide, for technical content and documentation that's posted to the Docs.Microsoft.com site.
 July 18, 2017|data modem|Deleted this unnecessary topic.
 June 26, 2017|[document](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33655)<br />[file](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33777)<br />[spreadsheet vs. workbook](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36075)|Clarified when to use the terms *document, file, workbook*, and *spreadsheet*. The name of the "spreadsheet vs. worksheet" topic was changed to [spreadsheet vs. workbook](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36075).
 June 6, 2017|[e-discovery](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=42282)|Added a topic to the A–Z word list.
@@ -36,7 +32,6 @@ May 24, 2017|[Writing for all abilities](https://worldready.cloudapp.net/Stylegu
 May 24, 2017|[plus sign (+)](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35249)|Updated with information about using the plus sign (+) as a replacement for words like *and*, *over*, and *plus*. Updated examples.
 May 22, 2017|[Quotation marks](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28768)|Added a guideline that, in most content, use double quotation marks (" ") not single quotation marks (' ').
 May 11, 2017|[Cascading Style Sheets (CSS)](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33514)|Expanded the topic to cover references to the Cascading Style Sheets technique and generic references to style sheets created using CSS. 
-May 11, 2017|Use certain words carefully|Deleted this subtopic in the [Word choice](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36378) topic. The guidelines that were here can be found in the [Security, safety, and privacy content](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26896) topic (for the words *safe*, *private*, *secure*, and *protect*) and in the [please](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28832), [sorry](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28833), and [thank you](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28834) topics. 
 April 14, 2017|[Acronyms](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=42256)|Added a topic with guidelines for using acronyms and their spelled-out forms.
 April 13, 2017|[Formatting text in instructions](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=29014)|Added guidance for instructions that appear within the UI and in general content such as blogs and marketing.
 March 16, 2017|[Lists](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=36412)|Expanded guidance for capitalization and punctuation of common list types.
@@ -46,12 +41,9 @@ March 16, 2017|[Lists](https://worldready.cloudapp.net/Styleguide/Read?id=2700&t
 9-Mar-17|[Slashes](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28760)|Clarified that it's OK to use a forward slash (/) to show a combination but not to replace the word *or*. Updated examples.
 9-Mar-17|[Country or region](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33582)|Clarified when it's OK to use *country or region* and *country/region*. Changed the topic title from *Country/region* to *Country or region*.
 24-Feb-17|[Writing tips](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26907) in global communications|Updated the tips for writing for machine translation.
-23-Feb-17|[Global communications](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26906)|Added links to new Global Readiness resources: a video explaining the importance of global readiness and an online training course.
 9-Feb-17|[Microsoft](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=35456)|Added guidance for using *Microsoft's* and examples of correct usage.
 19-Jan-17|[What's new](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=29022)|Moved the revision history to the [What’s new](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=29022) topic. Deleted the “Recent changes” topic and “What happened to the old style guide?” topic.
 20-Dec-16|[dialog box, dialog](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=33636)|Clarified guidance for using the term with different audiences and added examples.
-16-Dec-16|[Microsoft style references](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=29024) and others|Changed links to the GetMSCOM site to go to the current Microsoft Web Framework site.
-15-Dec-16|[Names and contact information](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=26914)<br />[Global communications checklist](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=29203)|Added links to GPWeb for information about the correct ordering of first and last names in various cultures and guidelines for the personal name formats available on the GPWeb Regional Formats page.
 17-Nov-16|user name topic in the A–Z word list|Deleted so that Microsoft style is consistent with *American Heritage Dictionary*, which now lists *username* as one word.
 4-Nov-16|[flyout](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=39599)|Added a topic to the A–Z word list.
 2-Nov-16|[that vs. which](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=39598)|Added a topic explaining when to use *that* and when to use *which* in clauses.
