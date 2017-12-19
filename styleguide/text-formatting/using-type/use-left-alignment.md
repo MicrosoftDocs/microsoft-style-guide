@@ -15,8 +15,8 @@ Don’t center text.
 
 Avoid these awkward situations in text:
 
-  - Orphans, which occur when the first line of a paragraph appears by itself at the bottom of a page or column.
-  - Widows, which occur when the last line of a paragraph contains only one word or appears alone on the next page or column.
+  - Orphans, which occur when the first line of a paragraph appears by itself at the bottom of a page or column
+  - Widows, which occur when the last line of a paragraph contains only one word or appears alone on the next page or column
   - Lines that end with hyphens
 
 In Word and PowerPoint, you can manage these situations without using manual line breaks.
