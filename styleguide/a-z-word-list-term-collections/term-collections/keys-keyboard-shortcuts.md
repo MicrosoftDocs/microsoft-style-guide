@@ -61,7 +61,7 @@ capitalization and spell it as it appears on the keyboard.
 **End**|	Capitalize. Use to refer to the *End key*.
 **Enter**|	Capitalize. Use to refer to the *Enter key*. On the Mac, use only when functionality requires it.
 **Esc**|	Always use *Esc*, not *Escape*.
-**F1–F12**| 	Capitalize the *F*. Don't add a space between the *F* and the number.
+**F1–F12**| Capitalize the *F*. Don't add a space between the *F* and the number.
 **Forward**|	Capitalize. Use to refer to the *Forward key*, which performs the same action as the Forward button in a browser.
 **Help**|	Use *the Help key* only to refer to the key on the Mac keyboard.
 **HELP key**|	Use *the HELP key* to avoid confusion with the Help button. Always include *the* and *key*.
@@ -69,7 +69,7 @@ capitalization and spell it as it appears on the keyboard.
 **hyphen (-)**|	Spell out *hyphen* when referring to a key. Capitalize *Hyphen* when instructing a reader to select the key. Include the symbol in parentheses when needed for clarity.
 **Insert**|	Capitalize. Use to refer to the *Insert key*.
 **Lock clear**|	Capitalize. Use to refer to the *Lock clear key*.
-**minus sign (–)**|Spell out *minus sign* when referring to a key. Use sentence capitalization (*Minus sign*) when instructing a reader to select the key. Include the symbol in parentheses when needed for clarity.  <br />HTML code: \&#150;
+**minus sign (–)**|Spell out *minus sign* when referring to a key. Use sentence capitalization (*Minus sign*) when instructing a reader to select the key. Include the symbol in parentheses when needed for clarity.
 **Num lock option**|Use sentence capitalization. Use to refer to the *Num lock option key* on the Mac keyboard.
 **number sign (#), pound key, hashtag**|Use *# key* to describe the key.<br /><br />It’s OK to use *pound key (#)*, including the symbol in parentheses, to refer to the keypad on a telephone. It's OK to use *hashtag (#)* to describe the use of the # key to identify a metadata term in social media.
 **numeric keypad, keypad, numerical keypad, numeric keyboard**|Use *numeric keypad* on first mention. Don’t use *keypad* by itself unless there's no possibility of confusion with the keyboard. Don’t use *numerical keypad* or *numeric keyboard*.<br /><br />In general, don’t distinguish between the keyboard and the numeric keypad. If a customer can select two keys that look the same, specify the correct key. <br />**Example** Select the Minus sign on the numeric keypad.
