@@ -101,9 +101,3 @@ Most of the time, start each statement with a verb. Edit out *you can* and *ther
 **Example**<br />Replace this: You can access Office apps across your devices, and you get online file storage and sharing.
 
 With this: Store files online, access them from all your devices, and share them with coworkers.
-
-## Poster: Top 10 voice and style tips
-
-![](media/top-10-tips-style-voice/911998365.png)
-
-For easy reference, get the [Top 10 tips poster](https://worldready.blob.core.windows.net/document/getting-voice-right_010417.pdf "Printable top 10 tips poster").
