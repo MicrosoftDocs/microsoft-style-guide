@@ -15,11 +15,9 @@ Plural: *euros*
 
 Symbol: €
 
-HTML code: *&\#128;* (Alt+0128 on the numeric keypad) 
-
 In
 US content, place the euro symbol in front of the amount. Different
-locales might place the euro symbol elsewhere, as appropriate. A euro is divided into 100 *cents*. When
+locales might place the euro symbol elsewhere, as appropriate. A euro is divided into 100 *cents.* When
 expressing an amount in euros and cents in US content, use a decimal
 point. Different locales might use a decimal point or a comma, as
 appropriate.
