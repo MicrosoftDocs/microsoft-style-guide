@@ -41,7 +41,6 @@ style guidance. This section covers:
   - [Time and place](/style-guide/global-communications/time-place)
   - [Names and contact information](/style-guide/global-communications/names-contact-information)
   - [Web, software, and HTML considerations](/style-guide/global-communications/web-software-html-considerations)
-  - [Legal considerations](/style-guide/global-communications/legal-considerations)
 
 For Microsoft’s approach to localizing product names, see the [Brand Central name localization guidelines](https://microsoft.sharepoint.com/teams/BrandCentral/Guidelines/Microsoft_naming_playbook_Localization.pdf "name localization guidelines on Brand Central"). (This page requires Microsoft network access.)
 
