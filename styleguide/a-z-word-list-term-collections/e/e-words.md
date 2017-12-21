@@ -11,7 +11,7 @@ ms.prod: non-product-specific
 
 Don't create new words with *e-* (for *electronic*). 
 
-It's OK to use e-words, such as *e-book* and *e-commerce,* that are included in this guide, in your group's editorial style guide, and in [*The American Heritage Dictionary*](https://ahdictionary.com/). 
+It's OK to use e-words, such as *e-book* and *e-commerce,* that are included in this guide and in [*The American Heritage Dictionary*](https://ahdictionary.com/). 
 
 Almost all e-words are hyphenated. *Email* is an exception.
 
