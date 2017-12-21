@@ -12,7 +12,7 @@ ms.prod: non-product-specific
 The
 best procedure is the one you don’t need. If the UI is crystal
 clear and leads the customer through a task, a procedure
-isn’t necessary. Start there. See [UI text and design](/style-guide/ui-text-content-design) for tips.
+isn’t necessary. Start there.
 
 Some tasks are more complex. When you need to provide a procedure, look for the clearest way to present it. That might be:
 
