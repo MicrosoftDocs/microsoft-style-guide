@@ -1,4 +1,3 @@
-
 ---
 title: Text formatting - Microsoft Style Guide
 author: pallep
@@ -28,7 +27,6 @@ This section covers:
   - [Formatting titles](/style-guide/text-formatting/formatting-titles)
 
 **See also**  
-[UI text and design](/style-guide/ui-text-content-design)  
 [Formatting developer text elements](/style-guide/developer-content/formatting-developer-text-elements)  
 [Reference documentation](/style-guide/developer-content/reference-documentation)  
 [Procedures and instructions](/style-guide/procedures-instructions/)  
