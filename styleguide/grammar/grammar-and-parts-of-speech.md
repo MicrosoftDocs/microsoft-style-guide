@@ -18,7 +18,7 @@ This section covers common grammatical issues:
 
   - [Verbs](/style-guide/grammar/verbs) 
   - [Person](/style-guide/grammar/person) 
-  - [Nouns and pronouns](/style-guide/grammar/nouns-pronouns#_Plural_nouns) 
+  - [Nouns and pronouns](/style-guide/grammar/nouns-pronouns#plural-nouns) 
   - [Words ending in *–ing*](/style-guide/grammar/ing-words) 
   - [Prepositions](/style-guide/grammar/prepositions) 
   - [Dangling and misplaced modifiers](/style-guide/grammar/dangling-misplaced-modifiers) 
