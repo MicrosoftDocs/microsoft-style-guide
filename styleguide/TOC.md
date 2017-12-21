@@ -243,7 +243,6 @@
 ### [earlier](a-z-word-list-term-collections/e/earlier.md)
 ### [e-book](a-z-word-list-term-collections/e/e-book.md)
 ### [e-commerce](a-z-word-list-term-collections/e/e-commerce.md)
-### [Edge](a-z-word-list-term-collections/e/edge.md)
 ### [e-discovery](a-z-word-list-term-collections/e/e-discovery.md)
 ### [edutainment](a-z-word-list-term-collections/e/edutainment.md)
 ### [e-form, form](a-z-word-list-term-collections/e/e-form-form.md)
