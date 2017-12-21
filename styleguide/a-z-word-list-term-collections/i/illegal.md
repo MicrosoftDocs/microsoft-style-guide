@@ -9,15 +9,7 @@ ms.prod: non-product-specific
 
 # illegal
 
-Consult [your group’s paralegal](https://microsoft.sharepoint.com/sites/lcaweb/Pages/Applications/LegalContact.aspx) before using this term. In many cases, *licensed* and *unlicensed* may be better term choices. 
-
-In general, use only in specific situations, such as:
-
-  - In software, notices about making illegal copies.
-  - In local content, actions that may violate local laws.
-  - In reference to the violation of international law. 
-
-Don't use to mean *invalid* or *not valid*.
+Don't use to mean *invalid* or *not valid.*
 
 **Examples**  
 The queue path name is not valid.   
