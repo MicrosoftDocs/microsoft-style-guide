@@ -11,7 +11,7 @@ ms.prod: non-product specific
 
 This
 section covers usage and abbreviations for a variety of terms related
-to measurement. For other units of measure not covered here, see [*The Chicago Manual of Style*](http://www.chicagomanualofstyle.org/home.html). If you have Microsoft network access, you can use [*The Chicago Manual of Style Online*](http://aka.ms/mslibrary/cms) through MS Library.
+to measurement. For other units of measure not covered here, see [*The Chicago Manual of Style*](http://www.chicagomanualofstyle.org/home.html).
 
   - Use
     numerals for measurements of distance, temperature, volume, size,
@@ -43,12 +43,12 @@ to measurement. For other units of measure not covered here, see [*The Chicago M
   - When
     the unit of measure is spelled out, use the singular form when the
     number is 1. Use the plural form for all other measurements.  
-    **Examples**
+    **Examples**  
     0 points  
     0.5 points  
     1 point  
     12 points
-  - Spell out *by* in dimensions, except for tile sizes, screen resolutions, and paper sizes. For those, use the multiplication sign (×). Use a space before and after the multiplication sign (HTML code &\#0215;).  
+  - Spell out *by* in dimensions, except for tile sizes, screen resolutions, and paper sizes. For those, use the multiplication sign (×). Use a space before and after the multiplication sign.  
     **Examples**  
     10 by 12 ft room  
     3" by 5" image  
