@@ -606,6 +606,7 @@
 ### [pre-](a-z-word-list-term-collections/p/pre.md)
 ### [preceding](a-z-word-list-term-collections/p/preceding.md)
 ### [press, press and hold](a-z-word-list-term-collections/p/press-and-hold.md)
+### [preview](a-z-word-list-term-collections/p/preview.md)
 ### [print, printout](a-z-word-list-term-collections/p/print-printout.md)
 ### [print queue, printer queue](a-z-word-list-term-collections/p/print-queue-printer-queue.md)
 ### [private cloud, hosted private cloud](a-z-word-list-term-collections/p/private-cloud-hosted-private-cloud.md)
