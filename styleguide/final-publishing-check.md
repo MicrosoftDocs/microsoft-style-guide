@@ -44,7 +44,7 @@ suggestion. Otherwise you might end up saying *manger* where you meant *manager*
 **Cite quotations and references**. See [Using quotes in advertising and marketing](https://microsoft.sharepoint.com/sites/lcaweb/Home/Marketing/Marketing-and-Advertising-Content/Quotes) to learn how. (This page requires Microsoft network access.)
 
 **Keep it legal**. Refer to company and product names correctly and make sure your content complies
-with legal requirements. If you include examples or scenarios, use the [fictitious content](https://microsoft.sharepoint.com/sites/LCAWeb/Home/Copyrights-Trademarks-and-Patents/Trademarks/Fictitious-Names) provided on CELAWeb. (This page requires Microsoft network access.) To learn more, see [Legal content](/style-guide/legal-content/).
+with legal requirements. If you include examples or scenarios, use the [fictitious content](https://microsoft.sharepoint.com/sites/LCAWeb/Home/Copyrights-Trademarks-and-Patents/Trademarks/Fictitious-Names) provided on CELAWeb. (This page requires Microsoft network access.)
 
 **Take a break**. Leave the finished piece alone for a day. Read it again tomorrow—you may see things you missed. 
 
