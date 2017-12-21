@@ -14,8 +14,6 @@ use words that imply security, safety, or privacy without
 qualification. Instead, focus statements on features. For example,
 say *Outlook uses antiphishing technology to scan incoming mail automatically,* not *Outlook helps protect your computer from phishing.*
 
-See [Security, safety, and privacy content](/style-guide/security-safety-privacy-content) for more information.
-
 ## Trigger words and qualifiers
 
 If
