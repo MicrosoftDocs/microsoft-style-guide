@@ -367,7 +367,6 @@
 ### [how to, how-to](a-z-word-list-term-collections/h/how-how-to.md)
 ### [HTML](a-z-word-list-term-collections/h/html.md)
 ### [HTTP](a-z-word-list-term-collections/h/http.md)
-### [Hub](a-z-word-list-term-collections/h/hub.md)
 ### [hybrid cloud](a-z-word-list-term-collections/h/hybrid-cloud.md)
 ### [hyperlink](a-z-word-list-term-collections/h/hyperlink.md)
 ## I
