@@ -35,6 +35,6 @@ This section covers:
   - [Hyphens](/style-guide/punctuation/dashes-hyphens/hyphens) in words and spelled-out numbers.
   - [Em dashes](/style-guide/punctuation/dashes-hyphens/emes) to set off phrases.
   - [En dashes](/style-guide/punctuation/dashes-hyphens/enes) in open or hyphenated compound words and with numbers.
-  - [Ellipses](/style-guide/punctuation/dashes-hyphens/ellipses) in syntax and for omissions. 
-  - [Exclamation points](/style-guide/punctuation/dashes-hyphens/exclamation-points), used sparingly.
-  - [Slashes](/style-guide/punctuation/dashes-hyphens/slashes) in phrases, file paths, and URLs.
+  - [Ellipses](/style-guide/punctuation/ellipses) in syntax and for omissions. 
+  - [Exclamation points](/style-guide/punctuation/exclamation-points), used sparingly.
+  - [Slashes](/style-guide/punctuation/slashes) in phrases, file paths, and URLs.
