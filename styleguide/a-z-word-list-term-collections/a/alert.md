@@ -22,5 +22,3 @@ in response to specific conditions, such as service
 interruptions.   
 To receive an alert whenever an event occurs ....   
 Select **Add alert**. 
-
-**See also** [](/style-guide/a-z-word-list-term-collections/n/notification)[notification](https://worldready.cloudapp.net/Styleguide/Read?id=2547&topicid=16439) in the *Windows, Xbox, and devices style guide* 
