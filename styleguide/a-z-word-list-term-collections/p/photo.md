@@ -9,6 +9,4 @@ ms.prod: non-product-specific
 
 # photo
 
-OK to use as an abbreviation for *photograph*. Don't use as a verb. Use *photograph* or *take pictures* instead.
-
-Consult your group's editorial style guide for additional guidance about using this term. 
+OK to use as an abbreviation for *photograph.* Don't use as a verb. Use *photograph* or *take pictures* instead. 
