@@ -32,7 +32,7 @@ or people with specific disabilities, use [approved terminology](/style-guide/a-
 
 **Use parallel writing structures for similar things.** For example, use singular nouns for each top-level heading. Or, use a verb to start each item in a list.
 
-**Spell out words like *and*, *plus*, and *about*.** Screen readers can misread text that uses special characters like the plus sign (+) and tilde (~). 
+**Spell out words like *and,* *plus,* and *about.*** Screen readers can misread text that uses special characters like the plus sign (+) and tilde (~). 
 
 **Write brief but meaningful link text.** Be descriptive—links should make sense without the surrounding text. 
 
@@ -52,14 +52,13 @@ concise and specific column headings.
 **Don’t use directional terms as the only clue to location.** *Left, right, up, down, above,* and *below*
 aren’t very useful for people who use screen-reading software. If
 you must use a directional term, provide additional text
-about the location, such as *in the **Save As** dialog box, on the **Standard** toolbar, or in the title bar*. 
+about the location, such as *in the **Save As** dialog box, on the **Standard** toolbar,* or *in the title bar.* 
 
 ## Document alternate input methods
 
-**In product documentation, document all supported modes of interaction, input commands, and keyboard shortcuts.** Include mice, keyboards, voice recognition devices, game controllers, gestures, and other interaction modes. Use the [Accessibility Product Template](https://enableweb/intranet$/Technical%20Solutions/Section_1_Accessibility_product_template.doc)[](file://///enableweb/intranet$/Technical%20Solutions/Section_1_Accessibility_product_template.doc) to get started. (The template requires Microsoft network access.)
+**In product documentation, document all supported modes of interaction, input commands, and keyboard shortcuts.** Include mice, keyboards, voice recognition devices, game controllers, gestures, and other interaction modes. 
 
 **Learn more**  
-[Documenting Accessibility Features and Services in Your Product's Help System](https://microsoft.sharepoint.com/teams/msenable/_layouts/15/WopiFrame.aspx?sourcedoc=%7B0891E2BB-087F-48E9-B1D4-3EA50DF8A254%7D&file=Documenting_Accessibility_Features.doc&action=default&DefaultItemOpen=1) provides instructions for and links to an Accessibility Boilerplate and an Accessibility Product Template. (This page requires Microsoft network access.)  
 [Describing alternative input methods](/style-guide/procedures-instructions/describing-alternative-input-methods)
 
 **In procedures and instructions, use generic verbs that apply to all input methods and devices.** Avoid verbs like *click* (mouse) and *swipe* (touch) that don't make sense with some alternative input methods used for accessibility. 
