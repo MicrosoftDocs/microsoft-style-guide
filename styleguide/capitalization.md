@@ -35,9 +35,9 @@ Follow these guidelines in Microsoft content:
     Country/Region  
     Select the On/Off toggle.  
 
-**Learn more** To learn more about capitalization, see [*The Chicago Manual of Style*](http://www.chicagomanualofstyle.org/home.html). (If you have Microsoft network access, you can use *[The Chicago Manual of Style Online](http://aka.ms/mslibrary/cms)* through MS Library.) If you’re not sure whether to capitalize a term, check your group's editorial style guide, the A–Z word list, and *[The American Heritage Dictionary](https://ahdictionary.com/)*. 
+**Learn more** To learn more about capitalization, see [*The Chicago Manual of Style*](http://www.chicagomanualofstyle.org/home.html).  If you’re not sure whether to capitalize a term, check the A–Z word list and *[The American Heritage Dictionary](https://ahdictionary.com/)*. 
 
-For information about capitalization in UI, see [UI text and design](/style-guide/ui-text-content-design) and for information about capitalizing UI labels in instructions, see [Formatting text in instructions](/style-guide/procedures-instructions/formatting-text-in-instructions). To learn more about using the Segoe font in formatting and design, see [Text formatting](/style-guide/text-formatting/).
+For information about capitalization in UI, see [UI text and design](/style-guide/ui-text-content-design) and for information about capitalizing UI labels in instructions, see [Formatting text in instructions](/style-guide/procedures-instructions/formatting-text-in-instructions). 
 
 ## Sentence-style capitalization in titles and headings
 
@@ -62,7 +62,8 @@ song titles, article titles in citations, and titles of people (*Vice President*
 On the rare occasions when title-style capitalization is required, follow these guidelines: 
 
   - Always capitalize the first and last words.  
-    **Example** A Home to Go Back To
+    **Example**  
+    A Home to Go Back To
   - Don’t capitalize *a, an,* or *the* unless it's the first word.  
     **Examples**  
     Microsoft on the Issues  
@@ -76,7 +77,8 @@ On the rare occasions when title-style capitalization is required, follow these 
     OneNote Class Notebooks for Teachers  
     The Teaching Tool You're Looking For  
   - Don’t capitalize *and, but, or, nor, yet,* or *so* unless it's the first word or the last word.  
-    **Example** Monitoring and Operating a Private or Hybrid Cloud
+    **Example**  
+    Monitoring and Operating a Private or Hybrid Cloud
   - Capitalize all other words, including nouns, verbs (including *is* and other forms of *be*), adverbs (including *very* and *too*), adjectives, and pronouns (including *this, that,* and *its*).  
     **Examples**  
     Enterprise Agility Is Not an Oxymoron  
