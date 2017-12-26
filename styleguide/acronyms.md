@@ -18,13 +18,11 @@ specific group of customers.
 ## Don’t create acronyms from product or feature names
 
 Always
-spell out Microsoft product and feature names to protect our trademarks
-and brand names. Exceptions require approval from CELA and your Brand
-Director—see your group’s style guide for details.
+spell out Microsoft product and feature names.
 
 ## Only use acronyms that your audience is familiar with
 
-Check your group's editorial style guide to see whether an acronym is appropriate for your content. The A–Z word list also has guidelines for many common acronyms, and some acronyms are so widely used that they’re in *[The American Heritage Dictionary](https://ahdictionary.com/).* 
+The A–Z word list has guidelines for many common acronyms, and some acronyms are so widely used that they’re in *[The American Heritage Dictionary](https://ahdictionary.com/).* 
 
 ## If you have to use an acronym, also spell out the term for clarity
 
@@ -37,7 +35,6 @@ Some acronyms, like *USB, FAQ,* and *URL,* are more well-known than the spelled-
 says to use the acronym without spelling it out. If you’re sure your
 audience is familiar with an acronym, it’s OK to use it without spelling
 it out.
-
 
 **Examples**  
 Conversations as a platform (CaaP) has the potential to make booking a flight as easy as sending a text message. Developers are also looking to CaaP to make computing more accessible to users of all abilities.   
