@@ -28,4 +28,4 @@ Hmm ... looks like that link is broken.
 Oops ... this page didn't load properly.  
 Let's try this again.  
 
-Use the A–Z word list and your group's editorial style guide to find preferred terms.
+Use the A–Z word list to find preferred terms.
