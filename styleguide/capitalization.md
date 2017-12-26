@@ -37,7 +37,7 @@ Follow these guidelines in Microsoft content:
 
 **Learn more** To learn more about capitalization, see [*The Chicago Manual of Style*](http://www.chicagomanualofstyle.org/home.html).  If you’re not sure whether to capitalize a term, check the A–Z word list and *[The American Heritage Dictionary](https://ahdictionary.com/)*. 
 
-For information about capitalization in UI, see [UI text and design](/style-guide/ui-text-content-design) and for information about capitalizing UI labels in instructions, see [Formatting text in instructions](/style-guide/procedures-instructions/formatting-text-in-instructions). 
+For information about capitalizing UI labels in instructions, see [Formatting text in instructions](/style-guide/procedures-instructions/formatting-text-in-instructions). 
 
 ## Sentence-style capitalization in titles and headings
 
