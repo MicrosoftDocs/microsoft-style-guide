@@ -12,7 +12,7 @@ ms.prod: non-product-specific
 Acronyms
 and abbreviations can have an adverse effect on clarity, voice, and
 SEO. Although some acronyms are widely understood and preferred to the
-spelled-out term, others aren’t well-known or are familiar only to a
+spelled-out term, others aren’t well known or are familiar only to a
 specific group of customers. 
 
 ## Don’t create acronyms from product or feature names
@@ -31,7 +31,7 @@ general, include the acronym in parentheses following the spelled-out
 term. On subsequent mentions in the same topic, page, or screen, you can
 use the acronym without spelling it out. 
 
-Some acronyms, like *USB, FAQ,* and *URL,* are more well-known than the spelled-out term. Don’t spell out the term if the acronym is listed in *[The American Heritage Dictionary](https://ahdictionary.com/)* or if the A–Z word list
+Some acronyms, like *USB, FAQ,* and *URL,* are more well known than the spelled-out term. Don’t spell out the term if the acronym is listed in *[The American Heritage Dictionary](https://ahdictionary.com/)* or if the A–Z word list
 says to use the acronym without spelling it out. If you’re sure your
 audience is familiar with an acronym, it’s OK to use it without spelling
 it out.
