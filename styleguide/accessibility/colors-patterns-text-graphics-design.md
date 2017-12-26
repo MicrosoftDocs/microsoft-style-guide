@@ -23,7 +23,7 @@ in Windows alter text color.
 
 **Don’t hard-code colors**. They can become illegible in high-contrast themes.
 
-**Don’t use low-contrast or hard-to-read color combinations**, such as light green and white or red and green.
+**Choose color combinations with a minimum contrast ratio of 4.5:1.** Don’t use low-contrast or hard-to-read color combinations, such as light green and white or red and green.
 
 **Don’t use screens or tints in art.**
 
