@@ -22,7 +22,7 @@ sales representative|salesman
 synthetic, manufactured|manmade
 work force, staff, personnel|manpower
 
-**Avoid masculine pronouns.** Don’t use *he* and *his* in references to a person whose gender is unknown. Instead, rewrite to use *the* instead of *his* or the second person (*you*). Or refer to a person’s role (reader, employee, or client, for example), or simply use *person* or *individual.* For more information, see [Nouns and pronouns](/style-guide/grammar/nouns-pronouns).
+**Avoid masculine pronouns.** Don’t use *he* and *his* in references to a person whose gender is unknown. Instead, rewrite to use the second person (*you*) or *the* or *a* (for example, "the document"). Or refer to a person’s role (reader, employee, or client, for example), or simply use *person* or *individual.* For more information, see [Nouns and pronouns](/style-guide/grammar/nouns-pronouns).
 
 **Examples**  
 If you have the appropriate rights, you can set other users’ passwords.  
@@ -31,10 +31,9 @@ Select the name of the person, select **Make a phone call**, and then choose the
 
 **Don’t use slang**, especially if it could be considered profane or derogatory, such as *pimp* or *bitch*. 
 
-**In fictitious scenarios, use a variety of names****,**
+**In fictitious scenarios, use a variety of names,** 
 both male and female, that reflect various
-cultural backgrounds. To find legally approved names for scenarios
-and examples, visit [Approved fictitious names and guidelines](https://microsoft.sharepoint.com/sites/LCAWeb/Home/Copyrights-Trademarks-and-Patents/Trademarks/Fictitious-Names) on CELAWeb. (This site requires Microsoft network access.)
+cultural backgrounds. 
 
 **Be conscious of stereotypes in job roles.** For
 example, in fictitious scenarios, use male and female names from a
@@ -65,6 +64,6 @@ stop responding|hang
 
 **Focus on people, not disabilities.** For example, talk about readers who are blind or have low vision and customers with limited dexterity. Don’t use words that imply pity, such as *stricken with* or *suffering from.* Don’t mention a disability unless it's relevant. For more information, see the [Accessibility term collection](/style-guide/a-z-word-list-term-collections/term-collections/accessibility-terms). 
 
-**Learn more** For more information about writing that conveys respect to all people and promotes equal opportunities, see the [Guidelines for Inclusive Language](http://www.linguisticsociety.org/content/guidelines-inclusive-language "Linguistic Society of America's guidelines for inclusive language") from the Linguistic Society of America. For more about how to achieve balanced representation in your content, see the guidelines for [balancing geopolitical sensitivity](https://microsoft.sharepoint.com/teams/BrandCentral/Guidelines/Balancing_Global_Readiness_and_Diversity.pdf?WT.mc_id=Feb17_NL_DiversityInPhotos_15) on Brand Central. (This site requires Microsoft network access.)
+**Learn more** For more information about writing that conveys respect to all people and promotes equal opportunities, see the [Guidelines for Inclusive Language](http://www.linguisticsociety.org/content/guidelines-inclusive-language "Linguistic Society of America's guidelines for inclusive language") from the Linguistic Society of America. 
 
 **See also** [Accessibility guidelines and requirements](/style-guide/accessibility/accessibility-guidelines-requirements), [Global communications](/style-guide/global-communications/)
