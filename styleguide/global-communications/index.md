@@ -12,9 +12,7 @@ ms.prod: non-product-specific
 Microsoft
 customers live and work all over the world and speak a variety of
 languages. This section will help you write content for worldwide
-communication. If you have questions that aren't answered here about
-whether writing, images, or design are appropriate for a global
-audience, use the [Global readiness contacts](https://microsoft.sharepoint.com/teams/celaGlobalReadiness/Pages/Contact-Us.aspx) page to find an expert who can help. (This page requires Microsoft network access.)
+communication.
 
 It’s
 usually safe to assume your content will be read in many countries and
@@ -42,8 +40,6 @@ style guidance. This section covers:
   - [Names and contact information](/style-guide/global-communications/names-contact-information)
   - [Web, software, and HTML considerations](/style-guide/global-communications/web-software-html-considerations)
 
-For Microsoft’s approach to localizing product names, see the [Brand Central name localization guidelines](https://microsoft.sharepoint.com/teams/BrandCentral/Guidelines/Microsoft_naming_playbook_Localization.pdf "name localization guidelines on Brand Central"). (This page requires Microsoft network access.)
-
 ## Learn more about worldwide audiences
 
 **Be curious.**
@@ -54,10 +50,6 @@ follow local news.
 **Use these resources:**
 
   - [Microsoft International Style Guides](http://worldready.cloudapp.net/)
-  - [Microsoft Global Readiness website](https://microsoft.sharepoint.com/teams/celaGlobalReadiness/Pages/Home.aspx) (This page requires Microsoft network access.)
-  - [Doing the Right Thing for Global Markets](https://microsoft.sharepoint.com/sites/infopedia/media/details/AEVD-3-115787 "Video explaining the importance of global readiness") video (This page requires Microsoft network access.)
-  - [Microsoft Style Guide: regional formats](https://worldready.cloudapp.net/MarketReadiness/Locale) (This page requires Microsoft network access.)
-  - [In-depth training course on global readiness](https://learn.microsoft.com/activity/190102/Launch#/ "Training course from Global Readiness team") (This page requires Microsoft network access.)
   - [Plain Language Action Network (United States)](http://www.plainlanguage.gov/)
   - [World Time Zones](http://www.worldtimeserver.com/)
   - [W3C Internationalization Activity](http://www.w3.org/international/)
@@ -69,8 +61,3 @@ follow local news.
     Elements of International English Style: A Guide to Writing
     Correspondence, Reports, Technical Documents, and Internet Pages for a
     Global Audience* (Armonk, NY: M.E. Sharpe, 2005). 
-
-**If you have questions, contact:**
-
-  - [Localization Managers Forum](mailto:ms4n@microsoft.com) discussion group (This group requires Microsoft network access.)
-  - For general localization questions, ask the Microsoft content community on the [STET group](https://www.yammer.com/microsoft.com/#/threads/inGroup?type=in_group&feedId=2937380 "STET Yammer group") on Yammer or the [Editors Information and Discussion](http://idwebelements/GroupManagement.aspx?Group=stet&Operation=join "Join stet@microsoft.com") email distribution group. (These groups require Microsoft network access.)
