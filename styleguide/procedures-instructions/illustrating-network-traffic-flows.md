@@ -14,20 +14,18 @@ you need to create a graphical representation of network traffic
 using industry or proprietary protocols, follow these guidelines.
 Always include a legend that explains the visual conventions.
 
-## Use the Microsoft brand color palette
+## Use colors carefully
 
 Use
 a consistent color, such as white, gray, or a light accent color,
 for important elements in the network diagram. Accentuate with
-additional brand and accent colors. Text, graphics, and lines
+additional colors. Text, graphics, and lines
 should contrast with the background to support people with limited
-vision. To learn more, see the [](https://microsoft.sharepoint.com/teams/BrandCentral/Guidelines/MS_color_and_accessibility_Oct2014.pdf "PDF guidelines for brand colors")[brand color guidelines](https://microsoft.sharepoint.com/teams/BrandCentral/Pages/The-Microsoft-brand-Core-elements-Color.aspx "Color guidelines on Brand Central site"). (This site requires Microsoft network access.)
+vision.
 
 ## Use consistent text formatting
 
 Use sentence-style capitalization. To learn more, see [Capitalization](/style-guide/capitalization).
-
-Use fonts from the Segoe font family. To learn more, see [Using type](/style-guide/text-formatting/using-type/).
 
 ## Represent communication with arrows, lines, and labels
 
@@ -41,11 +39,10 @@ With both types of arrows, subsequent communication is two-way.
 
 ![](media/illustrating-network-traffic-flows/589503366.PNG)
 
-**Use line styles to distinguish different traffic flows.**
+**Use line styles to distinguish different traffic flows.** Choose line colors that contrast with the image background 
+and are distinct when printed or viewed in black and white.
 
 ![](media/illustrating-network-traffic-flows/1252879060.png)
-
-Choose line colors from the Microsoft color palette that contrast with the image background and are distinct when printed or viewed in black and white. See the [brand color guidelines](https://microsoft.sharepoint.com/teams/BrandCentral/Pages/The-Microsoft-brand-Core-elements-Color.aspx "Color guidelines on Brand Central site") to learn more. (This site requires Microsoft network access.)
 
 **Label specific network traffic.** If possible, overlay the label onto the line: 
 
