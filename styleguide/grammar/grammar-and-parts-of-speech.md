@@ -23,4 +23,4 @@ This section covers common grammatical issues:
   - [Prepositions](/style-guide/grammar/prepositions) 
   - [Dangling and misplaced modifiers](/style-guide/grammar/dangling-misplaced-modifiers) 
 
-**Learn more** For more information about grammar and parts of speech, see *[The Chicago Manual of Style](http://www.chicagomanualofstyle.org/home.html)*. If you have Microsoft network access, you can use [*The Chicago Manual of Style Online*](http://aka.ms/mslibrary/cms) through MS Library.
+**Learn more** For more information about grammar and parts of speech, see *[The Chicago Manual of Style](http://www.chicagomanualofstyle.org/home.html)*.
