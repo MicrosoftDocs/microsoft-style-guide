@@ -121,18 +121,8 @@ to the screen size automatically, whether they're viewed on mobile
 devices, tablets, laptops, or desktops. Extra line breaks might detract
 from the content appearance on mobile devices. 
 
-**Follow Microsoft Brand Guidelines for heading fonts.** The
-heading font is often larger than the one used for body text. Sometimes
-it’s a heavier weight or a different color. Done well, these
-distinct font treatments help attract users to the heading. Your
-template probably includes at least four heading styles. You don't
-have to, and usually shouldn't, use them all. 
-
-If you don't have a template, limit yourself to no more than two fonts in headings (for example, Segoe UI Semibold and Segoe UI).
-
 **Learn more**  
 [Using type](/style-guide/text-formatting/using-type/)  
-[Brand type guidelines](https://microsoft.sharepoint.com/teams/BrandCentral/Guidelines/Microsoft_type_guidelines.pdf "Type guidelines on Brand Central") (This document requires Microsoft network access.)
 
 ## Using run-in headings
 
@@ -159,7 +149,7 @@ When you use bold formatting for run-in headings:
     headings consistent, easy to apply, and easy to maintain. You can
     apply character
     styles to any selected words in a document without changing the
-    paragraph style. In Microsoft Word, character styles, such as Subtle Emphasis, are designated by an *a*
+    paragraph style. In Microsoft Word, character styles, such as **Subtle Emphasis,** are designated by an *a*
     next to the style name. To create a new character style in a
     document, select the characters, and then add the style.
     
