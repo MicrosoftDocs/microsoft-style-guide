@@ -30,4 +30,3 @@ This section covers:
 [Formatting developer text elements](/style-guide/developer-content/formatting-developer-text-elements)  
 [Reference documentation](/style-guide/developer-content/reference-documentation)  
 [Procedures and instructions](/style-guide/procedures-instructions/)  
-[Brand type guidelines](https://microsoft.sharepoint.com/teams/BrandCentral/Pages/The-Microsoft-brand-Core-elements-Type.aspx) (This site requires Microsoft network access.)  
