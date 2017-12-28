@@ -23,15 +23,16 @@ You can set advanced options later if you need them.
 
 ## Use first person sparingly
 
-Use first person (usually *I* or *me)* only when you need to write from the point of view of the customer. 
+Use first person (usually *I* or *me*) only when you need to write from the point of view of the customer. 
 
-**Example** Alert me when a new Bluetooth device tries to connect to my computer. (check box text)
+**Example**  
+Alert me when a new Bluetooth device tries to connect to my computer. (check box text)
 
-**Exception** Cortana is a persona, so the use of *I* is appropriate. For information about writing for Cortana, see [Voice](https://worldready.cloudapp.net/Styleguide/Read?id=2547&topicid=19862) in the *Windows, Xbox, and devices style guide*.
+**Exception** Cortana is a persona, so the use of *I* is appropriate. 
 
 ## Avoid first-person plural
 
-First-person plural, which often uses the pronoun *we,* can feel like a daunting corporate presence—the opposite of Microsoft's modern voice. It’s OK to use phrasing like *we recommend* if it helps you avoid awkward phrasing like *it’s recommended,* but write around it if you can*.* Try to keep the focus on the customer, not Microsoft.
+First-person plural, which often uses the pronoun *we,* can feel like a daunting corporate presence—the opposite of Microsoft's modern voice. It’s OK to use phrasing like *we recommend* if it helps you avoid awkward phrasing like *it’s recommended,* but write around it if you can*. Try to keep the focus on the customer, not Microsoft.
 
 **Examples**  
 Select the people you want to give permission to. We'll verify their identities before opening the document.  
