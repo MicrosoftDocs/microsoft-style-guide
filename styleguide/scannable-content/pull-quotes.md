@@ -21,6 +21,4 @@ organization with the pull quote.
 **Exception** If the content is entirely about the person being quoted, you don’t need to include the attribution.
 
 Use
-pull quotes sparingly. If the quote is from a person
-or publication, make sure you have permission to use it in your
-content—even if you're quoting someone who works for Microsoft.
+pull quotes sparingly.
