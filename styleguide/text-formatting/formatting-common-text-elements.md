@@ -15,8 +15,6 @@ these formatting conventions for common text elements.
 
 For information about referring to UI elements, see [Formatting text in instructions](/style-guide/procedures-instructions/formatting-text-in-instructions). 
 
-Your group's editorial style guide might contain additional conventions. 
-
 **See also**  
 [Capitalization](/style-guide/capitalization)  
 [Formatting developer text elements](/style-guide/developer-content/formatting-developer-text-elements)  
@@ -25,14 +23,14 @@ Your group's editorial style guide might contain additional conventions.
 
 **Element**|**Convention**|**Example**
 --|--|--
-**Database names**|Bold. The capitalization of database names varies, so always refer to your group's editorial style guide.|**Contoso** database
+**Database names**|Bold. The capitalization of database names varies.|**Contoso** database
 **Emphasis**|It’s OK to use italic formatting sparingly for emphasis.|Cybercriminals might call you and claim to be from Microsoft. Be aware that Microsoft will never call you to charge for security or software fixes.
 **Error messages**|Sentence-style capitalization.|Hmm … looks like that’s a broken link. 
 **File attributes**|All lowercase.|hidden<br />system<br />read-only<br />To remove the hidden attribute from all files in a folder ....
 **File extensions**|All lowercase.|.mdb<br />.doc
 **File names**|Title-style capitalization. It’s OK to use internal caps in file names for readability.|My Taxes for 2016<br />MyTaxesFor2016
 **Folder and directory names**|Sentence-style capitalization. It’s OK to use internal capital letters in folder and directory names for readability.|Vacation and sick pay<br />MyFiles\Accounting\Payroll\VacPay
-**Macros**|Usually all uppercase. Use bold formatting if predefined. Might be monospace if user defined. Treatment varies. Consult your group's editorial style guide.|**LOWORD**<br />`MASKROP`
+**Macros**|Usually all uppercase. Use bold formatting if predefined. Might be monospace if user defined. Treatment varies.|**LOWORD**<br />`MASKROP`
 **Markup language elements (tags)**|Bold. Capitalization varies.|\<img><br />\<input type=text><br />\<!DOCTYPE html>
 **Mathematical constants and variables**|Italic.|*a2 + b2  = c2*
 **New terms**|Italicize the first mention of a new term if you're going to define it immediately in text.|Microsoft Exchange consists of both *server* and *client* components.
