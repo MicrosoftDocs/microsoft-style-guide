@@ -152,22 +152,3 @@ Capitalize the final part of a hyphenated compound word if it's the last word in
 
 **Example**  
 Boone, Nettie. *The App E-Book.* Redmond, WA: Lucerne Publishing, 2015. 
-
-## Words hyphenated in Microsoft usage
-
-Hyphenate the following words in Microsoft content.
-
-|  |  |  |  |
-|---|---|---|---|
-| [add-in, add-on](/style-guide/a-z-word-list-term-collections/a/add-in-add-on) | [hard-coded](/style-guide/a-z-word-list-term-collections/h/hard-coded) | [plug-in](/style-guide/a-z-word-list-term-collections/p/plug-in) | [two-dimensional](/style-guide/a-z-word-list-term-collections/numbers-symbols/2d-two-dimensional) |
-| [big-endian, little-endian](/style-guide/a-z-word-list-term-collections/b/big-endian-little-endian) | [hard-of-hearing](/style-guide/a-z-word-list-term-collections/h/hard-of-hearing) | [pop-up](/style-guide/a-z-word-list-term-collections/p/pop-up) | [video-game](/style-guide/a-z-word-list-term-collections/v/video-game) |
-| [context-sensitive](/style-guide/a-z-word-list-term-collections/c/context-sensitive) | [high-level-language compiler](/style-guide/a-z-word-list-term-collections/h/high-level-language-compiler) | [push-to-talk](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28835) | [Wi-Fi](/style-guide/a-z-word-list-term-collections/w/wi-fi) |
-| [control-menu box](/style-guide/a-z-word-list-term-collections/c/control-menu-box) | [high-quality](/style-guide/a-z-word-list-term-collections/h/high-quality) | [read-only](/style-guide/a-z-word-list-term-collections/r/read-only) | [write-only](/style-guide/a-z-word-list-term-collections/w/write-only) |
-| [double-click, double-clicking](/style-guide/a-z-word-list-term-collections/d/double-click-double-clicking) | [high-resolution, low-resolution](/style-guide/a-z-word-list-term-collections/h/high-resolution) | [real-time](/style-guide/a-z-word-list-term-collections/r/real-time) | [write-protect, write-protected](/style-guide/a-z-word-list-term-collections/w/write-protect-write-protected) |
-| [drop-down](/style-guide/a-z-word-list-term-collections/d/drop-down) | [how-to](/style-guide/a-z-word-list-term-collections/h/how-how-to) | [right-click](/style-guide/a-z-word-list-term-collections/r/right-click) | [x-axis](/style-guide/a-z-word-list-term-collections/x/x-axis) |
-| [dynamic-link library](/style-guide/a-z-word-list-term-collections/d/dynamic-link-library-dll) | [I-beam](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28812) | [snap-in](/style-guide/a-z-word-list-term-collections/s/snap-in) | [x-coordinate](/style-guide/a-z-word-list-term-collections/x/x-coordinate) |
-| [e-book](/style-guide/a-z-word-list-term-collections/e/e-book) | [Intel-based](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28813) | [software-plus-services](/style-guide/a-z-word-list-term-collections/s/software-plus-services) | [y-axis](/style-guide/a-z-word-list-term-collections/y/y-axis) |
-| [e-commerce](/style-guide/a-z-word-list-term-collections/e/e-commerce) | [left-aligned](/style-guide/a-z-word-list-term-collections/l/left-align-left-aligned)[,](/style-guide/a-z-word-list-term-collections/l/left-align-left-aligned)[right-aligned](/style-guide/a-z-word-list-term-collections/l/left-align-left-aligned) | [three-dimensional](/style-guide/a-z-word-list-term-collections/numbers-symbols/3d-three-dimensional)[,](/style-guide/a-z-word-list-term-collections/numbers-symbols/3d-three-dimensional)[3D](/style-guide/a-z-word-list-term-collections/numbers-symbols/3d-three-dimensional) | [y-coordinate](/style-guide/a-z-word-list-term-collections/y/y-coordinate) |
-| [e-form](/style-guide/a-z-word-list-term-collections/e/e-form-form) | [null-terminated](/style-guide/a-z-word-list-term-collections/n/null-terminated-null-terminating) | [time-out](/style-guide/a-z-word-list-term-collections/t/time-out) | [z-](/style-guide/a-z-word-list-term-collections/z/z) |
-| [e-learning](/style-guide/a-z-word-list-term-collections/e/e-learning) | [on-screen](/style-guide/a-z-word-list-term-collections/o/on-screen) | [to-do](/style-guide/a-z-word-list-term-collections/t/to-do) | [z-axis](/style-guide/a-z-word-list-term-collections/z/z-axis) |
-| [fourth-generation language](/style-guide/a-z-word-list-term-collections/f/fourth-generation-language) | [p-code](/style-guide/a-z-word-list-term-collections/p/p-code) | [top-level folder](/style-guide/a-z-word-list-term-collections/t/top-level-folder) | |
