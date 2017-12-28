@@ -15,8 +15,7 @@ find their way from the end of one line to the beginning of the next.
 
 If
 you’re using a template, don’t change the line spacing. If you’re
-not, ask a designer for advice if you can. Otherwise, use the line
-spacing recommended in the [](https://microsoft.sharepoint.com/teams/BrandCentral/Guidelines/Microsoft_Brand_Guidelines_Oct2014.pdf)[brand type guidelines](https://microsoft.sharepoint.com/teams/BrandCentral/Guidelines/Microsoft_type_guidelines.pdf "Type guidelines on Brand Central"). (This document requires Microsoft network access.)
+not, ask a designer for advice if you can.
 
 If you
 need to modify line spacing later, change it in the styles, not in
