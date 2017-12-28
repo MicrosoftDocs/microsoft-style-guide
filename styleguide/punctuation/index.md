@@ -20,7 +20,7 @@ punctuation you add, the more complex a sentence becomes. If a
 sentence contains more than a comma or two and ending punctuation,
 consider rewriting it to make it crisp and clear. 
 
-**Learn more** Refer to [*The Chicago Manual of Style*](http://www.chicagomanualofstyle.org/home.html) to learn more about specific punctuation. If you have Microsoft network access, you can use *[The Chicago Manual of Style Online](http://aka.ms/mslibrary/cms)* through MS Library.
+**Learn more** Refer to [*The Chicago Manual of Style*](http://www.chicagomanualofstyle.org/home.html) to learn more about specific punctuation.
 
 This section covers:
 
