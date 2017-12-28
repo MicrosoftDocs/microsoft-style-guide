@@ -38,9 +38,9 @@ Capitalize technology terms as proper nouns only when:
     database server.
   - The terms are typically capitalized in the industry. Search *[The American Heritage Dictionary](https://ahdictionary.com/),* reputable internet sites, and industry-specific dictionaries. Don’t rely on unedited websites. 
 
-If you’re not sure whether a term is a proper noun (and thus capitalized) or a common noun (lowercase), check *[The American Heritage Dictionary](https://ahdictionary.com/),* the A–Z word list, and your group's editorial style guide. Default to lowercase unless there's a compelling reason to capitalize the term.
+If you’re not sure whether a term is a proper noun (and thus capitalized) or a common noun (lowercase), check *[The American Heritage Dictionary](https://ahdictionary.com/)* and the A–Z word list. Default to lowercase unless there's a compelling reason to capitalize the term.
 
-Learn more For guidelines for sentence-style and title-style capitalization, see [Capitalization](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28261).
+**Learn more** For guidelines for sentence-style and title-style capitalization, see [Capitalization](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28261).
 
 ## Plural nouns
 
@@ -48,15 +48,15 @@ Some nouns can be challenging to use in the plural. The simple rules that follow
 
 To
 check the spelling of plural forms of words derived from Latin and
-Greek that retain their Latin or Greek endings (typically *-a*, *-us*, *-um*, *-on*, *-ix*, or -*ex*), see specific entries in the A–Z word list and *[The American Heritage Dictionary](https://ahdictionary.com/).*
+Greek that retain their Latin or Greek endings (typically *-a, -us, -um, -on, -ix,* or -*ex*), see specific entries in the A–Z word list and *[The American Heritage Dictionary](https://ahdictionary.com/).*
 
 **Noun**|**Plural form**|**Examples**
 --|--|--
-Common and proper nouns ending in *s*|If the noun ends in *s*, add *es*.|the Johnsons<br />the Joneses<br />biases
-Singular abbreviation|Add an *s*, even if the abbreviation ends in *s*.|ISVs<br />DBMSs
-Plural abbreviation|If an abbreviation already represents a plural, don’t add an *s*.|*MFC*(Microsoft Foundation Classes)
-Single letter|Add an apostrophe and an *s*.<br />The letter itself (but not the apostrophe or the ending s) is italic.|*x's*
-Number|Add an *s*.|the 1950s
+Common and proper nouns ending in *s*|If the noun ends in *s*, add *es.*|the Johnsons<br />the Joneses<br />biases
+Singular abbreviation|Add an *s*, even if the abbreviation ends in *s.*|ISVs<br />DBMSs
+Plural abbreviation|If an abbreviation already represents a plural, don’t add an *s.*|*MFC* (Microsoft Foundation Classes)
+Single letter|Add an apostrophe and an *s.*<br />The letter itself (but not the apostrophe or the ending s) is italic.|*x's*
+Number|Add an *s.*|the 1950s
 Variable|Don’t add (*s*) to a word to indicate that it could be either singular or plural unless you have no other choice. Use the plural form instead.|Wait for *x* minutes.
 
 
@@ -64,7 +64,7 @@ Variable|Don’t add (*s*) to a word to indicate that it could be either sing
 
 Don’t use *he* and *his* in references to a person whose gender is unknown. Instead, rewrite to use the second person (*you*). Or refer to a person’s role (reader, employee, or client, for example), or simply use *person* or *individual.*
 
-**Examples**<br />If you have the appropriate rights, you can set other users’ passwords..<br />A user with the appropriate rights can set other users’ passwords.<br />Select the name of the person you want to call, select Make a phone call, and then choose a phone number.
+**Examples**<br />If you have the appropriate rights, you can set other users’ passwords.<br />A user with the appropriate rights can set other users’ passwords.<br />Select the name of the person you want to call, select **Make a phone call**, and then choose a phone number.
 
 If you can’t write around the problem, it’s OK to occasionally:
 
