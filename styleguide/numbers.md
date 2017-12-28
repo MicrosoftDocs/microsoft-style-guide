@@ -117,8 +117,8 @@ all other content, follow the guidelines below.
     **Exception**
     When an equation occurs in text, it's OK to use a slash between the numerator and the denominator. Or, in Microsoft Word, go to the **Insert** tab, and select **Equation** to format the equation automatically.
 
-  **Example**  
-  ½ + ½ = 1  
+    **Example**  
+    ½ + ½ = 1  
 
   - Hyphenate spelled-out fractions. Connect the numerator and denominator with a hyphen unless either already contains a hyphen. 
 
