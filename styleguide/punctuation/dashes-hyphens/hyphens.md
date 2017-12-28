@@ -30,8 +30,7 @@ In compound words that precede and modify a noun as a unit, don’t hyphenate:
   - An adverb ending in *-ly,* such as *completely,* when it precedes another modifier. Check [*The American Heritage Dictionary*](https://ahdictionary.com/) if you're not sure whether the word ending in *-ly* is an adverb.  
    **Examples**  
    extremely stylized image  
-   highly graphical interface  
-   
+   highly graphical interface  <br /><br />
    **Note** Use adverbs sparingly. They usually aren't necessary.  
 
 Hyphenate two or more words that precede and modify a noun as a unit if:
