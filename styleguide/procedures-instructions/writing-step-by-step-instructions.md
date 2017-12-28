@@ -34,16 +34,15 @@ numbered list. For multiple-step procedures in numbered lists:
   - Use complete sentences.
   - Use [imperative verb forms](/style-guide/grammar/verbs). In instructions, customers really want you to tell them what to do.
   - Use consistent sentence structures. For example, always use a phrase when you need to tell the customer where to start. The rest of the time, start each sentence with a verb.  
-    **Examples** 
+    **Examples**  
     On the ribbon, go to the **Design** tab.  
     Open Photos.  
     For **Alignment**, choose **Left**.  
   - Capitalize the first word in each step.
   - Use a period after each step.  
     **Exception**  
-    When instructing  
-    customers to type input that doesn't include end punctuation, don’t use a period. Try to format the text so that the  
-    user input appears on a new line.  
+    When instructing customers to type input that doesn't include end punctuation, don’t use a period. Try to format the text 
+    so that the user input appears on a new line.  
   - Limit a procedure to seven steps, and preferably fewer. Try to fit all the steps on the same screen. 
 
 **Examples**
@@ -79,9 +78,11 @@ Make sure the customer knows where the action should take place before you descr
 
   - If the instruction appears in the same UI where the action occurs, it’s usually not necessary to provide location details.
   - If you need to make sure the customer begins in the right place, provide a brief phrase at the beginning of the step.  
-    **Example** On the **Design** tab, select **Header Row**.
+    **Example**  
+    On the **Design** tab, select **Header Row**.
   - If there’s a chance of confusion, provide an introductory step.  
-    **Example** On the ribbon, go to the **Design** tab.
+    **Example**  
+    On the ribbon, go to the **Design** tab.
 
 ## Simple instructions with right angle brackets
 
@@ -89,6 +90,7 @@ Abbreviate simple sequences by using right angle brackets. Include a
 space before and after each bracket, and don't make the
 brackets bold. 
 
-**Example** Select **Accounts** \> **Other accounts** \> **Add an account**.
+**Example**  
+Select **Accounts** \> **Other accounts** \> **Add an account**.
 
-**Accessibility tip** Screen readers may skip over brackets and read instructions such as **Menu** \> **Go To** \> **Folders** as *Menu Go To Folders*, which might confuse customers. Check with your group’s accessibility expert before using this approach.
+**Accessibility tip** Screen readers may skip over brackets and read instructions such as **Menu** \> **Go To** \> **Folders** as *Menu Go To Folders,* which might confuse customers. Check with an accessibility expert before using this approach.
