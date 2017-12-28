@@ -14,8 +14,6 @@ find content in a variety of ways. One of the most common is
 search. Search engine optimization (SEO) tactics change
 rapidly, but good writing that addresses customer needs always helps.
 
-If you want to learn more about search engine optimization, the [MSCOM SEO library](https://microsoft.sharepoint.com/sites/mscom/seo/Pages/default.aspx) and the [Bing SEO primer](https://microsoft.sharepoint.com/teams/BingAPIs/SitePages/Bing%20SEO%20Primer.aspx) are good places to start. (These sites require Microsoft network access.)
-
 As you write, follow these guidelines to help customers find relevant content.
 
 ## Keywords
