@@ -14,11 +14,6 @@ text formatting helps readers locate and interpret information. Follow
 these conventions for formatting elements that frequently appear in
 instructions (also referred to as procedures). 
 
-Your
-team might vary from these guidelines to meet your content needs. Check
-your group's editorial style guide for additional
-conventions. 
-
 **See also**  
 [Capitalization](/style-guide/capitalization)  
 [Formatting common text elements](/style-guide/text-formatting/formatting-common-text-elements)  
@@ -35,7 +30,7 @@ Use these conventions in instructions that appear in documentation and technical
 | **Command-line commands** | Bold. All lowercase. | **copy** |
 | **Command-line options (also known as switches or flags)** | Bold. Capitalize the way the option must be typed. | **/a**<br />**/Aw** |
 | **Commands** | Use bold formatting for command names.<br />Use sentence-style capitalization unless you need to match the UI. If a command label ends with a colon or an ellipsis, don’t include that end punctuation in instructions.<br />Don’t include the word _command_ unless it adds needed clarity. | Go to **Tools**, and select **Change language**.<br /> On the **Design** menu, select **Colors**, and then select a color scheme. |
-| **Database names** | Bold. The capitalization of database names varies, so always refer to your group's editorial style guide. | **WingtipToys** database |
+| **Database names** | Bold. The capitalization of database names varies. | **WingtipToys** database |
 | **Device and port names** | All uppercase. | USB |
 | **Dialog boxes** | Avoid talking about dialog boxes. Instead, describe what the customer needs to do.<br />When you must refer to a dialog box by name, use bold formatting for the name of the dialog box. <br /> Use sentence-style capitalization unless you need to match the UI. If a dialog box label ends with a colon or an ellipsis, don’t include that end punctuation in instructions. <br />Don’t include the words _dialog box_ unless it adds needed clarity. | Select **Upload**, and then select a file to upload.<br /> In **Properties**, select **Details**, and then select **Remove Properties and Personal Information**.<br /> In the **Protect document** dialog box, clear the **Shapes** check box. |
 | **Error messages** | Sentence-style capitalization. Enclose error messages in quotation marks when referring to them in text. | We can't find a scanner.<br />Hmm ... looks like that's a broken link.<br /> If you see the error message, “Check scanner status and try again,” use Windows Update to check for the latest drivers for your device.<br /> |
@@ -44,14 +39,14 @@ Use these conventions in instructions that appear in documentation and technical
 | **File names (user-defined examples)** | Title-style capitalization. It’s OK to use internal capital letters in file names for readability. Use bold formatting for file names in procedures if you're directing the customer to select, type, or otherwise interact with the name. | My Taxes for 2016 <br /> MyTaxesFor2016 <br /> Enter **MyTaxesFor2016**. |
 | **Folder and directory names (user-defined examples)** | Sentence-style capitalization. It’s OK to use internal capital letters in folder and directory names for readability. In procedures, use bold formatting for names if you’re directing the customer to select, type, or otherwise interact with the name. | Vacation and Sick Pay <br /> MyFiles\Accounting\Payroll\VacPay<br /> Select <b>Documents</b>. |
 | **Key names, combinations, and sequences** | Capitalize. To learn more about referring to keyboard shortcuts and specific keys, see [Keys and keyboard shortcuts term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=27401). | Ctrl, Tab <br /> Ctrl+Alt+Del <br /> Shift, F7 <br /> Alt, F, O <br /> Spacebar |
-| **Macros** | Usually all uppercase. Use bold formatting if predefined. Might be monospace if user defined. Treatment varies. Consult your group's editorial style guide. | **LOWORD** <br /> `MASKROP` |
+| **Macros** | Usually all uppercase. Use bold formatting if predefined. Might be monospace if user defined. Treatment varies. | **LOWORD** <br /> `MASKROP` |
 | **Markup language elements (tags)** | Bold. Capitalization varies. | **&lt;img&gt;** <br /> &lt;input type=text&gt; <br /> **&lt;!DOCTYPE html&gt;** |
 | **Mathematical constants and variables** | Italic. | _a2 + b2 = c2_ |
 | **Menus** | Avoid talking about menus. Instead, describe what the customer needs to do. <br /> When you must refer to a menu by name, use bold formatting for the name of the menu. <br /> Use sentence-style capitalization unless you need to match the UI. <br /> Don’t include the word _menu_ unless it adds needed clarity. | Go to **Tools**, and select **Change language**. <br /> On the **Design** menu, select **Colors**, and then select a color scheme. |
 | **New terms** | Italicize the first mention of a new term if you're going to define it immediately in text. | Microsoft Exchange consists of both _server_ and _client_ components. |
 | **Panes** | Avoid talking about panes. Instead, describe what the customer needs to do. <br /> When you must refer to a pane by name, use bold formatting for the name of the pane. <br /> Use sentence-style capitalization unless you need to match the UI. <br /> Don’t include the word _pane_ unless it adds needed clarity. | Select the arrow next to the **Styles** gallery, select **Apply styles**, and then select a style to modify. <br /> If the **Apply Styles** pane is in your way, just move it. |
 | **Placeholders (in syntax and in user input)** | Italic. | _/v: version_ <br /> Enter <em>password</em>. |
-| **Products, services, apps, and trademarks** | [Microsoft trademark list](https://microsoft.sharepoint.com/sites/LCAWeb/Home/Copyrights-Trademarks-and-Patents/Trademarks/Trademark-List) for capitalization of trademarked names. (This page requires Microsoft network access.) Also consult your group's editorial style guide. | Microsoft Arc Touch Mouse <br /> Microsoft Word <br /> Surface Pro <br /> Notepad <br /> Network Connections <br /> Makefile <br /> RC Program |
+| **Products, services, apps, and trademarks** | Usually title-style capitalization. Check the [Microsoft trademark list](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/en-us.aspx) for capitalization of trademarked names. | Microsoft Arc Touch Mouse <br /> Microsoft Word <br /> Surface Pro <br /> Notepad <br /> Network Connections <br /> Makefile <br /> RC Program |
 | **Slashes** | When instructing customers to enter a slash, include the spelled-out term (_backslash_ or _forward slash_), followed by the symbol in parentheses. | Enter two backslashes (\\\\) .... |
 | **Strings** | When referring to strings in code, a document, a website, or UI, use sentence-style capitalization unless the text you’re referring to is capitalized differently. Enclose in quotation marks. | Select &quot;Now is the time.&quot; <br /> Find “font-family:Segoe UI Semibold” in the code. |
 | **System commands** | All uppercase. | SC_HOTLIST |
