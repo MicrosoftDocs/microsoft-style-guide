@@ -35,6 +35,6 @@ For information about referring to UI elements, see [Formatting text in instruct
 **Mathematical constants and variables**|Italic.|*a2 + b2  = c2*
 **New terms**|Italicize the first mention of a new term if you're going to define it immediately in text.|Microsoft Exchange consists of both *server* and *client* components.
 **Ports**|All uppercase.|LPT1
-**Products, services, apps, and trademarks**|Usually title-style capitalization. Check the [Microsoft trademark list](https://microsoft.sharepoint.com/sites/LCAWeb/Home/Copyrights-Trademarks-and-Patents/Trademarks/Trademark-List) for capitalization of trademarked names. (This page requires Microsoft network access.) Also consult your group's editorial style guide.|Microsoft Arc Touch Mouse<br />Microsoft Word<br />Surface Pro <br />Notepad <br />Network Connections
+**Products, services, apps, and trademarks**|Usually title-style capitalization. Check the [Microsoft trademark list](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/en-us.aspx) for capitalization of trademarked names.|Microsoft Arc Touch Mouse<br />Microsoft Word<br />Surface Pro <br />Notepad <br />Network Connections
 **UI text**|Sentence-style capitalization.|Hmm … looks like that’s a broken link.
 **URLs**|All lowercase for complete URLs. If necessary, line-break long URLs before a slash. Don't hyphenate.<br />**See also** [URLs and web addresses](../urls-web-addresses.md).|www.microsoft.com<br />msdn.microsoft.com/downloads
