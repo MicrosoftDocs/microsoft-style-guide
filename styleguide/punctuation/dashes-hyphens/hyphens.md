@@ -9,7 +9,7 @@ ms.prod: non-product-specific
 
 # Hyphens
 
-For information about hyphenating specific technology words, see the A–Z word list. For information about hyphenating common words, see [*The American Heritage Dictionary*](https://ahdictionary.com/) and [*The Chicago Manual of Style*](http://www.chicagomanualofstyle.org/home.html). (If you have Microsoft network access, you can use *[The Chicago Manual of Style Online](http://aka.ms/mslibrary/cms)* through MS Library.)
+For information about hyphenating specific technology words, see the A–Z word list. For information about hyphenating common words, see [*The American Heritage Dictionary*](https://ahdictionary.com/) and [*The Chicago Manual of Style*](http://www.chicagomanualofstyle.org/home.html).
 
 ## Predicate adjectives
 
@@ -24,12 +24,14 @@ Many viruses are memory-resident.
 
 In compound words that precede and modify a noun as a unit, don’t hyphenate:
 
-  - *Very*, when it precedes another modifier.
-   Example Very fast test
-  - An adverb ending in *-ly*, such as *completely*, when it precedes another modifier. Check [*The American Heritage Dictionary*](https://ahdictionary.com/) if you're not sure whether the word ending in *-ly* is an adverb.
-   Examples  
+  - *Very,* when it precedes another modifier.  
+   **Example**  
+   Very fast test
+  - An adverb ending in *-ly,* such as *completely,* when it precedes another modifier. Check [*The American Heritage Dictionary*](https://ahdictionary.com/) if you're not sure whether the word ending in *-ly* is an adverb.  
+   **Examples**  
    extremely stylized image  
    highly graphical interface  
+   
    **Note** Use adverbs sparingly. They usually aren't necessary.  
 
 Hyphenate two or more words that precede and modify a noun as a unit if:
@@ -63,17 +65,20 @@ Hyphenate two or more words that precede and modify a noun as a unit if:
 
 ## Suspended compound modifiers
 
-  - Don’t use suspended compound modifiers, such as *left- and right-aligned text*, unless space is limited. Instead, spell out the entire phrase.
+  - Don’t use suspended compound modifiers, such as *left- and right-aligned text,* unless space is limited. Instead, spell out the entire phrase.
 
-	**Example** upper-right or lower-right corner
+	**Example**  
+	upper-right or lower-right corner
 
   - If you use a suspended compound modifier, include a hyphen with both adjectives. The first hyphen is followed by a space.
 
-	**Example** upper- or lower-right corner
+	**Example**  
+	upper- or lower-right corner
 
   - Don’t form suspended compound modifiers from one-word adjectives. 
 
-	**Example** uppercase and lowercase letters
+	**Example**  
+	uppercase and lowercase letters
 
 ## Compound nouns
 
@@ -83,7 +88,7 @@ Hyphenate compound nouns when one of the words is abbreviated.
 e-book  
 e-commerce  
 
-Exception email
+**Exception** email
 
 ## Compound numerals and fractions
 
@@ -122,9 +127,9 @@ Use a hyphen between a prefix and a stem word:
   - If a confusing word results without the hyphen.
   - If the stem word begins with a capital letter. 
 
-**Examples**  
-non-native  
-pro-Microsoft  
+    **Examples**  
+    non-native  
+    pro-Microsoft  
 
 A prefix affects a word, not a phrase. For example, instead of *non-security related*, use *unrelated to security*.
 
@@ -135,18 +140,19 @@ reenter
 nonnegative  
 cooperate  
 
-For more information about using prefixes, see [The Chicago Manual of Style](http://www.chicagomanualofstyle.org/home.html). (If you have Microsoft network access, you can use *[The Chicago Manual of Style Online](http://aka.ms/mslibrary/cms)* through MS Library.)
+For more information about using prefixes, see [The Chicago Manual of Style](http://www.chicagomanualofstyle.org/home.html).
 
 ## Capitalization in hyphenated compound words
 
-**Capitalize**  
-any part of a hyphenated compound word that would be capitalized if there were no hyphen. For example, capitalize the first word if it's the first word of a sentence or heading.  
+Capitalize any part of a hyphenated compound word that would be capitalized if there were no hyphen. For example, capitalize the first word if it's the first word of a sentence or heading.  
 
-**Example** Customer-friendly content is brief, accurate, and to the point. 
+**Example**  
+Customer-friendly content is brief, accurate, and to the point. 
 
 Capitalize the final part of a hyphenated compound word if it's the last word in a context that requires title capitalization, such as a book or song title.
 
-Example Boone, Nettie. *The App E-Book.* Redmond, WA: Lucerne Publishing, 2015. 
+**Example**  
+Boone, Nettie. *The App E-Book.* Redmond, WA: Lucerne Publishing, 2015. 
 
 ## Words hyphenated in Microsoft usage
 
