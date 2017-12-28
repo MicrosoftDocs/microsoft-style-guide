@@ -9,18 +9,19 @@ ms.prod: non-product-specific
 
 # En dashes
 
-HTML code &\#150;
-
 Use an en dash:
 
   - To indicate a range of numbers, such as inclusive values, dates, or pages.  
-**Example** 2015–2017
+**Example**  
+2015–2017
     
   - For a minus sign.  
-**Example** 12 – 3 = 9
+**Example**  
+12 – 3 = 9
     
   - To indicate negative numbers.  
-**Example** –79
+**Example**  
+–79
 
 Use an en dash (–) instead of a hyphen in a compound modifier when:
 
