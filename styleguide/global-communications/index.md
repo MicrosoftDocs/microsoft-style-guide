@@ -49,7 +49,7 @@ follow local news.
 
 **Use these resources:**
 
-  - [Microsoft International Style Guides](http://worldready.cloudapp.net/)
+  - [Microsoft International Style Guides](https://www.microsoft.com/en-us/language/StyleGuides)
   - [Plain Language Action Network (United States)](http://www.plainlanguage.gov/)
   - [World Time Zones](http://www.worldtimeserver.com/)
   - [W3C Internationalization Activity](http://www.w3.org/international/)
