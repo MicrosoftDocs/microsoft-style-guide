@@ -1,5 +1,5 @@
 ---
-title: Security, safety, and privacy terms - Microsoft Style Guide
+title: Security terms - Microsoft Style Guide
 author: pallep
 ms.author: pallep
 ms.date: 11/19/2016
@@ -7,7 +7,7 @@ ms.topic: article
 ms.prod: non-product-specific
 ---
 
-# Security, safety, and privacy terms
+# Security terms
 
 This section describes usage for specific security terms. For definitions of security terms, see the [Microsoft Malware Protection Glossary](http://www.microsoft.com/security/portal/mmpc/shared/glossary.aspx). 
 
