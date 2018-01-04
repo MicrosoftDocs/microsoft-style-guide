@@ -9,4 +9,4 @@ ms.prod: non-product-specific
 
 # trojan horse, trojan
 
-**See** [Security, safety, and privacy term collection](/style-guide/a-z-word-list-term-collections/term-collections/security-safety-privacy-terms)
+**See** [Security term collection](/style-guide/a-z-word-list-term-collections/term-collections/security-terms)
