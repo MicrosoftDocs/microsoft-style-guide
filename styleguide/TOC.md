@@ -12,7 +12,7 @@
 ### [Date and time terms](a-z-word-list-term-collections/term-collections/date-time-terms.md)
 ### [Keys and keyboard shortcuts](a-z-word-list-term-collections/term-collections/keys-keyboard-shortcuts.md)
 ### [Mouse and mouse interaction terms](a-z-word-list-term-collections/term-collections/mouse-mouse-interaction-terms.md)
-### [Security, safety, and privacy terms](a-z-word-list-term-collections/term-collections/security-safety-privacy-terms.md)
+### [Security terms](a-z-word-list-term-collections/term-collections/security-terms.md)
 ### [Special characters](a-z-word-list-term-collections/term-collections/special-characters.md)
 ### [Touch and pen interaction terms](a-z-word-list-term-collections/term-collections/touch-pen-interaction-terms.md)
 ### [Units of measure terms](a-z-word-list-term-collections/term-collections/units-of-measure-terms.md)
