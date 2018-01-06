@@ -875,7 +875,7 @@
 ## [Graphics, design, and media](accessibility/graphics-design-media.md)
 # [Acronyms](acronyms.md)
 # [Bias-free communication](bias-free-communication.md)
-# [Bots](bots.md)
+# [Bots](bots/index.md)
 # [Capitalization](capitalization.md)
 # [Content planning](content-planning.md)
 # [Design planning](design-planning.md)
