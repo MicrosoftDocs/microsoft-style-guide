@@ -26,6 +26,6 @@ This section includes guidelines and tips to help you create this type of chatbo
 - Writing for chatbots
 - Care and feeding of the chatbot
 
-**Learn more** 
-[Conversation as a Platform Primer](https://microsoft.sharepoint.com/teams/CXO/UserInsights/_layouts/15/WopiFrame.aspx?sourcedoc=%7B967b3432-bd72-4fa2-bead-7c277a63d68c%7D&action=default) 
-[Bot Framework documentation(https://docs.microsoft.com/en-us/bot-framework/) 
+**Learn more**  
+[Conversation as a Platform Primer](https://microsoft.sharepoint.com/teams/CXO/UserInsights/_layouts/15/WopiFrame.aspx?sourcedoc=%7B967b3432-bd72-4fa2-bead-7c277a63d68c%7D&action=default)  
+[Bot Framework documentation](https://docs.microsoft.com/en-us/bot-framework/) 
