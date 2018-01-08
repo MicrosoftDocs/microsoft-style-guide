@@ -41,8 +41,7 @@ section to create consistent instructions that are easy to follow:
   - [Describing alternative input methods](/style-guide/procedures-instructions/describing-alternative-input-methods) explains how to describe customer interactions with UI using mouse, keyboard, joystick, pen, touch, and sensor input—and how to consolidate more than one method in instructions. 
   - [Formatting text in instructions](/style-guide/procedures-instructions/formatting-text-in-instructions) lists the formatting conventions for elements commonly used in instructions.
 
-**Note:** Document all the ways that customers can interact with your UI, to comply with [Microsoft Accessibility Standards (MAS)](https://microsoft.sharepoint.com/teams/msenable/Pages/AccessibilityStandard.aspx) requirements
-and support customers of all abilities. This includes mouse,
+**Note:** Document all the ways that customers can interact with your UI to support customers of all abilities. This includes mouse,
 keyboard, voice recognition, game controller, gesture, and any
 other input method or device that the product or service supports. The
 easiest way to approach this is to fully document interactions using
