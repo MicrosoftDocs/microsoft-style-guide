@@ -55,7 +55,7 @@ sentence is part of the URL, rewrite the sentence or set the URL
 off.
 
 **Examples**  
-Visit [windows.microsoft.com/upgrade](http://windows.microsoft.com/upgrade)to learn how to get your free Windows 10 upgrade.  
+Visit [windows.microsoft.com/upgrade](http://windows.microsoft.com/upgrade) to learn how to get your free Windows 10 upgrade.  
 To get your free Windows 10 upgrade, visit our website:  
    [windows.microsoft.com/upgrade](http://windows.microsoft.com/upgrade)
 
