@@ -1,5 +1,4 @@
 # [Welcome](welcome/index.md)
-## [What's new?](welcome/whats-new.md)
 # [Microsoft's brand voice: above all, simple and human](brand-voice-above-all-simple-human.md)
 # [Top 10 tips for Microsoft style and voice](top-10-tips-style-voice.md)
 # A–Z word list and term collections
