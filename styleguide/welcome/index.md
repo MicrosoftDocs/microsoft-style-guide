@@ -22,4 +22,4 @@ write about Microsoft, this guide is for you.
 
 We welcome your feedback about the *Microsoft Writing Style Guide.* Contact us at msstyle@microsoft.com. 
 
-&copy; 2017 Microsoft. All rights reserved.
+&copy; 2018 Microsoft. All rights reserved.
