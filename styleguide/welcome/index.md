@@ -20,6 +20,6 @@ style and terminology for all communication—whether an app, a
 website, or a white paper. Whatever your role, if you
 write about Microsoft, this guide is for you. 
 
-We welcome your feedback about the *Microsoft Writing Style Guide.* Contact us at msstyle@microsoft.com. 
+We welcome your feedback about the *Microsoft Writing Style Guide.* Contact us at <msstyle@microsoft.com>. 
 
 &copy; 2018 Microsoft. All rights reserved.
