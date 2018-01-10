@@ -39,25 +39,27 @@ a 650-MB limit
 
   - Use *of* to add a modifier to a measurement used as a noun.
 
-    **Example** The operation requires 200 MB of available hard-drive space.
+    **Example**  
+    The operation requires 200 MB of available hard-drive space.
 
   - Use commas in numbers that have four or more digits, regardless of how the numbers appear in the UI.
 
-    **Example** 1,024 MB
+    **Example**  
+    1,024 MB
 
 
-Term|Abbreviation|Usage
+**Term**|**Abbreviation**|**Usage**
 ---|---|---
 **bits per pixel**|bpp|
-**bits per second**|bps|Don't use as a synonym for *baud*. See [Units of measure term collection](https://worldready.cloudapp.net/Styleguide/Read?id=2700&topicid=28884) for information about *baud*.
+**bits per second**|bps|Don't use as a synonym for *baud.* See [Units of measure term collection](/style-guide/a-z-word-list-term-collections/term-collections/units-of-measure-terms) for information about *baud.*
 **byte**|*None*|Don't abbreviate.
-**exabyte**|EB|Don’t use *E, E byte*, or *EByte*.
+**exabyte**|EB|Don’t use *E, E byte,* or *EByte.*
 **gigabit**|*None*|Don’t abbreviate.
 **gigabits per second**|Gbps|Don't spell out as *Gb per second*.
 **gigabyte**|GB|Don’t use *G, G byte,* or *GByte*.
 **kilobit**|*None*|Don’t abbreviate.
 **kilobits per second**|Kbps|Don't spell out as *KB per second*.
-**kilobyte**|KB|Don't use *K, K byte*, or *KByte*.
+**kilobyte**|KB|Don't use *K, K byte,* or *KByte*.
 **kilobytes per second**|KBps|Don't spell out as *KB per second*.
 **megabit**|*None*|Don’t abbreviate.
 **megabits per second**|Mbps|Don't spell out as *Mb per second*. 
