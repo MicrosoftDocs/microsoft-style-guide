@@ -19,7 +19,7 @@
 ### [24/7](a-z-word-list-term-collections/numbers-symbols/twenty-four-seven.md)
 ### [2D, two-dimensional](a-z-word-list-term-collections/numbers-symbols/2d-two-dimensional.md)
 ### [3D, three-dimensional](a-z-word-list-term-collections/numbers-symbols/3d-three-dimensional.md)
-### [8.5" x 11" paper](a-z-word-list-term-collections/numbers-symbols/85-x-11-paper.md)
+### [8.5" × 11" paper](a-z-word-list-term-collections/numbers-symbols/85-x-11-paper.md)
 ## A
 ### [abort, abortion](a-z-word-list-term-collections/a/abort-abortion.md)
 ### [above](a-z-word-list-term-collections/a/above.md)
