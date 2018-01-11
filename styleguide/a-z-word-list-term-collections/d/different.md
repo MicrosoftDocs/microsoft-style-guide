@@ -19,7 +19,8 @@ If the result is different from the result that you expected, verify that you en
 
 Make sure comparative statements that use *different* are parallel. Read them carefully to make sure they mean what you intended.
 
-**Example** The result of the first calculation is different from the result of the second.
+**Example**  
+The result of the first calculation is different from the result of the second.
 
 Sentences that use *different than*
 are often difficult to read, even if they're
@@ -27,4 +28,5 @@ grammatically correct. They work best when the clauses on both
 sides of the comparison are balanced and parallel. If it's difficult to
 make them parallel, consider rewriting. 
 
-**Example** The regional setting doesn't match the language of the localized version of the operating system.
+**Example**  
+The regional setting doesn't match the language of the localized version of the operating system.
