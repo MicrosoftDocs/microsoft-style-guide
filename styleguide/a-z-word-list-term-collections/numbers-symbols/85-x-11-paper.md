@@ -7,7 +7,7 @@ ms.topic: article
 ms.prod: non-product-specific
 ---
 
-# 8.5" x 11" paper
+# 8.5" × 11" paper
 
 Use instead of *8.5-by-11-inch, 8.5 × 11-inch, 8 1/2 by 11-inch,*
 or other ways of referring to the paper size. Use a
