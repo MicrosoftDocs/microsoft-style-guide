@@ -32,7 +32,7 @@ being bossy. Don’t switch moods within a sentence.
 **Mood**|**Use for**|**Examples**
 --|--|--
 **Indicative**|Statements of fact, questions, assertions, and explanations—most Microsoft content.|Style sheets are powerful tools for formatting complex documents.
-**Imperative**|Instructions, procedures, direct commands, requests, and headings for columns that list customer actions.|Enter a file name, and then save the file.<br />**To do this        Select this**
+**Imperative**|Instructions, procedures, direct commands, requests, and headings for columns that list customer actions.|Enter a file name, and then save the file.<br />**To do this&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Select this**
 **Subjunctive**|Wishes, hypotheses, and suggestions—avoid.|We recommend that you be careful about opening email attachments.
 
 
