@@ -18,4 +18,4 @@ In content for a technical audience, use the same term consistently to refer to 
  - Use *argument* for a value or expression that contains data or code that's used with an operator or passed to a function. 
  - Use *parameter* for a value that's given to a variable and treated as a constant until the operation is completed. For example, a date could be a parameter that's passed to a scheduling function.
 
-**See also** [Reference documentation](../../developer-content/reference-documentation.md), [Formatting text elements in developer content](../../developer-content/formatting-developer-text-elements.md)
+**See also** [Reference documentation](../../developer-content/reference-documentation.md), [Formatting developer text elements](../../developer-content/formatting-developer-text-elements.md)
