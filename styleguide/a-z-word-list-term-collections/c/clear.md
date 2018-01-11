@@ -9,4 +9,4 @@ ms.prod: non-product-specific
 
 # clear
 
-See [Describing interactions with UI](../../procedures-instructions/describing-interactions-with-ui.md)
+**See** [Describing interactions with UI](../../procedures-instructions/describing-interactions-with-ui.md)
