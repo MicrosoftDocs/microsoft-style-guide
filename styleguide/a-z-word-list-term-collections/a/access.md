@@ -11,4 +11,4 @@ ms.prod: non-product-specific
 
 It's OK to use as a verb to mean *obtain access to*. 
 
-Don’t use *access* to mean *start*, *create*, or *open*. Use a more specific verb or phrase instead.
+Don’t use *access* to mean *start, create,* or *open.* Use a more specific verb or phrase instead.
