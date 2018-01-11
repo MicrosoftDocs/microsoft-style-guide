@@ -33,7 +33,7 @@ When you need to talk specifically about the mouse, mouse interactions, or the p
 
 **Term**|**Usage**
 --|--
-**mouse**|Use *mouse* to refer to one mouse. If you need to refer to more than one mouse, use *mouse devices*, not *mice*. (And try to write around this.)
+**mouse**|Use *mouse* to refer to one mouse. If you need to refer to more than one mouse, use *mouse devices,* not *mice*. (And try to write around this.)
 **mouse button**|Use to refer to the left mouse button. Use *left mouse button* only to teach beginning skills or when not doing so would cause confusion. When more than one mouse button is used in a procedure, name the least frequently used button only.
 **right mouse button**|Use to refer to the secondary mouse button. By default, this is the right mouse button. Customers who change the default understand that *right mouse button* indicates the secondary button.
 **wheel button**|Use to refer to the third or middle button on the mouse. Customers *rotate* the wheel and *click* the wheel button.
