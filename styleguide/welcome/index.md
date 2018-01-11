@@ -11,7 +11,7 @@ ms.prod: non-product-specific
 
 Last updated October 17, 2017
 
-![](media/index/401530580.png)
+![](media/index/WritingStyleGuidebanner.png)
 
 **Make every word matter.** 
 
