@@ -9,4 +9,4 @@ ms.prod: non-product-specific
 
 # client/server
 
-Always use the slash. Capitalize both words if the context requires client to be capitalized.
+Always use the slash. Capitalize both words if the context requires *client* to be capitalized.
