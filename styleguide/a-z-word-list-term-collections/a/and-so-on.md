@@ -22,4 +22,5 @@ Body text is most readable in serif fonts, such as Times New Roman and Palatino.
 **Exception**  
 It's OK to use *and so on* to indicate a logical progression where at least two items have been named.
 
-**Example** a, b, c, and so on
+**Example**  
+a, b, c, and so on
