@@ -9,4 +9,4 @@ ms.prod: non-product-specific
 
 # drive name
 
-Use instead of *drive specification, designator*, or *designation*.
+Use instead of *drive specification, designator,* or *designation*.
