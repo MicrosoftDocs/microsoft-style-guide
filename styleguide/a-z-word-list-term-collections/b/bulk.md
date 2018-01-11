@@ -9,7 +9,7 @@ ms.prod: non-product-specific
 
 # bulk
 
-In content for a general audience, don’t use *bulk* as an adverb, such as *bulk add* or *bulk edit*, unless the term is in the UI.
+In content for a general audience, don’t use *bulk* as an adverb, such as *bulk add* or *bulk edit,* unless the term is in the UI.
 
 In content for a technical audience, avoid using *bulk* as an adverb to describe an action performed on multiple objects. Try *in bulk* as an alternative.
 
