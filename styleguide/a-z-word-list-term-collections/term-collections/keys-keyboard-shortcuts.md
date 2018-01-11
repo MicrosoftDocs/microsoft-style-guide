@@ -34,8 +34,10 @@ For information about describing customers' interactions with UI, see [Procedure
   
   - Capitalize letter keys in general references.<br />    **Example**<br />    the K key  
   
-  - Lowercase and bold a letter key when instructing customers to enter the letter (unless you're instructing them to enter a capital letter).<br />    **Example**<br />    enter **k**<br /><br />
-  - On the first mention, you can use the definite article *the* and the word *key* with the key name if necessary for clarity. <br /> **Example**<br />    Select the F1 key. 
+  - Lowercase and bold a letter key when instructing customers to enter the letter (unless you're instructing them to enter a capital letter).<br />    **Example**<br />    enter **k**    
+
+  - On the first mention, you can use the definite article *the* and the word *key* with the key name if necessary for clarity. <br /> **Example**<br />    Select the F1 key.  
+  
   - On subsequent mentions, refer to the key by its name only. <br />    **Example**<br />    Select F1.
 
 If
@@ -46,10 +48,10 @@ capitalization and spell it as it appears on the keyboard.
 --|--
 **Alt**|Capitalize. Use to refer to the *Alt key*.
 **Application key**|Capitalize. Use *the Application key* to refer to the key that opens a shortcut menu containing commands related to a selection.
-**arrow keys, direction keys, directional keys, movement keys**|Arrow keys are labeled only with an arrow. Refer to similar keys on the numeric keypad as *the arrow keys on the numeric keypad*.<br /><br />Use sentence capitalization to refer to a specific arrow key: *the Left arrow key, the Right arrow key, the Up arrow key, or the Down arrow key*. It’s OK to use *arrow key* as a general term for any single arrow key. Include *the* and *key* in references to a specific arrow key except in key combinations or key sequences.<br /><br />Don’t use *direction keys*, *directional keys*, or *movement keys*.<br /><br />Use specific names to refer to other navigational keys, such as *Page up*, *Page down*, *Home*, and *End*.
+**arrow keys, direction keys, directional keys, movement keys**|Arrow keys are labeled only with an arrow. Refer to similar keys on the numeric keypad as *the arrow keys on the numeric keypad*.<br /><br />Use sentence capitalization to refer to a specific arrow key: *the Left arrow key, the Right arrow key, the Up arrow key,* or *the Down arrow key*. It’s OK to use *arrow key* as a general term for any single arrow key. Include *the* and *key* in references to a specific arrow key except in key combinations or key sequences.<br /><br />Don’t use *direction keys, directional keys,* or *movement keys*.<br /><br />Use specific names to refer to other navigational keys, such as *Page up, Page down, Home,* and *End*.
 **asterisk (*), star**|Use *asterisk* to refer to the \* symbol.<br /><br />An asterisk is used to indicate multiplication in a programming language or as a wildcard character representing one or more characters.<br /><br />It’s OK to use *star* to refer to the key on a phone keypad.
 **at sign (@)**|	Pronounced *at*. In most cases, don’t spell out.
-**Back**|	Capitalize. Use to refer to the *Back key*, which performs the same action as the Back button in a browser.
+**Back**|	Capitalize. Use to refer to the *Back key,* which performs the same action as the Back button in a browser.
 **Backspace**|	Capitalize. Use to refer to the *Backspace key*.
 **backtab**|	Don’t use to refer to the Shift+Tab keyboard shortcut.
 **Break caps**|	Use sentence capitalization. Use to refer to the *Break caps key*.
@@ -62,9 +64,9 @@ capitalization and spell it as it appears on the keyboard.
 **Delete**|	Capitalize. Use to refer to the *back delete key* on the Mac keyboard.
 **End**|	Capitalize. Use to refer to the *End key*.
 **Enter**|	Capitalize. Use to refer to the *Enter key*. On the Mac, use only when functionality requires it.
-**Esc**|	Always use *Esc*, not *Escape*.
+**Esc**|	Always use *Esc,* not *Escape*.
 **F1–F12**| Capitalize the *F*. Don't add a space between the *F* and the number.
-**Forward**|	Capitalize. Use to refer to the *Forward key*, which performs the same action as the Forward button in a browser.
+**Forward**|	Capitalize. Use to refer to the *Forward key,* which performs the same action as the Forward button in a browser.
 **Help**|	Use *the Help key* only to refer to the key on the Mac keyboard.
 **HELP key**|	Use *the HELP key* to avoid confusion with the Help button. Always include *the* and *key*.
 **Home**|	Capitalize. Use to refer to the *Home key*.
@@ -73,9 +75,9 @@ capitalization and spell it as it appears on the keyboard.
 **Lock clear**|	Capitalize. Use to refer to the *Lock clear key*.
 **minus sign (–)**|Spell out *minus sign* when referring to a key. Use sentence capitalization (*Minus sign*) when instructing a reader to select the key. Include the symbol in parentheses when needed for clarity.
 **Num lock option**|Use sentence capitalization. Use to refer to the *Num lock option key* on the Mac keyboard.
-**number sign (#), pound key, hashtag**|Use *# key* to describe the key.<br /><br />It’s OK to use *pound key (#)*, including the symbol in parentheses, to refer to the keypad on a telephone. It's OK to use *hashtag (#)* to describe the use of the # key to identify a metadata term in social media.
-**numeric keypad, keypad, numerical keypad, numeric keyboard**|Use *numeric keypad* on first mention. Don’t use *keypad* by itself unless there's no possibility of confusion with the keyboard. Don’t use *numerical keypad* or *numeric keyboard*.<br /><br />In general, don’t distinguish between the keyboard and the numeric keypad. If a customer can select two keys that look the same, specify the correct key. <br />**Example** Select the Minus sign on the numeric keypad.
-**on-screen keyboard, keyboard display, soft keyboard, virtual keyboard, visual keyboard**|Use to describe the keyboard representation on the screen that the customer touches to enter characters. <br /><br />Hyphenate *on-screen keyboard*. Don’t use *virtual keyboard*, *soft keyboard*, *visual keyboard*, or *keyboard display*.
+**number sign (#), pound key, hashtag**|Use *# key* to describe the key.<br /><br />It’s OK to use *pound key (#),* including the symbol in parentheses, to refer to the keypad on a telephone. It's OK to use *hashtag (#)* to describe the use of the # key to identify a metadata term in social media.
+**numeric keypad, keypad, numerical keypad, numeric keyboard**|Use *numeric keypad* on first mention. Don’t use *keypad* by itself unless there's no possibility of confusion with the keyboard. Don’t use *numerical keypad* or *numeric keyboard*.<br /><br />In general, don’t distinguish between the keyboard and the numeric keypad. If a customer can select two keys that look the same, specify the correct key. <br />**Example**<br />Select the Minus sign on the numeric keypad.
+**on-screen keyboard, keyboard display, soft keyboard, virtual keyboard, visual keyboard**|Use to describe the keyboard representation on the screen that the customer touches to enter characters. <br /><br />Hyphenate *on-screen keyboard*. Don’t use *virtual keyboard, soft keyboard, visual keyboard,* or *keyboard display*.
 **Page down, Page up**|	Use sentence capitalization. Use to refer to the *Page up key* and the *Page down key*.
 **Pause**|	Capitalize. Use to refer to the *Pause key*.
 **period (.)**|	Spell out *period* when referring to a key. Capitalize *Period* when instructing a reader to select the key. Include the symbol in parentheses when needed for clarity.
@@ -86,7 +88,7 @@ capitalization and spell it as it appears on the keyboard.
 **Scroll lock**|	Use sentence capitalization. Use to refer to the *Scroll lock key*.
 **Select**|	Capitalize. Use to refer to the *Select key*.
 **Shift**|	Capitalize. Use to refer to the *Shift key*.
-**Spacebar**|	Capitalize. Use to refer to the *Spacebar*. Always precede with the except in procedures, key combinations, and key sequences.
+**Spacebar**|	Capitalize. Use to refer to the *Spacebar*. Always precede with *the* except in procedures, key combinations, and key sequences.
 **Tab**|	Capitalize. Use to refer to the *Tab key*. Always use *the* and *key* except in key combinations and key sequences.
 **Windows logo key**|	Capitalize *Windows*. Use to refer to the *Windows logo key*.
 
@@ -98,14 +100,12 @@ special character names could be confused with an action (such as
 \+) or be difficult to see, always spell out the following special
 character names: *Plus sign, Minus sign, Hyphen, Period,* and *Comma*. 
 
-To avoid confusion, it's OK to add the character in parentheses after spelling out the name.<br />**Example** Plus sign (+) 
+To avoid confusion, it's OK to add the character in parentheses after spelling out the name.<br />**Example** <br />Plus sign (+) 
 
 Use discretion. This might not be necessary for commonly used characters, such as the period (.).
 
-To show a key combination that includes punctuation requiring use of the Shift key, such as the question mark, use *Shift* and the name or symbol of the shifted key. Using the name of the unshifted key, such as *4* rather than *$*, could be confusing or even wrong. For example, the *?* and */* characters aren't shifted keys on every keyboard. Always spell out *Plus sign, Minus sign, Hyphen, Period,* and *Comma*.
+To show a key combination that includes punctuation requiring use of the Shift key, such as the question mark, use *Shift* and the name or symbol of the shifted key. Using the name of the unshifted key, such as *4* rather than *$,* could be confusing or even wrong. For example, the *?* and */* characters aren't shifted keys on every keyboard. Always spell out *Plus sign, Minus sign, Hyphen, Period,* and *Comma*.
 
 **Examples**<br />Ctrl+Shift+? <br />Ctrl+Shift+\* <br />Ctrl+Shift+Comma
 
-## See also 
-
-[Special character term collection](/style-guide/a-z-word-list-term-collections/term-collections/special-characters)
+**See also** [Special character term collection](/style-guide/a-z-word-list-term-collections/term-collections/special-characters)
