@@ -9,7 +9,7 @@ ms.prod: non-product-specific
 
 # auto-
 
-In general, don’t hyphenate words beginning with *auto-*, such as *autoscale* and *autodial,* unless it's necessary to avoid confusion. When in doubt, check [*The American Heritage Dictionary*](https://ahdictionary.com/).
+In general, don’t hyphenate words beginning with *auto-,* such as *autoscale* and *autodial,* unless it's necessary to avoid confusion. When in doubt, check [*The American Heritage Dictionary*](https://ahdictionary.com/).
 
 Don’t create new words beginning with *auto-.*
 
