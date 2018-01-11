@@ -9,4 +9,4 @@ ms.prod: non-product-specific
 
 # choose
 
-**See** [Describing interactions with UI](/styleguide/procedures-instructions/describing-interactions-with-ui)
+**See** [Describing interactions with UI](/style-guide/procedures-instructions/describing-interactions-with-ui)
