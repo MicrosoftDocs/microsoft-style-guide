@@ -9,4 +9,4 @@ ms.prod: non-product-specific
 
 # conversational user interface (CUI)
 
-**See** [Bot term collection](/style-guide/a-z-word-list-term-collections/b/bot-terms.md)
+**See** [Bot term collection](/style-guide/a-z-word-list-term-collections/term-collections/bot-terms)
