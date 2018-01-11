@@ -32,14 +32,17 @@ to measurement. For other units of measure not covered here, see [*The Chicago M
     13.5-inch display  
     8.0 MP  
     8.0-MP camera  
+    
   - Use
     abbreviations only with numbers in specific measurements, such
     as 20 MP, and don't follow the abbreviation with a period.  
     **Exception** Follow *in* with a period when used as an abbreviation for *inch.*
+    
   - Use commas in numbers that have four or more digits, regardless of how the numbers appear in the UI: 1,093 MB.  
     **Exceptions**  
     For baud, use commas only when the number has five or more digits: *9600 baud, 14,400 baud.*  
     Don’t use commas after the decimal point in decimal fractions.
+    
   - When
     the unit of measure is spelled out, use the singular form when the
     number is 1. Use the plural form for all other measurements.  
@@ -48,6 +51,7 @@ to measurement. For other units of measure not covered here, see [*The Chicago M
     0.5 points  
     1 point  
     12 points
+    
   - Spell out *by* in dimensions, except for tile sizes, screen resolutions, and paper sizes. For those, use the multiplication sign (×). Use a space before and after the multiplication sign.  
     **Examples**  
     10 by 12 ft room  
@@ -62,7 +66,7 @@ to measurement. For other units of measure not covered here, see [*The Chicago M
 --|--|--|
 |**Distance and length**|centimeters|cm|
 ||feet|ft|
-||inches|in. (or " if space is limited). Always include a period to avoid confusion with the preposition in.<br /><br />Hyphenate *half-inch* as an adjective. Use instead of half an inch or one-half inch.<br /><br />When space is limited or the measurement needs to be specific, use *0.5 in*. <br /><br />Use the abbreviated form sparingly in content that will be translated or localized. It may be translated incorrectly as a preposition.|
+||inches|in. (or " if space is limited). Always include a period to avoid confusion with the preposition *in.*<br /><br />Hyphenate *half-inch* as an adjective. Use instead of *half an inch* or *one-half inch.*<br /><br />When space is limited or the measurement needs to be specific, use *0.5 in.* <br /><br />Use the abbreviated form sparingly in content that will be translated or localized. It may be translated incorrectly as a preposition.|
 ||kilometers|km|
 ||meters|m|
 ||miles|mi|
