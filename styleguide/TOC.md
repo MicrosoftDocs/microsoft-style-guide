@@ -62,7 +62,7 @@
 ### [argument vs. parameter](a-z-word-list-term-collections/a/argument-vs-parameter.md)
 ### [arrow](a-z-word-list-term-collections/a/arrow.md)
 ### [arrow keys](a-z-word-list-term-collections/a/arrow-keys.md)
-### [artificial intelligence (AI)](a-z-word-list-term-collections/a/artificial-intelligence.ai.md)
+### [artificial intelligence (AI)](a-z-word-list-term-collections/a/artificial-intelligence-ai.md)
 ### [as well as](a-z-word-list-term-collections/a/as-well-as.md)
 ### [ask](a-z-word-list-term-collections/a/ask.md)
 ### [assembly language](a-z-word-list-term-collections/a/assembly-language.md)
