@@ -22,7 +22,8 @@ expressing an amount in euros and cents in US content, use a decimal
 point. Different locales might use a decimal point or a comma, as
 appropriate.
 
-**Example** €3.50
+**Example**  
+€3.50
 
 Use *supports the euro currency standard* to refer to a country's use of the euro.
 
@@ -44,4 +45,4 @@ are OK to use on websites with an informal tone. Don't use these
 terms in product documentation or other formal contexts, especially if
 the content will be localized.
 
-See also [Currency](/style-guide/global-communications/currency)
+**See also** [Currency](/style-guide/global-communications/currency)
