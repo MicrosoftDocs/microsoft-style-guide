@@ -17,4 +17,5 @@ Don’t use *Microsoft account* to refer to corporate domain accounts, which are
 
 *Microsoft account* was formerly known as *Windows Live ID*.
 
-**Example** This contact info is from your Microsoft account. Friends who have it will be able to find you on Skype. Would you like to add it?
+**Example**  
+This contact info is from your Microsoft account. Friends who have it will be able to find you on Skype. Would you like to add it?
