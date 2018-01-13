@@ -9,7 +9,7 @@ ms.prod: non-product-specific
 
 # given
 
-Don't use to mean *specified, particular*, or *fixed*.
+Don't use to mean *specified, particular,* or *fixed*.
 
 **Examples**  
 Look in the specified folder.   
