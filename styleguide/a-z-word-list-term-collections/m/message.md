@@ -20,4 +20,4 @@ To refer to an item sent or received using instant messaging, spell out *instant
 **See also**   
 [email](/style-guide/a-z-word-list-term-collections/e/email)  
 [instant message, IM](/style-guide/a-z-word-list-term-collections/i/instant-message-im)  
-[text](/style-guide/a-z-word-list-term-collections/t/text-text-message)
+[text, text message](/style-guide/a-z-word-list-term-collections/t/text-text-message)
