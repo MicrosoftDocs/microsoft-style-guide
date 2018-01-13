@@ -19,4 +19,4 @@ handle 0
 handle 1  
 handle 2
 
-To describe a handle in UI that the customer uses to move or size an object, use *move handle* or *sizing handle*. Don't use *size handle*, *grab handle*, *little box*, or similar phrases.
+To describe a handle in UI that the customer uses to move or size an object, use *move handle* or *sizing handle*. Don't use *size handle, grab handle, little box,* or similar phrases.
