@@ -9,7 +9,7 @@ ms.prod: non-product-specific
 
 # Kerberos protocol
 
-Always use *Kerberos* as an adjective (*Kerberos protocol),* not as a noun *(Kerberos)*.
+Always use *Kerberos* as an adjective (*Kerberos protocol*), not as a noun (*Kerberos*).
 
 On the first mention, indicate what version or versions of the Kerberos protocol you're referring to. 
 
