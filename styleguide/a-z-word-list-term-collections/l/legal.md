@@ -9,6 +9,7 @@ ms.prod: non-product-specific
 
 # legal
 
-Use only to refer to matters of law. Don't use to mean *valid*, as in a *valid action*.
+Use only to refer to matters of law. Don't use to mean *valid,* as in a *valid action*.
 
-**Example** Enter a valid path name. 
+**Example**  
+Enter a valid path name. 
