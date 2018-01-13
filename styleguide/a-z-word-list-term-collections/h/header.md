@@ -15,7 +15,7 @@ Don't use *header* as a synonym for *heading*.
 
 In technical content, it's OK to use *header* as a short form of *file header,* as in *HTML header.* 
 
-Don't use *header* as a synonym for *header file*,
+Don't use *header* as a synonym for *header file,*
 which refers to the file at the beginning of a program that
 contains definitions of data types and variables used by the
 program's functions.
