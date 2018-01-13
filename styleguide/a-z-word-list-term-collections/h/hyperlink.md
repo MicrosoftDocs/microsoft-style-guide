@@ -14,7 +14,7 @@ describe text or a graphic that readers can select to go to another
 document, to another place within the same document, or to a webpage.
 Use *hyperlink* to refer to a UI element labeled *hyperlink*.
 
-Don't use *hot spot*, *hot link*, or *shortcut* to refer to a link.
+Don't use *hot spot, hot link,* or *shortcut* to refer to a link.
 
 Use *go to* to describe the process of going to another document, place, or webpage. Don't use *click* or *click on.*
 
