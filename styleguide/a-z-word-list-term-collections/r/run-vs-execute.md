@@ -9,7 +9,7 @@ ms.prod: non-product-specific
 
 # run vs. execute
 
-Avoid *execute* except to follow the UI. Use *run* instead. If the UI includes *execute*, the resulting action is still *run*. 
+Avoid *execute* except to follow the UI. Use *run* instead. If the UI includes *execute,* the resulting action is still *run*. 
 
 Always use *run* in the context of operating systems, macros, and queries.
 
