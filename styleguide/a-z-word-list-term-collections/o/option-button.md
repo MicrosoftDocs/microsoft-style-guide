@@ -17,7 +17,7 @@ controls. When you must mention the button for clarity, use *option button*.
 **Examples**  
 Select **No header row.**  
 When you select the **Keep source formatting** option, ....  
-For Paste options, select **Keep text only**.  
+For **Paste options**, select **Keep text only**.  
 
 In content for a technical audience, it's OK to use *option* instead of *switch* to refer to a command argument or compiler option, such as **/b** or **/Za**.   
 
