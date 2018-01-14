@@ -13,7 +13,7 @@ Use only
 to refer to operations associated with a specific shared resource,
 such as a file, directory, or printer, that are authorized by the
 system administrator for individual user accounts or administrative
-groups. Permissions are *granted* or *assigned*, not *allowed*.
+groups. Permissions are *granted* or *assigned,* not *allowed*.
 
 If you refer to a named permission, use title-style capitalization and regular type. 
 
