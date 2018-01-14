@@ -13,7 +13,7 @@ Use *user rights*
 only to refer to Windows security policies that apply to individual
 user accounts or administrative groups. The system administrator manages
 user rights through the User Rights Assignment snap-in. User rights are
-*assigned*, not *granted* or *allowed*.
+*assigned,* not *granted* or *allowed*.
 
 When you refer to a named user right, use sentence-style capitalization and bold formatting for the name itself.
 
