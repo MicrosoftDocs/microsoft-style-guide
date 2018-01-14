@@ -15,8 +15,9 @@ Use the trademark symbol (™) on the first mention. Include the following in th
 
 > UPnP™ is a certification mark of the UPnP™ Implementers Corporation.
 
-Use *UPnP* as an adjective followed by *certified*, if appropriate, and a specific term, such as *device**, architecture*, or *standards*.  
-**Example** This UPnP certified device features .... 
+Use *UPnP* as an adjective followed by *certified,* if appropriate, and a specific term, such as *device, architecture,* or *standards.*  
+**Example**  
+This UPnP certified device features .... 
 
 Don't use *UPnP* to refer to an uncertified device.
 
