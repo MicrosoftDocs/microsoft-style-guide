@@ -11,7 +11,7 @@ ms.prod: non-product-specific
 
 Use *pin* to refer to adding an app, link, contact, or other item as a tile on the Start menu. Use *unpin* to describe removing a pinned item.
 
-**Examples**
+**Examples**  
 When you pin an app, it's added to the **Start** menu as a new tile.
 
 **Pin apps to Start**
