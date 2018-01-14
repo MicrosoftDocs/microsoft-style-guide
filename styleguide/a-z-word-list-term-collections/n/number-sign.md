@@ -18,7 +18,7 @@ Don't use the \# symbol preceding a numeral. Spell out *number* instead. For exa
 In social media, it's OK to use the \# symbol to indicate a hashtag. Don't use *number sign* to refer to the hashtag.
 
 **Example**  
-(on Twitter) A quick look at top conversations and \#Office365 product announcements of the week. [https://sway.com/EZOlxWf5UeFYwIpF](https://sway.com/EZOlxWf5UeFYwIpF "Link to a page related to the tweet subject.")
+(on Twitter) A quick look at top conversations and \#Office365 product announcements of the week.
 
 It's OK to use the \# symbol in references to the \# key on the keyboard.
 
