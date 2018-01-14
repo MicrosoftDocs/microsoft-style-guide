@@ -9,7 +9,7 @@ ms.prod: non-product-specific
 
 # path
 
-Use *path* instead of *pathname*, both in general references and in syntax. 
+Use *path* instead of *pathname,* both in general references and in syntax. 
 
 Use *path* to refer to a drive and any folders below the root directory. When a path also specifies a file, use *full path*.
 
@@ -26,7 +26,7 @@ open it, separated by a backslash, as follows:
 
 Use *address* or *URL,* not *path,* to refer to a location on the internet.
 
-In general, use *path of,* not *path to*, to refer to the location of a file.
+In general, use *path of,* not *path to,* to refer to the location of a file.
 
 **Example**  
 The full path of my current tax form is:  
