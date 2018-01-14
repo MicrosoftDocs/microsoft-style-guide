@@ -13,6 +13,6 @@ Use *sample* to describe a graphic representation of something that might show u
 
 **Examples**  
 This displays a sample of what the control will look like with the scheme applied.  
-To preview what the control will look like with the scheme applied, select Preview.
+To preview what the control will look like with the scheme applied, select **Preview**.
 
-**See also** [preview](/style-guide/a-z-word-list-term-collections/p/preview.md)
+**See also** [preview](/style-guide/a-z-word-list-term-collections/p/preview)
