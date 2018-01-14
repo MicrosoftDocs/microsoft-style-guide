@@ -9,7 +9,7 @@ ms.prod: non-product-specific
 
 # text, text message
 
-Use as an adjective, a noun, or a verb in the context of SMS messages. Use *text message* and *send* or *receive* *a text message*, if necessary, to avoid ambiguity. 
+Use as an adjective, a noun, or a verb in the context of SMS messages. Use *text message* and *send* or *receive* *a text message,* if necessary, to avoid ambiguity. 
 
 Use *text* or *text message* rather than *SMS* (short message service) or *MMS* (multimedia
 messaging service) for the US audience. For markets where SMS may be
