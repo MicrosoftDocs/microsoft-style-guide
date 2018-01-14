@@ -21,4 +21,4 @@ Windows 10 Insider Preview
 Microsoft Power BI Preview  
 A preview of Azure Container Service is available.  
 
-**See also** [sample vs. preview](/style-guide/a-z-word-list-term-collections/s/sample-vs-preview.md)
+**See also** [sample vs. preview](/style-guide/a-z-word-list-term-collections/s/sample-vs-preview)
