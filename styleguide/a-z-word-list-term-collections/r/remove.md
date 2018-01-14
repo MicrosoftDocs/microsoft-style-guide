@@ -11,7 +11,7 @@ ms.prod: non-product-specific
 
 Don't use *remove* to mean *delete*. 
 
-Use *remove*:
+Use *remove:*
 
   - To describe taking an item off a list in a dialog box that has **Add** and **Remove** buttons. 
   - To
