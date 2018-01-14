@@ -17,7 +17,7 @@ Don't include the word *button* unless it's necessary for clarity. If you do, *b
 
 If possible, to help customers locate the button, include the Start graphic ![](media/start-button-start-menu/967781121.png) in references to the **Start** button. 
 
-On Windows phone, use *Start*, not *Start screen* or *Home screen,* to describe the initial screen. Don't use bold formatting for *Start* when discussing Windows phones.
+On Windows phone, use *Start,* not *Start screen* or *Home screen,* to describe the initial screen. Don't use bold formatting for *Start* when discussing Windows phones.
 
 **Examples**  
 You’ll find the **Start** ![](media/start-button-start-menu/967781121.png) button on the taskbar.   
