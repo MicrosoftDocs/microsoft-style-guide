@@ -32,7 +32,7 @@ usually a mix of uppercase and lowercase characters.
 **stockfile**   
 the **new program** subkey
 
-Refer to an entire subkey path as a *subkey*, not a *path*. 
+Refer to an entire subkey path as a *subkey,* not a *path*. 
 
 **Example**  
 (typical subkey ) **\\HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Microsoft\\Jet\\3.5\\Engines\\Xbase subkey**
