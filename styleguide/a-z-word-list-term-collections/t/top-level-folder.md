@@ -13,6 +13,7 @@ In content for a general audience, use instead of *root directory* to refer to t
 
 In content for developers, use *root directory*.
 
-**Example** The top-level folder for most customers is the Documents folder.
+**Example**  
+The top-level folder for most customers is the Documents folder.
 
 **See also** [root directory](/style-guide/a-z-word-list-term-collections/r/root-directory)
