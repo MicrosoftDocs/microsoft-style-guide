@@ -20,22 +20,27 @@ Follow these guidelines in Microsoft content:
       - Capitalize the first word of a sentence, heading, title, UI label (such as
         the name of a button or check box), or standalone phrase. 
       - Capitalize proper nouns. To learn more about proper nouns, see [Nouns and pronouns](/style-guide/grammar/nouns-pronouns).
-      - Use lowercase for everything else.
+      - Use lowercase for everything else.  
+      
   - Always capitalize the first word of a new sentence. Rewrite sentences
-    that start with a word that's always lowercase.
-  - Don't use all uppercase for emphasis. (It's OK to use italic sparingly for emphasis.)
+    that start with a word that's always lowercase.  
+    
+  - Don't use all uppercase for emphasis. (It's OK to use italic sparingly for emphasis.)  
+  
   - Don't use all lowercase as a design choice. Although all uppercase is used occasionally as a design element, don’t use it in text.
 
 <!-- end list -->
 
-  - Don't use internal capitalization (such as *AutoScale* or *e-Book)* unless it's part of a brand name.
-  - Don’t capitalize the spelled-out form of an acronym unless it's a proper noun.
+  - Don't use internal capitalization (such as *AutoScale* or *e-Book)* unless it's part of a brand name.  
+  
+  - Don’t capitalize the spelled-out form of an acronym unless it's a proper noun.  
+  
   - When words are joined by a slash, capitalize the word after the slash if the word before the slash is capitalized.  
     **Examples**  
     Country/Region  
     Select the On/Off toggle.  
 
-**Learn more** To learn more about capitalization, see [*The Chicago Manual of Style*](http://www.chicagomanualofstyle.org/home.html).  If you’re not sure whether to capitalize a term, check the A–Z word list and *[The American Heritage Dictionary](https://ahdictionary.com/)*. 
+**Learn more** To learn more about capitalization, see [*The Chicago Manual of Style*](http://www.chicagomanualofstyle.org/home.html).  If you’re not sure whether to capitalize a term, check the A–Z word list and [*The American Heritage Dictionary*](https://ahdictionary.com/). 
 
 For information about capitalizing UI labels in instructions, see [Formatting text in instructions](/style-guide/procedures-instructions/formatting-text-in-instructions). 
 
@@ -45,8 +50,7 @@ Use sentence-style capitalization in most titles and headings: capitalize
 the first word and lowercase the rest. (Proper nouns, including
 brand, product, and service names, are always
 capitalized.) Titles of blog posts, articles, and press releases
-use sentence-style capitalization.
-
+use sentence-style capitalization.<br />
 **Examples**  
 Watch your favorite HD movies, TV shows, and more.  
 1 TB of cloud storage  
@@ -61,13 +65,15 @@ song titles, article titles in citations, and titles of people (*Vice President*
 
 On the rare occasions when title-style capitalization is required, follow these guidelines: 
 
-  - Always capitalize the first and last words.  
+  - Always capitalize the first and last words.<br />
     **Example**  
-    A Home to Go Back To
+    A Home to Go Back To  
+    
   - Don’t capitalize *a, an,* or *the* unless it's the first word.  
     **Examples**  
     Microsoft on the Issues  
     The Official Microsoft Blog  
+    
   - Don’t capitalize prepositions of four or fewer letters (such as *on, to, in, up, down, of,* and *for*) unless the preposition is the first or last word.  
     **Examples**  
     How to Personalize Windows  
@@ -76,22 +82,27 @@ On the rare occasions when title-style capitalization is required, follow these 
     Achieving Excellence in the Classroom Through Technology  
     OneNote Class Notebooks for Teachers  
     The Teaching Tool You're Looking For  
+    
   - Don’t capitalize *and, but, or, nor, yet,* or *so* unless it's the first word or the last word.  
     **Example**  
-    Monitoring and Operating a Private or Hybrid Cloud
+    Monitoring and Operating a Private or Hybrid Cloud  
+    
   - Capitalize all other words, including nouns, verbs (including *is* and other forms of *be*), adverbs (including *very* and *too*), adjectives, and pronouns (including *this, that,* and *its*).  
     **Examples**  
     Enterprise Agility Is Not an Oxymoron  
     This Is All There Is  
     Teaching Math Over and Over Again, in Less Time Than Before   
+    
   - Capitalize the second part of a hyphenated compound if it would be capitalized without the hyphen or it's the last word.  
     **Examples**  
     Self-Paced Training for Microsoft Visual Studio  
     Microsoft Management Console: Five Essential Snap-Ins  
     Five Essential Snap-ins for Microsoft Management Console  
+    
   - Capitalize the first word of labels and terms that appear in
     UI and APIs unless they're always lowercase (for example,
-    *fdisk*). 
+    *fdisk*).  
+    
   - In programming languages, follow the traditional capitalization of keywords and other special terms.
 
 **See also** [Formatting titles](/style-guide/text-formatting/formatting-titles)
