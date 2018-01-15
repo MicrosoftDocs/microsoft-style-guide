@@ -37,7 +37,7 @@ audience is familiar with an acronym, it’s OK to use it without spelling
 it out.
 
 **Examples**  
-Conversations as a platform (CaaP) has the potential to make booking a flight as easy as sending a text message. Developers are also looking to CaaP to make computing more accessible to users of all abilities.   
+Conversation as a platform (CaaP) has the potential to make booking a flight as easy as sending a text message. Developers are also looking to CaaP to make computing more accessible to users of all abilities.   
 Learn how to connect a USB device to your Microsoft Surface.
 
 ## Don’t introduce acronyms that are used just once
