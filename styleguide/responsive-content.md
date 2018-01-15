@@ -9,7 +9,7 @@ ms.prod: non-product-specific
 
 # Responsive content
 
-If you’re writing for the web, assume your content will be used on a variety of devices. Many websites today are *responsive—*that is,
+If you’re writing for the web, assume your content will be used on a variety of devices. Many websites today are *responsive*—that is,
 they reconfigure automatically based on the device in use. Assume
 your content will be viewed at small sizes. 
 
@@ -25,14 +25,14 @@ take up twice as much scarce vertical space. Use short words
 in headings, too, if you can. If a customer uses larger fonts to
 improve accessibility, long words may break across lines. 
 
-**Short sections** —headings
+**Short sections**—headings
 and the text that follows—are easier to read on small screens.
 Short sections also make it easier for customers to stop
 reading and later pick up where they left off. 
 
 ## Use simple images, charts, and tables
 
-**Keep in mind that the width of your customer's screen**  may be just a couple of inches. Keep content simple so it’s easy to read and understand. 
+**Keep in mind that the width of your customer's screen** may be just a couple of inches. Keep content simple so it’s easy to read and understand. 
 
 **Choose simple images and crop extraneous detail. Always describe the image using alt text if it conveys useful information.**
 
