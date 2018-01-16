@@ -25,10 +25,14 @@ players and equipment, generic landscapes and settings, pens and
 pencils, international highway signs, and historic artifacts are
 appropriate images worldwide.
 
-  - Avoid holiday or seasonal images. 
+  - Avoid holiday or seasonal images.  
+  
   - Avoid major landmarks and well-known buildings, which may have legal protections or be associated with politics or religion. 
+  
   - Social or work situations involving men and women are risky in a few locales. 
+  
   - Don’t use hand signs. 
+  
   - Don’t use art based on English idioms.
 
 **Limit graphics and animations online.** In some countries or regions, long page-loading times can be expensive.
