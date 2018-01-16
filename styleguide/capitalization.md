@@ -31,7 +31,7 @@ Follow these guidelines in Microsoft content:
 
 <!-- end list -->
 
-  - Don't use internal capitalization (such as *AutoScale* or *e-Book)* unless it's part of a brand name.  
+  - Don't use internal capitalization (such as *AutoScale* or *e-Book*) unless it's part of a brand name.  
   
   - Don’t capitalize the spelled-out form of an acronym unless it's a proper noun.  
   
