@@ -25,17 +25,16 @@ These practices will help localizers and non-native English speakers understand 
 **Write short, simple sentences.**
 Punctuating a sentence with more than a few commas and end punctuation
 usually indicates a complex sentence. Consider rewriting it or breaking
-it into multiple sentences. 
+it into multiple sentences.  
+
 **Replace complex sentences and paragraphs** with lists and tables.
 
-**Include *that* and *who.*** They help to clarify the sentence structure. 
-
+**Include *that* and *who*.** They help to clarify the sentence structure.<br />
 **Examples**  
 Inspect the database to verify that all tables, data, and relationships were correctly migrated.
 Select the check box of each folder that you want to sync with your desktop.
 
-**Include articles,** such as *the.* Articles help readers and translation software identify the nouns and modifiers in a sentence. 
-
+**Include articles,** such as *the.* Articles help readers and translation software identify the nouns and modifiers in a sentence.<br />
 **Examples**  
 Empty the container.  
 The empty container
@@ -83,13 +82,16 @@ the same word to refer to multiple concepts or features.
 
   - Add a determiner (*a, an, the, this*) before or after the *–ed* word.  
 **Example**  
-They have **an** added functionality.
+They have **an** added functionality.  
+
   - Add a form of the verb *be*.  
 **Example**  
-Configure limits for the backup **that are based** on the amount of storage space available.
+Configure limits for the backup **that are based** on the amount of storage space available.  
+
   - Split the sentence in two.  
 **Example**  
-Configure limits for the backup. These limits should be based on the amount of storage space available.
+Configure limits for the backup. These limits should be based on the amount of storage space available.  
+
   - Rewrite the sentence to avoid the *–ed* word.  
 **Example**  
 Configure limits for the backup. **Base the limits** on the amount of storage space available.
