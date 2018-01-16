@@ -51,7 +51,7 @@ streamline modifications you need to make down the road.
   
   - **Don’t fear white space.**
     Your template probably includes spacing for various text elements. Use
-    it. Empty space helps focus the reader on what’s important and makes
+    it. Empty space helps the reader focus on what’s important and makes
     text seem less daunting. Wide margins, space around graphics, and space
     between lines of text all improve readability and can draw attention to
     particular text elements—especially if you use white space consistently.
