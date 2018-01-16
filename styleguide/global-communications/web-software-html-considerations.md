@@ -18,9 +18,13 @@ providers don't always charge a flat monthly rate for access. Follow these guide
 **Support browsers likely to be used by worldwide audiences. To support earlier versions of browsers, you might need to:**
 
   - Provide a no-frames version. 
+  
   - Avoid certain elements in scripts. 
+  
   - Include some design information (such as background color) in the document files instead of the style sheet. 
+  
   - Avoid nested tables.
+  
   - Test using a variety of browsers and versions. 
 
 **Design content so fonts will be substituted if the specified font isn't
@@ -55,6 +59,7 @@ page.
     law restricts the international delivery of certain
     information and technology. Verify that the download complies with
     US law.
+    
   - Be
     aware of local download restrictions. The distribution of
     marketing statements; political statements; and the names of people,
