@@ -54,7 +54,7 @@ using or running the example.
 Help developers determine what to modify. Add comments to explain
 details, but don't overdo it. Don't state the obvious.
 
-**Show expected output**, either in a separate section after the code example or by using code comments within the code example.
+**Show expected output,** either in a separate section after the code example or by using code comments within the code example.
 
 
 **Consider accessibility requirements** for code that creates UI. For example, include alternate text for images.
