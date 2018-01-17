@@ -37,25 +37,24 @@ all other content, follow the guidelines below.
     The team has two product managers, 12 designers, six writers, and 16 developers.  
 
   - When two numbers that refer to separate categories of items must appear together, spell out one of them.<br />
-    **Example** two 3-page articles
+    **Example**  
+    two 3-page articles
 
-  - Don’t start a sentence with a numeral.  
-    Add a modifier before the number, or spell the number out if  
-    you can’t rewrite the sentence. It’s OK to start list items  
-    with numerals—use your judgment.<br />
+  - Don’t start a sentence with a numeral. Add a modifier before the number, or spell the number out if 
+  you can’t rewrite the sentence. It’s OK to start list items with numerals—use your judgment.<br />
     **Examples**  
     More than 10 apps are included.  
     Eleven apps are included.   
 
   - Use numerals in these situations.
 
-| Use numerals for | Examples |
+| **Use numerals for** | **Examples** |
 |---|---|
 | Measurements of distance, temperature, volume, size, weight, pixels, points, and so on—even if the number is less than 10. | 3 feet, 5 inches <br /> 1.76 lb <br /> 80 × 80 pixels <br /> 0.75 grams <br /> 3 centimeters <br /> 3 cm |
 | A number the customer is directed to enter. | Enter **5**. |
 | A round number of 1 million or more. | 7 million |
 | Dimensions. Spell out _by,_ except for tile sizes, screen resolutions, and paper sizes. For those, use the multiplication sign (×). Use a space before and after the multiplication sign. | 10-foot cable <br /> 4 × 4 tile <br /> 8.5&quot; × 11&quot; paper <br /> 1280 × 1024 |
-| Time of day. Include _AM_ or _PM._<br /> **Exception** Don't use numerals for _12:00_. Use _noon_ or _midnight_ instead.<br /> Include the time zone if you’re discussing an event, and customers beyond the local time zone may see it. Time stamps in UI and websites usually display local time and<span>date automatically. | 10:45 AM<br /> 6:30 PM<br /> The meeting is at noon. <br /> The event starts at 5:00 PM Pacific Time. <br /> The date changes at midnight. |
+| Time of day. Include _AM_ or _PM._<br /> **Exception** Don't use numerals for _12:00_. Use _noon_ or _midnight_ instead.<br /> Include the time zone if you’re discussing an event, and customers beyond the local time zone may see it. Time stamps in UI and websites usually display local time and date automatically. | 10:45 AM<br /> 6:30 PM<br /> The meeting is at noon. <br /> The event starts at 5:00 PM Pacific Time. <br /> The date changes at midnight. |
 | Percentages, no matter how small. Use a numeral plus _percent_ to specify a percentage. Use _percentage_ when you don't specify a quantity. | At least 50 percent of your system resources should be available.<br /> Only 1 percent of the test group was unable to complete the task.<br /> A large percentage of system resources should be available. |
 | Coordinates of tables or worksheets and numbered sections of documents. | row 3, column 4 <br /> Volume 2 <br /> Chapter 10 <br /> Part 5 <br /> step 1 |
 
@@ -102,7 +101,7 @@ all other content, follow the guidelines below.
   - Add a zero before the decimal point for decimal fractions less than one, unless the customer is asked to enter the value.<br />
     **Examples**  
     0.5 cm  
-    enter .75"  
+    enter **.75"**  
 
   - Don’t use numerals separated by a slash to express fractions.
 
