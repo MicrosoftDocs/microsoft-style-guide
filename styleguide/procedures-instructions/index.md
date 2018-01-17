@@ -36,12 +36,15 @@ When
 a procedure is the best approach, use the guidelines in this
 section to create consistent instructions that are easy to follow:
 
-  - [Writing step-by-step instructions](/style-guide/procedures-instructions/writing-step-by-step-instructions) describes several ways to write simple and complex instructions.
-  - [Describing interactions with UI](/style-guide/procedures-instructions/describing-interactions-with-ui) provides a list of input-neutral verbs you can use to write instructions that work with any input method.
-  - [Describing alternative input methods](/style-guide/procedures-instructions/describing-alternative-input-methods) explains how to describe customer interactions with UI using mouse, keyboard, joystick, pen, touch, and sensor input—and how to consolidate more than one method in instructions. 
+  - [Writing step-by-step instructions](/style-guide/procedures-instructions/writing-step-by-step-instructions) describes several ways to write simple and complex instructions.  
+  
+  - [Describing interactions with UI](/style-guide/procedures-instructions/describing-interactions-with-ui) provides a list of input-neutral verbs you can use to write instructions that work with any input method.  
+  
+  - [Describing alternative input methods](/style-guide/procedures-instructions/describing-alternative-input-methods) explains how to describe customer interactions with UI using mouse, keyboard, joystick, pen, touch, and sensor input—and how to consolidate more than one method in instructions.  
+  
   - [Formatting text in instructions](/style-guide/procedures-instructions/formatting-text-in-instructions) lists the formatting conventions for elements commonly used in instructions.
 
-**Note:** Document all the ways that customers can interact with your UI to support customers of all abilities. This includes mouse,
+**Note** Document all the ways that customers can interact with your UI to support customers of all abilities. This includes mouse,
 keyboard, voice recognition, game controller, gesture, and any
 other input method or device that the product or service supports. The
 easiest way to approach this is to fully document interactions using
