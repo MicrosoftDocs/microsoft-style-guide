@@ -34,7 +34,7 @@ limited. For example, don’t use *Shift+click.* Instead, use *Select Shift whil
 Assume that the mouse is the primary input device. Include joystick
 information in a table along with other alternative input devices. 
 
-Refer to joystick *controls*, not *options,* when you provide specific joystick procedures.
+Refer to joystick *controls,* not *options,* when you provide specific joystick procedures.
 
 ## Keyboard procedures
 
@@ -46,7 +46,7 @@ Always document keyboard procedures for accessibility, even though they're indic
 
 Use *tap* and *double-tap* instead of *click* and *double-click* when writing content specific to touching a screen or using a tablet pen. *Tap* means to press the screen with a finger or pen tip and then to lift it, usually quickly.
 
-| Term | Usage |
+| **Term** | **Usage** |
 |---|---|
 | **tap** | Use to describe selecting a button, icon, or other element on the screen with a finger or the pen by tapping it once. Don’t use <em>tap on.</em> |
 | **double-tap** | Use to describe selecting an item by tapping twice in rapid succession. Hyphenate. Don’t use <em>double-tap on.</em> |
@@ -63,37 +63,33 @@ You can document multiple input methods in various
 ways, depending on the content design, space restrictions, and
 other considerations. Some approaches are discussed below. 
 
-**List the steps in a table,** and provide a separate column for each input method. 
-
+**List the steps in a table,** and provide a separate column for each input method.<br />
 **Example**  
 **Choose colors to use on webpages**  
 To make webpages easier to see, you can change the text, background, link, and hover colors in Internet Explorer.
 
-| Step | Mouse actions | Keyboard actions |
+| **Step** | **Mouse actions** | **Keyboard actions** |
 |---|---|---|
 | **1** | On the **Start** menu: <br /> <ul><li>Click **Internet Explorer**.</li></ul> | Display the **Start** menu by pressing the Windows logo  key: <br /><ul><li>Select **Internet Explorer** by using the arrow keys, and then press Enter.</li> |
 | **2** | In Internet Explorer:<br /><ul><li>Click the **Tools** menu.</li><li>Click **Internet Options**.</li></ul> | In Internet Explorer:<br /><ul><li>Select the **Tools** menu by pressing Alt+T.</li><li>Select **Internet Options** by pressing O.</li></ul> |
 
-**Document the primary input method,** and provide the alternative instructions in parentheses or separate sentences after the main instructions. 
-
+**Document the primary input method,** and provide the alternative instructions in parentheses or separate sentences after the main instructions. <br />
 **Examples**  
 To pan, slide one finger in any direction (or drag the mouse pointer, or use the arrow keys).  
 To copy the selection, click Copy on the toolbar. You can also press Ctrl+C.  
 
-**If there are multiple ways to perform an entire procedure and you must describe each one,** use a table to detail the alternatives. This approach helps the customer decide when to use which method.
-
+**If there are multiple ways to perform an entire procedure and you must describe each one,** use a table to detail the alternatives. This approach helps the customer decide when to use which method.<br />
 **Example**  
 This table describes two ways to save a file.
 
-| To | Do this |
+| **To** | **Do this** |
 |---|---|
 | Save changes to the file and continue working. | On the **File** menu, click **Save**. |
 | Save changes to the file and exit the program. | On the **File** menu, click **Exit**. If a dialog box asks whether you want to save changes, click **Yes**. |
 
 **If one step has an alternative,** make
 that alternative a separate paragraph in the step. In a
-single-step procedure, an alternative can be separated by the word *or* to make it clear that an alternative is available.
-
+single-step procedure, an alternative can be separated by the word *or* to make it clear that an alternative is available.<br />
 **Examples**    
 Press the key for the underlined letter in the menu name. You can also use the Left Arrow key or the Right Arrow key to move to another menu.
 
@@ -103,8 +99,7 @@ or
 
   - Use the Left Arrow key or the Right Arrow key to move to another menu. 
 
-**For several choices within one procedure step,** use a bulleted list.  
-
+**For several choices within one procedure step,** use a bulleted list.<br />
 **Example**    
 1\. Select the text that you want to move or copy.
  Do one of the following:
