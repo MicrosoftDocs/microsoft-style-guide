@@ -61,7 +61,7 @@ Greek that retain their Latin or Greek endings (typically *-a, -us, -um, -on, -i
 Common and proper nouns ending in *s*|If the noun ends in *s,* add *es.*|the Johnsons<br />the Joneses<br />biases
 Singular abbreviation|Add an *s,* even if the abbreviation ends in *s.*|ISVs<br />DBMSs
 Plural abbreviation|If an abbreviation already represents a plural, don’t add an *s.*|*MFC* (Microsoft Foundation Classes)
-Single letter|Add an apostrophe and an *s.*<br />The letter itself (but not the apostrophe or the ending s) is italic.|*x's*
+Single letter|Add an apostrophe and an *s.*<br />The letter itself (but not the apostrophe or the ending *s*) is italic.|*x*'s
 Number|Add an *s.*|the 1950s
 Variable|Don’t add *(s)* to a word to indicate that it could be either singular or plural unless you have no other choice. Use the plural form instead.|Wait for *x* minutes.
 
