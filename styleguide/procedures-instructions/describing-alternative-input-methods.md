@@ -76,7 +76,7 @@ To make webpages easier to see, you can change the text, background, link, and h
 **Document the primary input method,** and provide the alternative instructions in parentheses or separate sentences after the main instructions. <br />
 **Examples**  
 To pan, slide one finger in any direction (or drag the mouse pointer, or use the arrow keys).  
-To copy the selection, click Copy on the toolbar. You can also press Ctrl+C.  
+To copy the selection, click **Copy** on the toolbar. You can also press Ctrl+C.  
 
 **If there are multiple ways to perform an entire procedure and you must describe each one,** use a table to detail the alternatives. This approach helps the customer decide when to use which method.<br />
 **Example**  
