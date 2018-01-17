@@ -14,7 +14,7 @@ ms.prod: non-product-specific
   - In
     a list of three or more items, include a comma before the conjunction.
     (The comma that comes before the conjunction is known as the Oxford or
-    serial comma.)<br />    
+    serial comma.)<br />
     **Examples**  
     Outlook includes Mail, Calendar, People, and Tasks.  
     Save your file to a hard drive, an external drive, or OneDrive.
