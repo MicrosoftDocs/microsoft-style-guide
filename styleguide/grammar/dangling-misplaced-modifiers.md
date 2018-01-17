@@ -16,10 +16,10 @@ If you keep sentences short and simple and use active voice, you probably won’
   - A *dangling modifier* doesn’t modify anything in the sentence. 
   - A *misplaced modifier* is too far from the thing it modifies or too near to something else that it could modify. 
 
-| Example | Meaning |
+| **Example** | **Meaning** |
 |---|---|
 | _Only_ the selected text is deleted. | Nothing other than the selected text is deleted. |
 | The selected text _only_ is deleted. | _Only_ could modify _is deleted_ or _text._ This sentence could mean one of two things:<ul><li>The selected graphics aren't deleted.</li><li>The text is deleted but not archived.</li></ul> |
 | There are files _that can’t be removed_ on the disk. | The phrase _that can’t be removed_ modifies _the files._ This sentence clearly explains that the files can’t be removed, and they are on the disk.  |
-| There are files on the disk _that can’t be removed_. | The phrase _that can’t be removed_ probably modifies _the disk_, but the writer may have intended to modify _files_. This sentence could mean one of two things:<ul><li>The files can’t be removed.</li><li>The disk can’t be removed. </li></ul> |
+| There are files on the disk _that can’t be removed_. | The phrase _that can’t be removed_ probably modifies _the disk,_ but the writer may have intended to modify _files_. This sentence could mean one of two things:<ul><li>The files can’t be removed.</li><li>The disk can’t be removed. </li></ul> |
 
