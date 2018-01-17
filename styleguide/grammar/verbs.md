@@ -53,7 +53,7 @@ Voice is either active or passive. Keep it active whenever you can.
 
 Verbs
 have singular and plural forms. Use the verb form that
-agrees with subject of the sentence in number. 
+agrees with the subject of the sentence in number. 
 
 **When the subject is**|**The verb is**|**Examples**
 --|--|--
