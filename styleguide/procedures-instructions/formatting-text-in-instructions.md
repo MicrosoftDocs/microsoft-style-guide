@@ -23,7 +23,7 @@ instructions (also referred to as procedures).
 
 Use these conventions in instructions that appear in documentation and technical content.
 
-| Element | Convention | Example |
+| **Element** | **Convention** | **Example** |
 |---|---|---|
 | **Blades** | Avoid talking about blades. Instead, describe what the customer needs to do. <br /> When you must refer to a blade by name, use bold formatting for the name of the blade. <br /> Use sentence-style capitalization unless you need to match the UI. <br /> Don’t include the word _blade_ unless it adds needed clarity. | Select a specific operation to view details about that operation.<br /> In **Web app**, provide a name for your site.<br /> Go to **Audit logs** to view the events that occurred against the subscription.<br /> On the **Resource group** blade, select **Summary**. |
 | **Buttons, check boxes, and other options** | Avoid talking about UI elements. Instead, describe what the customer needs to do. <br /> When you must refer to a button, check box, or other option, use bold formatting for the name. <br /> Use sentence-style capitalization unless you need to match the UI. If an option label ends with a colon or an ellipsis, don’t include that end punctuation in instructions. <br /> Don’t include the type of UI element, such as _button_ or _check box,_ unless including it adds needed clarity. | Select **Save as** (_not_ Select **Save as…** or Select the **Save as** button). <br /> Select **Allow row to break across pages**. <br /> Clear the **Match case** check box. |
@@ -51,7 +51,7 @@ Use these conventions in instructions that appear in documentation and technical
 | **Strings** | When referring to strings in code, a document, a website, or UI, use sentence-style capitalization unless the text you’re referring to is capitalized differently. Enclose in quotation marks. | Select &quot;Now is the time.&quot; <br /> Find “font-family:Segoe UI Semibold” in the code. |
 | **System commands** | All uppercase. | SC_HOTLIST |
 | **Tabs** | Avoid talking about tabs. Instead, describe what the customer needs to do. <br /> When you must refer to a tab by name, use bold formatting for the name of the tab. <br /> Use sentence-style capitalization unless you need to match the UI. <br /> Don’t include the word <em>tab</em> unless it adds needed clarity. | Select the table, and then select **Design** &gt; **Header row**. <br /> On the **Design** tab, select **Header row**. <br /> Go to the **Deploy** tab. In the **Configuration** list, …. |
-| **URLs** | All lowercase for complete URLs. If necessary, line-break long URLs before a slash. Don’t hyphenate. <br /> See also [URLs and web addresses](https://worldready.cloudapp.net/Styleguide/Read?id=2700&amp;topicid=34905). | www.microsoft.com <br /> msdn.microsoft.com/downloads |
+| **URLs** | All lowercase for complete URLs. If necessary, line-break long URLs before a slash. Don’t hyphenate. <br /> See also [URLs and web addresses](/style-guide/urls-web-addresses). | www.microsoft.com <br /> msdn.microsoft.com/downloads |
 | **User input** | Usually lowercase, unless case sensitive. Bold or italic, depending on the element. If the user input string contains placeholder text, use italic for that text. | Enter **hello world** <br /> Enter **-p** _password_ |
 | **Windows** | Avoid talking about windows. Instead, focus on what the customer needs to do.<br /> When you must refer to a window by name, use regular text. Use sentence-style capitalization unless you need to match the UI.<br /> Use _window_ only as a generic term for an area on a PC screen where apps and content appear. Don’t use _window_ to refer to a specific dialog box, blade, or similar UI element. | To embed the new object, switch to the source document. <br /> Easily switch between open windows. <br /> Open a new Microsoft Edge tab in a new window so you can look at tabs side by side. |
 | **XML schema elements** | Bold. Capitalization varies. | **ElementType** element <br /> **Xml:space** attribute |
@@ -67,7 +67,7 @@ text.
 
 Choose one of the approaches below and use it consistently.
 
-| Option | Example |
+| **Option** | **Example** |
 |---|---|
 | Describe the action without referring to a specific UI label. | Choose the group or groups that you want to assign services to. |
 | Use wording that clearly sets off the name of the element. | Assign services to the Business data only group. <br /> By selecting the Create my database button, you agree Microsoft can use entity and field names you create to help improve our common data model. <br /> Choose how often you want to refresh data in Schedule refresh. |
