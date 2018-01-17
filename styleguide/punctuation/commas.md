@@ -9,7 +9,7 @@ ms.prod: non-product-specific
 
 # Commas
 
-## Use a comma:
+## Use a comma
 
   - In
     a list of three or more items, include a comma before the conjunction.
@@ -34,7 +34,7 @@ ms.prod: non-product-specific
 
 For information about using commas in numbers, see [Numbers](/style-guide/numbers).
 
-## Don’t use a comma:
+## Don’t use a comma
 
   - To join independent clauses when you don't use a conjunction. (Use a semicolon instead.)<br />
     **Example** <br />Select **Options**; then select **Enable fast saves.**
