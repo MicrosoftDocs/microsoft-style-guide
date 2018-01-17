@@ -37,16 +37,16 @@ communication.
 
 With both types of arrows, subsequent communication is two-way.
 
-![](media/illustrating-network-traffic-flows/589503366.PNG)
+![](media/illustrating-network-traffic-flows/589503366.PNG)<br /><br />
 
 **Use line styles to distinguish different traffic flows.** Choose line colors that contrast with the image background 
 and are distinct when printed or viewed in black and white.
 
-![](media/illustrating-network-traffic-flows/1252879060.png)
+![](media/illustrating-network-traffic-flows/1252879060.png)<br /><br />
 
 **Label specific network traffic.** If possible, overlay the label onto the line: 
 
-![](media/illustrating-network-traffic-flows/83067036.png)
+![](media/illustrating-network-traffic-flows/83067036.png)<br /><br />
 
 Otherwise, add the label as a callout:
 
