@@ -19,7 +19,8 @@ Use an apostrophe:
     Berlioz's opera  
     an OEM's product   
     users' passwords   
-    the Joneses' computer
+    the Joneses' computer  
+    
   - To indicate a missing letter in a contraction.  
     **Examples**  
     can't   
@@ -29,12 +30,12 @@ Use an apostrophe:
 Don’t use an apostrophe:
 
   - For the possessive form of *it*.  
-    **Example** Replace a formula with its calculated value.
+    **Example** <br />Replace a formula with its calculated value.  
     
   - With a possessive pronoun.  
-    **Example** The choice is yours.
+    **Example** <br />The choice is yours.  
     
   - To form the plural of a singular noun.  
-    **Example** Play your favorite games on all your devices.
+    **Example** <br />Play your favorite games on all your devices.
 
-**Note:**  Don't use the possessive form of Microsoft trademarks and product, service, or feature names.
+**Note**  Don't use the possessive form of Microsoft trademarks and product, service, or feature names.
