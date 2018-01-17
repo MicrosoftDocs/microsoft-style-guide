@@ -31,7 +31,7 @@ it into multiple sentences.
 
 **Include *that* and *who*.** They help to clarify the sentence structure.<br />
 **Examples**  
-Inspect the database to verify that all tables, data, and relationships were correctly migrated.
+Inspect the database to verify that all tables, data, and relationships were correctly migrated.  
 Select the check box of each folder that you want to sync with your desktop.
 
 **Include articles,** such as *the.* Articles help readers and translation software identify the nouns and modifiers in a sentence.<br />
@@ -49,7 +49,7 @@ localize. Consider the worldwide implications of what you write.
 Worldwide customers may not know much about the history and culture of
 your country. 
 
-**Avoid modifier stacks.** Long chains of modifying words are confusing even to native English speakers. For example, say *Your migration will proceed more smoothly if you have a project plan that's well thought out,* not *With an extremely well thought-out Windows migration project plan, your migration will go more smoothly.*
+**Avoid modifier stacks.** Long chains of modifying words are confusing even to native English speakers. For example, say "Your migration will proceed more smoothly if you have a project plan that's well thought out," not "With an extremely well thought-out Windows migration project plan, your migration will go more smoothly."
 
 **Use active voice and indicative mood** most of the time. Use imperative mood in procedures.
 
