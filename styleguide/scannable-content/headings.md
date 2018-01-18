@@ -29,11 +29,13 @@ In any type of content—whether it’s UI, web content, marketing, or advertisi
     there’s a lot to say under a top-level heading, look for two or
     more distinct topics, and use second-level headings (subheads) to
     break up the large section into more scannable chunks. If you can’t find
-    at least two distinct topics, skip the second-level headings.
+    at least two distinct topics, skip the second-level headings.  
+    
   - Identify
     at least two distinct topics in a section before you add another
     heading level. And never follow a heading with another
-    heading. 
+    heading.  
+    
   - Each new heading represents a new or more specific topic. The heading should introduce the topic in an interesting way.
 
 **Use headings judiciously.** One heading level is usually plenty for a page or two of content. For long content, you might need to use additional heading levels. For example, this guide uses four heading levels.
@@ -53,8 +55,7 @@ on what customers can achieve or what they need to know.
 **Use parallel sentence structure** for all
 headings at the same level. For example, use noun phrases for
 first-level headings, verb phrases for second-level headings, and
-infinitive phrases for headings in instructions. 
-
+infinitive phrases for headings in instructions.<br />
 **Examples**  
 **Source data**  
 
@@ -67,6 +68,7 @@ infinitive phrases for headings in instructions.
 &nbsp;&nbsp;&nbsp;&nbsp;*To remove blank rows*  
 
 **PivotTable reports**  
+
 **Report filters**
 
 **Consider imperative phrases,** such as *To create a heading,* for headings and titles related to tasks. For headings that aren't related to tasks, use a noun phrase such as *Headings,* if possible. 
@@ -75,15 +77,14 @@ infinitive phrases for headings in instructions.
 
 **Avoid hyphens** in headings if you can. In resized windows or mobile devices, they can result in awkward line breaks.
 
-**Use *vs*.**, not *v*. or *versus*, in headings.
+**Use *vs.,* not *v*.** or *versus,* in headings.
 
 ## Formatting headings
 
 **Use sentence-style capitalization** for headings. In
 sentence-style capitalization, the first word is capitalized,
 proper nouns are capitalized, and everything else is lowercase. To learn
-more, see [Capitalization](/style-guide/capitalization).
-
+more, see [Capitalization](/style-guide/capitalization).<br />
 **Examples**  
 Say hello to Surface Pro  
 Set up the deployment environment  
@@ -103,9 +104,12 @@ Enter inserts a manual line break in many authoring tools.)
 
   - Keep adjectives and prepositions with the words they modify.
   
-  - Keep hyphenated words and multiple-word proper nouns (such as *New York*) on the same line.
-  - Break after punctuation.
+  - Keep hyphenated words and multiple-word proper nouns (such as *New York*) on the same line.  
+  
+  - Break after punctuation.  
+  
   - Break naturally, at the end of a complete phrase, if possible. 
+  
   - If you can’t fit a headline on two lines, rewrite it.
 
 **Use vertical spacing to make headings stand out.** Headings
@@ -121,8 +125,7 @@ to the screen size automatically, whether they're viewed on mobile
 devices, tablets, laptops, or desktops. Extra line breaks might detract
 from the content appearance on mobile devices. 
 
-**Learn more**  
-[Using type](/style-guide/text-formatting/using-type/)  
+**Learn more** [Using type](/style-guide/text-formatting/using-type/)  
 
 ## Using run-in headings
 
@@ -143,7 +146,8 @@ When you use bold formatting for run-in headings:
   - Consider repeating common phrases, such as *Tip, Note,* and *See also,* as
     run-in headings to call attention to helpful information,
     interesting but nonessential information, or
-    cross-references, respectively.
+    cross-references, respectively.  
+    
   - Use
     a character style, rather than manual formatting, to make your
     headings consistent, easy to apply, and easy to maintain. You can
