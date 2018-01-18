@@ -183,7 +183,7 @@
 ### [control-menu box](a-z-word-list-term-collections/c/control-menu-box.md)
 ### [conversation as a platform (CaaP)](a-z-word-list-term-collections/c/conversation-as-a-platform-caap.md)
 ### [conversational user interface (CUI)](a-z-word-list-term-collections/c/conversational-user-interface-cui.md)
-### [-core](a-z-word-list-term-collections/c/dash-core.md))
+### [-core](a-z-word-list-term-collections/c/dash-core.md)
 ### [corrupted](a-z-word-list-term-collections/c/corrupted.md)
 ### [country or region](a-z-word-list-term-collections/c/country-or-region.md)
 ### [crash](a-z-word-list-term-collections/c/crash.md)
