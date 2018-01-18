@@ -2,7 +2,7 @@
 title: software as a service (SaaS) - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 1/19/2018
+ms.date: 11/19/2016
 ms.topic: article
 ms.prod: non-product-specific
 ---
