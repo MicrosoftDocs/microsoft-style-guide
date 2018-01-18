@@ -1,4 +1,4 @@
-﻿---
+---
 title: Formatting text in instructions - Microsoft Style Guide
 author: pallep
 ms.author: pallep

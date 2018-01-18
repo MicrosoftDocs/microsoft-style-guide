@@ -1,4 +1,4 @@
-﻿---
+---
 title: root directory - Microsoft Style Guide
 author: pallep
 ms.author: pallep

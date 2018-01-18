@@ -1,4 +1,4 @@
-﻿---
+---
 title: sign in, sign out - Microsoft Style Guide
 author: pallep
 ms.author: pallep

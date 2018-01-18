@@ -1,4 +1,4 @@
-﻿---
+---
 title: Use simple words, concise sentences - Microsoft Style Guide
 author: pallep
 ms.author: pallep

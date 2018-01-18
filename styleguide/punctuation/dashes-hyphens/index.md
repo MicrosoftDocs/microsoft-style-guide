@@ -1,4 +1,4 @@
-﻿---
+---
 title: Dashes and hyphens - Microsoft Style Guide
 author: pallep
 ms.author: pallep

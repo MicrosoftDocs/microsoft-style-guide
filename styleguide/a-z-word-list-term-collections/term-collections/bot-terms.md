@@ -1,4 +1,4 @@
-﻿---
+---
 title: Bot terms - Microsoft Style Guide
 author: pallep
 ms.author: pallep

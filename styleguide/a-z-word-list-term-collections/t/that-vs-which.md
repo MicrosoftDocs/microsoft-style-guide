@@ -1,4 +1,4 @@
-﻿---
+---
 title: that vs. which - Microsoft Style Guide
 author: pallep
 ms.author: pallep

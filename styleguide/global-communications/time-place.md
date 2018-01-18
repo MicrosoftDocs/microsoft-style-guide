@@ -1,4 +1,4 @@
-﻿---
+---
 title: Time and place - Microsoft Style Guide
 author: pallep
 ms.author: pallep

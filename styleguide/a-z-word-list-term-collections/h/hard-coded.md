@@ -1,4 +1,4 @@
-﻿---
+---
 title: hard-coded - Microsoft Style Guide
 author: pallep
 ms.author: pallep

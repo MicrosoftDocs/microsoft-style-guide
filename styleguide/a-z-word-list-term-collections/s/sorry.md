@@ -1,4 +1,4 @@
-﻿---
+---
 title: sorry - Microsoft Style Guide
 author: pallep
 ms.author: pallep

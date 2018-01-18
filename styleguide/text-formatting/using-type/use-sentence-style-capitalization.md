@@ -1,4 +1,4 @@
-﻿---
+---
 title: Use sentence-style capitalization - Microsoft Style Guide
 author: pallep
 ms.author: pallep

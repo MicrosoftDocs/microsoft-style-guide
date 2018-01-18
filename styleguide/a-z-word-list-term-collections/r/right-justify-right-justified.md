@@ -1,4 +1,4 @@
-﻿---
+---
 title: right justify, right-justified - Microsoft Style Guide
 author: pallep
 ms.author: pallep

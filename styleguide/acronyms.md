@@ -1,4 +1,4 @@
-﻿---
+---
 title: Acronyms - Microsoft Style Guide
 author: pallep
 ms.author: pallep

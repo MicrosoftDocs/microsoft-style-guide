@@ -1,4 +1,4 @@
-﻿---
+---
 title: Bias-free communication - Microsoft Style Guide
 author: pallep
 ms.author: pallep

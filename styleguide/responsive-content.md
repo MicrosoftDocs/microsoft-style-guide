@@ -1,4 +1,4 @@
-﻿---
+---
 title: Responsive content - Microsoft Style Guide
 author: pallep
 ms.author: pallep

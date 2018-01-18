@@ -1,4 +1,4 @@
-﻿---
+---
 title: Prepositions - Microsoft Style Guide
 author: pallep
 ms.author: pallep

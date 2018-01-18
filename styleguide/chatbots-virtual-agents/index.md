@@ -1,4 +1,4 @@
-﻿---
+---
 title: Chatbots and virtual agents - Microsoft Style Guide
 author: pallep
 ms.author: pallep

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Grammar and parts of speech - Microsoft Style Guide
 author: pallep
 ms.author: pallep

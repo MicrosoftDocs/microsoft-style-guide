@@ -1,4 +1,4 @@
-﻿---
+---
 title: Punctuation - Microsoft Style Guide
 author: pallep
 ms.author: pallep

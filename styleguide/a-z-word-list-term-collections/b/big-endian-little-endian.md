@@ -1,4 +1,4 @@
-﻿---
+---
 title: big-endian, little-endian - Microsoft Style Guide
 author: pallep
 ms.author: pallep

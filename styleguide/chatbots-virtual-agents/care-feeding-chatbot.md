@@ -1,4 +1,4 @@
-﻿---
+---
 title: Care and feeding of the chatbot - Microsoft Style Guide
 author: pallep
 ms.author: pallep

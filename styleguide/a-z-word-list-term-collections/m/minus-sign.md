@@ -1,4 +1,4 @@
-﻿---
+---
 title: minus sign (–) - Microsoft Style Guide
 author: pallep
 ms.author: pallep

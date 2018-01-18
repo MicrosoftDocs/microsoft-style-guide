@@ -1,4 +1,4 @@
-﻿---
+---
 title: low-resolution - Microsoft Style Guide
 author: pallep
 ms.author: pallep

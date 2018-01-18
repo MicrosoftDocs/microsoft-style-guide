@@ -1,4 +1,4 @@
-﻿---
+---
 title: Don't use common words in new ways - Microsoft Style Guide
 author: pallep
 ms.author: pallep

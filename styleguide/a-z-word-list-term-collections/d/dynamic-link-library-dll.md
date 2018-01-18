@@ -1,4 +1,4 @@
-﻿---
+---
 title: dynamic-link library (DLL) - Microsoft Style Guide
 author: pallep
 ms.author: pallep

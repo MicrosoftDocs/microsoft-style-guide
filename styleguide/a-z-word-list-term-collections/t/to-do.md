@@ -1,4 +1,4 @@
-﻿---
+---
 title: to-do - Microsoft Style Guide
 author: pallep
 ms.author: pallep

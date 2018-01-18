@@ -1,4 +1,4 @@
-﻿---
+---
 title: Top 10 tips for Microsoft style and voice - Microsoft Style Guide
 author: pallep
 ms.author: pallep

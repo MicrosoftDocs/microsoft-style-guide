@@ -1,4 +1,4 @@
-﻿---
+---
 title: cyber- - Microsoft Style Guide
 author: pallep
 ms.author: pallep

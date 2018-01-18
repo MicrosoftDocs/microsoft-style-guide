@@ -1,4 +1,4 @@
-﻿---
+---
 title: left justify, left-justified - Microsoft Style Guide
 author: pallep
 ms.author: pallep

@@ -1,4 +1,4 @@
-﻿---
+---
 title: store, marketplace, gallery - Microsoft Style Guide
 author: pallep
 ms.author: pallep

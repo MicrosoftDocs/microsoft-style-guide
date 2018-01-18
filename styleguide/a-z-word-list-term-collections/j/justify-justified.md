@@ -1,4 +1,4 @@
-﻿---
+---
 title: justify, justified - Microsoft Style Guide
 author: pallep
 ms.author: pallep

@@ -1,4 +1,4 @@
-﻿---
+---
 title: gray, grayed out - Microsoft Style Guide
 author: pallep
 ms.author: pallep

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Web, software, and HTML considerations - Microsoft Style Guide
 author: pallep
 ms.author: pallep

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Mouse and mouse interaction terms - Microsoft Style Guide
 author: pallep
 ms.author: pallep

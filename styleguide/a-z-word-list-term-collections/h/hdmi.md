@@ -1,4 +1,4 @@
-﻿---
+---
 title: HDMI (High-Definition Multimedia Interface) - Microsoft Style Guide
 author: pallep
 ms.author: pallep

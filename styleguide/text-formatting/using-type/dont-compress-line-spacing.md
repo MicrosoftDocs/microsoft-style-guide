@@ -1,4 +1,4 @@
-﻿---
+---
 title: Don't compress line spacing - Microsoft Style Guide
 author: pallep
 ms.author: pallep

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Formatting titles - Microsoft Style Guide
 author: pallep
 ms.author: pallep

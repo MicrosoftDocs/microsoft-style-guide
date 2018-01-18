@@ -1,4 +1,4 @@
-﻿---
+---
 title: print queue, printer queue - Microsoft Style Guide
 author: pallep
 ms.author: pallep

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Design planning - Microsoft Style Guide
 author: pallep
 ms.author: pallep

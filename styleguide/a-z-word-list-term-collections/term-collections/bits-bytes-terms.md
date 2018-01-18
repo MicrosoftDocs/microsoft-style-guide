@@ -1,4 +1,4 @@
-﻿---
+---
 title: Bits and bytes terms - Microsoft Style Guide
 author: pallep
 ms.author: pallep

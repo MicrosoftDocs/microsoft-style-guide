@@ -1,4 +1,4 @@
-﻿---
+---
 title: Writing for chatbots - Microsoft Style Guide
 author: pallep
 ms.author: pallep

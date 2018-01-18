@@ -1,4 +1,4 @@
-﻿---
+---
 title: Procedures and instructions - Microsoft Style Guide
 author: pallep
 ms.author: pallep

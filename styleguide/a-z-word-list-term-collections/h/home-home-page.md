@@ -1,4 +1,4 @@
-﻿---
+---
 title: home, home page - Microsoft Style Guide
 author: pallep
 ms.author: pallep

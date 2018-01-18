@@ -1,4 +1,4 @@
-﻿---
+---
 title: 8.5" x 11" paper - Microsoft Style Guide
 author: pallep
 ms.author: pallep

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Units of measure terms - Microsoft Style Guide
 author: pallep
 ms.author: pallep
