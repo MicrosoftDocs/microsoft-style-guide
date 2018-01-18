@@ -50,8 +50,10 @@ to supporting information is a good way to stick to the point and
 keep content concise. In a large body of content, cross-references
 can improve navigation and make content easier to scan.
 
-  - Write short link text (four or fewer words) that's descriptive and includes keywords.
-  - If it works, use the title or description of the target page as link text. 
+  - Write short link text (four or fewer words) that's descriptive and includes keywords.  
+  
+  - If it works, use the title or description of the target page as link text.  
+  
   - Link to background and related information rather than summarizing it.
 
 Backlinks
