@@ -21,8 +21,7 @@ Make items in a list parallel. For example, each item should be a noun or a phra
 
 ## Bulleted lists
 
-Use a bulleted list for things that have something in common but don’t need to appear in a particular order.
-
+Use a bulleted list for things that have something in common but don’t need to appear in a particular order.<br />
 **Example**<br />The database owner can:
 
   - Create and delete a database.
@@ -31,8 +30,7 @@ Use a bulleted list for things that have something in common but don’t need to
 
 ## Numbered lists
 
-Use a numbered list for sequential items (like a procedure) or prioritized items (like a top 10 list). 
-
+Use a numbered list for sequential items (like a procedure) or prioritized items (like a top 10 list).<br />
 **Example**<br />**To sign on to a database**
 
 1.  On the **File** menu, select **Open database**.
@@ -49,7 +47,7 @@ If
 you introduce a list with a heading, don’t use explanatory text after
 the heading. Also, don’t use a colon or period after the heading.
 
-**Global tip**<br />If
+**Global tip** If
 your content will be localized, avoid lists where an introductory
 fragment is completed by the list items below it. This can be difficult
 to translate.
@@ -66,7 +64,8 @@ all items begin with lowercase words.
 
 In bulleted and numbered lists, end each list item with a period if:
 
-  - Any item forms a complete sentence when combined with the list introduction that precedes the colon. <br />    **Exception** Don’t use periods if all items have three or fewer words or if the items are UI labels, headings, subheadings, or strings.
+  - Any item forms a complete sentence when combined with the list introduction that precedes the colon. <br />    **Exception** Don’t use periods if all items have three or fewer words or if the items are UI labels, headings, subheadings, or strings.  
+  
   - Any item *by itself* is a complete sentence.
 
 Don’t use semicolons, commas, or conjunctions (like *and* or *or*) at the end of list items.
