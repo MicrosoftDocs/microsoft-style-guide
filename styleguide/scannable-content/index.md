@@ -41,7 +41,7 @@ Buy or Download button there. If the navigation is on
 the left, put your most important information in the upper-left
 corner of the text pane.
 
-## **Be brief, be bold, be clear**
+## Be brief, be bold, be clear
 
 Long
 spans of dense text are daunting and unapproachable to readers.
@@ -63,11 +63,13 @@ quickly get to what they need.
   - If
     you're developing content for a collection, such as the MSDN or
     TechNet libraries, break the content up into sections so
-    that information is easy to find in the library navigation.
+    that information is easy to find in the library navigation.  
+    
   - In
     a longer document that's likely to be read online, even if it’s a
     downloadable Word document or PDF file, include a table of
-    contents with links to subheadings. 
+    contents with links to subheadings.  
+    
   - Add *Back to top* links at the end of sections.
 
 ## Establish patterns in content
@@ -80,20 +82,21 @@ content to create familiar landmarks for your readers:
   - Lead
     with what's most important. Place important keywords near the beginning
     of headings, table entries, and paragraphs so they're easy to
-    spot. 
-  - Use text formatting consistently, such as using bold in procedures to identify UI labels. To learn more, see [Text formatting](/style-guide/text-formatting/). 
+    spot.  
+    
+  - Use text formatting consistently, such as using bold in procedures to identify UI labels. To learn more, see [Text formatting](/style-guide/text-formatting/).  
+  
   - Apply
     the same sentence structures to similar information. For example,
     use prepositional phrases consistently in procedures to
     help customers navigate menus and dialog boxes. And use the same
     syntax for cross-references and other common content elements.
 
-Writing tip
-When comparing things, use parallel sentence structures
+**Writing tip** When comparing things, use parallel sentence structures
 to describe each thing. Write headlines and bulleted list items
 using the same sentence structure, too.
 
-## **Give paragraphs room—and keep them short**
+## Give paragraphs room—and keep them short
 
 Paragraphs
 usually have extra space between them. How much extra space
