@@ -9,7 +9,7 @@ ms.prod: non-product-specific
 
 # Quotation marks
 
-In most content, use double quotation marks (“ ”) not single quotation marks (' ').
+In most content, use double quotation marks (" ") not single quotation marks (' ').
 
 In
 printed content, use curly quotation marks (“ ”) except in
