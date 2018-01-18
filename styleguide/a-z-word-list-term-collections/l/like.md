@@ -9,7 +9,7 @@ ms.prod: non-product-specific
 
 # \-like
 
-In general, don't hyphenate words ending with *-like* unless the root word ends in double *l*'s or the root word has three or more syllables. 
+In general, don't hyphenate words ending with *-like* unless the root word ends in double <em>l'</em>s or the root word has three or more syllables. 
 
 **Examples**  
 maillike  
