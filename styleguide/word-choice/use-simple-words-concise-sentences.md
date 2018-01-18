@@ -22,7 +22,7 @@ Use your judgment to avoid sounding abrupt or unfriendly.
     |---|---|
     | use | utilize, <br /> make use of |
     | remove | extract, <br /> take away, <br /> eliminate |
-    | tell | inform, <br /> let know |<br />
+    | tell | inform, <br /> let know |<br /><br />
   
   - Don’t use two or three words when one will do.  
     **Examples**  
@@ -31,14 +31,14 @@ Use your judgment to avoid sounding abrupt or unfriendly.
     |---|---|
     | to | in order to, <br /> as a means to |
     | also | in addition |
-    | connect | establish connectivity |<br />
+    | connect | establish connectivity |<br /><br />
 
   - Whenever possible, choose words that have one clear meaning.  
     **Examples**  
     
     | **Use this** | **Not this** |
     |---|---|
-    | _Because_ you created the table, you can change it. | _Since_ you created the table, you can change it. |<br />
+    | _Because_ you created the table, you can change it. | _Since_ you created the table, you can change it. |<br /><br />
 
   - Omit unnecessary adverbs—words that describe how, when, or where.
     Unless they're important to the meaning of a statement, leave
