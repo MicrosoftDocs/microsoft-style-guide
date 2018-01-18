@@ -13,7 +13,7 @@ Follow these conventions for formatting titles.
 
 **See also** [Capitalization](/style-guide/capitalization), [Headings](/style-guide/scannable-content/headings)
 
-| Titles | Convention | Example |
+| **Titles** | **Convention** | **Example** |
 |---|---|--|
 | **Games** | Title-style capitalization. Italic. | *Halo: Reach* |
 | **Books** | Title-style capitalization. Italic in body text, citations, and other text references. | Check out _Unraveling HTML5, CSS3, and JavaScript_ (in body text) <br /> Minecraft: The Complete Handbook Collection (in a heading) |
