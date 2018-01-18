@@ -31,7 +31,7 @@ For information about referring to UI elements, see [Formatting text in instruct
 **File names**|Title-style capitalization. It’s OK to use internal caps in file names for readability.|My Taxes for 2016<br />MyTaxesFor2016
 **Folder and directory names**|Sentence-style capitalization. It’s OK to use internal capital letters in folder and directory names for readability.|Vacation and sick pay<br />MyFiles\Accounting\Payroll\VacPay
 **Macros**|Usually all uppercase. Use bold formatting if predefined. Might be monospace if user defined. Treatment varies.|**LOWORD**<br />`MASKROP`
-**Markup language elements (tags)**|Bold. Capitalization varies.|\<img><br />\<input type=text><br />\<!DOCTYPE html>
+**Markup language elements (tags)**|Bold. Capitalization varies.|**\<img>**<br />**\<input type=text>**<br />**\<!DOCTYPE html>**
 **Mathematical constants and variables**|Italic.|*a2 + b2  = c2*
 **New terms**|Italicize the first mention of a new term if you're going to define it immediately in text.|Microsoft Exchange consists of both *server* and *client* components.
 **Ports**|All uppercase.|LPT1
