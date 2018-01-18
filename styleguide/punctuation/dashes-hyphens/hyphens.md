@@ -43,7 +43,7 @@ Hyphenate two or more words that precede and modify a noun as a unit if:
 	lower-left corner  
 	floating-point decimal  
 	line-by-line scrolling  
-	scrolling line by line 
+	scrolling line by line  
 	up-to-date information 
 
   - One of the words is a past or present participle (a verb form ending in *-ed* or -*ing* and used as an adjective or noun).<br />
@@ -54,9 +54,9 @@ Hyphenate two or more words that precede and modify a noun as a unit if:
 	The schema is well defined.  
 
   - The modifier is a number or single letter plus a noun or participle.<br />
-	**Examples**
-	two-sided arrow 
-	5-point star 
+	**Examples**  
+	two-sided arrow   
+	5-point star  
 	y-coordinate values
 
 ## Suspended compound modifiers
@@ -126,7 +126,6 @@ A prefix affects a word, not a phrase. For example, instead of *non-security rel
 When adding a prefix to a stem word results in a double vowel and each vowel is pronounced, don’t use a hyphen. <br />
 **Examples**  
 reenter  
-nonnegative  
 cooperate  
 
 For more information about using prefixes, see [*The Chicago Manual of Style*](http://www.chicagomanualofstyle.org/home.html).
