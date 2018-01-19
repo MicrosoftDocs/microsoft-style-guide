@@ -43,7 +43,7 @@ the A–Z word list and [*The American Heritage Dictionary*](https://ahdictionar
   
   - Industry research organizations, such as Forrester Research and Gartner.  
   
-  - Domain books, such as the *[PMI Lexicon of Project Management Terms](http://www.pmi.org/PMBOK-Guide-and-Standards/PMI-lexicon.aspx)* or the [FDIC List of Abbreviations and Glossary of Terms](http://www.fdic.gov/bank/historical/managing/history3-B.pdf).
+  - Domain books, such as the *[PMI Lexicon of Project Management Terms](http://www.pmi.org/PMBOK-Guide-and-Standards/PMI-lexicon.aspx)* or the [FDIC List of Abbreviations and Glossary of Terms (Appendix B)](https://www.fdic.gov/bank/historical/managing/documents/history-consolidated.pdf).
 
 ## Don’t create a new term if one already exists
 
