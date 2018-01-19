@@ -29,25 +29,17 @@ Our voice is:
 
   - **Warm and relaxed**—We’re
     natural. Less formal, more grounded in real, everyday conversations.
-    Occasionally, we’re fun. (We know when to celebrate.)
-  - **Crisp and clear**—We’re to the point. We write for scanning first, reading second. We make it simple above all.
+    Occasionally, we’re fun. (We know when to celebrate.)  
+    
+  - **Crisp and clear**—We’re to the point. We write for scanning first, reading second. We make it simple above all.  
+  
   - **Ready to lend a hand**—We show customers we’re on their side. We anticipate their real needs and offer great information at just the right time.
-
-## One brand, one voice
-
-Microsoft
-interacts directly with more than a billion customers worldwide. So
-it’s crucial that our voice be distinctive yet consistent. Our unified
-voice sets us apart in a crowded marketplace and helps us communicate as
-one Microsoft to each customer, wherever we meet.
 
 ## A focus on the customer
 
-Our
-voice is the true reflection of Microsoft culture and our commitment to
-empowering people to achieve more. Talking to our customers in a way
-that’s warm and relaxed, crisp and clear, and ready to lend a hand makes
-them feel important, listened to, informed, and respected.
+Talking to our customers in a way
+that’s warm and relaxed, crisp and clear, and ready to lend a hand reflects our commitment to empowering 
+people to achieve more.
 
 **Style tips**
 
@@ -57,12 +49,14 @@ A few key elements of writing Microsoft’s voice:
     with the key takeaway. Put the most important thing in the most
     noticeable spot. Make choices and next steps obvious. Give people
     just enough information to make decisions confidently. Don’t get in
-    the way. 
+    the way.  
+    
   - **Talk like a person.** Choose
     optimistic, conversational language. Use short everyday words,
     contractions, and sentence-style capitalization. Shun jargon and
     acronyms. And never miss an opportunity to find a better
-    word. 
+    word.  
+    
   - **Simpler is better.** Everyone
     likes clarity and getting to the point. Break it up. Step it out.
     Layer. Short sentences and fragments are easier to scan and read.
