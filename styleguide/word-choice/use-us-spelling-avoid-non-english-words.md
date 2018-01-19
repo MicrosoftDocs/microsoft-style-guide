@@ -9,7 +9,7 @@ ms.prod: non-product-specific
 
 # Use US spelling and avoid non-English words
 
-When the spelling of English words varies by locale, use the US spelling. For example, use *license*, not *licence.*
+When the spelling of English words varies by locale, use the US spelling. For example, use *license,* not *licence.*
 
 Avoid non-English words or phrases, such as *de facto* or *ad hoc*. 
 
