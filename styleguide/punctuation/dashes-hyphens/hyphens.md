@@ -121,7 +121,7 @@ Use a hyphen between a prefix and a stem word:
   
   - If the stem word begins with a capital letter. <br />
     **Example**  
-    non-XML format file  
+    non-XML  
 
 A prefix affects a word, not a phrase. For example, instead of *non-security related,* use *unrelated to security*.
 
