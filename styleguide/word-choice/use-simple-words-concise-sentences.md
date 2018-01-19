@@ -15,21 +15,21 @@ understand, and facilitate scanning. Use simple words with
 precise meanings, and remove words that don’t add substance.
 Use your judgment to avoid sounding abrupt or unfriendly.
 
-  - Choose simple verbs without modifiers. Whenever you can, avoid weak or vague verbs, such as *be*, *have*, *make*, and *do.*   
+  - Choose simple verbs without modifiers. Whenever you can, avoid weak or vague verbs, such as *be, have, make,* and *do.*   
     **Examples**
     
     | **Use this** | **Not this** |
     |---|---|
-    | use | utilize, <br /> make use of |
-    | remove | extract, <br /> take away, <br /> eliminate |
-    | tell | inform, <br /> let know |<br /><br />
+    | use | utilize, make use of |
+    | remove | extract, take away, eliminate |
+    | tell | inform, let know |<br /><br />
   
   - Don’t use two or three words when one will do.  
     **Examples**  
     
     | **Use this** | **Not this** |
     |---|---|
-    | to | in order to, <br /> as a means to |
+    | to | in order to, as a means to |
     | also | in addition |
     | connect | establish connectivity |<br /><br />
 
