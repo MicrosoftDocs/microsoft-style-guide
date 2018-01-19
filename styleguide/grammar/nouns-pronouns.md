@@ -27,7 +27,7 @@ Proper nouns include:
   
   - Managed standards, such as Bluetooth.
 
-If there's more than one of a thing, it’s a common noun. For example, there are lots of chief operating officers, so *chief operating officer* is a common noun. There’s only one *Sophia Fischer, Chief Operating Officer,* so that’s a proper noun. 
+If there's more than one of a thing, it’s a common noun. For example, there are lots of chief operating officers, so *chief operating officer* is a common noun. There’s only one *Latasha Sharp, Chief Operating Officer,* so that’s a proper noun. 
 
 Don’t
 capitalize common nouns unless they begin a sentence or the situation
