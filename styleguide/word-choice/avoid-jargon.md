@@ -36,4 +36,4 @@ Differentiating jargon from technical terminology is tricky. First, check the Aâ
   
   - If the term is used in *The Wall Street Journal* or *The New York Times,* or in general-interest magazines, such as *Time* or *Newsweek,* it might be appropriate for some audiences.  
   
-  - If the term is used in technical periodicals such as *CNET* or *Re/code,* it's probably OK to use for technical audiences.
+  - If the term is used in technical periodicals such as *CNET* or *Recode,* it's probably OK to use for technical audiences.
