@@ -114,12 +114,14 @@ In general, don’t include a hyphen after the following prefixes unless omittin
 
 Use a hyphen between a prefix and a stem word:
 
-  - If a confusing word results without the hyphen.  
-  
-  - If the stem word begins with a capital letter. <br />
+  - If a confusing word results without the hyphen.<br />
     **Examples**  
     non-native  
-    pro-Microsoft  
+    pre-provisioned
+  
+  - If the stem word begins with a capital letter. <br />
+    **Example**  
+    non-XML format file  
 
 A prefix affects a word, not a phrase. For example, instead of *non-security related,* use *unrelated to security*.
 
@@ -138,4 +140,4 @@ Customer-friendly content is brief, accurate, and to the point.
 
 Capitalize the final part of a hyphenated compound word if it's the last word in a context that requires title capitalization, such as a book or song title.<br />
 **Example**  
-Boone, Nettie. *The App E-Book.* Redmond, WA: Lucerne Publishing, 2015. 
+Bisson, Guillermo. *The App E-Book.* Redmond, WA: Lucerne Publishing, 2015. 
