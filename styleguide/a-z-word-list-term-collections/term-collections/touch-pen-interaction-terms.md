@@ -1,4 +1,4 @@
-﻿---
+---
 title: Touch and pen interaction terms - Microsoft Style Guide
 author: pallep
 ms.author: pallep

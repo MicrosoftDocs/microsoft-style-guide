@@ -1,4 +1,4 @@
-﻿---
+---
 title: if vs. whether vs. when - Microsoft Style Guide
 author: pallep
 ms.author: pallep

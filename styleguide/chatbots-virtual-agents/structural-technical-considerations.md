@@ -1,4 +1,4 @@
-﻿---
+---
 title: Structural and technical considerations - Microsoft Style Guide
 author: pallep
 ms.author: pallep

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Graphics, design, and media - Microsoft Style Guide
 author: pallep
 ms.author: pallep

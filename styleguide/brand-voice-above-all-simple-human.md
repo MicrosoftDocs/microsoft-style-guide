@@ -1,4 +1,4 @@
-﻿---
+---
 title: Microsoft's brand voice &#58; above all, simple and human - Microsoft Style Guide
 author: pallep
 ms.author: pallep

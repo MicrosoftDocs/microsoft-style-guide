@@ -1,4 +1,4 @@
-﻿---
+---
 title: Writing for all abilities - Microsoft Style Guide
 author: pallep
 ms.author: pallep

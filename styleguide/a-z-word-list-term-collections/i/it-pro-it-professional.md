@@ -1,4 +1,4 @@
-﻿---
+---
 title: IT pro, IT professional - Microsoft Style Guide
 author: pallep
 ms.author: pallep

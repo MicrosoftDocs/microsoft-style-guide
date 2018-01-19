@@ -1,4 +1,4 @@
-﻿---
+---
 title: Use technical terms carefully - Microsoft Style Guide
 author: pallep
 ms.author: pallep

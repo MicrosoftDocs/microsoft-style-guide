@@ -1,4 +1,4 @@
-﻿---
+---
 title: worldwide vs. international - Microsoft Style Guide
 author: pallep
 ms.author: pallep

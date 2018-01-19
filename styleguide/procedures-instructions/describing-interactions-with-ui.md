@@ -1,4 +1,4 @@
-﻿---
+---
 title: Describing interactions with UI - Microsoft Style Guide
 author: pallep
 ms.author: pallep

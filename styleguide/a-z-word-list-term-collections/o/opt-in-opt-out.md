@@ -1,4 +1,4 @@
-﻿---
+---
 title: opt in, opt out - Microsoft Style Guide
 author: pallep
 ms.author: pallep

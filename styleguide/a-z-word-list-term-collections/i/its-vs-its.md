@@ -1,4 +1,4 @@
-﻿---
+---
 title: its vs. it's - Microsoft Style Guide
 author: pallep
 ms.author: pallep

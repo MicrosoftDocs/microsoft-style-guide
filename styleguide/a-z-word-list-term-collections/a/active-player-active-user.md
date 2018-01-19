@@ -1,4 +1,4 @@
-﻿---
+---
 title: active player, active user - Microsoft Style Guide
 author: pallep
 ms.author: pallep

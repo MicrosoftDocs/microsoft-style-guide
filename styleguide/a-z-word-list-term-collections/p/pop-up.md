@@ -1,4 +1,4 @@
-﻿---
+---
 title: pop-up - Microsoft Style Guide
 author: pallep
 ms.author: pallep

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Accessibility guidelines and requirements - Microsoft Style Guide
 author: pallep
 ms.author: pallep

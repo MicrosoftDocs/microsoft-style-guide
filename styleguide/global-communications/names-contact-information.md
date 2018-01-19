@@ -1,4 +1,4 @@
-﻿---
+---
 title: Names and contact information - Microsoft Style Guide
 author: pallep
 ms.author: pallep

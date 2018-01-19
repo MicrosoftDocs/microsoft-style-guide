@@ -1,4 +1,4 @@
-﻿---
+---
 title: Nouns and pronouns - Microsoft Style Guide
 author: pallep
 ms.author: pallep

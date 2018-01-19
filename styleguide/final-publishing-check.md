@@ -1,4 +1,4 @@
-﻿---
+---
 title: Final publishing check - Microsoft Style Guide
 author: pallep
 ms.author: pallep

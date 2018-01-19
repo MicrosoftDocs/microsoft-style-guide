@@ -1,4 +1,4 @@
-﻿---
+---
 title: Writing step-by-step instructions - Microsoft Style Guide
 author: pallep
 ms.author: pallep

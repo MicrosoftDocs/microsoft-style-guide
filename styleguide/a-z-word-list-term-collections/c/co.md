@@ -1,4 +1,4 @@
-﻿---
+---
 title: co- - Microsoft Style Guide
 author: pallep
 ms.author: pallep

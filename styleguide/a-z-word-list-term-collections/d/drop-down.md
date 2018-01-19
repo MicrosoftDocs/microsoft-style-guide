@@ -1,4 +1,4 @@
-﻿---
+---
 title: drop-down - Microsoft Style Guide
 author: pallep
 ms.author: pallep

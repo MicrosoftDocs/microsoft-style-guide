@@ -1,4 +1,4 @@
-﻿---
+---
 title: how to, how-to - Microsoft Style Guide
 author: pallep
 ms.author: pallep

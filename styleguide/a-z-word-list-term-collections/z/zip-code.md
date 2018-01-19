@@ -1,4 +1,4 @@
-﻿---
+---
 title: ZIP Code - Microsoft Style Guide
 author: pallep
 ms.author: pallep

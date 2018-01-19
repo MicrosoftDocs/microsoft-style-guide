@@ -1,4 +1,4 @@
-﻿---
+---
 title: line of business, line-of-business - Microsoft Style Guide
 author: pallep
 ms.author: pallep

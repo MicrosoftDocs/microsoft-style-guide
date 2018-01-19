@@ -1,4 +1,4 @@
-﻿---
+---
 title: Search and writing - Microsoft Style Guide
 author: pallep
 ms.author: pallep

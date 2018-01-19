@@ -1,4 +1,4 @@
-﻿---
+---
 title: plug-in - Microsoft Style Guide
 author: pallep
 ms.author: pallep

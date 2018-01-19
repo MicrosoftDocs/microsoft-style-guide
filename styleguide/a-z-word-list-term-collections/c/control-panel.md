@@ -1,4 +1,4 @@
-﻿---
+---
 title: Control Panel - Microsoft Style Guide
 author: pallep
 ms.author: pallep

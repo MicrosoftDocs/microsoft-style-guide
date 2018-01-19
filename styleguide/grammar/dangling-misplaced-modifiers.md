@@ -1,4 +1,4 @@
-﻿---
+---
 title: Dangling and misplaced modifiers - Microsoft Style Guide
 author: pallep
 ms.author: pallep

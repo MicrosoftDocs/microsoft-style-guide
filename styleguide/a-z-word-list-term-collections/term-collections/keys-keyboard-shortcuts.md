@@ -1,4 +1,4 @@
-﻿---
+---
 title: Keys and keyboard shortcuts - Microsoft Style Guide
 author: pallep
 ms.author: pallep

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Colors and patterns in text, graphics, and design - Microsoft Style Guide
 author: pallep
 ms.author: pallep

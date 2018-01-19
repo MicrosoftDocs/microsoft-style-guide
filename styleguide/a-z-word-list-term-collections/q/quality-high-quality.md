@@ -1,4 +1,4 @@
-﻿---
+---
 title: quality, high-quality - Microsoft Style Guide
 author: pallep
 ms.author: pallep

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Use US spelling and avoid non-English words - Microsoft Style Guide
 author: pallep
 ms.author: pallep

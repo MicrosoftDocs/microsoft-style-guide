@@ -1,4 +1,4 @@
-﻿---
+---
 title: more than vs. over - Microsoft Style Guide
 author: pallep
 ms.author: pallep

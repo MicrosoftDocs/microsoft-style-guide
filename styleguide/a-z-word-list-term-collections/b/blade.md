@@ -1,4 +1,4 @@
-﻿---
+---
 title: blade - Microsoft Style Guide
 author: pallep
 ms.author: pallep

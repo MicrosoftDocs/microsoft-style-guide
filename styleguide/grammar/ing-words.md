@@ -1,4 +1,4 @@
-﻿---
+---
 title: Words ending in -ing - Microsoft Style Guide
 author: pallep
 ms.author: pallep

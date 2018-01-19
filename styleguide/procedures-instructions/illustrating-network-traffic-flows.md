@@ -1,4 +1,4 @@
-﻿---
+---
 title: Illustrating network traffic flows - Microsoft Style Guide
 author: pallep
 ms.author: pallep

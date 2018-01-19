@@ -1,4 +1,4 @@
-﻿---
+---
 title: Numbers - Microsoft Style Guide
 author: pallep
 ms.author: pallep

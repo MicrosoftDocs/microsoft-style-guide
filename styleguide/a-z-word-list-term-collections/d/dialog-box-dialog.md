@@ -1,4 +1,4 @@
-﻿---
+---
 title: dialog box, dialog - Microsoft Style Guide
 author: pallep
 ms.author: pallep

@@ -1,4 +1,4 @@
-﻿---
+---
 title: right align, right-aligned - Microsoft Style Guide
 author: pallep
 ms.author: pallep

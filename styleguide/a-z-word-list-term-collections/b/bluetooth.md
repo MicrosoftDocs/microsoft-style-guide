@@ -1,4 +1,4 @@
-﻿---
+---
 title: Bluetooth - Microsoft Style Guide
 author: pallep
 ms.author: pallep

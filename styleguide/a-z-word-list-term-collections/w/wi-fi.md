@@ -1,4 +1,4 @@
-﻿---
+---
 title: Wi-Fi - Microsoft Style Guide
 author: pallep
 ms.author: pallep

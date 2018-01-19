@@ -1,4 +1,4 @@
-﻿---
+---
 title: Describing alternative input methods - Microsoft Style Guide
 author: pallep
 ms.author: pallep

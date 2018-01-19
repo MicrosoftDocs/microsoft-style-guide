@@ -1,4 +1,4 @@
-﻿---
+---
 title: Periods - Microsoft Style Guide
 author: pallep
 ms.author: pallep

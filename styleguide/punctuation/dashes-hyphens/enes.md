@@ -1,4 +1,4 @@
-﻿---
+---
 title: En dashes - Microsoft Style Guide
 author: pallep
 ms.author: pallep

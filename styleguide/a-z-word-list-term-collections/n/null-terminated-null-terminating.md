@@ -1,4 +1,4 @@
-﻿---
+---
 title: null-terminated, null-terminating - Microsoft Style Guide
 author: pallep
 ms.author: pallep

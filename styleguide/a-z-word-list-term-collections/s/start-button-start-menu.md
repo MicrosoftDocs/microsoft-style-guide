@@ -1,4 +1,4 @@
-﻿---
+---
 title: Start button, Start menu - Microsoft Style Guide
 author: pallep
 ms.author: pallep

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Formatting common text elements - Microsoft Style Guide
 author: pallep
 ms.author: pallep
