@@ -32,6 +32,7 @@
     "externalReference": [],
     "globalMetadata": {
       "breadcrumb_path": "/style-guide/breadcrumb/toc.json",
+      "searchScope": ["Style guide"],
       "extendBreadcrumb": true
     },
     "fileMetadata": {},
