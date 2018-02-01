@@ -592,7 +592,6 @@
 ### [pinch](a-z-word-list-term-collections/p/pinch.md)
 ### [ping, PING](a-z-word-list-term-collections/p/ping-ping.md)
 ### [pipe](a-z-word-list-term-collections/p/pipe.md)
-### [pixel](a-z-word-list-term-collections/p/pixel.md)
 ### [placeholder](a-z-word-list-term-collections/p/placeholder.md)
 ### [plaintext, plain text](a-z-word-list-term-collections/p/plaintext-plain-text.md)
 ### [platform](a-z-word-list-term-collections/p/platform.md)
