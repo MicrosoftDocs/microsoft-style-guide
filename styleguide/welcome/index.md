@@ -1,6 +1,6 @@
 ---
 title: Welcome - Microsoft Style Guide
-description: The online Microsoft Writing Style Guide provides guidelines.
+description: The online Microsoft Writing Style Guide features updated direction and new editorial guidelines.
 author: pallep
 ms.author: pallep
 ms.date: 02/07/2018
