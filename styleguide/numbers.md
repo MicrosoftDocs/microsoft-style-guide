@@ -2,7 +2,7 @@
 title: Numbers - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 02/06/2018
+ms.date: 02/07/2018
 ms.topic: article
 ms.prod: non-product-specific
 ---
