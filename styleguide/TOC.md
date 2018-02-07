@@ -885,7 +885,7 @@
 ## [Reference documentation](developer-content/reference-documentation.md)
 ## [Code examples](developer-content/code-examples.md)
 ## [Formatting developer text elements](developer-content/formatting-developer-text-elements.md)
-# [Final publishing check](final-publishing-check.md)
+# [Final publishing review](final-publishing-review.md)
 # [Global communications](global-communications/index.md)
 ## [Writing tips](global-communications/writing-tips.md)
 ## [Art](global-communications/art.md)

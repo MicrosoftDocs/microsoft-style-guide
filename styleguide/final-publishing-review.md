@@ -1,5 +1,5 @@
 ---
-title: Final publishing check - Microsoft Style Guide
+title: Final publishing review - Microsoft Style Guide
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
@@ -7,7 +7,7 @@ ms.topic: article
 ms.prod: non-product-specific
 ---
 
-# Final publishing check
+# Final publishing review
 
 Use these tips to help you edit like
 a pro, so your final content and design shine. 
