@@ -2,7 +2,7 @@
 title: Capitalization - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 01/19/2018
+ms.date: 02/07/2018
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -61,7 +61,9 @@ Available for Microsoft partners and commercial and public-sector customers
 
 Occasionally, title-style capitalization—capitalizing most words—is appropriate.
 For example, product and service names, the names of blogs, book and
-song titles, article titles in citations, and titles of people (*Vice President* or *Director of Marketing*) require title-style capitalization. In a tweet, it’s OK to use title-style capitalization to highlight the name of a quoted article. 
+song titles, article titles in citations, white paper titles, and titles of people 
+(*Vice President* or *Director of Marketing*) require title-style capitalization. In a tweet, it’s OK 
+to use title-style capitalization to highlight the name of a quoted article. 
 
 On the rare occasions when title-style capitalization is required, follow these guidelines: 
 

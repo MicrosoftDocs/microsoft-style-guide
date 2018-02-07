@@ -1,8 +1,9 @@
 ---
 title: Welcome - Microsoft Style Guide
+description: The online Microsoft Writing Style Guide provides up-to-date style and terminology guidelines. It replaces the Microsoft Manual of Style.
 author: pallep
 ms.author: pallep
-ms.date: 01/30/2018
+ms.date: 02/07/2018
 ms.topic: article
 ms.prod: non-product-specific
 ---

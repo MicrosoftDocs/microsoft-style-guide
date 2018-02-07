@@ -2,7 +2,7 @@
 title: Numbers - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 01/19/2018
+ms.date: 02/07/2018
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -143,7 +143,9 @@ all other content, follow the guidelines below.
     **Example**  
     from 9 through 17
 
-    **Exceptions** Use an en dash in a range of pages or where space is an issue, such as in tables and UI. For example, *2016–2020* and *pages 112–120.*
+    **Exceptions** <br />
+    Use an en dash in a range of pages or where space is an issue, such as in tables and UI. For example, *2016–2020* and *pages 112–120.*<br />
+    Use *to* in a range of times. For example, *10:00 AM to 2:00 PM.*  
 
   - Don’t use *from* before a range indicated by an en dash, such as *10–15*. 
 
