@@ -29,14 +29,12 @@ With this: You need an ID that looks like this: <someone@example.com>
 ## Project friendliness
 Use contractions: *it’s, you’ll, you’re, we’re, let’s.* To learn more, see [Use contractions](/style-guide/word-choice/use-contractions).
 
-**Example**<br />Replace this: Your Microsoft Band is not waterproof. Light rain and hand washing should
-not harm it, but do not immerse your Band in liquids of any kind. Do not
-wear your Band while swimming or in the shower. 
+**Example**<br />Replace this: To help you avoid traffic, remember anniversaries, and 
+in general do more, Cortana needs to know what you are interested in, what is on your calendar, 
+and who you are doing things with. 
 
-With this: Your
-Microsoft Band isn't waterproof. Light rain and hand washing shouldn't
-harm it, but don't immerse it in liquids or wear it while you're
-swimming or in the shower.
+With this: To help you avoid traffic, remember anniversaries, and in general do more, 
+Cortana needs to know what you’re interested in, what’s on your calendar, and who you’re doing things with.
 
 ## Get to the point fast
 Lead with what’s most important. Front-load keywords for scanning. Make
