@@ -2,7 +2,7 @@
 title: master/slave, master/subordinate - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 01/19/2018
+ms.date: 02/10/2018
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -14,7 +14,7 @@ In content for a technical audience, it's OK to substitute *subordinate* for *sl
 
 Use *master/subordinate* as an adjective. Refer to arrangements in which one device controls another as a *master/subordinate arrangement,* or refer to the controlling device as the *master server* and the controlled device as the *subordinate server.* 
 
-When you need to clarify the concept, it's OK to reference the use of *slave* as an adjective by saying *also known as the slave server.* You should continue to index *master server* and *slave server.*
+When you need to clarify the concept, it's OK to reference the use of *slave* as an adjective by saying *also known as the slave server.* It's OK to use *master server* and *slave server* as synonyms in keyword lists.
 
 Avoid using *slave* as an adjective. Never use *slave* as a noun.
 
