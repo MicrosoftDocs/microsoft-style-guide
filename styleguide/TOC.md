@@ -320,6 +320,7 @@
 ### [gallery](a-z-word-list-term-collections/g/gallery.md)
 ### [game pad](a-z-word-list-term-collections/g/game-pad.md)
 ### [garbage collection, garbage collector](a-z-word-list-term-collections/g/garbage-collection-garbage-collector.md)
+### [General Data Protection Regulation (GDPR)](a-z-word-list-term-collections/g/general-data-protection-regulation-gdpr.md)
 ### [general protection fault, GP fault](a-z-word-list-term-collections/g/general-protection-fault-gp-fault.md)
 ### [gigabit, Gbit](a-z-word-list-term-collections/g/gigabit.md)
 ### [gigabyte, GB, G, G byte, Gbyte](a-z-word-list-term-collections/g/gigabyte.md)
