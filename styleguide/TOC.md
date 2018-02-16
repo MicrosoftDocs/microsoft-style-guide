@@ -314,6 +314,7 @@
 ### [friendly name](a-z-word-list-term-collections/f/friendly-name.md)
 ### [from vs. on](a-z-word-list-term-collections/f/from-vs-on.md)
 ### [front end, front-end](a-z-word-list-term-collections/f/front-end.md)
+### [full screen, full-screen](a-z-word-list-term-collections/f/full-screen.md)
 ### [function](a-z-word-list-term-collections/f/function.md)
 ## G
 ### [gallery](a-z-word-list-term-collections/g/gallery.md)
