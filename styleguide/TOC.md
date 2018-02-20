@@ -1,4 +1,5 @@
 # [Welcome](welcome/index.md)
+## [What's new](welcome/whats-new.md)
 # [Microsoft's brand voice: above all, simple and human](brand-voice-above-all-simple-human.md)
 # [Top 10 tips for Microsoft style and voice](top-10-tips-style-voice.md)
 # A–Z word list and term collections
@@ -314,11 +315,13 @@
 ### [friendly name](a-z-word-list-term-collections/f/friendly-name.md)
 ### [from vs. on](a-z-word-list-term-collections/f/from-vs-on.md)
 ### [front end, front-end](a-z-word-list-term-collections/f/front-end.md)
+### [full screen, full-screen](a-z-word-list-term-collections/f/full-screen.md)
 ### [function](a-z-word-list-term-collections/f/function.md)
 ## G
 ### [gallery](a-z-word-list-term-collections/g/gallery.md)
 ### [game pad](a-z-word-list-term-collections/g/game-pad.md)
 ### [garbage collection, garbage collector](a-z-word-list-term-collections/g/garbage-collection-garbage-collector.md)
+### [General Data Protection Regulation (GDPR)](a-z-word-list-term-collections/g/general-data-protection-regulation-gdpr.md)
 ### [general protection fault, GP fault](a-z-word-list-term-collections/g/general-protection-fault-gp-fault.md)
 ### [gigabit, Gbit](a-z-word-list-term-collections/g/gigabit.md)
 ### [gigabyte, GB, G, G byte, Gbyte](a-z-word-list-term-collections/g/gigabyte.md)
