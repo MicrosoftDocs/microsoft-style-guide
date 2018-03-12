@@ -2,7 +2,7 @@
 title: Numbers - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 02/07/2018
+ms.date: 03/12/2018
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -65,7 +65,14 @@ all other content, follow the guidelines below.
   $1,024  
   1,093 MB  
 
-  **Exception** When designating years or baud, use commas only when the number has five or more digits: *2500 B.C., 10,000 B.C., 9600 baud, 14,400 baud.*
+  **Exception** When designating years, pixels, or baud, use commas only when the number has five or more digits.<br />
+  **Examples**  
+  2500 B.C.  
+  10,000 B.C.  
+  1920 × 1080 pixels  
+  10,240 × 4320 pixels  
+  9600 baud  
+  14,400 baud
 
   Don’t use commas in page numbers, addresses, or after the decimal point in decimal fractions.<br />
   **Examples**  
