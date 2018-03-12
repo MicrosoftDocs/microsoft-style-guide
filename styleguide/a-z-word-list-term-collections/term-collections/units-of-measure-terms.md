@@ -2,7 +2,7 @@
 title: Units of measure terms - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 01/19/2018
+ms.date: 03/12/2018
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -40,7 +40,8 @@ to measurement. For other units of measure not covered here, see [*The Chicago M
     
   - Use commas in numbers that have four or more digits, regardless of how the numbers appear in the UI: 1,093 MB.  
     **Exceptions**  
-    For baud, use commas only when the number has five or more digits: *9600 baud, 14,400 baud.*  
+    For pixel measurements and baud, use commas only when the number has five or more digits: *1920 × 1080 pixels, 
+    10,240 × 4320 pixels, 9600 baud, 14,400 baud.*  
     Don’t use commas after the decimal point in decimal fractions.
     
   - When
