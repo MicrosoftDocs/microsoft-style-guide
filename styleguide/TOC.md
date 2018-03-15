@@ -501,6 +501,7 @@
 ### [Microsoft](a-z-word-list-term-collections/m/microsoft.md)
 ### [Microsoft account](a-z-word-list-term-collections/m/microsoft-account.md)
 ### [Microsoft Software License Terms](a-z-word-list-term-collections/m/software-license-terms.md)
+### [Microsoft Store](a-z-word-list-term-collections/m/microsoft-store.md)
 ### [midnight](a-z-word-list-term-collections/m/midnight.md)
 ### [Minimize button, minimize](a-z-word-list-term-collections/m/minimize-button-minimize.md)
 ### [minus sign (–)](a-z-word-list-term-collections/m/minus-sign.md)
