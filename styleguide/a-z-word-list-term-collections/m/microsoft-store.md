@@ -16,7 +16,7 @@ In general, don’t include *the* (*the Microsoft Store*) unless it's necessary 
 
 Don’t use *Windows Store* or *Xbox Store.* Always use the singular *Microsoft Store.* Don’t use *Microsoft Stores.*
 
-Refer to a brick-and-mortar store as a location.   
+Refer to a brick-and-mortar store as a *location.*   
 **Example** <br />Get it at a Microsoft Store location near you.
 
 If your message applies only to a specific part or parts of Microsoft Store, add descriptors if needed for clarity. The approved descriptors are:
