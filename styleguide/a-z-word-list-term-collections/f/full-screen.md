@@ -2,7 +2,7 @@
 title: full screen, full-screen - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 02/16/2018
+ms.date: 03/16/2018
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -12,4 +12,5 @@ ms.prod: non-product-specific
 Two words as a noun. Hyphenate as an adjective before a noun.  
 **Examples**  
 full-screen display   
-To make the display full screen ….
+To make the display full screen ….  
+Full screen (in the UI)
