@@ -57,7 +57,7 @@ agrees with the subject of the sentence in number.
 
 **When the subject is**|**The verb is**|**Examples**
 --|--|--
-A group of things|Singular|A variety of games is available from the Windows Store.
-Two or more singular things connected by *and*|Plural|Facebook and Twitter are available from the Windows Store.
+A group of things|Singular|A variety of games is available from Microsoft Store.
+Two or more singular things connected by *and*|Plural|Facebook and Twitter are available from Microsoft Store.
 Two or more singular things connected by *or*|Singular|Your tablet or phone is all you need to play your favorite games on the go.
-A singular thing and a plural thing connected by *or*|Singular or plural, to match the closest subject|Skype or social media apps are available from the Windows Store.<br />Social media apps or Skype is available from the Windows Store.
+A singular thing and a plural thing connected by *or*|Singular or plural, to match the closest subject|Skype or social media apps are available from Microsoft Store.<br />Social media apps or Skype is available from Microsoft Store.
