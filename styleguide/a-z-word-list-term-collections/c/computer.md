@@ -9,4 +9,4 @@ ms.prod: non-product-specific
 
 # computer
 
-**See** [Computer and device term collection](/style-guide/a-z-word-list-term-collections/term-collections/computer-device-terms)
+**See** [Computer and device term collection](~/a-z-word-list-term-collections/term-collections/computer-device-terms.md)

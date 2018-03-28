@@ -9,4 +9,4 @@ ms.prod: non-product-specific
 
 # link
 
-**See** [hyperlink](/style-guide/a-z-word-list-term-collections/h/hyperlink)
+**See** [hyperlink](~/a-z-word-list-term-collections/h/hyperlink.md)

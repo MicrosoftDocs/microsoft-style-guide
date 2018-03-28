@@ -47,7 +47,7 @@ a 650-MB limit
 **Term**|**Abbreviation**|**Usage**
 ---|---|---
 **bits per pixel**|bpp|
-**bits per second**|bps|Don't use as a synonym for *baud.* See [Units of measure term collection](/style-guide/a-z-word-list-term-collections/term-collections/units-of-measure-terms) for information about *baud.*
+**bits per second**|bps|Don't use as a synonym for *baud.* See [Units of measure term collection](~/a-z-word-list-term-collections/term-collections/units-of-measure-terms.md) for information about *baud.*
 **byte**|*None*|Don't abbreviate.
 **exabyte**|EB|Don’t use *E, E byte,* or *EByte.*
 **gigabit**|*None*|Don’t abbreviate.

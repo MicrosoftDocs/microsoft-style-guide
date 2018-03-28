@@ -20,4 +20,4 @@ Select the bold characters, and then select **Bold** to remove bold formatting.
 
 In writing for customers, use *regular type* to describe type that's neither bold nor italic.
 
-For information about when to use various font styles, see [Text formatting](/style-guide/text-formatting/).
+For information about when to use various font styles, see [Text formatting](~/text-formatting/index.md).

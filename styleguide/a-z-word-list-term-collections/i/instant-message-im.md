@@ -22,4 +22,4 @@ Customize instant messaging features based on your friends, family, and work con
 
 **Global tip** The abbreviated form isn't available in all languages, so allow enough space for the full translated term in localized content.
 
-**See also** [message](/style-guide/a-z-word-list-term-collections/m/message)
+**See also** [message](~/a-z-word-list-term-collections/m/message.md)

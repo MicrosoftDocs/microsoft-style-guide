@@ -25,7 +25,7 @@ vision.
 
 ## Use consistent text formatting
 
-Use sentence-style capitalization. To learn more, see [Capitalization](/style-guide/capitalization).
+Use sentence-style capitalization. To learn more, see [Capitalization](~/capitalization.md).
 
 ## Represent communication with arrows, lines, and labels
 

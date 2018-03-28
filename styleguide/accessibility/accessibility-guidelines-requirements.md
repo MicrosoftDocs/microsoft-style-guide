@@ -15,11 +15,11 @@ and on the go—to do the activities they value most.
 
 This section provides an overview of accessibility guidelines:
 
-  - [Writing for all abilities](/style-guide/accessibility/writing-all-abilities)
-  - [Colors and patterns in text, graphics, and design](/style-guide/accessibility/colors-patterns-text-graphics-design) 
-  - [Graphics, design, and media](/style-guide/accessibility/graphics-design-media)
+  - [Writing for all abilities](~/accessibility/writing-all-abilities.md)
+  - [Colors and patterns in text, graphics, and design](~/accessibility/colors-patterns-text-graphics-design.md) 
+  - [Graphics, design, and media](~/accessibility/graphics-design-media.md)
 
-**See also** [Accessibility term collection](/style-guide/a-z-word-list-term-collections/term-collections/accessibility-terms)
+**See also** [Accessibility term collection](~/a-z-word-list-term-collections/term-collections/accessibility-terms.md)
 
 **Learn more**  
 [Microsoft Accessibility site](https://www.microsoft.com/en-us/accessibility/)  

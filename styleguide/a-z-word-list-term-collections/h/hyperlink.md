@@ -26,4 +26,4 @@ In content for web designers, it's OK to use *followed link* to refer to a desti
 Select the link to go to another webpage.   
 On the **Insert** tab, select **Hyperlink** in the **Links** group.  
 
-**See also** [URLs and web addresses](/style-guide/urls-web-addresses), [Describing interactions with UI](/style-guide/procedures-instructions/describing-interactions-with-ui)
+**See also** [URLs and web addresses](~/urls-web-addresses.md), [Describing interactions with UI](~/procedures-instructions/describing-interactions-with-ui.md)

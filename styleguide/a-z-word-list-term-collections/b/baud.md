@@ -9,4 +9,4 @@ ms.prod: non-product-specific
 
 # baud
 
-**See** [Units of measure term collection](/style-guide/a-z-word-list-term-collections/term-collections/units-of-measure-terms)
+**See** [Units of measure term collection](~/a-z-word-list-term-collections/term-collections/units-of-measure-terms.md)

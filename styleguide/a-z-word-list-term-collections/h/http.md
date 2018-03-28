@@ -16,4 +16,4 @@ reason to spell out, use *Hypertext Transfer Protocol.*
 
 Use all uppercase when referring to the HTTP protocol itself. In general, omit *http://* from a URL. If for some reason you need to include *http://* as part of a URL, use all lowercase.
 
-**See also** [](/style-guide/urls-web-addresses)[URLs and web addresses](/style-guide/urls-web-addresses)
+**See also** [URLs and web addresses](~/urls-web-addresses.md)

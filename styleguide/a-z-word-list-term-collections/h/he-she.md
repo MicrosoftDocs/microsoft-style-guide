@@ -11,4 +11,4 @@ ms.prod: non-product-specific
 
 Don't use.
 
-**See** [Nouns and pronouns](/style-guide/grammar/nouns-pronouns)
+**See** [Nouns and pronouns](~/grammar/nouns-pronouns.md)

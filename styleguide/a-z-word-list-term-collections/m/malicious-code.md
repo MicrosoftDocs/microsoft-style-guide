@@ -9,4 +9,4 @@ ms.prod: non-product-specific
 
 # malicious code
 
-**See** [Security term collection](/style-guide/a-z-word-list-term-collections/term-collections/security-terms)
+**See** [Security term collection](~/a-z-word-list-term-collections/term-collections/security-terms.md)

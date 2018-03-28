@@ -15,7 +15,7 @@ Tailor the tone of the chatbot’s responses to the context. If it’s something
 cybersecurity—be empathetic but brief and straightforward. If it’s a more mundane situation (like creating a new account), 
 the tone can be more relaxed. And a chatbot for Xbox can be lighthearted and casual. 
 
-**See** [Microsoft’s brand voice](/style-guide/brand-voice-above-all-simple-human)  
+**See** [Microsoft’s brand voice](~/brand-voice-above-all-simple-human.md)  
 
 <h2>Be honest and build trust</h2> 
 

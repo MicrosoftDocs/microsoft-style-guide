@@ -17,7 +17,7 @@ customers.
 This section covers common cloud-computing terms.
 
 For more
-information about creating new terms or using emerging terminology, see [Use technical terms carefully](/style-guide/word-choice/use-technical-terms-carefully).
+information about creating new terms or using emerging terminology, see [Use technical terms carefully](~/word-choice/use-technical-terms-carefully.md).
 
 |**Term**|**Usage**|
 |---|---|

@@ -19,4 +19,4 @@ If the UI or API uses *boot* in a label or element name, use *boot* to refer to 
 The Boot.ini file stores startup options.  
 Diagnosing and correcting problems that affect the startup process is an important troubleshooting skill.  
 
-**See also** [turn on, turn off](/style-guide/a-z-word-list-term-collections/t/turn-on-turn-off)
+**See also** [turn on, turn off](~/a-z-word-list-term-collections/t/turn-on-turn-off.md)

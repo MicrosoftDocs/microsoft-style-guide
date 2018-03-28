@@ -32,7 +32,7 @@ ms.prod: non-product-specific
   - To surround the year when you use a complete date within a sentence.<br />
     **Example** <br />See the product reviews in the February 4, 2015, issue of the *New York Times.*
 
-For information about using commas in numbers, see [Numbers](/style-guide/numbers).
+For information about using commas in numbers, see [Numbers](~/numbers.md).
 
 ## Don’t use a comma
 

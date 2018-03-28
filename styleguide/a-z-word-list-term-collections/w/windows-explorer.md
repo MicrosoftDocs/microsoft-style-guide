@@ -11,4 +11,4 @@ ms.prod: non-product-specific
 
 Don't use. 
 
-**See** [File Explorer](/style-guide/a-z-word-list-term-collections/f/file-explorer)
+**See** [File Explorer](~/a-z-word-list-term-collections/f/file-explorer.md)

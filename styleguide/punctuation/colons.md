@@ -19,7 +19,7 @@ We can create a backup of all sorts of things to make the transition easier, inc
   - The passwords for your accounts. 
   - Your call history. 
 
-To learn more, see [Lists](/style-guide/scannable-content/lists).
+To learn more, see [Lists](~/scannable-content/lists.md).
 
 ## Within sentences
 

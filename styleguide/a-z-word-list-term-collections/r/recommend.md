@@ -22,4 +22,4 @@ the upgrade. If you have limited hard drive space available, we
 recommend that you have a USB flash drive handy when you install
 Windows 10.
 
-**See also** [should vs. must](/style-guide/a-z-word-list-term-collections/s/should-vs-must)
+**See also** [should vs. must](~/a-z-word-list-term-collections/s/should-vs-must.md)

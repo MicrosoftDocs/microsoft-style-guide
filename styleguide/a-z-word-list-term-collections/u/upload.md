@@ -18,4 +18,4 @@ object (the thing the subject is uploaded to) with the verb *upload.*
 **Example**  
 Upload a document from your computer to this library. 
 
-**See also** [download](/style-guide/a-z-word-list-term-collections/d/download), [load](/style-guide/a-z-word-list-term-collections/l/load)
+**See also** [download](~/a-z-word-list-term-collections/d/download.md), [load](~/a-z-word-list-term-collections/l/load.md)

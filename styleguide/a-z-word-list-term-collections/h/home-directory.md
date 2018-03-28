@@ -17,4 +17,4 @@ In Windows, the root directory is indicated by a backslash (\\).
 
 In all other content, use *top-level folder*.
 
-**See also** [root directory](/style-guide/a-z-word-list-term-collections/r/root-directory)
+**See also** [root directory](~/a-z-word-list-term-collections/r/root-directory.md)

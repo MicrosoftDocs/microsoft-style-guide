@@ -19,4 +19,4 @@ When you need to help a customer interact with UI, refer to a list box by its la
 In the **Background** list, select **Coffee Bean**.   
 In the pop-up list, select **Microsoft Excel**. (Mac only)
 
-**See also** [Describing interactions with UI](/style-guide/procedures-instructions/describing-interactions-with-ui), [Formatting text in instructions](/style-guide/procedures-instructions/formatting-text-in-instructions)
+**See also** [Describing interactions with UI](~/procedures-instructions/describing-interactions-with-ui.md), [Formatting text in instructions](~/procedures-instructions/formatting-text-in-instructions.md)

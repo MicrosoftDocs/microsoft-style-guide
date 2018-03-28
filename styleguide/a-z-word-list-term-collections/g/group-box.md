@@ -20,4 +20,4 @@ Under **Effects**, select **Hidden**.
 
 It's OK to use *group box* in content for a technical audience.
 
-**See also** [Formatting text in instructions](/style-guide/procedures-instructions/formatting-text-in-instructions)
+**See also** [Formatting text in instructions](~/procedures-instructions/formatting-text-in-instructions.md)

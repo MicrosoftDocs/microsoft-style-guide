@@ -19,4 +19,4 @@ everyone. Refer to them as *assistive* only in discussions about supporting peop
 (General discussion) Calibrate your motion sensor to track your body movements correctly.  
 (Specific discussion) Learn about assistive technology built into Windows 10.
 
-**See also**  [Accessibility guidelines and requirements](/style-guide/accessibility/accessibility-guidelines-requirements)
+**See also**  [Accessibility guidelines and requirements](~/accessibility/accessibility-guidelines-requirements.md)

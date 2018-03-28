@@ -42,4 +42,4 @@ The following terms that include *web* are two words:
   - web folder 
   - web part
 
-**See also** [URLs and web addresses](/style-guide/urls-web-addresses)
+**See also** [URLs and web addresses](~/urls-web-addresses.md)

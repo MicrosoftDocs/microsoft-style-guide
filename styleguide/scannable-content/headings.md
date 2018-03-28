@@ -84,7 +84,7 @@ infinitive phrases for headings in instructions.<br />
 **Use sentence-style capitalization** for headings. In
 sentence-style capitalization, the first word is capitalized,
 proper nouns are capitalized, and everything else is lowercase. To learn
-more, see [Capitalization](/style-guide/capitalization).<br />
+more, see [Capitalization](~/capitalization.md).<br />
 **Examples**  
 Say hello to Surface Pro  
 Set up the deployment environment  
@@ -125,7 +125,7 @@ to the screen size automatically, whether they're viewed on mobile
 devices, tablets, laptops, or desktops. Extra line breaks might detract
 from the content appearance on mobile devices. 
 
-**Learn more** [Using type](/style-guide/text-formatting/using-type/)  
+**Learn more** [Using type](~/text-formatting/using-type/index.md)  
 
 ## Using run-in headings
 

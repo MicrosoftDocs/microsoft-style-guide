@@ -21,4 +21,4 @@ It's OK to use *on the command line* in the context of building apps using comma
 
 Use *command-line program* in content for a general audience. Use *console application* only in content for a technical audience. 
 
-**See also** [command prompt](/style-guide/a-z-word-list-term-collections/c/command-prompt), [console](/style-guide/a-z-word-list-term-collections/c/console)
+**See also** [command prompt](~/a-z-word-list-term-collections/c/command-prompt.md), [console](~/a-z-word-list-term-collections/c/console.md)

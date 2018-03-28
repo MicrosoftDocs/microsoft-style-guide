@@ -11,7 +11,7 @@ ms.prod: non-product-specific
 
 Follow these conventions for formatting titles.
 
-**See also** [Capitalization](/style-guide/capitalization), [Headings](/style-guide/scannable-content/headings)
+**See also** [Capitalization](~/capitalization.md), [Headings](~/scannable-content/headings.md)
 
 | **Titles** | **Convention** | **Example** |
 |---|---|--|

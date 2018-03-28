@@ -11,4 +11,4 @@ ms.prod: non-product-specific
 
 Don't use.
 
-**See** [Cloud-computing term collection](/style-guide/a-z-word-list-term-collections/term-collections/cloud-computing-terms)
+**See** [Cloud-computing term collection](~/a-z-word-list-term-collections/term-collections/cloud-computing-terms.md)

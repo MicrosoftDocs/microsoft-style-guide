@@ -32,4 +32,4 @@ Follow these guidelines when discussing symbols:
 
   - Don't insert a space between a number and the symbol it modifies. <br />**Examples**<br />75%<br />\<100 
 
-**See also** [Special character term collection](/style-guide/a-z-word-list-term-collections/term-collections/special-characters), [Keys and keyboard shortcuts term collection](/style-guide/a-z-word-list-term-collections/term-collections/keys-keyboard-shortcuts)[](https://worldready.cloudapp.net/Styleguide/Read?id=1413&topicid=3863)
+**See also** [Special character term collection](~/a-z-word-list-term-collections/term-collections/special-characters.md), [Keys and keyboard shortcuts term collection](~/a-z-word-list-term-collections/term-collections/keys-keyboard-shortcuts.md)

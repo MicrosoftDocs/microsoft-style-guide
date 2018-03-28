@@ -19,4 +19,4 @@ If the option appears dimmed, it's not available.
 If the command prompt isn’t available, your network administrator might have turned off this feature.  
 Some My Site features are temporarily unavailable. Please try again later.
 
-**See also** [disable, disabled](/style-guide/a-z-word-list-term-collections/d/disable-disabled), [turn on, turn off](/style-guide/a-z-word-list-term-collections/t/turn-on-turn-off)
+**See also** [disable, disabled](~/a-z-word-list-term-collections/d/disable-disabled.md), [turn on, turn off](~/a-z-word-list-term-collections/t/turn-on-turn-off.md)

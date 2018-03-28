@@ -19,4 +19,4 @@ Don't use italic formatting for the *y* in *y-axis* unless the entire word is it
 
 In 3D charts, the z-axis is usually the value axis. 
 
-**See also** [category axis](/style-guide/a-z-word-list-term-collections/c/category-axis), [z-axis](/style-guide/a-z-word-list-term-collections/z/z-axis)
+**See also** [category axis](~/a-z-word-list-term-collections/c/category-axis.md), [z-axis](~/a-z-word-list-term-collections/z/z-axis.md)

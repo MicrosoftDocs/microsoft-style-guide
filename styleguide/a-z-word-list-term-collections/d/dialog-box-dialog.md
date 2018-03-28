@@ -21,4 +21,4 @@ Select the **Paragraph** dialog box launcher, and then select **Tabs**. Enter th
 
 **Exception** In content for developers, it's OK to use *dialog* by itself as a modifier. For example, "This article provides information about the dialog form pattern."
 
-**See also** [Formatting text in instructions](/style-guide/procedures-instructions/formatting-text-in-instructions)
+**See also** [Formatting text in instructions](~/procedures-instructions/formatting-text-in-instructions.md)

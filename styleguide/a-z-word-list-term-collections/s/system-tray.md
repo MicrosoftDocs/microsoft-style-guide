@@ -11,4 +11,4 @@ ms.prod: non-product-specific
 
 Don't use. Use *notification area* instead.
 
-**See also** [notification area](/style-guide/a-z-word-list-term-collections/n/notification-area)
+**See also** [notification area](~/a-z-word-list-term-collections/n/notification-area.md)

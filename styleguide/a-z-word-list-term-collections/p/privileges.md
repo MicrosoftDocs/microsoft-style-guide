@@ -11,4 +11,4 @@ ms.prod: non-product-specific
 
 Don't use as a synonym for *permissions* or *rights*. 
 
-**See** [permissions](/style-guide/a-z-word-list-term-collections/p/permissions), [rights](/style-guide/a-z-word-list-term-collections/r/rights)
+**See** [permissions](~/a-z-word-list-term-collections/p/permissions.md), [rights](~/a-z-word-list-term-collections/r/rights.md)

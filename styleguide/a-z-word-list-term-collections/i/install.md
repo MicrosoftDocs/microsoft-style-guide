@@ -13,4 +13,4 @@ Use *install* to describe adding apps, hardware, and drivers to a device. Don't 
 
 Don't use *install* as a noun. Use *installation* instead.
 
-**See also** [add](/style-guide/a-z-word-list-term-collections/a/add)
+**See also** [add](~/a-z-word-list-term-collections/a/add.md)

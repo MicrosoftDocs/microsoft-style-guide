@@ -19,4 +19,4 @@ Don't use *set* to indicate entering or selecting a value in a dialog box or oth
 
 It's OK to use *set* in content for developers to describe entering or selecting the value of a property.
 
-**See also** [Describing interactions with UI](/style-guide/procedures-instructions/describing-interactions-with-ui)
+**See also** [Describing interactions with UI](~/procedures-instructions/describing-interactions-with-ui.md)
