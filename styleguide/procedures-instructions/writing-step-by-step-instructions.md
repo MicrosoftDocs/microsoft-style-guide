@@ -9,7 +9,7 @@ ms.prod: non-product-specific
 
 # Writing step-by-step instructions
 
-Follow these guidelines to help you create clear, easy-to follow instructions,
+Follow these guidelines to help you create clear, easy-to-follow instructions,
 whether you're writing simple, single-step procedures or complex
 procedures that consist of multiple steps.
 
