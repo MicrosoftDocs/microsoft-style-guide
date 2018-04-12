@@ -26,10 +26,10 @@ Technically speaking, there are two kinds of virtual agents:
 
 This section includes guidelines and tips to help you create this type of chatbot:
 
-- [Structural and technical considerations](/style-guide/chatbots-virtual-agents/structural-technical-considerations)
-- [Writing for chatbots](/style-guide/chatbots-virtual-agents/writing-chatbots)
-- [Care and feeding of the chatbot](/style-guide/chatbots-virtual-agents/care-feeding-chatbot)
+- [Structural and technical considerations](~/chatbots-virtual-agents/structural-technical-considerations.md)
+- [Writing for chatbots](~/chatbots-virtual-agents/writing-chatbots.md)
+- [Care and feeding of the chatbot](~/chatbots-virtual-agents/care-feeding-chatbot.md)
 
 **Learn more**  
 [Microsoft’s AI vision, rooted in research, conversations](https://news.microsoft.com/features/microsofts-ai-vision-rooted-in-research-conversations/#yAYKtrYjvRHKCYmc.97)  
-[Bot Framework documentation](https://docs.microsoft.com/en-us/bot-framework/) 
+[Bot Framework documentation](https://docs.microsoft.com/bot-framework/) 

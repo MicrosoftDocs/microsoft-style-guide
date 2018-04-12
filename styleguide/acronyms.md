@@ -97,4 +97,4 @@ the CEO’s blog
 
 **Global tip** In machine-translated content, be careful with acronyms that form common English words, like *RAM.* If the acronym appears outside of the parentheses and without the spelled-out version, it might be translated incorrectly.
 
-**See also** [Bits and bytes term collection](/style-guide/a-z-word-list-term-collections/term-collections/bits-bytes-terms), [Units of measure term collection](/style-guide/a-z-word-list-term-collections/term-collections/units-of-measure-terms)
+**See also** [Bits and bytes term collection](~/a-z-word-list-term-collections/term-collections/bits-bytes-terms.md), [Units of measure term collection](~/a-z-word-list-term-collections/term-collections/units-of-measure-terms.md)

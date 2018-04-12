@@ -9,4 +9,4 @@ ms.prod: non-product-specific
 
 # beta
 
-See [preview](/style-guide/a-z-word-list-term-collections/p/preview)
+See [preview](~/a-z-word-list-term-collections/p/preview.md)

@@ -9,4 +9,4 @@ ms.prod: non-product-specific
 
 # RAM
 
-**See** [memory](/style-guide/a-z-word-list-term-collections/m/memory)
+**See** [memory](~/a-z-word-list-term-collections/m/memory.md)

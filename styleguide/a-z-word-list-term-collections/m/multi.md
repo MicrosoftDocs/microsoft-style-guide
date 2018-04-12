@@ -13,4 +13,4 @@ In general, don't hyphenate words beginning with *multi-* unless it's necessary 
 
 **Examples**<br />multicast <br />multichannel <br />multicolumn <br />multilevel <br />multiline <br />multilingual <br />multimedia <br />multiprocessor <br />multitasking <br />multiuser
 
-To learn more about hyphenation, see [Hyphens](/style-guide/punctuation/dashes-hyphens/hyphens).
+To learn more about hyphenation, see [Hyphens](~/punctuation/dashes-hyphens/hyphens.md).

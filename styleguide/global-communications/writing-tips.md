@@ -14,9 +14,9 @@ the most part, content that’s easy to read tends to be easy to localize
 and translate. If you follow the writing recommendations in this style
 guide, you’re off to a great start. Pay particular attention to:
 
-  - [Word choice](/style-guide/word-choice/)
-  - [Grammar and parts of speech](/style-guide/grammar/grammar-and-parts-of-speech)
-  - [Punctuation](/style-guide/punctuation/)
+  - [Word choice](~/word-choice/index.md)
+  - [Grammar and parts of speech](~/grammar/grammar-and-parts-of-speech.md)
+  - [Punctuation](~/punctuation/index.md)
 
 ## Tips for all global content
 

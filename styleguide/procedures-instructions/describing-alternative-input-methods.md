@@ -17,7 +17,7 @@ ability or the device they use, include mice, keyboards, voice
 recognition devices, game controllers, touch, and other interaction
 methods.
 
-**Learn more** To learn more about creating accessible content, see [Accessibility guidelines and requirements](/style-guide/accessibility/accessibility-guidelines-requirements).
+**Learn more** To learn more about creating accessible content, see [Accessibility guidelines and requirements](~/accessibility/accessibility-guidelines-requirements.md).
 
 ## Mouse procedures
 
@@ -27,7 +27,7 @@ you document both. Don’t combine keyboard and
 mouse actions as if they were keyboard shortcuts unless space is
 limited. For example, don’t use *Shift+click.* Instead, use *Select Shift while clicking ….*
 
-**See also** [Mouse and mouse interaction term collection](/style-guide/a-z-word-list-term-collections/term-collections/mouse-mouse-interaction-terms)
+**See also** [Mouse and mouse interaction term collection](~/a-z-word-list-term-collections/term-collections/mouse-mouse-interaction-terms.md)
 
 ## Joystick procedures
 
@@ -40,7 +40,7 @@ Refer to joystick *controls,* not *options,* when you provide specific joystick 
 
 Always document keyboard procedures for accessibility, even though they're indicated in UI by underlined letters.
 
-**See also** [Keys and keyboard shortcuts term collection](/style-guide/a-z-word-list-term-collections/term-collections/keys-keyboard-shortcuts) 
+**See also** [Keys and keyboard shortcuts term collection](~/a-z-word-list-term-collections/term-collections/keys-keyboard-shortcuts.md) 
 
 ## Pen-computing and touch procedures
 
@@ -55,7 +55,7 @@ Use *tap* and *double-tap* instead of *click* and *double-click* when writing co
 | **flick** | Use to describe moving one or more fingers to scroll through items on the screen. Don’t use <em>scroll</em>. |
 | **swipe** | Use to describe a short, quick movement in the direction opposite to how the page scrolls. For example, if the page scrolls left or right, swipe an item up or down to select it.  |
 
-**See also** [Touch and pen interaction term collection](/style-guide/a-z-word-list-term-collections/term-collections/touch-pen-interaction-terms)
+**See also** [Touch and pen interaction term collection](~/a-z-word-list-term-collections/term-collections/touch-pen-interaction-terms.md)
 
 ## Multiple input methods and branching within procedures
 

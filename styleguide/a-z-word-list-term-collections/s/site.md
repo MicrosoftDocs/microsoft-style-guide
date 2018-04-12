@@ -13,4 +13,4 @@ Use to describe a collection of webpages that's part of a larger whole, such as 
 
 Information is *on* a site, but the address of a site is *at* [www.example.com](http://www.example.com/).
 
-**See also** [page](../p/page.md), [URLs and web addresses](/style-guide/urls-web-addresses)
+**See also** [page](../p/page.md), [URLs and web addresses](~/urls-web-addresses.md)

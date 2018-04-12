@@ -64,6 +64,6 @@ A few key elements of writing Microsoft’s voice:
 
 **Get started**
 
-For more quick techniques, check out the [Top 10 tips for Microsoft style and voice](/style-guide/top-10-tips-style-voice). 
+For more quick techniques, check out the [Top 10 tips for Microsoft style and voice](~/top-10-tips-style-voice.md). 
 
 Remember that writing is a skill. If writing isn't a functional role your team has, consider bringing in expert help.

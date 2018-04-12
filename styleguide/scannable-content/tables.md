@@ -44,7 +44,7 @@ Don’t leave a cell blank or use an em dash to indicate there’s no entry for 
 
 Keep
 responsive design in mind. Limit the number of columns and keep the
-text in each cell brief—ideally one line. To learn more, see [Responsive content](/style-guide/responsive-content).
+text in each cell brief—ideally one line. To learn more, see [Responsive content](~/responsive-content.md).
 
 Balance row height by increasing the width of text-heavy columns and reducing the width of columns with minimal text.
 

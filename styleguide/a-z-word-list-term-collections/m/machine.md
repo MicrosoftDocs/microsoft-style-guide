@@ -18,4 +18,4 @@ Updates help to enhance the security and performance of your computer.
 Move virtual machines from one physical server to another to balance the load among physical servers.  
 A signed machine certificate uniquely identifies the computer.
 
-**See also** [Computer and device term collection](/style-guide/a-z-word-list-term-collections/term-collections/computer-device-terms)
+**See also** [Computer and device term collection](~/a-z-word-list-term-collections/term-collections/computer-device-terms.md)

@@ -20,4 +20,4 @@ each applicable version instead.
 Internet Explorer 7 or later, Firefox 3.6 or later  
 Windows 7, Windows 8, Windows 8.1, and Windows 10
 
-**See also** [earlier](/style-guide/a-z-word-list-term-collections/e/earlier)
+**See also** [earlier](~/a-z-word-list-term-collections/e/earlier.md)

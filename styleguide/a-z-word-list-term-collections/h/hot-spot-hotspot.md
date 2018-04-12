@@ -20,4 +20,4 @@ Use one word when referring to a site that offers internet access over a wireles
 
 Use one word when referring to programming elements, such as the elements of the **HotSpot** class, or to match UI. 
 
-**See also**  [hyperlink](/style-guide/a-z-word-list-term-collections/h/hyperlink)
+**See also**  [hyperlink](~/a-z-word-list-term-collections/h/hyperlink.md)

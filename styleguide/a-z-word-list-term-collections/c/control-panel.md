@@ -24,7 +24,7 @@ In Control Panel, select **Network and Internet**, and then select **Internet Op
 To open **Internet Options**, select **Start**, select **Control Panel**, and then select **Network and Internet**. 
 
 **See also**  
-[add-in, add-on](/style-guide/a-z-word-list-term-collections/a/add-in-add-on)  
-[app, application](/style-guide/a-z-word-list-term-collections/a/app-application)  
-[applet](/style-guide/a-z-word-list-term-collections/a/applet)  
-[tool](/style-guide/a-z-word-list-term-collections/t/tool)
+[add-in, add-on](~/a-z-word-list-term-collections/a/add-in-add-on.md)  
+[app, application](~/a-z-word-list-term-collections/a/app-application.md)  
+[applet](~/a-z-word-list-term-collections/a/applet.md)  
+[tool](~/a-z-word-list-term-collections/t/tool.md)

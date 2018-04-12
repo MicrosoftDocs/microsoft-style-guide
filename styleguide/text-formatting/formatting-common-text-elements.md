@@ -13,12 +13,12 @@ Consistent
 text formatting helps readers locate and interpret information. Follow
 these formatting conventions for common text elements. 
 
-For information about referring to UI elements, see [Formatting text in instructions](/style-guide/procedures-instructions/formatting-text-in-instructions). 
+For information about referring to UI elements, see [Formatting text in instructions](~/procedures-instructions/formatting-text-in-instructions.md). 
 
 **See also**  
-[Capitalization](/style-guide/capitalization)  
-[Formatting developer text elements](/style-guide/developer-content/formatting-developer-text-elements)  
-[Procedures and instructions](/style-guide/procedures-instructions/)
+[Capitalization](~/capitalization.md)  
+[Formatting developer text elements](~/developer-content/formatting-developer-text-elements.md)  
+[Procedures and instructions](~/procedures-instructions/index.md)
 <br /><br />
 
 **Element**|**Convention**|**Example**

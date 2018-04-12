@@ -157,7 +157,8 @@ all other content, follow the guidelines below.
   - Don’t use *from* before a range indicated by an en dash, such as *10–15*. 
 
 **See also**  
-[Date and time term collection](/style-guide/a-z-word-list-term-collections/term-collections/date-time-terms)  
-[Units of measure term collection](/style-guide/a-z-word-list-term-collections/term-collections/units-of-measure-terms)  
-[Dashes and hyphens](/style-guide/punctuation/dashes-hyphens/)  
-[Percent, percentage](/style-guide/a-z-word-list-term-collections/p/percent-percentage)[](/style-guide/punctuation/dashes-hyphens/)  
+[Date and time term collection](~/a-z-word-list-term-collections/term-collections/date-time-terms.md)  
+[Units of measure term collection](~/a-z-word-list-term-collections/term-collections/units-of-measure-terms.md)  
+[Dashes and hyphens](~/punctuation/dashes-hyphens/index.md)  
+[Percent, percentage](~/a-z-word-list-term-collections/p/percent-percentage.md)  
+[Dashes and hyphens](~/punctuation/dashes-hyphens/index.md)  

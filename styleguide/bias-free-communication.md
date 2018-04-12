@@ -22,7 +22,7 @@ sales representative|salesman
 synthetic, manufactured|manmade
 work force, staff, personnel|manpower
 
-**Avoid masculine pronouns.** Don’t use *he* and *his* in references to a person whose gender is unknown. Instead, rewrite to use the second person (*you*) or *the* or *a* (for example, "the document"). Or refer to a person’s role (reader, employee, or client, for example), or simply use *person* or *individual.* For more information, see [Nouns and pronouns](/style-guide/grammar/nouns-pronouns).<br />
+**Avoid masculine pronouns.** Don’t use *he* and *his* in references to a person whose gender is unknown. Instead, rewrite to use the second person (*you*) or *the* or *a* (for example, "the document"). Or refer to a person’s role (reader, employee, or client, for example), or simply use *person* or *individual.* For more information, see [Nouns and pronouns](~/grammar/nouns-pronouns.md).<br />
 **Examples**  
 If you have the appropriate rights, you can set other users’ passwords.  
 A user with the appropriate rights can set other users' passwords.  
@@ -61,8 +61,8 @@ master/subordinate|master/slave
 perimeter network|demilitarized zone (DMZ)
 stop responding|hang
 
-**Focus on people, not disabilities.** For example, talk about readers who are blind or have low vision and customers with limited dexterity. Don’t use words that imply pity, such as *stricken with* or *suffering from.* Don’t mention a disability unless it's relevant. For more information, see the [Accessibility term collection](/style-guide/a-z-word-list-term-collections/term-collections/accessibility-terms). 
+**Focus on people, not disabilities.** For example, talk about readers who are blind or have low vision and customers with limited dexterity. Don’t use words that imply pity, such as *stricken with* or *suffering from.* Don’t mention a disability unless it's relevant. For more information, see the [Accessibility term collection](~/a-z-word-list-term-collections/term-collections/accessibility-terms.md). 
 
 **Learn more** For more information about writing that conveys respect to all people and promotes equal opportunities, see the [Guidelines for Inclusive Language](http://www.linguisticsociety.org/content/guidelines-inclusive-language "Linguistic Society of America's guidelines for inclusive language") from the Linguistic Society of America. 
 
-**See also** [Accessibility guidelines and requirements](/style-guide/accessibility/accessibility-guidelines-requirements), [Global communications](/style-guide/global-communications/)
+**See also** [Accessibility guidelines and requirements](~/accessibility/accessibility-guidelines-requirements.md), [Global communications](~/global-communications/index.md)

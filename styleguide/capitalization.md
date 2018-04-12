@@ -19,7 +19,7 @@ Follow these guidelines in Microsoft content:
   - Use sentence-style capitalization most of the time. That means: 
       - Capitalize the first word of a sentence, heading, title, UI label (such as
         the name of a button or check box), or standalone phrase. 
-      - Capitalize proper nouns. To learn more about proper nouns, see [Nouns and pronouns](/style-guide/grammar/nouns-pronouns).
+      - Capitalize proper nouns. To learn more about proper nouns, see [Nouns and pronouns](~/grammar/nouns-pronouns.md).
       - Use lowercase for everything else.  
       
   - Always capitalize the first word of a new sentence. Rewrite sentences
@@ -42,7 +42,7 @@ Follow these guidelines in Microsoft content:
 
 **Learn more** To learn more about capitalization, see [*The Chicago Manual of Style*](http://www.chicagomanualofstyle.org/home.html).  If you’re not sure whether to capitalize a term, check the A–Z word list and [*The American Heritage Dictionary*](https://ahdictionary.com/). 
 
-For information about capitalizing UI labels in instructions, see [Formatting text in instructions](/style-guide/procedures-instructions/formatting-text-in-instructions). 
+For information about capitalizing UI labels in instructions, see [Formatting text in instructions](~/procedures-instructions/formatting-text-in-instructions.md). 
 
 ## Sentence-style capitalization in titles and headings
 
@@ -107,4 +107,4 @@ On the rare occasions when title-style capitalization is required, follow these 
     
   - In programming languages, follow the traditional capitalization of keywords and other special terms.
 
-**See also** [Formatting titles](/style-guide/text-formatting/formatting-titles)
+**See also** [Formatting titles](~/text-formatting/formatting-titles.md)

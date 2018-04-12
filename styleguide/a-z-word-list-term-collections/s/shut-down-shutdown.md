@@ -22,6 +22,6 @@ Many computers turn the power off automatically.
 The accidental shutdown might have damaged some files. 
 
 **See also**   
-[Describing interactions with UI](/style-guide/procedures-instructions/describing-interactions-with-ui)  
-[turn on, turn off](/style-guide/a-z-word-list-term-collections/t/turn-on-turn-off)  
-[sleep](/style-guide/a-z-word-list-term-collections/s/sleep)
+[Describing interactions with UI](~/procedures-instructions/describing-interactions-with-ui.md)  
+[turn on, turn off](~/a-z-word-list-term-collections/t/turn-on-turn-off.md)  
+[sleep](~/a-z-word-list-term-collections/s/sleep.md)

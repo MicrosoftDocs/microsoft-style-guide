@@ -9,4 +9,4 @@ ms.prod: non-product-specific
 
 # pound key, pound sign (\#)
 
-**See** [Keys and keyboard shortcuts term collection](/style-guide/a-z-word-list-term-collections/term-collections/keys-keyboard-shortcuts) and [Special characters term collection](/style-guide/a-z-word-list-term-collections/term-collections/special-characters)
+**See** [Keys and keyboard shortcuts term collection](~/a-z-word-list-term-collections/term-collections/keys-keyboard-shortcuts.md) and [Special characters term collection](~/a-z-word-list-term-collections/term-collections/special-characters.md)

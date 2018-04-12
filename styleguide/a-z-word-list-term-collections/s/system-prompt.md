@@ -9,4 +9,4 @@ ms.prod: non-product-specific
 
 # system prompt
 
-**See** [command prompt](/style-guide/a-z-word-list-term-collections/c/command-prompt)
+**See** [command prompt](~/a-z-word-list-term-collections/c/command-prompt.md)

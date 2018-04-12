@@ -15,4 +15,4 @@ Use *page view* or *page request,* not *hit,* to refer to the number of times a 
 refer to the number of times a file that's part of a webpage has been
 retrieved. A single page view can result in many hits. 
 
-**See** [Describing interactions with UI](/style-guide/procedures-instructions/describing-interactions-with-ui)
+**See** [Describing interactions with UI](~/procedures-instructions/describing-interactions-with-ui.md)

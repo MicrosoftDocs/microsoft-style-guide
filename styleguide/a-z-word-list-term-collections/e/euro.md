@@ -45,4 +45,4 @@ are OK to use on websites with an informal tone. Don't use these
 terms in product documentation or other formal contexts, especially if
 the content will be localized.
 
-**See also** [Currency](/style-guide/global-communications/currency)
+**See also** [Currency](~/global-communications/currency.md)

@@ -21,4 +21,4 @@ Use *remove:*
   - As a synonym for *unload*. 
   - As a verb to describe removing add-ins and add-ons. 
 
-**See also**  [uninstall](/style-guide/a-z-word-list-term-collections/u/uninstall), [delete](/style-guide/a-z-word-list-term-collections/d/delete)[,](/style-guide/a-z-word-list-term-collections/d/delete) [load](/style-guide/a-z-word-list-term-collections/l/load)
+**See also**  [uninstall](~/a-z-word-list-term-collections/u/uninstall.md), [delete](~/a-z-word-list-term-collections/d/delete.md), [load](~/a-z-word-list-term-collections/l/load.md)

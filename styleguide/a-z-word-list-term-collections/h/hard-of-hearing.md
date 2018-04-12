@@ -9,4 +9,4 @@ ms.prod: non-product-specific
 
 # hard-of-hearing
 
-**See** [Accessibility term collection](/style-guide/a-z-word-list-term-collections/term-collections/accessibility-terms)
+**See** [Accessibility term collection](~/a-z-word-list-term-collections/term-collections/accessibility-terms.md)

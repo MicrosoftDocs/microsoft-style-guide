@@ -9,4 +9,4 @@ ms.prod: non-product-specific
 
 # pinch
 
-**See** [Touch and pen interaction term collection](/style-guide/a-z-word-list-term-collections/term-collections/touch-pen-interaction-terms)
+**See** [Touch and pen interaction term collection](~/a-z-word-list-term-collections/term-collections/touch-pen-interaction-terms.md)

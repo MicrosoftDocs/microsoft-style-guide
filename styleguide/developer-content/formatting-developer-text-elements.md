@@ -14,9 +14,9 @@ text formatting helps readers locate and interpret information.
 Follow these formatting conventions for text elements commonly used
 in content for developers. 
 
-For information about referring to UI elements, see [Formatting text in instructions](/style-guide/procedures-instructions/formatting-text-in-instructions). 
+For information about referring to UI elements, see [Formatting text in instructions](~/procedures-instructions/formatting-text-in-instructions.md). 
 
-**See also**<br />[Capitalization](/style-guide/capitalization)<br />[Formatting common text elements](/style-guide/text-formatting/formatting-common-text-elements)<br />[Procedures and instructions](/style-guide/procedures-instructions/)
+**See also**<br />[Capitalization](~/capitalization.md)<br />[Formatting common text elements](~/text-formatting/formatting-common-text-elements.md)<br />[Procedures and instructions](~/procedures-instructions/index.md)
 
 **Element**|**Convention**|**Example**
 --|--|--
@@ -64,7 +64,7 @@ For information about referring to UI elements, see [Formatting text in instruct
 **Switches**|Bold. Usually lowercase.|**build: commands**
 **System commands**|All uppercase.|SC_HOTLIST
 **UI text or strings**|Sentence-style capitalization. Enclose error messages in quotation marks when referring to them in text.|Hmm … looks like that’s a broken link.<br />If you see the error message, “Placeholder text in a content control contains items that aren't valid,” remove floating objects, revision marks, or content controls from placeholder text, and try again.
-**URLs**|All lowercase for complete URLs. If necessary, line-break long URLs before a slash. Don’t hyphenate.<br />**See also** [URLs and web addresses](/style-guide/urls-web-addresses).|www.microsoft.com<br />msdn.microsoft.com/downloads
+**URLs**|All lowercase for complete URLs. If necessary, line-break long URLs before a slash. Don’t hyphenate.<br />**See also** [URLs and web addresses](~/urls-web-addresses.md).|www.microsoft.com<br />msdn.microsoft.com/downloads
 **User input**|Usually lowercase, unless case sensitive. Bold or italic, depending on the element. If the user input string contains placeholder text, use italic for that text.|Enter **hello world**<br />Enter **-p** *password*
 **Values**|All uppercase.|DIB_PAL_COLORS
 **Variables**|Treatment varies.|bEmpty<br />**m_nParams**<br />*file_name*

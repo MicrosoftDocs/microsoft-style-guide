@@ -22,11 +22,11 @@ are sometimes called *document conventions.*
 
 This section covers:
 
-  - [Using type](/style-guide/text-formatting/using-type/)
-  - [Formatting common text elements](/style-guide/text-formatting/formatting-common-text-elements)
-  - [Formatting titles](/style-guide/text-formatting/formatting-titles)
+  - [Using type](~/text-formatting/using-type/index.md)
+  - [Formatting common text elements](~/text-formatting/formatting-common-text-elements.md)
+  - [Formatting titles](~/text-formatting/formatting-titles.md)
 
 **See also**  
-[Formatting developer text elements](/style-guide/developer-content/formatting-developer-text-elements)  
-[Reference documentation](/style-guide/developer-content/reference-documentation)  
-[Procedures and instructions](/style-guide/procedures-instructions/)  
+[Formatting developer text elements](~/developer-content/formatting-developer-text-elements.md)  
+[Reference documentation](~/developer-content/reference-documentation.md)  
+[Procedures and instructions](~/procedures-instructions/index.md)  

@@ -18,4 +18,4 @@ of another.
 
 The symbol for a pipe in programming content is a vertical bar ( | ).
 
-**See also** [Special characters term collection](/style-guide/a-z-word-list-term-collections/term-collections/special-characters)
+**See also** [Special characters term collection](~/a-z-word-list-term-collections/term-collections/special-characters.md)

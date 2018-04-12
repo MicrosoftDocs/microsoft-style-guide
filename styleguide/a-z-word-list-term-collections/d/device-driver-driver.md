@@ -17,4 +17,4 @@ as *mouse driver* or *printer driver*.
 
 In content for a general audience, define *driver* on the first mention.
 
-**See also** [Computer and device term collection](/style-guide/a-z-word-list-term-collections/term-collections/computer-device-terms)
+**See also** [Computer and device term collection](~/a-z-word-list-term-collections/term-collections/computer-device-terms.md)

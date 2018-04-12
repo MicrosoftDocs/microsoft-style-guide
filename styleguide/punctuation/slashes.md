@@ -13,7 +13,7 @@ When necessary, differentiate between a *slash* for URLs and a *backslash* for s
 
 When you instruct customers to enter a slash, always include the spelled-out term (*backslash* or *forward slash*) first, followed by the symbol in parentheses.<br />**Example** <br />Enter two backslashes (\\\\) ....
 
-**See also**<br />[Numbers](/style-guide/numbers)<br />[Special character term collection](/style-guide/a-z-word-list-term-collections/term-collections/special-characters)<br />[URLs and web addresses](/style-guide/urls-web-addresses)
+**See also**<br />[Numbers](~/numbers.md)<br />[Special character term collection](~/a-z-word-list-term-collections/term-collections/special-characters.md)<br />[URLs and web addresses](~/urls-web-addresses.md)
 
 Use a slash:
 
@@ -30,4 +30,4 @@ Don’t use a slash as a substitute for *or,* like *product/service.* If the UI 
 
 **Exception** It's OK to use *country/region* and *ZIP Code/postal code* where space is limited.
 
-**See also**<br />[and/or](/style-guide/a-z-word-list-term-collections/a/and-or)<br />[country or region](/style-guide/a-z-word-list-term-collections/c/country-or-region)<br />[either/or](/style-guide/a-z-word-list-term-collections/e/either-or)
+**See also**<br />[and/or](~/a-z-word-list-term-collections/a/and-or.md)<br />[country or region](~/a-z-word-list-term-collections/c/country-or-region.md)<br />[either/or](~/a-z-word-list-term-collections/e/either-or.md)
