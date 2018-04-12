@@ -9,4 +9,4 @@ ms.prod: non-product-specific
 
 # press, press and hold
 
-**See** [Touch and pen interaction term collection](/style-guide/a-z-word-list-term-collections/term-collections/touch-pen-interaction-terms), [Keys and keyboard shortcuts term collection](/style-guide/a-z-word-list-term-collections/term-collections/keys-keyboard-shortcuts)
+**See** [Touch and pen interaction term collection](~/a-z-word-list-term-collections/term-collections/touch-pen-interaction-terms.md), [Keys and keyboard shortcuts term collection](~/a-z-word-list-term-collections/term-collections/keys-keyboard-shortcuts.md)

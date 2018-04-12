@@ -18,4 +18,4 @@ Existing characters move to the right as you enter new text.
 To verify the text that you entered ….  
 (Technical audience) Windows Presentation Foundation provides an API for obtaining input from a variety of devices.  
 
-**See also** [Describing interactions with UI](/style-guide/procedures-instructions/describing-interactions-with-ui)
+**See also** [Describing interactions with UI](~/procedures-instructions/describing-interactions-with-ui.md)

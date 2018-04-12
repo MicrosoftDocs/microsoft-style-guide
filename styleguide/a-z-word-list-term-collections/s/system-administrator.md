@@ -9,4 +9,4 @@ ms.prod: non-product-specific
 
 # system administrator
 
-**See** [administrator, admin](/style-guide/a-z-word-list-term-collections/a/administrator-admin)
+**See** [administrator, admin](~/a-z-word-list-term-collections/a/administrator-admin.md)

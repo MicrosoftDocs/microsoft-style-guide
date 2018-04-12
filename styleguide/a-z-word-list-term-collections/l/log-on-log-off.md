@@ -13,4 +13,4 @@ Don't use *log on, logon, log off, logoff, log in, login, log onto, log off of, 
 
 Use *sign in* or *sign out* instead.
 
-**See** [sign in, sign out](/style-guide/a-z-word-list-term-collections/s/sign-in-sign-out), [connect](/style-guide/a-z-word-list-term-collections/c/connect)
+**See** [sign in, sign out](~/a-z-word-list-term-collections/s/sign-in-sign-out.md), [connect](~/a-z-word-list-term-collections/c/connect.md)

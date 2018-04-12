@@ -11,6 +11,6 @@ ms.prod: non-product-specific
 
 Beautiful typography is a cornerstone of modern design. The guidelines in this section will help you achieve it. 
 
-  - [Use sentence-style capitalization](/style-guide/text-formatting/using-type/use-sentence-style-capitalization)
-  - [Use left alignment](/style-guide/text-formatting/using-type/use-left-alignment)
-  - [Don't compress line spacing](/style-guide/text-formatting/using-type/dont-compress-line-spacing)
+  - [Use sentence-style capitalization](~/text-formatting/using-type/use-sentence-style-capitalization.md)
+  - [Use left alignment](~/text-formatting/using-type/use-left-alignment.md)
+  - [Don't compress line spacing](~/text-formatting/using-type/dont-compress-line-spacing.md)

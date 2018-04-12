@@ -15,4 +15,4 @@ On the first mention, use *category (x) axis* to refer to the horizontal axis in
 
 Don't use italic formatting for the *x* in *x-axis* unless the entire word is italic.
 
-**See also** [](/style-guide/a-z-word-list-term-collections/v/value-axis)[category axis](/style-guide/a-z-word-list-term-collections/c/category-axis)
+**See also** [value axis](~/a-z-word-list-term-collections/v/value-axis.md), [category axis](~/a-z-word-list-term-collections/c/category-axis.md)

@@ -20,4 +20,4 @@ Don't use *privileges* as a synonym for *rights*.
 **Example**  
 Domain administrators should use a primary user account, which has basic user rights in the domain.
 
-**See also** [permissions](/style-guide/a-z-word-list-term-collections/p/permissions), [user rights](/style-guide/a-z-word-list-term-collections/u/user-rights)
+**See also** [permissions](~/a-z-word-list-term-collections/p/permissions.md), [user rights](~/a-z-word-list-term-collections/u/user-rights.md)

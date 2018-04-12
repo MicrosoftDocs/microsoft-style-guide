@@ -11,4 +11,4 @@ ms.prod: non-product-specific
 
 Don't use to mean *restart*. 
 
-**See also** [initialize](/style-guide/a-z-word-list-term-collections/i/initialize), [start, restart](/style-guide/a-z-word-list-term-collections/s/start-restart)
+**See also** [initialize](~/a-z-word-list-term-collections/i/initialize.md), [start, restart](~/a-z-word-list-term-collections/s/start-restart.md)

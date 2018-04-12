@@ -17,4 +17,4 @@ the more common usage, localization teams will use the appropriate term.
 
 **Global tip**  In some languages, *text* is translated differently as a noun and a verb. Provide enough context for localization to determine how to translate *text.* For example, instead of *text a friend,* say *send a text to a friend* or *text a quick message to a friend.*
 
-**See also** [message](/style-guide/a-z-word-list-term-collections/m/message)
+**See also** [message](~/a-z-word-list-term-collections/m/message.md)

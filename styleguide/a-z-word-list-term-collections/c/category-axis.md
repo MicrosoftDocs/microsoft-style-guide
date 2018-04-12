@@ -19,6 +19,6 @@ Don't use italic formatting for the *x* in *x-axis* or the *y* in *y-axis* unles
 
 **See also**  
  [
-value axis](/style-guide/a-z-word-list-term-collections/v/value-axis)  
-[x-axis](/style-guide/a-z-word-list-term-collections/x/x-axis)  
-[y-axis](/style-guide/a-z-word-list-term-collections/y/y-axis)
+value axis](~/a-z-word-list-term-collections/v/value-axis.md)  
+[x-axis](~/a-z-word-list-term-collections/x/x-axis.md)  
+[y-axis](~/a-z-word-list-term-collections/y/y-axis.md)

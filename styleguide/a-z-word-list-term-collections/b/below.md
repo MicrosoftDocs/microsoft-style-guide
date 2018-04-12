@@ -18,4 +18,4 @@ Use the following code to display information about the database.
 See [Installation instructions](http://example.com/).  
 See Installation instructions, later in this topic.  
 
-**See also** [above](/style-guide/a-z-word-list-term-collections/a/above), [later](/style-guide/a-z-word-list-term-collections/l/later)
+**See also** [above](~/a-z-word-list-term-collections/a/above.md), [later](~/a-z-word-list-term-collections/l/later.md)

@@ -16,7 +16,7 @@ the hand or body and tablet pen.
 
 In general, use input-neutral terms, which support all input methods. If you're writing content specific to touching a screen or using a pen, use *tap* and *double-tap* instead of *click* and *double-click*. *Tap* means to press the screen with a finger or pen tip and then to lift it, usually quickly. 
 
-**Learn more** For information about input-neutral terms, see [Describing interactions with UI](/style-guide/procedures-instructions/describing-interactions-with-ui).
+**Learn more** For information about input-neutral terms, see [Describing interactions with UI](~/procedures-instructions/describing-interactions-with-ui.md).
 
 When you need to write specifically about touch and pen UI interactions, use these terms. 
 

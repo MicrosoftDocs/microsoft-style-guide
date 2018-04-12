@@ -9,4 +9,4 @@ ms.prod: non-product-specific
 
 # AM, PM
 
-**See** [Date and time term collection](/style-guide/a-z-word-list-term-collections/term-collections/date-time-terms "Click to ope Date and time term collection.")
+**See** [Date and time term collection](~/a-z-word-list-term-collections/term-collections/date-time-terms.md "Click to ope Date and time term collection.")

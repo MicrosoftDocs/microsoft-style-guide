@@ -16,4 +16,4 @@ Use *of* (not *for*) to describe the relationship of the word *URL* to a resourc
 **Example**  
 Search results include the URL of the page. 
 
-**See also** [URLs and web addresses](/style-guide/urls-web-addresses)
+**See also** [URLs and web addresses](~/urls-web-addresses.md)

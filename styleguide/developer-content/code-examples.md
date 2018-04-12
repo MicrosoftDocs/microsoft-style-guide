@@ -79,4 +79,4 @@ run the example directly from your content page.
 **Use appropriate keywords, linking strategies, and other search engine optimization** (SEO)
 techniques to improve the visibility and usability of the code
 examples. For example, add links to relevant code example pages and
-content pages to improve SEO across your content. See [Search and writing](/style-guide/search-writing).
+content pages to improve SEO across your content. See [Search and writing](~/search-writing.md).

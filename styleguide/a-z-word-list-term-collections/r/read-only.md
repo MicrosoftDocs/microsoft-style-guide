@@ -15,4 +15,4 @@ Always hyphenate.
 read-only memory  
 This file is read-only.
 
-**See also** [read/write, read/write permissions](/style-guide/a-z-word-list-term-collections/r/read-write-read-write-permission)
+**See also** [read/write, read/write permissions](~/a-z-word-list-term-collections/r/read-write-read-write-permission.md)

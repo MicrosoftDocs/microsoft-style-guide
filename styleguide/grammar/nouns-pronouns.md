@@ -46,7 +46,7 @@ Capitalize technology terms as proper nouns only when:
 
 If you’re not sure whether a term is a proper noun (and thus capitalized) or a common noun (lowercase), check *[The American Heritage Dictionary](https://ahdictionary.com/)* and the A–Z word list. Default to lowercase unless there's a compelling reason to capitalize the term.
 
-**Learn more** For guidelines for sentence-style and title-style capitalization, see [Capitalization](/style-guide/capitalization).
+**Learn more** For guidelines for sentence-style and title-style capitalization, see [Capitalization](~/capitalization.md).
 
 ## Plural nouns
 

@@ -15,9 +15,9 @@ these conventions for formatting elements that frequently appear in
 instructions (also referred to as procedures). 
 
 **See also**  
-[Capitalization](/style-guide/capitalization)  
-[Formatting common text elements](/style-guide/text-formatting/formatting-common-text-elements)  
-[Formatting developer text elements](/style-guide/developer-content/formatting-developer-text-elements)  
+[Capitalization](~/capitalization.md)  
+[Formatting common text elements](~/text-formatting/formatting-common-text-elements.md)  
+[Formatting developer text elements](~/developer-content/formatting-developer-text-elements.md)  
 
 ## In documentation and technical content
 
@@ -38,7 +38,7 @@ Use these conventions in instructions that appear in documentation and technical
 | **File extensions** | All lowercase. | .mdb <br /> .doc |
 | **File names (user-defined examples)** | Title-style capitalization. It’s OK to use internal capital letters in file names for readability. Use bold formatting for file names in procedures if you're directing the customer to select, type, or otherwise interact with the name. | My Taxes for 2016 <br /> MyTaxesFor2016 <br /> Enter **MyTaxesFor2016**. |
 | **Folder and directory names (user-defined examples)** | Sentence-style capitalization. It’s OK to use internal capital letters in folder and directory names for readability. In procedures, use bold formatting for names if you’re directing the customer to select, type, or otherwise interact with the name. | Vacation and Sick Pay <br /> MyFiles\Accounting\Payroll\VacPay<br /> Select <b>Documents</b>. |
-| **Key names, combinations, and sequences** | Capitalize. To learn more about referring to keyboard shortcuts and specific keys, see [Keys and keyboard shortcuts term collection](/style-guide/a-z-word-list-term-collections/term-collections/keys-keyboard-shortcuts). | Ctrl, Tab <br /> Ctrl+Alt+Del <br /> Shift, F7 <br /> Alt, F, O <br /> Spacebar |
+| **Key names, combinations, and sequences** | Capitalize. To learn more about referring to keyboard shortcuts and specific keys, see [Keys and keyboard shortcuts term collection](~/a-z-word-list-term-collections/term-collections/keys-keyboard-shortcuts.md). | Ctrl, Tab <br /> Ctrl+Alt+Del <br /> Shift, F7 <br /> Alt, F, O <br /> Spacebar |
 | **Macros** | Usually all uppercase. Use bold formatting if predefined. Might be monospace if user defined. Treatment varies. | **LOWORD** <br /> `MASKROP` |
 | **Markup language elements (tags)** | Bold. Capitalization varies. | **&lt;img&gt;** <br /> **&lt;input type=text&gt;** <br /> **&lt;!DOCTYPE html&gt;** |
 | **Mathematical constants and variables** | Italic. | _a2 + b2 = c2_ |
@@ -51,7 +51,7 @@ Use these conventions in instructions that appear in documentation and technical
 | **Strings** | When referring to strings in code, a document, a website, or UI, use sentence-style capitalization unless the text you’re referring to is capitalized differently. Enclose in quotation marks. | Select &quot;Now is the time.&quot; <br /> Find “font-family:Segoe UI Semibold” in the code. |
 | **System commands** | All uppercase. | SC_HOTLIST |
 | **Tabs** | Avoid talking about tabs. Instead, describe what the customer needs to do. <br /> When you must refer to a tab by name, use bold formatting for the name of the tab. <br /> Use sentence-style capitalization unless you need to match the UI. <br /> Don’t include the word <em>tab</em> unless it adds needed clarity. | Select the table, and then select **Design** &gt; **Header row**. <br /> On the **Design** tab, select **Header row**. <br /> Go to the **Deploy** tab. In the **Configuration** list, …. |
-| **URLs** | All lowercase for complete URLs. If necessary, line-break long URLs before a slash. Don’t hyphenate. <br /> See also [URLs and web addresses](/style-guide/urls-web-addresses). | www.microsoft.com <br /> msdn.microsoft.com/downloads |
+| **URLs** | All lowercase for complete URLs. If necessary, line-break long URLs before a slash. Don’t hyphenate. <br /> See also [URLs and web addresses](~/urls-web-addresses.md). | www.microsoft.com <br /> msdn.microsoft.com/downloads |
 | **User input** | Usually lowercase, unless case sensitive. Bold or italic, depending on the element. If the user input string contains placeholder text, use italic for that text. | Enter **hello world** <br /> Enter **-p** _password_ |
 | **Windows** | Avoid talking about windows. Instead, focus on what the customer needs to do.<br /> When you must refer to a window by name, use regular text. Use sentence-style capitalization unless you need to match the UI.<br /> Use _window_ only as a generic term for an area on a PC screen where apps and content appear. Don’t use _window_ to refer to a specific dialog box, blade, or similar UI element. | To embed the new object, switch to the source document. <br /> Easily switch between open windows. <br /> Open a new Microsoft Edge tab in a new window so you can look at tabs side by side. |
 | **XML schema elements** | Bold. Capitalization varies. | **ElementType** element <br /> **Xml:space** attribute |

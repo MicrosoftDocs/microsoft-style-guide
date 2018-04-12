@@ -17,11 +17,11 @@ Writing to facilitate scanning will help.
 
 Organize text into discrete components to support scanning. This section describes some of the methods you can use:
 
-  - [Headings](/style-guide/scannable-content/headings)
-  - [Lists](/style-guide/scannable-content/lists)
-  - [Pull quotes](/style-guide/scannable-content/pull-quotes)
-  - [Sidebars](/style-guide/scannable-content/sidebars)
-  - [Tables](/style-guide/scannable-content/tables)
+  - [Headings](~/scannable-content/headings.md)
+  - [Lists](~/scannable-content/lists.md)
+  - [Pull quotes](~/scannable-content/pull-quotes.md)
+  - [Sidebars](~/scannable-content/sidebars.md)
+  - [Tables](~/scannable-content/tables.md)
 
 How you write is equally important to scanning.
 
@@ -84,7 +84,7 @@ content to create familiar landmarks for your readers:
     of headings, table entries, and paragraphs so they're easy to
     spot.  
     
-  - Use text formatting consistently, such as using bold in procedures to identify UI labels. To learn more, see [Text formatting](/style-guide/text-formatting/).  
+  - Use text formatting consistently, such as using bold in procedures to identify UI labels. To learn more, see [Text formatting](~/text-formatting/index.md).  
   
   - Apply
     the same sentence structures to similar information. For example,

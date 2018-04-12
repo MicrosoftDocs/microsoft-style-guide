@@ -20,7 +20,7 @@ following guidelines.
 In
 general, refer to a person who has a kind of disability, not a
 disabled person. When you must describe specific disabilities
-or people with specific disabilities, use [approved terminology](/style-guide/a-z-word-list-term-collections/term-collections/accessibility-terms "Accessibility term collection"). 
+or people with specific disabilities, use [approved terminology](~/a-z-word-list-term-collections/term-collections/accessibility-terms.md "Accessibility term collection"). 
 
 ## Write brief, meaningful, and focused text
 
@@ -59,9 +59,9 @@ about the location, such as *in the* ***Save As*** *dialog box, on the* ***Stand
 **In product documentation, document all supported modes of interaction, input commands, and keyboard shortcuts.** Include mice, keyboards, voice recognition devices, game controllers, gestures, and other interaction modes. 
 
 **Learn more**  
-[Describing alternative input methods](/style-guide/procedures-instructions/describing-alternative-input-methods)
+[Describing alternative input methods](~/procedures-instructions/describing-alternative-input-methods.md)
 
 **In procedures and instructions, use generic verbs that apply to all input methods and devices.** Avoid verbs like *click* (mouse) and *swipe* (touch) that don't make sense with some alternative input methods used for accessibility. 
 
 **Learn more**  
-[Describing interactions with UI](/style-guide/procedures-instructions/describing-interactions-with-ui)
+[Describing interactions with UI](~/procedures-instructions/describing-interactions-with-ui.md)

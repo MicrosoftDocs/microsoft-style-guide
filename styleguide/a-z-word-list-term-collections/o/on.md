@@ -21,4 +21,4 @@ Use *on* as a preposition with:
 
 In COM programming, an interface is implemented *on* an object.
 
-**See also** [Describing interactions with UI](/style-guide/procedures-instructions/describing-interactions-with-ui)
+**See also** [Describing interactions with UI](~/procedures-instructions/describing-interactions-with-ui.md)

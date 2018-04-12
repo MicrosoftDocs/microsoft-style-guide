@@ -27,4 +27,4 @@ that a new section or thought is beginning. All-lowercase text
 takes away that helpful cue.  
 **Example** <br />this sentence is all lowercase. or is it a sentence? it's hard to tell with no capital letters. 
 
-**Learn more** To learn more about proper nouns, see [Nouns and pronouns](/style-guide/grammar/nouns-pronouns). To learn more about capitalization, see [Capitalization](/style-guide/capitalization).
+**Learn more** To learn more about proper nouns, see [Nouns and pronouns](~/grammar/nouns-pronouns.md). To learn more about capitalization, see [Capitalization](~/capitalization.md).

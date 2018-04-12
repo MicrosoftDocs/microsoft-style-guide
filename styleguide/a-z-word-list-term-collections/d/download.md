@@ -23,4 +23,4 @@ In your writing, make sure it's clear whether *download* is used as a noun or ve
 
 **Examples**<br />Install the app.<br />To learn more about integrating data security across your enterprise, download the poster to your device. 
 
-**See also** <br />[install](/style-guide/a-z-word-list-term-collections/i/install)<br />[load](/style-guide/a-z-word-list-term-collections/l/load)<br />[upload](/style-guide/a-z-word-list-term-collections/u/upload)
+**See also** <br />[install](~/a-z-word-list-term-collections/i/install.md)<br />[load](~/a-z-word-list-term-collections/l/load.md)<br />[upload](~/a-z-word-list-term-collections/u/upload.md)

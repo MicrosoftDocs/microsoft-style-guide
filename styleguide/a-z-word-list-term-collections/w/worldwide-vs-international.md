@@ -35,4 +35,4 @@ Spain, and the United Kingdom and expanded certifications in seven other
 regions.
 Microsoft is driving the transformation of business and industry across Europe and around the world.
 
-**See also** [global](/style-guide/a-z-word-list-term-collections/g/global)
+**See also** [global](~/a-z-word-list-term-collections/g/global.md)

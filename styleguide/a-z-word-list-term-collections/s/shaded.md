@@ -20,4 +20,4 @@ The command isn’t available until you select text.
 If the option appears dimmed, it's not available.  
 Selected effects appear shaded. 
 
-**See also** [unavailable](/style-guide/a-z-word-list-term-collections/u/unavailable)
+**See also** [unavailable](~/a-z-word-list-term-collections/u/unavailable.md)

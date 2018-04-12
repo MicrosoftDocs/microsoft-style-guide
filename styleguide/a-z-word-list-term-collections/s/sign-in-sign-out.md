@@ -22,4 +22,4 @@ Enter your password to sign in.
 Some networks can be set up to remember your username and password.  
 After an extended period without activity, the network will sign you out automatically.
 
-**See also** [connect](/style-guide/a-z-word-list-term-collections/c/connect)
+**See also** [connect](~/a-z-word-list-term-collections/c/connect.md)

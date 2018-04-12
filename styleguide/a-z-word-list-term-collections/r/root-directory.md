@@ -16,4 +16,4 @@ In other content, use *top-level folder*.
 **Example**  
 Change to the root directory, and enter the following command: **edit autoexec.bat**
 
-**See also**  [top-level folder](/style-guide/a-z-word-list-term-collections/t/top-level-folder)
+**See also**  [top-level folder](~/a-z-word-list-term-collections/t/top-level-folder.md)

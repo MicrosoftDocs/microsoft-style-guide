@@ -24,4 +24,4 @@ rare in Microsoft content.
 (Sentence-style capitalization) E-commerce and security  
 (Title-style capitalization) Strategic E-Commerce Systems and Tools for Competing in the Digital Marketplace
 
-**See also** [Capitalization](/style-guide/capitalization)
+**See also** [Capitalization](~/capitalization.md)

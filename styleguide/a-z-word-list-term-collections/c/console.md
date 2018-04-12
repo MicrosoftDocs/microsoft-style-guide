@@ -14,6 +14,6 @@ Use *console window* and *console application* only in content for a technical a
 Don't use *console* as a synonym for *snap-in*.
 
 **See also**   
-[command line, command-line](/style-guide/a-z-word-list-term-collections/c/command-line)  
+[command line, command-line](~/a-z-word-list-term-collections/c/command-line.md)  
 [command prompt](../c/command-prompt.md)  
-[snap-in](/style-guide/a-z-word-list-term-collections/s/snap-in)
+[snap-in](~/a-z-word-list-term-collections/s/snap-in.md)

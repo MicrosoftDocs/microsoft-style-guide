@@ -16,4 +16,4 @@ describe the relationships among nodes in a tree structure.
 
 Don't use as a synonym for a master/subordinate relationship. 
 
-**See also** [master/slave, master/subordinate](/style-guide/a-z-word-list-term-collections/m/master-slave-master-subordinate)
+**See also** [master/slave, master/subordinate](~/a-z-word-list-term-collections/m/master-slave-master-subordinate.md)

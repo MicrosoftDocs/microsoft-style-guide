@@ -48,4 +48,4 @@ In text, don’t use an en dash in a range of times. Use *to* instead: *10:00 AM
 2:15 AM‒4:45 PM 4/1/16 (time range on a single day)  
 2:15 PM 12/1/17 ‒ 4:45 PM 4/1/18 (range includes both time and date)
 
-**See also** [Date and time term collection](/style-guide/a-z-word-list-term-collections/term-collections/date-time-terms)
+**See also** [Date and time term collection](~/a-z-word-list-term-collections/term-collections/date-time-terms.md)

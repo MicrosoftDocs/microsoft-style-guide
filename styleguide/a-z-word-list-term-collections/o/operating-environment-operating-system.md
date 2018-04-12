@@ -21,4 +21,4 @@ Use *on,* *under,* or *with* as prepositions with *operating system*. Don't use 
 
 **Examples**<br />Word 2016 runs with the Windows operating system. <br />Microsoft Exchange Server runs on the Windows Server operating system.
 
-**See also** [platform](/style-guide/a-z-word-list-term-collections/p/platform)
+**See also** [platform](~/a-z-word-list-term-collections/p/platform.md)

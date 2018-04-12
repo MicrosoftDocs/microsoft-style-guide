@@ -16,4 +16,4 @@ Use *search* and *replace* as verbs, not as nouns or adjectives.
 **Example**  
 Search your document. 
 
-**See also** [](/style-guide/a-z-word-list-term-collections/f/find-replace)[find and replace](/style-guide/a-z-word-list-term-collections/f/find-replace)
+**See also** [find and replace](~/a-z-word-list-term-collections/f/find-replace.md)

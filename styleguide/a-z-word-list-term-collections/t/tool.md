@@ -12,7 +12,7 @@ ms.prod: non-product-specific
 Use *tool,* not *utility,* to describe a feature that helps customers accomplish tasks.
 
 **See also**   
-[add-in, add-on](/style-guide/a-z-word-list-term-collections/a/add-in-add-on)  
-[app, application](/style-guide/a-z-word-list-term-collections/a/app-application)  
-[applet](/style-guide/a-z-word-list-term-collections/a/applet)  
-[Control Panel](/style-guide/a-z-word-list-term-collections/c/control-panel)
+[add-in, add-on](~/a-z-word-list-term-collections/a/add-in-add-on.md)  
+[app, application](~/a-z-word-list-term-collections/a/app-application.md)  
+[applet](~/a-z-word-list-term-collections/a/applet.md)  
+[Control Panel](~/a-z-word-list-term-collections/c/control-panel.md)

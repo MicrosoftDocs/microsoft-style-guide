@@ -9,4 +9,4 @@ ms.prod: non-product-specific
 
 # on-screen keyboard
 
-**See** [Keys and keyboard shortcuts term collection](/style-guide/a-z-word-list-term-collections/term-collections/keys-keyboard-shortcuts)
+**See** [Keys and keyboard shortcuts term collection](~/a-z-word-list-term-collections/term-collections/keys-keyboard-shortcuts.md)

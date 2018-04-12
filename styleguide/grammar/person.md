@@ -36,4 +36,4 @@ Select the people you want to give permission to. We'll verify their identities 
 In September, we took a major step forward in introducing Windows 10 to our enterprise customers.  
 The scheduled default setting is the easiest way to keep your computer up to date. (Instead of *We recommend that you use the scheduled default setting ....*)
 
-**Learn more** For information about using the pronouns *he, she,* and *they,* see [Nouns and pronouns](/style-guide/grammar/nouns-pronouns).
+**Learn more** For information about using the pronouns *he, she,* and *they,* see [Nouns and pronouns](~/grammar/nouns-pronouns.md).

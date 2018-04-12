@@ -11,4 +11,4 @@ ms.prod: non-product-specific
 
 Don't use. 
 
-**See** [restore](/style-guide/a-z-word-list-term-collections/r/restore)
+**See** [restore](~/a-z-word-list-term-collections/r/restore.md)

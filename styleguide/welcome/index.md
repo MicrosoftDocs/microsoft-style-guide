@@ -29,11 +29,11 @@ also a reimagining of Microsoft style—a tool to help everyone write in a way t
 
 Here's some of what's new in the *Microsoft Writing Style Guide:*
 
-- [Top 10 tips for mastering Microsoft style and voice](/style-guide/top-10-tips-style-voice)  
+- [Top 10 tips for mastering Microsoft style and voice](~/top-10-tips-style-voice.md)  
 
-- Term collections that consolidate related terms into one handy list, such as [Accessibility terms](/style-guide/a-z-word-list-term-collections/term-collections/accessibility-terms), [Computer and device terms](/style-guide/a-z-word-list-term-collections/term-collections/computer-device-terms), [Cloud-computing terms](/style-guide/a-z-word-list-term-collections/term-collections/cloud-computing-terms), and [Bits and bytes terms](/style-guide/a-z-word-list-term-collections/term-collections/bits-bytes-terms)  
+- Term collections that consolidate related terms into one handy list, such as [Accessibility terms](~/a-z-word-list-term-collections/term-collections/accessibility-terms.md), [Computer and device terms](~/a-z-word-list-term-collections/term-collections/computer-device-terms.md), [Cloud-computing terms](~/a-z-word-list-term-collections/term-collections/cloud-computing-terms.md), and [Bits and bytes terms](~/a-z-word-list-term-collections/term-collections/bits-bytes-terms.md)  
 
-- New major topics for [Chatbots and virtual agents](/style-guide/chatbots-virtual-agents/), [Content planning](/style-guide/content-planning), and [Responsive content](/style-guide/responsive-content)  
+- New major topics for [Chatbots and virtual agents](~/chatbots-virtual-agents/index.md), [Content planning](~/content-planning.md), and [Responsive content](~/responsive-content.md)  
 
 We welcome your feedback about the *Microsoft Writing Style Guide.* Contact us at <msstyle@microsoft.com>. 
 

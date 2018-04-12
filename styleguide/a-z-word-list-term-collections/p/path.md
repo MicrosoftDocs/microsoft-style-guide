@@ -40,4 +40,4 @@ names. File names don't require extensions.
 **Example**  
 (Mac) Macintosh HD:My Documentation:Sales CORP-16:TOMCAT:EX130D Mac Temp:Workbook1
 
-**See also**  [Formatting common text elements](/style-guide/text-formatting/formatting-common-text-elements), [URLs and web addresses](/style-guide/urls-web-addresses)
+**See also**  [Formatting common text elements](~/text-formatting/formatting-common-text-elements.md), [URLs and web addresses](~/urls-web-addresses.md)

@@ -18,4 +18,4 @@ The command isn’t available until you select text.
 If the option appears dimmed, it's not available.  
 Selected effects appear shaded. 
 
-**See also** [disable, disabled](/style-guide/a-z-word-list-term-collections/d/disable-disabled), [unavailable](/style-guide/a-z-word-list-term-collections/u/unavailable)
+**See also** [disable, disabled](~/a-z-word-list-term-collections/d/disable-disabled.md), [unavailable](~/a-z-word-list-term-collections/u/unavailable.md)

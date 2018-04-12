@@ -16,4 +16,4 @@ maillike
 bell-like  
 computer-like
 
-To learn more about hyphenation, see [Hyphens](/style-guide/punctuation/dashes-hyphens/hyphens).
+To learn more about hyphenation, see [Hyphens](~/punctuation/dashes-hyphens/hyphens.md).
