@@ -2,7 +2,7 @@
 title: Computer and device terms - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 02/21/2018
+ms.date: 04/12/2018
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -46,7 +46,7 @@ Use the following terms only when you need to be more specific than you can be b
 **slate**|Don’t use.
 **notebook**|Don’t use.
 **machine**|Use only to describe both physical computers and virtual machines in content about virtualization.
-**client or server, box**|Use *client* or *server* only if it's clear to the reader whether the client or server discussed is hardware or software.<br /><br />Use *client* or *server computer* if you need to clarify that you're discussing hardware.<br /><br />Don’t use *box* in reference to client and server hardware.
+**client, server**|Use *client* or *server* only if it's clear to the reader whether the client or server discussed is hardware or software.<br /><br />Use *client computer* or *server computer* if you need to clarify that you're discussing hardware.<br /><br />Don’t use *box* in reference to client and server hardware.
 
 ## **Peripheral devices and hardware components**
 
