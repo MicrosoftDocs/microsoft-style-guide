@@ -96,5 +96,4 @@ Configure limits for the backup. These limits should be based on the amount of s
 **Example**  
 Configure limits for the backup. **Base the limits** on the amount of storage space available.
 
-**Use only common abbreviations,** such as *USB,* and
-abbreviations that are defined in glossaries. 
+**Use only common abbreviations,** such as *USB.* 
