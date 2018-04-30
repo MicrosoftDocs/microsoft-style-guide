@@ -2,7 +2,7 @@
 title: What's new? - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 03/15/2018
+ms.date: 04/30/2018
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -13,6 +13,9 @@ This table shows a history of updates to the *Microsoft Writing Style Guide* sin
 
 **Date**|**Topic**|**Change**
 --|--|--
+April 30, 2018|[open](~/a-z-word-list-term-collections/o/open.md)|Added use of *open,* not *start* or *launch,* to describe opening an app.
+April 30, 2018|[start, restart](~/a-z-word-list-term-collections/s/start-restart.md)|Clarified that *open* not *start* should be used to refer to opening all apps, not just those from the **Start** menu.
+April 30, 2018|[launch](~/a-z-word-list-term-collections/l/launch.md)|Clarified use of *open* instead of *launch* to refer to opening an app or form.
 March 15, 2018|[Microsoft Store](~/a-z-word-list-term-collections/m/microsoft-store.md)|Added topic to the A–Z word list.
 March 12, 2018|[Numbers](~/numbers.md)<br />[Units of measure term collection](~/a-z-word-list-term-collections/term-collections/units-of-measure-terms.md)|Added guidelines for the use of commas in pixel measurements.
 February 21, 2018|[Computer and device term collection](~/a-z-word-list-term-collections/term-collections/computer-device-terms.md)|Added guideline for using *disk* in the context of Azure cloud storage.
