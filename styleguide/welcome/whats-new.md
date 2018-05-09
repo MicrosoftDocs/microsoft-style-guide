@@ -2,7 +2,7 @@
 title: What's new? - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 04/30/2018
+ms.date: 05/9/2018
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -13,6 +13,7 @@ This table shows a history of updates to the *Microsoft Writing Style Guide* sin
 
 **Date**|**Topic**|**Change**
 --|--|--
+May 9, 2018|[pin, unpin](~/a-z-word-list-term-collections/p/pin-unpin.md)|Made this topic less specific to clarify that *pin* and *unpin* can be used in any product, not just Windows.
 April 30, 2018|[open](~/a-z-word-list-term-collections/o/open.md)|Added use of *open,* not *start* or *launch,* to describe opening an app.
 April 30, 2018|[start, restart](~/a-z-word-list-term-collections/s/start-restart.md)|Clarified that *open* not *start* should be used to refer to opening all apps, not just those from the **Start** menu.
 April 30, 2018|[launch](~/a-z-word-list-term-collections/l/launch.md)|Clarified use of *open* instead of *launch* to refer to opening an app or form.
