@@ -2,7 +2,7 @@
 title: drop-down - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 01/19/2018
+ms.date: 05/17/2018
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -19,3 +19,5 @@ a drop-down list box
 For other audiences, use *box* if you must name the UI element.
 
 Don’t use *drop down* as a noun or verb.
+
+**See also** [Describing interactions with UI](~/procedures-instructions/describing-interactions-with-ui.md), [Formatting text in instructions](~/procedures-instructions/formatting-text-in-instructions)
