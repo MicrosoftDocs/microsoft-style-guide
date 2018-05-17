@@ -631,7 +631,7 @@
 ### [property sheet, property page](a-z-word-list-term-collections/p/property-sheet-property-page.md)
 ### [protected mode](a-z-word-list-term-collections/p/protected-mode.md)
 ### [public cloud](a-z-word-list-term-collections/p/public-cloud.md)
-### [pull-down](a-z-word-list-term-collections/p/pull-down.md)
+### [pull down, pull-down](a-z-word-list-term-collections/p/pull-down.md)
 ### [purge](a-z-word-list-term-collections/p/purge.md)
 ### [push button, push-button](a-z-word-list-term-collections/p/push-button.md)
 ## Q
