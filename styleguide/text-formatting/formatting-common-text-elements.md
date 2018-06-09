@@ -2,7 +2,7 @@
 title: Formatting common text elements - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 01/19/2018
+ms.date: 06/9/2018
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -27,7 +27,7 @@ For information about referring to UI elements, see [Formatting text in instruct
 **Emphasis**|It’s OK to use italic formatting sparingly for emphasis.|Cybercriminals might call you and claim to be from Microsoft. Be aware that Microsoft will never call you to charge for security or software fixes.
 **Error messages**|Sentence-style capitalization.|Hmm … looks like that’s a broken link. 
 **File attributes**|All lowercase.|hidden<br />system<br />read-only<br />To remove the hidden attribute from all files in a folder ....
-**File extensions**|All lowercase.|.mdb<br />.doc
+**File name extensions**|All lowercase.|.mdb<br />.doc
 **File names**|Title-style capitalization. It’s OK to use internal caps in file names for readability.|My Taxes for 2016<br />MyTaxesFor2016
 **Folder and directory names**|Sentence-style capitalization. It’s OK to use internal capital letters in folder and directory names for readability.|Vacation and sick pay<br />MyFiles\Accounting\Payroll\VacPay
 **Macros**|Usually all uppercase. Use bold formatting if predefined. Might be monospace if user defined. Treatment varies.|**LOWORD**<br />`MASKROP`

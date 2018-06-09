@@ -2,7 +2,7 @@
 title: Formatting developer text elements - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 01/19/2018
+ms.date: 06/9/2018
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -38,7 +38,7 @@ For information about referring to UI elements, see [Formatting text in instruct
 **Event names**|Bold. Treatment of event names varies.|In the **OnClick** event procedure ....
 **Fields (members of a class or structure)**|Bold. Treatment of field names varies.|**IfHeight**<br />**biPlanes**
 **File attributes**|All lowercase.|The **attrib** command displays, sets, or removes the read-only, archive, system, and hidden attributes assigned to files or directories.
-**File extensions**|All lowercase.|.mdb<br />.doc
+**File name extensions**|All lowercase.|.mdb<br />.doc
 **File names (user-defined examples)**|Title-style capitalization. It’s OK to use internal capital letters in file names for readability.|My Taxes for 2016<br />MyTaxesFor2016
 **Folder and directory names (user-defined examples)**|Sentence-style capitalization. It’s OK to use internal capital letters in folder and directory names for readability.|Vacation and sick pay<br />MyFiles\Accounting\Payroll\VacPay
 **Functions (predefined)**|Usually bold. Capitalization varies.|**CompactDatabase**<br />**CWnd::CreateEx**<br />**FadePic**

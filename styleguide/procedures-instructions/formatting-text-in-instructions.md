@@ -2,7 +2,7 @@
 title: Formatting text in instructions - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 01/19/2018
+ms.date: 06/9/2018
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -35,7 +35,7 @@ Use these conventions in instructions that appear in documentation and technical
 | **Dialog boxes** | Avoid talking about dialog boxes. Instead, describe what the customer needs to do.<br />When you must refer to a dialog box by name, use bold formatting for the name of the dialog box. <br /> Use sentence-style capitalization unless you need to match the UI. If a dialog box label ends with a colon or an ellipsis, don’t include that end punctuation in instructions. <br />Don’t include the words _dialog box_ unless it adds needed clarity. | Select **Upload**, and then select a file to upload.<br /> In **Properties**, select **Details**, and then select **Remove Properties and Personal Information**.<br /> In the **Protect document** dialog box, clear the **Shapes** check box. |
 | **Error messages** | Sentence-style capitalization. Enclose error messages in quotation marks when referring to them in text. | We can't find a scanner.<br />Hmm ... looks like that's a broken link.<br /> If you see the error message, “Check scanner status and try again,” use Windows Update to check for the latest drivers for your device.<br /> |
 | **File attributes** | All lowercase. | To remove the hidden attribute from all files in a folder .... |
-| **File extensions** | All lowercase. | .mdb <br /> .doc |
+| **File name extensions** | All lowercase. | .mdb <br /> .doc |
 | **File names (user-defined examples)** | Title-style capitalization. It’s OK to use internal capital letters in file names for readability. Use bold formatting for file names in procedures if you're directing the customer to select, type, or otherwise interact with the name. | My Taxes for 2016 <br /> MyTaxesFor2016 <br /> Enter **MyTaxesFor2016**. |
 | **Folder and directory names (user-defined examples)** | Sentence-style capitalization. It’s OK to use internal capital letters in folder and directory names for readability. In procedures, use bold formatting for names if you’re directing the customer to select, type, or otherwise interact with the name. | Vacation and Sick Pay <br /> MyFiles\Accounting\Payroll\VacPay<br /> Select <b>Documents</b>. |
 | **Key names, combinations, and sequences** | Capitalize. To learn more about referring to keyboard shortcuts and specific keys, see [Keys and keyboard shortcuts term collection](~/a-z-word-list-term-collections/term-collections/keys-keyboard-shortcuts.md). | Ctrl, Tab <br /> Ctrl+Alt+Del <br /> Shift, F7 <br /> Alt, F, O <br /> Spacebar |
