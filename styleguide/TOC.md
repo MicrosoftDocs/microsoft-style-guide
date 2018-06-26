@@ -375,7 +375,7 @@
 ### [hot spot, hotspot](a-z-word-list-term-collections/h/hot-spot-hotspot.md)
 ### [how to, how-to](a-z-word-list-term-collections/h/how-how-to.md)
 ### [HTML](a-z-word-list-term-collections/h/html.md)
-### [HTTP](a-z-word-list-term-collections/h/http.md)
+### [HTTP, HTTPS](a-z-word-list-term-collections/h/http-https.md)
 ### [hybrid cloud](a-z-word-list-term-collections/h/hybrid-cloud.md)
 ### [hyperlink](a-z-word-list-term-collections/h/hyperlink.md)
 ## I
@@ -762,7 +762,7 @@
 ### [terminate](a-z-word-list-term-collections/t/terminate.md)
 ### [text, text message](a-z-word-list-term-collections/t/text-text-message.md)
 ### [text box](a-z-word-list-term-collections/t/text-box.md)
-### [thank you](a-z-word-list-term-collections/t/thank-you.md)
+### [thanks, thank you](a-z-word-list-term-collections/t/thanks-thank-you.md)
 ### [that vs. which](a-z-word-list-term-collections/t/that-vs-which.md)
 ### [tile, Live Tile](a-z-word-list-term-collections/t/tile-live-tile.md)
 ### [time out, time-out](a-z-word-list-term-collections/t/time-out.md)
