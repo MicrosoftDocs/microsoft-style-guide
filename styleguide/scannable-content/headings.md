@@ -2,7 +2,7 @@
 title: Headings - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 01/19/2018
+ms.date: 06/26/2018
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -71,7 +71,7 @@ infinitive phrases for headings in instructions.<br />
 
 **Report filters**
 
-**Consider imperative phrases,** such as *To create a heading,* for headings and titles related to tasks. For headings that aren't related to tasks, use a noun phrase such as *Headings,* if possible. 
+**Consider infinitive phrases,** such as *To create a heading,* for headings and titles related to tasks. For headings that aren't related to tasks, use a noun phrase such as *Headings,* if possible. 
 
 **Don’t use ampersands (&) or plus signs (+)** in headings unless you're referring to UI that contains them or space is limited. 
 

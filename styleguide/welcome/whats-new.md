@@ -2,7 +2,7 @@
 title: What's new? - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 05/9/2018
+ms.date: 06/26/2018
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -13,6 +13,8 @@ This table shows a history of updates to the *Microsoft Writing Style Guide* sin
 
 **Date**|**Topic**|**Change**
 --|--|--
+June 26, 2018|[thanks, thank you](~/a-z-word-list-term-collections/t/thanks-thank-you.md)|Updated this topic to say that *thanks* is preferred to *thank you* and to clarify when it's appropriate to thank the customer.
+June 26, 2018|[HTTP, HTTPS](~/a-z-word-list-term-collections/h/http-https.md)|Added guidelines for HTTPS to this topic.
 May 9, 2018|[pin, unpin](~/a-z-word-list-term-collections/p/pin-unpin.md)|Made this topic less specific to clarify that *pin* and *unpin* can be used in any product, not just Windows.
 April 30, 2018|[open](~/a-z-word-list-term-collections/o/open.md)|Added use of *open,* not *start* or *launch,* to describe opening an app.
 April 30, 2018|[start, restart](~/a-z-word-list-term-collections/s/start-restart.md)|Clarified that *open* not *start* should be used to refer to opening all apps, not just those from the **Start** menu.
