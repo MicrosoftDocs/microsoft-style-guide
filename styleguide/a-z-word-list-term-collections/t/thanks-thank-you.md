@@ -16,5 +16,5 @@ Don't use *thanks* unnecessarily. Use *thanks* as the closing in email, a letter
 Otherwise, thank the customer only when they've been inconvenienced or they went out of their way to do something.
 
 **Examples**  
-Thanks for your feedback.
+Thanks for your feedback.  
 Microsoft offers a 10 percent military discount as a way to say thank you for your service. 
