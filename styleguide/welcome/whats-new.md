@@ -2,7 +2,7 @@
 title: What's new? - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 06/26/2018
+ms.date: 06/27/2018
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -13,6 +13,7 @@ This table shows a history of updates to the *Microsoft Writing Style Guide* sin
 
 **Date**|**Topic**|**Change**
 --|--|--
+June 27, 2018|[service-level agreement (SLA)](~/a-z-word-list-term-collections/s/service-level-agreement-sla.md)|Added a topic to the A–Z word list.
 June 26, 2018|[thanks, thank you](~/a-z-word-list-term-collections/t/thanks-thank-you.md)|Updated this topic to say that *thanks* is preferred to *thank you* and to clarify when it's appropriate to thank the customer.
 June 26, 2018|[HTTP, HTTPS](~/a-z-word-list-term-collections/h/http-https.md)|Added guidelines for HTTPS to this topic.
 May 9, 2018|[pin, unpin](~/a-z-word-list-term-collections/p/pin-unpin.md)|Made this topic less specific to clarify that *pin* and *unpin* can be used in any product, not just Windows.
