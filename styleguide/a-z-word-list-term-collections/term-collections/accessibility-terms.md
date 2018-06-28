@@ -24,6 +24,8 @@ Person of small stature<br />
 
 If necessary, use the following terms to describe people with disabilities or the disabilities themselves.
 
+For an overview of Microsoft accessibility policies, see [Accessibility guidelines and requirements](~/accessibility/accessibility-guidelines-requirements.md). 
+
 To learn more about writing that conveys respect to all people and promotes equal opportunities, see the [Guidelines for Inclusive Language](http://www.linguisticsociety.org/content/guidelines-inclusive-language "Linguistic Society of America's guidelines for inclusive language") from the Linguistic Society of America.
 
 **Use this**|**Instead of this**

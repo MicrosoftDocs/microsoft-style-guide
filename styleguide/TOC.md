@@ -690,6 +690,7 @@
 ### [search box](a-z-word-list-term-collections/s/search-box.md)
 ### [secondary menu](a-z-word-list-term-collections/s/secondary-menu.md)
 ### [select](a-z-word-list-term-collections/s/select.md)
+### [service-level agreement (SLA)](a-z-word-list-term-collections/s/service-level-agreement-sla.md)
 ### [service-oriented architecture (SOA)](a-z-word-list-term-collections/s/service-oriented-architecture-soa.md)
 ### [set, specify](a-z-word-list-term-collections/s/set-specify.md)
 ### [set up, setup, Setup](a-z-word-list-term-collections/s/set-up-setup.md)
