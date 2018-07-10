@@ -298,6 +298,7 @@
 ### [file name extension, extension](a-z-word-list-term-collections/f/file-name-extension-extension.md)
 ### [finalize](a-z-word-list-term-collections/f/finalize.md)
 ### [find and replace](a-z-word-list-term-collections/f/find-replace.md)
+### [first line, first-line](a-z-word-list-term-collections/f/first-line.md)
 ### [fixed disk](a-z-word-list-term-collections/f/fixed-disk.md)
 ### [flick](a-z-word-list-term-collections/f/flick.md)
 ### [flush, flush to](a-z-word-list-term-collections/f/flush-flush-to.md)
