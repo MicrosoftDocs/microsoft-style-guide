@@ -49,5 +49,9 @@
     ]
   },
   "need_generate_pdf_url_template": true,
-  "targets": {}
+  "Targets": {  
+    "Pdf": {  
+    "template_folder": "_themes.pdf"  
+    }  
+   }
 }
