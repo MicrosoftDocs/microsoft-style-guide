@@ -2,7 +2,7 @@
 title: Person - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 01/19/2018
+ms.date: 07/17/2018
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -35,5 +35,7 @@ First-person plural, which often uses the pronoun *we,* can feel like a daunting
 Select the people you want to give permission to. We'll verify their identities before opening the document.  
 In September, we took a major step forward in introducing Windows 10 to our enterprise customers.  
 The scheduled default setting is the easiest way to keep your computer up to date. (Instead of *We recommend that you use the scheduled default setting ....*)
+
+**See also** [Microsoft](~/a-z-word-list-term-collections/m/microsoft.md)
 
 **Learn more** For information about using the pronouns *he, she,* and *they,* see [Nouns and pronouns](~/grammar/nouns-pronouns.md).
