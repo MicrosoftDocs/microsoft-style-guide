@@ -215,7 +215,7 @@
 ### [device](a-z-word-list-term-collections/d/device.md)
 ### [device driver, driver](a-z-word-list-term-collections/d/device-driver-driver.md)
 ### [DevOps](a-z-word-list-term-collections/d/devops.md)
-### [dialog box, dialog](a-z-word-list-term-collections/d/dialog-box-dialog.md)
+### [dialog box, dialog, dialogue](a-z-word-list-term-collections/d/dialog-box-dialog-dialogue.md)
 ### [dial-up](a-z-word-list-term-collections/d/dial-up.md)
 ### [different](a-z-word-list-term-collections/d/different.md)
 ### [dimmed](a-z-word-list-term-collections/d/dimmed.md)
