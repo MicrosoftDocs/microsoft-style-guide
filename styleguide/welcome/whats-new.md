@@ -13,6 +13,7 @@ This table shows a history of updates to the *Microsoft Writing Style Guide* sin
 
 **Date**|**Topic**|**Change**
 --|--|--
+July 24, 2018|[Colons](~/punctuation/colons.md)|Added guidelines for capitalizing the word after a colon in titles and headings.
 July 24, 2018|[Capitalization](~/capitalization.md)|Added guidelines for capitalizing the word after a colon in a heading that uses sentence-style capitalization.
 July 24, 2018|[Headings](~/scannable-content/headings.md)|Added guidelines for capitalizing the word after a colon. Clarified guidelines for end punctuation and for text between a heading and a subsequent subhead.
 July 23, 2018|[dialog box, dialog, dialogue](~/a-z-word-list-term-collections/d/dialog-box-dialog-dialogue.md)|Added guidance for using *dialogue* when you're talking about conversation or interaction.
