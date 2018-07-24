@@ -2,7 +2,7 @@
 title: Capitalization - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 02/07/2018
+ms.date: 07/24/2018
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -46,16 +46,20 @@ For information about capitalizing UI labels in instructions, see [Formatting te
 
 ## Sentence-style capitalization in titles and headings
 
-Use sentence-style capitalization in most titles and headings: capitalize
-the first word and lowercase the rest. (Proper nouns, including
-brand, product, and service names, are always
-capitalized.) Titles of blog posts, articles, and press releases
+Use sentence-style capitalization in most titles and headings: capitalize 
+the first word and lowercase the rest.  
+**Exceptions** Proper nouns, including brand, product, and service names, are always
+capitalized. If a title or heading includes a colon, capitalize the first word after it.
+
+Titles of blog posts, articles, documentation topics, and press releases
 use sentence-style capitalization.<br />
 **Examples**  
-Watch your favorite HD movies, TV shows, and more.  
+Watch your favorite HD movies, TV shows, and more  
 1 TB of cloud storage  
-Choose the Office version that’s right for you.  
+Choose the Office version that’s right for you  
 Available for Microsoft partners and commercial and public-sector customers  
+Can a search engine predict the World Cup winner?  
+Block party: Communities use Minecraft to create public spaces  
 
 ## Title-style capitalization
 

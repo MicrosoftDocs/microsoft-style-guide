@@ -2,7 +2,7 @@
 title: What's new? - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 07/23/2018
+ms.date: 07/24/2018
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -13,6 +13,9 @@ This table shows a history of updates to the *Microsoft Writing Style Guide* sin
 
 **Date**|**Topic**|**Change**
 --|--|--
+July 24, 2018|[Colons](~/punctuation/colons.md)|Added guidelines for capitalizing the word after a colon in titles and headings.
+July 24, 2018|[Capitalization](~/capitalization.md)|Added guidelines for capitalizing the word after a colon in a heading that uses sentence-style capitalization.
+July 24, 2018|[Headings](~/scannable-content/headings.md)|Added guidelines for capitalizing the word after a colon. Clarified guidelines for end punctuation and for text between a heading and a subsequent subhead.
 July 23, 2018|[dialog box, dialog, dialogue](~/a-z-word-list-term-collections/d/dialog-box-dialog-dialogue.md)|Added guidance for using *dialogue* when you're talking about conversation or interaction.
 July 17, 2018|[Microsoft](~/a-z-word-list-term-collections/m/microsoft.md)|Updated this topic to explain when to use first-person pronouns (*we, our*) and when to use third person (*it, its*) when the subject is Microsoft.
 July 10, 2018|[first line, first-line](~/a-z-word-list-term-collections/f/first-line.md)|Added a topic to the A–Z word list.

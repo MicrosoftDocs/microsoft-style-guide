@@ -2,7 +2,7 @@
 title: Colons - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 01/19/2018
+ms.date: 07/24/2018
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -25,7 +25,7 @@ To learn more, see [Lists](~/scannable-content/lists.md).
 
 Use colons sparingly at the end of a statement followed by a second statement that expands on it.<br />
 **Example**  
-Microsoft ActiveSync doesn’t recognize this device for one of two reasons:
+Microsoft ActiveSync doesn't recognize this device for one of two reasons:
 the device wasn't connected properly or the device isn't a
 smartphone.
 
@@ -38,3 +38,11 @@ When you use a colon in a sentence, lowercase the word that follows it unless:
     
   - The first word after the colon is a proper noun.  
     **Example** <br />We're considering three cities for the event: Los Angeles, Munich, and Tokyo. 
+    
+## In titles and headings  
+
+When you use a colon in a title or heading, capitalize the word that follows it.  
+**Examples**  
+Block party: Communities use Minecraft to create public spaces  
+Why girls lose interest in STEM: New research has some answers  
+Get started with Azure IoT: An interactive developer guide  
