@@ -2,7 +2,7 @@
 title: Headings - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 06/26/2018
+ms.date: 07/24/2018
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -31,10 +31,8 @@ In any type of content—whether it’s UI, web content, marketing, or advertisi
     break up the large section into more scannable chunks. If you can’t find
     at least two distinct topics, skip the second-level headings.  
     
-  - Identify
-    at least two distinct topics in a section before you add another
-    heading level. And never follow a heading with another
-    heading.  
+  - Avoid having two headings in a row without text in between—that might indicate a problem with 
+    organization or that the headings are redundant. But don't insert filler text just to separate the headings.
     
   - Each new heading represents a new or more specific topic. The heading should introduce the topic in an interesting way.
 
@@ -81,18 +79,22 @@ infinitive phrases for headings in instructions.<br />
 
 ## Formatting headings
 
-**Use sentence-style capitalization** for headings. In
-sentence-style capitalization, the first word is capitalized,
-proper nouns are capitalized, and everything else is lowercase. To learn
+**Use sentence-style capitalization** for headings. That means that you capitalize the first word, 
+any proper nouns, and the first word after a colon (if there is one). Everything else is lowercase. To learn
 more, see [Capitalization](~/capitalization.md).<br />
 **Examples**  
 Say hello to Surface Pro  
 Set up the deployment environment  
 Templates and themes for Office Online  
 My account  
-Find a store
+Find a store  
+Can a search engine predict the World Cup winner?  
+Block party: Communities use Minecraft to create public spaces  
 
-**Don’t use end punctuation** in headings.
+**Don't end headings with a period.** A question mark or (rarely) an exclamation point can be used if it's needed for meaning.<br />
+**Examples**  
+Not seeing what you want?  
+What can we help you find?  
 
 **Use italic** if it would be required in body text.
 
