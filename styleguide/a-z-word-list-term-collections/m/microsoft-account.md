@@ -2,18 +2,18 @@
 title: Microsoft account - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 01/19/2018
+ms.date: 07/31/2018
 ms.topic: article
 ms.prod: non-product-specific
 ---
 
 # Microsoft account
 
-Don’t capitalize *account*.
+Don't capitalize *account*.
 
-Use *Microsoft account* to refer to the sign-in credentials (email address and password) that give someone access to Microsoft services, such as Skype, Xbox Live, and Outlook.com, and to products, such as Windows phone and Xbox consoles. 
+Use *Microsoft account* to refer to the sign-in credentials (email address and password) that give someone access to Microsoft services, such as Skype, Xbox Live, and Outlook.com, and to products, such as Xbox consoles. 
 
-Don’t use *Microsoft account* to refer to corporate domain accounts, which are used to connect to corporate resources and services.
+Don't use *Microsoft account* to refer to corporate domain accounts, which are used to connect to corporate resources and services.
 
 *Microsoft account* was formerly known as *Windows Live ID*.
 
