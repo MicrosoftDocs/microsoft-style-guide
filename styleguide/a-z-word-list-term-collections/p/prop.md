@@ -9,4 +9,4 @@ ms.prod: non-product-specific
 
 # prop
 
-Don't use as an abbreviation for *propagate**.*
+Don't use as an abbreviation for *propagate*<em>.</em>

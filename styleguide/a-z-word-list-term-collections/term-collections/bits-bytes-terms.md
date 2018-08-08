@@ -44,23 +44,24 @@ a 650-MB limit
     1,024 MB
 
 
-**Term**|**Abbreviation**|**Usage**
----|---|---
-**bits per pixel**|bpp|
-**bits per second**|bps|Don't use as a synonym for *baud.* See [Units of measure term collection](~/a-z-word-list-term-collections/term-collections/units-of-measure-terms.md) for information about *baud.*
-**byte**|*None*|Don't abbreviate.
-**exabyte**|EB|Don’t use *E, E byte,* or *EByte.*
-**gigabit**|*None*|Don’t abbreviate.
-**gigabits per second**|Gbps|Don't spell out as *Gb per second*.
-**gigabyte**|GB|Don’t use *G, G byte,* or *GByte*.
-**kilobit**|*None*|Don’t abbreviate.
-**kilobits per second**|Kbps|Don't spell out as *KB per second*.
-**kilobyte**|KB|Don't use *K, K byte,* or *KByte*.
-**kilobytes per second**|KBps|Don't spell out as *KB per second*.
-**megabit**|*None*|Don’t abbreviate.
-**megabits per second**|Mbps|Don't spell out as *Mb per second*. 
-**megabyte**|MB|Don’t use *M, meg, M byte,* or *MByte*.
-**megabytes per second**|MBps|Don't spell out as *MB per second*.
-**petabyte**|PB|Don’t use *P, P byte,* or *PByte*.
-**terabyte**|TB|Don’t use *T, T byte,* or *TByte*.
-**zettabyte**|ZB|Don’t use *Z, Z byte,* or *ZByte.*
+|         **Term**         | **Abbreviation** |                                                                                      **Usage**                                                                                       |
+|--------------------------|------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    **bits per pixel**    |       bpp        |                                                                                                                                                                                      |
+|   **bits per second**    |       bps        | Don't use as a synonym for *baud.* See [Units of measure term collection](~/a-z-word-list-term-collections/term-collections/units-of-measure-terms.md) for information about *baud.* |
+|         **byte**         |      *None*      |                                                                                  Don't abbreviate.                                                                                   |
+|       **exabyte**        |        EB        |                                                                          Don’t use *E, E byte,* or *EByte.*                                                                          |
+|       **gigabit**        |      *None*      |                                                                                  Don’t abbreviate.                                                                                   |
+| **gigabits per second**  |       Gbps       |                                                                         Don't spell out as *Gb per second*.                                                                          |
+|       **gigabyte**       |        GB        |                                                                          Don’t use *G, G byte,* or *GByte*.                                                                          |
+|       **kilobit**        |      *None*      |                                                                                  Don’t abbreviate.                                                                                   |
+| **kilobits per second**  |       Kbps       |                                                                         Don't spell out as *KB per second*.                                                                          |
+|       **kilobyte**       |        KB        |                                                                          Don't use *K, K byte,* or *KByte*.                                                                          |
+| **kilobytes per second** |       KBps       |                                                                         Don't spell out as *KB per second*.                                                                          |
+|       **megabit**        |      *None*      |                                                                                  Don’t abbreviate.                                                                                   |
+| **megabits per second**  |       Mbps       |                                                                         Don't spell out as *Mb per second*.                                                                          |
+|       **megabyte**       |        MB        |                                                                       Don’t use *M, meg, M byte,* or *MByte*.                                                                        |
+| **megabytes per second** |       MBps       |                                                                         Don't spell out as *MB per second*.                                                                          |
+|       **petabyte**       |        PB        |                                                                          Don’t use *P, P byte,* or *PByte*.                                                                          |
+|       **terabyte**       |        TB        |                                                                          Don’t use *T, T byte,* or *TByte*.                                                                          |
+|      **zettabyte**       |        ZB        |                                                                          Don’t use *Z, Z byte,* or *ZByte.*                                                                          |
+

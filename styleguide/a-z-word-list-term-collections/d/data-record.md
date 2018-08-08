@@ -9,4 +9,4 @@ ms.prod: non-product-specific
 
 # data record
 
-Don't use. Use *record* instead*.*
+Don't use. Use *record* instead<em>.</em>
