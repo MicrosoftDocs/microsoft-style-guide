@@ -9,4 +9,4 @@ ms.prod: non-product-specific
 
 # upsize
 
-Don't use*.* Use *scale up* instead.
+Don't use<em>.</em> Use *scale up* instead.

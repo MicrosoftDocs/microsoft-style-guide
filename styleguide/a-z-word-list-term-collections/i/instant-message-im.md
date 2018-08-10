@@ -9,7 +9,7 @@ ms.prod: non-product-specific
 
 # instant message, IM
 
-Spell out *instant message* or *instant messaging* on the first mention if your audience might not be familiar with the abbreviation. After that, it's OK to use *IM* as a noun or modifier*.*
+Spell out *instant message* or *instant messaging* on the first mention if your audience might not be familiar with the abbreviation. After that, it's OK to use *IM* as a noun or modifier<em>.</em>
 
 Don't use *instant message* or *IM* as a verb. Use *send an instant message* or *send an IM* instead.
 

@@ -37,7 +37,7 @@ For information about using commas in numbers, see [Numbers](~/numbers.md).
 ## Don’t use a comma
 
   - To join independent clauses when you don't use a conjunction. (Use a semicolon instead.)<br />
-    **Example** <br />Select **Options**; then select **Enable fast saves.**
+    **Example** <br />Select **Options**; then select **Enable fast saves.**
 
   - Between verbs in a compound predicate (when two verbs apply to a single subject).<br />
     **Example** <br />The program evaluates your computer system and then copies the essential files to the target location. 

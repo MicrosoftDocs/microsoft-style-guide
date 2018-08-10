@@ -32,13 +32,16 @@
     "externalReference": [],
     "globalMetadata": {
       "breadcrumb_path": "/style-guide/breadcrumb/toc.json",
-      "searchScope": ["Style guide"],
+      "searchScope": [
+        "Style guide"
+      ],
       "feedback_system": "GitHub",
       "feedback_github_repo": "MicrosoftDocs/microsoft-style-guide",
       "extendBreadcrumb": true
     },
     "fileMetadata": {},
     "template": [],
-    "dest": "styleguide"
+    "dest": "styleguide",
+    "markdownEngineName": "markdig"
   }
 }

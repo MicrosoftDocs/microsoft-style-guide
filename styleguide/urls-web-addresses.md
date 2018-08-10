@@ -33,7 +33,7 @@ off. Never use a trailing slash in a URL that ends with a file name.
 
 Most of the time, use lowercase for URLs, email addresses, and newsgroup addresses. 
 
-To refer to an entire website or top-level domain, such as Microsoft.com, omit *http://www* from the URL and capitalize only the first letter of the URL, even if the site name is capitalized differently.<br />
+To refer to an entire website or top-level domain, such as Microsoft.com, omit *<http://www>* from the URL and capitalize only the first letter of the URL, even if the site name is capitalized differently.<br />
 **Examples**  
 www.microsoft.com  
 Microsoft.com   
