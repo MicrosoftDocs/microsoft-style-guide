@@ -2,7 +2,7 @@
 title: Formatting common text elements - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 06/9/2018
+ms.date: 08/8/2018
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -24,7 +24,7 @@ For information about referring to UI elements, see [Formatting text in instruct
 **Element**|**Convention**|**Example**
 --|--|--
 **Database names**|Bold. The capitalization of database names varies.|**Contoso** database
-**Emphasis**|It’s OK to use italic formatting sparingly for emphasis.|Cybercriminals might call you and claim to be from Microsoft. Be aware that Microsoft will never call you to charge for security or software fixes.
+**Emphasis**|It’s OK to use italic formatting sparingly for emphasis.|Cybercriminals might call you and claim to be from Microsoft. Be aware that Microsoft will *never* call you to charge for security or software fixes.
 **Error messages**|Sentence-style capitalization.|Hmm … looks like that’s a broken link. 
 **File attributes**|All lowercase.|hidden<br />system<br />read-only<br />To remove the hidden attribute from all files in a folder ....
 **File name extensions**|All lowercase.|.mdb<br />.doc
