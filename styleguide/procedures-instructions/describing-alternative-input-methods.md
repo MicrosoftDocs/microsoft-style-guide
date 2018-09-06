@@ -38,7 +38,7 @@ Refer to joystick *controls,* not *options,* when you provide specific joystick 
 
 ## Keyboard procedures
 
-Always document keyboard procedures for accessibility, even if they're indicated in UI by underlined letters.
+Always document keyboard procedures for accessibility, even if they're indicated in UI (for example, by underlined letters).
 
 **See also** [Keys and keyboard shortcuts term collection](~/a-z-word-list-term-collections/term-collections/keys-keyboard-shortcuts.md) 
 
