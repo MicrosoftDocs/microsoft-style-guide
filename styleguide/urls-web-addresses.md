@@ -24,8 +24,8 @@ Use *a,* not *an,* as an article preceding *URL*.
 
 Don't include *http://* in a URL. Include the protocol only if it's something other than HTTP, such as File Transfer Protocol (FTP).<br />
 **Examples**  
-www.microsoft.com/business  
-ftp://example.com/downloads/myfile.txt
+www<span></span>.microsoft.com/business  
+ftp<span></span>://example.com/downloads/myfile.txt
 
 The
 trailing slash at the end of a URL is optional. In most cases, leave it
@@ -33,9 +33,9 @@ off. Never use a trailing slash in a URL that ends with a file name.
 
 Most of the time, use lowercase for URLs, email addresses, and newsgroup addresses. 
 
-To refer to an entire website or top-level domain, such as Microsoft.com, omit *<http://www>* from the URL and capitalize only the first letter of the URL, even if the site name is capitalized differently.<br />
+To refer to an entire website or top-level domain, such as Microsoft.com, omit *http<span></span>://www* from the URL and capitalize only the first letter of the URL, even if the site name is capitalized differently.<br />
 **Examples**  
-www.microsoft.com  
+www<span></span>.microsoft.com  
 Microsoft.com   
 Codeplex.com is home to the open source project site hosted by Microsoft.
 
