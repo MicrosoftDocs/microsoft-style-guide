@@ -17,9 +17,11 @@ Avoid Latin abbreviations for common English phrases.
 
 **Exception** It’s OK to use *etc.,* in situations where space is limited. Otherwise, see [and so on](~/a-z-word-list-term-collections/a/and-so-on.md) for alternatives.
 
-**Use this**|**Instead of this**
---|--
-for example|e.g.
-that is|i.e.
-namely|viz.
-therefore|ergo
+
+| **Use this** | **Instead of this** |
+|--------------|---------------------|
+| for example  |        e.g.         |
+|   that is    |        i.e.         |
+|    namely    |        viz.         |
+|  therefore   |        ergo         |
+

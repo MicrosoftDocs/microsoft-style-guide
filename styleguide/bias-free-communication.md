@@ -13,14 +13,15 @@ Microsoft technology reaches every part of the globe—so it’s critical that a
 
 **Use gender-neutral or inclusive terms** to refer to people.
 
-**Use this**|**Not this**
---|--
-chair, moderator|chairman
-humanity, people, humankind|man, mankind
-operates, staffs|mans
-sales representative|salesman
-synthetic, manufactured|manmade
-work force, staff, personnel|manpower
+
+|         **Use this**         | **Not this** |
+|------------------------------|--------------|
+|       chair, moderator       |   chairman   |
+| humanity, people, humankind  | man, mankind |
+|       operates, staffs       |     mans     |
+|     sales representative     |   salesman   |
+|   synthetic, manufactured    |   manmade    |
+| work force, staff, personnel |   manpower   |
 
 **Avoid masculine pronouns.** Don’t use *he* and *his* in references to a person whose gender is unknown. Instead, rewrite to use the second person (*you*) or *the* or *a* (for example, "the document"). Or refer to a person’s role (reader, employee, or client, for example), or simply use *person* or *individual.* For more information, see [Nouns and pronouns](~/grammar/nouns-pronouns.md).<br />
 **Examples**  
@@ -55,11 +56,12 @@ countries with states or continents.
 
 **Avoid culturally sensitive terms,** such as the terms associated with military or political actions or other historic events and eras.
 
-**Use this**|**Not this**
---|--
-master/subordinate|master/slave
-perimeter network|demilitarized zone (DMZ)
-stop responding|hang
+
+|    **Use this**    |       **Not this**       |
+|--------------------|--------------------------|
+| master/subordinate |       master/slave       |
+| perimeter network  | demilitarized zone (DMZ) |
+|  stop responding   |           hang           |
 
 **Focus on people, not disabilities.** For example, talk about readers who are blind or have low vision and customers with limited dexterity. Don’t use words that imply pity, such as *stricken with* or *suffering from.* Don’t mention a disability unless it's relevant. For more information, see the [Accessibility term collection](~/a-z-word-list-term-collections/term-collections/accessibility-terms.md). 
 

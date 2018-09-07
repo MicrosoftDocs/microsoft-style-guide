@@ -9,7 +9,7 @@ ms.prod: non-product-specific
 
 # memory
 
-Always refer to a specific kind of memory, such as *random-access memory (**RAM)**, read-only memory (ROM),* or *hard drive space*. 
+Always refer to a specific kind of memory, such as *random-access memory (*<em>RAM)</em>*, read-only memory (ROM),* or *hard drive space*. 
 
 Spell out RAM and ROM on the first mention unless you're positive that your audience is familiar with the term.
 

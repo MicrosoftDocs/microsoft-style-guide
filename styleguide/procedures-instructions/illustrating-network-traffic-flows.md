@@ -94,15 +94,17 @@ known. Use "dyn" to indicate dynamically allocated source ports
 (also known as "ephemeral ports"). Omit "dyn-\>" if the initiator
 uses only dynamic ports. 
 
-**Examples of explicitly stated protocols and source and destination ports**|**Examples that omit "/TCP," known ports, and dynamic source ports**
---|--
-HTTP/TCP dyn->80|HTTP
-HTTP/TCP dyn->443|HTTPS
-HTTP/TCP dyn->8080|HTTP 8080
-HTTP/TCP dyn->53|DNS/TCP&UDP
-SRTP/TCP&UDP dyn->50000-59999|SRTP/TCP&UDP 50000-59999
-CIFS/TCP dyn->135,445|CIFS 135,445
-STUN/UDP dyn->3478|STUN/UDP 3478
-SIP/TLS/TCP dyn->444|SIP 444
-XMPP/MTLS/TCP dyn->23456|XMPP/MTLS 23456
-ABC/TCP 123->456|ABC 123->456
+
+| **Examples of explicitly stated protocols and source and destination ports** | **Examples that omit "/TCP," known ports, and dynamic source ports** |
+|------------------------------------------------------------------------------|----------------------------------------------------------------------|
+|                               HTTP/TCP dyn->80                               |                                 HTTP                                 |
+|                              HTTP/TCP dyn->443                               |                                HTTPS                                 |
+|                              HTTP/TCP dyn->8080                              |                              HTTP 8080                               |
+|                               HTTP/TCP dyn->53                               |                             DNS/TCP&UDP                              |
+|                        SRTP/TCP&UDP dyn->50000-59999                         |                       SRTP/TCP&UDP 50000-59999                       |
+|                            CIFS/TCP dyn->135,445                             |                             CIFS 135,445                             |
+|                              STUN/UDP dyn->3478                              |                            STUN/UDP 3478                             |
+|                             SIP/TLS/TCP dyn->444                             |                               SIP 444                                |
+|                           XMPP/MTLS/TCP dyn->23456                           |                           XMPP/MTLS 23456                            |
+|                               ABC/TCP 123->456                               |                             ABC 123->456                             |
+
