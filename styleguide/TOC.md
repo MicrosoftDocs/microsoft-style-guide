@@ -271,6 +271,7 @@
 ### [entry field](a-z-word-list-term-collections/e/entry-field.md)
 ### [environment variable](a-z-word-list-term-collections/e/environment-variable.md)
 ### [erase](a-z-word-list-term-collections/e/erase.md)
+### [e-sports](a-z-word-list-term-collections/e/e-sports.md)
 ### [et al.](a-z-word-list-term-collections/e/et-al.md)
 ### [etc.](a-z-word-list-term-collections/e/etc.md)
 ### [euro](a-z-word-list-term-collections/e/euro.md)
