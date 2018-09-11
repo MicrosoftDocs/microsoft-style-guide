@@ -171,6 +171,7 @@
 ### [command line, command-line](a-z-word-list-term-collections/c/command-line.md)
 ### [command prompt](a-z-word-list-term-collections/c/command-prompt.md)
 ### [community cloud](a-z-word-list-term-collections/c/community-cloud.md)
+### [company vs. organization](a-z-word-list-term-collections/c/company-vs-organization.md)
 ### [compile](a-z-word-list-term-collections/c/compile.md)
 ### [compute](a-z-word-list-term-collections/c/compute.md)
 ### [computer](a-z-word-list-term-collections/c/computer.md)
