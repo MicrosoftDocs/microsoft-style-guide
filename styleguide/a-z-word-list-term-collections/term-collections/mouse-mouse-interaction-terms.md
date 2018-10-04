@@ -2,7 +2,7 @@
 title: Mouse and mouse interaction terms - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 01/19/2018
+ms.date: 10/4/2018
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -28,11 +28,11 @@ When you need to talk specifically about the mouse, mouse interactions, or the p
 | **press and hold** |                                                                             Use only in content that teaches beginning skills.                                                                              |
 |  **right-click**   |                                    Use to describe clicking an item by using the secondary mouse button (the right button by default, but the user can customize this).                                     |
 
-## Mouse devices
+## Devices
 
 |        **Term**        |                                                                                                                   **Usage**                                                                                                                   |
 |------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|       **mouse**        |                                               Use *mouse* to refer to one mouse. If you need to refer to more than one mouse, use *mouse devices,* not *mice*. (And try to write around this.)                                                |
+|       **mouse**        |                                               Use *mouse* to refer to one mouse. If you need to refer to more than one mouse, use *mice.*                                                 |
 |    **mouse button**    | Use to refer to the left mouse button. Use *left mouse button* only to teach beginning skills or when not doing so would cause confusion. When more than one mouse button is used in a procedure, name the least frequently used button only. |
 | **right mouse button** |                         Use to refer to the secondary mouse button. By default, this is the right mouse button. Customers who change the default understand that *right mouse button* indicates the secondary button.                         |
 |    **wheel button**    |                                                              Use to refer to the third or middle button on the mouse. Customers *rotate* the wheel and *click* the wheel button.                                                              |
