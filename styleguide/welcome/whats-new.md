@@ -2,7 +2,7 @@
 title: What's new? - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 10/4/2018
+ms.date: 10/6/2018
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -14,6 +14,7 @@ This table shows a history of updates to the *Microsoft Writing Style Guide* sin
 
 |     **Date**      |                                                                  **Topic**                                                                   |                                                                         **Change**                                                                          |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   October 6, 2018   |                               [Tables](~/scannable-content/tables.md)                               |                                      Clarified that a table must have two or more rows and two or more columns. Otherwise, use a list.        |
 |   October 4, 2018   |                                                      [Mouse and mouse interaction term collection](~/a-z-word-list-term-collections/term-collections/mouse-mouse-interaction-terms.md)                                             |                                      Changed the guideline to say that *mice* is the preferred plural of *mouse,* not *mouse devices.*         |
 |   September 11, 2018   |                                                      [org, organization](~/a-z-word-list-term-collections/o/org-organization.md)                                             |                                      Added a topic to the A–Z word list.                                       |
 |   September 11, 2018   |                                                      [company vs. organization](~/a-z-word-list-term-collections/c/company-vs-organization.md)                                             |                                      Added a topic to the A–Z word list.                                       |
