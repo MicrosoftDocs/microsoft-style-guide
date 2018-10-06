@@ -2,7 +2,7 @@
 title: Tables - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 01/19/2018
+ms.date: 10/6/2018
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -10,6 +10,8 @@ ms.prod: non-product-specific
 # Tables
 
 Tables make complex information easier to understand by presenting it in a clear structure. 
+In a table, data is arranged into two or more rows (plus a header row) and two or more columns. Don't use a table 
+just to present a list of items that are similar. Use a list instead. 
 
 |        **Tables are sometimes useful for**         |                     **Example**                      |
 | ------------------------------------------------- | -------------------------------------------------------------- |
