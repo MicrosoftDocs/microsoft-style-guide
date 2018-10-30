@@ -20,7 +20,7 @@ headings, follow the style sheet.
 
 In online content, use straight quotation marks.
 
-Refer to *quotation marks, opening quotation marks,* and *closing quotation marks.* Don’t call them *quote marks, quotes, open* or *close quotation marks,* or *beginning* or *ending quotation marks.*
+Refer to *quotation marks, opening quotation marks,* and *closing quotation marks.* Don't call them *quote marks, quotes, open* or *close quotation marks,* or *beginning* or *ending quotation marks.*
 
 Place closing quotation marks:
 
@@ -32,5 +32,5 @@ Place closing quotation marks:
 **Examples**  
 One type of malware is called a "trojan clicker."  
 One type of malware, called a "trojan clicker," uses your PC to "click" online ads.  
-What is “gaze awareness”?  
-A reader asks, “How can I get Windows 10?”
+What is "gaze awareness"?  
+A reader asks, "How can I get Windows 10?"
