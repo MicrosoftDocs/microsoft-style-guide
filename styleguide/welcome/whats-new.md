@@ -2,7 +2,7 @@
 title: What's new? - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 11/7/2018
+ms.date: 11/8/2018
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -14,6 +14,7 @@ This table shows a history of updates to the *Microsoft Writing Style Guide* sin
 
 |     **Date**      |                                                                  **Topic**                                                                   |                                                                         **Change**                                                                          |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   November 8, 2018   |                               [e.g.](~/a-z-word-list-term-collections/e/eg.md)                               |                                 Updated to say that *for example, such as,* and *like* are all OK to use instead of *e.g.*  |
 |   November 7, 2018   |                               [Formatting text in instructions](~/procedures-instructions/formatting-text-in-instructions.md)                               |                                      Changed the guideline for key names, combinations, and sequences to say don't put a space around the plus sign (+) in keyboard shortcuts. Also, use bold formatting for key names and keyboard shortcuts when they appear in instructions.  |
 |   October 6, 2018   |                               [Tables](~/scannable-content/tables.md)                               |                                      Clarified that a table must have two or more rows and two or more columns. Otherwise, use a list.        |
 |   October 4, 2018   |                                                      [Mouse and mouse interaction term collection](~/a-z-word-list-term-collections/term-collections/mouse-mouse-interaction-terms.md)                                             |                                      Changed the guideline to say that *mice* is the preferred plural of *mouse,* not *mouse devices.*         |
