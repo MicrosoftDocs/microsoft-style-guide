@@ -10,7 +10,7 @@ ms.prod: non-product-specific
 # Capitalization
 
 Microsoft
-style is sentence-style capitalization. That means everything is
+style uses sentence-style capitalization. That means everything is
 lowercase except the first word and proper nouns, which include the
 names of brands, products, and services. (Microsoft has more than 500 offerings. To help customers recognize, find, and buy them, reserve capitalization for product and service names.) 
 
