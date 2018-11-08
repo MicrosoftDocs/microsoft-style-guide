@@ -2,7 +2,7 @@
 title: and so on - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 01/19/2018
+ms.date: 11/8/2018
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -14,7 +14,7 @@ In general, don't use *and so on* except where screen space is limited. Instead,
 **Example**  
 Body text is most readable in Times New Roman, Palatino, and other serif fonts. (Not *Body text is most readable in Times New Roman, Palatino, and so on.*)
 
-Don't use *and so on* to end a phrase that begins with *for example* or *such as*. It's redundant.
+Don't use *and so on* to end a phrase that begins with *for example, such as,* or *like.* It's redundant.
 
 **Example**  
 Body text is most readable in serif fonts, such as Times New Roman and Palatino. (Not *Body text is most readable in serif fonts, such as Times New Roman, Palatino, and so on.*)
