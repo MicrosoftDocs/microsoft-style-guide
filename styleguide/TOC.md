@@ -75,6 +75,7 @@
 ### [audiobook](a-z-word-list-term-collections/a/audiobook.md)
 ### [author](a-z-word-list-term-collections/a/author.md)
 ### [auto-](a-z-word-list-term-collections/a/auto.md)
+### [avg](a-z-word-list-term-collections/a/avg.md)
 ## B
 ### [back end, back-end](a-z-word-list-term-collections/b/back-end.md)
 ### [back up, backup](a-z-word-list-term-collections/b/back-up-backup.md)
@@ -240,6 +241,7 @@
 ### [downgrade](a-z-word-list-term-collections/d/downgrade.md)
 ### [download](a-z-word-list-term-collections/d/download.md)
 ### [drag, drag and drop](a-z-word-list-term-collections/d/drag-and-drop.md)
+### [drill down, drill up, drill through](a-z-word-list-term-collections/d/drill-down-drill-up-drill-through.md)
 ### [drive](a-z-word-list-term-collections/d/drive.md)
 ### [drive name](a-z-word-list-term-collections/d/drive-name.md)
 ### [drop-down](a-z-word-list-term-collections/d/drop-down.md)
