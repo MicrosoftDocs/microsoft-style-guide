@@ -2,7 +2,7 @@
 title: What's new? - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 11/26/2018
+ms.date: 11/27/2018
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -14,6 +14,7 @@ This table shows a history of updates to the *Microsoft Writing Style Guide* sin
 
 |     **Date**      |                                                                  **Topic**                                                                   |                                                                         **Change**                                                                          |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   November 27, 2018   |                                                      [Mouse and mouse interaction term collection](~/a-z-word-list-term-collections/term-collections/mouse-mouse-interaction-terms.md)                                             |                                      Updated the guideline to say that *hover over* is an acceptable alternative to *point to* and that *hover* is OK as an adjective. Added examples.       |
 |   November 26, 2018   |                             [drill down, drill up, drill through](~/a-z-word-list-term-collections/d/drill-down-drill-up-drill-through.md)                               |    Added a topic to the A–Z word list.    |
 |   November 26, 2018   |                               [avg](~/a-z-word-list-term-collections/a/avg.md)                               |                                 Added a topic to the A–Z word list.    |
 |   November 8, 2018   |                               [e.g.](~/a-z-word-list-term-collections/e/eg.md)                               |                                 Updated to say that *for example, such as,* and *like* are all OK to use instead of *e.g.*  |
