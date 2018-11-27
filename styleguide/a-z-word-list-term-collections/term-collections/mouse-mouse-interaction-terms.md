@@ -2,7 +2,7 @@
 title: Mouse and mouse interaction terms - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 10/4/2018
+ms.date: 11/27/2018
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -20,11 +20,11 @@ When you need to talk specifically about the mouse, mouse interactions, or the p
 
 |      **Term**      |                                                                                                  **Usage**                                                                                                  |
 |--------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|     **click**      |                                                     Use to describe selecting an item with the mouse by clicking the mouse once. Don’t use *click on*.                                                      |
+|     **click**      |                                                     Use to describe selecting an item with the mouse by clicking the mouse once. Don't use *click on*.                                                      |
 |    **click in**    |                                                        Use only to refer to clicking in a general area within a page, window, or other UI location.                                                         |
-|  **double-click**  |                                         Use to describe selecting an item by clicking the mouse twice in rapid succession. Hyphenate. Don’t use *double-click on*.                                          |
-|      **drag**      | Use to describe holding down a button while moving the mouse, and then releasing the button. Don’t use *click and drag* or *drag and drop*. It’s OK to use *drop* by itself if *drag* isn’t precise enough. |
-|    **point to**    |                              Use instead of *mouse over* or *move the mouse pointer to*. It’s OK to use *move the mouse pointer to* in content that teaches beginning skills.                               |
+|  **double-click**  |                                         Use to describe selecting an item by clicking the mouse twice in rapid succession. Hyphenate. Don't use *double-click on*.                                          |
+|      **drag**      | Use to describe holding down a button while moving the mouse, and then releasing the button. Don't use *click and drag* or *drag and drop*. It's OK to use *drop* by itself if *drag* isn't precise enough. |
+|    **hover over, point to**    |    To describe moving the mouse pointer over an area of the UI without selecting it, use *hover over* or *point to,* as appropriate for your audience. Use *hover* or *hovering* as the adjective and noun form.<br />**Examples**<br > In Microsoft Edge, when you hover over a link, the URL appears in the lower-left corner. <br />The hover image is displayed when the user points to the button. <br />To program the pop-up action that's triggered by hovering …. <br />Pop-up windows that appear on hover <br /><br />Don't use *mouse over* or *move the mouse pointer to.* It's OK to use *move the mouse pointer to* in content that teaches beginning skills.                       |
 | **press and hold** |                                                                             Use only in content that teaches beginning skills.                                                                              |
 |  **right-click**   |                                    Use to describe clicking an item by using the secondary mouse button (the right button by default, but the user can customize this).                                     |
 
@@ -41,12 +41,12 @@ When you need to talk specifically about the mouse, mouse interactions, or the p
 
 When you
 must talk about the appearance of the pointer on the screen, include
-a picture of the pointer if possible. Don’t use a picture instead
+a picture of the pointer if possible. Don't use a picture instead
 of the word *pointer*—use both<em>.</em>
 
 |**Term**|**Usage**|
 |---|---|
 |**busy pointer**|Use to describe the pointer when it consists only of an activity indicator.|
-|**double-headed arrow**|Use to describe how the pointer looks over a split line (<img src="media/mouse-mouse-interaction-terms/1502439723.png" />). Don’t use *double-headed arrow* as a name for the pointer. <br />**Example**<br />When the pointer becomes a <img src="media/mouse-mouse-interaction-terms/270050385.png" />, drag the pointer to move the split line.|
-|**pointer**|Use to refer to the pointer on the screen. Use *cursor* only for a technical audience or when it’s necessary to describe the point where text or graphics will be inserted. Don’t use *insertion point*.|
+|**double-headed arrow**|Use to describe how the pointer looks over a split line (<img src="media/mouse-mouse-interaction-terms/1502439723.png" />). Don't use *double-headed arrow* as a name for the pointer. <br />**Example**<br />When the pointer becomes a <img src="media/mouse-mouse-interaction-terms/270050385.png" />, drag the pointer to move the split line.|
+|**pointer**|Use to refer to the pointer on the screen. Use *cursor* only for a technical audience or when it's necessary to describe the point where text or graphics will be inserted. Don't use *insertion point*.|
 |**working in background pointer**|Use to describe the pointer when it consists of both the pointer and an activity indicator.|
