@@ -378,6 +378,7 @@
 ### [hot key](a-z-word-list-term-collections/h/hot-key.md)
 ### [hot link](a-z-word-list-term-collections/h/hot-link.md)
 ### [hot spot, hotspot](a-z-word-list-term-collections/h/hot-spot-hotspot.md)
+### [hover over, hovering](a-z-word-list-term-collections/h/hover-over-hovering.md)
 ### [how to, how-to](a-z-word-list-term-collections/h/how-how-to.md)
 ### [HTML](a-z-word-list-term-collections/h/html.md)
 ### [HTTP, HTTPS](a-z-word-list-term-collections/h/http-https.md)
