@@ -17,7 +17,7 @@ When you instruct customers to enter a slash, always include the spelled-out ter
 
 Use a slash:
 
-  - To imply a combination. Capitalize the word after the slash if the word before the slash is capitalized. For example, if *country/region* is used as a label in a form, capitalize it as *Country/Region.*<br />**Examples**<br />client/server<br />TCP/IP<br />CD/DVD drive<br />Use the on/off switch to turn your mouse off when you're not using it.<br />Select the On/Off toggle.
+  - To imply a combination. Capitalize the word after the slash if the word before the slash is capitalized. For example, if *country/region* is used as a label in a form, capitalize it as *Country/Region.*<br />**Examples**<br />client/server<br />TCP/IP<br />CD/DVD drive<br />Use the on/off switch to turn your mouse off when you're not using it.<br />Turn on the On/Off toggle.
 
   - To separate parts of an internet address. Use two slashes after the protocol name. <br />**Example** <br />ftp://example.com/downloads
 
@@ -25,7 +25,7 @@ Use a slash:
 
   - Between the numerator and denominator of fractions in equations that occur in text.<br />**Examples**<br />a/x + b/y = 1<br />x + 2/3(y) = m
 
-Don’t use a slash as a substitute for *or,* like *product/service.* If the UI uses a slash in this way, follow the interface in describing the label, but use *or* to describe the action in text.  
+Don't use a slash as a substitute for *or,* like *product/service.* If the UI uses a slash in this way, follow the interface in describing the label, but use *or* to describe the action in text.  
 **Examples**<br />Select **Automatic trapping** to add or remove a check mark.<br />To turn the purchasing workflow on or off ....
 
 **Exception** It's OK to use *country/region* and *ZIP Code/postal code* where space is limited.

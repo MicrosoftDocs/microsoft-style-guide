@@ -27,20 +27,20 @@ Follow these guidelines in Microsoft content:
     
   - Don't use all uppercase for emphasis. (It's OK to use italic sparingly for emphasis.)  
   
-  - Don't use all lowercase as a design choice. Although all uppercase is used occasionally as a design element, don’t use it in text.
+  - Don't use all lowercase as a design choice. Although all uppercase is used occasionally as a design element, don't use it in text.
 
 <!-- end list -->
 
   - Don't use internal capitalization (such as *AutoScale* or *e-Book*) unless it's part of a brand name.  
   
-  - Don’t capitalize the spelled-out form of an acronym unless it's a proper noun.  
+  - Don't capitalize the spelled-out form of an acronym unless it's a proper noun.  
   
   - When words are joined by a slash, capitalize the word after the slash if the word before the slash is capitalized.  
     **Examples**  
     Country/Region  
-    Select the On/Off toggle.  
+    Turn on the On/Off toggle.  
 
-**Learn more** To learn more about capitalization, see [*The Chicago Manual of Style*](http://www.chicagomanualofstyle.org/home.html).  If you’re not sure whether to capitalize a term, check the A–Z word list and [*The American Heritage Dictionary*](https://ahdictionary.com/). 
+**Learn more** To learn more about capitalization, see [*The Chicago Manual of Style*](http://www.chicagomanualofstyle.org/home.html).  If you're not sure whether to capitalize a term, check the A–Z word list and [*The American Heritage Dictionary*](https://ahdictionary.com/). 
 
 For information about capitalizing UI labels in instructions, see [Formatting text in instructions](~/procedures-instructions/formatting-text-in-instructions.md). 
 
@@ -56,7 +56,7 @@ use sentence-style capitalization.<br />
 **Examples**  
 Watch your favorite HD movies, TV shows, and more  
 1 TB of cloud storage  
-Choose the Office version that’s right for you  
+Choose the Office version that's right for you  
 Available for Microsoft partners and commercial and public-sector customers  
 Can a search engine predict the World Cup winner?  
 Block party: Communities use Minecraft to create public spaces  
@@ -66,7 +66,7 @@ Block party: Communities use Minecraft to create public spaces
 Occasionally, title-style capitalization—capitalizing most words—is appropriate.
 For example, product and service names, the names of blogs, book and
 song titles, article titles in citations, white paper titles, and titles of people 
-(*Vice President* or *Director of Marketing*) require title-style capitalization. In a tweet, it’s OK 
+(*Vice President* or *Director of Marketing*) require title-style capitalization. In a tweet, it's OK 
 to use title-style capitalization to highlight the name of a quoted article. 
 
 On the rare occasions when title-style capitalization is required, follow these guidelines: 
@@ -75,12 +75,12 @@ On the rare occasions when title-style capitalization is required, follow these 
     **Example**  
     A Home to Go Back To  
     
-  - Don’t capitalize *a, an,* or *the* unless it's the first word.  
+  - Don't capitalize *a, an,* or *the* unless it's the first word.  
     **Examples**  
     Microsoft on the Issues  
     The Official Microsoft Blog  
     
-  - Don’t capitalize prepositions of four or fewer letters (such as *on, to, in, up, down, of,* and *for*) unless the preposition is the first or last word.  
+  - Don't capitalize prepositions of four or fewer letters (such as *on, to, in, up, down, of,* and *for*) unless the preposition is the first or last word.  
     **Examples**  
     How to Personalize Windows  
     To Personalize Windows  
@@ -89,7 +89,7 @@ On the rare occasions when title-style capitalization is required, follow these 
     OneNote Class Notebooks for Teachers  
     The Teaching Tool You're Looking For  
     
-  - Don’t capitalize *and, but, or, nor, yet,* or *so* unless it's the first word or the last word.  
+  - Don't capitalize *and, but, or, nor, yet,* or *so* unless it's the first word or the last word.  
     **Example**  
     Monitoring and Operating a Private or Hybrid Cloud  
     
