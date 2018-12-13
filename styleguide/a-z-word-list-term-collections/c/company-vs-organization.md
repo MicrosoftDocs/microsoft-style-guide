@@ -15,4 +15,4 @@ Use the term that makes the most sense for your audience.
 
 *Organization* includes schools, nonprofits, and government customers in addition to companies.  
 
-**See also** [enterprise](~/a-z-word-list-term-collections/e/enterprise.md) 
+**See also** [enterprise](~/a-z-word-list-term-collections/e/enterprise.md), [org, organization](~/a-z-word-list-term-collections/o/org-organization.md) 
