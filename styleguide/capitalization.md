@@ -27,9 +27,7 @@ Follow these guidelines in Microsoft content:
     
   - Don't use all uppercase for emphasis. (It's OK to use italic sparingly for emphasis.)  
   
-  - Don't use all lowercase as a design choice. Although all uppercase is used occasionally as a design element, don't use it in text.
-
-<!-- end list -->
+  - Don't use all lowercase as a design choice. Although all lowercase is used occasionally as a design element, don't use it in text.
 
   - Don't use internal capitalization (such as *AutoScale* or *e-Book*) unless it's part of a brand name.  
   
