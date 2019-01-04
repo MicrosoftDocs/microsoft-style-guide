@@ -9,7 +9,7 @@ ms.prod: non-product-specific
 
 # Names and contact information
 
-If you’re creating a real or sample form that collects personal information, use these guidelines.
+If you're creating a real or sample form that collects personal information, use these guidelines.
 
 ## Names
 
