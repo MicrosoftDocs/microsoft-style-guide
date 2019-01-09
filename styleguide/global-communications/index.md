@@ -14,7 +14,7 @@ customers live and work all over the world and speak a variety of
 languages. This section will help you write content for worldwide
 communication.
 
-It’s
+It's
 usually safe to assume your content will be read in many countries and
 by readers whose primary language isn't English. Some content
 will probably be translated into other languages or localized. 
@@ -29,7 +29,7 @@ expectations and requirements of a specific local market (locale). Localization 
 This
 section provides guidelines for supporting worldwide customers who use
 English content and for streamlining localization and machine
-translation. You’ll find a few exceptions to general Microsoft voice and
+translation. You'll find a few exceptions to general Microsoft voice and
 style guidance. This section covers:
 
   - [Writing tips](~/global-communications/writing-tips.md)
