@@ -418,6 +418,7 @@
 ### [internet, intranet, extranet](a-z-word-list-term-collections/i/internet-intranet-extranet.md)
 ### [Internet Connection Sharing](a-z-word-list-term-collections/i/internet-connection-sharing.md)
 ### [Internet Explorer](a-z-word-list-term-collections/i/internet-explorer.md)
+### [Internet of Things (IoT)](a-z-word-list-term-collections/i/internet-of-things-iot.md)
 ### [internet service provider (ISP)](a-z-word-list-term-collections/i/internet-service-provider.md)
 ### [invalid, not valid](a-z-word-list-term-collections/i/invalid-not-valid.md)
 ### [invoke](a-z-word-list-term-collections/i/invoke.md)

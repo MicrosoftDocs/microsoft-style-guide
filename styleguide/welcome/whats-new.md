@@ -2,7 +2,7 @@
 title: What's new? - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 12/12/2018
+ms.date: 1/18/2019
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -14,6 +14,7 @@ This table shows a history of updates to the *Microsoft Writing Style Guide* sin
 
 |     **Date**      |                                                                  **Topic**                                                                   |                                                                         **Change**                                                                          |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  January 18, 2019   | [Internet of Things (IoT)](~/a-z-word-list-term-collections/i/internet-of-things-iot.md) |                                                Added a topic to the A–Z word list.              |
 |  December 12, 2018   | [Describing interactions with UI](~/procedures-instructions/describing-interactions-with-ui.md)<br />[toggle](~/a-z-word-list-term-collections/t/toggle.md) |                                                Updated the guidance for using *switch, turn on,* and *turn off* when describing actions involving toggle switches and toggle keys. Added examples.                       |
 |   November 27, 2018   |                                                      [Mouse and mouse interaction term collection](~/a-z-word-list-term-collections/term-collections/mouse-mouse-interaction-terms.md)                                             |                                      Updated the guideline to say that *hover over* is an acceptable alternative to *point to* and that *hover* is OK as an adjective. Added examples.       |
 |   November 26, 2018   |                             [drill down, drill up, drill through](~/a-z-word-list-term-collections/d/drill-down-drill-up-drill-through.md)                               |    Added a topic to the A–Z word list.    |
