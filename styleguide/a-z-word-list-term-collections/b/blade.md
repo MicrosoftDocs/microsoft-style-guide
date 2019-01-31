@@ -19,7 +19,7 @@ When you must mention a blade:
   
   - Use sentence-style capitalization for the blade name.<br />    **Example** <br />the **Resource group** blade
     
-  - Don’t capitalize *blade,* but always include *blade* in the blade title or subtitle.  
+  - Don't capitalize *blade,* but always include *blade* in the blade title or subtitle.  
   
   - In a blade title or subtitle, use a plus sign (+) instead of *and* or an ampersand (&). Include a space on each side of the plus sign.  
   
@@ -28,3 +28,5 @@ When you must mention a blade:
   - Use *on* to describe the contents of a blade.<br />    **Example** <br />On the **Web app** blade, name your site.  
   
   - Use *open* and *close* as verbs with blades.
+
+**See also** [Describing interactions with UI](~/procedures-instructions/describing-interactions-with-ui.md), [Formatting text in instructions](~/procedures-instructions/formatting-text-in-instructions.md)
