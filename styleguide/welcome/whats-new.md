@@ -2,7 +2,7 @@
 title: What's new? - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 1/18/2019
+ms.date: 2/1/2019
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -14,6 +14,11 @@ This table shows a history of updates to the *Microsoft Writing Style Guide* sin
 
 |     **Date**      |                                                                  **Topic**                                                                   |                                                                         **Change**                                                                          |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  February 1, 2019   | [Formatting developer text elements](~/developer-content/formatting-developer-text-elements.md) |                                     Clarified the guideline for how to format UI text and updated the examples.   |
+|  February 1, 2019   | [Formatting common text elements](~/text-formatting/formatting-common-text-elements.md) |                                            Clarified the guidelines for how to format error messages and UI text and how to refer to error messages in text. Updated the examples.   |
+|  February 1, 2019   | [Formatting text in instructions](~/procedures-instructions/formatting-text-in-instructions.md) |                                            Added guidelines for how to refer to palettes and toggles when they're referenced in instructions.   |
+|  February 1, 2019   | [toggle](~/a-z-word-list-term-collections/t/toggle.md) |                                                Clarified the guideline for how to refer to toggle keys and switches.              |
+|  February 1, 2019   | [palette](~/a-z-word-list-term-collections/p/palette.md) |                                                Clarified the guideline for how to refer to palettes and updated the examples.              |
 |  January 18, 2019   | [Internet of Things (IoT)](~/a-z-word-list-term-collections/i/internet-of-things-iot.md) |                                                Added a topic to the A–Z word list.              |
 |  December 12, 2018   | [Describing interactions with UI](~/procedures-instructions/describing-interactions-with-ui.md)<br />[toggle](~/a-z-word-list-term-collections/t/toggle.md) |                                                Updated the guidance for using *switch, turn on,* and *turn off* when describing actions involving toggle switches and toggle keys. Added examples.                       |
 |   November 27, 2018   |                                                      [Mouse and mouse interaction term collection](~/a-z-word-list-term-collections/term-collections/mouse-mouse-interaction-terms.md)                                             |                                      Updated the guideline to say that *hover over* is an acceptable alternative to *point to* and that *hover* is OK as an adjective. Added examples.       |
