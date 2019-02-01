@@ -13,4 +13,4 @@ In general, avoid talking about the UI. Instead, talk about what the customer ne
 
 In content for developers, it's OK to use *menu items* in the context of UI development. 
 
-**See also** [Describing interactions with UI](~/procedures-instructions/describing-interactions-with-ui.md)
+**See also** [Describing interactions with UI](~/procedures-instructions/describing-interactions-with-ui.md), [Formatting text in instructions](~/procedures-instructions/formatting-text-in-instructions.md)  

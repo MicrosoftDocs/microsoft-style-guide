@@ -19,4 +19,4 @@ Use *enter* to indicate that the user can either type an item in the box or sele
 In the **Size** box, enter the font size you want.  
 For **Size**, enter a font size.
 
-**See also** [Describing interactions with UI](~/procedures-instructions/describing-interactions-with-ui.md)
+**See also** [Describing interactions with UI](~/procedures-instructions/describing-interactions-with-ui.md), [Formatting text in instructions](~/procedures-instructions/formatting-text-in-instructions.md)  

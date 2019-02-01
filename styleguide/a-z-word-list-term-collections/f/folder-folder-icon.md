@@ -20,6 +20,8 @@ all folders contain files or other folders. For example, the
 Printers and Control Panel apps are also folders. Describe the
 nature of the folder, if necessary.
 
-In instructions, use bold formatting for the folder name if you’re directing the customer to select, type, or otherwise interact with the name.
+In instructions, use bold formatting for the folder name if you're directing the customer to select, type, or otherwise interact with the name.
 
 **Examples**<br />You can find the file on your hard drive in C:\\Windows\\System\\Color. <br />You can find the file on X:\\Windows\\System\\Color. <br />You can find the file in the Color folder. <br />The system files are in the System subdirectory in the Windows directory. <br />Select the **Windows** folder.<br />Select **Documents**, and then select the file you want.
+
+**See also** [Describing interactions with UI](~/procedures-instructions/describing-interactions-with-ui.md), [Formatting text in instructions](~/procedures-instructions/formatting-text-in-instructions.md)  

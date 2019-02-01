@@ -21,4 +21,7 @@ the **Wallpaper** list
 
 Don't use *box* as a synonym for client and server hardware. 
 
-**See also** [Describing interactions with UI](~/procedures-instructions/describing-interactions-with-ui.md), [Computer and device term collection](~/a-z-word-list-term-collections/term-collections/computer-device-terms.md)
+**See also**  
+[Describing interactions with UI](~/procedures-instructions/describing-interactions-with-ui.md)  
+[Formatting text in instructions](~/procedures-instructions/formatting-text-in-instructions.md)  
+[Computer and device term collection](~/a-z-word-list-term-collections/term-collections/computer-device-terms.md)

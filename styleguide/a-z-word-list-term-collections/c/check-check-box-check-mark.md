@@ -16,3 +16,5 @@ Use *check box,* not *box* or *checkbox,* to refer to a check box in UI.
 Use *select* and *clear* with check boxes, not *turn on* and *turn off,* *mark* and *unmark,* *check* and *uncheck,* or *select* and *deselect.*
 
 Use *check mark,* not *check,* as a noun.
+
+**See also** [Describing interactions with UI](~/procedures-instructions/describing-interactions-with-ui.md), [Formatting text in instructions](~/procedures-instructions/formatting-text-in-instructions.md)  

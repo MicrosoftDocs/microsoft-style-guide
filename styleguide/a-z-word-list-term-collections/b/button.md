@@ -17,4 +17,4 @@ When you need to discuss UI elements, use *button* instead of *command button,* 
 Select a file, and then select **OK**.  
 To enlarge a window to fill the entire screen, select the **Maximize** button.
 
-**See also** [Describing interactions with UI](~/procedures-instructions/describing-interactions-with-ui.md)
+**See also** [Describing interactions with UI](~/procedures-instructions/describing-interactions-with-ui.md), [Formatting text in instructions](~/procedures-instructions/formatting-text-in-instructions.md)  

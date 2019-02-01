@@ -13,4 +13,7 @@ In general, avoid talking about the UI. Instead, talk about what the customer ne
 
 In content for developers about creating UI elements, it's OK to use *menu item* when appropriate.
 
-**See also**  [Describing interactions with UI,](~/procedures-instructions/describing-interactions-with-ui.md) [option, option button](~/a-z-word-list-term-collections/o/option-button.md)
+**See also**  
+[Describing interactions with UI](~/procedures-instructions/describing-interactions-with-ui.md)  
+[Formatting text in instructions](~/procedures-instructions/formatting-text-in-instructions.md)  
+[option, option button](~/a-z-word-list-term-collections/o/option-button.md)

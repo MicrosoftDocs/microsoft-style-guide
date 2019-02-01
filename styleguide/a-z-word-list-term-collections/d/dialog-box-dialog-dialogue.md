@@ -27,4 +27,4 @@ It's OK to use *dialogue* (not *dialog*) to refer to conversation or interaction
 It's a great way to have a conversation with the customer about what cloud technology can do for their business.  
 Do you want to chat with a customer service agent?
 
-**See also** [Formatting text in instructions](~/procedures-instructions/formatting-text-in-instructions.md)
+**See also** [Describing interactions with UI](~/procedures-instructions/describing-interactions-with-ui.md), [Formatting text in instructions](~/procedures-instructions/formatting-text-in-instructions.md)  
