@@ -2,7 +2,7 @@
 title: Formatting text in instructions - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 1/31/2019
+ms.date: 2/1/2019
 ms.topic: article
 ms.prod: non-product-specific
 ---
