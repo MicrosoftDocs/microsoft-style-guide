@@ -19,3 +19,6 @@ For other uses, clarify the meaning with a descriptor, such as *the Tab key, a t
 Use the Tab key to move through a dialog box.  
 Set a tab stop on the ruler.  
 On the **View** tab ....  
+
+**See also** [Describing interactions with UI](~/procedures-instructions/describing-interactions-with-ui.md), [Formatting text in instructions](~/procedures-instructions/formatting-text-in-instructions.md)
+
