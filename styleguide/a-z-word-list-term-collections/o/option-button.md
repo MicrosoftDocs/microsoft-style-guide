@@ -21,4 +21,4 @@ For **Paste options**, select **Keep text only**.
 
 In content for a technical audience, it's OK to use *option* instead of *switch* to refer to a command argument or compiler option, such as **/b** or **/Za**.   
 
-**See also** [Describing interactions with UI](~/procedures-instructions/describing-interactions-with-ui.md)
+**See also** [Describing interactions with UI](~/procedures-instructions/describing-interactions-with-ui.md), [Formatting text in instructions](~/procedures-instructions/formatting-text-in-instructions.md)  
