@@ -1,15 +1,15 @@
 ---
-title: Bot terms - Microsoft Style Guide
+title: AI and bot terms - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 01/19/2018
+ms.date: 02/20/2019
 ms.topic: article
 ms.prod: non-product-specific
 ---
 
 # Bot terms
 
-In general, avoid talking about bot and AI technology. Instead, focus on benefits or what the customer needs to do. When it’s necessary to use bot terms—such as in content for developers or to make it clear that the customer is chatting with a virtual agent, not a human one—use the terms below.  
+In general, avoid talking about AI and bot technology. Instead, focus on the benefits of the technology or what the customer wants to do with it. When it's necessary to talk about the technology itself—such as in content for developers or in event presentations, or to make it clear that the customer is chatting with a bot, not a person—use the terms below.  
 
 Before you invent a term, check with the applicable brand, marketing, and engineering teams to find out whether a term already exists. For more information about creating new terms or using emerging terminology, see [Use technical terms carefully](~/word-choice/use-technical-terms-carefully.md).
 
