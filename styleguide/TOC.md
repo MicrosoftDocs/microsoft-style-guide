@@ -5,8 +5,8 @@
 # A–Z word list and term collections
 ## Term collections
 ### [Accessibility terms](a-z-word-list-term-collections/term-collections/accessibility-terms.md)
+### [AI and bot terms](a-z-word-list-term-collections/term-collections/ai-bot-terms.md)
 ### [Bits and bytes terms](a-z-word-list-term-collections/term-collections/bits-bytes-terms.md)
-### [Bot terms](a-z-word-list-term-collections/term-collections/bot-terms.md)
 ### [Cloud-computing terms](a-z-word-list-term-collections/term-collections/cloud-computing-terms.md)
 ### [Computer and device terms](a-z-word-list-term-collections/term-collections/computer-device-terms.md)
 ### [Date and time terms](a-z-word-list-term-collections/term-collections/date-time-terms.md)
