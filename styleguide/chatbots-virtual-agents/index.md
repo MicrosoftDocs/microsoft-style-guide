@@ -2,7 +2,7 @@
 title: Chatbots and virtual agents - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 02/21/2018
+ms.date: 02/21/2019
 ms.topic: article
 ms.prod: non-product-specific
 ---
