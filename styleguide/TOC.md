@@ -38,6 +38,7 @@
 ### [administrator, admin](a-z-word-list-term-collections/a/administrator-admin.md)
 ### [afterward](a-z-word-list-term-collections/a/afterward.md)
 ### [against](a-z-word-list-term-collections/a/against.md)
+### [AI (artificial intelligence)](a-z-word-list-term-collections/a/artificial-intelligence-ai.md)
 ### [alarm](a-z-word-list-term-collections/a/alarm.md)
 ### [alert](a-z-word-list-term-collections/a/alert.md)
 ### [alias](a-z-word-list-term-collections/a/alias.md)
@@ -63,7 +64,7 @@
 ### [argument vs. parameter](a-z-word-list-term-collections/a/argument-vs-parameter.md)
 ### [arrow](a-z-word-list-term-collections/a/arrow.md)
 ### [arrow keys](a-z-word-list-term-collections/a/arrow-keys.md)
-### [AI (artificial intelligence)](a-z-word-list-term-collections/a/artificial-intelligence-ai.md)
+
 ### [as well as](a-z-word-list-term-collections/a/as-well-as.md)
 ### [ask](a-z-word-list-term-collections/a/ask.md)
 ### [assembly language](a-z-word-list-term-collections/a/assembly-language.md)
