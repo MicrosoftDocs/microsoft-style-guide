@@ -9,4 +9,4 @@ ms.prod: non-product-specific
 
 # intelligence, intelligent technology
 
-**See** [Bot term collection](~/a-z-word-list-term-collections/term-collections/bot-terms.md)
+**See** [AI and bot term collection](~/a-z-word-list-term-collections/term-collections/ai-bot-terms.md)

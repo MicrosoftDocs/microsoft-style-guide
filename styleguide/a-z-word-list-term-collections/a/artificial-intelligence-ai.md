@@ -1,5 +1,5 @@
 ---
-title: artificial intelligence (AI) - Microsoft Style Guide
+title: AI (artificial intelligence) - Microsoft Style Guide
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
@@ -7,6 +7,6 @@ ms.topic: article
 ms.prod: non-product-specific
 ---
 
-# artificial intelligence (AI)
+# AI (artificial intelligence)
 
-**See** [Bot term collection](~/a-z-word-list-term-collections/term-collections/bot-terms.md)
+**See** [AI and bot term collection](~/a-z-word-list-term-collections/term-collections/ai-bot-terms.md)
