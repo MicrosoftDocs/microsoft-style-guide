@@ -2,19 +2,17 @@
 title: blade - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 01/19/2018
+ms.date: 02/27/2019
 ms.topic: article
 ms.prod: non-product-specific
 ---
 
 # blade
 
-Avoid talking about blades. Instead, try to discuss what the customer needs to do. 
+Use *blade* to refer to a pane in the Azure portal. Avoid talking about blades. Instead, try to discuss what the customer needs to do. 
 
 When you must mention a blade:
 
-  - Define *blade* on the first mention.  
-  
   - Always name the blade except in general references to a blade or blades.  
   
   - Use sentence-style capitalization for the blade name.<br />    **Example** <br />the **Resource group** blade
