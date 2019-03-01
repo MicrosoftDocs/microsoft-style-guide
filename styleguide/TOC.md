@@ -406,7 +406,6 @@
 ### [initiate](a-z-word-list-term-collections/i/initiate.md)
 ### [inline](a-z-word-list-term-collections/i/inline.md)
 ### [input](a-z-word-list-term-collections/i/input.md)
-### [input device](a-z-word-list-term-collections/i/input-device.md)
 ### [input/output, I/O, input/output control](a-z-word-list-term-collections/i/input-output.md)
 ### [insecure](a-z-word-list-term-collections/i/insecure.md)
 ### [inside](a-z-word-list-term-collections/i/inside.md)
