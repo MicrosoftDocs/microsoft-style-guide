@@ -2,7 +2,7 @@
 title: What's new? - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 2/27/2019
+ms.date: 2/28/2019
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -14,6 +14,7 @@ This table shows a history of updates to the *Microsoft Writing Style Guide* sin
 
 |     **Date**      |                                                                  **Topic**                                                                   |                                                                         **Change**                                                                          |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  February 28, 2019   | [Computer and device term collection](~/a-z-word-list-term-collections/term-collections/computer-device-terms.md) |                                                 Added guidelines for using *desktop* as a hardware term. Updated the guidelines for *computer, PC, machine,* and other device terms.             |
 |  February 27, 2019   | [blade](~/a-z-word-list-term-collections/b/blade.md) |                                                 Clarified what the UI element called a *blade* is. Deleted the guideline to define *blade* on first mention.             |
 |  February 22, 2019   | [AI and bot term collection](~/a-z-word-list-term-collections/term-collections/ai-bot-terms.md) |                                     Changed the name from "Bot term collection." Updated the guidelines for *bot, chatbot, virtual agent,* and *AI.* Added new guidelines for the terms *intelligent/intelligence* and *Microsoft AI.*   |
 |  February 1, 2019   | [Formatting developer text elements](~/developer-content/formatting-developer-text-elements.md) |                                     Clarified the guideline for how to format UI text and updated the examples.   |
