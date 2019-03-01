@@ -840,6 +840,7 @@
 ### [W3C](a-z-word-list-term-collections/w/w3c.md)
 ### [want](a-z-word-list-term-collections/w/want.md)
 ### [we](a-z-word-list-term-collections/w/we.md)
+### [wearable, wearable device](a-z-word-list-term-collections/w/wearable-wearable-device.md)
 ### [web, World Wide Web, WWW](a-z-word-list-term-collections/w/web-world-wide-web-www.md)
 ### [web services](a-z-word-list-term-collections/w/web-services.md)
 ### [where](a-z-word-list-term-collections/w/where.md)
