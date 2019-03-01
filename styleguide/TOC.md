@@ -349,6 +349,7 @@
 ## H
 ### [hack, hacker](a-z-word-list-term-collections/h/hack-hacker.md)
 ### [half inch](a-z-word-list-term-collections/h/half-inch.md)
+### [handheld, handheld device](a-z-word-list-term-collections/h/handheld-handheld-device.md)
 ### [handle](a-z-word-list-term-collections/h/handle.md)
 ### [handshake](a-z-word-list-term-collections/h/handshake.md)
 ### [hang](a-z-word-list-term-collections/h/hang.md)
