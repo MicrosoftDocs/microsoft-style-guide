@@ -2,18 +2,19 @@
 title: What's new? - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 2/28/2019
+ms.date: 3/11/2019
 ms.topic: article
 ms.prod: non-product-specific
 ---
 
 # What's new?
 
-This table shows a history of updates to the *Microsoft Writing Style Guide* since its release in January 2018.
+This table shows a history of recent updates to the *Microsoft Writing Style Guide.*
 
 
 |     **Date**      |                                                                  **Topic**                                                                   |                                                                         **Change**                                                                          |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   March 11, 2019   |        [Commas](~/punctuation/commas.md)                                                       |                                      Added guidelines for when to use a comma in a series of two or more adjectives that precede a noun.                                       |
 |  February 28, 2019   | [Computer and device term collection](~/a-z-word-list-term-collections/term-collections/computer-device-terms.md) |                                                 Added guidelines for using *desktop* as a hardware term. Updated the guidelines for *computer, PC, machine,* and other device terms.             |
 |  February 27, 2019   | [blade](~/a-z-word-list-term-collections/b/blade.md) |                                                 Clarified what the UI element called a *blade* is. Deleted the guideline to define *blade* on first mention.             |
 |  February 22, 2019   | [AI and bot term collection](~/a-z-word-list-term-collections/term-collections/ai-bot-terms.md) |                                     Changed the name from "Bot term collection." Updated the guidelines for *bot, chatbot, virtual agent,* and *AI.* Added new guidelines for the terms *intelligent/intelligence* and *Microsoft AI.*   |
@@ -49,7 +50,4 @@ This table shows a history of updates to the *Microsoft Writing Style Guide* sin
 |  April 30, 2018   |                                            [launch](~/a-z-word-list-term-collections/l/launch.md)                                            |                                       Clarified use of *open* instead of *launch* to refer to opening an app or form.                                       |
 |  March 15, 2018   |                                   [Microsoft Store](~/a-z-word-list-term-collections/m/microsoft-store.md)                                   |                                                              Added topic to the A–Z word list.                                                              |
 |  March 12, 2018   | [Numbers](~/numbers.md)<br />[Units of measure term collection](~/a-z-word-list-term-collections/term-collections/units-of-measure-terms.md) |                                                Added guidelines for the use of commas in pixel measurements.                                                |
-| February 21, 2018 |              [Computer and device term collection](~/a-z-word-list-term-collections/term-collections/computer-device-terms.md)               |                                           Added guideline for using *disk* in the context of Azure cloud storage.                                           |
-| February 16, 2018 |                                [full screen, full-screen](~/a-z-word-list-term-collections/f/full-screen.md)                                 |                                                              Added topic to the A–Z word list.                                                              |
-| February 16, 2018 |          [General Data Protection Regulation (GDPR)](~/a-z-word-list-term-collections/g/general-data-protection-regulation-gdpr.md)          |                                                              Added topic to the A–Z word list.                                                              |
 

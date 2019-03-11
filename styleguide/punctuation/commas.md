@@ -2,7 +2,7 @@
 title: Commas - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 01/19/2018
+ms.date: 03/11/2019
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -11,9 +11,7 @@ ms.prod: non-product-specific
 
 ## Use a comma
 
-  - In
-    a list of three or more items, include a comma before the conjunction.
-    (The comma that comes before the conjunction is known as the Oxford or
+  - Before the conjunction in a list of three or more items. (The comma that comes before the conjunction is known as the Oxford or
     serial comma.)<br />
     **Examples**  
     Outlook includes Mail, Calendar, People, and Tasks.  
@@ -29,12 +27,21 @@ ms.prod: non-product-specific
 
     **Writing tip** If the sentence is long or complex, consider rewriting as two sentences.
 
+  - In a series of two or more adjectives that precede a noun, if the order of the adjectives can be reversed or if 
+    they can be separated by *and* without changing the meaning.<br />
+    **Examples**  
+    Adjust the innovative, built-in Kickstand and Type Cover.  
+    PlayFab is a complete back-end platform.
+
+    **Writing tip** Consider rewriting for a friendlier, more conversational tone. For example, say, "Build 
+    mixed-reality apps that support collaboration across platforms," not "Build collaborative, cross-platform mixed-reality apps."  
+
   - To surround the year when you use a complete date within a sentence.<br />
     **Example** <br />See the product reviews in the February 4, 2015, issue of the *New York Times.*
 
 For information about using commas in numbers, see [Numbers](~/numbers.md).
 
-## Don’t use a comma
+## Don't use a comma
 
   - To join independent clauses when you don't use a conjunction. (Use a semicolon instead.)<br />
     **Example** <br />Select **Options**; then select **Enable fast saves.**
@@ -47,4 +54,4 @@ For information about using commas in numbers, see [Numbers](~/numbers.md).
     The program evaluates your computer system. Then it copies the essential files to the target location.  
     The program evaluates your computer system, and then it copies the essential files to the target location. 
 
-  - Between the month and the year when a specific date isn’t mentioned.
+  - Between the month and the year when a specific date isn't mentioned.
