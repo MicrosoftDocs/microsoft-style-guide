@@ -291,6 +291,7 @@
 ### [extension, file name extension](a-z-word-list-term-collections/e/extension-file-name-extension.md)
 ## F
 ### [fail](a-z-word-list-term-collections/f/fail.md)
+### [fail over, fail back, failover, failback](a-z-word-list-term-collections/f/fail-over-fail-back-failover-failback.md)
 ### [FALSE](a-z-word-list-term-collections/f/FALSE.md)
 ### [family](a-z-word-list-term-collections/f/family.md)
 ### [Far East](a-z-word-list-term-collections/f/far-east.md)
@@ -519,6 +520,7 @@
 ### [minus sign (–)](a-z-word-list-term-collections/m/minus-sign.md)
 ### [MIP mapping](a-z-word-list-term-collections/m/mip-mapping.md)
 ### [mission critical, mission-critical](a-z-word-list-term-collections/m/mission-critical.md)
+### [mixed reality, mixed-reality](a-z-word-list-term-collections/m/mixed-reality.md)
 ### [mobile device, mobile phone](a-z-word-list-term-collections/m/mobile-device-mobile-phone.md)
 ### [monitor](a-z-word-list-term-collections/m/monitor.md)
 ### [monospace](a-z-word-list-term-collections/m/monospace.md)
@@ -719,6 +721,7 @@
 ### [shut down, shutdown](a-z-word-list-term-collections/s/shut-down-shutdown.md)
 ### [sign in, sign out](a-z-word-list-term-collections/s/sign-in-sign-out.md)
 ### [simply](a-z-word-list-term-collections/s/simply.md)
+### [single sign-on (SSO)](a-z-word-list-term-collections/s/single-sign-on-sso.md)
 ### [site](a-z-word-list-term-collections/s/site.md)
 ### [site map](a-z-word-list-term-collections/s/site-map.md)
 ### [size, resize](a-z-word-list-term-collections/s/size-resize.md)
