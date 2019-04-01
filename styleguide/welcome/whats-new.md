@@ -2,7 +2,7 @@
 title: What's new? - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 3/11/2019
+ms.date: 4/1/2019
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -14,6 +14,9 @@ This table shows a history of recent updates to the *Microsoft Writing Style Gui
 
 |     **Date**      |                                                                  **Topic**                                                                   |                                                                         **Change**                                                                          |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   April 1, 2019   |        [mixed reality, mixed-reality](~/a-z-word-list-term-collections/m/mixed-reality.md)                                                       |                                      Added a topic to the A–Z word list.                                       |
+|   April 1, 2019   |        [fail over, fail back, failover, failback](~/a-z-word-list-term-collections/f/fail-over-fail-back-failover-failback.md)                              |                                      Added a topic to the A–Z word list.                                          |        
+|   April 1, 2019   |        [single sign-on (SSO)](~/a-z-word-list-term-collections/s/single-sign-on-sso.md)                                                       |                                      Added a topic to the A–Z word list.                                       |
 |   March 11, 2019   |        [Commas](~/punctuation/commas.md)                                                       |                                      Added guidelines for when to use a comma in a series of two or more adjectives that precede a noun.                                       |
 |  February 28, 2019   | [Computer and device term collection](~/a-z-word-list-term-collections/term-collections/computer-device-terms.md) |                                                 Added guidelines for using *desktop* as a hardware term. Updated the guidelines for *computer, PC, machine,* and other device terms.             |
 |  February 27, 2019   | [blade](~/a-z-word-list-term-collections/b/blade.md) |                                                 Clarified what the UI element called a *blade* is. Deleted the guideline to define *blade* on first mention.             |
