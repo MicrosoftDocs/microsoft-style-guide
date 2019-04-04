@@ -2,7 +2,7 @@
 title: What's new? - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 4/1/2019
+ms.date: 4/4/2019
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -14,6 +14,7 @@ This table shows a history of recent updates to the *Microsoft Writing Style Gui
 
 |     **Date**      |                                                                  **Topic**                                                                   |                                                                         **Change**                                                                          |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   April 4, 2019   |        [Date and time term collection](~/a-z-word-list-term-collections/term-collections/date-time-terms.md)                                                       |                    Added guidelines for abbreviating days of the week. Changed the guideline for month abbreviations to say don't use a period.                                                                                                        |
 |   April 1, 2019   |        [mixed reality, mixed-reality](~/a-z-word-list-term-collections/m/mixed-reality.md)                                                       |                                      Added a topic to the A–Z word list.                                       |
 |   April 1, 2019   |        [fail over, fail back, failover, failback](~/a-z-word-list-term-collections/f/fail-over-fail-back-failover-failback.md)                              |                                      Added a topic to the A–Z word list.                                          |        
 |   April 1, 2019   |        [single sign-on (SSO)](~/a-z-word-list-term-collections/s/single-sign-on-sso.md)                                                       |                                      Added a topic to the A–Z word list.                                       |
@@ -51,6 +52,3 @@ This table shows a history of recent updates to the *Microsoft Writing Style Gui
 |  April 30, 2018   |                                              [open](~/a-z-word-list-term-collections/o/open.md)                                              |                                          Added use of *open,* not *start* or *launch,* to describe opening an app.                                          |
 |  April 30, 2018   |                                    [start, restart](~/a-z-word-list-term-collections/s/start-restart.md)                                     |                   Clarified that *open* not *start* should be used to refer to opening all apps, not just those from the **Start** menu.                    |
 |  April 30, 2018   |                                            [launch](~/a-z-word-list-term-collections/l/launch.md)                                            |                                       Clarified use of *open* instead of *launch* to refer to opening an app or form.                                       |
-|  March 15, 2018   |                                   [Microsoft Store](~/a-z-word-list-term-collections/m/microsoft-store.md)                                   |                                                              Added topic to the A–Z word list.                                                              |
-|  March 12, 2018   | [Numbers](~/numbers.md)<br />[Units of measure term collection](~/a-z-word-list-term-collections/term-collections/units-of-measure-terms.md) |                                                Added guidelines for the use of commas in pixel measurements.                                                |
-
