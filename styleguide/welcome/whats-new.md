@@ -2,7 +2,7 @@
 title: What's new? - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 4/4/2019
+ms.date: 5/6/2019
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -14,6 +14,7 @@ This table shows a history of recent updates to the *Microsoft Writing Style Gui
 
 |     **Date**      |                                                                  **Topic**                                                                   |                                                                         **Change**                                                                          |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   May 6, 2019   |        Global communications > [Names and contact information](~/global-communications/names-contact-information.md)                         |                    Added global considerations for content that addresses the customer by name, such as in email or the product UI.                                                                                                                                     |
 |   April 4, 2019   |        [Date and time term collection](~/a-z-word-list-term-collections/term-collections/date-time-terms.md)                                                       |                    Added guidelines for abbreviating days of the week. Changed the guideline for month abbreviations to say don't use a period.                                                                                                        |
 |   April 1, 2019   |        [mixed reality, mixed-reality](~/a-z-word-list-term-collections/m/mixed-reality.md)                                                       |                                      Added a topic to the A–Z word list.                                       |
 |   April 1, 2019   |        [fail over, fail back, failover, failback](~/a-z-word-list-term-collections/f/fail-over-fail-back-failover-failback.md)                              |                                      Added a topic to the A–Z word list.                                          |        
@@ -49,6 +50,3 @@ This table shows a history of recent updates to the *Microsoft Writing Style Gui
 |   June 26, 2018   |                                 [thanks, thank you](~/a-z-word-list-term-collections/t/thanks-thank-you.md)                                  |               Updated this topic to say that *thanks* is preferred to *thank you* and to clarify when it's appropriate to thank the customer.               |
 |   June 26, 2018   |                                       [HTTP, HTTPS](~/a-z-word-list-term-collections/h/http-https.md)                                        |                                                          Added guidelines for HTTPS to this topic.                                                          |
 |    May 9, 2018    |                                        [pin, unpin](~/a-z-word-list-term-collections/p/pin-unpin.md)                                         |                        Made this topic less specific to clarify that *pin* and *unpin* can be used in any product, not just Windows.                        |
-|  April 30, 2018   |                                              [open](~/a-z-word-list-term-collections/o/open.md)                                              |                                          Added use of *open,* not *start* or *launch,* to describe opening an app.                                          |
-|  April 30, 2018   |                                    [start, restart](~/a-z-word-list-term-collections/s/start-restart.md)                                     |                   Clarified that *open* not *start* should be used to refer to opening all apps, not just those from the **Start** menu.                    |
-|  April 30, 2018   |                                            [launch](~/a-z-word-list-term-collections/l/launch.md)                                            |                                       Clarified use of *open* instead of *launch* to refer to opening an app or form.                                       |
