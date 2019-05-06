@@ -2,16 +2,18 @@
 title: Names and contact information - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 01/19/2018
+ms.date: 05/6/2019
 ms.topic: article
 ms.prod: non-product-specific
 ---
 
 # Names and contact information
 
+## Forms that collect information
+
 If you're creating a real or sample form that collects personal information, use these guidelines.
 
-## Names
+**Names**
 
   - Use *First name* and *Last name* in forms, or simply *Full name.* 
   
@@ -19,7 +21,7 @@ If you're creating a real or sample form that collects personal information, use
   
   - Use *Title,* not *Honorific,* to describe words such as *Mr.* and *Mrs.* Not all cultures have equivalents to some titles used in the United States, such as *Ms.*
 
-## Addresses
+**Addresses**
 
   - Provide fields long enough for customers to include whatever information is appropriate for their locale. 
   
@@ -32,3 +34,11 @@ If you're creating a real or sample form that collects personal information, use
   - Use *Postal code* instead of *ZIP Code.* Allow for at least 10 characters and a combination of letters and numbers. 
   
   - Provide enough space for long phone numbers. 
+  
+  ## Communications that use the customer's name
+  
+It's not appropriate in some markets and cultures to address the customer by name—for example, in an email 
+or product home page. 
+
+If you're working on content that addresses the customer by name, confirm that the app can reliably determine what 
+region the customer is in and can use the form of address that's appropriate for that market.
