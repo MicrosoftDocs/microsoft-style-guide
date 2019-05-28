@@ -2,7 +2,7 @@
 title: What's new? - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 5/6/2019
+ms.date: 5/28/2019
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -14,6 +14,9 @@ This table shows a history of recent updates to the *Microsoft Writing Style Gui
 
 |     **Date**      |                                                                  **Topic**                                                                   |                                                                         **Change**                                                                          |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   May 28, 2019   |        "appears, displays" and "displays, appears"                               |                                      Deleted these topics from the A–Z word list. Microsoft style no longer makes a recommendation for these terms.                                                                 |
+|   May 28, 2019   |        [hard-code, hard-coded, hard-coding](~/a-z-word-list-term-collections/h/hard-code-hard-coded-hard-coding.md)                             |                                      Renamed the "hard-coded" topic so that the guideline applies to the additional word forms.        |
+|   May 28, 2019   |        [passwordless](~/a-z-word-list-term-collections/p/passwordless.md)                                                       |                                      Added a topic to the A–Z word list.                                       |
 |   May 6, 2019   |        Global communications > [Names and contact information](~/global-communications/names-contact-information.md)                         |                    Added global considerations for content that addresses the customer by name, such as in email or the product UI.                                                                                                                                     |
 |   April 4, 2019   |        [Date and time term collection](~/a-z-word-list-term-collections/term-collections/date-time-terms.md)                                                       |                    Added guidelines for abbreviating days of the week. Changed the guideline for month abbreviations to say don't use a period.                                                                                                        |
 |   April 1, 2019   |        [mixed reality, mixed-reality](~/a-z-word-list-term-collections/m/mixed-reality.md)                                                       |                                      Added a topic to the A–Z word list.                                       |
