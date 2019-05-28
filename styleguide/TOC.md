@@ -358,7 +358,7 @@
 ### [hang](a-z-word-list-term-collections/h/hang.md)
 ### [hard copy](a-z-word-list-term-collections/h/hard-copy.md)
 ### [hard drive](a-z-word-list-term-collections/h/hard-drive.md)
-### [hard-coded](a-z-word-list-term-collections/h/hard-coded.md)
+### [hard-code, hard-coded, hard-coding](a-z-word-list-term-collections/h/hard-code-hard-coded-hard-coding.md)
 ### [hard-of-hearing](a-z-word-list-term-collections/h/hard-of-hearing.md)
 ### [hardwired](a-z-word-list-term-collections/h/hardwired.md)
 ### [HDMI (High-Definition Multimedia Interface)](a-z-word-list-term-collections/h/hdmi.md)
