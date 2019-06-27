@@ -2,7 +2,7 @@
 title: What's new? - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 5/28/2019
+ms.date: 6/27/2019
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -14,6 +14,8 @@ This table shows a history of recent updates to the *Microsoft Writing Style Gui
 
 |     **Date**      |                                                                  **Topic**                                                                   |                                                                         **Change**                                                                          |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   June 27, 2019   |        [and so on](~/a-z-word-list-term-collections/a/and-so-on.md), [etc.](~/a-z-word-list-term-collections/e/etc.md)                         |                                      Clarified that both terms should be avoided. Added examples of alternative wording.                                                                 |
+|   June 27, 2019   |        [sign in, sign out](~/a-z-word-list-term-collections/s/sign-in-sign-out.md)                         |                                      Added *sign into* and *log into* to the list of terms to avoid. Updated the examples.                                                                 |
 |   May 28, 2019   |        "appears, displays" and "displays, appears"                               |                                      Deleted these topics from the A–Z word list. Microsoft style no longer makes a recommendation for these terms.                                                                 |
 |   May 28, 2019   |        [hard-code, hard-coded, hard-coding](~/a-z-word-list-term-collections/h/hard-code-hard-coded-hard-coding.md)                             |                                      Renamed the "hard-coded" topic so that the guideline applies to the additional word forms.        |
 |   May 28, 2019   |        [passwordless](~/a-z-word-list-term-collections/p/passwordless.md)                                                       |                                      Added a topic to the A–Z word list.                                       |
@@ -52,4 +54,3 @@ This table shows a history of recent updates to the *Microsoft Writing Style Gui
 |   June 27, 2018   |                      [service-level agreement (SLA)](~/a-z-word-list-term-collections/s/service-level-agreement-sla.md)                      |                                                             Added a topic to the A–Z word list.                                                             |
 |   June 26, 2018   |                                 [thanks, thank you](~/a-z-word-list-term-collections/t/thanks-thank-you.md)                                  |               Updated this topic to say that *thanks* is preferred to *thank you* and to clarify when it's appropriate to thank the customer.               |
 |   June 26, 2018   |                                       [HTTP, HTTPS](~/a-z-word-list-term-collections/h/http-https.md)                                        |                                                          Added guidelines for HTTPS to this topic.                                                          |
-|    May 9, 2018    |                                        [pin, unpin](~/a-z-word-list-term-collections/p/pin-unpin.md)                                         |                        Made this topic less specific to clarify that *pin* and *unpin* can be used in any product, not just Windows.                        |
