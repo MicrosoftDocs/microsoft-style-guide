@@ -2,7 +2,7 @@
 title: What's new? - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 5/28/2019
+ms.date: 6/27/2019
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -14,6 +14,7 @@ This table shows a history of recent updates to the *Microsoft Writing Style Gui
 
 |     **Date**      |                                                                  **Topic**                                                                   |                                                                         **Change**                                                                          |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   June 27, 2019   |        [sign in, sign out](~/a-z-word-list-term-collections/s/sign-in-sign-out.md)                         |                                      Added *sign into* and *log into* to the list of terms to avoid. Updated the examples.                                                                 |
 |   May 28, 2019   |        "appears, displays" and "displays, appears"                               |                                      Deleted these topics from the A–Z word list. Microsoft style no longer makes a recommendation for these terms.                                                                 |
 |   May 28, 2019   |        [hard-code, hard-coded, hard-coding](~/a-z-word-list-term-collections/h/hard-code-hard-coded-hard-coding.md)                             |                                      Renamed the "hard-coded" topic so that the guideline applies to the additional word forms.        |
 |   May 28, 2019   |        [passwordless](~/a-z-word-list-term-collections/p/passwordless.md)                                                       |                                      Added a topic to the A–Z word list.                                       |
