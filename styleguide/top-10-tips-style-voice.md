@@ -1,4 +1,4 @@
----
+﻿---
 title: Top 10 tips for Microsoft style and voice - Microsoft Style Guide
 author: pallep
 ms.author: pallep
@@ -77,7 +77,7 @@ paragraphs and body copy. To learn more, see [Punctuation](~/punctuation/index.m
 
 **Example**<br />Replace this:<br />**Move a tile.**<br />1\. Press and hold the tile.
 
-With this:<br />**Move a tile**<br />1\. Press and hold the tile.
+With this:<br />**Move a tile**<br />1\. Press and hold the tile
 
 ## Remember the last comma
 In a list of three or more items, include a comma before the conjunction. (The comma that comes before the conjunction is known as the Oxford or serial comma.) To learn more, see [Commas](~/punctuation/commas.md). 
