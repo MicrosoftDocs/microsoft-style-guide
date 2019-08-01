@@ -2,7 +2,7 @@
 title: web, World Wide Web, WWW - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 01/19/2018
+ms.date: 08/1/2019
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -34,7 +34,8 @@ The following terms that include *web* are hyphenated:
 
 The following terms that include *web* are two words: 
 
-  - web address 
+  - web address
+  - web app 
   - web browser 
   - web content 
   - web crawler 
