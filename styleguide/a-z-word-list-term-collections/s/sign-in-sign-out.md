@@ -13,7 +13,8 @@ Use *sign in*
 to describe starting a session on a computer, a device, a network, an
 app, or anywhere a username and password are required. Use *sign out* to refer to ending a session. 
 
-Don't use *log in, login, log onto, log into, log off of, log out, logout, sign into, signin, signoff, sign off,* or *sign on* unless these terms appear in the UI (and you're writing instructions).
+Don't use *log in, login, log into, log on, logon, log onto, log off, log out, logout, sign into, signin, signoff, 
+sign off,* or *sign on* unless these terms appear in the UI (and you're writing instructions).
 
 The verb form is two words, *sign in* or *sign out.* Avoid using as a noun or adjective (*sign-in, sign-out*). Instead, use a more descriptive or precise term.
 
