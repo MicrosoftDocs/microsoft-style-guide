@@ -2,7 +2,7 @@
 title: What's new? - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 7/25/2019
+ms.date: 8/8/2019
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -14,6 +14,9 @@ This table shows a history of recent updates to the *Microsoft Writing Style Gui
 
 |     **Date**      |                                                                  **Topic**                                                                   |                                                                         **Change**                                                                          |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  August 8, 2019   | [Code examples](~/developer-content/code-examples.md) |                                     Clarified the approach to creating code examples, including planning for and writing. (No change to the guidelines themselves.)   |
+|  August 8, 2019   | [Formatting developer text elements](~/developer-content/formatting-developer-text-elements.md) |                                     Added updated examples and fixed some errors.   |
+|  August 8, 2019   | [Reference documentation](~/developer-content/reference-documentation.md) |                                     Updated contents. Updated and added more examples.   |
 |   July 25, 2019   |        [Describing interactions with UI](~/procedures-instructions/describing-interactions-with-ui.md)                         |                                      Clarified the use of *select* and *enter* in describing user actions in instructions. Added examples.                  |
 |   June 27, 2019   |        [and so on](~/a-z-word-list-term-collections/a/and-so-on.md), [etc.](~/a-z-word-list-term-collections/e/etc.md)                         |                                      Clarified that these terms shouldn't be used. Added examples of alternative wording.                                                                 |
 |   June 27, 2019   |        [sign in, sign out](~/a-z-word-list-term-collections/s/sign-in-sign-out.md)                         |                                      Added *sign into* and *log into* to the list of terms that shouldn't be used. Updated the examples.                                                                 |
@@ -46,9 +49,3 @@ This table shows a history of recent updates to the *Microsoft Writing Style Gui
 |   September 11, 2018   |                                                      [org, organization](~/a-z-word-list-term-collections/o/org-organization.md)                                             |                                      Added a topic to the A–Z word list.                                       |
 |   September 11, 2018   |                                                      [company vs. organization](~/a-z-word-list-term-collections/c/company-vs-organization.md)                                             |                                      Added a topic to the A–Z word list.                                       |
 |   September 10, 2018   |                                                      [e-sports](~/a-z-word-list-term-collections/e/e-sports.md)                                             |                                      Added a topic to the A–Z word list.                                       |
-|   July 24, 2018   |                                                      [Colons](~/punctuation/colons.md)                                                       |                                      Added guidelines for capitalizing the word after a colon in titles and headings.                                       |
-|   July 24, 2018   |                                                    [Capitalization](~/capitalization.md)                                                     |                       Added guidelines for capitalizing the word after a colon in a heading that uses sentence-style capitalization.                        |
-|   July 24, 2018   |                                                 [Headings](~/scannable-content/headings.md)                                                  | Added guidelines for capitalizing the word after a colon. Clarified guidelines for end punctuation and for text between a heading and a subsequent subhead. |
-|   July 23, 2018   |                       [dialog box, dialog, dialogue](~/a-z-word-list-term-collections/d/dialog-box-dialog-dialogue.md)                       |                                 Added guidance for using *dialogue* when you're talking about conversation or interaction.                                  |
-|   July 17, 2018   |                                         [Microsoft](~/a-z-word-list-term-collections/m/microsoft.md)                                         |     Updated this topic to explain when to use first-person pronouns (*we, our*) and when to use third person (*it, its*) when the subject is Microsoft.     |
-|   July 10, 2018   |                                  [first line, first-line](~/a-z-word-list-term-collections/f/first-line.md)                                  |                                                             Added a topic to the A–Z word list.                                                             |
