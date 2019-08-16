@@ -2,7 +2,7 @@
 title: What's new? - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 8/8/2019
+ms.date: 8/16/2019
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -14,6 +14,7 @@ This table shows a history of recent updates to the *Microsoft Writing Style Gui
 
 |     **Date**      |                                                                  **Topic**                                                                   |                                                                         **Change**                                                                          |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   August 16, 2019   |        [registry, registry settings](~/a-z-word-list-term-collections/r/registry-registry-settings.md)                         |                                      Updated the examples.                                                                                         |
 |   August 8, 2019   |        [author](~/a-z-word-list-term-collections/a/author.md)                         |                                      Expanded this topic to say don't use *author* as a verb when you mean in general "to make something." Use a more precise verb.                                                                 |
 |  August 8, 2019   | [Code examples](~/developer-content/code-examples.md) |                                     Clarified the approach to creating code examples, including planning for and writing. (No change to the guidelines themselves.)   |
 |  August 8, 2019   | [Formatting developer text elements](~/developer-content/formatting-developer-text-elements.md) |                                     Added updated examples and fixed some errors.   |
