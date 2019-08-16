@@ -2,7 +2,7 @@
 title: registry, registry settings - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 01/19/2018
+ms.date: 08/16/2019
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -28,13 +28,13 @@ usually a mix of uppercase and lowercase characters.
 **Examples**  
 **SOFTWARE**   
 **ApplicationIdentifier**  
-**Application Identifier***Name*   
-**stockfile**   
-the **new program** subkey
+**CurrentVersion**   
 
 Refer to an entire subkey path as a *subkey,* not a *path*. 
 
 **Example**  
-(typical subkey ) **\\HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Microsoft\\Jet\\3.5\\Engines\\Xbase subkey**
+(typical subkey ) **\\HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Policies\\Microsoft\\SystemCertificates\\AuthRoot**
 
 In a subkey, use *entries* to describe the items in the **Name** column. Use *values* to describe the items in the **Data** column.
+
+**See also** [Formatting developer text elements](~/developer-content/formatting-developer-text-elements.md)
