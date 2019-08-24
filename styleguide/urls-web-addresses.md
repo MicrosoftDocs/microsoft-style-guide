@@ -51,12 +51,12 @@ the reader might think the period at the end of a
 sentence is part of the URL, rewrite the sentence or set the URL
 off.<br />
 **Examples**  
-Visit [windows.microsoft.com/upgrade](http://windows.microsoft.com/upgrade) to learn how to get your free Windows 10 upgrade.  
-To get your free Windows 10 upgrade, visit our website:  
+Go to [windows.microsoft.com/upgrade](http://windows.microsoft.com/upgrade) to learn how to get your free Windows 10 upgrade.  
+To get your free Windows 10 upgrade, go to our website:  
    [windows.microsoft.com/upgrade](http://windows.microsoft.com/upgrade)
 
 Write brief but meaningful link text, using the title or a description of a page rather than a generic phrase like *click here*. In alt text for a graphic that links to another location, state clearly that the graphic is a link.<br />
 **Examples**  
-Visit the [Windows 10 upgrade page](http://windows.microsoft.com/upgrade) to learn how to get your free upgrade.   
+Go to the [Windows 10 upgrade page](http://windows.microsoft.com/upgrade) to learn how to get your free upgrade.   
 (Alt text) Picture of a woman talking on a phone that opens an online chat session with Microsoft support.  
 (Alt text) Windows 10 logo and link to the Windows 10 upgrade page.
