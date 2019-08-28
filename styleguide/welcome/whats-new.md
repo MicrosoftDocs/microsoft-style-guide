@@ -12,7 +12,7 @@ ms.prod: non-product-specific
 This table shows a history of recent updates to the *Microsoft Writing Style Guide.*
 
 
-|     **Date**      |                                                                  **Topic**                                                                   |                                                                         **Change**                                                                          |
+|     **Date**      |                                                                  **Article**                                                                   |                                                                         **Change**                                                                          |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |   August 16, 2019   |        [registry, registry settings](~/a-z-word-list-term-collections/r/registry-registry-settings.md)                         |                                      Updated the examples.                                                                                         |
 |   August 8, 2019   |        [author](~/a-z-word-list-term-collections/a/author.md)                         |                                      Expanded this topic to say don't use *author* as a verb when you mean in general "to make something." Use a more precise verb.                                                                 |
