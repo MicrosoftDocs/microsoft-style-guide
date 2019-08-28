@@ -112,16 +112,16 @@ Enter inserts a manual line break in many authoring tools.)
   
   - Break naturally, at the end of a complete phrase, if possible. 
   
-  - If you can’t fit a headline on two lines, rewrite it.
+  - If you can't fit a headline on two lines, rewrite it.
 
 **Use vertical spacing to make headings stand out.** Headings
 typically have extra space above them and often less space below
 them. Close proximity between the heading and the text that
-follows it communicates to the reader that they’re related. Heading
+follows it communicates to the reader that they're related. Heading
 spacing is built into heading styles in most templates. Use those
 styles to control spacing in a consistent way. 
 
-**Don’t use extra line breaks to increase heading spacing,** especially in web content. In responsive
+**Don't use extra line breaks to increase heading spacing,** especially in web content. In responsive
 web design, the layout and screen elements (including headings) adjust
 to the screen size automatically, whether they're viewed on mobile
 devices, tablets, laptops, or desktops. Extra line breaks might detract
@@ -135,11 +135,11 @@ If
 you regularly highlight specific types of content, such as
 benefits, feature highlights, tips, notes, warnings, or
 cross-references, consider using a special kind of heading
-for them. Although they don’t add white space to a document, bold run-in headings,
-like the ones you see in this topic, draw the reader’s eye to
-interesting information. Because they’re part of the paragraph,
+for them. Although they don't add white space to a document, bold run-in headings,
+like the ones you see in this article, draw the reader's eye to
+interesting information. Because they're part of the paragraph,
 run-in headings have less impact than separate headings but
-require much less space—so they’re ideal for packaging blurbs, web content, screen callouts, and the like. 
+require much less space—so they're ideal for packaging blurbs, web content, screen callouts, and the like. 
 
 When you use bold formatting for run-in headings:
 
