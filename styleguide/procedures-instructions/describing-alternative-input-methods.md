@@ -9,9 +9,9 @@ ms.prod: non-product-specific
 
 # Describing alternative input methods
 
-If you use input-neutral methods in instructions, provide a topic
+If you use input-neutral methods in instructions, provide an article
 that explains how to interact with the product using each available
-input method. (The topic can be in the product or included in
+input method. (The article can be in the product or included in
 documentation or Help.) To support customers regardless of their
 ability or the device they use, include mice, keyboards, voice
 recognition devices, game controllers, touch, and other interaction
@@ -23,9 +23,9 @@ methods.
 
 Be consistent in how you list mouse procedures. For example,
 always list the mouse method before the keyboard method if
-you document both. Don’t combine keyboard and
+you document both. Don't combine keyboard and
 mouse actions as if they were keyboard shortcuts unless space is
-limited. For example, don’t use *Shift+click.* Instead, use *Select Shift while clicking ….*
+limited. For example, don't use *Shift+click.* Instead, use *Select Shift while clicking ….*
 
 **See also** [Mouse and mouse interaction term collection](~/a-z-word-list-term-collections/term-collections/mouse-mouse-interaction-terms.md)
 
@@ -48,11 +48,11 @@ Use *tap* and *double-tap* instead of *click* and *double-click* when writing co
 
 | **Term** | **Usage** |
 |---|---|
-| **tap** | Use to describe selecting a button, icon, or other element on the screen with a finger or the pen by tapping it once. Don’t use <em>tap on.</em> |
-| **double-tap** | Use to describe selecting an item by tapping twice in rapid succession. Hyphenate. Don’t use <em>double-tap on.</em> |
-| **tap and hold** | Use only if the app requires it to complete a specific interaction. Don’t use <em>touch and hold</em>. |
-| **pan** | Use to describe moving the screen in multiple directions at a controlled rate, as you would <em>pan</em> a camera to see different views. For contact gestures, use <em>pan</em> to refer to moving a finger, hand, or pen on the device surface to move through screens or menus at a controlled rate, rather than quickly skipping through content using the flick gesture. Don’t use <em>drag</em> or <em>scroll</em> as a synonym for <em>pan</em>. |
-| **flick** | Use to describe moving one or more fingers to scroll through items on the screen. Don’t use <em>scroll</em>. |
+| **tap** | Use to describe selecting a button, icon, or other element on the screen with a finger or the pen by tapping it once. Don't use <em>tap on.</em> |
+| **double-tap** | Use to describe selecting an item by tapping twice in rapid succession. Hyphenate. Don't use <em>double-tap on.</em> |
+| **tap and hold** | Use only if the app requires it to complete a specific interaction. Don't use <em>touch and hold</em>. |
+| **pan** | Use to describe moving the screen in multiple directions at a controlled rate, as you would <em>pan</em> a camera to see different views. For contact gestures, use <em>pan</em> to refer to moving a finger, hand, or pen on the device surface to move through screens or menus at a controlled rate, rather than quickly skipping through content using the flick gesture. Don't use <em>drag</em> or <em>scroll</em> as a synonym for <em>pan</em>. |
+| **flick** | Use to describe moving one or more fingers to scroll through items on the screen. Don't use <em>scroll</em>. |
 | **swipe** | Use to describe a short, quick movement in the direction opposite to how the page scrolls. For example, if the page scrolls left or right, swipe an item up or down to select it.  |
 
 **See also** [Touch and pen interaction term collection](~/a-z-word-list-term-collections/term-collections/touch-pen-interaction-terms.md)
