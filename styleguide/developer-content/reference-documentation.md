@@ -14,15 +14,15 @@ documentation provides details about the programming elements
 associated with technologies and languages, including class libraries,
 object models, and programming language constructs.
 
-Consistency is essential in reference documentation. A standard topic design,
+Consistency is essential in reference documentation. A standard article design,
 predictable headings and structure, and consistent wording
-help developers find what they need quickly. Links to topics with related information are also a common feature. 
+help developers find what they need quickly. Links to articles with related information are also a common feature. 
 
 **Note** Information such
 as configuration schemas, compiler options, and error messages
 might not follow the guidelines described in this section.
 
-## Topic titles
+## Article titles
 
 Use
 the name of a programming element (such as Clear), followed by an
@@ -30,7 +30,7 @@ element type (such as Class, Method, Property, or Event). If
 the name is shared by multiple elements, add a differentiator, such as
 the parent element name or the product or technology name.
 Differentiators are particularly important in search results, where
-they help customers find the topic for the correct product or
+they help customers find the article for the correct product or
 element. 
 
 **Examples**  
@@ -38,10 +38,10 @@ Clear method
 Device.Clear method  
 Clear method (ADO)  
 
-## Elements of a reference topic
+## Elements of a reference article
 
-The table lists the information typically provided in reference topics. Not all sections appear in all reference 
-topics. Sections vary depending on the language, product, or technology being documented.
+The table lists the information typically provided in reference articles. Not all sections appear in all reference 
+articles. Sections vary depending on the language, product, or technology being documented.
 
 
 |        **Section**         |                                                                                                                                                                                                                                                                   **Contains**                                                                                                                                                                                                                                                                    |
@@ -56,7 +56,7 @@ topics. Sections vary depending on the language, product, or technology being do
 |        **See also**        |                                                                                                                                                     References or links to more information about how to use the element. References or links to related elements.<br />**Examples**<br />Move Method (ADO)<br />MoveFirst, MoveLast, MoveNext, and MovePrevious Methods (ADO) <br />MoveFirst, MoveLast, MoveNext, and MovePrevious Methods (RDS)                                                                                                                                    |
 
 
-Other information can appear in reference topics as appropriate to the language, product, or technology. 
+Other information can appear in reference articles as appropriate to the language, product, or technology. 
 For example, instead of a parameter description as shown in the preceding table, there can be descriptions 
 of members, methods, property values, and field values. The following table contains an example of a property 
 value and examples of exceptions and permissions.
@@ -71,4 +71,4 @@ If you automatically generate reference documentation and comments from the sour
 quality and appropriateness of the comments. Developers might leave out details that are important to 
 customers. Remove any implementation or internal details that aren't suitable for documentation.  
 
-**Learn more** For other examples of technical reference topics, see the [.NET API Browser](https://docs.microsoft.com/en-us/dotnet/api/?view=netframework-4.7.1) section of [Microsoft Docs](https://docs.microsoft.com/en-us/).
+**Learn more** For other examples of technical reference articles, see the [.NET API Browser](https://docs.microsoft.com/en-us/dotnet/api/?view=netframework-4.7.1) section of [Microsoft Docs](https://docs.microsoft.com/en-us/).

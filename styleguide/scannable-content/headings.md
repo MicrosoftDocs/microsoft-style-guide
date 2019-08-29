@@ -14,21 +14,21 @@ you can break text logically into smaller sections, the extra
 spacing and distinct fonts associated with headings
 will help readers scan content and find entry points.
 
-In any type of content—whether it’s UI, web content, marketing, or advertising—use headings consistently. 
+In any type of content—whether it's UI, web content, marketing, or advertising—use headings consistently. 
 
 ## Writing headings
 
-**Think of headings as an outline,** only more interesting—pithy, even. If readers don’t read the headings, they probably won’t read the text that follows, either. 
+**Think of headings as an outline,** only more interesting—pithy, even. If readers don't read the headings, they probably won't read the text that follows, either. 
 
   - Top-level
-    headings communicate what’s most important and divide content into
+    headings communicate what's most important and divide content into
     major subjects. Make them as specific as you can to catch the
-    reader’s attention.
+    reader's attention.
     
   - When
-    there’s a lot to say under a top-level heading, look for two or
+    there's a lot to say under a top-level heading, look for two or
     more distinct topics, and use second-level headings (subheads) to
-    break up the large section into more scannable chunks. If you can’t find
+    break up the large section into more scannable chunks. If you can't find
     at least two distinct topics, skip the second-level headings.  
     
   - Avoid having two headings in a row without text in between—that might indicate a problem with 
@@ -46,7 +46,7 @@ second-level heading should be more specific than a first-level
 heading.
 
 **Focus on what matters to customers,** and
-choose words they’d use themselves. In most cases, don’t talk
+choose words they'd use themselves. In most cases, don't talk
 about products, features, or commands in headings. Concentrate
 on what customers can achieve or what they need to know.
 
@@ -112,16 +112,16 @@ Enter inserts a manual line break in many authoring tools.)
   
   - Break naturally, at the end of a complete phrase, if possible. 
   
-  - If you can’t fit a headline on two lines, rewrite it.
+  - If you can't fit a headline on two lines, rewrite it.
 
 **Use vertical spacing to make headings stand out.** Headings
 typically have extra space above them and often less space below
 them. Close proximity between the heading and the text that
-follows it communicates to the reader that they’re related. Heading
+follows it communicates to the reader that they're related. Heading
 spacing is built into heading styles in most templates. Use those
 styles to control spacing in a consistent way. 
 
-**Don’t use extra line breaks to increase heading spacing,** especially in web content. In responsive
+**Don't use extra line breaks to increase heading spacing,** especially in web content. In responsive
 web design, the layout and screen elements (including headings) adjust
 to the screen size automatically, whether they're viewed on mobile
 devices, tablets, laptops, or desktops. Extra line breaks might detract
@@ -135,11 +135,11 @@ If
 you regularly highlight specific types of content, such as
 benefits, feature highlights, tips, notes, warnings, or
 cross-references, consider using a special kind of heading
-for them. Although they don’t add white space to a document, bold run-in headings,
-like the ones you see in this topic, draw the reader’s eye to
-interesting information. Because they’re part of the paragraph,
+for them. Although they don't add white space to a document, bold run-in headings,
+like the ones you see in this article, draw the reader's eye to
+interesting information. Because they're part of the paragraph,
 run-in headings have less impact than separate headings but
-require much less space—so they’re ideal for packaging blurbs, web content, screen callouts, and the like. 
+require much less space—so they're ideal for packaging blurbs, web content, screen callouts, and the like. 
 
 When you use bold formatting for run-in headings:
 

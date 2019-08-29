@@ -51,8 +51,7 @@ the first word and lowercase the rest.
 **Exceptions** Proper nouns, including brand, product, and service names, are always
 capitalized. If a title or heading includes a colon, capitalize the first word after it.
 
-Titles of blog posts, articles, documentation topics, and press releases
-use sentence-style capitalization.<br />
+Titles of blog posts, documentation articles, and press releases use sentence-style capitalization.<br />
 **Examples**  
 Watch your favorite HD movies, TV shows, and more  
 1 TB of cloud storage  
