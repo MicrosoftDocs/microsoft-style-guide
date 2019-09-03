@@ -2,7 +2,7 @@
 title: Describing alternative input methods - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 01/19/2018
+ms.date: 09/3/2019
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -70,13 +70,13 @@ To make webpages easier to see, you can change the text, background, link, and h
 
 | **Step** | **Mouse actions** | **Keyboard actions** |
 |---|---|---|
-| **1** | On the **Start** menu: <br /> <ul><li>Click **Internet Explorer**.</li></ul> | Display the **Start** menu by pressing the Windows logo key: <br /><ul><li>Select **Internet Explorer** by using the arrow keys, and then press Enter.</li> |
-| **2** | In Internet Explorer:<br /><ul><li>Click the **Tools** menu.</li><li>Click **Internet Options**.</li></ul> | In Internet Explorer:<br /><ul><li>Select the **Tools** menu by pressing Alt+T.</li><li>Select **Internet Options** by pressing O.</li></ul> |
+| **1** | On the **Start** menu: <br /> <ul><li>Click **Internet Explorer**.</li></ul> | Display the **Start** menu by pressing the Windows logo key: <br /><ul><li>Select **Internet Explorer** by using the arrow keys, and then press **Enter**.</li> |
+| **2** | In Internet Explorer:<br /><ul><li>Click the **Tools** menu.</li><li>Click **Internet Options**.</li></ul> | In Internet Explorer:<br /><ul><li>Select the **Tools** menu by pressing **Alt+T**.</li><li>Select **Internet Options** by pressing **O**.</li></ul> |
 
 **Document the primary input method,** and provide the alternative instructions in parentheses or separate sentences after the main instructions. <br />
 **Examples**  
 To pan, slide one finger in any direction (or drag the mouse pointer, or use the arrow keys).  
-To copy the selection, click **Copy** on the toolbar. You can also press Ctrl+C.  
+To copy the selection, click **Copy** on the toolbar. You can also press **Ctrl+C**.  
 
 **If there are multiple ways to perform an entire procedure and you must describe each one,** use a table to detail the alternatives. This approach helps the customer decide when to use which method.<br />
 **Example**  
@@ -91,13 +91,13 @@ This table describes two ways to save a file.
 that alternative a separate paragraph in the step. In a
 single-step procedure, an alternative can be separated by the word *or* to make it clear that an alternative is available.<br />
 **Examples**    
-Press the key for the underlined letter in the menu name. You can also use the Left Arrow key or the Right Arrow key to move to another menu.
+Press the key for the underlined letter in the menu name. You can also use the **Left arrow** key or the **Right arrow** key to move to another menu.
 
-  - Press Alt+the key for the underlined letter in the menu name. 
+  - Press **Alt**+the key for the underlined letter in the menu name. 
 
 or 
 
-  - Use the Left Arrow key or the Right Arrow key to move to another menu. 
+  - Use the **Left arrow** key or the **Right arrow** key to move to another menu. 
 
 **For several choices within one procedure step,** use a bulleted list.<br />
 **Example**    

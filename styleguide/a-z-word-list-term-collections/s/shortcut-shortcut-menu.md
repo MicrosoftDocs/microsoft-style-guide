@@ -2,7 +2,7 @@
 title: shortcut, shortcut menu - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 01/19/2018
+ms.date: 09/3/2019
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -14,7 +14,7 @@ ms.prod: non-product-specific
 Use *shortcut menu* only if it helps the customer locate the item in the UI. Most of the time, just describe what the customer needs to do. 
 
 **Examples**  
-Use Alt+Spacebar to display the shortcut menu for the active window.  
+Use **Alt+Spacebar** to display the shortcut menu for the active window.  
 Right-click the selected text, and then select **Copy**.  
 Select the text, open the shortcut menu, and then select **Copy**.
 
