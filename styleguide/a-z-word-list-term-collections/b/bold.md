@@ -2,7 +2,7 @@
 title: bold - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 01/19/2018
+ms.date: 09/3/2019
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -12,7 +12,7 @@ ms.prod: non-product-specific
 Use only as an adjective, not as a noun or verb. Don't use *bolded, boldface,* or *boldfaced*.
 
 **Examples**  
-To apply bold formatting to the selected text, select Ctrl+B.  
+To apply bold formatting to the selected text, select **Ctrl+B**.  
 The newly added parameters are displayed in bold type.  
 The selected text is bold.  
 
