@@ -8,6 +8,7 @@
         ],
         "exclude": [
           "**/obj/**",
+          "**/xrefmap.yml",
           "**/includes/**",
           "README.md",
           "LICENSE",
