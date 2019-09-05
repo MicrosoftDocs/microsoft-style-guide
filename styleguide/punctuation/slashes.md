@@ -2,7 +2,7 @@
 title: Slashes - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 01/19/2018
+ms.date: 09/5/2019
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -11,7 +11,7 @@ ms.prod: non-product-specific
 
 When necessary, differentiate between a *slash* for URLs and a *backslash* for servers and folders.
 
-When you instruct customers to enter a slash, always include the spelled-out term (*backslash* or *forward slash*) first, followed by the symbol in parentheses.<br />**Example** <br />Enter two backslashes (\\\\) ....
+When you instruct customers to enter a slash, always include the spelled-out term (*backslash* or *slash*) first, followed by the symbol in parentheses.<br />**Example** <br />Enter two backslashes (\\\\) ....
 
 **See also**<br />[Numbers](~/numbers.md)<br />[Special character term collection](~/a-z-word-list-term-collections/term-collections/special-characters.md)<br />[URLs and web addresses](~/urls-web-addresses.md)
 
