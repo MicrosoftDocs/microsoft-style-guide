@@ -2,7 +2,7 @@
 title: Hyphens - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 01/19/2018
+ms.date: 09/6/2019
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -134,10 +134,12 @@ For more information about using prefixes, see [*The Chicago Manual of Style*](h
 
 ## Capitalization in hyphenated compound words
 
-Capitalize any part of a hyphenated compound word that would be capitalized if there were no hyphen. For example, capitalize the first word if it's the first word of a sentence or heading.<br />
-**Example**  
-Customer-friendly content is brief, accurate, and to the point. 
+Capitalize any part of a hyphenated compound word that would be capitalized if there were no hyphen. For example, 
+capitalize the first word of a sentence or heading, and in a book or white paper title, capitalize the word after 
+the hyphen if it would ordinarily be capitalized according to the rules for title-style capitalization.<br />
+**Examples**  
+Customer-friendly content is brief, accurate, and to the point.  
+Bisson, Guillermo. *The App E-Book.* Redmond, WA: Lucerne Publishing, 2015.  
+Bisson, Guillermo. *Programming Office 365 Applications, SharePoint Add-ins, and More.* Redmond, WA: Lucerne Publishing, 2015.  
 
-Capitalize the final part of a hyphenated compound word if it's the last word in a context that requires title capitalization, such as a book or song title.<br />
-**Example**  
-Bisson, Guillermo. *The App E-Book.* Redmond, WA: Lucerne Publishing, 2015. 
+**See also** [Capitalization](~/capitalization.md)
