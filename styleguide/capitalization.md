@@ -2,7 +2,7 @@
 title: Capitalization - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 07/24/2018
+ms.date: 09/6/2019
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -98,11 +98,12 @@ On the rare occasions when title-style capitalization is required, follow these 
     This Is All There Is  
     Teaching Math Over and Over Again, in Less Time Than Before   
     
-  - Capitalize the second part of a hyphenated compound if it would be capitalized without the hyphen or it's the last word.  
+  - Capitalize the word after a hyphen if it would be capitalized without the hyphen or it's the last word.  
     **Examples**  
     Self-Paced Training for Microsoft Visual Studio  
     Microsoft Management Console: Five Essential Snap-Ins  
     Five Essential Snap-ins for Microsoft Management Console  
+    Copy-and-Paste Support in Windows Apps  
     
   - Capitalize the first word of labels and terms that appear in
     UI and APIs unless they're always lowercase (for example,
