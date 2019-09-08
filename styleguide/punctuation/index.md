@@ -28,7 +28,7 @@ This section covers:
   - [Apostrophes](~/punctuation/apostrophes.md) in possessives and contractions.
   - [Colons](~/punctuation/colons.md) in lists and to elaborate on a statement.
   - [Commas](~/punctuation/commas.md) in series, clauses, and dates.
-  - [Dashes and hyphens](~/punctuation/dashes-hyphens.md), including [em dashes](~/punctuation/dashes-hyphens/emes.md) to set off phrases, [en dashes](~/punctuation/dashes-hyphens/enes.md) in open or hyphenated compound words and with numbers, and [hyphens](~/punctuation/dashes-hyphens/hyphens.md) in words and spelled-out numbers.
+  - [Dashes and hyphens](~/punctuation/dashes-hyphens/index.md), including [em dashes](~/punctuation/dashes-hyphens/emes.md) to set off phrases, [en dashes](~/punctuation/dashes-hyphens/enes.md) in open or hyphenated compound words and with numbers, and [hyphens](~/punctuation/dashes-hyphens/hyphens.md) in words and spelled-out numbers.
   - [Ellipses](~/punctuation/ellipses.md) in syntax and for omissions. 
   - [Exclamation points](~/punctuation/exclamation-points.md), used sparingly.
   - [Periods](~/punctuation/periods.md) in sentences and lists.
