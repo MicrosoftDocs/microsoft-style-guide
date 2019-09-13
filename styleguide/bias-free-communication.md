@@ -48,7 +48,7 @@ writing about real people who use those pronouns themselves.
 
 It's also OK to use gendered pronouns in content such as direct quotations and the titles of works and when gender 
 is relevant, such as discussions about the challenges that women face in the workplace.  
-**Examples**
+**Examples**  
 The skills that Claire developed in the Marines helped her move into a thriving technology career.  
 Anthony Lambert is executive vice president of gaming. With his team and game development partners, 
 Lambert continues to push the boundaries of creativity and technical innovation.  
