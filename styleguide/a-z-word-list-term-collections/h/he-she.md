@@ -2,7 +2,7 @@
 title: he/she - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 01/19/2018
+ms.date: 09/13/2019
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -11,4 +11,4 @@ ms.prod: non-product-specific
 
 Don't use.
 
-**See** [Nouns and pronouns](~/grammar/nouns-pronouns.md)
+**See** [Bias-free communication](~/bias-free-communication.md)
