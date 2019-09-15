@@ -2,7 +2,7 @@
 title: Person - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 07/17/2018
+ms.date: 09/13/2019
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -30,12 +30,10 @@ Alert me when a new Bluetooth device tries to connect to my computer. (check box
 
 ## Avoid first-person plural
 
-First-person plural, which often uses the pronoun *we,* can feel like a daunting corporate presence—the opposite of Microsoft's modern voice. It’s OK to use phrasing like *we recommend* if it helps you avoid awkward phrasing like *it’s recommended,* but write around it if you can. Try to keep the focus on the customer, not Microsoft.<br />
+First-person plural, which often uses the pronoun *we,* can feel like a daunting corporate presence—the opposite of Microsoft's modern voice. It's OK to use phrasing like *we recommend* if it helps you avoid awkward phrasing like *it's recommended,* but write around it if you can. Try to keep the focus on the customer, not Microsoft.<br />
 **Examples**  
 Select the people you want to give permission to. We'll verify their identities before opening the document.  
 In September, we took a major step forward in introducing Windows 10 to our enterprise customers.  
 The scheduled default setting is the easiest way to keep your computer up to date. (Instead of *We recommend that you use the scheduled default setting ....*)
 
 **See also** [Microsoft](~/a-z-word-list-term-collections/m/microsoft.md)
-
-**Learn more** For information about using the pronouns *he, she,* and *they,* see [Nouns and pronouns](~/grammar/nouns-pronouns.md).
