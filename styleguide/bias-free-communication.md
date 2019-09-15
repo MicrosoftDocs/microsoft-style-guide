@@ -30,8 +30,7 @@ Microsoft technology reaches every part of the globe, so it's critical that all 
 - Refer to a person's role (*reader, employee, customer,* or *client,* for example).
 - Use *person* or *individual.*  
 
-If you can't write around the problem, it's OK to use a plural pronoun (*they, their,* or *them*) to 
-refer to a single person. Don't use constructions like *he/she* and *s/he.*
+If you can't write around the problem, it's OK to use a plural pronoun (*they, their,* or *them*) in generic references to a single person. Don't use constructions like *he/she* and *s/he.*
 
 
 |         **Use this**         | **Not this** |
