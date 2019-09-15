@@ -27,7 +27,7 @@ Microsoft technology reaches every part of the globe, so it's critical that all 
 - Rewrite to use the second person (*you*).  
 - Rewrite the sentence to have a plural noun and pronoun.
 - Use *the* or *a* instead of a pronoun (for example, "the document"). 
-- Refer to a person's role (reader, employee, customer, or client, for example).
+- Refer to a person's role (*reader, employee, customer,* or *client,* for example).
 - Use *person* or *individual.*  
 
 If you can't write around the problem, it's OK to use a plural pronoun (*they, their,* or *them*) to 
