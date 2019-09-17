@@ -2,7 +2,7 @@
 title: Microsoft - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 07/17/2018
+ms.date: 09/17/2019
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -18,7 +18,12 @@ the Microsoft approach to diversity and inclusion
 **Exception** To avoid awkward wording, it's OK to use *Microsoft's* occasionally when you're referring 
 to the company itself rather than the trademark or brand name.  
 **Example**  
-Microsoft's privacy policies
+Microsoft's privacy policies  
+
+Include *Microsoft* the first time you mention a product or service name in body text. When you list several 
+product names, it's OK to include *Microsoft* before the first name only.
+
+**Exceptions** Never include *Microsoft* before *Bing, Skype, Xbox,* or *Windows.*  
 
 In general, focus on the customer, and avoid making Microsoft the subject of the sentence. For example, say, 
 "Learn about the options available for upgrading," not "Microsoft offers a variety of options for upgrading." It's 
