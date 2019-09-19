@@ -2,7 +2,7 @@
 title: Numbers - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 06/27/2019
+ms.date: 09/18/2019
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -154,6 +154,25 @@ all other content, follow the guidelines below.
     Use *to* in a range of times. For example, *10:00 AM to 2:00 PM.*  
 
   - Don't use *from* before a range indicated by an en dash, such as *10–15*. 
+  
+## Abbreviations
+  
+  In general, don't abbreviate *thousand, million,* and *billion* as *K, M,* and *B.* Spell out *thousand, 
+  million,* and *billion,* or use the entire number.<br />
+  **Examples**  
+  Fabrikam, Inc., employs more than 65,000 people.  
+  Total cost to the enterprise: 300,000 hours and $30 million per year
+
+  In UI, avoid the abbreviations unless space is too limited to spell out the number.
+  
+  **Global tip** Machine translation might not translate these abbreviations correctly. Also, an abbreviated form 
+  might not be available or might be longer in the target language, so allow space for expansion in localized content.
+  
+  If you must use the abbreviations, follow these guidelines:  
+  - Capitalize *K, M,* and *B.*  
+  - Don't put a space between the number and the abbreviation.  
+  - Use the decimal form of a number only if it really will save space. In particular, avoid the use of a decimal 
+  with *K*—*8.21K* has the same number of characters as *8,210.*   
 
 **See also**  
 [Date and time term collection](~/a-z-word-list-term-collections/term-collections/date-time-terms.md)  
