@@ -2,7 +2,7 @@
 title: What's new? - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 9/17/2019
+ms.date: 9/18/2019
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -14,6 +14,7 @@ This table shows a history of recent updates to the *Microsoft Writing Style Gui
 
 |     **Date**      |                                                                  **Article**                                                                   |                                                                         **Change**                                                                          |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   September 18, 2019   |        [Numbers](~/numbers.md)                         |                                      Added guidelines for using *K, M,* and *B* as abbreviations for *thousand, million,* and *billion.*                                                                 |
 |   September 17, 2019   |        [Microsoft](~/a-z-word-list-term-collections/m/microsoft.md)                         |                                      Added a guideline about when to include *Microsoft* in references to product names.                                                                 |
 |   September 13, 2019   |        [Bias-free communication](~/bias-free-communication.md)<br />[Nouns and pronouns](~/grammar/nouns-pronouns.md)                         |                                    Clarified and expanded the guidelines for gender-neutral writing.                                                                          |
 |   August 16, 2019   |        [registry, registry settings](~/a-z-word-list-term-collections/r/registry-registry-settings.md)                         |                                      Updated the examples.                                                                                         |
