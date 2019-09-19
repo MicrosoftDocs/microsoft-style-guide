@@ -9,4 +9,4 @@ ms.prod: non-product-specific
 
 # billion, B
 
-**See** [Numbers](~numbers.md)
+**See** [Numbers](~/numbers.md)
