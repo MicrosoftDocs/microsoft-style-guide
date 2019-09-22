@@ -2,7 +2,7 @@
 title: Mouse and mouse interaction terms - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 11/27/2018
+ms.date: 9/21/2019
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -27,6 +27,7 @@ When you need to talk specifically about the mouse, mouse interactions, or the p
 |    **hover over, point to**    |    To describe moving the mouse pointer over an area of the UI without selecting it, use *hover over* or *point to,* as appropriate for your audience. Use *hover* or *hovering* as the adjective and noun form.<br />**Examples**<br > In Microsoft Edge, when you hover over a link, the URL appears in the lower-left corner. <br />The hover image is displayed when the user points to the button. <br />To program the pop-up action that's triggered by hovering …. <br />Pop-up windows that appear on hover <br /><br />Don't use *mouse over* or *move the mouse pointer to.* It's OK to use *move the mouse pointer to* in content that teaches beginning skills.                       |
 | **press and hold** |                                                                             Use only in content that teaches beginning skills.                                                                              |
 |  **right-click**   |                                    Use to describe clicking an item by using the secondary mouse button (the right button by default, but the user can customize this).                                     |
+|  **scroll**   |                                    Use only in content that teaches beginning skills. In other content, use a phrase such as *move through.*                                     |
 
 ## Devices
 
