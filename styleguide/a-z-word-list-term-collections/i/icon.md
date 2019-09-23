@@ -26,6 +26,6 @@ It's OK to use the word *icon:*
   - In content that teaches beginning Windows skills. 
   - When you don't have an image of the icon. 
   - In discussions about the icon itself. 
-  - When you need to differentiate between the **Start** icon and the **Start** button (a rare occurrence)​. 
+  - When you need to differentiate between the Start icon and the Start button (a rare occurrence)​. 
 
 **Example**<br />Most apps have their own settings. Look for this icon ![](media/icon/10090115.PNG) in the app.

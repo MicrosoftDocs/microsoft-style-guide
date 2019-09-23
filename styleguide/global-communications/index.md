@@ -32,13 +32,14 @@ English content and for streamlining localization and machine
 translation. You'll find a few exceptions to general Microsoft voice and
 style guidance. This section covers:
 
-  - [Writing tips](~/global-communications/writing-tips.md)
   - [Art](~/global-communications/art.md)
-  - [Examples and scenarios](~/global-communications/examples-scenarios.md)
   - [Currency](~/global-communications/currency.md)
-  - [Time and place](~/global-communications/time-place.md)
+  - [Examples and scenarios](~/global-communications/examples-scenarios.md)
   - [Names and contact information](~/global-communications/names-contact-information.md)
+  - [Time and place](~/global-communications/time-place.md)
   - [Web, software, and HTML considerations](~/global-communications/web-software-html-considerations.md)
+  - [Writing tips](~/global-communications/writing-tips.md)
+
 
 ## Learn more about worldwide audiences
 
