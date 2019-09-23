@@ -12,7 +12,7 @@ ms.prod: non-product-specific
 Use *pin* to refer to placing an item, such as a tile, an app, or a command, in a given area of the UI, so it's always accessible in that area. Use *unpin* to describe removing a pinned item.
 
 **Examples**  
-When you pin an app, it's added to the **Start** menu as a new tile.  
+When you pin an app, it's added to the Start menu as a new tile.  
 Pin important messages to the top of the message list, and unpin them when you're done with them.
 
 **Pin apps to Start**
