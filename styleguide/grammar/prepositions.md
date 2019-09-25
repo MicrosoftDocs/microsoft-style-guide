@@ -28,4 +28,7 @@ prepositional phrases are hard to read and easy to misinterpret.
 
 ## Placement in the sentence
 
-It’s OK to end a sentence with a preposition when it improves readability.
+It's OK to end a sentence with a preposition when it improves readability.  
+**Examples**  
+Use a different instrumentation key for each environment that your application runs in.  
+Specify which event hub you want to send the data to.  
