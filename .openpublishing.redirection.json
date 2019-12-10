@@ -1,0 +1,9 @@
+{
+  "redirections": [
+    {
+      "source_path": "styleguide/index.md",
+      "redirect_url": "/style-guide/welcome/",
+      "redirect_document_id": false
+    }
+  ]
+}
