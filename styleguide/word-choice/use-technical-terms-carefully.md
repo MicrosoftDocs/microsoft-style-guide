@@ -37,13 +37,13 @@ you're writing for an industry or profession, use the words your
 audience uses. First, verify Microsoft and industry usage. Check
 the A–Z word list and [*The American Heritage Dictionary*](https://ahdictionary.com/). Then look to authoritative industry resources: 
 
-  - Terminology websites, such as [Webopedia.com](http://www.webopedia.com/), [BusinessDictionary.com](http://www.businessdictionary.com/), and [Whatis.TechTarget.com](http://whatis.techtarget.com/).  
+  - Terminology websites, such as [Webopedia.com](https://www.webopedia.com/), [BusinessDictionary.com](https://www.businessdictionary.com/), and [Whatis.TechTarget.com](https://whatis.techtarget.com/).  
   
-  - Industry standard sites, such as [W3C](http://www.w3.org/standards/xml) and [IEEE](http://www.ieee.org/index.html).  
+  - Industry standard sites, such as [W3C](https://www.w3.org/standards/xml) and [IEEE](https://www.ieee.org/index.html).  
   
   - Industry research organizations, such as Forrester Research and Gartner.  
   
-  - Domain books, such as the *[PMI Lexicon of Project Management Terms](http://www.pmi.org/PMBOK-Guide-and-Standards/PMI-lexicon.aspx)* or the [FDIC List of Abbreviations and Glossary of Terms (Appendix B)](https://www.fdic.gov/bank/historical/managing/documents/history-consolidated.pdf).
+  - Domain books, such as the *[PMI Lexicon of Project Management Terms](https://www.pmi.org/PMBOK-Guide-and-Standards/PMI-lexicon.aspx)* or the [FDIC List of Abbreviations and Glossary of Terms (Appendix B)](https://www.fdic.gov/bank/historical/managing/documents/history-consolidated.pdf).
 
 ## Don’t create a new term if one already exists
 
@@ -63,4 +63,4 @@ out whether other groups are using it, and how.
 
   - First, check [*The American Heritage Dictionary*](https://ahdictionary.com/).  
   
-  - Research the term on *edited* industry websites, such as [Forrester Research](https://www.forrester.com/home/), [Gartner](http://www.gartner.com/technology/home.jsp), [CNET](http://www.cnet.com/), [Recode](https://www.recode.net/), [Mashable](http://mashable.com/), [TechCrunch](http://techcrunch.com/), [WIRED](http://www.wired.com/), [Gizmodo](http://gizmodo.com/), [HuffPost Tech](http://www.huffingtonpost.com/tech/), and [Engadget](https://www.engadget.com/). For emerging industry terminology, check reputable business and trade websites, such as [Fast Company](http://www.fastcompany.com/), [Entrepreneur](http://www.entrepreneur.com/magazine/index.html), [Business Insider](http://www.businessinsider.com/), [Healthcare IT News](http://www.healthcareitnews.com/), [American Banker](http://www.americanbanker.com/bank-technology/), and [GameSpot](http://www.gamespot.com/news/).
+  - Research the term on *edited* industry websites, such as [Forrester Research](https://www.forrester.com/home/), [Gartner](https://www.gartner.com/technology/home.jsp), [CNET](https://www.cnet.com/), [Recode](https://www.recode.net/), [Mashable](https://mashable.com/), [TechCrunch](https://techcrunch.com/), [WIRED](https://www.wired.com/), [Gizmodo](https://gizmodo.com/), [HuffPost Tech](https://www.huffingtonpost.com/tech/), and [Engadget](https://www.engadget.com/). For emerging industry terminology, check reputable business and trade websites, such as [Fast Company](https://www.fastcompany.com/), [Entrepreneur](https://www.entrepreneur.com/magazine/index.html), [Business Insider](https://www.businessinsider.com/), [Healthcare IT News](https://www.healthcareitnews.com/), [American Banker](https://www.americanbanker.com/bank-technology/), and [GameSpot](https://www.gamespot.com/news/).

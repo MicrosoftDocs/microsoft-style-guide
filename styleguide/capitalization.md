@@ -40,7 +40,7 @@ Follow these guidelines in Microsoft content:
     Country/Region  
     Turn on the On/Off toggle.  
 
-**Learn more** To learn more about capitalization, see [*The Chicago Manual of Style*](http://www.chicagomanualofstyle.org/home.html).  If you're not sure whether to capitalize a term, check the A–Z word list and [*The American Heritage Dictionary*](https://ahdictionary.com/). 
+**Learn more** To learn more about capitalization, see [*The Chicago Manual of Style*](https://www.chicagomanualofstyle.org/home.html).  If you're not sure whether to capitalize a term, check the A–Z word list and [*The American Heritage Dictionary*](https://ahdictionary.com/). 
 
 For information about capitalizing UI labels in instructions, see [Formatting text in instructions](~/procedures-instructions/formatting-text-in-instructions.md). 
 
