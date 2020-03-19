@@ -22,7 +22,7 @@ Keywords are the terms customers use when they search for content. To help custo
 
 The search terms that customers use aren't necessarily the same terms you would use when searching. So before you write, identify the keywords that you think customers will use to find your content. These resources can help: 
 
-  - [Bing Keyword Research tool](http://www.bing.com/toolbox/keywords/)
+  - [Bing Keyword Research tool](https://www.bing.com/toolbox/keywords/)
   - [Google Adwords Keyword Planner](https://adwords.google.co.uk/KeywordPlanner?sourcedoc=%7b0C43A47E-BC20-44B3-A1E7-4FDC06EAF830%7d&file=Video%20Production%20Guide.docx&action=default)
   - [Google Analytics](https://analytics.google.com/analytics/web/)
 

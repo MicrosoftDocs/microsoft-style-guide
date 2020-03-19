@@ -51,9 +51,9 @@ follow local news.
 **Use these resources:**
 
   - [Microsoft International Style Guides](https://www.microsoft.com/en-us/language/StyleGuides)
-  - [Plain Language Action and Information Network (United States)](http://www.plainlanguage.gov/)
-  - [World Time Zones](http://www.worldtimeserver.com/)
-  - [W3C Internationalization Activity](http://www.w3.org/international/)
+  - [Plain Language Action and Information Network (United States)](https://www.plainlanguage.gov/)
+  - [World Time Zones](https://www.worldtimeserver.com/)
+  - [W3C Internationalization Activity](https://www.w3.org/international/)
 
 **Read more:**
 

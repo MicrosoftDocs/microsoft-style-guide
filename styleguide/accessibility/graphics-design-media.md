@@ -23,7 +23,7 @@ image maps.
 
 **Keep text within a rectangular grid** for visibility and ease of scanning. 
 
-**Format tables** according to the [Web Content Accessibility Guidelines (WCAG) 2.0](http://www.w3.org/TR/WCAG20/). 
+**Format tables** according to the [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/). 
 
 **If you use frames,** provide alternative pages without them. 
 

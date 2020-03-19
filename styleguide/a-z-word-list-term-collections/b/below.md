@@ -15,7 +15,7 @@ Don't use as an adjective preceding a noun (*the below section*) or following a 
 
 **Examples**  
 Use the following code to display information about the database.   
-See [Installation instructions](http://example.com/).  
+See [Installation instructions](https://example.com/).  
 See Installation instructions, later in this article.  
 
 **See also** [above](~/a-z-word-list-term-collections/a/above.md), [later](~/a-z-word-list-term-collections/l/later.md)
