@@ -9,7 +9,7 @@ ms.prod: non-product-specific
 
 # Security terms
 
-This section describes usage for specific security terms. For definitions of security terms, see the [Microsoft Malware Protection Glossary](http://www.microsoft.com/security/portal/mmpc/shared/glossary.aspx). 
+This section describes usage for specific security terms. For definitions of security terms, see the [Microsoft Malware Protection Glossary](https://www.microsoft.com/security/portal/mmpc/shared/glossary.aspx). 
 
 
 |            **Term**             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  **Usage**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |

@@ -11,7 +11,7 @@ ms.prod: non-product-specific
 
 This
 section covers usage and abbreviations for a variety of terms related
-to measurement. For other units of measure not covered here, see [*The Chicago Manual of Style*](http://www.chicagomanualofstyle.org/home.html).
+to measurement. For other units of measure not covered here, see [*The Chicago Manual of Style*](https://www.chicagomanualofstyle.org/home.html).
 
   - Use
     numerals for measurements of distance, temperature, volume, size,
