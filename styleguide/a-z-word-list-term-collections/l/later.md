@@ -18,6 +18,7 @@ each applicable version instead.
 
 **Examples**  
 Internet Explorer 7 or later, Firefox 3.6 or later  
-Windows 7, Windows 8, Windows 8.1, and Windows 10
+Windows 7, Windows 8, Windows 8.1, Windows 10, and later. 
+Download and install the Power BI publisher for Excel on desktop versions of Microsoft Excel 2010 with SP1 and later. 
 
 **See also** [earlier](~/a-z-word-list-term-collections/e/earlier.md)
