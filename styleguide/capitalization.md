@@ -39,6 +39,8 @@ Follow these guidelines in Microsoft content:
     **Examples**  
     Country/Region  
     Turn on the On/Off toggle.  
+    
+  - For information on capitalization in hyphenated compound words see [Hyphens](~/styleguide/punctuation/dashes-hyphens/hyphens.md). 
 
 **Learn more** To learn more about capitalization, see [*The Chicago Manual of Style*](https://www.chicagomanualofstyle.org/home.html).  If you're not sure whether to capitalize a term, check the A–Z word list and [*The American Heritage Dictionary*](https://ahdictionary.com/). 
 
@@ -101,7 +103,7 @@ On the rare occasions when title-style capitalization is required, follow these 
   - Capitalize the word after a hyphen if it would be capitalized without the hyphen or it's the last word.  
     **Examples**  
     Self-Paced Training for Microsoft Visual Studio  
-    Microsoft Management Console: Five Essential Snap-Ins  
+    Microsoft Management Console: Five Essential Snap-ins  
     Five Essential Snap-ins for Microsoft Management Console  
     Copy-and-Paste Support in Windows Apps  
     
