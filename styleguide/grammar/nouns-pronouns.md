@@ -69,8 +69,10 @@ Greek that retain their Latin or Greek endings (typically *-a, -us, -um, -on, -i
 ## Pronouns and gender
 
 Don't use gendered pronouns in generic references. Instead, rewrite—for example, use the second person (*you*). 
-Or refer to a person's role (*customer, employee,* or *client*). It's OK to use gendered pronouns (*he* or *she*) when 
+Or refer to a person's role (*customer, employee,* or *client*). It's OK to use *he*,*she*, or *they* when 
 you're writing about real people who use those pronouns themselves.  
+
+*They* can be used as a non-binary pronoun for a singular person instead of a binary pronoun (*she* or *he*). 
 
 For more guidelines about how to write using gender-neutral pronouns, see [Bias-free communication](~/bias-free-communication.md).
 
