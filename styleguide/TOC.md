@@ -530,6 +530,7 @@
 ### [move](a-z-word-list-term-collections/m/move.md)
 ### [MPEG](a-z-word-list-term-collections/m/mpeg.md)
 ### [multi-](a-z-word-list-term-collections/m/multi.md)
+### [multifactor authentication](a-z-word-list-term-collections/m/multifactor-authentication.md) 
 ### [multiple selection](a-z-word-list-term-collections/m/multiple-selection.md)
 ### [multiplication sign (×)](a-z-word-list-term-collections/m/multiplication-sign.md)
 ### [multitask, multitasking](a-z-word-list-term-collections/m/multitask-multitasking.md)
