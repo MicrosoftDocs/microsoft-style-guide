@@ -59,7 +59,7 @@ all other content, follow the guidelines below.
 
 ## Commas in numbers
 
-  Use commas in numbers that have four or more digits, regardless of how the numbers appear in the UI.<br />
+  Use commas in numbers that have four or more digits.<br />
   **Examples**  
   $1,024  
   1,093 MB  
