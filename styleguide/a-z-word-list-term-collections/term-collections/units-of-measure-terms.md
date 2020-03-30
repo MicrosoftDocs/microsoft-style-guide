@@ -40,7 +40,7 @@ to measurement. For other units of measure not covered here, see [*The Chicago M
     
   - Use commas in numbers that have four or more digits, regardless of how the numbers appear in the UI: 1,093 MB.  
     **Exceptions**  
-    For pixel measurements and baud, use commas only when the number has five or more digits: *1920 × 1080 pixels, 
+    For years, pixels, and baud use commas only when the number has five or more digits: *1920 × 1080 pixels, 
     10,240 × 4320 pixels, 9600 baud, 14,400 baud.*  
     Don’t use commas after the decimal point in decimal fractions.
     
@@ -81,7 +81,7 @@ to measurement. For other units of measure not covered here, see [*The Chicago M
 ||pixels per inch|It’s OK to use the acronym *PPI* in content about creating digital applications, when space is limited, and when you’re certain that readers will understand it. <br /><br />**Examples**<br />72 pixels per inch  <br />At 72 PPI, ….|
 ||megapixels|MP|
 |**Print and display resolution**|dots per inch|It’s OK to use the acronym *dpi* to refer to print and display resolution when you’re certain that readers will understand it.|
-|**Speed and frequency**|baud|Don't abbreviate. Don't use *baud rate*—it's redundant. When designating baud, use commas when the number has five (not four) or more digits.|
+|**Speed and frequency**|baud|Don't abbreviate. Don't use *baud rate*—it's redundant. When designating baud, use commas when the number has five (not four) or more digits. <br /><br />**Examples**<br /> 2400 baud <br/> In 1991, 14.4 K modem had a 2400 baud. |
 ||gigahertz|GHz. Spell out on the first mention. After that, it’s OK to use the abbreviation as a measurement with numerals.|
 ||Hertz|Hz. Spell out on the first mention. After that, it’s OK to use the abbreviation as a measurement with numerals. Capitalize the word and the abbreviation.|
 ||kilohertz|KHz. Spell out on the first mention. After that, it’s OK to use the abbreviation as a measurement with numerals.|
