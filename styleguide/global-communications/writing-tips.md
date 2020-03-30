@@ -9,8 +9,7 @@ ms.prod: non-product-specific
 
 # Writing tips
 
-For
-the most part, content that’s easy to read tends to be easy to localize
+Content that’s easy to read tends to be easy to localize
 and translate. If you follow the writing recommendations in this style
 guide, you’re off to a great start. Pay particular attention to:
 
@@ -20,7 +19,7 @@ guide, you’re off to a great start. Pay particular attention to:
 
 ## Tips for all global content
 
-These practices will help localizers and non-native English speakers understand your writing.
+These practices will help localizers and customers. 
 
 **Write short, simple sentences.**
 Punctuating a sentence with more than a few commas and end punctuation
@@ -46,7 +45,7 @@ The empty container
 **Avoid idioms, colloquial expressions, and culture-specific references.**
 They can be confusing for non-native English speakers and hard to
 localize. Consider the worldwide implications of what you write.
-Worldwide customers may not know much about the history and culture of
+Customers in other locales may not know much about the history and culture of
 your country. 
 
 **Avoid modifier stacks.** Long chains of modifying words are confusing even to native English speakers. For example, say "Your migration will proceed more smoothly if you have a project plan that's well thought out," not "With an extremely well thought-out Windows migration project plan, your migration will go more smoothly."
@@ -96,4 +95,4 @@ Configure limits for the backup. These limits should be based on the amount of s
 **Example**  
 Configure limits for the backup. **Base the limits** on the amount of storage space available.
 
-**Use only common abbreviations,** such as *USB.* 
+**Use only common abbreviations,** such as *USB*, and abbreviations that are defined in glossaries. Check with a localization expert to find our if an acronym is defined.  
