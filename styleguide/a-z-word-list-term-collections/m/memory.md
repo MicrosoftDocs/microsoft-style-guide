@@ -20,9 +20,9 @@ Here's what it takes to upgrade to Windows 10 on your PC or tablet:
 
   - **Latest OS**: Make sure you're running the latest version—either Windows 7 SP1 or Windows 8.1 Update.
     
-      - [Find out which version you're running ](http://windows.microsoft.com/en-us/windows/which-operating-system)
+      - [Find out which version you're running ](https://windows.microsoft.com/en-us/windows/which-operating-system)
     
-      - Need the latest version? Download [Windows 7 SP1](http://windows.microsoft.com/en-us/windows7/install-windows-7-service-pack-1) or [Windows 8.1 Update.](http://windows.microsoft.com/en-us/windows-8/update-from-windows-8-tutorial)
+      - Need the latest version? Download [Windows 7 SP1](https://windows.microsoft.com/en-us/windows7/install-windows-7-service-pack-1) or [Windows 8.1 Update.](https://windows.microsoft.com/en-us/windows-8/update-from-windows-8-tutorial)
 
   - **Processor**: 1 gigahertz (GHz) or faster processor or SoC
 

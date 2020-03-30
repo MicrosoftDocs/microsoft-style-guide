@@ -9,7 +9,7 @@ ms.prod: non-product-specific
 
 # Hyphens
 
-For information about hyphenating specific technology words, see the A–Z word list. For information about hyphenating common words, see [*The American Heritage Dictionary*](https://ahdictionary.com/) and [*The Chicago Manual of Style*](http://www.chicagomanualofstyle.org/home.html).
+For information about hyphenating specific technology words, see the A–Z word list. For information about hyphenating common words, see [*The American Heritage Dictionary*](https://ahdictionary.com/) and [*The Chicago Manual of Style*](https://www.chicagomanualofstyle.org/home.html).
 
 ## Predicate adjectives
 
@@ -130,7 +130,7 @@ When adding a prefix to a stem word results in a double vowel and each vowel is 
 reenter  
 cooperate  
 
-For more information about using prefixes, see [*The Chicago Manual of Style*](http://www.chicagomanualofstyle.org/home.html).
+For more information about using prefixes, see [*The Chicago Manual of Style*](https://www.chicagomanualofstyle.org/home.html).
 
 ## Capitalization in hyphenated compound words
 
