@@ -143,5 +143,5 @@ Capitalize any part of a hyphenated compound word that would be capitalized if
 |E-Book| Bisson, Guillermo. *The App E-Book*. Redmond, WA: Lucerne Publishing, 2015.|
 | Add-ins | Bisson, Guillermo. *Programming Office 365 Applications, SharePoint Add-ins, and More*. Redmond, WA: Lucerne Publishing, 2015. |
 
-**See also** [Capitalization](capitalization.md).
+**See also** [Capitalization](styleguide/capitalization.md).
 
