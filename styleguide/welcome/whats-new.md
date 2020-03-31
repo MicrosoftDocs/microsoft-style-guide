@@ -18,7 +18,7 @@ This table shows a history of recent updates to the *Microsoft Writing Style Gui
 |   March 31, 2020   |        [Hyphens](/styleguide/punctuation/dashes-hyphens/hyphens.md)               |                    Updated list of examples.                           |
 |   March 31, 2020   |        [Later](/styleguide/a-z-word-list-term-collections/l/later.md)               |                    Updated list of examples.                           |
 |   March 31, 2020   |        [Multifactor authentication](/styleguide/a-z-word-list-term-collections/m/multifactor-authentication.md)               |                    Added guidance for *multifactor authentication*.                           |
-|   March 31, 2020   |        [Nouns and pronouns](styleguide/grammar/nouns-pronouns.md)               |                    Added guidance for *they*.                           |
+|   March 31, 2020   |        [Nouns and pronouns](/styleguide/grammar/nouns-pronouns.md)               |                    Added guidance for *they*.                           |
 |   March 31, 2020   |        [Numbers](/styleguide/numbers.md)               |                    Updated guidance on comma usage.                           |
 |   March 31, 2020   |        [runs vs. runs on](/styleguide/a-z-word-list-term-collections/r/runs-vs-runs-on.md)               |                    Updated list of examples.                           |
 |   March 31, 2020   |        [Units of measure terms ](/styleguide/a-z-word-list-term-collections/term-collections/units-of-measure-terms.md)               |                    Updated examples on Speed frequency. Also updated comma exceptions and examples.                           |
