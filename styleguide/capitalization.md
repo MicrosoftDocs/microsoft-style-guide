@@ -38,11 +38,12 @@ Follow these guidelines in Microsoft content:
   - When words are joined by a slash, capitalize the word after the slash if the word before the slash is capitalized.  
     **Examples**  
     Country/Region  
-    Turn on the On/Off toggle.  
-    
-  - For information on capitalization in hyphenated compound words see [Hyphens](~/styleguide/punctuation/dashes-hyphens/hyphens.md). 
+    Turn on the On/Off toggle. 
 
-**Learn more** To learn more about capitalization, see [*The Chicago Manual of Style*](https://www.chicagomanualofstyle.org/home.html).  If you're not sure whether to capitalize a term, check the A–Z word list and [*The American Heritage Dictionary*](https://ahdictionary.com/). 
+  - For information on capitalization in hyphenated compound words see [Hyphens](punctuation/dashes-hyphens/hyphens.md).
+  
+**Learn more** To learn more about capitalization, see [*The Chicago Manual of Style*](http://www.chicagomanualofstyle.org/home.html).  If you're not sure whether to capitalize a term, check the A–Z word list and [*The American Heritage Dictionary*](https://ahdictionary.com/). 
+
 
 For information about capitalizing UI labels in instructions, see [Formatting text in instructions](~/procedures-instructions/formatting-text-in-instructions.md). 
 
