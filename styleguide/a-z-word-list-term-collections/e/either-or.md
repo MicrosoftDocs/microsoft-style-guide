@@ -9,4 +9,4 @@ ms.prod: non-product-specific
 
 # either/or
 
-Don't use. Use a complete phrase, such as *either close the document or exit the program*.
+Don't use. Use a complete phrase, such as *either close the document or close the program*.

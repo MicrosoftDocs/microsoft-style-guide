@@ -104,7 +104,7 @@ On the rare occasions when title-style capitalization is required, follow these 
   - Capitalize the word after a hyphen if it would be capitalized without the hyphen or it's the last word.  
     **Examples**  
     Self-Paced Training for Microsoft Visual Studio  
-    Microsoft Management Console: Five Essential Snap-ins  
+    Microsoft Management Console: Five Essential Snap-Ins  
     Five Essential Snap-ins for Microsoft Management Console  
     Copy-and-Paste Support in Windows Apps  
     
