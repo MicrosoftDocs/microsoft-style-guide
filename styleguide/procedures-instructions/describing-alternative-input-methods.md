@@ -85,7 +85,7 @@ This table describes two ways to save a file.
 | **To** | **Do this** |
 |---|---|
 | Save changes to the file and continue working. | On the **File** menu, click **Save**. |
-| Save changes to the file and exit the program. | On the **File** menu, click **Exit**. If a dialog box asks whether you want to save changes, click **Yes**. |
+| Save changes to the file and close the program. | On the **File** menu, click **Exit**. If a dialog box asks whether you want to save changes, click **Yes**. |
 
 **If one step has an alternative,** make
 that alternative a separate paragraph in the step. In a
