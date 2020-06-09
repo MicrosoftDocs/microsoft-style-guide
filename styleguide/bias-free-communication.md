@@ -86,7 +86,8 @@ countries with states or continents.
 |--------------------|--------------------------|
 | master/subordinate |       master/slave       |
 | perimeter network  | demilitarized zone (DMZ) |
-|  stop responding   |           hang           |
+| stop responding    |           hang           |
+| allow/block list   |     white/black list     |
 
 **Focus on people, not disabilities.** For example, talk about readers who are blind or have low vision and customers with limited dexterity. Don't use words that imply pity, such as *stricken with* or *suffering from.* Don't mention a disability unless it's relevant. For more information, see the [Accessibility term collection](~/a-z-word-list-term-collections/term-collections/accessibility-terms.md). 
 
