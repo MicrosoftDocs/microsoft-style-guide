@@ -37,4 +37,4 @@ Here's some of what's new in the *Microsoft Writing Style Guide:*
 
 We welcome your feedback about the *Microsoft Writing Style Guide.* Contact us at <msstyle@microsoft.com>. 
 
-&copy; 2019 Microsoft. All rights reserved.
+&copy; 2020 Microsoft. All rights reserved.
