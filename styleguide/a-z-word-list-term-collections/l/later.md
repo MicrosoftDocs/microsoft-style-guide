@@ -9,7 +9,7 @@ ms.prod: non-product-specific
 
 # later
 
-If possible, use a hyperlink to help readers find information elsewhere in the content. If you can't use a hyperlink, use *later* instead of *below* in cross-references such as *later in this article.*
+If possible, use a link to help readers find information elsewhere in the content. If you can't use a link, use *later* instead of *below* in cross-references such as *later in this article.*
 
 It's OK to use or later to refer to multiple versions of software. Keep in mind that the phrases and later and or later might imply that the functionality or feature discussed will be included or supported in all future releases. If you're not sure, list each applicable version instead.
 
