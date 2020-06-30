@@ -11,7 +11,7 @@ ms.prod: non-product-specific
 
 Don't use to mean *later*. 
 
-Don't use as an adjective preceding a noun (*the below section*) or following a noun (*the code below*). Use a hyperlink, or use *later* or *the* *following*. 
+Don't use as an adjective preceding a noun (*the below section*) or following a noun (*the code below*). Use a link, or use *later* or *the* *following*. 
 
 **Examples**  
 Use the following code to display information about the database.   
