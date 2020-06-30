@@ -2,7 +2,7 @@
 title: What's new? - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 4/29/2020
+ms.date: 6/30/2020
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -14,6 +14,17 @@ This table shows a history of recent updates to the *Microsoft Writing Style Gui
 
 |     **Date**      |                                                                  **Article**                                                                   |                                                                         **Change**                                                                          |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   June 30, 2020   |        [above](~/a-z-word-list-term-collections/a/above.md)           |                                   Updated guidance by replacing *hyperlink* with *link*.
+|   June 30, 2020   |        [below](~/a-z-word-list-term-collections/b/below.md)           |                                   Updated guidance by replacing *hyperlink* with *link*.
+|   June 30, 2020   |        [destination](~/a-z-word-list-term-collections/d/destination.md)           |                                   Updated guidance by replacing *hyperlink* with *link*.
+|   June 30, 2020   |        [earlier](~/a-z-word-list-term-collections/e/earlier.md)           |                                   Updated guidance by replacing *hyperlink* with *link*.
+|   June 30, 2020   |        [Formatting punctuation](~/punctuation/formatting-punctuation.md)           |                                   Updated guidance by replacing *hyperlink* with *link*.
+|   June 30, 2020   |        [hot link](~/a-z-word-list-term-collections/h/hot-link.md)           |                                   Updated guidance by replacing *hyperlink* with *link*.
+|   June 30, 2020   |        [hot spot, hotspot](~/a-z-word-list-term-collections/h/hot-spot-hotspot.md)           |                             Updated guidance by replacing *hyperlink* with *link*.
+|   June 30, 2020   |        [jump](~/a-z-word-list-term-collections/j/jump.md)           |                                   Updated guidance by replacing *hyperlink* with *link*.
+|   June 30, 2020   |        [later](~/a-z-word-list-term-collections/l/later.md)           |                                   Updated guidance by replacing *hyperlink* with *link*.
+|   June 30, 2020   |        [navigate](~/a-z-word-list-term-collections/n/navigate.md)           |                                   Updated guidance by replacing *hyperlink* with *link*.
+|   June 30, 2020   |        [shortcut, shortcut menu](~/a-z-word-list-term-collections/s/shortcut-shortcut-menu.md)           |                                   Updated guidance by replacing *hyperlink* with *link*.
 |   April 29, 2020   |        [Describing alternative input methods](~/procedures-instructions/describing-alternative-input-methods.md)           |                    Updated example.
 |   April 29, 2020   |        [either/or](~/a-z-word-list-term-collections/e/either-or.md)           |                    Updated example.
 |   April 29, 2020   |        [Formatting text instructions](~/procedures-instructions/formatting-text-in-instructions.md)           |                    Revised table. Clarified wording for *Dialogue boxes* entry.  
