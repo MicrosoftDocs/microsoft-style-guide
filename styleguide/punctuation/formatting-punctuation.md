@@ -15,7 +15,7 @@ In general, format punctuation in the same font style as the main content of a s
 
 In instructions
 that reference elements such as commands,
-options, keywords, placeholders, hyperlinks, pop-up text, and
+options, keywords, placeholders, links, pop-up text, and
 user input:
 
   - If the punctuation
