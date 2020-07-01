@@ -9,7 +9,7 @@ ms.prod: non-product-specific
 
 # shortcut, shortcut menu
 
-*Shortcut* is one word as an adjective or a noun. Don't use as a verb. Don't use as a synonym for *hyperlink.*
+*Shortcut* is one word as an adjective or a noun. Don't use as a verb. Don't use as a synonym for *link.*
 
 Use *shortcut menu* only if it helps the customer locate the item in the UI. Most of the time, just describe what the customer needs to do. 
 

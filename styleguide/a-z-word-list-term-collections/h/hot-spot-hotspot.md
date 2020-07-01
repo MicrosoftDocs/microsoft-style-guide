@@ -9,7 +9,7 @@ ms.prod: non-product-specific
 
 # hot spot, hotspot
 
-Don't use to refer to a hyperlink.
+Don't use to refer to a link.
 
 In
 content for a technical audience, use two words to refer to the

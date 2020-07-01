@@ -11,7 +11,7 @@ ms.prod: non-product-specific
 
 Don't use to describe going from place to place on the internet or an intranet. Use *browse* instead. 
 
-To describe going directly to a webpage or website, whether by entering a URL or selecting a hyperlink, use *go to*. 
+To describe going directly to a webpage or website, whether by entering a URL or selecting a link, use *go to*. 
 
 **Examples**  
 To browse the web, select any link on your home page.   
