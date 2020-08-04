@@ -79,7 +79,7 @@ countries with states or continents.
 
 **Don't use profane or derogatory terms,** such as *pimp* or *bitch.*    
 
-**Do not use terms that may carry unconscious racial bias or terms associated with military actions, politics, or historical events and eras.**
+**Don't use terms that may carry unconscious racial bias or terms associated with military actions, politics, or historical events and eras.**
 
 
 |    **Use this**    |       **Not this**       |
