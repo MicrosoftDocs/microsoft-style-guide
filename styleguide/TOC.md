@@ -491,7 +491,7 @@
 ### [management information systems](a-z-word-list-term-collections/m/management-information-systems.md)
 ### [manipulate](a-z-word-list-term-collections/m/manipulate.md)
 ### [marquee](a-z-word-list-term-collections/m/marquee.md)
-### [master/slave, master/subordinate](a-z-word-list-term-collections/m/master-slave-master-subordinate.md)
+### [master/slave](a-z-word-list-term-collections/m/master-slave.md)
 ### [mathematical](a-z-word-list-term-collections/m/mathematical.md)
 ### [matrix, matrices](a-z-word-list-term-collections/m/matrix-matrices.md)
 ### [Maximize button, maximize](a-z-word-list-term-collections/m/maximize-button-maximize.md)
