@@ -79,12 +79,12 @@ countries with states or continents.
 
 **Don't use profane or derogatory terms,** such as *pimp* or *bitch.*    
 
-**Avoid culturally sensitive terms,** such as the terms associated with military or political actions or other historic events and eras.
+**Do not use terms that may carry unconscious racial bias or terms associated with military actions, politics, or historical events and eras.**
 
 
 |    **Use this**    |       **Not this**       |
 |--------------------|--------------------------|
-| master/subordinate |       master/slave       |
+| primary/subordinate |       master/slave       |
 | perimeter network  | demilitarized zone (DMZ) |
 |  stop responding   |           hang           |
 
