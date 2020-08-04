@@ -14,6 +14,10 @@ This table shows a history of recent updates to the *Microsoft Writing Style Gui
 
 |     **Date**      |                                                                  **Article**                                                                   |                                                                         **Change**                                                                          |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   August 4, 2020   |        [Bias-free communication](~/bias-free-communication.md)           |                                   Updated guidance regarding unconcsious racial bias and associated examples.
+|   August 4,  |        [blacklist](~/a-z-word-list-term-collections/b/blacklist.md)           |                                   Updated guidance regarding usage and examples.
+|   August 4, 2020   |        [master/slave, master/subordinate](~/a-z-word-list-term-collections/m/master-slave.md)           |                                   Updated topic name, guidance, and examples.
+|   August 4, 2020  |        [whitelist](~/a-z-word-list-term-collections/w/whitelist.md)           |                                   Updated guidance regarding usage and examples.
 |   June 30, 2020   |        [above](~/a-z-word-list-term-collections/a/above.md)           |                                   Updated guidance by replacing *hyperlink* with *link*.
 |   June 30, 2020   |        [below](~/a-z-word-list-term-collections/b/below.md)           |                                   Updated guidance by replacing *hyperlink* with *link*.
 |   June 30, 2020   |        [destination](~/a-z-word-list-term-collections/d/destination.md)           |                                   Updated guidance by replacing *hyperlink* with *link*.
