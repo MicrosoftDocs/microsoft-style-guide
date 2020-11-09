@@ -137,6 +137,7 @@ For more information about using prefixes, see [*The Chicago Manual of Style*](h
 Capitalize any part of a hyphenated compound word that would be capitalized if there were no hyphen. 
 
 **Examples**  
+
 | Compound word       | Example sentence |
 | ------------- |-------------|
 | Customer-friendly | Customer-friendly content is brief, accurate, and to the point.|
