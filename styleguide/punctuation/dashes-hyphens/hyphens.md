@@ -137,10 +137,10 @@ For more information about using prefixes, see [*The Chicago Manual of Style*](h
 Capitalize any part of a hyphenated compound word that would be capitalized if there were no hyphen. 
 
 **Examples**  
-| Compound word       | Example sentence |
-| ------------- |-------------|
-| Customer-friendly | Customer-friendly content is brief, accurate, and to the point.|
-|E-Book| Bisson, Guillermo. *The App E-Book*. Redmond, WA: Lucerne Publishing, 2015.|
+| Compound word | Example sentence | 
+| ------------- |-------------| 
+| Customer-friendly | Customer-friendly content is brief, accurate, and to the point.| 
+| E-Book| Bisson, Guillermo. *The App E-Book*. Redmond, WA: Lucerne Publishing, 2015.| 
 | Add-ins | Bisson, Guillermo. *Programming Office 365 Applications, SharePoint Add-ins, and More*. Redmond, WA: Lucerne Publishing, 2015. |
 
 **See also** [Capitalization](/styleguide/capitalization.md).
