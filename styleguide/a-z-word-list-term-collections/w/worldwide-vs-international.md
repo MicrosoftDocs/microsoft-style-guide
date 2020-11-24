@@ -2,29 +2,21 @@
 title: worldwide vs. international - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 01/19/2018
+ms.date: 11/24/2020
 ms.topic: article
 ms.prod: non-product-specific
 ---
 
 # worldwide vs. international
 
-Use *worldwide* to describe something that encompasses all regions or involves the entire world.
+Use *worldwide* to describe something that encompasses all regions or involves the entire world. It's OK to use *global* to mean *worldwide*. 
 
 **Examples**  
 Get one month of free, worldwide calling.   
 OneNote Mobile for Android is now available in more than 20 markets worldwide.
+Ensuring globalo acceptability in the usability of our products along with local relevance (world readiness). 
 
-Use *international* to describe something that:
-
-  - Involves two or more countries or regions.
-  - Crosses national boundaries.
-
-**Example**  
-International
-Fonts and Text Display provides platform support for international
-fonts and text to meet the typography needs of Windows customers
-worldwide.
+Don't use *international* in the context of something that encompasses the entire world as it can imply a US-centric worldview. 
 
 Don’t use *international* to mean “outside the United States.” Instead, refer to a specific region or use wording that describes what you mean.
 
