@@ -16,6 +16,7 @@ Get one month of free, worldwide calling.
 OneNote Mobile for Android is now available in more than 20 markets worldwide.
 Ensuring global acceptability in the usability of our products along with local relevance (world readiness). 
 
+
 Don't use *international* in the context of something that encompasses the entire world as it can imply a US-centric worldview. 
 
 Don’t use *international* to mean “outside the United States.” Instead, refer to a specific region or use wording that describes what you mean.
