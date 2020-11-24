@@ -24,7 +24,7 @@ approach to voice and style: warm and relaxed, crisp and clear, and ready to len
 
 The *Microsoft Writing Style Guide* replaces the *Microsoft Manual of Style,* a respected source of 
 editorial guidance for the tech community for more than 20 years. The style guide features updated 
-direction and new guidance for subjects that weren't around when the last edition released. But it's 
+direction and new guidance for subjects that weren't around when the last edition was released. But it's 
 also a reimagining of Microsoft style—a tool to help everyone write in a way that's natural, simple, and clear. 
 
 Here's some of what's new in the *Microsoft Writing Style Guide:*
