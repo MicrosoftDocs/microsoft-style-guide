@@ -2,7 +2,7 @@
 title: What's new? - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 6/30/2020
+ms.date: 11/24/2020
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -14,6 +14,10 @@ This table shows a history of recent updates to the *Microsoft Writing Style Gui
 
 |     **Date**      |                                                                  **Article**                                                                   |                                                                         **Change**                                                                          |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  November 24, 2020  |        [Accessibility terms](~/a-z-wordlist-term-collections/term-collections/accessibility-terms.md)           |                 Updated topic to include guidance on using terms such as "see", "read", and "look".   
+|  November 24, 2020  |        [global](~/a-z-wordlist-term-collections/g/global.md)           |                 Updated guidance wording to be more clear.   
+|  November 24, 2020  |        [URLs and web addresses](~/urls-web-addresses.md)           |                                   Updated example in **References to specific sites and domains** section.
+|  November 24, 2020  |        [worldwide vs. international](~/a-z-wordlist-term-collections/w/worldwide-vs-international.md)           |                                  Updated topic's wording and added example. 
 |   August 4, 2020   |        [Bias-free communication](~/bias-free-communication.md)           |                                   Updated guidance regarding unconcsious racial bias and associated examples.
 |   August 4,  |        [blacklist](~/a-z-word-list-term-collections/b/blacklist.md)           |                                   Updated guidance regarding usage and examples.
 |   August 4, 2020   |        [master/slave, master/subordinate](~/a-z-word-list-term-collections/m/master-slave.md)           |                                   Updated topic name, guidance, and examples.
@@ -36,7 +40,7 @@ This table shows a history of recent updates to the *Microsoft Writing Style Gui
 |   April 29, 2020   |        [pane](~/a-z-word-list-term-collections/p/pane.md)               |                    Added guidelines regarding preposition use; "Use the preposition *on* when referring to the contents of a pane."                  
 |   March 31, 2020   |        [Capitalization](~/capitalization.md)               |                    Added guidance for hyphenated compound words                          |
 |   March 31, 2020   |        [Hyphens](~/punctuation/dashes-hyphens/hyphens.md)               |                    Updated list of examples.                           |
-|   March 31, 2020   |        [Later](/styleguide/a-z-word-list-term-collections/l/later.md)               |                    Updated list of examples.                           |
+|   March 31, 2020   |        [Later](~/a-z-word-list-term-collections/l/later.md)               |                    Updated list of examples.                           |
 |   March 31, 2020   |        [Multifactor authentication](~/a-z-word-list-term-collections/m/multifactor-authentication.md)               |                    Added guidance for *multifactor authentication*.                           |
 |   March 31, 2020   |        [Nouns and pronouns](~/grammar/nouns-pronouns.md)               |                    Added guidance for *they*.                           |
 |   March 31, 2020   |        [Numbers](~/numbers.md)               |                    Updated guidance on comma usage.                           |
