@@ -14,7 +14,7 @@ Use *worldwide* to describe something that encompasses all regions or involves t
 **Examples**  
 Get one month of free, worldwide calling.   
 OneNote Mobile for Android is now available in more than 20 markets worldwide.
-Ensuring globalo acceptability in the usability of our products along with local relevance (world readiness). 
+Ensuring global acceptability in the usability of our products along with local relevance (world readiness). 
 
 Don't use *international* in the context of something that encompasses the entire world as it can imply a US-centric worldview. 
 
