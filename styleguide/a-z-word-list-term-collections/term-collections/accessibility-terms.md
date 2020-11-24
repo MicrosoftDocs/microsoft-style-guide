@@ -25,7 +25,7 @@ Person of small stature<br />
 It's OK to use words such as *see*, *read*, and *look* when calling out an example or another reference. 
 
 **Example**<br/>
-For more information see [Accessibility terms](~/a-z-word-list-term-collections/term-collections/accessibility-terms).
+For more information see [Accessibility terms](~/a-z-word-list-term-collections/term-collections/accessibility-terms.md).
 
 If necessary, use the following terms to describe people with disabilities or the disabilities themselves.
 
