@@ -37,7 +37,7 @@ To refer to an entire website or top-level domain, such as Microsoft.com, omit *
 **Examples**  
 www<span></span>.microsoft.com  
 Microsoft.com   
-Codeplex.com is home to the open source project site hosted by Microsoft.
+Codeplex.com is home to the open-source project site hosted by Microsoft.
 
 ## Grammar and formatting
 

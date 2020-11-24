@@ -22,6 +22,11 @@ Person with a prosthetic limb, person without a limb<br />
 Person with autism<br /> 
 Person of small stature<br /> 
 
+It's OK to use words such as *see*, *read*, and *look* when calling out an example or another reference. 
+
+**Example**<br/>
+For more information see [Accessibility terms](~/a-z-word-list-term-collections/term-collections/accessibility-terms).
+
 If necessary, use the following terms to describe people with disabilities or the disabilities themselves.
 
 For an overview of Microsoft accessibility policies, see [Accessibility guidelines and requirements](~/accessibility/accessibility-guidelines-requirements.md). 
