@@ -2,17 +2,16 @@
 title: blacklist - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 08/04/2020
+ms.date: 01/15/2021
 ms.topic: article
 ms.prod: non-product-specific
 ---
 
 # blacklist
 
-Never use *blacklist*. Use *block list* instead. Note that *block list* is two words. 
-
+Never use *blacklist*. Use *blocklist* instead. 
 For more specific usage, *blocked senders list* can be used. 
 
 **Examples**  
-Block lists can help prevent unwanted spam. 
-It could be useful to have a blocked senders list. 
+*Blocklists* can help prevent unwanted spam. 
+It could be useful to have a *blocked senders list*. 
