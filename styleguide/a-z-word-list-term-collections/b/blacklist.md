@@ -2,7 +2,7 @@
 title: blacklist - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 01/12/2021
+ms.date: 01/15/2021
 ms.topic: article
 ms.prod: non-product-specific
 ---
