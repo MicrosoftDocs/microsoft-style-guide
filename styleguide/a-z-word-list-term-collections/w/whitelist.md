@@ -2,7 +2,7 @@
 title: whitelist - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 1/15/2020
+ms.date: 1/15/2021
 ms.topic: article
 ms.prod: non-product-specific
 ---
