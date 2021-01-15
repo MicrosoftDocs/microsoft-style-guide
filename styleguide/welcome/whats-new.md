@@ -2,7 +2,7 @@
 title: What's new? - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 11/24/2020
+ms.date: 1/12/2021
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -16,7 +16,7 @@ This table shows a history of recent updates to the *Microsoft Writing Style Gui
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | January 15, 2021  |        [@mentions](~/punctuation/@mentions.md)           |               	Created topic on @mention guidance.  
 | January 15, 2021  |        [blacklist](~/a-z-word-list-term-collections/b/blacklist.md)           |               Updated guidance on spacing for alternative term, *blocklist*.   
-| January 15, 2021  |        [environment variable](~/a-z-word-list-term-collections/e/environment-variabel.md)           |               Updated topic guidance.    
+| January 15, 2021  |        [environment variable](~/a-z-word-list-term-collections/e/environment-variable.md)           |               Updated topic guidance.    
 | January 15, 2021  |        [whitelist](~/a-z-word-list-term-collections/w/whitelist.md)           |               Updated guidance on spacing for alternative term, *allowlist*. 
 |  November 24, 2020  |        [Accessibility terms](~/a-z-word-list-term-collections/term-collections/accessibility-terms.md)           |                 Updated topic to include guidance on using words such as "see", "read", and "look".   
 |  November 24, 2020  |        [global](~/a-z-word-list-term-collections/g/global.md)           |                 Updated guidance wording to be more clear.   
