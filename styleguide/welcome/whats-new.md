@@ -14,7 +14,6 @@ This table shows a history of recent updates to the *Microsoft Writing Style Gui
 
 |     **Date**      |                                                                  **Article**                                                                   |                                                                         **Change**                                                                          |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| January 15, 2021  |        [@mentions](~/punctuation/@mentions.md)           |               	Created topic on @mention guidance.  
 | January 15, 2021  |        [blacklist](~/a-z-word-list-term-collections/b/blacklist.md)           |               Updated guidance on spacing for alternative term, *blocklist*.   
 | January 15, 2021  |        [environment variable](~/a-z-word-list-term-collections/e/environment-variable.md)           |               Updated topic guidance.    
 | January 15, 2021  |        [whitelist](~/a-z-word-list-term-collections/w/whitelist.md)           |               Updated guidance on spacing for alternative term, *allowlist*. 
