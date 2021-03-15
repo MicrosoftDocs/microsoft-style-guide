@@ -22,18 +22,13 @@ Today, lots of people are called upon to write about technology. We need a simpl
 style guide that everyone can use, regardless of their role. And it needs to reflect Microsoft's modern 
 approach to voice and style: warm and relaxed, crisp and clear, and ready to lend a hand.
 
-The *Microsoft Writing Style Guide* replaces the *Microsoft Manual of Style,* a respected source of 
-editorial guidance for the tech community for more than 20 years. The style guide features updated 
-direction and new guidance for subjects that weren't around when the last edition was released. But it's 
-also a reimagining of Microsoft style—a tool to help everyone write in a way that's natural, simple, and clear. 
-
-Here's some of what's new in the *Microsoft Writing Style Guide:*
+Here's what you will find in the *Microsoft Writing Style Guide:*
 
 - [Top 10 tips for mastering Microsoft style and voice](~/top-10-tips-style-voice.md)  
 
-- Term collections that consolidate related terms into one handy list, such as [Accessibility terms](~/a-z-word-list-term-collections/term-collections/accessibility-terms.md), [Computer and device terms](~/a-z-word-list-term-collections/term-collections/computer-device-terms.md), [Cloud-computing terms](~/a-z-word-list-term-collections/term-collections/cloud-computing-terms.md), and [Bits and bytes terms](~/a-z-word-list-term-collections/term-collections/bits-bytes-terms.md)  
+- [Bias-free communication](~/bias-free-communication.md)  
 
-- New major topics for [Chatbots and virtual agents](~/chatbots-virtual-agents/index.md), [Content planning](~/content-planning.md), and [Responsive content](~/responsive-content.md)  
+- [Global communications](~/global-communications/index.md)
 
 We welcome your feedback about the *Microsoft Writing Style Guide.* Contact us at <msstyle@microsoft.com>. 
 
