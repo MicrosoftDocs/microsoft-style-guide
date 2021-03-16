@@ -3,7 +3,7 @@ title: Welcome - Microsoft Style Guide
 description: The online Microsoft Writing Style Guide provides up-to-date style and terminology guidelines. It replaces the Microsoft Manual of Style.
 author: pallep
 ms.author: pallep
-ms.date: 01/15/2021
+ms.date: 01/16/2021
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -22,7 +22,7 @@ Today, lots of people are called upon to write about technology. We need a simpl
 style guide that everyone can use, regardless of their role. And it needs to reflect Microsoft's modern 
 approach to voice and style: warm and relaxed, crisp and clear, and ready to lend a hand.
 
-Here's is what you will find in the *Microsoft Writing Style Guide:*
+Here's what you will find in the *Microsoft Writing Style Guide:*
 
 - [Top 10 tips for mastering Microsoft style and voice](~/top-10-tips-style-voice.md)  
 
