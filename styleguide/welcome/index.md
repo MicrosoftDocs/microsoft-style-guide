@@ -28,7 +28,7 @@ Here's what you will find in the *Microsoft Writing Style Guide:*
 
 - [Bias-free communication](~/bias-free-communication.md)  
 
-- [Global communications](~/global-communications/index.md)
+- [Global communications](~/global-communications/index.md)  
 
 We welcome your feedback about the *Microsoft Writing Style Guide.* Contact us at <msstyle@microsoft.com>. 
 
