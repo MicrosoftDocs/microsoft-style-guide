@@ -1,5 +1,5 @@
 ---
-title: drop-down - Microsoft Style Guide
+title: dropdown - Microsoft Style Guide
 author: pallep
 ms.author: pallep
 ms.date: 03/26/2021
