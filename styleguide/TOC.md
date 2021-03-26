@@ -245,7 +245,7 @@
 ### [drill down, drill up, drill through](a-z-word-list-term-collections/d/drill-down-drill-up-drill-through.md)
 ### [drive](a-z-word-list-term-collections/d/drive.md)
 ### [drive name](a-z-word-list-term-collections/d/drive-name.md)
-### [drop-down](a-z-word-list-term-collections/d/drop-down.md)
+### [dropdown](a-z-word-list-term-collections/d/dropdown.md)
 ### [DVD](a-z-word-list-term-collections/d/dvd.md)
 ### [dynamic-link library (DLL)](a-z-word-list-term-collections/d/dynamic-link-library-dll.md)
 ### [dynamic service capacity](a-z-word-list-term-collections/d/dynamic-service-capacity.md)
