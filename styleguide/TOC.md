@@ -143,7 +143,7 @@
 ### [chart](a-z-word-list-term-collections/c/chart.md)
 ### [chat](a-z-word-list-term-collections/c/chat.md)
 ### [chatbot](a-z-word-list-term-collections/c/chatbot.md)
-### [check, check box, check mark](a-z-word-list-term-collections/c/check-check-box-check-mark.md)
+### [check, checkbox, check mark](a-z-word-list-term-collections/c/check-checkbox-check-mark.md)
 ### [check in](a-z-word-list-term-collections/c/check-in.md)
 ### [child folder](a-z-word-list-term-collections/c/child-folder.md)
 ### [choose](a-z-word-list-term-collections/c/choose.md)
