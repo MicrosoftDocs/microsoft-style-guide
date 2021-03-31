@@ -2,7 +2,7 @@
 title: What's new? - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 1/15/2021
+ms.date: 03/31/2021
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -14,6 +14,11 @@ This table shows a history of recent updates to the *Microsoft Writing Style Gui
 
 |     **Date**      |                                                                  **Article**                                                                   |                                                                         **Change**                                                                          |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| March 31, 2021  |        [bits and bytes](~/a-z-word-list-term-collections/term-collections/bits-bytes-terms.md)           |               Updated guidance on when to abbreviate certain terms.
+| March 31, 2021  |        [dialog box, dialog, dialogue](~/a-z-word-list-term-collections/d/dialog-box-dialog-dialogue.md)           |               Updated guidance on spelling and use.
+| March 29, 2021  |        [check, checkbox, check mark](~/a-z-word-list-term-collections/c/check-checkbox-check-mark.md)           |               Updated guidance on spelling and use.
+| March 26, 2021  |        [dropdown](~/a-z-word-list-term-collections/d/dropdown.md)           |               Updated guidance on spelling and use.
+| March 16, 2021  |        [Welcome page](~/welcome/index.md)           |               Updated Welcome page.
 | January 15, 2021  |        [blacklist](~/a-z-word-list-term-collections/b/blacklist.md)           |               Updated guidance on spacing for alternative term, *blocklist*.   
 | January 15, 2021  |        [environment variable](~/a-z-word-list-term-collections/e/environment-variable.md)           |               Updated topic guidance.    
 | January 15, 2021  |        [whitelist](~/a-z-word-list-term-collections/w/whitelist.md)           |               Updated guidance on spacing for alternative term, *allowlist*. 

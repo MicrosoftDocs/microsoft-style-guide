@@ -2,7 +2,7 @@
 title: Bits and bytes terms - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 01/19/2018
+ms.date: 03/31/2021
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -48,16 +48,16 @@ a 650-MB limit
 |--------------------------|------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |    **bits per pixel**    |       bpp        |                                                                                                                                                                                      |
 |   **bits per second**    |       bps        | Don't use as a synonym for *baud.* See [Units of measure term collection](~/a-z-word-list-term-collections/term-collections/units-of-measure-terms.md) for information about *baud.* |
-|         **byte**         |      *None*      |                                                                                  Don't abbreviate.                                                                                   |
+|         **byte**         |      *None*      |                                                                                  Don't abbreviate, unless in UI.                                                                                   |
 |       **exabyte**        |        EB        |                                                                          Don’t use *E, E byte,* or *EByte.*                                                                          |
-|       **gigabit**        |      *None*      |                                                                                  Don’t abbreviate.                                                                                   |
+|       **gigabit**        |      *None*      |                                                                                  Don’t abbreviate, unless in UI.                                                                                   |
 | **gigabits per second**  |       Gbps       |                                                                         Don't spell out as *Gb per second*.                                                                          |
 |       **gigabyte**       |        GB        |                                                                          Don’t use *G, G byte,* or *GByte*.                                                                          |
-|       **kilobit**        |      *None*      |                                                                                  Don’t abbreviate.                                                                                   |
+|       **kilobit**        |      *None*      |                                                                                  Don’t abbreviate, unless in UI.                                                                                   |
 | **kilobits per second**  |       Kbps       |                                                                         Don't spell out as *KB per second*.                                                                          |
 |       **kilobyte**       |        KB        |                                                                          Don't use *K, K byte,* or *KByte*.                                                                          |
 | **kilobytes per second** |       KBps       |                                                                         Don't spell out as *KB per second*.                                                                          |
-|       **megabit**        |      *None*      |                                                                                  Don’t abbreviate.                                                                                   |
+|       **megabit**        |      *None*      |                                                                                  Don’t abbreviate, unless in UI.                                                                                   |
 | **megabits per second**  |       Mbps       |                                                                         Don't spell out as *Mb per second*.                                                                          |
 |       **megabyte**       |        MB        |                                                                       Don’t use *M, meg, M byte,* or *MByte*.                                                                        |
 | **megabytes per second** |       MBps       |                                                                         Don't spell out as *MB per second*.                                                                          |
