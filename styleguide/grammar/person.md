@@ -2,7 +2,7 @@
 title: Person - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 09/13/2019
+ms.date: 04/02/2021
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -24,7 +24,7 @@ You can set advanced options later if you need them.
 
 Use first person (usually *I* or *me*) only when you need to write from the point of view of the customer.<br />
 **Example**  
-Alert me when a new Bluetooth device tries to connect to my computer. (check box text)
+Alert me when a new Bluetooth device tries to connect to my computer. (checkbox text)
 
 **Exception** Cortana is a persona, so the use of *I* is appropriate. 
 
