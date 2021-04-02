@@ -2,7 +2,7 @@
 title: pull-down - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 05/17/2018
+ms.date: 04/01/2021
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -19,6 +19,6 @@ In the **Background** list, select **Solid color**.
 Go to **Tools**, and select **Change language**.  
 
 **See also**  
-[drop-down](~/a-z-word-list-term-collections/d/drop-down.md)  
+[dropdown](~/a-z-word-list-term-collections/d/dropdown.md)  
 [Describing interactions with UI](~/procedures-instructions/describing-interactions-with-ui.md)  
 [Formatting text in instructions](~/procedures-instructions/formatting-text-in-instructions.md)

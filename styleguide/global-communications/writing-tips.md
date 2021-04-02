@@ -2,7 +2,7 @@
 title: Writing tips - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 04/30/2018
+ms.date: 04/02/2021
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -31,7 +31,7 @@ it into multiple sentences.
 **Include *that* and *who*.** They help to clarify the sentence structure.<br />
 **Examples**  
 Inspect the database to verify that all tables, data, and relationships were correctly migrated.  
-Select the check box of each folder that you want to sync with your desktop.
+Select the checkbox of each folder that you want to sync with your desktop.
 
 **Include articles,** such as *the.* Articles help readers and translation software identify the nouns and modifiers in a sentence.<br />
 **Examples**  

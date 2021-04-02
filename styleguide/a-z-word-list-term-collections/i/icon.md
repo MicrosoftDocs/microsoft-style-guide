@@ -2,7 +2,7 @@
 title: icon - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 07/31/2018
+ms.date: 04/02/2021
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -17,7 +17,7 @@ document, or app.
 Don't use *icon*
 to describe graphical dialog box options or options that appear on
 ribbons, toolbars, toolboxes, or other areas of a window. For options
-that have graphics rather than text labels, use the most descriptive term available, such as *button, box,* or *check box*. To refer to the graphic itself, if there's no other identifying label, use *symbol,* as in *warning symbol.*
+that have graphics rather than text labels, use the most descriptive term available, such as *button, box,* or *checkbox*. To refer to the graphic itself, if there's no other identifying label, use *symbol,* as in *warning symbol.*
 
 When referring to an icon, use bold formatting for the icon name. In instructions, use the name of the icon and its image, but don't use the word *icon*.<br /><br />**Example**<br />Select **Xbox** ![](media/icon/1465752354.png).
 

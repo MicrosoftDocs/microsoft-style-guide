@@ -2,7 +2,7 @@
 title: Capitalization - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 09/6/2019
+ms.date: 04/02/2021
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -18,7 +18,7 @@ Follow these guidelines in Microsoft content:
 
   - Use sentence-style capitalization most of the time. That means: 
       - Capitalize the first word of a sentence, heading, title, UI label (such as
-        the name of a button or check box), or standalone phrase. 
+        the name of a button or checkbox), or standalone phrase. 
       - Capitalize proper nouns. To learn more about proper nouns, see [Nouns and pronouns](~/grammar/nouns-pronouns.md).
       - Use lowercase for everything else.  
       
