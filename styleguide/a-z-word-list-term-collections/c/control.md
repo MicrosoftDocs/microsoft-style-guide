@@ -2,14 +2,14 @@
 title: control - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 01/19/2018
+ms.date: 04/02/2021
 ms.topic: article
 ms.prod: non-product-specific
 ---
 
 # control
 
-In content for a general audience, don't use *control* to refer to a UI element such as a text box, check box, or list box. It's OK to use *control* to refer to adding a user-defined control in a program.
+In content for a general audience, don't use *control* to refer to a UI element such as a text box, checkbox, or list box. It's OK to use *control* to refer to adding a user-defined control in a program.
 
 In other contexts, it's OK to use *control*.  
 
