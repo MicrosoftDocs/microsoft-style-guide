@@ -15,8 +15,8 @@ This table shows a history of recent updates to the *Microsoft Writing Style Gui
 |     **Date**      |                                                                  **Article**                                                                   |                                                                         **Change**                                                                          |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | March 31, 2021  |        [bits and bytes](~/a-z-word-list-term-collections/term-collections/bits-bytes-terms.md)           |               Updated guidance on when to abbreviate certain terms.
-| March 31, 2021  |        [dialog box, dialog, dialogue](~/a-z-word-list-term-collections/d/dialog-box-dialog-dialogue.md)           |               Updated guidance on spelling and use.
-| March 29, 2021  |        [check, checkbox, check mark](~/a-z-word-list-term-collections/c/check-checkbox-check-mark.md)           |               Updated guidance on spelling and use.
+| March 31, 2021  |        [dialog box, dialog, dialogue](~/a-z-word-list-term-collections/d/dialog-box-dialog-dialogue.md)           |               Updated guidance on use.
+| March 29, 2021  |        [check, checkbox, check mark](~/a-z-word-list-term-collections/c/check-checkbox-check-mark.md)           |               Updated guidance on use.
 | March 26, 2021  |        [dropdown](~/a-z-word-list-term-collections/d/dropdown.md)           |               Updated guidance on spelling and use.
 | March 16, 2021  |        [Welcome page](~/welcome/index.md)           |               Updated Welcome page.
 | January 15, 2021  |        [blacklist](~/a-z-word-list-term-collections/b/blacklist.md)           |               Updated guidance on spacing for alternative term, *blocklist*.   
