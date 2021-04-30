@@ -2,7 +2,7 @@
 title: Don't use common words in new ways - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 01/19/2018
+ms.date: 04/30/2021
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -35,7 +35,6 @@ Most people know the common definition of words—usually the one that appears f
     
     |**Use this**|**Not this**|
     |--|--|
-    |open an invitation|open an invite|
     |affect performance|impact performance|
     |download the paper|get the download|
     |respond to the request|respond to the ask|
