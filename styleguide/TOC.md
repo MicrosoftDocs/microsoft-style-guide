@@ -194,6 +194,7 @@
 ### [cut, cut-and-paste](a-z-word-list-term-collections/c/cut-and-paste.md)
 ### [cyber-](a-z-word-list-term-collections/c/cyber.md)
 ## D
+### [dark mode](a-z-word-list-term-collections/term-collections/d/dark-mode.md)
 ### [data, datum](a-z-word-list-term-collections/d/data-datum.md)
 ### [data binding](a-z-word-list-term-collections/d/data-binding.md)
 ### [data record](a-z-word-list-term-collections/d/data-record.md)
@@ -424,6 +425,7 @@
 ### [Internet of Things (IoT)](a-z-word-list-term-collections/i/internet-of-things-iot.md)
 ### [internet service provider (ISP)](a-z-word-list-term-collections/i/internet-service-provider.md)
 ### [invalid, not valid](a-z-word-list-term-collections/i/invalid-not-valid.md)
+### [invite](a-z-word-list-term-collections/term-collections/i/invite.md)
 ### [invoke](a-z-word-list-term-collections/i/invoke.md)
 ### [IP address](a-z-word-list-term-collections/i/ip-address.md)
 ### [issue](a-z-word-list-term-collections/i/issue.md)
@@ -732,6 +734,7 @@
 ### [small caps](a-z-word-list-term-collections/s/small-caps.md)
 ### [smart card, Smart Card](a-z-word-list-term-collections/s/smart-card.md)
 ### [smartphone](a-z-word-list-term-collections/s/smartphone.md)
+### [smb](a-z-word-list-term-collections/term-collections/s/smb.md)
 ### [snap-in](a-z-word-list-term-collections/s/snap-in.md)
 ### [social chatbot](a-z-word-list-term-collections/s/social-chatbot.md)
 ### [soft copy](a-z-word-list-term-collections/s/soft-copy.md)
