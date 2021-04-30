@@ -2,7 +2,7 @@
 title: What's new? - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 03/31/2021
+ms.date: 04/30/2021
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -14,6 +14,9 @@ This table shows a history of recent updates to the *Microsoft Writing Style Gui
 
 |     **Date**      |                                                                  **Article**                                                                   |                                                                         **Change**                                                                          |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| April 30, 2021  |        [invite](~/a-z-word-list-term-collections/term-collections/i/invite.md)           |               New topic. 
+| April 30, 2021  |        [dark mode](~/a-z-word-list-term-collections/term-collections/d/dark-mode.md)           |               New topic. 
+| April 30, 2021  |        [smb](~/a-z-word-list-term-collections/term-collections/s/smb.md)           |               New topic. 
 | March 31, 2021  |        [bits and bytes](~/a-z-word-list-term-collections/term-collections/bits-bytes-terms.md)           |               Updated guidance on when to abbreviate certain terms.
 | March 31, 2021  |        [dialog box, dialog, dialogue](~/a-z-word-list-term-collections/d/dialog-box-dialog-dialogue.md)           |               Updated guidance on use.
 | March 29, 2021  |        [check, checkbox, check mark](~/a-z-word-list-term-collections/c/check-checkbox-check-mark.md)           |               Updated guidance on use.
