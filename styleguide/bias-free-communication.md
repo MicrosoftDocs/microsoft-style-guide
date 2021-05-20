@@ -84,7 +84,7 @@ countries with states or continents.
 
 |    **Use this**    |       **Not this**       |
 |--------------------|--------------------------|
-| master/subordinate |       master/slave       |
+| leader/follower    |       master/slave       |
 | perimeter network  | demilitarized zone (DMZ) |
 |  stop responding   |           hang           |
 
