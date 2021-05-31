@@ -859,6 +859,7 @@
 ### [wearable, wearable device](a-z-word-list-term-collections/w/wearable-wearable-device.md)
 ### [web, World Wide Web, WWW](a-z-word-list-term-collections/w/web-world-wide-web-www.md)
 ### [web services](a-z-word-list-term-collections/w/web-services.md)
+### [wellbeing](a-z-word-list-term-collections/w/wellbeing.md)
 ### [where](a-z-word-list-term-collections/w/where.md)
 ### [while](a-z-word-list-term-collections/w/while.md)
 ### [white hat hacker](a-z-word-list-term-collections/w/white-hat-hacker.md)
