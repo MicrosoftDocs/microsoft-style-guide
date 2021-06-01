@@ -14,7 +14,8 @@ This table shows a history of recent updates to the *Microsoft Writing Style Gui
 
 |     **Date**      |                                                                  **Article**                                                                   |                                                                         **Change**                                                                          |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| May 31, 2021  |        [wellbeing](~/a-z-word-list-term-collections/w/wellbeing.md)           |               New topic. 
+| May 31, 2021  |        [workstream](~/a-z-word-list-term-collections/w/workstream.md)           |               New guidance on spelling and use. 
+| May 31, 2021  |        [wellbeing](~/a-z-word-list-term-collections/w/wellbeing.md)           |               New guidance on spelling and use. 
 | April 30, 2021  |        [invite](~/a-z-word-list-term-collections/i/invite.md)           |               New topic. 
 | April 30, 2021  |        [dark mode](~/a-z-word-list-term-collections/d/dark-mode.md)           |               New topic. 
 | April 30, 2021  |        [SMB](~/a-z-word-list-term-collections/s/smb.md)           |               New topic. 
