@@ -2,7 +2,7 @@
 title: Writing tips - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 04/02/2021
+ms.date: 07/06/2021
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -95,4 +95,4 @@ Configure limits for the backup. These limits should be based on the amount of s
 **Example**  
 Configure limits for the backup. **Base the limits** on the amount of storage space available.
 
-**Use only common abbreviations,** such as *USB*, and abbreviations that are defined in glossaries. Check with a localization expert to find our if an acronym is defined.  
+**Use only common abbreviations,** such as *USB*, and abbreviations that are defined in glossaries. Check with a localization expert to find out if an acronym is defined.  
