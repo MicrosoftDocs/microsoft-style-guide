@@ -2,7 +2,7 @@
 title: What's new? - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 05/31/2021
+ms.date: 08/06/2021
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -14,6 +14,7 @@ This table shows a history of recent updates to the *Microsoft Writing Style Gui
 
 |     **Date**      |                                                                  **Article**                                                                   |                                                                         **Change**                                                                          |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| August 6, 2021  |        [backlog grooming](~/a-z-word-list-term-collections/b/backlog-grooming.md)           |               New topic. 
 | May 31, 2021  |        [workstream](~/a-z-word-list-term-collections/w/workstream.md)           |               New guidance on spelling and use. 
 | May 31, 2021  |        [wellbeing](~/a-z-word-list-term-collections/w/wellbeing.md)           |               New guidance on spelling and use. 
 | April 30, 2021  |        [invite](~/a-z-word-list-term-collections/i/invite.md)           |               New topic. 
