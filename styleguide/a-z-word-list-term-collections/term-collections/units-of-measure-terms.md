@@ -2,7 +2,7 @@
 title: Units of measure terms - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 03/12/2018
+ms.date: 08/09/2021
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -76,6 +76,10 @@ to measurement. For other units of measure not covered here, see [*The Chicago M
 ||kilograms|kg|
 ||ounces|oz|
 ||pounds|lb|
+|**Area**|square foot|sq ft|
+||square meter|m<sup>2</sup>|
+|**Volume**|cubic foot|cu ft|
+||cubic meter|m<sup>3</sup>|
 |**Type and fonts**|points|pt|
 |**UI, display resolution, and digital imaging**|pixels|Don’t use the abbreviation *px* in the context of screen or camera resolution.<br /><br />It’s OK to abbreviate as *px* in content about online design when space is limited. <br /><br />**Examples**<br />48 × 48 px <br />The application icon should be 62 × 62 pixels and PNG format.|
 ||pixels per inch|It’s OK to use the acronym *PPI* in content about creating digital applications, when space is limited, and when you’re certain that readers will understand it. <br /><br />**Examples**<br />72 pixels per inch  <br />At 72 PPI, ….|
