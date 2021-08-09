@@ -2,7 +2,7 @@
 title: Colons - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 07/24/2018
+ms.date: 08/09/2021
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -46,3 +46,7 @@ When you use a colon in a title or heading, capitalize the word that follows it.
 Block party: Communities use Minecraft to create public spaces  
 Why girls lose interest in STEM: New research has some answers  
 Get started with Azure IoT: An interactive developer guide  
+
+## In UI
+
+Don’t use colon when introducing lists of radio buttons or checkboxes.

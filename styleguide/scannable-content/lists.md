@@ -2,7 +2,7 @@
 title: Lists - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 01/19/2018
+ms.date: 08/09/2021
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -69,3 +69,7 @@ In bulleted and numbered lists, end each list item with a period if:
   - Any item *by itself* is a complete sentence.
 
 Don’t use semicolons, commas, or conjunctions (like *and* or *or*) at the end of list items.
+
+## In UI
+
+Often lists are a series of radio buttons or checkboxes inside dialog boxes or settings pages. Unless they’re complete sentences, don’t use punctuation for each item in a list. If punctuation is necessary for clarity, make sure punctuation is used consistently in the list and in other lists within the same section or screen.
