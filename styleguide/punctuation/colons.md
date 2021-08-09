@@ -2,7 +2,7 @@
 title: Colons - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 07/24/2018
+ms.date: 08/09/2021
 ms.topic: article
 ms.prod: non-product-specific
 ---
