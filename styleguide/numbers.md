@@ -2,7 +2,7 @@
 title: Numbers - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 09/18/2019
+ms.date: 08/11/2021
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -53,7 +53,7 @@ all other content, follow the guidelines below.
 | A number the customer is directed to enter. | Enter **5**. |
 | A round number of 1 million or more. | 7 million |
 | Dimensions. Spell out _by,_ except for tile sizes, screen resolutions, and paper sizes. For those, use the multiplication sign (×). Use a space before and after the multiplication sign. | 10-foot cable <br /> 4 × 4 tile <br /> 8.5&quot; × 11&quot; paper <br /> 1280 × 1024 |
-| Time of day. Include _AM_ or _PM._<br /> **Exception** Don't use numerals for _12:00_. Use _noon_ or _midnight_ instead.<br /> Include the time zone if you're discussing an event, and customers beyond the local time zone may see it. Time stamps in UI and websites usually display local time and date automatically. | 10:45 AM<br /> 6:30 PM<br /> The meeting is at noon. <br /> The event starts at 5:00 PM Pacific Time. <br /> The date changes at midnight. |
+| Time of day. Include _AM_ or _PM._<br /> **Exception** Don't use numerals for _12∶00_. Use _noon_ or _midnight_ instead.<br /> Include the time zone if you're discussing an event, and customers beyond the local time zone may see it. Time stamps in UI and websites usually display local time and date automatically. | 10∶45 AM<br /> 6∶30 PM<br /> The meeting is at noon. <br /> The event starts at 5∶00 PM Pacific Time. <br /> The date changes at midnight. |
 | Percentages, no matter how small. Use a numeral plus _percent_ to specify a percentage. Use _percentage_ when you don't specify a quantity. | At least 50 percent of your system resources should be available.<br /> Only 1 percent of the test group was unable to complete the task.<br /> A large percentage of system resources should be available. |
 | Coordinates of tables or worksheets and numbered sections of documents. | row 3, column 4 <br /> Volume 2 <br /> Chapter 10 <br /> Part 5 <br /> step 1 |
 
@@ -151,7 +151,7 @@ all other content, follow the guidelines below.
 
     **Exceptions** <br />
     Use an en dash in a range of pages or where space is an issue, such as in tables and UI. For example, *2016–2020* and *pages 112–120.*<br />
-    Use *to* in a range of times. For example, *10:00 AM to 2:00 PM.*  
+    Use *to* in a range of times. For example, *10∶00 AM to 2∶00 PM.*  
 
   - Don't use *from* before a range indicated by an en dash, such as *10–15*. 
   
