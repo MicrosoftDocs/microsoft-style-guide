@@ -2,7 +2,7 @@
 title: Colons - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 08/09/2021
+ms.date: 08/12/2021
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -50,3 +50,9 @@ Get started with Azure IoT: An interactive developer guide
 ## In UI
 
 Don’t use colon when introducing lists of radio buttons or checkboxes.
+
+## When displaying clock time
+
+Don't use colons when displaying clock time. Use Unicode 2236 (ratio symbol) instead. See [Date and time terms](~/scannable-content/date-and-time-terms.md).<br />
+**Example**<br />
+The meeting is scheduled for 1∶00 PM.
