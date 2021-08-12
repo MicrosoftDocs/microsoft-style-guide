@@ -14,6 +14,9 @@ This table shows a history of recent updates to the *Microsoft Writing Style Gui
 
 |     **Date**      |                                                                  **Article**                                                                   |                                                                         **Change**                                                                          |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| August 12, 2021  |        [colons](https://github.com/MicrosoftDocs/microsoft-style-guide-pr/blob/master/styleguide/punctuation/colons.md)           |               Updated guidance on use of colons in clock time. 
+| August 11, 2021  |        [numbers](https://github.com/MicrosoftDocs/microsoft-style-guide-pr/blob/master/styleguide/numbers.md)           |               Replaced colons with ratio symbols. 
+| August 10, 2021  |        [date and time terms](https://github.com/MicrosoftDocs/microsoft-style-guide-pr/blob/master/styleguide/a-z-word-list-term-collections/term-collections/date-time-terms.md)           |               New section on clock time. 
 | August 6, 2021  |        [backlog grooming](~/a-z-word-list-term-collections/b/backlog-grooming.md)           |               New topic. 
 | May 31, 2021  |        [workstream](~/a-z-word-list-term-collections/w/workstream.md)           |               New guidance on spelling and use. 
 | May 31, 2021  |        [wellbeing](~/a-z-word-list-term-collections/w/wellbeing.md)           |               New guidance on spelling and use. 
