@@ -13,11 +13,11 @@ Most people know the common definition of words—usually the one that appears f
 
   - Don’t create a new word from an existing word.  
     **Example**  
-    Don’t use *bucketize* to mean *group.*
+    Don’t use *bucketize* to mean *group*.
     
   - Don't apply a new meaning to an ordinary word.  
     **Example**  
-    Don’t use *graveyard* to mean *archive.*  
+    Don’t use *graveyard* to mean *archive*.  
     
   - Be
     careful with common words that have industry-specific uses.
@@ -25,7 +25,7 @@ Most people know the common definition of words—usually the one that appears f
     the industry-specific definition. If you must
     use the industry-specific definition, define the word in
     context.  
-    **Writing tip** Sometimes industry-specific usage, such as *hacker,*
+    **Writing tip** Sometimes industry-specific usage, such as *hacker*,
     becomes part of everyday speech. Know your customer and the
     language they use. When in doubt, use a simple word with a
     well-understood meaning.  
