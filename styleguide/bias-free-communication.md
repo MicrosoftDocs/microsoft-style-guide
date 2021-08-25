@@ -2,7 +2,7 @@
 title: Bias-free communication - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 09/13/2019
+ms.date: 08/25/2021
 ms.topic: article
 ms.prod: non-product-specific
 ---
