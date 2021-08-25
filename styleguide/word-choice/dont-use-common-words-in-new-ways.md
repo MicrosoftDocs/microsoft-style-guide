@@ -2,7 +2,7 @@
 title: Don't use common words in new ways - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 04/30/2021
+ms.date: 08/25/2021
 ms.topic: article
 ms.prod: non-product-specific
 ---
