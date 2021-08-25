@@ -2,7 +2,7 @@
 title: Bias-free communication - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 09/13/2019
+ms.date: 08/25/2021
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -89,6 +89,8 @@ countries with states or continents.
 |  stop responding   |           hang           |
 
 **Focus on people, not disabilities.** For example, talk about readers who are blind or have low vision and customers with limited dexterity. Don't use words that imply pity, such as *stricken with* or *suffering from.* Don't mention a disability unless it's relevant. For more information, see the [Accessibility term collection](~/a-z-word-list-term-collections/term-collections/accessibility-terms.md). 
+
+**Inclusive language** Capitalize Asian, Black and African American, Hispanic and Latinx, Native American, Alaska Native, Native Hawaiian, Pacific Islander, and Indigenous Peoples. Do not capitalize multiracial or white, per AP style. For additional and updated guidance on inclusive language, please refer to the [Communications and Creative Diversity & Inclusion Guide](https://aka.ms/DICommsCreativeGuide).  
 
 **Learn more** For more information about writing that conveys respect to all people and promotes equal opportunities, see the [Guidelines for Inclusive Language](https://www.linguisticsociety.org/content/guidelines-inclusive-language "Linguistic Society of America's guidelines for inclusive language") from the Linguistic Society of America. 
 
