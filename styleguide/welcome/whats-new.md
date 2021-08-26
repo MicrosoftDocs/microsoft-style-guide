@@ -2,7 +2,7 @@
 title: What's new? - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 08/06/2021
+ms.date: 08/26/2021
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -14,6 +14,7 @@ This table shows a history of recent updates to the *Microsoft Writing Style Gui
 
 |     **Date**      |                                                                  **Article**                                                                   |                                                                         **Change**                                                                          |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| August 26, 2021  |        [multi](https://github.com/MicrosoftDocs/microsoft-style-guide-pr/blob/master/styleguide/a-z-word-list-term-collections/m/multi.md)           |               Added exception to guideline.
 | August 12, 2021  |        [colons](https://github.com/MicrosoftDocs/microsoft-style-guide-pr/blob/master/styleguide/punctuation/colons.md)           |               Updated guidance on use of colons in clock time. 
 | August 11, 2021  |        [numbers](https://github.com/MicrosoftDocs/microsoft-style-guide-pr/blob/master/styleguide/numbers.md)           |               Replaced colons with ratio symbols. 
 | August 10, 2021  |        [date and time terms](https://github.com/MicrosoftDocs/microsoft-style-guide-pr/blob/master/styleguide/a-z-word-list-term-collections/term-collections/date-time-terms.md)           |               New section on clock time. 
