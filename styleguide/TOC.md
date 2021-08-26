@@ -802,6 +802,7 @@
 ### [top-level folder](a-z-word-list-term-collections/t/top-level-folder.md)
 ### [touchpad](a-z-word-list-term-collections/t/touchpad.md)
 ### [touchscreen](a-z-word-list-term-collections/t/touchscreen.md)
+### [touch-sensitive](a-z-word-list-term-collections/t/touch-sensitive.md)
 ### [toward](a-z-word-list-term-collections/t/toward.md)
 ### [trackball](a-z-word-list-term-collections/t/trackball.md)
 ### [trailing](a-z-word-list-term-collections/t/trailing.md)
