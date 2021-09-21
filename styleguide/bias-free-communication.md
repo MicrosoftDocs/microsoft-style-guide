@@ -90,7 +90,9 @@ countries with states or continents.
 
 **Focus on people, not disabilities.** For example, talk about readers who are blind or have low vision and customers with limited dexterity. Don't use words that imply pity, such as *stricken with* or *suffering from.* Don't mention a disability unless it's relevant. For more information, see the [Accessibility term collection](~/a-z-word-list-term-collections/term-collections/accessibility-terms.md). 
 
-**Inclusive language** Capitalize Asian, Black and African American, Hispanic and Latinx, Native American, Alaska Native, Native Hawaiian, Pacific Islander, and Indigenous Peoples. Do not capitalize multiracial or white, per AP style. For additional and updated guidance on inclusive language, please refer to the [Communications and Creative Diversity & Inclusion Guide](https://aka.ms/DICommsCreativeGuide).  
+**Inclusive language** Use title-style capitalization for Asian, Black and African American, Hispanic and Latinx, Native American, Alaska Native, Native Hawaiian, Pacific Islander, and Indigenous Peoples. Microsoft style is to lowercase multiracial and white. 
+
+For additional guidance on inclusive language in your content, refer to the Microsoft [Communications and Creative Diversity & Inclusion Guide](https://aka.ms/DICommsCreativeGuide). This guidance for is for external partners creating content for Global Diversity & Inclusion initiatives and is also a helpful resource for Microsoft employees seeking to be more inclusive in their business and interpersonal communications. (This site requires Microsoft network access.)
 
 **Learn more** For more information about writing that conveys respect to all people and promotes equal opportunities, see the [Guidelines for Inclusive Language](https://www.linguisticsociety.org/content/guidelines-inclusive-language "Linguistic Society of America's guidelines for inclusive language") from the Linguistic Society of America. 
 
