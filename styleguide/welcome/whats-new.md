@@ -14,13 +14,12 @@ This table shows a history of recent updates to the *Microsoft Writing Style Gui
 
 |     **Date**      |                                                                  **Article**                                                                   |                                                                         **Change**                                                                          |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| August 26, 2021  |        [multi-](https://docs.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/m/multi)           |               Added exception to guideline.
+| August 26, 2021  |        [multi-](https://docs.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/m/multi)           |               Added multicloud exception to guideline.
 | August 26, 2021  |        [touch-sensitive](https://docs.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/t/touch-sensitive)           |               Added new topic.
-| August 25, 2021  |        [Bias-free communication](https://docs.microsoft.com/en-us/style-guide/bias-free-communication)           |               Added guidance about inclusive language.
+| August 25, 2021  |        [Bias-free communication](https://docs.microsoft.com/en-us/style-guide/bias-free-communication)           |               Added inclusive language section.
 | August 12, 2021  |        [colons](https://docs.microsoft.com/en-us/style-guide/punctuation/colons)           |               Updated guidance on use of colons in clock time. 
 | August 11, 2021  |        [numbers](https://docs.microsoft.com/en-us/style-guide/numbers)           |               Replaced colons with ratio symbols. 
 | August 10, 2021  |        [date and time terms](https://docs.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/date-time-terms)           |               New section on clock time. 
-| August 6, 2021  |        [backlog grooming](https://docs.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/b/backlog-grooming)           |               New topic. 
 | May 31, 2021  |        [workstream](~/a-z-word-list-term-collections/w/workstream.md)           |               New guidance on spelling and use. 
 | May 31, 2021  |        [wellbeing](~/a-z-word-list-term-collections/w/wellbeing.md)           |               New guidance on spelling and use. 
 | April 30, 2021  |        [invite](~/a-z-word-list-term-collections/i/invite.md)           |               New topic. 
