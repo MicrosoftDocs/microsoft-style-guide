@@ -79,8 +79,6 @@
 ### [back end, back-end](a-z-word-list-term-collections/b/back-end.md)
 ### [back up, backup](a-z-word-list-term-collections/b/back-up-backup.md)
 ### [backbone](a-z-word-list-term-collections/b/backbone.md)
-### [backlight](a-z-word-list-term-collections/b/backlight.md)
-### [backlog grooming](a-z-word-list-term-collections/b/backlog-grooming.md)
 ### [backspace](a-z-word-list-term-collections/b/backspace.md)
 ### [backtab](a-z-word-list-term-collections/b/backtab.md)
 ### [badge](a-z-word-list-term-collections/b/badge.md)
