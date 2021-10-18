@@ -57,6 +57,9 @@ the first row of your table contains column headings, you have a header
 row. Distinguish the text in the header row from the rest of the text
 in the table. For example, make it larger, bolder, or a different color.
 
+Column 
+headers identify the data each column contains. Make headings precise for usability. For example, don't use "Name". Instead, make column headers specific as in "Group" or "Employee". (While screen readers use header information to identify rows and columns, specificity helps all users find the information they're looking for.) 
+
 Don’t
 organize a table so that the column heading forms a complete sentence
 when combined with the cell contents. This can make the table difficult
