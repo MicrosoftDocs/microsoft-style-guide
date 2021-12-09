@@ -14,6 +14,7 @@ This table shows a history of recent updates to the *Microsoft Writing Style Gui
 
 |     **Date**      |                                                                  **Article**                                                                   |                                                                         **Change**                                                                          |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| December 9, 2021  |        [SQL, SQL server](https://docs.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/s/sql-sql-server)           |               	Revised guidance to use the article "a" with SQL and updated examples.
 | August 26, 2021  |        [multi-](https://docs.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/m/multi)           |               Added multicloud exception to guideline.
 | August 26, 2021  |        [touch-sensitive](https://docs.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/t/touch-sensitive)           |               Added new topic.
 | August 25, 2021  |        [Bias-free communication](https://docs.microsoft.com/en-us/style-guide/bias-free-communication)           |               Added inclusive language section.
