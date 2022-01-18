@@ -13,7 +13,7 @@ ms.prod: non-product-specific
 
 Include a colon at the end of a phrase that directly introduces a list.<br />
 **Example**  
-We can create a backup of all sorts of things to make the transition easier, including: 
+You can create a backup of all sorts of things to make the transition easier, including: 
 
   - The apps you've installed on your phone, along with high scores and progress from participating apps. 
   - The passwords for your accounts. 
