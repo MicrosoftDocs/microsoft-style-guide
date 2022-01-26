@@ -2,7 +2,7 @@
 title: Date and time terms - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 08/11/2019
+ms.date: 08/10/2021
 ms.topic: article
 ms.prod: non-product-specific
 ---
