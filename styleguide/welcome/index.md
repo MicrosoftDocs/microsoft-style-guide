@@ -3,7 +3,7 @@ title: Welcome - Microsoft Style Guide
 description: The online Microsoft Writing Style Guide provides up-to-date style and terminology guidelines. It replaces the Microsoft Manual of Style.
 author: pallep
 ms.author: pallep
-ms.date: 08/26/2021
+ms.date: 01/27/2022
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -32,4 +32,4 @@ Here's what you will find in the *Microsoft Writing Style Guide:*
 
 We welcome your feedback about the *Microsoft Writing Style Guide.* Contact us at <msstyle@microsoft.com>. 
 
-&copy; 2021 Microsoft. All rights reserved.
+&copy; 2022 Microsoft. All rights reserved.
