@@ -53,6 +53,6 @@ Don’t use colon when introducing lists of radio buttons or checkboxes.
 
 ## When displaying clock time
 
-Don't use colons when displaying clock time. Use Unicode 2236 (ratio symbol) instead. See [Date and time terms](https://github.com/MicrosoftDocs/microsoft-style-guide-pr/blob/master/styleguide/a-z-word-list-term-collections/term-collections/date-time-terms.md).<br />
+Don't use colons when displaying clock time. Use Unicode 2236 (ratio symbol) instead. See [Date and time terms](https://docs.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/date-time-terms).<br />
 **Example**<br />
 The meeting is scheduled for 1∶00 PM.
