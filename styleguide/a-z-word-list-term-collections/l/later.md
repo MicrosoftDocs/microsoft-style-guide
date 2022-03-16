@@ -15,7 +15,9 @@ It's OK to use *or later* or *and later* to refer to multiple versions of softwa
 
 **Examples**  
 Internet Explorer 7 or later, Firefox 3.6 or later  
-Windows 7, Windows 8, Windows 8.1, Windows 10, and later. 
+
+Windows 7, Windows 8, Windows 8.1, Windows 10, and later.
+
 Download and install the Power BI publisher for Excel to use with Microsoft Excel 2010 or later versions.
 
 **See also** [earlier](~/a-z-word-list-term-collections/e/earlier.md)
