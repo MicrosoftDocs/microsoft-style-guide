@@ -2,7 +2,7 @@
 title: What's new? - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 10/15/2021
+ms.date: 05/13/2022
 ms.topic: article
 ms.prod: non-product-specific
 ---
