@@ -11,22 +11,24 @@ ms.prod: non-product-specific
 
 Lists are a great way to present complex text in a way that's easy to scan. 
 
-Lists
-work best when they have two to seven items. Each item should be fairly
-short—the reader should be able to see at least two, and preferably
-three, list items at a glance. It’s OK to have a couple of short
-paragraphs in a list item, but don’t exceed that length too often.
+A list should have at least two items but no more than seven items. Each item should be fairly short—the reader should be able to see at least two, and preferably three, list items at a glance. It’s OK to have a couple of short paragraphs in a list item, but don’t exceed that length too often.
 
-Make items in a list parallel. For example, each item should be a noun or a phrase that starts with a verb.
+Make all the items in a list consistent in structure. For example, each item should be a noun or a phrase that starts with a verb.
 
 ## Bulleted lists
 
 Use a bulleted list for things that have something in common but don’t need to appear in a particular order.<br />
-**Example**<br />The database owner can:
+**Examples**<br />The database owner can:
 
   - Create and delete a database.
   - Add, delete, or modify a document.
   - Add, delete, or modify any information in the database. 
+
+<br />Bring your customers into focus
+  - Own your customer relationship.
+  - Create raving fans.
+  - Engage in new ways.
+
 
 ## Numbered lists
 
@@ -62,13 +64,40 @@ all items begin with lowercase words.
 
 ## Punctuation
 
-In bulleted and numbered lists, end each list item with a period if:
+Don’t use semicolons, commas, or conjunctions (like and or or) at the end of list items.
 
-  - Any item forms a complete sentence when combined with the list introduction that precedes the colon. <br />    **Exception** Don’t use periods if all items have three or fewer words or if the items are UI labels, headings, subheadings, or strings.  
+Don’t use a period at the end of list items unless they’re complete sentences, even if the complete sentence is very short.
+**Examples**<br />Devices affected by this recall
+
+  - Original Surface Pro
+  - Surface Pro 2
+  - Surface Pro 3
+
+<br />Limitations on meeting organizers
+  - Only invited presenters can be selected as breakout room managers.
+  - he number of breakout room managers is limited to 10.
+  - Breakout room managers can't be assigned to specific rooms, but they can move freely between rooms.
+
+If the list is introduced by a sentence fragment that ends with a colon, end all the items in the list with a period if any item forms a complete sentence when combined with the introduction.
+
+**Examples**<br />Knowledge managers can:
+
+  - Confirm or remove topics that were discovered in your tenant.
+  - Create new topics manually as needed.
+  - Edit existing topic pages.
+
+**Exception** Don’t use periods if all items have three or fewer words or if the items are UI labels, headings, subheadings, strings, or similar types of text.  
   
-  - Any item *by itself* is a complete sentence.
+<br />The administrative templates for Microsoft Edge are:
 
-Don’t use semicolons, commas, or conjunctions (like *and* or *or*) at the end of list items.
+  - msedge.admx
+  - msedgeupdate.admx
+
+<br />The topic answer will display:
+
+  - The topic name
+  - Alternate names
+  - The definition
 
 ## In UI
 
