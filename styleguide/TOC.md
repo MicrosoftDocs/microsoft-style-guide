@@ -608,7 +608,7 @@
 ### [peripheral](a-z-word-list-term-collections/p/peripheral.md)
 ### [permissions](a-z-word-list-term-collections/p/permissions.md)
 ### [personal digital assistant](a-z-word-list-term-collections/p/personal-digital-assistant.md)
-### [phone](a-z-word-list-term-collections/p/phone.md)
+### [phone, phone number](a-z-word-list-term-collections/p/phone.md)
 ### [photo](a-z-word-list-term-collections/p/photo.md)
 ### [pin, unpin](a-z-word-list-term-collections/p/pin-unpin.md)
 ### [pinch](a-z-word-list-term-collections/p/pinch.md)

@@ -2,7 +2,7 @@
 title: Periods - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 01/19/2018
+ms.date: 05/13/2022
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -14,6 +14,9 @@ use end punctuation in headlines, headings, subheadings, UI
 titles, UI text, or simple lists (three or fewer words per item).
 
 End all sentences with a period, even if they're only two words. Put one space, not two, after a period. 
+
+For information about how to use periods in bulleted lists and numbered lists, see [Lists](https://github.com/MicrosoftDocs/microsoft-style-guide-pr/blob/main/styleguide/scannable-content/lists.md).
+
 
 **Headline example**  
 Be brief—make every word count
