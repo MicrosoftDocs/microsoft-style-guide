@@ -64,9 +64,10 @@ all items begin with lowercase words.
 
 ## Punctuation
 
-Don’t use semicolons, commas, or conjunctions (like and or or) at the end of list items.
+Don’t use semicolons, commas, or conjunctions (like *and* or *or*) at the end of list items.
 
 Don’t use a period at the end of list items unless they’re complete sentences, even if the complete sentence is very short.
+
 **Examples**<br />Devices affected by this recall
 
   - Original Surface Pro
@@ -75,7 +76,7 @@ Don’t use a period at the end of list items unless they’re complete sentence
 
 <br />Limitations on meeting organizers
   - Only invited presenters can be selected as breakout room managers.
-  - he number of breakout room managers is limited to 10.
+  - The number of breakout room managers is limited to 10.
   - Breakout room managers can't be assigned to specific rooms, but they can move freely between rooms.
 
 If the list is introduced by a sentence fragment that ends with a colon, end all the items in the list with a period if any item forms a complete sentence when combined with the introduction.
