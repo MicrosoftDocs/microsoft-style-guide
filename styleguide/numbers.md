@@ -2,7 +2,7 @@
 title: Numbers - Microsoft Style Guide
 author: pallep
 ms.author: pallep
-ms.date: 08/11/2021
+ms.date: 05/13/2022
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -84,6 +84,14 @@ all other content, follow the guidelines below.
   Don't use ordinal numbers, such as *June* *first* or *October twenty-eighth,* for dates. Use a numeral instead: *June 1, October 28.*
 
   **Global tip** To avoid confusion, always spell out the name of the month. The positions of the month and day vary by country. For example, 6/12/2017 might be June 12, 2017 or December 6, 2017.
+  
+## Phone numbers 
+
+Use hyphens—not parentheses, periods, spaces, or anything else—to separate the parts of a phone number. 
+
+Example 612-555-0175 
+
+**Global tip** For information about how to format phone numbers in a region outside the United States and Canada, refer to the localization style guide for that region. 
 
 ## Negative numbers
 
