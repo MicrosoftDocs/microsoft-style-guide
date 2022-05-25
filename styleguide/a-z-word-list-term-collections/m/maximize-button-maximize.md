@@ -1,5 +1,6 @@
 ---
 title: Maximize button, maximize - Microsoft Style Guide
+description: Describes how to refer to the maximize button and maximizing screens in content and provides examples of referring to maximizing screens in content.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
@@ -16,4 +17,4 @@ It's OK to use *maximize* as a verb.
 **Examples**    
 Select the **Maximize** button.     
 To fill the screen, maximize the window.   
-Select ![](media/maximize-button-maximize/302251874.png).
+Select ![Screenshot of a gray square with a smaller a black square within it to indicate that a screen can be maximized.](media/maximize-button-maximize/302251874.png).

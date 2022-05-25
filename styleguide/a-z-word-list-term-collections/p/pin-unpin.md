@@ -1,5 +1,6 @@
 ---
 title: pin, unpin - Microsoft Style Guide
+description: Describes how to implement the pin and unpin terms in content and provides examples of using the pin and unpin terms in content.
 author: pallep
 ms.author: pallep
 ms.date: 05/9/2018
@@ -17,7 +18,7 @@ Pin important messages to the top of the message list, and unpin them when you'r
 
 **Pin apps to Start**
 
-1.  Select the **Start** ![](media/pin-unpin/967781121.png) button, and then select **All apps**. 
+1.  Select the **Start** ![Screenshot of a black Windows icon as it appears as the Start button on Windows.](media/pin-unpin/967781121.png) button, and then select **All apps**. 
 
 2.  Press and hold (or right-click) the app you want to pin.
 

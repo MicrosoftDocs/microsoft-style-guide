@@ -1,5 +1,6 @@
 ---
 title: Procedures and instructions - Microsoft Style Guide
+description: Describes how to create procedures and instructions in content and provides examples of ways to communicate procedures and instructions in content.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
@@ -9,28 +10,27 @@ ms.prod: non-product-specific
 
 # Procedures and instructions
 
-The
-best procedure is the one you don’t need. If the UI is crystal
+The best procedure is the one you don’t need. If the UI is crystal
 clear and leads the customer through a task, a procedure
 isn’t necessary. Start there.
 
 Some tasks are more complex. When you need to provide a procedure, look for the clearest way to present it. That might be:
 
   - A picture, an illustration, a poster, or an infographic  
-    ![](media/index/1980906142.png)  
+    ![A screenshot of two columns. The left, blue column reads In SharePoint Server 2013 on-premise. The right, red column reads in Office 365.](media/index/1980906142.png)  
   - A video.
 
-    ![](media/index/774741777.png)
+    ![Screenshot of a paused video under a description of an article with a header reading Getting started with Internet Explorer 11.](media/index/774741777.png)
 
   - A one-sentence instruction.
 
-    ![](media/index/1713306812.png)
+    ![Screenshot of an article header reading Call a friend followed by a one-sentence instruction and various examples of the instruction.](media/index/1713306812.png)
 
   - A numbered
     procedure, which might include pictures, videos, and links or
     buttons that take customers where they need to go.
 
-    ![](media/index/541572162.png)
+    ![Screenshot of an article with the Adding your files to OneDrive header followed by four numbered steps, each with an accompanying image.](media/index/541572162.png)
 
 When
 a procedure is the best approach, use the guidelines in this

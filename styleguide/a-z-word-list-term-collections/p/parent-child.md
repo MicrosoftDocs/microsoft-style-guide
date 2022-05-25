@@ -1,5 +1,6 @@
 ---
 title: parent/child - Microsoft Style Guide
+description: Describes when to use the parent and child terms in content and provides a link to an article about the master and slave terms.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

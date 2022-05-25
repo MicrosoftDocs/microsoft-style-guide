@@ -1,5 +1,6 @@
 ---
 title: Currency - Microsoft Style Guide
+description: Outlines various currency names, outlines how to reference specific monetary amounts through using currency codes.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
@@ -14,12 +15,11 @@ ms.prod: non-product-specific
 In general, lowercase the names of currencies, but capitalize the reference to the country or region.<br /> 
 **Examples**<br />US dollar<br />Canadian dollar<br />Hong Kong SAR dollar<br />Brazilian real<br />South African rand<br />Pricing through the Microsoft Online Subscription Program is shown in US dollars.
 
-In
-a structured list, for example a table that compares available pricing
+In a structured list, for example a table that compares available pricing
 options, it's OK to capitalize the name of the currency.<br />
 **Example**
 
-![](media/currency/1453401234.png)
+![Screenshot of a structured list showing countries and their respective currencies.](media/currency/1453401234.png)
 
 ## Specific monetary amounts
 

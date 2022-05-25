@@ -1,5 +1,6 @@
 ---
 title: Mouse and mouse interaction terms - Microsoft Style Guide
+description: Describes how to refer the mouse and mouse interaction and provides a table that outlines the usage of various mouse-related terms.
 author: pallep
 ms.author: pallep
 ms.date: 9/21/2019
@@ -48,6 +49,6 @@ of the word *pointer*—use both<em>.</em>
 |**Term**|**Usage**|
 |---|---|
 |**busy pointer**|Use to describe the pointer when it consists only of an activity indicator.|
-|**double-headed arrow**|Use to describe how the pointer looks over a split line (<img src="media/mouse-mouse-interaction-terms/1502439723.png" />). Don't use *double-headed arrow* as a name for the pointer. <br />**Example**<br />When the pointer becomes a <img src="media/mouse-mouse-interaction-terms/270050385.png" />, drag the pointer to move the split line.|
+|**double-headed arrow**|Use to describe how the pointer looks over a split line (:::image type="icon" source="media/mouse-mouse-interaction-terms/1502439723.png":::). Don't use *double-headed arrow* as a name for the pointer. <br />**Example**<br />When the pointer becomes a :::image type="icon" source="media/mouse-mouse-interaction-terms/1502439723.png":::, drag the pointer to move the split line.|
 |**pointer**|Use to refer to the pointer on the screen. Use *cursor* only for a technical audience or when it's necessary to describe the point where text or graphics will be inserted. Don't use *insertion point*.|
 |**working in background pointer**|Use to describe the pointer when it consists of both the pointer and an activity indicator.|

@@ -1,5 +1,6 @@
 ---
 title: whitelist - Microsoft Style Guide
+description: Describes process of using the term allowlist in place of the whitelist in content and provides examples of using the term allowlist in content.
 author: pallep
 ms.author: pallep
 ms.date: 1/15/2021

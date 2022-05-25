@@ -1,5 +1,6 @@
 ---
 title: master/slave, master/subordinate - Microsoft Style Guide
+description: Describes the master and slave terms as needing to be replaced by the primary and secondary, principal and agent, controller and worker terms in content.
 author: pallep
 ms.author: pallep
 ms.date: 08/04/2020
