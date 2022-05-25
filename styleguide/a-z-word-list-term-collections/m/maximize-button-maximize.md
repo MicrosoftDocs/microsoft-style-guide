@@ -17,4 +17,4 @@ It's OK to use *maximize* as a verb.
 **Examples**    
 Select the **Maximize** button.     
 To fill the screen, maximize the window.   
-Select ![Screenshot of a gray square with a smaller a black square within it to indicate that a screen can be maximized.](media/maximize-button-maximize/302251874.png).
+Select ![Screenshot of a gray square with a smaller black square within it to indicate that a screen can be maximized.](media/maximize-button-maximize/302251874.png).
