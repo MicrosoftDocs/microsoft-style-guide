@@ -1,5 +1,6 @@
 ---
 title: Sidebars - Microsoft Style Guide
+description: Describes how to implement sidebars in content, specifically with longer articles or documents and provides an example of a sidebar.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
@@ -20,4 +21,4 @@ people read sidebars before or after the rest of the page, so don’t use
 sidebars for information that should be read in sequence with the
 main text.
 
-![](media/sidebars/1416770987.png)
+![Screenshot of an article with a sidebar the provides statistics that accompany the content of the written content.](media/sidebars/1416770987.png)

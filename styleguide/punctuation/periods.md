@@ -1,5 +1,6 @@
 ---
 title: Periods - Microsoft Style Guide
+description: Describes how to implement periods in content and provides example of how to use periods in headlines and in text of content.
 author: pallep
 ms.author: pallep
 ms.date: 05/13/2022
@@ -15,7 +16,7 @@ titles, UI text, or simple lists (three or fewer words per item).
 
 End all sentences with a period, even if they're only two words. Put one space, not two, after a period. 
 
-For information about how to use periods in bulleted lists and numbered lists, see [Lists](https://docs.microsoft.com/en-us/style-guide/scannable-content/lists).
+For information about how to use periods in bulleted lists and numbered lists, see [Lists](/style-guide/scannable-content/lists).
 
 
 **Headline example**  
