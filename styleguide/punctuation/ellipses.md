@@ -1,5 +1,6 @@
 ---
 title: Ellipses - Microsoft Style Guide
+description: Describes how to use ellipses in content, outlines situations where ellipses are allowed, and provides examples of how to implement ellipses into content.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
@@ -36,7 +37,7 @@ In quoted material, use an ellipsis to indicate omitted text.
 
 It’s OK to use an ellipsis in multiple-part callouts, especially with screenshots or graphics in documentation. 
 
-![](media/ellipses/2036405554.png)![](media/ellipses/2085992510.png)
+![Screenshot of a presentation slide with a line to a note above the slide reading When you apply a design template...](media/ellipses/2036405554.png)![Screenshot of a presentation slide with brackets to the right of the slide with text reading formatting and items change...](media/ellipses/2085992510.png)
 
   - Ensure that the path through the callouts is clear. Document each step.  
   

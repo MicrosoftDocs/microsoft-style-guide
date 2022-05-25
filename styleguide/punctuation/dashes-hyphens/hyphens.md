@@ -1,5 +1,6 @@
 ---
 title: Hyphens - Microsoft Style Guide
+description: Describes how to use hyphens in various contexts in content including predicate adjectives, noun modifiers, compound nouns, prefixes, and more.
 author: pallep
 ms.author: pallep
 ms.date: 05/20/2021
@@ -106,11 +107,20 @@ Avoid creating new words by adding prefixes to existing words. Rewrite to avoid 
 
 In general, don’t include a hyphen after the following prefixes unless omitting the hyphen could confuse the reader.
 
-|  |  |  | |  |
-| ------ | ----- | ------ | ---- | ----- |
-| auto-  | exa-  | mega-  | pre- | tera- |
-| co-   | giga- | micro- | re-  | un-  |
-| cyber- | kilo- | non-  | sub- |  |
+- auto-
+- co-
+- cyber-
+- exa-
+- giga-
+- kilo-
+- mega-
+- micro-
+- non-
+- pre-
+- re-
+- sub-
+- tera-
+- un-
 
 Use a hyphen between a prefix and a stem word:
 

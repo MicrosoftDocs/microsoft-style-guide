@@ -1,5 +1,6 @@
 ---
 title: blacklist - Microsoft Style Guide
+description: Describes the term blacklist, how the term blocklist will be used in its place, and provides examples of using the term blocklist in content.
 author: pallep
 ms.author: pallep
 ms.date: 01/15/2021

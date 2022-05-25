@@ -1,5 +1,6 @@
 ---
 title: symbol - Microsoft Style Guide
+description: Describes how to refer to various graphic or special characters in content and provides examples of referring to symbols in content.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
@@ -26,7 +27,7 @@ Follow these guidelines when discussing symbols:
   - For
     UI elements, such as buttons, you can use a graphic of the button by
     itself after it has been named once or if selecting it displays a
-    definition. <br />**Examples**<br />Select the **Minimize** button (![](media/symbol/1689948149.PNG)).<br />Select ![](media/symbol/1414490202.PNG). 
+    definition. <br />**Examples**<br />Select the **Minimize** button (![Screenshot of a gray square with a subtraction icon to indicate a screen can be minimized.](media/symbol/1689948149.PNG)).<br />Select ![Screenshot of a gray square with a black X to indicate that a screen can be closed.](media/symbol/1414490202.PNG). 
 
   - Write out the plurals of symbols, showing the use in parentheses. Don't add *s* or *'s* to a symbol. <br />**Example** <br />Enter two backslashes (\\\\) to show a network connection. 
 
