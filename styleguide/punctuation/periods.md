@@ -1,6 +1,6 @@
 ---
 title: Periods - Microsoft Style Guide
-description: Describes how to implement periods in content and provides example of how to use periods in headlines and in text of content.
+description: Describes how to implement periods in content and provides examples of how to use periods in headlines and in text of content.
 author: pallep
 ms.author: pallep
 ms.date: 05/13/2022

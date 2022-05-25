@@ -21,4 +21,4 @@ people read sidebars before or after the rest of the page, so don’t use
 sidebars for information that should be read in sequence with the
 main text.
 
-![Screenshot of an article with a sidebar the provides statistics that accompany the content of the written content.](media/sidebars/1416770987.png)
+![Screenshot of an article with a sidebar the provides statistics that accompany the written content.](media/sidebars/1416770987.png)

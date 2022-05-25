@@ -1,6 +1,6 @@
 ---
 title: Headings - Microsoft Style Guide
-description: Describes how to implement headings in content and outlines how to write, format, and use run-in headings and provides multiple example headings.
+description: Describes how to implement headings in content and outlines how to write, format, use run-in headings, and provides multiple example headings.
 author: pallep
 ms.author: pallep
 ms.date: 07/24/2018
