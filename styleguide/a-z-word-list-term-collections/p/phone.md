@@ -16,5 +16,5 @@ As a UI label, use *Phone*, not *Phone number*.
 
 For information about referring to mobile phones, see [Computer and device term collection](~/a-z-word-list-term-collections/term-collections/computer-device-terms.md).
 
-For information about how to format phone numbers, see [Numbers](https://docs.microsoft.com/style-guide/numbers).
+For information about how to format phone numbers, see [Numbers](/style-guide/numbers).
 
