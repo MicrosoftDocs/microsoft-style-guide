@@ -1,5 +1,6 @@
 ---
 title: What's new? - Microsoft Style Guide
+description: Provides a table that shows a history of recent updates to the Microsoft Writing Style Guide and outlines the date and changes made to various articles.
 author: pallep
 ms.author: pallep
 ms.date: 05/13/2022
@@ -14,18 +15,18 @@ This table shows a history of recent updates to the *Microsoft Writing Style Gui
 
 |     **Date**      |                                                                  **Article**                                                                   |                                                                         **Change**                                                                          |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| May 13, 2022  |        [Lists](https://docs.microsoft.com/en-us/style-guide/scannable-content/lists)           |               		Added another example of a bulleted list. Expanded the Exception and added examples. to address gap in guidance regarding lists that do not complete an introductory phrase, but whose items are all short, complete sentences.
-| May 13, 2022  |        [Periods](https://docs.microsoft.com/en-us/style-guide/punctuation/periods)           |               		Added link to Lists topic in guidance.
-| May 13, 2022  |        [Numbers](https://docs.microsoft.com/en-us/style-guide/numbers)           |               	Added new section on phone numbers.
-| May 13, 2022  |        [phone, phone number](https://docs.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/p/phone)           |               	Changed title of topic to include "phone number." Revised guidance to include mobile phones and to address phone number formatting.
-| December 15, 2021  |        [Cloud-computing terms](https://docs.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/cloud-computing-terms)           |               	Revised guidance to terms in the cloud-computing collection.
-| December 9, 2021  |        [SQL, SQL server](https://docs.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/s/sql-sql-server)           |               	Revised guidance to use the article "a" with SQL and updated examples.
-| August 26, 2021  |        [multi-](https://docs.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/m/multi)           |               Added multicloud exception to guideline.
-| August 26, 2021  |        [touch-sensitive](https://docs.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/t/touch-sensitive)           |               Added new topic.
-| August 25, 2021  |        [Bias-free communication](https://docs.microsoft.com/en-us/style-guide/bias-free-communication)           |               Added inclusive language section.
-| August 12, 2021  |        [colons](https://docs.microsoft.com/en-us/style-guide/punctuation/colons)           |               Updated guidance on use of colons in clock time. 
-| August 11, 2021  |        [numbers](https://docs.microsoft.com/en-us/style-guide/numbers)           |               Replaced colons with ratio symbols. 
-| August 10, 2021  |        [date and time terms](https://docs.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/date-time-terms)           |               New section on clock time. 
+| May 13, 2022  |        [Lists](/style-guide/scannable-content/lists)           |               		Added another example of a bulleted list. Expanded the Exception and added examples. to address gap in guidance regarding lists that do not complete an introductory phrase, but whose items are all short, complete sentences.
+| May 13, 2022  |        [Periods](/style-guide/punctuation/periods)           |               		Added link to Lists topic in guidance.
+| May 13, 2022  |        [Numbers](/style-guide/numbers)           |               	Added new section on phone numbers.
+| May 13, 2022  |        [phone, phone number](/style-guide/a-z-word-list-term-collections/p/phone)           |               	Changed title of topic to include "phone number." Revised guidance to include mobile phones and to address phone number formatting.
+| December 15, 2021  |        [Cloud-computing terms](/style-guide/a-z-word-list-term-collections/term-collections/cloud-computing-terms)           |               	Revised guidance to terms in the cloud-computing collection.
+| December 9, 2021  |        [SQL, SQL server](/style-guide/a-z-word-list-term-collections/s/sql-sql-server)           |               	Revised guidance to use the article "a" with SQL and updated examples.
+| August 26, 2021  |        [multi-](/style-guide/a-z-word-list-term-collections/m/multi)           |               Added multicloud exception to guideline.
+| August 26, 2021  |        [touch-sensitive](/style-guide/a-z-word-list-term-collections/t/touch-sensitive)           |               Added new topic.
+| August 25, 2021  |        [Bias-free communication](/style-guide/bias-free-communication)           |               Added inclusive language section.
+| August 12, 2021  |        [colons](/style-guide/punctuation/colons)           |               Updated guidance on use of colons in clock time. 
+| August 11, 2021  |        [numbers](/style-guide/numbers)           |               Replaced colons with ratio symbols. 
+| August 10, 2021  |        [date and time terms](/style-guide/a-z-word-list-term-collections/term-collections/date-time-terms)           |               New section on clock time. 
 | May 31, 2021  |        [workstream](~/a-z-word-list-term-collections/w/workstream.md)           |               New guidance on spelling and use. 
 | May 31, 2021  |        [wellbeing](~/a-z-word-list-term-collections/w/wellbeing.md)           |               New guidance on spelling and use. 
 | April 30, 2021  |        [invite](~/a-z-word-list-term-collections/i/invite.md)           |               New topic. 
