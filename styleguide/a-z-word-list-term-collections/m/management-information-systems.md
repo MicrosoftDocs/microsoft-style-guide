@@ -1,5 +1,6 @@
 ---
 title: management information systems - Microsoft Style Guide
+description: Describes guidelines to use 'management information systems' in Microsoft documents and provides alternate examples.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

@@ -1,5 +1,6 @@
 ---
 title: matrix, matrices - Microsoft Style Guide
+description: Describes guidelines to use 'matrices' as the plural form of 'matrix' in Microsoft documents.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

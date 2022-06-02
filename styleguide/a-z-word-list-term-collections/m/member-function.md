@@ -1,5 +1,6 @@
 ---
 title: member function - Microsoft Style Guide
+description: Describes guidelines to use 'member function' in Microsoft documents.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
