@@ -1,5 +1,6 @@
 ---
 title: Units of measure terms - Microsoft Style Guide
+description: Describes how to refer to units of measure in Microsoft content and provides a table that outlines how to write terms and abbreviations for units of measure.
 author: pallep
 ms.author: pallep
 ms.date: 08/09/2021

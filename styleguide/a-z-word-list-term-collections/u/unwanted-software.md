@@ -1,5 +1,6 @@
 ---
 title: unwanted software - Microsoft Style Guide
+description: Provides a link to the security term collection topic.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

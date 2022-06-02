@@ -1,5 +1,6 @@
 ---
 title: turn on, turn off - Microsoft Style Guide
+description: Describes how to use turn on and turn off as terminology in Microsoft articles and provides examples of using these terms in content.
 author: pallep
 ms.author: pallep
 ms.date: 04/02/2021

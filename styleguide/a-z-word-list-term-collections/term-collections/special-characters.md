@@ -1,5 +1,6 @@
 ---
 title: Special characters - Microsoft Style Guide
+description: Describes how to refer to special characters in Microsoft content and provides a table that outlines the name for various special characters.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
