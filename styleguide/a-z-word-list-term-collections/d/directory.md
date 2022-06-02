@@ -1,5 +1,6 @@
 ---
 title: directory - Microsoft Style Guide
+description: Describes guidelines to use the word 'directory' in Microsoft documents, including instances where this word is appropriate or allowed.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

@@ -1,5 +1,6 @@
 ---
 title: desktop - Microsoft Style Guide
+description: Describes guidelines to use 'desktop' in Microsoft documents, and provides correct and alternate examples.
 author: pallep
 ms.author: pallep
 ms.date: 02/28/2019

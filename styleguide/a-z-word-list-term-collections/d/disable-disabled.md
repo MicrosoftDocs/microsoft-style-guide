@@ -1,5 +1,6 @@
 ---
 title: disable, disabled - Microsoft Style Guide
+description: Describes guidelines to use 'disable' or 'disabled' in Microsoft documents,  including instances where this word is appropriate or allowed.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

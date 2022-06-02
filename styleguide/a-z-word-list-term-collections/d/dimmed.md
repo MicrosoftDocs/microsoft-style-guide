@@ -1,5 +1,6 @@
 ---
 title: dimmed - Microsoft Style Guide
+description: Describes guidelines to use the word 'dimmed' in Microsoft documents, and provides correct examples.
 author: pallep
 ms.author: pallep
 ms.date: 04/02/2021
