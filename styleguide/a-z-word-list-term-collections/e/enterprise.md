@@ -1,5 +1,6 @@
 ---
 title: enterprise - Microsoft Style Guide
+description: Describes guidelines to use 'enterprise' in Microsoft documents. Don't use in content for a general audience.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

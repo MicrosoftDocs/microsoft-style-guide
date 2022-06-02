@@ -1,5 +1,6 @@
 ---
 title: erase - Microsoft Style Guide
+description: Describes guidelines to use 'erase' in Microsoft documents. See 'delete' for additional information.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
