@@ -1,5 +1,6 @@
 ---
 title: etc. - Microsoft Style Guide
+description: Describes guidelines to use 'etc.' in Microsoft documents and provides alternate examples.
 author: pallep
 ms.author: pallep
 ms.date: 06/27/2019

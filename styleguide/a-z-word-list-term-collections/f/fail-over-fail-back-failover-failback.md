@@ -1,5 +1,6 @@
 ---
 title: fail over, fail back, failover, failback - Microsoft Style Guide
+description: Describes guidelines to use 'fail over', 'fail back', 'failover', or 'failback' in Microsoft documents and provides alternate examples.
 author: pallep
 ms.author: pallep
 ms.date: 04/1/2019

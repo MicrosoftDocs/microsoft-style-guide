@@ -1,5 +1,6 @@
 ---
 title: far-left, far-right - Microsoft Style Guide
+description: Describes guidelines to use 'far-left' or 'far-right' in Microsoft documents and provides alternate examples.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
