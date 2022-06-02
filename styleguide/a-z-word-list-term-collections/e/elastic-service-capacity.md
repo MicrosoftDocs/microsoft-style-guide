@@ -1,5 +1,6 @@
 ---
 title: elastic service capacity - Microsoft Style Guide
+description: For more information on using 'elastic service capacity' in Microsoft documents, see 'Cloud-computing term collection.'
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

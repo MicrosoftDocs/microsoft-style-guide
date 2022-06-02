@@ -1,5 +1,6 @@
 ---
 title: embed - Microsoft Style Guide
+description: Describes guidelines to use 'embed' in Microsoft documents.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

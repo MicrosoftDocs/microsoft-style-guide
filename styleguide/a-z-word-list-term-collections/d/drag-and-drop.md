@@ -1,5 +1,6 @@
 ---
 title: drag, drag and drop - Microsoft Style Guide
+description: Describes guidelines to use 'drag' or 'drag and drop' in Microsoft documents and provides alternate examples.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

@@ -1,5 +1,6 @@
 ---
 title: dropdown - Microsoft Style Guide
+description: Describes guidelines to use 'dropdown' in Microsoft documents and provides alternate examples.
 author: pallep
 ms.author: pallep
 ms.date: 03/26/2021
