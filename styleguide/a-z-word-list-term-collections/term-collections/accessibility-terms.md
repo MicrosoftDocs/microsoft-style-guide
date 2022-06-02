@@ -1,5 +1,6 @@
 ---
 title: Accessibility terms - Microsoft Style Guide
+description: Describes accessibility terms and provides examples of inclusive language to include in content and examples of sensitive language to exclude from content.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
@@ -34,7 +35,7 @@ For an overview of Microsoft accessibility policies, see [Accessibility guidelin
 To learn more about writing that conveys respect to all people and promotes equal opportunities, see the [Guidelines for Inclusive Language](https://www.linguisticsociety.org/content/guidelines-inclusive-language "Linguistic Society of America's guidelines for inclusive language") from the Linguistic Society of America.
 
 
-|                                   **Use this**                                    |                          **Instead of this**                          |
+|                                   Use this                                    |                          Instead of this                          |
 |-----------------------------------------------------------------------------------|-----------------------------------------------------------------------|
 |                               Blind, has low vision                               |                    Sight-impaired, vision-impaired                    |
 |                              Deaf or hard-of-hearing                              |                           Hearing-impaired                            |

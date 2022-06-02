@@ -1,5 +1,6 @@
 ---
 title: upgrade - Microsoft Style Guide
+description: Describes how to implement the term 'upgrade' in Microsoft content and provides examples of using the term 'upgrade' in content.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

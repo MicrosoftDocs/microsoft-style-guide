@@ -1,5 +1,6 @@
 ---
 title: un- - Microsoft Style Guide
+description: Describes how to implement the 'un-' hyphen in Microsoft content and provides a link to the Hyphens topic.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

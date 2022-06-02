@@ -1,5 +1,6 @@
 ---
 title: upload - Microsoft Style Guide
+description: Describes how to implement the term 'upload' in Microsoft content and provides an example of using the term 'upload' in content.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

@@ -1,5 +1,6 @@
 ---
 title: upper left, upper right - Microsoft Style Guide
+description: Describes how to implement the terms 'upper-left' and 'upper-right' in Microsoft content and provides an example of using 'upper-right' in content.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
