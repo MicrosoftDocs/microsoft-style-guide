@@ -1,5 +1,6 @@
 ---
 title: drill down, drill up, drill through - Microsoft Style Guide
+description: Describes guidelines to use 'drill down', 'drill up', or 'drill through' in Microsoft documents and provides examples.
 author: pallep
 ms.author: pallep
 ms.date: 11/26/2018
