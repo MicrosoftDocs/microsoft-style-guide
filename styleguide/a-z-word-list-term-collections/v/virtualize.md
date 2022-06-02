@@ -1,5 +1,6 @@
 ---
 title: virtualize - Microsoft Style Guide
+description: Describes how to implement the term 'virtualize' in content, clarifying to use the term only for technical audiences.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

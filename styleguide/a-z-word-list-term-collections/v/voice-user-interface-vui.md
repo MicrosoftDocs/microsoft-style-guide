@@ -1,5 +1,6 @@
 ---
 title: voice user interface (VUI) - Microsoft Style Guide
+description: Provides a link to the AI and bot term collection topic.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

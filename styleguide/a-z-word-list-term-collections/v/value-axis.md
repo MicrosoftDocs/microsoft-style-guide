@@ -1,5 +1,6 @@
 ---
 title: value axis - Microsoft Style Guide
+description: Describes how to implement the term 'value axis' in Microsoft content and provides a link to the category axis topic.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

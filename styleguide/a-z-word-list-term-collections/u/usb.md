@@ -1,5 +1,6 @@
 ---
 title: USB - Microsoft Style Guide
+description: Provides the computer and device term collection topic to learn how to implement the term 'USB' in Microsoft content.
 author: pallep
 ms.author: pallep
 ms.date: 02/28/2019

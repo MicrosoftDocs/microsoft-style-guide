@@ -1,5 +1,6 @@
 ---
 title: web services - Microsoft Style Guide
+description: Describes how to implement the term 'web services' when referring to web-based applications in Microsoft content.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
