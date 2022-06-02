@@ -1,5 +1,6 @@
 ---
 title: text box - Microsoft Style Guide
+description: Describes how to implement the term 'text box' in Microsoft content and provides examples of using the term 'text box' in content.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

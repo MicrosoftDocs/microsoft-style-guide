@@ -1,5 +1,6 @@
 ---
 title: target drive, target file - Microsoft Style Guide
+description: Describes how to implement the 'target drive' and 'target file' in Microsoft content and provides examples of these terms not being used in content.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

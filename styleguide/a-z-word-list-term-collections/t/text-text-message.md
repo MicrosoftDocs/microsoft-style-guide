@@ -1,5 +1,6 @@
 ---
 title: text, text message - Microsoft Style Guide
+description: Describes how to implement the terms 'text' and 'text message' in Microsoft content and provides a link to the message topic.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

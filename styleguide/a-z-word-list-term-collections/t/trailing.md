@@ -1,5 +1,6 @@
 ---
 title: trailing - Microsoft Style Guide
+description: Describes how to implement the term 'trailing' in Microsoft content and clarifies that this term is to be used instead of 'following' in certain instances.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

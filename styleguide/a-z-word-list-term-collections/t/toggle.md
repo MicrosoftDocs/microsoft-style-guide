@@ -1,5 +1,6 @@
 ---
 title: toggle - Microsoft Style Guide
+description: Describes how to use the term 'toggle' in Microsoft content and provides examples of using this term in content.
 author: pallep
 ms.author: pallep
 ms.date: 9/3/2019
