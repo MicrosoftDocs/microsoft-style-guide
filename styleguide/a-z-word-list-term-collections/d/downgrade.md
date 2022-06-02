@@ -1,6 +1,6 @@
 ---
 title: downgrade - Microsoft Style Guide
-description: In Micrsoft documents, use 'downgrade' only if necessary to express certain concepts, and only in content for an audience that will understand the word in those contexts.
+description: Use 'downgrade' only if necessary to express certain concepts, and only in content for an audience that will understand the word in those contexts.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

@@ -1,6 +1,6 @@
 ---
 title: DNS - Microsoft Style Guide
-description: Describes guidelines to use 'DNS' in Microsoft documents, and provides alternate examples. Includes capitalization guidelines for compound phrases that include 'DNS.'
+description: Describes guidelines to use 'DNS' in Microsoft documents and provides alternate examples. Includes compound-phrase capitalization guidelines.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

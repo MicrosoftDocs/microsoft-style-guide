@@ -1,6 +1,6 @@
 ---
 title: display - Microsoft Style Guide
-description: To see guidelines to use 'display' in Microsoft documents, see the Computer and device term collection.
+description: To see guidelines to use 'display' in Microsoft documents see the Computer and device term collection.
 author: pallep
 ms.author: pallep
 ms.date: 02/28/2019

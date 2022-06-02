@@ -1,6 +1,6 @@
 ---
 title: double buffering - Microsoft Style Guide
-description: Describes guidelines to use 'double buffering' in Microsoft documents, and provides alternate examples.
+description: Describes guidelines to use 'double buffering' in Microsoft documents and provides alternate examples.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
