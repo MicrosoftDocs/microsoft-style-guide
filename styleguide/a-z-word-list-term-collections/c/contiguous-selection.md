@@ -1,5 +1,6 @@
 ---
 title: contiguous selection - Microsoft Style Guide
+description: Describes how to use other terms instead of the term 'contiguous selection' in Microsoft content.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

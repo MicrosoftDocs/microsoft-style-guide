@@ -1,5 +1,6 @@
 ---
 title: control - Microsoft Style Guide
+description: Describes how to use the term 'control' in specific contexts for Microsoft content and provides examples of using the term.
 author: pallep
 ms.author: pallep
 ms.date: 04/02/2021

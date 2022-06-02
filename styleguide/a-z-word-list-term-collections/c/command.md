@@ -1,5 +1,6 @@
 ---
 title: command - Microsoft Style Guide
+description: Describes how to write about commands on menus and when to use the term instead of 'menu item', 'choice', or 'option'.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

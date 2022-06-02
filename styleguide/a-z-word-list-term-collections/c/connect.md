@@ -1,5 +1,6 @@
 ---
 title: connect - Microsoft Style Guide
+description: Describes how to use the term 'connect' and similar terms in Microsoft content for attaching a computer to a network.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

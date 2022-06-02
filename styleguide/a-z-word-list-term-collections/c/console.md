@@ -1,5 +1,6 @@
 ---
 title: console - Microsoft Style Guide
+description: Describes how to use the term 'console' as part of other terms in specific contexts in Microsoft content.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

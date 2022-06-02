@@ -1,5 +1,6 @@
 ---
 title: computer - Microsoft Style Guide
+description: Provides a link to the computer and device term collection topic as it pertains to the term 'computer'.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
