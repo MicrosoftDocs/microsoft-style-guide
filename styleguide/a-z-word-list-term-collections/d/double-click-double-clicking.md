@@ -1,5 +1,6 @@
 ---
 title: double-click, double-clicking - Microsoft Style Guide
+description: To see guidelines to use 'double-click' or 'double-clicking' in Microsoft documents, see the Mouse and mouse interaction term collection.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

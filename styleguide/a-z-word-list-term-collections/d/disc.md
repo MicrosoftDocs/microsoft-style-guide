@@ -1,5 +1,6 @@
 ---
 title: disc - Microsoft Style Guide
+description: To find guidelines to use 'disc' in Microsoft documents, see the Computer and device term collection.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
