@@ -1,5 +1,6 @@
 ---
 title: et al. - Microsoft Style Guide
+description: Describes guidelines to use 'et al.' in Microsoft documents and provides alternate examples.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

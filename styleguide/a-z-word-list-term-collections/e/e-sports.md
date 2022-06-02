@@ -1,5 +1,6 @@
 ---
 title: e-sports - Microsoft Style Guide
+description: Describes guidelines to use 'e-sports' in Microsoft documents and provides alternate examples.
 author: pallep
 ms.author: pallep
 ms.date: 09/10/2018

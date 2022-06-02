@@ -1,5 +1,6 @@
 ---
 title: File Explorer - Microsoft Style Guide
+description: Describes guidelines to refer to 'File Explorer' in Microsoft documents and provides examples.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

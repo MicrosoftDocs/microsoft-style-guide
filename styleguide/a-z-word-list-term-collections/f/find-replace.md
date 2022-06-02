@@ -1,5 +1,6 @@
 ---
 title: find and replace - Microsoft Style Guide
+description: Describes guidelines to use 'find and replace' in Microsoft documents and provides multiple examples.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

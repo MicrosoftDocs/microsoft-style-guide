@@ -1,5 +1,6 @@
 ---
 title: extension, file name extension - Microsoft Style Guide
+description: Describes guidelines to use 'extension' or 'file name extension' in Microsoft documents and provides alternate examples.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
