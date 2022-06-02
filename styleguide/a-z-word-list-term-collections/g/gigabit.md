@@ -1,5 +1,6 @@
 ---
 title: gigabit, Gbit - Microsoft Style Guide
+description: Provides a reference link to 'bits and bytes' terms which includes 'gigabit' or 'Gbit'.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

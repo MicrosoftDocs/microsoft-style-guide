@@ -1,5 +1,6 @@
 ---
 title: foo, foobar, fubar - Microsoft Style Guide
+description: Describes guidelines to use 'foo', 'foobar', or 'fubar' in Microsoft documents. Do not use.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

@@ -1,5 +1,6 @@
 ---
 title: front end, front-end - Microsoft Style Guide
+description: Defines guidelines for using 'front end' or 'front-end' in Microsoft documents. Two words as a noun. Hyphenate as an adjective.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
