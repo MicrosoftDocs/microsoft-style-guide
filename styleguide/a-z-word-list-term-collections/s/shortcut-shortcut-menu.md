@@ -1,5 +1,6 @@
 ---
 title: shortcut, shortcut menu - Microsoft Style Guide
+description: Describes guidelines to use 'shortcut' or 'shortcut menu' in Microsoft documents, and provides examples.
 author: pallep
 ms.author: pallep
 ms.date: 09/3/2019

@@ -1,5 +1,6 @@
 ---
 title: size, resize - Microsoft Style Guide
+description: Describes guidelines to use 'size' or 'resize' in Microsoft documents.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

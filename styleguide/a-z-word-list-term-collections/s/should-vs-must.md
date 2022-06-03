@@ -1,5 +1,6 @@
 ---
 title: should vs. must - Microsoft Style Guide
+description: Describes guidelines to use 'should' or 'must' in Microsoft documents, and provides alternate examples.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
