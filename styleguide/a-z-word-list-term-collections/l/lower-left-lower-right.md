@@ -1,5 +1,6 @@
 ---
 title: lower left, lower-left, lower right, lower-right - Microsoft Style Guide
+description: Guidelines for using the phrases lower left, lower-left, lower right and lower-ri in Microsoft documents.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

@@ -1,5 +1,6 @@
 ---
 title: less vs. fewer vs. under - Microsoft Style Guide
+description: Guidelines for using the terms less vs. fewer vs. under in Microsoft documents.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

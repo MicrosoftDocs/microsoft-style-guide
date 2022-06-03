@@ -1,5 +1,6 @@
 ---
 title: leading - Microsoft Style Guide
+description: Guidelines for using the term leading in Microsoft documents.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

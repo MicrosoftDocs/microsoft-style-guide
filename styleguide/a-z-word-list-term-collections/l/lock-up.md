@@ -1,5 +1,6 @@
 ---
 title: lock up - Microsoft Style Guide
+description: This article provides a link to learn how to use the phrase lock up in Microsoft documents.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

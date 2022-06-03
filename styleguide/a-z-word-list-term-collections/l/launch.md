@@ -1,5 +1,6 @@
 ---
 title: launch - Microsoft Style Guide
+description: This article provides a link to learn how to use the term launch in Microsoft documents.
 author: pallep
 ms.author: pallep
 ms.date: 04/30/2018
