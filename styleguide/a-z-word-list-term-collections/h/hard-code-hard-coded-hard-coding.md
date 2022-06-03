@@ -1,5 +1,6 @@
 ---
 title: hard-code, hard-coded, hard-coding - Microsoft Style Guide
+description: Describes how to use the terms "hard-code", "hard-coded", and "hard-coding" in Microsoft content.
 author: pallep
 ms.author: pallep
 ms.date: 05/28/2019

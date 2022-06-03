@@ -1,5 +1,6 @@
 ---
 title: gray, grayed out - Microsoft Style Guide
+description: Describes how to use the terms "gray" and "grayed out" in Microsoft content.
 author: pallep
 ms.author: pallep
 ms.date: 04/02/2021

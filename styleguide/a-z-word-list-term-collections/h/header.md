@@ -1,5 +1,6 @@
 ---
 title: header - Microsoft Style Guide
+description: Describes how to use te term "header" in Microsoft content.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

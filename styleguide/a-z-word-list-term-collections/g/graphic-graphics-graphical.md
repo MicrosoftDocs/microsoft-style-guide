@@ -1,5 +1,6 @@
 ---
 title: graphic, graphics, graphical - Microsoft Style Guide
+description: Describes how to user the terms "graphic", "graphics", and "graphical" in Microsoft content.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
