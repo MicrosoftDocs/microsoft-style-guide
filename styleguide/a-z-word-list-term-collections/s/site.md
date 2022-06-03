@@ -1,5 +1,6 @@
 ---
 title: site - Microsoft Style Guide
+description: Describes guidelines to use 'site' in Microsoft documents, and provides an example with a link to additional terms.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

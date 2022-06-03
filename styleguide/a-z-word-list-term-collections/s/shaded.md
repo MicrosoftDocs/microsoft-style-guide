@@ -1,5 +1,6 @@
 ---
 title: shaded - Microsoft Style Guide
+description: Describes guidelines to use 'shaded' in Microsoft documents, and provides alternate usage examples.
 author: pallep
 ms.author: pallep
 ms.date: 04/02/2021

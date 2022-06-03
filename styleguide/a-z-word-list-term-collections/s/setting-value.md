@@ -1,5 +1,6 @@
 ---
 title: setting, value - Microsoft Style Guide
+description: Describes guidelines to use 'setting' or 'value' in Microsoft documents, and provides alternate usage.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

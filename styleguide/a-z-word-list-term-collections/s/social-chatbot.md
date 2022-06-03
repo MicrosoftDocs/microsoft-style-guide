@@ -1,5 +1,6 @@
 ---
 title: social chatbot - Microsoft Style Guide
+description: Provides a link to a collection of commonly used AI and bot terms including 'social chatbot'.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

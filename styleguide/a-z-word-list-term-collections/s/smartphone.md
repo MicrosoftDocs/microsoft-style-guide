@@ -1,5 +1,6 @@
 ---
 title: smartphone - Microsoft Style Guide
+description: Provides a link to a collection of commonly used computer and device terms including 'smartphone'.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

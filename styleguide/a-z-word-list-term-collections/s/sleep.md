@@ -1,5 +1,6 @@
 ---
 title: sleep - Microsoft Style Guide
+description: Describes guidelines to use 'sleep' in Microsoft documents, and provides a link to common computer terms.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

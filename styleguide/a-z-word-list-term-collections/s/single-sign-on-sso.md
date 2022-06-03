@@ -1,5 +1,6 @@
 ---
 title: single sign-on (SSO) - Microsoft Style Guide
+description: Describes guidelines to use 'single sign-on (SSO)' in Microsoft documents, and provides a link to additional resources.
 author: pallep
 ms.author: pallep
 ms.date: 04/1/2019

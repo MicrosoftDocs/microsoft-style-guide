@@ -1,5 +1,6 @@
 ---
 title: shell - Microsoft Style Guide
+description: Describes guidelines to use 'shell' in Microsoft documents, and provides usage examples. Don't use in content for a general audience.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

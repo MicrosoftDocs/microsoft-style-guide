@@ -1,5 +1,6 @@
 ---
 title: snap-in - Microsoft Style Guide
+description: Describes guidelines to use 'snap-in' in Microsoft documents. Always hyphenate.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
