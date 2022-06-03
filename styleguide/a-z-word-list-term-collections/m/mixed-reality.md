@@ -1,5 +1,6 @@
 ---
 title: mixed reality, mixed-reality - Microsoft Style Guide
+description: Describes guidelines to use 'mixed reality' or 'mixed-reality' in Microsoft documents and provides multiple examples.
 author: pallep
 ms.author: pallep
 ms.date: 04/1/2019
