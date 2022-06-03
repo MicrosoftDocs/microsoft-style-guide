@@ -1,5 +1,6 @@
 ---
 title: cut, cut-and-paste - Microsoft Style Guide
+description: Describes how to use the terms 'cut' and 'cut-and-paste' in Microsoft content depending on context and provides examples of their usage.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

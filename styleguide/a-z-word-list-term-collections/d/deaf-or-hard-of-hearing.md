@@ -1,5 +1,6 @@
 ---
 title: deaf or hard-of-hearing - Microsoft Style Guide
+description: Provides a link to the Accessibility term collection topic as it pertains to the terms 'deaf' or 'hard-of-hearing'.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

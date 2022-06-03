@@ -1,5 +1,6 @@
 ---
 title: cyber- - Microsoft Style Guide
+description: Describes how to use the prefix 'cyber-' in Microsoft content and clarifies how to handle hyphenating terms that use the prefix.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

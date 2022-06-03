@@ -1,5 +1,6 @@
 ---
 title: depress, depressed - Microsoft Style Guide
+description: Provides a link to the Keys and keyboard shortcuts term collection topic as it pertains to the terms 'depress' and 'depressed'.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

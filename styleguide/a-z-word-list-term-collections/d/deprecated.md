@@ -1,5 +1,6 @@
 ---
 title: deprecated - Microsoft Style Guide
+description: Describes how to use the term 'deprecated' in Microsoft content for different audiences and provides alternatives to use instead.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
