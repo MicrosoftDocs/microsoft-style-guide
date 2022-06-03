@@ -1,5 +1,6 @@
 ---
 title: on - Microsoft Style Guide
+description: Describes guidelines to use 'on' in Microsoft documents and provides examples. See 'Describing interactions with UI' for more information.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

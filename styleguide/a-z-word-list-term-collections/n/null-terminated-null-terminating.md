@@ -1,5 +1,6 @@
 ---
 title: null-terminated, null-terminating - Microsoft Style Guide
+description: Describes guidelines to use 'null-terminated' or 'null-terminating' in Microsoft documents and provides alternate examples.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

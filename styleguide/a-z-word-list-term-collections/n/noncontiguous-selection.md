@@ -1,5 +1,6 @@
 ---
 title: noncontiguous selection - Microsoft Style Guide
+description: Describes guidelines to use 'noncontiguous selection' in Microsoft documents and provides examples.
 author: pallep
 ms.author: pallep
 ms.date: 09/3/2019
