@@ -1,10 +1,9 @@
 ---
 title: work area, workspace - Microsoft Style Guide
+description: States that "Work area" is two words and "Workspace" is one word, and instructs not to use UI in general, but to talk about what the customer wants to do.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
-ms.topic: article
-ms.prod: non-product-specific
 ---
 
 # work area, workspace

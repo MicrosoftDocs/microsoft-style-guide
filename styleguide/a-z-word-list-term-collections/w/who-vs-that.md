@@ -1,10 +1,9 @@
 ---
 title: who vs. that - Microsoft Style Guide
+description: Demonstrates the terms "who vs. that" by using "who" instead of "that" to introduce clauses referring to people with a Custom Setup example.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
-ms.topic: article
-ms.prod: non-product-specific
 ---
 
 # who vs. that

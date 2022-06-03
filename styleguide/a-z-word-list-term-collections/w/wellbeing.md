@@ -1,10 +1,9 @@
 ---
 title: wellbeing - Microsoft Style Guide
+description: Statement that demonstrates the correct spelling and context of the word "wellbeing" in an example sentence. 
 author: pallep
 ms.author: pallep
 ms.date: 05/31/2021
-ms.topic: article
-ms.prod: non-product-specific
 ---
 
 # wellbeing

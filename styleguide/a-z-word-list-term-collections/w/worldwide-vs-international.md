@@ -1,10 +1,9 @@
 ---
 title: worldwide vs. international - Microsoft Style Guide
+description: Instructs to use "worldwide" regarding "worldwide vs. international" to describe something that encompasses all regions or involves the entire world.
 author: pallep
 ms.author: pallep
 ms.date: 11/24/2020
-ms.topic: article
-ms.prod: non-product-specific
 ---
 
 # worldwide vs. international
