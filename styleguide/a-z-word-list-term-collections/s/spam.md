@@ -1,5 +1,6 @@
 ---
 title: spam - Microsoft Style Guide
+description: Describes guidelines to use 'spam' in Microsoft documents. Don't use to refer generally to commercial email, such as bulk email sent to a customer list.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

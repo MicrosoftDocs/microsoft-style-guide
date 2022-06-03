@@ -1,5 +1,6 @@
 ---
 title: sub- - Microsoft Style Guide
+description: Describes guidelines to use 'sub-' in Microsoft documents, and provides a link to learn more about hyphenation.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

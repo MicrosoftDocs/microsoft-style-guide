@@ -1,5 +1,6 @@
 ---
 title: sync - Microsoft Style Guide
+description: Describes guidelines to use 'sync' in Microsoft documents.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

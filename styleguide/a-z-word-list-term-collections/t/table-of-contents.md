@@ -1,5 +1,6 @@
 ---
 title: table of contents - Microsoft Style Guide
+description: Describes guidelines to use 'table of contents' in Microsoft documents.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

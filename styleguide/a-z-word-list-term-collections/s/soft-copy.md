@@ -1,5 +1,6 @@
 ---
 title: soft copy - Microsoft Style Guide
+description: Describes guidelines to use 'soft copy' in Microsoft documents. Don't use. Use a more specific term.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

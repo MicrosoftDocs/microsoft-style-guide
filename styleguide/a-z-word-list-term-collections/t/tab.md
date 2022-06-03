@@ -1,5 +1,6 @@
 ---
 title: tab - Microsoft Style Guide
+description: Describes guidelines to use 'tab' in Microsoft documents, and provides usage examples.
 author: pallep
 ms.author: pallep
 ms.date: 09/3/2019

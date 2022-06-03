@@ -1,5 +1,6 @@
 ---
 title: style sheet - Microsoft Style Guide
+description: Describes guidelines to use 'style sheet' in Microsoft documents, and provides a link to commonly used terms.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
