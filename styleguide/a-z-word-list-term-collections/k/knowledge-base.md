@@ -1,5 +1,6 @@
 ---
 title: knowledge base, Knowledge Base - Microsoft Style Guide
+description: Describes how to use the terms "knowledge base" and "Knowledge Base" in Microsoft content.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
