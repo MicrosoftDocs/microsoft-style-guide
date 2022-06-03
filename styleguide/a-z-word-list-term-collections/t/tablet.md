@@ -1,5 +1,6 @@
 ---
 title: tablet - Microsoft Style Guide
+description: In place of describing how to implement the term 'tablet' in Microsoft content, this article provides a link to the computer and device term collection topic.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

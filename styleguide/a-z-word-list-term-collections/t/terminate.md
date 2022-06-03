@@ -1,5 +1,6 @@
 ---
 title: terminate - Microsoft Style Guide
+description: Describes how to implement the term 'terminate' in Microsoft content and clarifies that this term is OK to use for content for technical audiences.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

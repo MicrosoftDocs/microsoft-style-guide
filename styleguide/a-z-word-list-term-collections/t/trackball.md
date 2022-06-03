@@ -1,5 +1,6 @@
 ---
 title: trackball - Microsoft Style Guide
+description: In place of describing how to use the term 'trackball' in Microsoft content, this article provides a link to the Computer and device term collection topic.
 author: pallep
 ms.author: pallep
 ms.date: 02/28/2019
