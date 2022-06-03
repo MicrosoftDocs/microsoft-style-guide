@@ -1,5 +1,6 @@
 ---
 title: clipboard - Microsoft Style Guide
+description: Describes how to use the term 'clipboard' in Microsoft content and clarifies how to phrase sentences using the term.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

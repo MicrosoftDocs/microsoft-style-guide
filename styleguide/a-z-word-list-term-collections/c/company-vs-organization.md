@@ -1,5 +1,6 @@
 ---
 title: company vs. organization - Microsoft Style Guide
+description: Describes when to use the term 'company' instead of 'organization' in Microsoft content depending on the audience and context.
 author: pallep
 ms.author: pallep
 ms.date: 09/11/2018

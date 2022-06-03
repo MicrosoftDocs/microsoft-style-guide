@@ -1,5 +1,6 @@
 ---
 title: command line, command-line - Microsoft Style Guide
+description: Describes how to use the term 'command line' in Microsoft content and clarifies when to hyphenate the term.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

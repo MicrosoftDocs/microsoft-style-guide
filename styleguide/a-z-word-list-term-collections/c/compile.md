@@ -1,5 +1,6 @@
 ---
 title: compile - Microsoft Style Guide
+description: Describes how to use the term 'compile' in Microsoft content as an adjective or a verb and provides an example of using the term.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

@@ -1,5 +1,6 @@
 ---
 title: client side, client-side - Microsoft Style Guide
+description: Describes how to use the term 'client side' in Microsoft content and clarifies how to hyphenate the term depending on context.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

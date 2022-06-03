@@ -1,5 +1,6 @@
 ---
 title: combo box - Microsoft Style Guide
+description: Describes how to use the term 'combo box' in Microsoft content and clarifies the content audience and context that is appropriate for the term.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
