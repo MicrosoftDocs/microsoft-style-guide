@@ -1,5 +1,6 @@
 ---
 title: software as a service (SaaS) - Microsoft Style Guide
+description: Provides a link to commonly used cloud-computing terms in Microsoft documents including 'software as a service (SaaS)'.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

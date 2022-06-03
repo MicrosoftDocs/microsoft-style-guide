@@ -1,5 +1,6 @@
 ---
 title: system administrator - Microsoft Style Guide
+description: Provides a link to commonly used terms in Microsoft documents including 'system administrator'.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

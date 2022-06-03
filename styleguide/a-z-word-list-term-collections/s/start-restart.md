@@ -1,5 +1,6 @@
 ---
 title: start, restart - Microsoft Style Guide
+description: Describes guidelines to use 'start' or 'restart' in Microsoft documents, and provides additional reference links.
 author: pallep
 ms.author: pallep
 ms.date: 04/30/2018

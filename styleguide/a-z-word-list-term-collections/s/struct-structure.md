@@ -1,5 +1,6 @@
 ---
 title: struct, structure - Microsoft Style Guide
+description: Describes guidelines to use 'struct' or 'structure' in Microsoft documents.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

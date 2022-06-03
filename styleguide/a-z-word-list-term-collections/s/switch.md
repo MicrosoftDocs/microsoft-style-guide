@@ -1,5 +1,6 @@
 ---
 title: switch - Microsoft Style Guide
+description: Describes guidelines to use 'switch' in Microsoft documents, and provides a link to commonly used terms.
 author: pallep
 ms.author: pallep
 ms.date: 09/3/2019
