@@ -1,5 +1,6 @@
 ---
 title: dark mode - Microsoft Style Guide
+description: Describes how to use the term 'dark mode' in Microsoft content and provides examples of the term being used.
 author: pallep
 ms.author: pallep
 ms.date: 04/30/2021

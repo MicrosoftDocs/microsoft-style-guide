@@ -1,5 +1,6 @@
 ---
 title: deinstall - Microsoft Style Guide
+description: Describes how to use the term 'deinstall' in Microsoft content and provides an example of the term's usage.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

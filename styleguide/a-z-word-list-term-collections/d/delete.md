@@ -1,5 +1,6 @@
 ---
 title: delete - Microsoft Style Guide
+description: Describes how to use the term 'delete' in Microsoft content and provides examples of the term's usage.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

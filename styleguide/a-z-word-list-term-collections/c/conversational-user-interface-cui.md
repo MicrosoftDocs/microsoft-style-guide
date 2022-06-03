@@ -1,5 +1,6 @@
 ---
 title: conversational user interface (CUI) - Microsoft Style Guide
+description: Provides a link to the AI and bot term collection topic as it pertains to the term 'conversational user interface (CUI)'.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
