@@ -1,5 +1,6 @@
 ---
 title: nonadjacent selection - Microsoft Style Guide
+description: Describes guidelines to use 'nonadjacent selection' in Microsoft documents.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

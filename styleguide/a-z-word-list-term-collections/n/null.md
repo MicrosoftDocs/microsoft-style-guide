@@ -1,5 +1,6 @@
 ---
 title: null, NULL, Null - Microsoft Style Guide
+description: Describes guidelines to use 'null' or 'NULL' or 'Null' in Microsoft documents and provides examples.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

@@ -1,5 +1,6 @@
 ---
 title: object - Microsoft Style Guide
+description: Describes guidelines to use 'object' in Microsoft documents and provides examples.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
