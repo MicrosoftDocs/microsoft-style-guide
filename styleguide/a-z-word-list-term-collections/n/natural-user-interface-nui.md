@@ -1,5 +1,6 @@
 ---
 title: natural user interface, NUI - Microsoft Style Guide
+description: Describes guidelines to use 'natural user interface' or 'NUI' in Microsoft documents and provides multiple examples.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

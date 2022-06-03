@@ -1,5 +1,6 @@
 ---
 title: more than vs. over - Microsoft Style Guide
+description: Describes guidelines to use 'more than' versus 'over' in Microsoft documents and provides multiple examples.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
