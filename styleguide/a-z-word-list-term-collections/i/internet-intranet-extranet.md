@@ -1,5 +1,6 @@
 ---
 title: internet, intranet, extranet - Microsoft Style Guide
+description: Describes how to use the terms "internet", "intranet", and "extranet" in Microsoft content.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
