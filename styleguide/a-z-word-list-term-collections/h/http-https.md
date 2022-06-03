@@ -1,5 +1,6 @@
 ---
 title: HTTP, HTTPS - Microsoft Style Guide
+description: Describes how to use the terms "HTTP" and "HTTPS" in Microsoft content.
 author: pallep
 ms.author: pallep
 ms.date: 06/26/2018

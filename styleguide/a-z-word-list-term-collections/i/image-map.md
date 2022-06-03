@@ -1,5 +1,6 @@
 ---
 title: image map - Microsoft Style Guide
+description: Describes the use of the term "image map" in Microsoft content.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

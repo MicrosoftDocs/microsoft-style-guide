@@ -1,5 +1,6 @@
 ---
 title: impact - Microsoft Style Guide
+description: Describes the use of the term "impact" in Microsoft content.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

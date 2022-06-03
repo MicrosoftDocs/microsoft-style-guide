@@ -1,5 +1,6 @@
 ---
 title: if vs. whether vs. when - Microsoft Style Guide
+description: Describes how to decide between the use of terms "if", "whether", and "when" in Microsoft content.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
