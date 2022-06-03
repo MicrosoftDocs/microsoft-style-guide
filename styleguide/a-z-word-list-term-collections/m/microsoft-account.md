@@ -1,5 +1,6 @@
 ---
 title: Microsoft account - Microsoft Style Guide
+description: Describes guidelines to use 'Microsoft account' in Microsoft documents and provides alternate examples.
 author: pallep
 ms.author: pallep
 ms.date: 07/31/2018

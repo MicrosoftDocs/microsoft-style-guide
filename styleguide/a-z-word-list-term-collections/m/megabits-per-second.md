@@ -1,5 +1,6 @@
 ---
 title: megabits per second, Mbps - Microsoft Style Guide
+description: To learn more about using 'megabits per second' or 'Mbps' in Microsoft documents, see 'Bits and bytes term collection.'
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

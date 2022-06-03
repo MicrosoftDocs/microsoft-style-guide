@@ -1,5 +1,6 @@
 ---
 title: machine - Microsoft Style Guide
+description: To learn more about using 'machine' in Microsoft documents, see 'Computer and device term collection.'
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
