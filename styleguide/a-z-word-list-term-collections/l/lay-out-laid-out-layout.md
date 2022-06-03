@@ -1,5 +1,6 @@
 ---
 title: lay out, laid out, layout - Microsoft Style Guide
+description: Guidelines for using the terms lay out, laid out and layout in Microsoft documents.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
