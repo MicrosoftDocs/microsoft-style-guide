@@ -1,5 +1,6 @@
 ---
 title: home directory - Microsoft Style Guide
+description: Describes how to use the term "home directory" in Microsoft content.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

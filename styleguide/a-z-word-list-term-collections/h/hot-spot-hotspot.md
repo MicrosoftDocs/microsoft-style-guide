@@ -1,5 +1,6 @@
 ---
 title: hot spot, hotspot - Microsoft Style Guide
+description: Describes how to use the terms "hot spot" and "hotspot" in Microsoft content.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
