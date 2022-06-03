@@ -4,6 +4,8 @@ description: Discusses to avoid talking about wireless technology to general use
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
+ms.topic: article
+ms.prod: non-product-specific
 ---
 
 # wireless

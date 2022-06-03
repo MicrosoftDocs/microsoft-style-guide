@@ -4,6 +4,8 @@ description: Instructs to use "worldwide" regarding "worldwide vs. international
 author: pallep
 ms.author: pallep
 ms.date: 11/24/2020
+ms.topic: article
+ms.prod: non-product-specific
 ---
 
 # worldwide vs. international
