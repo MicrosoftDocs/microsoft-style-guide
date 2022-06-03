@@ -1,5 +1,6 @@
 ---
 title: user rights - Microsoft Style Guide
+description: Describes how to implement the term 'user rights' in Microsoft content and provides examples of using the term 'user rights' in content.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

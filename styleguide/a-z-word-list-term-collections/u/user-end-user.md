@@ -1,5 +1,6 @@
 ---
 title: user, end user - Microsoft Style Guide
+description: Describes how to implement the terms 'user' and 'end user' in Microsoft content and clarifies to avoid using the term 'user' when possible.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

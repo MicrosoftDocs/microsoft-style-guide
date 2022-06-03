@@ -1,5 +1,6 @@
 ---
 title: utility - Microsoft Style Guide
+description: Describes the lack of the use of the term 'utility' in Microsoft content and provides a list of alternative terms to use.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

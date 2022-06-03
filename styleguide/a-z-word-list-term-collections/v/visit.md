@@ -1,5 +1,6 @@
 ---
 title: visit - Microsoft Style Guide
+description: Describes how to implement the term 'visit' in Microsoft content and provides a link to the describing interactions with UI topic.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

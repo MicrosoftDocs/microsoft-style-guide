@@ -1,5 +1,6 @@
 ---
 title: web, World Wide Web, WWW - Microsoft Style Guide
+description: Describes how to implement the terms 'web', 'World Wide Web', and 'WWW' in Microsoft content and provides a link to the URLs and web addresses topic.
 author: pallep
 ms.author: pallep
 ms.date: 08/1/2019
