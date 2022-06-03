@@ -1,5 +1,6 @@
 ---
 title: infrastructure as a service (IaaS) - Microsoft Style Guide
+description: Describes how to use the term "infrastructure as a service (IaaS)" in Microsoft content.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

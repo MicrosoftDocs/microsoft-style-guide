@@ -1,5 +1,6 @@
 ---
 title: input/output, I/O, input/output control - Microsoft Style Guide
+description: Describes how to use the terms "input/output", "I/O", and "input/output control" in Microsoft content.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

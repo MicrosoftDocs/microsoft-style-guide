@@ -1,5 +1,6 @@
 ---
 title: insure, assure, ensure - Microsoft Style Guide
+description: Describes how to use the terms "insure", "assure", and "ensure" in Microsoft content.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
