@@ -1,5 +1,6 @@
 ---
 title: kilohertz, KHz - Microsoft Style Guide
+description: Describes how to use the terms "kilohertz" and "KHz" in Microsoft content.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

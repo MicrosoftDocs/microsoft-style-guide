@@ -1,5 +1,6 @@
 ---
 title: kilobyte, KB, K, K byte, Kbyte - Microsoft Style Guide
+description: Describes how to use the terms "kilobyte", "KB", "K", "K byte", and "Kbyte" in Microsoft content.
 author: pallep
 ms.author: pallep
 ms.date: 09/18/2019

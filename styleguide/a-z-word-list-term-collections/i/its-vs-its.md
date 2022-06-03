@@ -1,5 +1,6 @@
 ---
 title: its vs. it's - Microsoft Style Guide
+description: Describes how to use the terms "its" and "it's" in Microsoft content.
 author: pallep
 ms.author: pallep
 ms.date: 03/12/2018
