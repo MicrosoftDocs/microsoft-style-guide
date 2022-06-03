@@ -1,5 +1,6 @@
 ---
 title: garbage collection, garbage collector - Microsoft Style Guide
+description: Defines guidelines for using 'garbage collection' or 'garbage collector' in Microsoft documents.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

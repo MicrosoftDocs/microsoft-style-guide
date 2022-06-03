@@ -1,5 +1,6 @@
 ---
 title: flyout - Microsoft Style Guide
+description: Describes guidelines to use 'flyout' in Microsoft documents, and provides alternate examples. Don’t use in content for a general audience.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

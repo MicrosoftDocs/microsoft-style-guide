@@ -1,5 +1,6 @@
 ---
 title: friendly name - Microsoft Style Guide
+description: Defines guidelines for using 'friendly name' in Microsoft documents, and provides an alternative examples.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

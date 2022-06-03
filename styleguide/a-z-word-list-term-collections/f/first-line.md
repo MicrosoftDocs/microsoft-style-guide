@@ -1,5 +1,6 @@
 ---
 title: first line, first-line - Microsoft Style Guide
+description: Describes guidelines to use 'first line' or 'first-line' in Microsoft documents, and provides alternate examples.
 author: pallep
 ms.author: pallep
 ms.date: 7/10/2018

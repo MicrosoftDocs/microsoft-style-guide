@@ -1,5 +1,6 @@
 ---
 title: fitness band - Microsoft Style Guide
+description: Provides a link to a collection of computer and device terms along with their appropriate usage including 'fitness band'.
 author: pallep
 ms.author: pallep
 ms.date: 02/28/2019
