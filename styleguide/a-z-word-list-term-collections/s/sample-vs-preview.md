@@ -1,5 +1,6 @@
 ---
 title: sample vs. preview - Microsoft Style Guide
+description: In this article, learn about style guidelines for using the terms 'style' and 'review' in Microsoft documents.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

@@ -1,5 +1,6 @@
 ---
 title: save - Microsoft Style Guide
+description: In this article, learn about the style guidelines for using the term 'save' in Microsoft documentation.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

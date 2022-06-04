@@ -1,5 +1,6 @@
 ---
 title: scan line - Microsoft Style Guide
+description: In this article, learn about style guidelines for using the term 'scan line' in Microsoft documents.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
