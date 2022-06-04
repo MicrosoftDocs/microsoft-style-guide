@@ -1,5 +1,6 @@
 ---
 title: registry, registry settings - Microsoft Style Guide
+description: In this article, learn about guidelines for using 'registry' in Microsoft documents and see examples of its use in various scenarios.
 author: pallep
 ms.author: pallep
 ms.date: 08/16/2019

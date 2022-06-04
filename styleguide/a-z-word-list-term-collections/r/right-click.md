@@ -1,5 +1,6 @@
 ---
 title: right-click - Microsoft Style Guide
+description: In this article, learn about guidelines for using 'right-click' in Microsoft documents and see examples of its use in various scenarios.
 author: pallep
 ms.author: pallep
 ms.date: 09/21/2019

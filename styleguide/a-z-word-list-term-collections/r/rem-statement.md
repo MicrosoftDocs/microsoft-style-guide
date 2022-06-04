@@ -1,5 +1,6 @@
 ---
 title: REM statement - Microsoft Style Guide
+description: In this article, learn about guidelines for using 'REM statement' in Microsoft documents and when to use 'comment' instead.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
