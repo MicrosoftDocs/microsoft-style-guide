@@ -1,5 +1,6 @@
 ---
 title: chat - Microsoft Style Guide
+description: In this article, learn about style guidelines for using the term 'chat' in Microsoft documentation and other terms that you can use in its place.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
