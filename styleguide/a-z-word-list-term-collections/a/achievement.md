@@ -1,5 +1,6 @@
 ---
-title: achievement - Microsoft Style Guide
+title: Achievement - Microsoft Style Guide
+description: This article outlines the use of the words achievement per Microsoft style guidelines, with examples.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
@@ -7,10 +8,9 @@ ms.topic: article
 ms.prod: non-product-specific
 ---
 
-# achievement
+# Achievement
 
-Refers
-to an accomplishment that's formally recognized by a game, site, or
+Refers to an accomplishment that's formally recognized by a game, site, or
 app. Achievements are sometimes represented by a virtual badge, star,
 medal, or other reward. 
 

@@ -1,5 +1,6 @@
 ---
-title: Accessibility guidelines and requirements - Microsoft Style Guide
+title: Accessibility Guidelines and Requirements - Microsoft Style Guide
+description: "This section provides a list of articles to accessibility style guidelines for Microsoft devices and services."
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
@@ -7,10 +8,9 @@ ms.topic: article
 ms.prod: non-product-specific
 ---
 
-# Accessibility guidelines and requirements
+# Accessibility Guidelines and Requirements
 
-Microsoft
-devices and services empower people of all abilities, around the globe—at home, at work,
+Microsoft devices and services empower people of all abilities, around the globe—at home, at work,
 and on the go—to do the activities they value most. 
 
 This section provides an overview of accessibility guidelines:

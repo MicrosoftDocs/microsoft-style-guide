@@ -1,5 +1,6 @@
 ---
 title: Acronyms - Microsoft Style Guide
+description: This article outlines how to write acronyms and abbreviations according to Microsoft style guidelines, with examples.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
@@ -9,16 +10,14 @@ ms.prod: non-product-specific
 
 # Acronyms
 
-Acronyms
-and abbreviations can have an adverse effect on clarity, voice, and
+Acronyms and abbreviations can have an adverse effect on clarity, voice, and
 SEO. Although some acronyms are widely understood and preferred to the
 spelled-out term, others aren't well known or are familiar only to a
 specific group of customers. 
 
 ## Don't create acronyms from product or feature names
 
-Always
-spell out Microsoft product and feature names.
+Always spell out Microsoft product and feature names.
 
 ## Only use acronyms that your audience is familiar with
 
@@ -26,8 +25,7 @@ The A–Z word list has guidelines for many common acronyms, and some acronyms a
 
 ## If you have to use an acronym, also spell out the term for clarity
 
-In
-general, include the acronym in parentheses following the spelled-out
+In general, include the acronym in parentheses following the spelled-out
 term. On subsequent mentions in the same article, page, or screen, you can
 use the acronym without spelling it out. 
 
@@ -50,8 +48,7 @@ term. Don't introduce it in parentheses after the spelled-out version.
 
 ## Be careful with acronyms in titles and headings
 
-Avoid
-using an acronym for the first time in a title or heading, unless it's a
+Avoid using an acronym for the first time in a title or heading, unless it's a
 keyword that you need to place in the title or heading for SEO. If the
 first use of the acronym is in a title or heading, introduce the acronym
 (in parentheses, following the spelled-out term) in the following body
@@ -59,8 +56,7 @@ text.
 
 ## Lowercase the spelled-out term
 
-Lowercase
-all words in the spelled-out form of an acronym except for proper
+Lowercase all words in the spelled-out form of an acronym except for proper
 nouns. The names of many protocols and specifications are considered
 proper nouns and are capitalized when spelled out.
 

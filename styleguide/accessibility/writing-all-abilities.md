@@ -1,5 +1,6 @@
 ---
-title: Writing for all abilities - Microsoft Style Guide
+title: Writing for All Abilities - Microsoft Style Guide
+description: This article guidelines on the Microsoft writing style to improve accessibility.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
@@ -9,16 +10,14 @@ ms.prod: non-product-specific
 
 # Writing for all abilities
 
-Microsoft
-style—clean, simple design and crisp, clear content—is easier
+Microsoft style—clean, simple design and crisp, clear content—is easier
 for all readers to use, so nearly every writing recommendation in
 this guide will improve accessibility. Pay special attention to the
 following guidelines. 
 
 ## Put the person first
 
-In
-general, refer to a person who has a kind of disability, not a
+In general, refer to a person who has a kind of disability, not a
 disabled person. When you must describe specific disabilities
 or people with specific disabilities, use [approved terminology](~/a-z-word-list-term-collections/term-collections/accessibility-terms.md "Accessibility term collection"). 
 
