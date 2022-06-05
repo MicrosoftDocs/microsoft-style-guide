@@ -1,6 +1,6 @@
 ---
 title: Graphics, Design, and Media - Microsoft Style Guide
-description: This article provides an overview of accessibility style guidelines for Microsoft graphics, design, and media.
+description: This article outlines Microsoft accessibility style guidelines for graphics, design, and media.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

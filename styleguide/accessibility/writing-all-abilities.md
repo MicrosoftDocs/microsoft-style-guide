@@ -1,6 +1,6 @@
 ---
 title: Writing for All Abilities - Microsoft Style Guide
-description: This article guidelines on the Microsoft writing style to improve accessibility.
+description: This article outlines Microsoft style guidelines for writing in order to improve accessibility.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

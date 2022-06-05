@@ -1,6 +1,6 @@
 ---
 title: Accessibility Guidelines and Requirements - Microsoft Style Guide
-description: "This section provides a list of articles to accessibility style guidelines for Microsoft devices and services."
+description: This section lists links to accessibility style guidelines for Microsoft devices and services.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

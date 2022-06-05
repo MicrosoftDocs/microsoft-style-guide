@@ -1,6 +1,6 @@
 ---
 title: Access - Microsoft Style Guide
-description: This article outlines the use of the words access per Microsoft style guidelines.
+description: This article outlines the use of the word access per Microsoft style guidelines.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

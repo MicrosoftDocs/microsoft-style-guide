@@ -1,6 +1,6 @@
 ---
 title: Colors and Patterns in Text, Graphics, and Design - Microsoft Style Guide
-description: This article provide accessibility style guidelines on colors and patterns in text, graphics, and design.
+description: This article provides Microsoft accessibility style guidelines on colors and patterns in text, graphics, and design.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
