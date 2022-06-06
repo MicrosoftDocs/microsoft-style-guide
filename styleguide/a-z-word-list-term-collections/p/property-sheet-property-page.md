@@ -1,5 +1,6 @@
 ---
 title: property sheet, property page - Microsoft Style Guide
+description: Describes how to use the terms "property sheet" and "property page in Microsoft content.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
