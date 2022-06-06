@@ -1,5 +1,6 @@
 ---
-title: against - Microsoft Style Guide
+title: Against - Microsoft Style Guide
+description: This article outlines use of the word against per Microsoft style guidelines, with examples.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

@@ -1,5 +1,6 @@
 ---
-title: alphanumeric - Microsoft Style Guide
+title: Alphanumeric - Microsoft Style Guide
+description: This article outlines use of the word alphanumeric per Microsoft style guidelines.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

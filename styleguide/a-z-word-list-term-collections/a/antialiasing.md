@@ -1,5 +1,6 @@
 ---
-title: antialiasing - Microsoft Style Guide
+title: Antialiasing - Microsoft Style Guide
+description: This article outlines use of the term antialiasing per Microsoft style guidelines, with an example.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

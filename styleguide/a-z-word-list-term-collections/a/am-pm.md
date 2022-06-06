@@ -1,5 +1,6 @@
 ---
 title: AM, PM - Microsoft Style Guide
+description: This article links to a date and time term collection, in which contains how to use the AM/PM terms per Microsoft style guidelines.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

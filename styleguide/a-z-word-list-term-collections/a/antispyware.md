@@ -1,5 +1,6 @@
 ---
-title: antispyware - Microsoft Style Guide
+title: Antispyware - Microsoft Style Guide
+description: This article outlines use of the term antispyware per Microsoft style guidelines, with an example.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

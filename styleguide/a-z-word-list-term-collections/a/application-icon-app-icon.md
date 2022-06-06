@@ -1,5 +1,6 @@
 ---
-title: application icon, app icon - Microsoft Style Guide
+title: Application Icon, App Icon - Microsoft Style Guide
+description: This article outlines use of the terms application icon/app icon per Microsoft style guidelines.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

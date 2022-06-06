@@ -1,5 +1,6 @@
 ---
-title: and so on - Microsoft Style Guide
+title: And So On - Microsoft Style Guide
+description: This article outlines use of the term and so on per Microsoft style guidelines, with examples.
 author: pallep
 ms.author: pallep
 ms.date: 06/27/2019
