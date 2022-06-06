@@ -1,5 +1,6 @@
 ---
 title: push button, push-button - Microsoft Style Guide
+description: Describes how to use the terms "push button" and "push-button" in Microsoft content.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
