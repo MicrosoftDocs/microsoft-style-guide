@@ -4,6 +4,8 @@ description: Instructs not to use the term "window" as a verb.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
+ms.topic: article
+ms.prod: non-product-specific
 ---
 
 # window

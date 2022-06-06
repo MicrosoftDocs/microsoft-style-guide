@@ -1,9 +1,11 @@
 ---
 title: wizard - Microsoft Style Guide
-description: Instructs not to use the term "wizard," in general, unless it appears in the UI, but to talk about what the customer needs to do to accomplish the task.
+description: Instructs to not use the term "wizard, in general, unless it appears in the UI. Instead, talk about what the customer needs to do to accomplish the task.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
+ms.topic: article
+ms.prod: non-product-specific
 ---
 
 # wizard

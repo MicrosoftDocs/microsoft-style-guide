@@ -4,6 +4,8 @@ description: States that "Work area" is two words and "Workspace" is one word, a
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
+ms.topic: article
+ms.prod: non-product-specific
 ---
 
 # work area, workspace
