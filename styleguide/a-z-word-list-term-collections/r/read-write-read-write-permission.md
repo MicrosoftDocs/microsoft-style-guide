@@ -1,5 +1,6 @@
 ---
 title: read/write, read/write permission - Microsoft Style Guide
+description: In this article, learn about guidelines for using 'read/write permissions' as a hyphenate in Microsoft documents.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

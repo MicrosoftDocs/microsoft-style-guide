@@ -1,5 +1,6 @@
 ---
 title: radio button - Microsoft Style Guide
+description: In this article, learn about guidelines for using 'radio button' and when to use 'option' in Microsoft documents.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

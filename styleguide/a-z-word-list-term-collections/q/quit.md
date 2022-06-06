@@ -1,5 +1,6 @@
 ---
 title: quit - Microsoft Style Guide
+description: In this article, learn about guidelines for not using 'quit' and when to use 'stop responding' in Microsoft documents.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

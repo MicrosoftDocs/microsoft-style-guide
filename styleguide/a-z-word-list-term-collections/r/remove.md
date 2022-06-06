@@ -1,5 +1,6 @@
 ---
 title: remove - Microsoft Style Guide
+description: In this article, learn about guidelines for using 'remove' in Microsoft documents and where to find information about using the term 'uninstall'.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
