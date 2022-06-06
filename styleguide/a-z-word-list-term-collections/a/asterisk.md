@@ -1,5 +1,6 @@
 ---
 title: asterisk (\*) - Microsoft Style Guide
+description: This article on the asterisk symbol in accordance with Microsoft style guidelines links to a keys and keyboard shortcuts term collection.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
