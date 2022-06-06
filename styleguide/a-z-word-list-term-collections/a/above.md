@@ -1,5 +1,6 @@
 ---
-title: above - Microsoft Style Guide
+title: Above - Microsoft Style Guide
+description: This article outlines the use of the word above per Microsoft style guidelines, with examples.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
@@ -7,7 +8,7 @@ ms.topic: article
 ms.prod: non-product-specific
 ---
 
-# above
+# Above
 
 Don't use to mean *earlier*. 
 

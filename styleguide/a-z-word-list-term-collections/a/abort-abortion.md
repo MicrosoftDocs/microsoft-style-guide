@@ -1,5 +1,6 @@
 ---
-title: abort, abortion - Microsoft Style Guide
+title: Abort, Abortion - Microsoft Style Guide
+description: This article outlines the use of the words abort and abortion per Microsoft style guidelines.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
@@ -7,7 +8,7 @@ ms.topic: article
 ms.prod: non-product-specific
 ---
 
-# abort, abortion
+# Abort, Abortion
 
 Never use *abortion.* 
 
@@ -18,7 +19,7 @@ a technical audience only if it's part of the application
 programming interface (API). Use an alternative term
 in comments and descriptions.
 
-## Alternative terms
+## Alternative Terms
 
   - *End:* use for communications and network connections.
   - *Close:* use for apps and programs.

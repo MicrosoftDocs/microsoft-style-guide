@@ -1,5 +1,6 @@
 ---
-title: Graphics, design, and media - Microsoft Style Guide
+title: Graphics, Design, and Media - Microsoft Style Guide
+description: This article outlines Microsoft accessibility style guidelines for graphics, design, and media.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
@@ -7,15 +8,13 @@ ms.topic: article
 ms.prod: non-product-specific
 ---
 
-# Graphics, design, and media
+# Graphics, Design, and Media
 
-Websites
-need to be accessible to everyone. Websites that are accessible
+Websites need to be accessible to everyone. Websites that are accessible
 to people with disabilities also support customers with various
 browsers, settings, and devices or who use older technologies. 
 
-In
-general, use clean and simple graphic design. Provide alternate ways
+In general, use clean and simple graphic design. Provide alternate ways
 to get the information that's conveyed by pictures, multimedia, and
 image maps.
 
@@ -31,8 +30,7 @@ image maps.
 
 ## Images, image maps, and multimedia
 
-**Provide clear descriptions that don’t require pictures,**
-or provide both. Make sure the reader can get the whole story
+**Provide clear descriptions that don’t require pictures,** or provide both. Make sure the reader can get the whole story
 from either the picture or the written description. 
 
 **Provide brief, accurate alt text for elements other than live text,** including
