@@ -1,5 +1,6 @@
 ---
 title: Developer content - Microsoft Style Guide
+description: Discusses content for developers and IT professionals as more technical than a general audience, but the fundamentals of the Microsoft brand voice still apply.
 author: pallep
 ms.author: pallep
 ms.date: 08/6/2019

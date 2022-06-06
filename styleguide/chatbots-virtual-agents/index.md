@@ -1,5 +1,6 @@
 ---
 title: Chatbots and virtual agents - Microsoft Style Guide
+description: Discusses chatbots and virtual agents, which is a type of bot that can be used to provide information and answers, and complete tasks.
 author: pallep
 ms.author: pallep
 ms.date: 02/21/2019

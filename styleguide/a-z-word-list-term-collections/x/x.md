@@ -1,6 +1,7 @@
 ---
 title: x - Microsoft Style Guide
 author: pallep
+description: Instructs to use a lowercase "x" in italic type as a placeholder number or variable, but not to use it to refer to a generic, unspecified number.
 ms.author: pallep
 ms.date: 01/19/2018
 ms.topic: article

@@ -1,5 +1,6 @@
 ---
 title: Reference documentation - Microsoft Style Guide
+description: Discusses reference documentation as providing details about the programming elements associated with technologies and languages, including class libraries.
 author: pallep
 ms.author: pallep
 ms.date: 08/7/2019

@@ -1,6 +1,7 @@
 ---
 title: z-axis - Microsoft Style Guide
 author: pallep
+description: Discusses that in 3D charts, the z-axis shows depth and generally represents values, but instructs to lowercase and hyphenate the z-axis.
 ms.author: pallep
 ms.date: 01/19/2018
 ms.topic: article
