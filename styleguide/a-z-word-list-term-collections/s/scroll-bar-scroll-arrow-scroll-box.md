@@ -1,5 +1,6 @@
 ---
 title: scroll bar, scroll arrow, scroll box - Microsoft Style Guide
+description: In this article, learn about style guidelines for using the term 'scroll bar' in Microsoft documents.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

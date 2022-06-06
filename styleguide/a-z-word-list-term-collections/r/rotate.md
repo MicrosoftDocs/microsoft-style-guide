@@ -1,5 +1,6 @@
 ---
 title: rotate - Microsoft Style Guide
+description: Learn about style guidelines for using the term 'rotate' in Microsoft documents and where to find information about 'touch and pen interaction term collection'.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

@@ -1,5 +1,6 @@
 ---
 title: search, search and replace - Microsoft Style Guide
+description: In this article, learn about style guidelines for using the term 'search and replace' in Microsoft documents and other terms you can use in its place.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
