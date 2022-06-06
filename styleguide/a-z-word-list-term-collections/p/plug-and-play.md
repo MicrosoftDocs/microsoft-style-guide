@@ -1,5 +1,6 @@
 ---
 title: Plug and Play, plug and play - Microsoft Style Guide
+description: Describes how to use the terms "Plug and Play" and "plug and play" in Microsoft content.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

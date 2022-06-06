@@ -1,5 +1,6 @@
 ---
 title: pound key, pound sign (\#) - Microsoft Style Guide
+description: Describes how to use the terms "pound key", "pound sign", or "#" in Microsoft content.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
