@@ -1,5 +1,6 @@
 ---
 title: pre- - Microsoft Style Guide
+description: Describes how to use the prefix "pre" in Microsoft content.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
