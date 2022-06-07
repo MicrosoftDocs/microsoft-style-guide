@@ -1,5 +1,6 @@
 ---
-title: arrow - Microsoft Style Guide
+title: Arrow - Microsoft Style Guide
+description: This article outlines use of the word arrow per Microsoft style guidelines, with an example.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

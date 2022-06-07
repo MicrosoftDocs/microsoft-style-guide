@@ -1,5 +1,6 @@
 ---
-title: at sign (@) - Microsoft Style Guide
+title: At Sign (@) - Microsoft Style Guide
+description: This article on using the at sign (@) in accordance with Microsoft style guidelines links to a keys and keyboard shortcuts term collection.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

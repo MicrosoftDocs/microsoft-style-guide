@@ -1,5 +1,6 @@
 ---
-title: arrow keys - Microsoft Style Guide
+title: Arrow Keys - Microsoft Style Guide
+description: This arrow keys article links to a keys and keyboard shortcuts term collection that's in accordance with Microsoft style guidelines.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

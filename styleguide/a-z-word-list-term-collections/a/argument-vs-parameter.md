@@ -1,5 +1,6 @@
 ---
-title: argument vs. parameter - Microsoft Style Guide
+title: Argument vs. Parameter - Microsoft Style Guide
+description: This article outlines differences and uses of the words argument and parameter per Microsoft style guidelines.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
