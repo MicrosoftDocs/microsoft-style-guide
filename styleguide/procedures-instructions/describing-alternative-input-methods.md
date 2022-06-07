@@ -1,5 +1,6 @@
 ---
 title: Describing alternative input methods - Microsoft Style Guide
+description: Discusses using input-neutral methods in instructions and providing an article that explains how to interact with the product using each available input method.
 author: pallep
 ms.author: pallep
 ms.date: 09/3/2019

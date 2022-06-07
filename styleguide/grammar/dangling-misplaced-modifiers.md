@@ -1,5 +1,6 @@
 ---
 title: Dangling and misplaced modifiers - Microsoft Style Guide
+description: Discusses dangling and misplaced modifiers and modifiers that are single words or phrases that modify other words or phrases. 
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
