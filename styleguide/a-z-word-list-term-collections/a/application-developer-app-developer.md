@@ -1,5 +1,6 @@
 ---
-title: application developer, app developer - Microsoft Style Guide
+title: Application Developer, App Developer - Microsoft Style Guide
+description: This article outlines use of the terms application developer/app developer per Microsoft style guidelines.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

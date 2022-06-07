@@ -1,5 +1,6 @@
 ---
-title: and/or - Microsoft Style Guide
+title: And/Or - Microsoft Style Guide
+description: This article outlines use of and/or per Microsoft style guidelines, with an example.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

@@ -1,5 +1,6 @@
 ---
-title: ampersand (&) - Microsoft Style Guide
+title: Ampersand (&) - Microsoft Style Guide
+description: This article outlines use of the ampersand (&) symbol per Microsoft style guidelines, with an example.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
