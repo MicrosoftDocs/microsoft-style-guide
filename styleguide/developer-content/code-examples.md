@@ -1,5 +1,6 @@
 ---
 title: Code examples - Microsoft Style Guide
+description: Describes code examples, which illustrate how to use a programming element to implement specific functionality. 
 author: pallep
 ms.author: pallep
 ms.date: 08/7/2019

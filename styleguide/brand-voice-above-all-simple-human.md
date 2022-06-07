@@ -1,5 +1,6 @@
 ---
 title: Microsoft's brand voice &#58; above all, simple and human - Microsoft Style Guide
+description: Discusses Microsoft's brand voice, which is simple and human, such as "what" we say, our message, and "how" we say it, our voice. 
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

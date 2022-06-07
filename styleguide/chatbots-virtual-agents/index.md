@@ -1,5 +1,6 @@
 ---
 title: Chatbots and virtual agents - Microsoft Style Guide
+description: Discusses chatbots and virtual agents, which is a type of bot that can be used to provide information and answers, and complete tasks.
 author: pallep
 ms.author: pallep
 ms.date: 02/21/2019
@@ -32,5 +33,5 @@ This section includes guidelines and tips to help you create this type of bot:
 
 **Learn more**  
 [Microsoft's AI vision, rooted in research, conversations](https://news.microsoft.com/features/microsofts-ai-vision-rooted-in-research-conversations/#yAYKtrYjvRHKCYmc.97)  
-[Bot Framework documentation](https://docs.microsoft.com/bot-framework/)  
+[Bot Framework documentation](/bot-framework)  
 [Responsible bots: 10 guidelines for developers of conversational AI](https://www.microsoft.com/en-us/research/publication/responsible-bots/)  

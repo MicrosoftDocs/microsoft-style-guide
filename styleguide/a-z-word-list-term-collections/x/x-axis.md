@@ -1,6 +1,7 @@
 ---
 title: x-axis - Microsoft Style Guide
 author: pallep
+description: Instructs to lowercase and hyphenate "x-axis" and on first mention, use category (x) axis to refer to the horizontal axis in charts and graphs.
 ms.author: pallep
 ms.date: 01/19/2018
 ms.topic: article

@@ -1,5 +1,6 @@
 ---
 title: Structural and technical considerations - Microsoft Style Guide
+description: Discusses clarify intent before acting, on structural and technical considerations, until you're sure your bot can reliably interpret conversational cues.
 author: pallep
 ms.author: pallep
 ms.date: 02/21/2019

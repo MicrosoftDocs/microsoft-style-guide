@@ -1,5 +1,6 @@
 ---
 title: Care and feeding of the bot - Microsoft Style Guide
+description: Instructs maintaining the bot and evaluating its effectiveness over time, such as what's working and what isn't.
 author: pallep
 ms.author: pallep
 ms.date: 02/21/2019

@@ -1,6 +1,7 @@
 ---
 title: y-axis - Microsoft Style Guide
 author: pallep
+description: Instructs to lowercase and hyphenate the term "y-axis," but on first mention, refer to the y-axis as the value (y) axis.
 ms.author: pallep
 ms.date: 01/19/2018
 ms.topic: article

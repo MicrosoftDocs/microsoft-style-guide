@@ -1,6 +1,7 @@
 ---
 title: zoom in, zoom out - Microsoft Style Guide
 author: pallep
+description: Instructs to use zoom in and zoom out as generic verbs in instructions for all input methods, but not to use dezoom or unzoom.
 ms.author: pallep
 ms.date: 01/19/2018
 ms.topic: article

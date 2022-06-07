@@ -1,5 +1,6 @@
 ---
 title: Formatting developer text elements - Microsoft Style Guide
+description: Discusses formatting developer text elements that is consistent text formatting that helps readers locate and interpret information.
 author: pallep
 ms.author: pallep
 ms.date: 08/8/2019
