@@ -1,5 +1,6 @@
 ---
 title: En dashes - Microsoft Style Guide
+description: Instructs to use en dashes to indicate a range of numbers, such as inclusive values, dates, or pages.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

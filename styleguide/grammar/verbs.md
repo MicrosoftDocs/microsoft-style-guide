@@ -1,5 +1,6 @@
 ---
 title: Verbs - Microsoft Style Guide
+description: Discusses that using precise verbs, such as verb tense, in the right way helps you write clear and simple sentences.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

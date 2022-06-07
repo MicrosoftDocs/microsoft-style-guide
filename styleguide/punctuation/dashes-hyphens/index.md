@@ -1,5 +1,6 @@
 ---
 title: Dashes and hyphens - Microsoft Style Guide
+description: Discusses that dashes and hyphens are interchangeable, but to use them the right way, in the right places, following guidelines.
 author: pallep
 ms.author: pallep
 ms.date: 09/8/2019

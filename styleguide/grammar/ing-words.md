@@ -1,5 +1,6 @@
 ---
 title: Words ending in -ing - Microsoft Style Guide
+description: Discusses words ending in -ing, which can be a verb, a noun, or an adjective. The sentence should make it clear which role the word plays.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

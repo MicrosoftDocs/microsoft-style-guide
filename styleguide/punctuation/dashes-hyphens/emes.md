@@ -1,5 +1,6 @@
 ---
 title: Em dashes - Microsoft Style Guide
+description: Instructs to use an em dash (-) to set off a parenthetical phrase with more emphasis than parenthesis provide. Don't add spaces around a em dash.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
