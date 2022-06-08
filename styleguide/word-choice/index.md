@@ -1,5 +1,6 @@
 ---
 title: Word choice - Microsoft Style Guide
+description: Instructs that to  improve readability and comprehension, choose your words wisely and use them consistently. If you mean the same thing, use the same word.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

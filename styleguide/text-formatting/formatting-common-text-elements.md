@@ -1,5 +1,6 @@
 ---
 title: Formatting common text elements - Microsoft Style Guide
+description: Discusses that consistent text formatting helps readers locate and interpret information. Follow formatting conventions, such as bold, for common text elements.
 author: pallep
 ms.author: pallep
 ms.date: 02/1/2019

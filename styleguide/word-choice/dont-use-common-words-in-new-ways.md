@@ -1,5 +1,6 @@
 ---
 title: Don't use common words in new ways - Microsoft Style Guide
+description: Instructs not to use common words in new ways, such as bucketize to mean group, and to be careful with common words that have industry-specific uses.
 author: pallep
 ms.author: pallep
 ms.date: 08/25/2021

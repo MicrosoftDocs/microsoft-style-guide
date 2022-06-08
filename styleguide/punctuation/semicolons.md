@@ -1,5 +1,6 @@
 ---
 title: Semicolons - Microsoft Style Guide
+description: Discusses that sentences that contain semicolons are often complex. Simplify the sentence—break it into multiple sentences or a list—to eliminate the semicolon.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

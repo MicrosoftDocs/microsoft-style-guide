@@ -1,5 +1,6 @@
 ---
 title: Slashes - Microsoft Style Guide
+description: Instructs that when necessary, differentiate between a slash for URLs and a backslash for servers and folders.
 author: pallep
 ms.author: pallep
 ms.date: 09/5/2019

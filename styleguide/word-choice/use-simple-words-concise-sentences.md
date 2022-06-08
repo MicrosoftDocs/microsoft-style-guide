@@ -1,5 +1,6 @@
 ---
 title: Use simple words, concise sentences - Microsoft Style Guide
+description: Instructs to make every word count. Concise, clear sentences save space, are easy to understand, and facilitate scanning.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

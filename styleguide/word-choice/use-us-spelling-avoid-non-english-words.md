@@ -1,5 +1,6 @@
 ---
 title: Use US spelling and avoid non-English words - Microsoft Style Guide
+description: Instructs to use US spelling and avoid non-English words. When the spelling of English words varies by locale, use the US spelling.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
