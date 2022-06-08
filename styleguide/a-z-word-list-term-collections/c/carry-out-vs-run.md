@@ -1,5 +1,6 @@
 ---
 title: carry out vs. run - Microsoft Style Guide
+description: This article differentiates use of the words carry out and run per Microsoft style guidelines.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
