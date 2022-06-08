@@ -1,5 +1,6 @@
 ---
 title: Avoid jargon - Microsoft Style Guide
+description: Instructs to avoid jargon, but in the right context, for a particular audience, jargon serves as shorthand for well-understood concepts.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

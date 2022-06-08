@@ -1,5 +1,6 @@
 ---
 title: Search and writing - Microsoft Style Guide
+description: Customers find content in a variety of ways, such as search, but good writing that addresses customer needs always helps.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

@@ -1,5 +1,6 @@
 ---
 title: Punctuation - Microsoft Style Guide
+description: Discusses that punctuation provides vital clues for reader understanding and is governed by well-documented rules. 
 author: pallep
 ms.author: pallep
 ms.date: 09/8/2019

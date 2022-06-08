@@ -1,5 +1,6 @@
 ---
 title: Tables - Microsoft Style Guide
+description: Discusses tables, which make complex information easier to understand by presenting it in a clear structure.
 author: pallep
 ms.author: pallep
 ms.date: 10/6/2018

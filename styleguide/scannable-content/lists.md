@@ -1,5 +1,6 @@
 ---
 title: Lists - Microsoft Style Guide
+description: Discusses lists, which are a great way to present complex text in a way that's easy to scan. A list should have at least two items but no more than seven items.
 author: pallep
 ms.author: pallep
 ms.date: 08/09/2021

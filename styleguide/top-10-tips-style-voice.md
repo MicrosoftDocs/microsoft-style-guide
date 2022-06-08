@@ -1,5 +1,6 @@
 ---
 title: Top 10 tips for Microsoft style and voice - Microsoft Style Guide
+description: Instructs to use bigger ideas, fewer words, write like you speak, project friendliness and get to the point fast.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

@@ -1,5 +1,6 @@
 ---
 title: Don't compress line spacing - Microsoft Style Guide
+description: Discusses that the amount of vertical space between lines of text in a paragraph, called line spacing, can help or hinder reading. 
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

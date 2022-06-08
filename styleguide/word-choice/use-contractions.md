@@ -1,5 +1,6 @@
 ---
 title: Use contractions - Microsoft Style Guide
+description: Instructs to write using the same, everyday words you use in conversation. Use common contractions, such as it’s, to create a friendly, informal tone.
 author: pallep
 ms.author: pallep
 ms.date: 08/23/2019
