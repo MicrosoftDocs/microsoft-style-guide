@@ -1,5 +1,6 @@
 ---
-title: beep - Microsoft Style Guide
+title: Beep - Microsoft Style Guide
+description: This article outlines use of the word beep per Microsoft style guidelines, with an example.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
@@ -7,7 +8,7 @@ ms.topic: article
 ms.prod: non-product-specific
 ---
 
-# beep
+# Beep
 
 Use instead of *alarm* or *tone* to refer to a beeping sound.
 
