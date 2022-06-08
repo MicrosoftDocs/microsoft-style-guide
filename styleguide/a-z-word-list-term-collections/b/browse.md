@@ -1,5 +1,6 @@
 ---
 title: browse - Microsoft Style Guide
+description: This article outlines use of the word browse per Microsoft style guidelines.
 author: pallep
 ms.author: pallep
 ms.date: 02/07/2018

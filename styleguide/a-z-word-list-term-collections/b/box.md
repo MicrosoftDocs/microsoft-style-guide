@@ -1,5 +1,6 @@
 ---
 title: box - Microsoft Style Guide
+description: This article outlines use of the word box per Microsoft style guidelines, with examples.
 author: pallep
 ms.author: pallep
 ms.date: 04/02/2021

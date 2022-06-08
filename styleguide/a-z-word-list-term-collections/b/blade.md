@@ -1,5 +1,6 @@
 ---
 title: blade - Microsoft Style Guide
+description: This article outlines use of the word blade per Microsoft style guidelines.
 author: pallep
 ms.author: pallep
 ms.date: 02/27/2019
