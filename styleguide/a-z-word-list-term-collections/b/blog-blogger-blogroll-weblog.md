@@ -1,5 +1,6 @@
 ---
 title: blog, blogger, blogroll, weblog - Microsoft Style Guide
+description: This article outlines use of the terms blog, blogger, blogroll, and weblog per Microsoft style guidelines.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

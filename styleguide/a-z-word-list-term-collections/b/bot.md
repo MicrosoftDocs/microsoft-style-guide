@@ -1,5 +1,6 @@
 ---
 title: bot - Microsoft Style Guide
+description: This article links to an AI and bot term collection for using the word bot in accordance with Microsoft style guidelines.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
