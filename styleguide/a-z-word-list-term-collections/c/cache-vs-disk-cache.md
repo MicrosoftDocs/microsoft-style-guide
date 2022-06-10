@@ -1,5 +1,6 @@
 ---
 title: cache vs. disk cache - Microsoft Style Guide
+description: This article differentiates the words cache and disk cache and outlines their use per Microsoft style guidelines.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

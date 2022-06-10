@@ -1,5 +1,6 @@
 ---
 title: by (publisher or company name) - Microsoft Style Guide
+description: This article outlines use of the word by (as in publisher or company name) per Microsoft style guidelines.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
