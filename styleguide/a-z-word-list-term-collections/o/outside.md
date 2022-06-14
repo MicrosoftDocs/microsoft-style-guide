@@ -1,5 +1,6 @@
 ---
 title: outside - Microsoft Style Guide
+description: Describes guidelines to use 'outside' in Microsoft documents and provides an example.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

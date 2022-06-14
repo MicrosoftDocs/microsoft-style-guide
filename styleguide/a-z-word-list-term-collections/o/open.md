@@ -1,5 +1,6 @@
 ---
 title: open - Microsoft Style Guide
+description: Describes guidelines to use 'open' in Microsoft documents and provides a link to describing interactions with UI terms.
 author: pallep
 ms.author: pallep
 ms.date: 04/30/2018

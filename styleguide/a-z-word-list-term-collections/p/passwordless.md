@@ -1,5 +1,6 @@
 ---
 title: passwordless - Microsoft Style Guide
+description: Describes guidelines to use 'passwordless' in Microsoft documents and provides alternate usage examples.
 author: pallep
 ms.author: pallep
 ms.date: 05/28/2019

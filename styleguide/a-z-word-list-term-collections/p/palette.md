@@ -1,5 +1,6 @@
 ---
 title: palette - Microsoft Style Guide
+description: Describes guidelines to use 'palette' in Microsoft documents and provides examples.
 author: pallep
 ms.author: pallep
 ms.date: 01/31/2019

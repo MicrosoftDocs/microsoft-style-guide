@@ -1,5 +1,6 @@
 ---
 title: opt in, opt out - Microsoft Style Guide
+description: Describes guidelines to use 'opt in' or 'opt-out' in Microsoft documents.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

@@ -1,5 +1,6 @@
 ---
 title: over - Microsoft Style Guide
+description: Describes guidelines to use 'over' in Microsoft documents and provides an alternative usage example.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
