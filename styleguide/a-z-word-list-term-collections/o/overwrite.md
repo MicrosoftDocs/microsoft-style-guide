@@ -1,5 +1,6 @@
 ---
 title: overwrite - Microsoft Style Guide
+description: Describes guidelines to use 'overwrite' in Microsoft documents. Use only to describe replacing existing data with new data.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

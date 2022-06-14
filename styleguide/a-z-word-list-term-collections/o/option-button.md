@@ -1,5 +1,6 @@
 ---
 title: option, option button - Microsoft Style Guide
+description: Describes guidelines to use 'option' or 'option button' in Microsoft documents and provides a link to describing interactions with UI terms. 
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

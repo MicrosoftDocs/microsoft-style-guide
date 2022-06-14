@@ -1,5 +1,6 @@
 ---
 title: percent, percentage - Microsoft Style Guide
+description: Describes guidelines to use 'percent' or 'percentage' in Microsoft documents and provides examples with exceptions.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

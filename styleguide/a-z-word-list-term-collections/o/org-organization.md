@@ -1,5 +1,6 @@
 ---
 title: org, organization - Microsoft Style Guide
+description: Describes guidelines to use 'org' or 'organization' in Microsoft documents and provides usage examples.
 author: pallep
 ms.author: pallep
 ms.date: 09/11/2018

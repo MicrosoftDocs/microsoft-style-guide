@@ -1,5 +1,6 @@
 ---
 title: pen - Microsoft Style Guide
+description: Provides a link to commonly used computer and device terms which includes 'pen'.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
