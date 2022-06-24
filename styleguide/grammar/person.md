@@ -39,6 +39,7 @@ Remember my password
 I agree to the terms of service
 
 **Exception** In rare cases, it’s OK to use “my” in navigation or filter labels if you need to distinguish a person’s content from other content that may be presented in the same visual space.
+![image](https://user-images.githubusercontent.com/88392507/175656804-d8ed81a0-12f3-45a7-9aa8-29278d3a3b98.png)
 
 **Exception** Cortana is a persona, so the use of *I* is appropriate. 
 
