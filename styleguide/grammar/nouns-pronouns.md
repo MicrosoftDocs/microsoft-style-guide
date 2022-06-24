@@ -47,7 +47,7 @@ Capitalize technology terms as proper nouns only when:
 
 If you're not sure whether a term is a proper noun (and thus capitalized) or a common noun (lowercase), check *[The American Heritage Dictionary](https://ahdictionary.com/)* and the A–Z word list. Default to lowercase unless there's a compelling reason to capitalize the term.
 
-**Learn more** For guidelines for sentence-style and title-style capitalization, see [Capitalization](https://docs.microsoft.com/en-us/style-guide/grammar/person)).
+**Learn more** For guidelines for sentence-style and title-style capitalization, see [Capitalization](https://docs.microsoft.com/en-us/style-guide/grammar/person).
 
 ## Plural nouns
 
@@ -76,7 +76,7 @@ you're writing about real people who use those pronouns themselves.
 
 *They* can be used as a non-binary pronoun for a singular person instead of a binary pronoun (*she* or *he*). 
 
-For more guidelines about how to write using gender-neutral pronouns, see [Bias-free communication](~/bias-free-communication.md).
+For more guidelines about how to write using gender-neutral pronouns, see [Bias-free communication](https://docs.microsoft.com/en-us/style-guide/bias-free-communication).
 
 ## Pronouns and collective nouns
 
