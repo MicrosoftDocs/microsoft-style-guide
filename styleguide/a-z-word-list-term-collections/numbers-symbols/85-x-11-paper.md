@@ -1,5 +1,6 @@
 ---
 title: 8.5" x 11" paper - Microsoft Style Guide
+description: Describes guidelines to use '8.5\" x 11\" paper' in Microsoft documents and provides examples.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

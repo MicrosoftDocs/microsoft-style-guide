@@ -1,5 +1,6 @@
 ---
 title: white hat hacker - Microsoft Style Guide
+description: Instructs to see the Security term collection for "white hat hacker."
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

@@ -1,5 +1,6 @@
 ---
 title: demilitarized zone (DMZ) - Microsoft Style Guide
+description: Describes how to use the term 'demilitarized zone' in Microsoft content and provides alternative terms to be used instead.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

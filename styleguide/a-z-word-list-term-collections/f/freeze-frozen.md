@@ -1,5 +1,6 @@
 ---
 title: freeze, frozen - Microsoft Style Guide
+description: Defines guidelines for using 'freeze' or 'frozen' in Microsoft documents, and provides an additional resource link.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

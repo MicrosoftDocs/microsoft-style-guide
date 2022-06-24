@@ -1,5 +1,6 @@
 ---
 title: Illustrating network traffic flows - Microsoft Style Guide
+description: Describes how to illustrate network traffic flows and provides guidelines to follow and various examples of network flow descriptions.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
@@ -37,20 +38,20 @@ communication.
 
 With both types of arrows, subsequent communication is two-way.
 
-![](media/illustrating-network-traffic-flows/589503366.PNG)<br /><br />
+![Screenshot of a blue presentation slide that uses green arrows to represent a communication between various parties in a network flow.](media/illustrating-network-traffic-flows/589503366.PNG)<br /><br />
 
 **Use line styles to distinguish different traffic flows.** Choose line colors that contrast with the image background 
 and are distinct when printed or viewed in black and white.
 
-![](media/illustrating-network-traffic-flows/1252879060.png)<br /><br />
+![Diagram of line types, showing a solid magenta line, a dotted black line, a dashed black line, a dot-dashed black line, and an overlaid magenta and black line.](media/illustrating-network-traffic-flows/1252879060.png)<br /><br />
 
 **Label specific network traffic.** If possible, overlay the label onto the line: 
 
-![](media/illustrating-network-traffic-flows/83067036.png)<br /><br />
+![Diagram of a solid magenta arrow pointing right being broken apart by black text reading STUN slash U D P 3478.](media/illustrating-network-traffic-flows/83067036.png)<br /><br />
 
 Otherwise, add the label as a callout:
 
-![](media/illustrating-network-traffic-flows/572369390.png)
+![Diagram of a solid magenta line pointing right with a black line connecting the line to text above the line reading STUN slash U D P 3478.](media/illustrating-network-traffic-flows/572369390.png)
 
 ## Represent security boundaries with solid vertical lines
 
@@ -60,7 +61,7 @@ that indicate network traffic flow across the vertical line. This
 example shows firewalled and partitioned networks in Microsoft
 Azure.
 
-![](media/illustrating-network-traffic-flows/881348326.png)
+![Diagram of a virtual network showing two groups of three partitioned networks in Microsoft Azure, with the two groups separated by a dotted line.](media/illustrating-network-traffic-flows/881348326.png)
 
 ## Use standard network traffic syntax
 

@@ -1,5 +1,6 @@
 ---
 title: dynamic-link library (DLL) - Microsoft Style Guide
+description: Describes guidelines to use 'dynamic-link library (DLL)' in Microsoft documents and provides examples.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

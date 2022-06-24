@@ -1,5 +1,6 @@
 ---
 title: format, formatted, formatting - Microsoft Style Guide
+description: Defines guidelines for using 'format', 'formatted', or 'formatting' in Microsoft documents, and provides an additional resource link.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

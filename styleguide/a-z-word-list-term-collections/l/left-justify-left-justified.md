@@ -1,5 +1,6 @@
 ---
 title: left justify, left-justified - Microsoft Style Guide
+description: This article provides a link to learn how to use the phrases left justify and left-justified in Microsoft documents.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

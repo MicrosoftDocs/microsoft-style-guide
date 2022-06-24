@@ -1,5 +1,6 @@
 ---
 title: we - Microsoft Style Guide
+description: Describes how to implement the term 'we' in Microsoft content and provides examples of using the term 'we' in content.
 author: pallep
 ms.author: pallep
 ms.date: 07/17/2018

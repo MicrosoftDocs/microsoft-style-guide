@@ -1,5 +1,6 @@
 ---
 title: spell checker - Microsoft Style Guide
+description: Describes guidelines to use 'spell checker' in Microsoft documents, and provides usage examples.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

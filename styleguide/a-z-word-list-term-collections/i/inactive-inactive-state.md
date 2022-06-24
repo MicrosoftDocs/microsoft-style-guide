@@ -1,5 +1,6 @@
 ---
 title: inactive, inactive state - Microsoft Style Guide
+description: Describes how to use the terms "inactive" and "inactive state" in microsoft content.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

@@ -1,5 +1,6 @@
 ---
 title: spyware - Microsoft Style Guide
+description: Provides a link to commonly used security terms in Microsoft documents including 'spyware'.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

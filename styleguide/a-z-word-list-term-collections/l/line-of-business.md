@@ -1,5 +1,6 @@
 ---
 title: line of business, line-of-business - Microsoft Style Guide
+description: Guidelines for using the phrases line of business and line-of-business in Microsoft documents.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

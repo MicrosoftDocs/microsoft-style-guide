@@ -1,5 +1,6 @@
 ---
 title: Web, software, and HTML considerations - Microsoft Style Guide
+description: Discusses web, software, and HTML considerations regarding web content that attracts a worldwide audience.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

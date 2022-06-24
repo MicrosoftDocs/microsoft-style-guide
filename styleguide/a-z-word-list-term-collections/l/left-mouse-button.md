@@ -1,5 +1,6 @@
 ---
 title: left mouse button - Microsoft Style Guide
+description: This article provides a link to learn how to use the phrase left mouse button in Microsoft documents.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

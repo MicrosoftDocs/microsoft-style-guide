@@ -1,5 +1,6 @@
 ---
 title: mission critical, mission-critical - Microsoft Style Guide
+description: Describes guidelines to use 'mission critical' and 'mission-critical' in Microsoft documents.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

@@ -1,5 +1,6 @@
 ---
 title: dialog box, dialog, dialogue - Microsoft Style Guide
+description: Describes guidelines to use 'dialog' in Microsoft documents and provides correct and alternate examples.
 author: pallep
 ms.author: pallep
 ms.date: 03/31/2021

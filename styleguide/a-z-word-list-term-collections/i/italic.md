@@ -1,5 +1,6 @@
 ---
 title: italic - Microsoft Style Guide
+description: Describes how to use the term "italic" in Microsoft content.
 author: pallep
 ms.author: pallep
 ms.date: 09/3/2019

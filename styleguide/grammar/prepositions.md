@@ -1,5 +1,6 @@
 ---
 title: Prepositions - Microsoft Style Guide
+description: Discusses a prepositional phrase, which is a combination of a preposition and a noun that modifies or describes some part of a sentence.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

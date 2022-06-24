@@ -1,5 +1,6 @@
 ---
 title: frameset - Microsoft Style Guide
+description: Describes guidelines to use 'frameset' in Microsoft documents, and provides alternate examples. Use only in content for developers.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

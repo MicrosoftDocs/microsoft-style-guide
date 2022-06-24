@@ -1,5 +1,6 @@
 ---
 title: function - Microsoft Style Guide
+description: Defines guidelines for using 'function' in Microsoft documents, and provides usage examples.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

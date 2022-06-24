@@ -1,5 +1,6 @@
 ---
 title: lowercase - Microsoft Style Guide
+description: Guidelines for using the term lowercase in Microsoft documents.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

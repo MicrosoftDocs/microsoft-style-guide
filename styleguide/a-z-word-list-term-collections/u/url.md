@@ -1,5 +1,6 @@
 ---
 title: URL - Microsoft Style Guide
+description: Describes how to implement the term 'URL' in Microsoft content and provides an example of using 'URL' in content.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

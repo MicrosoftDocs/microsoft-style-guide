@@ -1,5 +1,6 @@
 ---
 title: tile, Live Tile - Microsoft Style Guide
+description: Describes how to implement the terms 'tile' and 'Live Tile' in Microsoft content and clarifies to capitalize 'Live Tile'.
 author: pallep
 ms.author: pallep
 ms.date: 07/31/2018

@@ -1,5 +1,6 @@
 ---
 title: mouse - Microsoft Style Guide
+description: To learn more about using 'mouse' in Microsoft documents, see 'Computer and device term collection' and 'Mouse and mouse interaction term collection.'
 author: pallep
 ms.author: pallep
 ms.date: 02/28/2019

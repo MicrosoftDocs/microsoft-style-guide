@@ -1,5 +1,6 @@
 ---
 title: Formatting punctuation - Microsoft Style Guide
+description: Instructs that in general, format punctuation in the same font style as the main content of a sentence or phrase.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

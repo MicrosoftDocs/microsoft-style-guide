@@ -1,5 +1,6 @@
 ---
 title: hover over, hovering - Microsoft Style Guide
+description: Describes how to use the terms "hover over" and "hovering" in Microsoft content.
 author: pallep
 ms.author: pallep
 ms.date: 11/27/2016

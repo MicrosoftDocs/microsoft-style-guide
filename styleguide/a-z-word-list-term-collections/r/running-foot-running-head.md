@@ -1,5 +1,6 @@
 ---
 title: running foot, running head - Microsoft Style Guide
+description: In this article, learn about style guidelines for using the terms 'running foot' and 'running head' in Microsoft documents.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

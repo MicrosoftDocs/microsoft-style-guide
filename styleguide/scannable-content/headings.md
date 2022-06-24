@@ -1,5 +1,6 @@
 ---
 title: Headings - Microsoft Style Guide
+description: Describes how to implement headings in content and outlines how to write, format, use run-in headings, and provides multiple example headings.
 author: pallep
 ms.author: pallep
 ms.date: 07/24/2018
@@ -159,4 +160,4 @@ When you use bold formatting for run-in headings:
     next to the style name. To create a new character style in a
     document, select the characters, and then add the style.
     
-    ![](media/headings/190123509.png)
+    ![Screenshot of the Style Name dropdown menu with the Subtle Emphasis option being highlighted.](media/headings/190123509.png)

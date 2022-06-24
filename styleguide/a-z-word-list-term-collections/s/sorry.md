@@ -1,5 +1,6 @@
 ---
 title: sorry - Microsoft Style Guide
+description: Describes guidelines to use 'sorry' in Microsoft documents, and provides usage examples.
 author: pallep
 ms.author: pallep
 ms.date: 07/26/2019

@@ -1,5 +1,6 @@
 ---
 title: log on, log off - Microsoft Style Guide
+description: This article provides a link to learn how to use the phrases log on and log off in Microsoft documents.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

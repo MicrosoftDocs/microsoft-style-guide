@@ -1,5 +1,6 @@
 ---
-title: AI (artificial intelligence) - Microsoft Style Guide
+title: AI (Artificial Intelligence) - Microsoft Style Guide
+description: This article links to an AI and bot term collection that's in accordance with Microsoft style guidelines.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

@@ -1,5 +1,6 @@
 ---
 title: opcode - Microsoft Style Guide
+description: Describes guidelines to use 'opcode' in Microsoft documents.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

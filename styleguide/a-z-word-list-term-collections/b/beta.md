@@ -1,5 +1,6 @@
 ---
-title: beta - Microsoft Style Guide
+title: Beta - Microsoft Style Guide
+description: The word beta should be generally avoided in accordance with Microsoft style guidelines. The word preview is preferred.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

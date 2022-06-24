@@ -1,5 +1,6 @@
 ---
 title: Control Panel - Microsoft Style Guide
+description: Describes how to use and style the term 'Control Panel' in Microsoft content depending on the context and provides examples for using the term.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

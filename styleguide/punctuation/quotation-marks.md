@@ -1,5 +1,6 @@
 ---
 title: Quotation marks - Microsoft Style Guide
+description: Discusses that in most content, use double quotation marks (" ") not single quotation marks (' '). In online content, use straight quotation marks. 
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

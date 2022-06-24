@@ -1,5 +1,6 @@
 ---
 title: Bits and bytes terms - Microsoft Style Guide
+description: Describes how to use the bit and byte terms and provides examples and abbreviations for various instances of referring to bits and bytes in content.
 author: pallep
 ms.author: pallep
 ms.date: 03/31/2021
@@ -44,7 +45,7 @@ a 650-MB limit
     1,024 MB
 
 
-|         **Term**         | **Abbreviation** |                                                                                      **Usage**                                                                                       |
+|         Term         | Abbreviation |                                                                                      Usage                                                                                       |
 |--------------------------|------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |    **bits per pixel**    |       bpp        |                                                                                                                                                                                      |
 |   **bits per second**    |       bps        | Don't use as a synonym for *baud.* See [Units of measure term collection](~/a-z-word-list-term-collections/term-collections/units-of-measure-terms.md) for information about *baud.* |

@@ -1,5 +1,6 @@
 ---
-title: assure, ensure, insure - Microsoft Style Guide
+title: Assure, Ensure, Insure - Microsoft Style Guide
+description: This article outlines differences and uses of the words assure, ensure, and insure per Microsoft style guidelines.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

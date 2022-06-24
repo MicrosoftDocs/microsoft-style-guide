@@ -1,5 +1,6 @@
 ---
 title: invalid, not valid - Microsoft Style Guide
+description: Describes how to use the terms "invalid" and "not valid" in Microsoft content.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

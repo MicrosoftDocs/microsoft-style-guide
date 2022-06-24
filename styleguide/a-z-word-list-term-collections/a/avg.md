@@ -1,10 +1,11 @@
 ---
-title: avg - Microsoft Style Guide
+title: Avg - Microsoft Style Guide
+description: This article outlines use of the abbreviation avg per Microsoft style guidelines.
 author: pallep
 ms.author: pallep
 ms.date: 11/26/2018
 ms.topic: article
-ms.prod: non-product specific
+ms.prod: non-product-specific
 ---
 
 # avg

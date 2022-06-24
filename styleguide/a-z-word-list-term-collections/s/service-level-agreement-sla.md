@@ -1,5 +1,6 @@
 ---
 title: service-level agreement (SLA) - Microsoft Style Guide
+description: Describes guidelines to use 'service-level agreement (SLA)' in Microsoft documents, and provides examples.
 author: pallep
 ms.author: pallep
 ms.date: 06/27/2018

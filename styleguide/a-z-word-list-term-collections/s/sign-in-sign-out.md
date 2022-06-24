@@ -1,5 +1,6 @@
 ---
 title: sign in, sign out - Microsoft Style Guide
+description: Describes guidelines to use 'sign in' or 'sign out' in Microsoft documents, and provides usage examples.
 author: pallep
 ms.author: pallep
 ms.date: 06/27/2019

@@ -1,5 +1,6 @@
 ---
 title: URLs and web addresses - Microsoft Style Guide
+description: Discusses that communications to customers often refer to websites and URLs. In content for a general audience, use address rather than URL. 
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

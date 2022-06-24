@@ -1,5 +1,6 @@
 ---
 title: uninstall - Microsoft Style Guide
+description: Describes how to implement the term 'uninstall' in Microsoft content and provides a link to the remove topic.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

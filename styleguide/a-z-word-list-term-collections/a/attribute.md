@@ -1,5 +1,6 @@
 ---
-title: attribute - Microsoft Style Guide
+title: Attribute - Microsoft Style Guide
+description: This article outlines use of the word attribute per Microsoft style guidelines.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

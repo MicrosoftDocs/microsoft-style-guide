@@ -1,5 +1,6 @@
 ---
 title: bounding outline - Microsoft Style Guide
+description: This article outlines use of the term bounding outline per Microsoft style guidelines.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

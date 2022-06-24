@@ -1,5 +1,6 @@
 ---
 title: ping, PING - Microsoft Style Guide
+description: Describes how to use the terms "ping" and "PING" in Microsoft content.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

@@ -1,5 +1,6 @@
 ---
-title: application window, app window - Microsoft Style Guide
+title: Application Window, App Window - Microsoft Style Guide
+description: This article outlines use of the terms application window/app window per Microsoft style guidelines.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

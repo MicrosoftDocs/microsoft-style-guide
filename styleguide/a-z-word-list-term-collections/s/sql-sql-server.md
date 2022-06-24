@@ -1,5 +1,6 @@
 ---
 title: SQL, SQL Server - Microsoft Style Guide
+description: Describes guidelines to use 'SQL' or 'SQL Server' in Microsoft documents, and provides usage examples.
 author: pallep
 ms.author: pallep
 ms.date: 12/09/2021

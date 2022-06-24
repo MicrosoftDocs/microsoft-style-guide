@@ -1,5 +1,6 @@
 ---
 title: decrement - Microsoft Style Guide
+description: Describes how to use the term 'decrement' in Microsoft content depending on the audience and when to use the term as a verb and as an adjective.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

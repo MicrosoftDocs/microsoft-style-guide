@@ -1,5 +1,6 @@
 ---
 title: off-premises, on-premises - Microsoft Style Guide
+description: Describes guidelines to use 'off-premises' or 'on-premises' in Microsoft documents. See 'Cloud-computing term collection' for more information.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

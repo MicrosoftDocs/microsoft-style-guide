@@ -1,5 +1,6 @@
 ---
 title: disk space - Microsoft Style Guide
+description: In Microsoft documents, use 'disk space' instead of 'storage' or 'memory' to refer to available capacity on a disk.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

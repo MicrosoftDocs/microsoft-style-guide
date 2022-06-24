@@ -1,5 +1,6 @@
 ---
 title: wellbeing - Microsoft Style Guide
+description: Instructs not to use the term "well-being," but to use "wellbeing" with an example sentence.
 author: pallep
 ms.author: pallep
 ms.date: 05/31/2021

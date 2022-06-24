@@ -1,5 +1,6 @@
 ---
 title: e.g. - Microsoft Style Guide
+description: Describes guidelines for alternatives to 'e.g.' in Microsoft documents and provides correct examples.
 author: pallep
 ms.author: pallep
 ms.date: 11/8/2018

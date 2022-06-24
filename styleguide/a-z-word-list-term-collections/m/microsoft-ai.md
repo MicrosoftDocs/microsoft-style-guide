@@ -1,5 +1,6 @@
 ---
 title: Microsoft AI - Microsoft Style Guide
+description: To learn more about using 'Microsoft AI' in Microsoft documents, see 'AI and bot term collection.'
 author: pallep
 ms.author: pallep
 ms.date: 02/21/2019

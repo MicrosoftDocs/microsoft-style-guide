@@ -1,5 +1,6 @@
 ---
 title: where - Microsoft Style Guide
+description: Demonstrates to use "where" to introduce a list, as in code or formulas, to define the meaning of elements such as variables or symbols with an example.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

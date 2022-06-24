@@ -1,6 +1,7 @@
 ---
 title: zero, zeros - Microsoft Style Guide
 author: pallep
+description: Discusses when a measurement includes 0, use the plural form of the spelled-out unit of measure, such as zero, not zeroes, as the plural of zero.
 ms.author: pallep
 ms.date: 01/19/2018
 ms.topic: article

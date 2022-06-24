@@ -1,5 +1,6 @@
 ---
 title: Formatting titles - Microsoft Style Guide
+description: Instructs to follow conventions, such as title-style capitalization and italics, for formatting titles, like games and books.
 author: pallep
 ms.author: pallep
 ms.date: 02/07/2018

@@ -1,5 +1,6 @@
 ---
 title: input - Microsoft Style Guide
+description: Describes how to use the term "input" in Microsoft content.
 author: pallep
 ms.author: pallep
 ms.date: 02/21/2018

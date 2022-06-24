@@ -1,5 +1,6 @@
 ---
 title: pane - Microsoft Style Guide
+description: Describes guidelines to use 'pane' in Microsoft documents and provides a link to commonly used interactions with UI terms.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

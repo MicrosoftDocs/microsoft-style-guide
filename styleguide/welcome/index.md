@@ -10,7 +10,7 @@ ms.prod: non-product-specific
 
 # Welcome
 
-![](media/index/WritingStyleGuidebanner.png)
+![Header image reading Microsoft Style Guide on a background with a cup containing a pencil, pen, ruler, and paintbrush.](media/index/WritingStyleGuidebanner.png)
 
 ## Make every word matter 
 

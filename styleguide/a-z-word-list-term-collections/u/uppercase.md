@@ -1,5 +1,6 @@
 ---
 title: uppercase - Microsoft Style Guide
+description: Describes how to implement the term 'uppercase' in Microsoft content and provides examples of using 'uppercase' in content.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

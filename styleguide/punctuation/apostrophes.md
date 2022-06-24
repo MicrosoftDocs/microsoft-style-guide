@@ -1,5 +1,6 @@
 ---
 title: Apostrophes - Microsoft Style Guide
+description: Instructs to use an apostrophe to form  the possessive case of nouns. To form the possessive of plural nouns that end in s, add only an apostrophe.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

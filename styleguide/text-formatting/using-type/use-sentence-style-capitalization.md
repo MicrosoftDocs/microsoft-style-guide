@@ -1,5 +1,6 @@
 ---
 title: Use sentence-style capitalization - Microsoft Style Guide
+description: Instructs to use sentence-style capitalization in which you capitalize only the first word of a sentence or phrase and proper nouns.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

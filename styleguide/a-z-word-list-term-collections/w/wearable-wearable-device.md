@@ -1,5 +1,6 @@
 ---
 title: wearable, wearable device - Microsoft Style Guide
+description: Provides a link to the computer and device term collection topic.
 author: pallep
 ms.author: pallep
 ms.date: 02/28/2019

@@ -1,5 +1,6 @@
 ---
-title: as well as - Microsoft Style Guide
+title: As Well As - Microsoft Style Guide
+description: This article outlines use of the term as well as per Microsoft style guidelines.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

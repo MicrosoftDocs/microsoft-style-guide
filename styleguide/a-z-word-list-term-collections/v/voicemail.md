@@ -1,5 +1,6 @@
 ---
 title: voicemail - Microsoft Style Guide
+description: Describes how to implement the term 'voicemail' in Microsoft content and provides examples of using the term 'voicemail' in content.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

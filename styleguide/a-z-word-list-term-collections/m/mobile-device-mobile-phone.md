@@ -1,5 +1,6 @@
 ---
 title: mobile device, mobile phone - Microsoft Style Guide
+description: To learn more about using 'mobile device' and 'mobile phone' in Microsoft documents, see 'Computer and device term collection.'
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

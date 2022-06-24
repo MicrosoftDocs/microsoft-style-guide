@@ -1,5 +1,6 @@
 ---
 title: notification area - Microsoft Style Guide
+description: Describes guidelines to use 'notification area' in Microsoft documents and provides examples.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

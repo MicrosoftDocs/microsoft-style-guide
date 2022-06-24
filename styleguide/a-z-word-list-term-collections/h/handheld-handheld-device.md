@@ -1,5 +1,6 @@
 ---
 title: handheld, handheld device - Microsoft Style Guide
+description: Describes how to use te terms "handheld" and "handheld device" in Microsoft content.
 author: pallep
 ms.author: pallep
 ms.date: 02/28/2019

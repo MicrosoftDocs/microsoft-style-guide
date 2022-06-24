@@ -1,5 +1,6 @@
 ---
 title: malicious code - Microsoft Style Guide
+description: To learn more about using 'malicious code' in Microsoft documents, see 'Security term collection.'
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

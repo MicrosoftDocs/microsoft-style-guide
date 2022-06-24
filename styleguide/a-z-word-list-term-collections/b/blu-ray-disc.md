@@ -1,5 +1,6 @@
 ---
 title: Blu-ray Disc - Microsoft Style Guide
+description: This article outlines use of the name Blu-ray Disc per Microsoft style guidelines.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

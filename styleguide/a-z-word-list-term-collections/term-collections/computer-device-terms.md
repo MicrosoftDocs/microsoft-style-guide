@@ -1,5 +1,6 @@
 ---
 title: Computer and device terms - Microsoft Style Guide
+description: Describes how to implement computer and device terms in Microsoft content and provides a table that outlines the usage of various computer and device terms.
 author: pallep
 ms.author: pallep
 ms.date: 02/28/2019
@@ -28,7 +29,7 @@ Use these verbs to talk about using devices and peripheral devices:
 
 ## Preferred device terms
 
-|              **Term**               |                                                                                                                                                                                                  **Usage**                                                                                                                                                                                                  |
+|              Term               |                                                                                                                                                                                                  Usage                                                                                                                                                                                                  |
 |-------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |      **device, mobile device**      |                                                                      Use *device* to refer collectively to all types of computers, phones, and other devices. <br /><br />Use *mobile device* only when you need to call out the mobility.<br /><br />It's OK to modify *device* when it matters. For example, *point-of-sale device*.                                                                      |
 |          **computer, PC**           | Use *computer* when you need to talk about a computing device other than a phone, wearable device, or gaming console.<br /><br />It's OK to use *PC* when space is a constraint, but don't switch between *PC* and *computer*.<br /><br />Don't use *mobile computer,* *portable computer,* or *mobile PC.* |

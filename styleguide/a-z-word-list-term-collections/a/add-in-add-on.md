@@ -1,5 +1,6 @@
 ---
-title: add-in, add-on - Microsoft Style Guide
+title: Add-In, Add-On - Microsoft Style Guide
+description: This article outlines the use of the terms add-in and add-on per Microsoft style guidelines.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
@@ -7,7 +8,7 @@ ms.topic: article
 ms.prod: non-product-specific
 ---
 
-# add-in, add-on
+# Add-In, Add-On
 
 Use *add-in*
 to refer to software that adds functionality to a larger program,

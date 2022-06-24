@@ -1,5 +1,6 @@
 ---
 title: \-core - Microsoft Style Guide
+description: Describes the suffix "-core" in Microsoft content and clarifies how to handle hyphenating terms that use the suffix.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

@@ -1,5 +1,6 @@
 ---
 title: Use left alignment - Microsoft Style Guide
+description: Instructs to use left-aligned text, which has an even left margin and an erratic (ragged) right margin.
 author: pallep
 ms.author: pallep
 ms.date: 09/3/2019

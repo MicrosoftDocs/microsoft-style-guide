@@ -1,5 +1,6 @@
 ---
 title: workstream - Microsoft Style Guide
+description: Instructs to use the term "workstream" as one word without a hyphen with an example.
 author: pallep
 ms.author: pallep
 ms.date: 05/31/2021

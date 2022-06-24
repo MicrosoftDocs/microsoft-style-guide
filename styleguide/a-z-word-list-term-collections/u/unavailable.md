@@ -1,5 +1,6 @@
 ---
 title: unavailable - Microsoft Style Guide
+description: Describes the use of the term 'unavailable' in Microsoft content and provides examples of using the term 'unavailable' in content.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

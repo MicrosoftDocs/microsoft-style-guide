@@ -1,5 +1,6 @@
 ---
 title: device driver, driver - Microsoft Style Guide
+description: Describes guidelines to use 'device driver' or 'driver' in Microsoft documents. In content for a general audience, define 'driver' on the first mention.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

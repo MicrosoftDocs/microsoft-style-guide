@@ -1,5 +1,6 @@
 ---
 title: left, leftmost, left-hand - Microsoft Style Guide
+description: Guidelines for using the terms left, leftmost and left-hand in Microsoft documents.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

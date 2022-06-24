@@ -1,5 +1,6 @@
 ---
 title: direction keys - Microsoft Style Guide
+description: Describes guidelines when writing about direction keys in Microsoft documents.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

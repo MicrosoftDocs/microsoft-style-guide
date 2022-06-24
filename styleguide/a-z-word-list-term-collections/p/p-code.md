@@ -1,5 +1,6 @@
 ---
 title: p-code - Microsoft Style Guide
+description: Describes guidelines to use 'p-code' in Microsoft documents. Spell out on the first mention.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

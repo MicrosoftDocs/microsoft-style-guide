@@ -1,5 +1,6 @@
 ---
 title: bottom left, bottom right - Microsoft Style Guide
+description: This article outlines use of the terms bottom left and bottom right per Microsoft style guidelines.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

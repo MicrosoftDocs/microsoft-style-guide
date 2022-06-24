@@ -1,5 +1,6 @@
 ---
 title: Names and contact information - Microsoft Style Guide
+description: Discusses creating a real or sample form that collects personal information using guidelines, such as names and contact information.
 author: pallep
 ms.author: pallep
 ms.date: 05/6/2019

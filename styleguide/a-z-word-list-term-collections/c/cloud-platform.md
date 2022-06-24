@@ -1,5 +1,6 @@
 ---
 title: cloud platform - Microsoft Style Guide
+description: Provides a link to the discussing cloud-computing terms topic as it pertains to the term 'cloud platform'.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

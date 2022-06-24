@@ -1,5 +1,6 @@
 ---
 title: network administrator - Microsoft Style Guide
+description: To learn more about using 'network administrator' in Microsoft documents, see 'administrator' or 'admin.'
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

@@ -1,5 +1,6 @@
 ---
 title: toast - Microsoft Style Guide
+description: Describes how to implement the term 'toast' in Microsoft content and clarifies to use the term 'notification' in place of using the term 'toast'.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

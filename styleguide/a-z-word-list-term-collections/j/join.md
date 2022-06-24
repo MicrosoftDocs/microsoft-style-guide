@@ -1,5 +1,6 @@
 ---
 title: join - Microsoft Style Guide
+description: Describes how to use the word "join" in Microsoft content.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

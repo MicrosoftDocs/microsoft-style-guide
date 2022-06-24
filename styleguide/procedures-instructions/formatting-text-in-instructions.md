@@ -1,5 +1,6 @@
 ---
 title: Formatting text in instructions - Microsoft Style Guide
+description: Discusses that consistent text formatting helps readers locate and interpret information, such as instructions.
 author: pallep
 ms.author: pallep
 ms.date: 04/02/2021

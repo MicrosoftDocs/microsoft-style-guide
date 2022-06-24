@@ -1,5 +1,6 @@
 ---
 title: Grammar and parts of speech - Microsoft Style Guide
+description: Discusses simple grammar which tends to be easy to read and understand, like a conversation, which is probably just right for most Microsoft content.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

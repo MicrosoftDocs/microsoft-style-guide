@@ -1,5 +1,6 @@
 ---
 title: open source, open-source - Microsoft Style Guide
+description: Describes guidelines to use 'open source' or 'open-source' in Microsoft documents. Lowercase unless you're talking about the Open Source Initiative.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

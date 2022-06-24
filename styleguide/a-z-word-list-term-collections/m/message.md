@@ -1,5 +1,6 @@
 ---
 title: message - Microsoft Style Guide
+description: Describes guidelines to use 'message' in Microsoft documents and provides alternate examples.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

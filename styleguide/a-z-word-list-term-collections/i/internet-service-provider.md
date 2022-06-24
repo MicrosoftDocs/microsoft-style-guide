@@ -1,5 +1,6 @@
 ---
 title: internet service provider (ISP) - Microsoft Style Guide
+description: Describes how to use the term "Internet service provider (ISP)" in Microsoft content.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

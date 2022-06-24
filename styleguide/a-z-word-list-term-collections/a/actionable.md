@@ -1,5 +1,6 @@
 ---
-title: actionable - Microsoft Style Guide
+title: Actionable - Microsoft Style Guide
+description: This article tells the writer to avoid using the word actionable and provides alternatives.  
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
@@ -7,7 +8,7 @@ ms.topic: article
 ms.prod: non-product-specific
 ---
 
-# actionable
+# Actionable
 
 Don't use unless you have no other choice. 
 

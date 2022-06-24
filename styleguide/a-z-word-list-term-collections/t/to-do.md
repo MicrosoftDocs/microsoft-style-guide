@@ -1,5 +1,6 @@
 ---
 title: to-do - Microsoft Style Guide
+description: Describes how to implement the term 'to-do' in Microsoft content and provides examples of how to use this term in content.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

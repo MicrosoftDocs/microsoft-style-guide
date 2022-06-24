@@ -1,5 +1,6 @@
 ---
 title: video driver - Microsoft Style Guide
+description: Describes how to implement the term 'video driver' in Microsoft content.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

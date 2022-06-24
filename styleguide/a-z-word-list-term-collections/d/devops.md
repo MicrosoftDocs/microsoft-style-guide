@@ -1,5 +1,6 @@
 ---
 title: DevOps - Microsoft Style Guide
+description: Describes guidelines to use 'DevOps' in Microsoft Docs. Carefully note spelling and capitalization.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

@@ -1,5 +1,6 @@
 ---
 title: storage, storage device - Microsoft Style Guide
+description: Describes guidelines to use 'storage' or 'storage device' in Microsoft documents.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

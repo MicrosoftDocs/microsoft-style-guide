@@ -1,5 +1,6 @@
 ---
 title: Commas - Microsoft Style Guide
+description: Instructs to use a comma before the conjunction in a list of three or more items. (The comma that comes before the conjunction is the Oxford or serial comma.)
 author: pallep
 ms.author: pallep
 ms.date: 03/11/2019

@@ -1,5 +1,6 @@
 ---
-title: bits per second - Microsoft Style Guide
+title: Bits Per Second - Microsoft Style Guide
+description: This article links to a bits and bytes term collection resource to write the term bits per second in accordance with Microsoft style guidelines.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

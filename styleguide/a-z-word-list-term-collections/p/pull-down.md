@@ -1,5 +1,6 @@
 ---
 title: pull-down - Microsoft Style Guide
+description: Describes how to use the term "pull-down" in Microsoft content.
 author: pallep
 ms.author: pallep
 ms.date: 04/01/2021

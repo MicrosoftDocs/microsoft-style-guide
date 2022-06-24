@@ -1,5 +1,6 @@
 ---
 title: invite - Microsoft Style Guide
+description: Describes how to use the term "invite" in Microsoft content.
 author: pallep
 ms.author: pallep
 ms.date: 04/30/2021

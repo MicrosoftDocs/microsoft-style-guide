@@ -1,5 +1,6 @@
 ---
 title: multi- - Microsoft Style Guide
+description: Describes guidelines to use the suffix 'multi-' in Microsoft documents and provides multiple examples.
 author: pallep
 ms.author: pallep
 ms.date: 08/26/2021

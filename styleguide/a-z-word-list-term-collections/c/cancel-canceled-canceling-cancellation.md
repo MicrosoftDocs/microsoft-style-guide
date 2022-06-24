@@ -1,5 +1,6 @@
 ---
 title: cancel, canceled, canceling, cancellation - Microsoft Style Guide
+description: This article outlines use of the words cancel, canceled, canceling, and cancellation per Microsoft style guidelines.
 author: pallep
 ms.author: pallep
 ms.date: 04/02/2021

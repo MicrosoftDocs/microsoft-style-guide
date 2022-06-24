@@ -1,5 +1,6 @@
 ---
 title: Capitalization - Microsoft Style Guide
+description: Microsoft style uses sentence-style capitalization. That means everything is lowercase except the first word and proper nouns.
 author: pallep
 ms.author: pallep
 ms.date: 04/02/2021

@@ -1,5 +1,6 @@
 ---
 title: number sign (\#) - Microsoft Style Guide
+description: Describes guidelines to use the number sign '(\#)' in Microsoft documents and provides examples.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

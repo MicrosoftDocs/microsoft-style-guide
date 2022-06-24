@@ -1,5 +1,6 @@
 ---
 title: press, press and hold - Microsoft Style Guide
+description: Describes how to use the terms "press" and "press and hold" in Microsoft content.
 author: pallep
 ms.author: pallep
 ms.date: 09/21/2019

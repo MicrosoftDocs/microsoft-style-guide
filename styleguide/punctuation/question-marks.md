@@ -1,5 +1,6 @@
 ---
 title: Question marks - Microsoft Style Guide
+description: Instructs us to use questions and question marks sparingly. In general, customers want us to give them answers unless they need to make a decision.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

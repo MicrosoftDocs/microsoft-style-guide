@@ -1,5 +1,6 @@
 ---
 title: Windows, Windows-based - Microsoft Style Guide
+description: Instructs to use Windows on "Windows, Windows-based", as a modifier for aspects or elements of the Windows operating system, but not to use Windows-based.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

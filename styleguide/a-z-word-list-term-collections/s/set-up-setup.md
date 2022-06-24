@@ -1,5 +1,6 @@
 ---
 title: set up, setup, Setup - Microsoft Style Guide
+description: Describes guidelines to use 'set up', 'setup', or 'Setup' in Microsoft documents, and provides examples.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

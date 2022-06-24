@@ -1,5 +1,6 @@
 ---
 title: full screen, full-screen - Microsoft Style Guide
+description: Defines guidelines for using 'full screen' or 'full-screen' in Microsoft documents, and provides examples.
 author: pallep
 ms.author: pallep
 ms.date: 03/16/2018

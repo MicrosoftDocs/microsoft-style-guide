@@ -1,5 +1,6 @@
 ---
 title: normal, normally - Microsoft Style Guide
+description: Describes guidelines to use 'normal' or 'normally' in Microsoft documents and provides alternates.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

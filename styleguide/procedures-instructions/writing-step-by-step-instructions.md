@@ -1,5 +1,6 @@
 ---
 title: Writing step-by-step instructions - Microsoft Style Guide
+description: Describes process of writing step-by-step instructions and outlines processes with examples for complex and simple procedures.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
@@ -67,7 +68,7 @@ numbered list. For multiple-step procedures in numbered lists:
     Several predefined sprints are listed under **Current** and **Future**. Actual sprint titles vary based on the [process template](https://msdn.microsoft.com/library/ms400752.aspx) used to create your team project. However, calendar dates haven’t been assigned.
     2.  To set the calendar dates, select the first sprint under **Current**, and select dates.   
 
-    ![](media/writing-step-by-step-instructions/1122697927.png)
+    ![Screenshot of the Visual Studio Online screen's Sprint 1 option being highlighted and the Set Dates option opening the Edit Iteration pane.](media/writing-step-by-step-instructions/1122697927.png)
 
 ## Single-step procedures
 

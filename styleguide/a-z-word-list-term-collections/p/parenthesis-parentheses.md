@@ -1,5 +1,6 @@
 ---
 title: parenthesis, parentheses - Microsoft Style Guide
+description: Describes guidelines to use 'parenthesis' or 'parentheses' in Microsoft documents and provides a link to formatting punctuation.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

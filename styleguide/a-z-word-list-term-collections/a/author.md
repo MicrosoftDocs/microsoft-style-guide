@@ -1,5 +1,6 @@
 ---
-title: author - Microsoft Style Guide
+title: Author - Microsoft Style Guide
+description: This article outlines use of the word author per Microsoft style guidelines, with examples.
 author: pallep
 ms.author: pallep
 ms.date: 08/8/2019

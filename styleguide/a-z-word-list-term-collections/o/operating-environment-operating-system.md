@@ -1,5 +1,6 @@
 ---
 title: operating environment, operating system - Microsoft Style Guide
+description: Describes guidelines to use 'operating environment' or 'operating system' in Microsoft documents and provides a link to commonly used terms.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

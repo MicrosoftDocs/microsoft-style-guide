@@ -1,5 +1,6 @@
 ---
 title: Bias-free communication - Microsoft Style Guide
+description: Describes Microsoft's prioritization of inclusive language and communication being used in content and provides terms to use and avoid in all content.
 author: pallep
 ms.author: pallep
 ms.date: 08/25/2021

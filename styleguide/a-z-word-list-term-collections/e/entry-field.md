@@ -1,5 +1,6 @@
 ---
 title: entry field - Microsoft Style Guide
+description: Describes guidelines to use 'entry field' in Microsoft documents including permissible uses.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

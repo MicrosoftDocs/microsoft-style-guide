@@ -1,5 +1,6 @@
 ---
 title: service-oriented architecture (SOA) - Microsoft Style Guide
+description: Provides a link to a collection of cloud-computing terms along with their appropriate usage including 'service-oriented architecture (SOA)'.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

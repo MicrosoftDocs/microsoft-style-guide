@@ -1,5 +1,6 @@
 ---
 title: Responsive content - Microsoft Style Guide
+description: Discusses that if you’re writing for the web, assume your content will be used on a variety of devices. Many websites today are responsive.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

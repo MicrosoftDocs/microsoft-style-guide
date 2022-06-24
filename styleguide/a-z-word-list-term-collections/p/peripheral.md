@@ -1,5 +1,6 @@
 ---
 title: peripheral - Microsoft Style Guide
+description: Describes guidelines to use 'peripheral' in Microsoft documents and provides a link to commonly used computer and device terms.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018

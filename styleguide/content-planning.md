@@ -1,5 +1,6 @@
 ---
 title: Content planning - Microsoft Style Guide
+description: Discusses content planning and how great content starts with a plan that begins with questions, such as who is your audience?
 author: pallep
 ms.author: pallep
 ms.date: 07/31/2018

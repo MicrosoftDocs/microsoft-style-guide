@@ -1,5 +1,6 @@
 ---
 title: small caps - Microsoft Style Guide
+description: Describes guidelines to use 'small caps' in Microsoft documents. Don't use small caps for key names or for 'AM' and 'PM'.
 author: pallep
 ms.author: pallep
 ms.date: 01/19/2018
