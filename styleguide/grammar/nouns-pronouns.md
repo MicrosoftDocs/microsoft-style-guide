@@ -3,7 +3,7 @@ title: Nouns and pronouns - Microsoft Style Guide
 description: Discusses proper nouns, which are one of a kind—unique people, places, and things. Capitalize proper nouns wherever they occur.
 author: pallep
 ms.author: pallep
-ms.date: 09/13/2019
+ms.date: 06/24/2022
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -28,7 +28,7 @@ Proper nouns include:
   
   - Managed standards, such as Bluetooth.
 
-If there's more than one of a thing, it's a common noun. For example, there are lots of chief operating officers, so *chief operating officer* is a common noun. There's only one *Latasha Sharp, Chief Operating Officer,* so that's a proper noun. 
+If there's more than one of a thing, it's a common noun. For example, there are lots of chief operating officers, so *chief operating officer* is a common noun. There's only one *Chief Operating Officer Latasha Sharp,* so that's a proper noun. 
 
 Don't
 capitalize common nouns unless they begin a sentence or the situation
@@ -47,7 +47,7 @@ Capitalize technology terms as proper nouns only when:
 
 If you're not sure whether a term is a proper noun (and thus capitalized) or a common noun (lowercase), check *[The American Heritage Dictionary](https://ahdictionary.com/)* and the A–Z word list. Default to lowercase unless there's a compelling reason to capitalize the term.
 
-**Learn more** For guidelines for sentence-style and title-style capitalization, see [Capitalization](~/capitalization.md).
+**Learn more** For guidelines for sentence-style and title-style capitalization, see [Capitalization](https://docs.microsoft.com/en-us/style-guide/grammar/person).
 
 ## Plural nouns
 
@@ -76,8 +76,7 @@ you're writing about real people who use those pronouns themselves.
 
 *They* can be used as a non-binary pronoun for a singular person instead of a binary pronoun (*she* or *he*). 
 
-
-For more guidelines about how to write using gender-neutral pronouns, see [Bias-free communication](~/bias-free-communication.md).
+For more guidelines about how to write using gender-neutral pronouns, see [Bias-free communication](https://docs.microsoft.com/en-us/style-guide/bias-free-communication).
 
 ## Pronouns and collective nouns
 
@@ -85,3 +84,7 @@ Collective nouns like *company* take a singular pronoun. Don't use a plural pron
 **Examples**<br />Meet with up to 250 people. All they need is a phone or internet connection.<br />The company upgraded its cloud storage solution to Microsoft Azure.
 
 **Exception** If the emphasis is on the individuals in a group, it's OK to use a plural pronoun with a singular noun.
+
+## Using pronouns in product UI
+
+See also [Person](https://docs.microsoft.com/en-us/style-guide/grammar/person).
