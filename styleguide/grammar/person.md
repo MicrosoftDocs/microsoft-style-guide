@@ -24,9 +24,13 @@ However, when AI-generated content is used, we should use past tense (to express
 
 **Examples**  
 Check if you have local admin rights.
+
 Depending on your choice, some features may be turned off by default. 
+
 Change your settings
+
 Suggested for you
+
 
 ## Use singular first-person pronouns sparingly (I, me, my)
 
@@ -35,7 +39,9 @@ First-person singular pronouns can be used in product UI to show someone’s con
 
 **Examples**  
 Notify me when a new Bluetooth device tries to connect to my computer
+
 Remember my password
+
 I agree to the terms of service
 
 **Exception** In rare cases, it’s OK to use “my” in navigation or filter labels if you need to distinguish a person’s content from other content that may be presented in the same visual space.
@@ -50,7 +56,11 @@ It’s OK to use we in privacy and security settings where you need to make clea
 
 **Examples**  
 Notify scheduled default setting is the easiest way to keep your computer up to date. (Instead of *We recommend that you use the scheduled default setting ....*)
-Change your password (Instead of *We recommend that you change your password.*) 
+
+Change your password (Instead of *We recommend that you change your password.*)
+
 We protect your privacy at every step. 
+
 That didn’t work. Try again. (Instead of *We weren’t able to run the Solution Checker. Try running it again.*)
+
 Allow Microsoft to contact you about this feedback 
