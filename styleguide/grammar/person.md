@@ -12,7 +12,7 @@ ms.prod: non-product-specific
 
 In grammar, *person* refers to the point of view represented by a statement and determines which pronoun to use. 
 
-## In general, use second person pronouns (you, your)
+## In general, use second-person pronouns (you, your)
 
 In second person, you write as though you're speaking to the reader. The second person often uses the personal pronoun *you* or *your*, but sometimes the word *you* is implied. It
 supports a friendly, human tone and helps avoid passive voice
@@ -31,7 +31,7 @@ Change your settings
 
 Suggested for you
 
-## Use singular first person pronouns sparingly (I, me, my)
+## Use singular first-person pronouns sparingly (I, me, my)
 
 In first person, you write as though you’re speaking from the reader’s point of view. Marketing and support documentation should never use first person singular. However, it may be used inside our product experiences. First-person singular pronouns can be used in product UI to show someone’s control over an action in checkbox, button, or toggle labels.<br />
 **Examples**  
