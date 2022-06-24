@@ -87,4 +87,4 @@ Collective nouns like *company* take a singular pronoun. Don't use a plural pron
 
 ## Using pronouns in product UI
 
-See also [Person] (https://docs.microsoft.com/en-us/style-guide/grammar/person)
+See also [Person](https://docs.microsoft.com/en-us/style-guide/grammar/person).
