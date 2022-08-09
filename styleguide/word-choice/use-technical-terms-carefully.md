@@ -38,7 +38,7 @@ you're writing for an industry or profession, use the words your
 audience uses. First, verify Microsoft and industry usage. Check
 the A–Z word list and [*The American Heritage Dictionary*](https://ahdictionary.com/). Then look to authoritative industry resources: 
 
-  - Terminology websites, such as [Webopedia.com](https://www.webopedia.com/), [BusinessDictionary.com](https://www.businessdictionary.com/), and [Whatis.TechTarget.com](https://whatis.techtarget.com/).  
+  - Terminology websites, such as [Webopedia.com](https://www.webopedia.com/), and [Whatis.TechTarget.com](https://whatis.techtarget.com/).  
   
   - Industry standard sites, such as [W3C](https://www.w3.org/standards/xml) and [IEEE](https://www.ieee.org/index.html).  
   
