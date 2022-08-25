@@ -72,7 +72,7 @@ Which article (*a* or *an*) you use depends on whether you pronounce the acronym
 a DLL  
 an ISP  
 a URL  
-an SQL database
+a SQL database
 
 **Add *s* to make an acronym plural**
 
