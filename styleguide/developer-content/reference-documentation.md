@@ -72,4 +72,4 @@ If you automatically generate reference documentation and comments from the sour
 quality and appropriateness of the comments. Developers might leave out details that are important to 
 customers. Remove any implementation or internal details that aren't suitable for documentation.  
 
-**Learn more** For other examples of technical reference articles, see the [.NET API Browser](/dotnet/api/?view=netframework-4.7.1&preserve-view=true) section of [Microsoft Docs](/documentation).
+**Learn more** For other examples of technical reference articles, see the [.NET API Browser](/dotnet/api/?view=netframework-4.7.1&preserve-view=true).
