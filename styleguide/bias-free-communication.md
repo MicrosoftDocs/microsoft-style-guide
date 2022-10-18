@@ -3,7 +3,7 @@ title: Bias-free communication - Microsoft Style Guide
 description: Describes Microsoft's prioritization of inclusive language and communication being used in content and provides terms to use and avoid in all content.
 author: pallep
 ms.author: pallep
-ms.date: 08/25/2021
+ms.date: 10/18/2022
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -89,10 +89,10 @@ countries with states or continents.
 | perimeter network  | demilitarized zone (DMZ) |
 |  stop responding   |           hang           |
 
-**Focus on people, not disabilities.** For example, talk about readers who are blind or have low vision and customers with limited dexterity. Don't use words that imply pity, such as *stricken with* or *suffering from.* Don't mention a disability unless it's relevant. For more information, see the [Accessibility term collection](https://github.com/MicrosoftDocs/microsoft-style-guide-pr/blob/main/styleguide/a-z-word-list-term-collections/term-collections/accessibility-terms.md). 
+**Focus on people, not disabilities.** For example, talk about readers who are blind or have low vision and customers with limited dexterity. Don't use words that imply pity, such as *stricken with* or *suffering from.* Don't mention a disability unless it's relevant. For more information, see the [Accessibility term collection](https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/accessibility-terms). 
 
 **Inclusive language** Use title-style capitalization for Asian, Black and African American, Hispanic and Latinx, Native American, Alaska Native, Native Hawaiian, Pacific Islander, and Indigenous Peoples. Microsoft style is to lowercase multiracial and white. 
 
 **Learn more** For more information about writing that conveys respect to all people and promotes equal opportunities, see the [Guidelines for Inclusive Language](https://www.linguisticsociety.org/content/guidelines-inclusive-language "Linguistic Society of America's guidelines for inclusive language") from the Linguistic Society of America. 
 
-**See also** [Accessibility guidelines and requirements](https://github.com/MicrosoftDocs/microsoft-style-guide-pr/blob/main/styleguide/accessibility/accessibility-guidelines-requirements.md), [Global communications](https://github.com/MicrosoftDocs/microsoft-style-guide-pr/blob/main/styleguide/global-communications/index.md)
+**See also** [Accessibility guidelines and requirements](https://learn.microsoft.com/en-us/style-guide/accessibility/accessibility-guidelines-requirements), [Global communications](https://learn.microsoft.com/en-us/style-guide/global-communications/)
