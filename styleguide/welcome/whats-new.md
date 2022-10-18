@@ -3,7 +3,7 @@ title: What's new? - Microsoft Style Guide
 description: Provides a table that shows a history of recent updates to the Microsoft Writing Style Guide and outlines the date and changes made to various articles.
 author: pallep
 ms.author: pallep
-ms.date: 06/24/2022
+ms.date: 10/18/2022
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -15,6 +15,7 @@ This table shows a history of recent updates to the *Microsoft Writing Style Gui
 
 |     **Date**      |                                                                  **Article**                                                                   |                                                                         **Change**                                                                          |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| October 18, 2022  |        [Formatting text in instructions](https://learn.microsoft.com/en-us/style-guide/procedures-instructions/formatting-text-in-instructions)           |               		Clarified the guidance on using *dialog*.
 | June 24, 2022  |        [Date and time terms](/style-guide/a-z-word-list-term-collections/term-collections/date-time-terms)           |               		Reverted guidance (removed mention of ratio symbol in clock time).
 | June 24, 2022  |        [Colons](/style-guide/punctuation/colons)           |               		Reverted guidance (removed mention of ratio symbol in clock time).
 | June 24, 2022  |        [Nouns and pronouns](/style-guide/grammar/nouns-pronouns)           |               	Added guidance regarding capitalization of proper nouns; added link to Person section for discussion of using pronouns in product UI.
