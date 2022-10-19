@@ -3,7 +3,7 @@ title: Describing alternative input methods - Microsoft Style Guide
 description: Discusses using input-neutral methods in instructions and providing an article that explains how to interact with the product using each available input method.
 author: pallep
 ms.author: pallep
-ms.date: 09/3/2019
+ms.date: 10/19/2022
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -69,10 +69,10 @@ other considerations. Some approaches are discussed below.
 **Choose colors to use on webpages**  
 To make webpages easier to see, you can change the text, background, link, and hover colors in Internet Explorer.
 
-| **Step** | **Mouse actions** | **Keyboard actions** |
-|---|---|---|
-| **1** | On the **Start** menu: <br /> <ul><li>Click **Internet Explorer**.</li></ul> | Display the **Start** menu by pressing the Windows logo key: <br /><ul><li>Select **Internet Explorer** by using the arrow keys, and then press **Enter**.</li> |
-| **2** | In Internet Explorer:<br /><ul><li>Click the **Tools** menu.</li><li>Click **Internet Options**.</li></ul> | In Internet Explorer:<br /><ul><li>Select the **Tools** menu by pressing **Alt+T**.</li><li>Select **Internet Options** by pressing **O**.</li></ul> |
+| **Mouse actions** | **Keyboard actions** |
+|---|---|
+|On the **Start** menu: <br /> <ul><li>Click **Internet Explorer**.</li></ul> | Display the **Start** menu by pressing the Windows logo key: <br /><ul><li>Select **Internet Explorer** by using the arrow keys, and then press **Enter**.</li> |
+|In Internet Explorer:<br /><ul><li>Click the **Tools** menu.</li><li>Click **Internet Options**.</li></ul> | In Internet Explorer:<br /><ul><li>Select the **Tools** menu by pressing **Alt+T**.</li><li>Select **Internet Options** by pressing **O**.</li></ul> |
 
 **Document the primary input method,** and provide the alternative instructions in parentheses or separate sentences after the main instructions. <br />
 **Examples**  
