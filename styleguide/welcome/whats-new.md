@@ -28,10 +28,10 @@ This table shows a history of recent updates to the *Microsoft Writing Style Gui
 | December 9, 2021  |        [SQL, SQL server](https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/s/sql-sql-server)           |               	Revised guidance to use the article "a" with SQL and updated examples.
 | August 26, 2021  |        [multi-](https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/m/multi)           |               Added multicloud exception to guideline.
 | August 26, 2021  |        [touch-sensitive](https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/t/touch-sensitive)           |               Added new topic.
-| August 25, 2021  |        [Bias-free communication](/style-guide/bias-free-communication)           |               Added inclusive language section.
-| August 12, 2021  |        [colons](/style-guide/punctuation/colons)           |               Updated guidance on use of colons in clock time. 
-| August 11, 2021  |        [numbers](/style-guide/numbers)           |               Replaced colons with ratio symbols. 
-| August 10, 2021  |        [date and time terms](/style-guide/a-z-word-list-term-collections/term-collections/date-time-terms)           |               New section on clock time. 
+| August 25, 2021  |        [Bias-free communication](https://learn.microsoft.com/en-us/style-guide/bias-free-communication)           |               Added inclusive language section.
+| August 12, 2021  |        [colons](https://learn.microsoft.com/en-us/style-guide/punctuation/colons)           |               Updated guidance on use of colons in clock time. 
+| August 11, 2021  |        [numbers](https://learn.microsoft.com/en-us/style-guide/numbers)           |               Replaced colons with ratio symbols. 
+| August 10, 2021  |        [date and time terms](https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/date-time-terms)           |               New section on clock time. 
 | May 31, 2021  |        [workstream](~/a-z-word-list-term-collections/w/workstream.md)           |               New guidance on spelling and use. 
 | May 31, 2021  |        [wellbeing](~/a-z-word-list-term-collections/w/wellbeing.md)           |               New guidance on spelling and use. 
 | April 30, 2021  |        [invite](~/a-z-word-list-term-collections/i/invite.md)           |               New topic. 
