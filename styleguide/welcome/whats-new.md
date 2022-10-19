@@ -26,7 +26,7 @@ This table shows a history of recent updates to the *Microsoft Writing Style Gui
 | May 13, 2022  |        [phone, phone number](/style-guide/a-z-word-list-term-collections/p/phone)           |               	Changed title of topic to include "phone number." Revised guidance to include mobile phones and to address phone number formatting.
 | December 15, 2021  |        [Cloud-computing terms](/style-guide/a-z-word-list-term-collections/term-collections/cloud-computing-terms)           |               	Revised guidance to terms in the cloud-computing collection.
 | December 9, 2021  |        [SQL, SQL server](/style-guide/a-z-word-list-term-collections/s/sql-sql-server)           |               	Revised guidance to use the article "a" with SQL and updated examples.
-| August 26, 2021  |        [multi-](/style-guide/a-z-word-list-term-collections/m/multi)           |               Added multicloud exception to guideline.
+| August 26, 2021  |        [multi-](https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/m/multi)           |               Added multicloud exception to guideline.
 | August 26, 2021  |        [touch-sensitive](https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/t/touch-sensitive)           |               Added new topic.
 | August 25, 2021  |        [Bias-free communication](/style-guide/bias-free-communication)           |               Added inclusive language section.
 | August 12, 2021  |        [colons](/style-guide/punctuation/colons)           |               Updated guidance on use of colons in clock time. 
