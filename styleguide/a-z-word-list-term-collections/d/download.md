@@ -3,7 +3,7 @@ title: download - Microsoft Style Guide
 description: Describes guidelines to use 'download' in Microsoft documents and provides alternate examples. See also 'install.'
 author: pallep
 ms.author: pallep
-ms.date: 01/19/2018
+ms.date: 10/19/2022
 ms.topic: article
 ms.prod: non-product-specific
 ---
