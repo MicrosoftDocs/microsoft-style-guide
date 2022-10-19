@@ -32,17 +32,17 @@ This table shows a history of recent updates to the *Microsoft Writing Style Gui
 | August 12, 2021  |        [colons](https://learn.microsoft.com/en-us/style-guide/punctuation/colons)           |               Updated guidance on use of colons in clock time. 
 | August 11, 2021  |        [numbers](https://learn.microsoft.com/en-us/style-guide/numbers)           |               Replaced colons with ratio symbols. 
 | August 10, 2021  |        [date and time terms](https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/date-time-terms)           |               New section on clock time. 
-| May 31, 2021  |        [workstream](~/a-z-word-list-term-collections/w/workstream.md)           |               New guidance on spelling and use. 
-| May 31, 2021  |        [wellbeing](~/a-z-word-list-term-collections/w/wellbeing.md)           |               New guidance on spelling and use. 
-| April 30, 2021  |        [invite](~/a-z-word-list-term-collections/i/invite.md)           |               New topic. 
-| April 30, 2021  |        [dark mode](~/a-z-word-list-term-collections/d/dark-mode.md)           |               New topic. 
-| April 30, 2021  |        [SMB](~/a-z-word-list-term-collections/s/smb.md)           |               New topic. 
-| March 31, 2021  |        [bits and bytes](~/a-z-word-list-term-collections/term-collections/bits-bytes-terms.md)           |               Updated guidance on when to abbreviate certain terms.
-| March 31, 2021  |        [dialog box, dialog, dialogue](~/a-z-word-list-term-collections/d/dialog-box-dialog-dialogue.md)           |               Updated guidance on use.
+| May 31, 2021  |        [workstream](https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/w/workstream)           |               New guidance on spelling and use. 
+| May 31, 2021  |        [wellbeing](https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/w/wellbeing)           |               New guidance on spelling and use. 
+| April 30, 2021  |        [invite](https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/i/invite)           |               New topic. 
+| April 30, 2021  |        [dark mode](https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/d/dark-mode)           |               New topic. 
+| April 30, 2021  |        [SMB](https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/s/smb)           |               New topic. 
+| March 31, 2021  |        [bits and bytes](https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/bits-bytes-terms)           |               Updated guidance on when to abbreviate certain terms.
+| March 31, 2021  |        [dialog box, dialog, dialogue](https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/d/dialog-box-dialog-dialogue)           |               Updated guidance on use.
 | March 29, 2021  |        [check, checkbox, check mark](~/a-z-word-list-term-collections/c/check-checkbox-check-mark.md)           |               Updated guidance on use.
-| March 26, 2021  |        [dropdown](~/a-z-word-list-term-collections/d/dropdown.md)           |               Updated guidance on spelling and use.
-| March 16, 2021  |        [Welcome page](~/welcome/index.md)           |               Updated Welcome page.
-| January 15, 2021  |        [blacklist](~/a-z-word-list-term-collections/b/blacklist.md)           |               Updated guidance on spacing for alternative term, *blocklist*.   
+| March 26, 2021  |        [dropdown](https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/d/dropdown)           |               Updated guidance on spelling and use.
+| March 16, 2021  |        [Welcome page](https://learn.microsoft.com/en-us/style-guide/welcome/)           |               Updated Welcome page.
+| January 15, 2021  |        [blacklist](https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/b/blacklist)           |               Updated guidance on spacing for alternative term, *blocklist*.   
 | January 15, 2021  |        [environment variable](~/a-z-word-list-term-collections/e/environment-variable.md)           |               Updated topic guidance.    
 | January 15, 2021  |        [whitelist](~/a-z-word-list-term-collections/w/whitelist.md)           |               Updated guidance on spacing for alternative term, *allowlist*. 
 |  November 24, 2020  |        [Accessibility terms](~/a-z-word-list-term-collections/term-collections/accessibility-terms.md)           |                 Updated topic to include guidance on using words such as "see", "read", and "look".   
