@@ -3,7 +3,7 @@ title: download - Microsoft Style Guide
 description: Describes guidelines to use 'download' in Microsoft documents and provides alternate examples. See also 'install.'
 author: pallep
 ms.author: pallep
-ms.date: 01/19/2018
+ms.date: 10/19/2022
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -12,9 +12,7 @@ ms.prod: non-product-specific
 
 Use *download* to describe the intentional transfer of data and files to a system or device. Use *install* to describe adding apps, hardware, and drivers to a device. 
 
-When you use *download* as a verb, describe what the customer is transferring *and* where the customer is transferring it *to.* In
-grammatical terms, use both a subject (the thing to be downloaded) and
-an object (the thing the subject is downloaded to) with the verb *download.*
+When you use *download* as a verb, describe what the customer is transferring *and* where the customer is transferring it *to.*
 
 Don't use *download* to describe the process of opening, viewing, or switching to a webpage.
 
