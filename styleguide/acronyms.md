@@ -3,7 +3,7 @@ title: Acronyms - Microsoft Style Guide
 description: This article describes how to write acronyms and abbreviations per Microsoft style guidelines, with examples.
 author: pallep
 ms.author: pallep
-ms.date: 01/19/2018
+ms.date: 10/19/2022
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -11,7 +11,7 @@ ms.prod: non-product-specific
 # Acronyms
 
 Acronyms and abbreviations can have an adverse effect on clarity, voice, and
-SEO. Although some acronyms are widely understood and preferred to the
+findability. Although some acronyms are widely understood and preferred to the
 spelled-out term, others aren't well known or are familiar only to a
 specific group of customers. 
 
