@@ -3,7 +3,7 @@ title: sign in, sign out - Microsoft Style Guide
 description: Describes guidelines to use 'sign in' or 'sign out' in Microsoft documents, and provides usage examples.
 author: pallep
 ms.author: pallep
-ms.date: 06/27/2019
+ms.date: 10/26/2022
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -23,6 +23,5 @@ The verb form is two words, *sign in* or *sign out.* Avoid using as a noun or ad
 Enter your password to sign in.  
 Learn how to sign in to Power BI service on the web and how to sign out of it.  
 After an extended period without activity, the network will sign you out automatically.  
-Some networks can be set up to remember your username and password.  
 
 **See also** [connect](~/a-z-word-list-term-collections/c/connect.md), [single sign-on (SSO)](~/a-z-word-list-term-collections/s/single-sign-on-sso.md)
