@@ -1,5 +1,5 @@
 ---
-title: Bias-free communication - Microsoft Style Guide
+title: Unbiased communication - Microsoft Style Guide
 author: pallep
 ms.author: pallep
 ms.date: 09/13/2019
