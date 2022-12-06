@@ -3,7 +3,7 @@ title: Em dashes - Microsoft Style Guide
 description: Instructs to use an em dash (-) to set off a parenthetical phrase with more emphasis than parenthesis provide. Don't add spaces around a em dash.
 author: pallep
 ms.author: pallep
-ms.date: 01/19/2018
+ms.date: 12/06/2022
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -19,7 +19,7 @@ dash.
     **Example**  
     The information in your spreadsheet—numbers, formulas, and text—is stored in cells.
 
-  - Use one em dash to set off a phrase at the end of a sentence.  
+  - Use one em dash to set off a phrase or clause at the end of a sentence.  
     **Example**  
     If you're not sure about the details, look at the illustrations in the wizard—they can help you figure out what type of connection you’re using.
 
