@@ -3,7 +3,7 @@ title: Keys and keyboard shortcuts - Microsoft Style Guide
 description: Describes how to refer to keys and keyboard shortcuts in Microsoft content and provides a list that outlines usage for various keyboard actions and access.
 author: pallep
 ms.author: pallep
-ms.date: 09/3/2019
+ms.date: 12/13/2022
 ms.topic: article
 ms.prod: non-product-specific
 ---
