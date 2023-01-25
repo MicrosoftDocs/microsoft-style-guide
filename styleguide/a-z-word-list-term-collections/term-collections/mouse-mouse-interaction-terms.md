@@ -3,7 +3,7 @@ title: Mouse and mouse interaction terms - Microsoft Style Guide
 description: Describes how to refer the mouse and mouse interaction and provides a table that outlines the usage of various mouse-related terms.
 author: pallep
 ms.author: pallep
-ms.date: 9/21/2019
+ms.date: 01/25/2023
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -13,7 +13,7 @@ ms.prod: non-product-specific
 Most
 of the time, don't talk about the mouse, mouse actions, or the pointer
 unless it's necessary to avoid confusion. Instead, talk about
-customer interactions with the UI. To learn more, see [Describing interactions with UI](~/procedures-instructions/describing-interactions-with-ui.md).
+customer interactions with the UI. To learn more, see [Describing interactions with UI](https://learn.microsoft.com/en-us/style-guide/procedures-instructions/describing-interactions-with-ui).
 
 When you need to talk specifically about the mouse, mouse interactions, or the pointer, use these terms.
 
