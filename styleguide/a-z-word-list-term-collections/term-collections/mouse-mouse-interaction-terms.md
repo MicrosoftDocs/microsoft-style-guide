@@ -3,7 +3,7 @@ title: Mouse and mouse interaction terms - Microsoft Style Guide
 description: Describes how to refer the mouse and mouse interaction and provides a table that outlines the usage of various mouse-related terms.
 author: pallep
 ms.author: pallep
-ms.date: 9/21/2019
+ms.date: 01/25/2023
 ms.topic: article
 ms.prod: non-product-specific
 ---
