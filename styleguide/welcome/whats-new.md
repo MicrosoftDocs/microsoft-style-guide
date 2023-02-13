@@ -3,7 +3,7 @@ title: What's new? - Microsoft Style Guide
 description: Provides a table that shows a history of recent updates to the Microsoft Writing Style Guide and outlines the date and changes made to various articles.
 author: pallep
 ms.author: pallep
-ms.date: 10/18/2022
+ms.date: 02/12/2023
 ms.topic: article
 ms.prod: non-product-specific
 ---
