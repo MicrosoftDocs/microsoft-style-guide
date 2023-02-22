@@ -3,7 +3,7 @@ title: What's new? - Microsoft Style Guide
 description: Provides a table that shows a history of recent updates to the Microsoft Writing Style Guide and outlines the date and changes made to various articles.
 author: pallep
 ms.author: pallep
-ms.date: 02/12/2023
+ms.date: 02/22/2023
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -15,6 +15,10 @@ This table shows a history of recent updates to the *Microsoft Writing Style Gui
 
 |     **Date**      |                                                                  **Article**                                                                   |                                                                         **Change**                                                                          |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| February 22, 2023  |        [Accessibility terms](https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/accessibility-terms)           |               		Updated guidance to align with Accessibility (nuanced discussion of identity-first language); created new table of examples; adopted new table formatting for screen-reader compatibility. 
+| February 22, 2023  |        [objectives and key results (OKR)](https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/o/bojectives-and-key-results-(OKR))           |               		Created new topic. 
+| February 22, 2023  |        [key result (KR)](https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/k/key-result-(KR))           |               		Created new topic. 
+| February 22, 2023  |        [key performance indicator (KPI)](https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/k/key-performance-indicator-(KPI))           |               		Created new topic. 
 | October 18, 2022  |        [Formatting text in instructions](https://learn.microsoft.com/en-us/style-guide/procedures-instructions/formatting-text-in-instructions)           |               		Clarified the guidance on using *dialog*.
 | June 24, 2022  |        [Date and time terms](https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/date-time-terms)           |               		Reverted guidance (removed mention of ratio symbol in clock time).
 | June 24, 2022  |        [Colons](https://learn.microsoft.com/en-us/style-guide/punctuation/colons)           |               		Reverted guidance (removed mention of ratio symbol in clock time).
