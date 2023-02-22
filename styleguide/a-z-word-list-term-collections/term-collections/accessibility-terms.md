@@ -33,6 +33,4 @@ The following table lists examples of people-first language (preferred), identit
 
 For an overview of Microsoft accessibility policies, see [Accessibility guidelines and requirements](~/accessibility/accessibility-guidelines-requirements.md). 
 
-For more information see [Accessibility terms](~/a-z-word-list-term-collections/term-collections/accessibility-terms.md).
-
 To learn more about writing that conveys respect to all people and promotes equal opportunities, see the [Guidelines for Inclusive Language](https://www.linguisticsociety.org/content/guidelines-inclusive-language "Linguistic Society of America's guidelines for inclusive language") from the Linguistic Society of America.
