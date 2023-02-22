@@ -16,4 +16,4 @@ On subsequent mentions on the same screen or pane, or in the same topic, article
 
 In UI, if the full term cannot be spelled out due to space constraints, it’s OK to abbreviate on the first mention. If possible, use the spelled out term somewhere else within the same flow for context.
 
-**See also** [key result (KR)](~), [key performance indicator (KPI)] (~)
+**See also** [key result (KR)](a-z-word-list-term-collections/k/key-result-(KR)), [key performance indicator (KPI)](a-z-word-list-term-collections/k/key-performance-indicator-(KPI))
