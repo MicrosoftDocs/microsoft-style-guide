@@ -30,7 +30,6 @@ The following table lists examples of people-first language (preferred), identit
 |     Person with cognitive disabilities, developmental disabilities, learning disabilities, or dyslexia      |                                                                                    Learning disabled, dyslexic person                                                                                     |                                           Slow learner, mentally handicapped, differently abled, Special Ed person, stupid                                            |
 |   Person with autism, person with neurodiversity   |                                                                                               Autistic person, neurodiverse person                                                                                               |                                                                    Asperger’s                                                                    |
 
-
 For an overview of Microsoft accessibility policies, see [Accessibility guidelines and requirements](~/accessibility/accessibility-guidelines-requirements.md). 
 
 To learn more about writing that conveys respect to all people and promotes equal opportunities, see the [Guidelines for Inclusive Language](https://www.linguisticsociety.org/content/guidelines-inclusive-language "Linguistic Society of America's guidelines for inclusive language") from the Linguistic Society of America.
