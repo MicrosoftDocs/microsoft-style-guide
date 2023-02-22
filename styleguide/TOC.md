@@ -441,6 +441,7 @@
 ### [Kerberos protocol](a-z-word-list-term-collections/k/kerberos-protocol.md)
 ### [key combination](a-z-word-list-term-collections/k/key-combination.md)
 ### [key performance indicator (KPI)](a-z-word-list-term-collections/k/key-performance-indicator-(KPI).md)
+### [key result (KR)](a-z-word-list-term-collections/k/key-result-(KR).md)
 ### [key sequence](a-z-word-list-term-collections/k/key-sequence.md)
 ### [keyboard shortcut](a-z-word-list-term-collections/k/keyboard-shortcut.md)
 ### [keypad](a-z-word-list-term-collections/k/keypad.md)
@@ -565,6 +566,7 @@
 ### [numeric](a-z-word-list-term-collections/n/numeric.md)
 ## O
 ### [object](a-z-word-list-term-collections/o/object.md)
+### [objectives and key results (OKR)](a-z-word-list-term-collections/o/objectives-and-key-results-(OKR).md)
 ### [obsolete](a-z-word-list-term-collections/o/obsolete.md)
 ### [of](a-z-word-list-term-collections/o/of.md)
 ### [offline](a-z-word-list-term-collections/o/offline.md)
