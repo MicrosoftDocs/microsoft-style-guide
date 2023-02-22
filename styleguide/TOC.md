@@ -440,6 +440,7 @@
 ## K
 ### [Kerberos protocol](a-z-word-list-term-collections/k/kerberos-protocol.md)
 ### [key combination](a-z-word-list-term-collections/k/key-combination.md)
+### [key performance indicator (KPI)](a-z-word-list-term-collections/k/key-performance-indicator-(KPI).md)
 ### [key sequence](a-z-word-list-term-collections/k/key-sequence.md)
 ### [keyboard shortcut](a-z-word-list-term-collections/k/keyboard-shortcut.md)
 ### [keypad](a-z-word-list-term-collections/k/keypad.md)
