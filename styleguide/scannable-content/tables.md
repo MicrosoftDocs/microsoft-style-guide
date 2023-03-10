@@ -3,7 +3,7 @@ title: Tables - Microsoft Style Guide
 description: Discusses tables, which make complex information easier to understand by presenting it in a clear structure.
 author: pallep
 ms.author: pallep
-ms.date: 10/6/2018
+ms.date: 03/10/2023
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -54,15 +54,15 @@ Balance row height by increasing the width of text-heavy columns and reducing th
 ## Header rows
 
 If
-the first row of your table contains column headings, you have a header
+the first row of your table contains column headers, you have a header
 row. Distinguish the text in the header row from the rest of the text
 in the table. For example, make it larger, bolder, or a different color.
 
 Column 
-headers identify the data each column contains. Make headings precise for usability. For example, don't use "Name". Instead, make column headers specific as in "Group" or "Employee". (While screen readers use header information to identify rows and columns, specificity helps all users find the information they're looking for.) 
+headers identify the data each column contains. Make headers precise for usability. For example, don't use "Name". Instead, make column headers specific as in "Group" or "Employee". (While screen readers use header information to identify rows and columns, specificity helps all users find the information they're looking for.) 
 
 Don’t
-organize a table so that the column heading forms a complete sentence
+organize a table so that the column header forms a complete sentence
 when combined with the cell contents. This can make the table difficult
 to localize. 
 
@@ -77,7 +77,7 @@ Microsoft Word, select the header row. On the **Layout** tab under **Table Tools
 
 Use
 sentence-style capitalization for the table title and each column
-heading. Use sentence-style capitalization for the text in cells unless
+header. Use sentence-style capitalization for the text in cells unless
 there’s a reason not to (for example, keywords that must be
 lowercase). 
 
@@ -85,7 +85,7 @@ lowercase).
 
 If there’s text that introduces the table, it should be a complete sentence and end with a period, not a colon.
 
-Don’t use ellipses at the end of column headings.
+Don’t use ellipses at the end of column headers.
 
 For
 the text in cells, use periods or other end punctuation only if the
