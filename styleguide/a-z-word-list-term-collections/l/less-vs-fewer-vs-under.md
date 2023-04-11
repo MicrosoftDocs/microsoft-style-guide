@@ -3,7 +3,7 @@ title: less vs. fewer vs. under - Microsoft Style Guide
 description: Guidelines for using the terms less vs. fewer vs. under in Microsoft documents.
 author: pallep
 ms.author: pallep
-ms.date: 01/19/2018
+ms.date: 04/11/2023
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -17,7 +17,6 @@ When comparing quantities:
   - Don't use *under* to refer to a quantity or number.
 
 **Examples**  
-Create an app in less than 5 minutes.  
 The new building has less floor space and contains fewer offices.  
 The new building has fewer square feet of floor space and contains fewer offices.  
 Fewer than 75 members were present.   
