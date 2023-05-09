@@ -14,4 +14,4 @@ Spell out on the first mention and include the abbreviation in parentheses immed
 
 On subsequent mentions on the same screen or pane, or in the same topic, article or flow, it’s OK to use the abbreviation *KR*. 
 
-**See also** [key performance indicator (KPI)](a-z-word-list-term-collections/k/key-performance-indicator-(KPI)), [objectives and key results (OKR)](a-z-word-list-term-collections/o/objectives-and-key-results-(OKR))
+**See also** [key performance indicator (KPI)](https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/k/key-performance-indicator-(kpi)), [objectives and key results (OKR)](https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/o/objectives-and-key-results-(okr))
