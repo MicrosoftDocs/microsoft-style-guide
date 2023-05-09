@@ -16,4 +16,4 @@ On subsequent mentions on the same screen or pane, or in the same topic, article
 
 In UI, if the full term cannot be spelled out due to space constraints, it’s OK to abbreviate on the first mention. If possible, use the spelled out term somewhere else within the same flow for context.
 
-**See also** [key result (KR)](a-z-word-list-term-collections/k/key-result-(KR)), [objectives and key results (OKR)](https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/o/objectives-and-key-results-(okr))
+**See also** [key result (KR)](https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/k/key-result-(kr)), [objectives and key results (OKR)](https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/o/objectives-and-key-results-(okr))
