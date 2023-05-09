@@ -3,7 +3,7 @@ title: Top 10 tips for Microsoft style and voice - Microsoft Style Guide
 description: Instructs to use bigger ideas, fewer words, write like you speak, project friendliness and get to the point fast.
 author: pallep
 ms.author: pallep
-ms.date: 01/19/2018
+ms.date: 01/19/2023
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -60,7 +60,7 @@ The Recommended Charts command on the Insert tab recommends charts that
 are likely to represent your data well. Use the command when you want
 to visually present data, and you're not sure how to do it. 
 
-With this: Create a chart that's just right for your data by using the Recommend Charts command on the Insert tab.
+With this: Create a chart that's just right for your data by using the Recommended Charts command on the Insert tab.
 
 ## When in doubt, don’t capitalize
 Default to sentence-style capitalization—capitalize only the first word of
