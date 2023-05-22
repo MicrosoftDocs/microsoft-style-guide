@@ -225,7 +225,7 @@
 ### [direction keys](a-z-word-list-term-collections/d/direction-keys.md)
 ### [directory](a-z-word-list-term-collections/d/directory.md)
 ### [disable, disables (functionality)](a-z-word-list-term-collections/d/disable-disabled.md)
-### [disabled (person)](/a-z-word-list-term-collections/d/disabled (person).md)
+### [disabled (person)](/a-z-word-list-term-collections/d/disabled(person).md)
 ### [disc](a-z-word-list-term-collections/d/disc.md)
 ### [disjoint selection](a-z-word-list-term-collections/d/disjoint-selection.md)
 ### [disk](a-z-word-list-term-collections/d/disk.md)
