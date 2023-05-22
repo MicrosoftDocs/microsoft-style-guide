@@ -14,4 +14,4 @@ Don’t use *disabled* to refer to people with disabilities, unless you know t
  
 For more details on exceptions to this guideline, see [Accessibility term collection](~/a-z-word-list-term-collections/term-collections/accessibility-terms.md)  
 
-**See also** [Accessibility guidelines and requirements](https://github.com/MicrosoftDocs/microsoft-style-guide-pr/blob/main/styleguide/accessibility/accessibility-guidelines-requirements.md)
+**See also** [Accessibility guidelines and requirements](https://learn.microsoft.com/en-us/style-guide/accessibility/accessibility-guidelines-requirements)
