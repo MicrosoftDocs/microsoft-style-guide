@@ -1,27 +1,28 @@
 ---
-title: disable, disabled - Microsoft Style Guide
-description: Describes guidelines to use 'disable' or 'disabled' in Microsoft documents, including instances where this word is appropriate or allowed.
+title: disable, disables (functionality) - Microsoft Style Guide
+description: Describes guidelines to use 'disable' or 'disables' in Microsoft documents, including instances where this word is appropriate or allowed.
 author: pallep
 ms.author: pallep
-ms.date: 01/19/2018
+ms.date: 05/22/2023
 ms.topic: article
 ms.prod: non-product-specific
 ---
 
 # disable, disabled
 
-Don't use *disabled* to refer to people with disabilities. 
+Don’t use *disable* to describe making a command or function inactive or unavailable. Replace with specific, plain language phrases, such as *turn off*, *hide*, *make unavailable*, *make inactive*, *block*, or *remove*, as appropriate. 
 
-In content for a technical audience, it's OK to use *disable* to mean making a command or function inactive and *disabled* to describe such commands and functions.
+As a state, replace *disabled* with descriptors such as *inactive*, *unavailable*, or *off*. 
 
-In other content, use *turned off* or *isn’t available.*
+When admins turn off products, settings, or features, it’s OK to use *disable*. But substitute terms like *make unavailable* or *block* if you can reasonably do so. 
 
-**Examples**   
+**Example**   
 If the command prompt isn’t available, your network administrator might have turned off this feature.  
-Disable the command prompt to prevent users from opening a command window. 
 
 **See also**  
 [Accessibility term collection](~/a-z-word-list-term-collections/term-collections/accessibility-terms.md)  
 [turn on, turn off](~/a-z-word-list-term-collections/t/turn-on-turn-off.md)  
 [unavailable](~/a-z-word-list-term-collections/u/unavailable.md)  
 [enable, enables](~/a-z-word-list-term-collections/e/enable-enables.md)
+
+[disabled (person)]
