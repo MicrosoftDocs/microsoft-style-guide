@@ -24,5 +24,4 @@ If the command prompt isn’t available, your network administrator might have t
 [turn on, turn off](~/a-z-word-list-term-collections/t/turn-on-turn-off.md)  
 [unavailable](~/a-z-word-list-term-collections/u/unavailable.md)  
 [enable, enables](~/a-z-word-list-term-collections/e/enable-enables.md)
-
-[disabled (person)]
+[disabled (person)] (~/a-z-word-list-term-collections/d/disabled-(person).md)
