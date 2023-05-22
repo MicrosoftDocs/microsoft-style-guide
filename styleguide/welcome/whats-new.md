@@ -3,7 +3,7 @@ title: What's new? - Microsoft Style Guide
 description: Provides a table that shows a history of recent updates to the Microsoft Writing Style Guide and outlines the date and changes made to various articles.
 author: pallep
 ms.author: pallep
-ms.date: 02/22/2023
+ms.date: 05/22/2023
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -15,7 +15,10 @@ This table shows a history of recent updates to the *Microsoft Writing Style Gui
 
 |     **Date**      |                                                                  **Article**                                                                   |                                                                         **Change**                                                                          |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| February 22, 2023  |        [Accessibility terms](https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/accessibility-terms)           |               		Updated guidance to align with Accessibility (nuanced discussion of identity-first language); created new table of examples; adopted new table formatting for screen-reader compatibility. 
+| May 22, 2023  |        [disable, disables (functionality)](https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/d/disable-disabled)           |               	Changed topic title to separate out functionality from accessibility meaning. Updated guidance to suggest alternatives for functionality. Provided an exception for admin use cases. 
+| May 22, 2023  |        [disabled (person)](https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/d/disabled-(person))           |               	Changed topic title to separate out functionality from accessibility meaning. Updated guidance to reflect people-first language is preferred, but not always required if context is provided.
+| May 22, 2023  |        [turn on, turn off](https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/t/turn-on-turn-off)           |               		Updated guidance to suggest as a replacement for enable, disable.
+ February 22, 2023  |        [Accessibility terms](https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/accessibility-terms)           |               		Updated guidance to align with Accessibility (nuanced discussion of identity-first language); created new table of examples; adopted new table formatting for screen-reader compatibility. 
 | February 22, 2023  |        [objectives and key results (OKR)](https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/o/objectives-and-key-results-(okr))           |               		Created new topic. 
 | February 22, 2023  |        [key result (KR)](https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/k/key-result-(KR))           |               		Created new topic. 
 | February 22, 2023  |        [key performance indicator (KPI)](https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/k/key-performance-indicator-(KPI))           |               		Created new topic. 
