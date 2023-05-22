@@ -20,8 +20,10 @@ When admins turn off products, settings, or features, it’s OK to use *disable*
 If the command prompt isn’t available, your network administrator might have turned off this feature.  
 
 **See also**  
-[Accessibility term collection](~/a-z-word-list-term-collections/term-collections/accessibility-terms.md)  
-[turn on, turn off](~/a-z-word-list-term-collections/t/turn-on-turn-off.md)  
-[unavailable](~/a-z-word-list-term-collections/u/unavailable.md)  
-[enable, enables](~/a-z-word-list-term-collections/e/enable-enables.md)
-[disabled (person)] (~/a-z-word-list-term-collections/d/disabled-(person).md)
+[Accessibility term collection](~/a-z-word-list-term-collections/term-collections/accessibility-terms.md)     
+[turn on, turn off](~/a-z-word-list-term-collections/t/turn-on-turn-off.md)      
+[disabled (person)](~/a-z-word-list-term-collections/d/disabled-(person).md)   
+[unavailable](~/a-z-word-list-term-collections/u/unavailable.md)    
+[enable, enables](~/a-z-word-list-term-collections/e/enable-enables.md)   
+
+
