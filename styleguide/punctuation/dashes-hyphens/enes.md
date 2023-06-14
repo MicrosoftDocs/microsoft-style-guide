@@ -10,7 +10,7 @@ ms.prod: non-product-specific
 
 # En dashes
 
-Use an en dash:
+Use an en dash (–):
 
   - To indicate a range of numbers, such as inclusive values, dates, or pages.  
 **Example**  
@@ -38,7 +38,6 @@ Don’t use an en dash to indicate an empty cell in a table.
 Don’t use spaces on either side of an en dash. 
 
 **Exception** Surround an en dash with spaces when it's used as a minus sign in an equation, in a time stamp appearing in UI, or in a date range that includes two times and two dates.  
-**Examples**  
 12 – 3 = 9   
 2:15 PM ‒ 4:45 PM (time stamp in UI)  
 2:15 PM 12/1/17 ‒ 4:45 PM 4/1/18 (range includes both time and date)
