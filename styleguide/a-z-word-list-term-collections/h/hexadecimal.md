@@ -14,5 +14,5 @@ Don't abbreviate as *hex*. Use *h* or *0x* when abbreviating a number. Don't ins
 
 **Examples**  
 Interrupt 21h  
-addresses greater than 0xFFFE 
+addresses greater than 0xFFFE
 For the hexadecimal color value, enter **#FF0000**.
