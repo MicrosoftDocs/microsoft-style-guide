@@ -3,7 +3,7 @@ title: Writing tips - Microsoft Style Guide
 description: Discusses content, such as writing tips, that's easy to read and tends to be easy to localize and translate.
 author: pallep
 ms.author: pallep
-ms.date: 07/06/2021
+ms.date: 06/14/2023
 ms.topic: article
 ms.prod: non-product-specific
 ---
