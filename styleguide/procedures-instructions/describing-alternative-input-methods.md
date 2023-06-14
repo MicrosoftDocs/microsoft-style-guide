@@ -3,7 +3,7 @@ title: Describing alternative input methods - Microsoft Style Guide
 description: Discusses using input-neutral methods in instructions and providing an article that explains how to interact with the product using each available input method.
 author: pallep
 ms.author: pallep
-ms.date: 10/19/2022
+ms.date: 06/14/2023
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -86,7 +86,7 @@ This table describes two ways to save a file.
 | **To** | **Do this** |
 |---|---|
 | Save changes to the file and continue working. | On the **File** menu, click **Save**. |
-| Save changes to the file and close the program. | On the **File** menu, click **Exit**. If a dialog box asks whether you want to save changes, click **Yes**. |
+| Save changes to the file and close the program. | On the **File** menu, click **Exit**. If a dialog asks whether you want to save changes, click **Yes**. |
 
 **If one step has an alternative,** make
 that alternative a separate paragraph in the step. In a
