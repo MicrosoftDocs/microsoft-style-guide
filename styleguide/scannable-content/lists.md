@@ -3,7 +3,7 @@ title: Lists - Microsoft Style Guide
 description: Discusses lists, which are a great way to present complex text in a way that's easy to scan. A list should have at least two items but no more than seven items.
 author: pallep
 ms.author: pallep
-ms.date: 08/09/2021
+ms.date: 06/14/2023
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -34,7 +34,7 @@ Use a bulleted list for things that have something in common but don’t need to
 ## Numbered lists
 
 Use a numbered list for sequential items (like a procedure) or prioritized items (like a top 10 list).<br />
-**Example**<br />**To sign on to a database**
+**Example**<br />**To sign on to a database:**
 
 1.  On the **File** menu, select **Open database**.
 2.  In **Username**, enter your name.
