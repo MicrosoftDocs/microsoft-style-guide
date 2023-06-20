@@ -62,8 +62,7 @@ readers with at least one way to navigate within it, so they can
 quickly get to what they need. 
 
   - If
-    you're developing content for a collection, such as the MSDN or
-    TechNet libraries, break the content up into sections so
+    you're developing content for a collection, break the content up into sections so
     that information is easy to find in the library navigation.  
     
   - In
