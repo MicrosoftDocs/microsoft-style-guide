@@ -3,7 +3,7 @@ title: Scannable content - Microsoft Style Guide
 description: Describes scannable content and that the volume of content available to customers is overwhelming. 
 author: pallep
 ms.author: pallep
-ms.date: 01/19/2018
+ms.date: 06/20/2023
 ms.topic: article
 ms.prod: non-product-specific
 ---
