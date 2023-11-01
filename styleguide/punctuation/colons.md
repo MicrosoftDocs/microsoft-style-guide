@@ -3,7 +3,7 @@ title: Colons - Microsoft Style Guide
 description: Describes how to use colons in various contexts including preceding lists, within sentences, in titles and headings, in UI, and when displaying clock time.
 author: pallep
 ms.author: pallep
-ms.date: 06/24/2022
+ms.date: 11/01/2023
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -50,5 +50,5 @@ Get started with Azure IoT: An interactive developer guide
 
 ## In UI
 
-Don’t use colon when introducing lists of radio buttons or checkboxes.
+Don’t use a colon when introducing lists of radio buttons or checkboxes.
 
