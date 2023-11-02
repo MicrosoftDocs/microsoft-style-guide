@@ -71,7 +71,7 @@ To make webpages easier to see, you can change the text, background, link, and h
 
 | **Mouse actions** | **Keyboard actions** |
 |---|---|
-|On the **Start** menu: <br /><ul><li> Click **Internet Explorer**.</li></ul> | Display the **Start** menu by pressing the Windows logo key: <br /><ul><li>Select **Internet Explorer** by using the arrow keys, and then press **Enter**.</li> |
+|On the **Start** menu: <br /><ul><li> Click **Internet Explorer**.</li></ul> | Display the **Start** menu by pressing the Windows logo key: <br /><ul><li>Select **Internet Explorer** by using the arrow keys, then press **Enter**.</li> |
 |In Internet Explorer:<br />1. Click the **Tools** menu. <br />2. Click **Internet Options**.</li></ul> | In Internet Explorer:<br /> 1. Select the **Tools** menu by pressing **Alt+T**. <br />2. Select **Internet Options** by pressing **O**.</li></ul> |
 
 **Document the primary input method,** and provide the alternative instructions in parentheses or separate sentences after the main instructions. <br />
@@ -108,4 +108,4 @@ or
   - To remove the selection, click **Cut** on the Quick Access Toolbar.
   - To copy the selection, click **Copy** on the Quick Access Toolbar. 
 
-2\. Right-click where you want to insert the text, and then click **Paste** on the Quick Access Toolbar. 
+2\. Right-click where you want to insert the text, then click **Paste** on the Quick Access Toolbar. 
