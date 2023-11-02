@@ -3,14 +3,14 @@ title: blade - Microsoft Style Guide
 description: This article outlines use of the word blade per Microsoft style guidelines.
 author: pallep
 ms.author: pallep
-ms.date: 02/27/2019
+ms.date: 11/02/2023
 ms.topic: article
 ms.prod: non-product-specific
 ---
 
 # blade
 
-Use *blade* to refer to a pane in the Azure portal. Avoid talking about blades. Instead, try to discuss what the customer needs to do. 
+Avoid talking about UI elements and instead try to discuss what the customer needs to do. If you have to refer to a pane in the Azure portal, use *blade*. 
 
 When you must mention a blade:
 
