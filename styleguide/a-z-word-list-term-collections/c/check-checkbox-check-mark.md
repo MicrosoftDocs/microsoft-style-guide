@@ -1,9 +1,9 @@
 ---
 title: check, checkbox, check mark - Microsoft Style Guide
-description: In this article, learn about style guidelines for using the terms 'check', 'checkbox, and 'check mark' in Microsoft documentats.
+description: In this article, learn about style guidelines for using the terms 'check', 'checkbox, and 'check mark' in Microsoft documents.
 author: pallep
 ms.author: pallep
-ms.date: 03/29/2021
+ms.date: 11/02/2023
 ms.topic: article
 ms.prod: non-product-specific
 ---
