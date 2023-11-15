@@ -1,13 +1,13 @@
 ---
-title: Windows 7, Windows 8, Windows 10 - Microsoft Style Guide
-description: Instructs to always use the entire name when referring to Windows 7, Windows 8, Windows 10 and to not precede the name with Microsoft.
+title: Windows 10, Windows 11 - Microsoft Style Guide
+description: Instructs to always use the entire name when referring to Windows 10 and Windows 11 and to not precede the name with Microsoft.
 author: pallep
 ms.author: pallep
-ms.date: 01/19/2018
+ms.date: 11/15/2023
 ms.topic: article
 ms.prod: non-product-specific
 ---
 
-# Windows 7, Windows 8, Windows 10
+# Windows 10, Windows 11
 
 Always use the entire name. Don't precede the name with *Microsoft.*
