@@ -3,22 +3,22 @@ title: enable, enables - Microsoft Style Guide
 description: Describes guidelines to use 'enable' or 'enables' in Microsoft documents and provides alternate examples.
 author: pallep
 ms.author: pallep
-ms.date: 01/19/2018
+ms.date: 11/15/2023
 ms.topic: article
 ms.prod: non-product-specific
 ---
 
 # enable, enables
 
-Don't use *enables* (or *allows* or *lets*) to
-refer to things that Microsoft or Microsoft apps make possible for
-the customer. Rewrite to focus on what's important from the customer's
-point of view. For example, instead of *Microsoft Edge enables you to write, draw, and take notes on webpages,* say *Write, draw, and take notes on webpages with Microsoft Edge.*
+Avoid using in most cases.
 
-Don't use to describe making commands or features available. Use *make available, turn on,* or something similar, or rewrite the sentence.
+Don’t use *enables* (or *allows* or *lets*) to refer to things that Microsoft or Microsoft apps make possible for the customer. Rewrite to focus on what’s important or possible from the customer’s point of view. For example, say, "Write, draw, and take notes on webpages with Microsoft Edge," and not "Microsoft Edge enables you to write, draw, and take notes on webpages."
 
-In content for a technical audience, it's OK to describe a feature or command as *enabled*. 
+Don’t use *enable* to describe making a feature, setting, or command available. Replace with specific, plain language phrases such as *turn on*, *allow*, *add*, or rewrite the sentence.
 
-It's OK to use *enable the customer to* when you need to refer to the customer in the third person.  
-**Example**  
-Include this control to enable the customer to ....
+In product UI, use *On/Off* (not *Enable/Disable*) as labels for a switch that controls the availability of a feature or a capability in the product. Or use more specific pairs of words such as *show/hide*, *add/remove*, or *allow/block*. 
+
+**See also**  
+[disable, disables (functionality)](https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/d/disable-disabled)
+
+[turn on, turn off](https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/t/turn-on-turn-off)
