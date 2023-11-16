@@ -10,7 +10,7 @@ ms.prod: non-product-specific
 
 # AI and bot terms
 
-In general, avoid talking about AI and bot technology. Instead, focus on the benefits of the technology or what the customer wants to do with it. When it's necessary to talk about the technology itself—such as in content for developers or in event presentations, or to make it clear that the customer is chatting with a bot, not a person—use the terms below.  
+Avoid talking about AI and bot technology. Instead, focus on the benefits of the technology or what the customer wants to do with it. When it's necessary to talk about the technology itself—such as in content for developers or in event presentations, or to make it clear that the customer is chatting with a bot, not a person—use the terms below.  
 
 Before you invent a term, make sure a suitable term doesn't already exist. For more information about creating new terms or using emerging terminology, see [Use technical terms carefully](~/word-choice/use-technical-terms-carefully.md).
 
