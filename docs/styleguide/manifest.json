@@ -1,0 +1,947 @@
+{
+  "homepages": [],
+  "source_base_path": "D:/a/1/s/target_repo/styleguide",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "source_relative_path": "a-z-word-list-term-collections/c/media/close-button/1581618122.png",
+      "output": {
+        "resource": {
+          "relative_path": "a-z-word-list-term-collections/c/media/close-button/1581618122.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "a-z-word-list-term-collections/c/media/close-button/518967462.png",
+      "output": {
+        "resource": {
+          "relative_path": "a-z-word-list-term-collections/c/media/close-button/518967462.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "a-z-word-list-term-collections/c/media/control-menu-box/1955337661.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "a-z-word-list-term-collections/c/media/control-menu-box/1955337661.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "a-z-word-list-term-collections/e/media/ellipsis-button/447573893.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "a-z-word-list-term-collections/e/media/ellipsis-button/447573893.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "a-z-word-list-term-collections/i/media/icon/10090115.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "a-z-word-list-term-collections/i/media/icon/10090115.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "a-z-word-list-term-collections/i/media/icon/1465752354.png",
+      "output": {
+        "resource": {
+          "relative_path": "a-z-word-list-term-collections/i/media/icon/1465752354.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "a-z-word-list-term-collections/m/media/maximize-button-maximize/302251874.png",
+      "output": {
+        "resource": {
+          "relative_path": "a-z-word-list-term-collections/m/media/maximize-button-maximize/302251874.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "a-z-word-list-term-collections/m/media/minimize-button-minimize/1223646377.png",
+      "output": {
+        "resource": {
+          "relative_path": "a-z-word-list-term-collections/m/media/minimize-button-minimize/1223646377.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "a-z-word-list-term-collections/p/media/pin-unpin/967781121.png",
+      "output": {
+        "resource": {
+          "relative_path": "a-z-word-list-term-collections/p/media/pin-unpin/967781121.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "a-z-word-list-term-collections/s/media/slider/1637616098.png",
+      "output": {
+        "resource": {
+          "relative_path": "a-z-word-list-term-collections/s/media/slider/1637616098.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "a-z-word-list-term-collections/s/media/spin-box/63270893.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "a-z-word-list-term-collections/s/media/spin-box/63270893.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "a-z-word-list-term-collections/s/media/split-bar-split-box/1404636417.png",
+      "output": {
+        "resource": {
+          "relative_path": "a-z-word-list-term-collections/s/media/split-bar-split-box/1404636417.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "a-z-word-list-term-collections/s/media/start-button-start-menu/967781121.png",
+      "output": {
+        "resource": {
+          "relative_path": "a-z-word-list-term-collections/s/media/start-button-start-menu/967781121.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "a-z-word-list-term-collections/s/media/status-bar/1474851511.png",
+      "output": {
+        "resource": {
+          "relative_path": "a-z-word-list-term-collections/s/media/status-bar/1474851511.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "a-z-word-list-term-collections/s/media/status-bar/1622172745.png",
+      "output": {
+        "resource": {
+          "relative_path": "a-z-word-list-term-collections/s/media/status-bar/1622172745.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "a-z-word-list-term-collections/s/media/symbol/1414490202.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "a-z-word-list-term-collections/s/media/symbol/1414490202.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "a-z-word-list-term-collections/s/media/symbol/1689948149.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "a-z-word-list-term-collections/s/media/symbol/1689948149.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "a-z-word-list-term-collections/term-collections/media/mouse-mouse-interaction-terms/1502439723.png",
+      "output": {
+        "resource": {
+          "relative_path": "a-z-word-list-term-collections/term-collections/media/mouse-mouse-interaction-terms/1502439723.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "a-z-word-list-term-collections/term-collections/media/mouse-mouse-interaction-terms/270050385.png",
+      "output": {
+        "resource": {
+          "relative_path": "a-z-word-list-term-collections/term-collections/media/mouse-mouse-interaction-terms/270050385.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "global-communications/media/currency/1453401234.png",
+      "output": {
+        "resource": {
+          "relative_path": "global-communications/media/currency/1453401234.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "media/top-10-tips-style-voice/911998365.png",
+      "output": {
+        "resource": {
+          "relative_path": "media/top-10-tips-style-voice/911998365.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "procedures-instructions/media/describing-alternative-input-methods/1301958590.png",
+      "output": {
+        "resource": {
+          "relative_path": "procedures-instructions/media/describing-alternative-input-methods/1301958590.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "procedures-instructions/media/describing-interactions-with-ui/1231005595.png",
+      "output": {
+        "resource": {
+          "relative_path": "procedures-instructions/media/describing-interactions-with-ui/1231005595.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "procedures-instructions/media/describing-interactions-with-ui/721771267.png",
+      "output": {
+        "resource": {
+          "relative_path": "procedures-instructions/media/describing-interactions-with-ui/721771267.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "procedures-instructions/media/describing-interactions-with-ui/967781121.png",
+      "output": {
+        "resource": {
+          "relative_path": "procedures-instructions/media/describing-interactions-with-ui/967781121.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "procedures-instructions/media/illustrating-network-traffic-flows/1252879060.png",
+      "output": {
+        "resource": {
+          "relative_path": "procedures-instructions/media/illustrating-network-traffic-flows/1252879060.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "procedures-instructions/media/illustrating-network-traffic-flows/572369390.png",
+      "output": {
+        "resource": {
+          "relative_path": "procedures-instructions/media/illustrating-network-traffic-flows/572369390.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "procedures-instructions/media/illustrating-network-traffic-flows/589503366.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "procedures-instructions/media/illustrating-network-traffic-flows/589503366.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "procedures-instructions/media/illustrating-network-traffic-flows/83067036.png",
+      "output": {
+        "resource": {
+          "relative_path": "procedures-instructions/media/illustrating-network-traffic-flows/83067036.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "procedures-instructions/media/illustrating-network-traffic-flows/881348326.png",
+      "output": {
+        "resource": {
+          "relative_path": "procedures-instructions/media/illustrating-network-traffic-flows/881348326.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "procedures-instructions/media/index/1713306812.png",
+      "output": {
+        "resource": {
+          "relative_path": "procedures-instructions/media/index/1713306812.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "procedures-instructions/media/index/1980906142.png",
+      "output": {
+        "resource": {
+          "relative_path": "procedures-instructions/media/index/1980906142.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "procedures-instructions/media/index/541572162.png",
+      "output": {
+        "resource": {
+          "relative_path": "procedures-instructions/media/index/541572162.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "procedures-instructions/media/index/774741777.png",
+      "output": {
+        "resource": {
+          "relative_path": "procedures-instructions/media/index/774741777.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "procedures-instructions/media/writing-step-by-step-instructions/1122697927.png",
+      "output": {
+        "resource": {
+          "relative_path": "procedures-instructions/media/writing-step-by-step-instructions/1122697927.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "punctuation/media/ellipses/2036405554.png",
+      "output": {
+        "resource": {
+          "relative_path": "punctuation/media/ellipses/2036405554.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "punctuation/media/ellipses/2085992510.png",
+      "output": {
+        "resource": {
+          "relative_path": "punctuation/media/ellipses/2085992510.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "scannable-content/media/headings/190123509.png",
+      "output": {
+        "resource": {
+          "relative_path": "scannable-content/media/headings/190123509.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "scannable-content/media/pull-quotes/pull-quote.png",
+      "output": {
+        "resource": {
+          "relative_path": "scannable-content/media/pull-quotes/pull-quote.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "scannable-content/media/sidebars/1416770987.png",
+      "output": {
+        "resource": {
+          "relative_path": "scannable-content/media/sidebars/1416770987.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "styleguide/a-z-word-list-term-collections/c/media/close-button/1581618122.png",
+      "output": {
+        "resource": {
+          "relative_path": "styleguide/a-z-word-list-term-collections/c/media/close-button/1581618122.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "styleguide/a-z-word-list-term-collections/c/media/close-button/518967462.png",
+      "output": {
+        "resource": {
+          "relative_path": "styleguide/a-z-word-list-term-collections/c/media/close-button/518967462.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "styleguide/a-z-word-list-term-collections/c/media/control-menu-box/1955337661.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "styleguide/a-z-word-list-term-collections/c/media/control-menu-box/1955337661.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "styleguide/a-z-word-list-term-collections/e/media/ellipsis-button/447573893.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "styleguide/a-z-word-list-term-collections/e/media/ellipsis-button/447573893.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "styleguide/a-z-word-list-term-collections/i/media/icon/10090115.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "styleguide/a-z-word-list-term-collections/i/media/icon/10090115.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "styleguide/a-z-word-list-term-collections/i/media/icon/1465752354.png",
+      "output": {
+        "resource": {
+          "relative_path": "styleguide/a-z-word-list-term-collections/i/media/icon/1465752354.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "styleguide/a-z-word-list-term-collections/m/media/maximize-button-maximize/302251874.png",
+      "output": {
+        "resource": {
+          "relative_path": "styleguide/a-z-word-list-term-collections/m/media/maximize-button-maximize/302251874.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "styleguide/a-z-word-list-term-collections/m/media/minimize-button-minimize/1223646377.png",
+      "output": {
+        "resource": {
+          "relative_path": "styleguide/a-z-word-list-term-collections/m/media/minimize-button-minimize/1223646377.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "styleguide/a-z-word-list-term-collections/p/media/pin-unpin/967781121.png",
+      "output": {
+        "resource": {
+          "relative_path": "styleguide/a-z-word-list-term-collections/p/media/pin-unpin/967781121.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "styleguide/a-z-word-list-term-collections/s/media/slider/1637616098.png",
+      "output": {
+        "resource": {
+          "relative_path": "styleguide/a-z-word-list-term-collections/s/media/slider/1637616098.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "styleguide/a-z-word-list-term-collections/s/media/spin-box/63270893.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "styleguide/a-z-word-list-term-collections/s/media/spin-box/63270893.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "styleguide/a-z-word-list-term-collections/s/media/split-bar-split-box/1404636417.png",
+      "output": {
+        "resource": {
+          "relative_path": "styleguide/a-z-word-list-term-collections/s/media/split-bar-split-box/1404636417.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "styleguide/a-z-word-list-term-collections/s/media/start-button-start-menu/967781121.png",
+      "output": {
+        "resource": {
+          "relative_path": "styleguide/a-z-word-list-term-collections/s/media/start-button-start-menu/967781121.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "styleguide/a-z-word-list-term-collections/s/media/status-bar/1474851511.png",
+      "output": {
+        "resource": {
+          "relative_path": "styleguide/a-z-word-list-term-collections/s/media/status-bar/1474851511.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "styleguide/a-z-word-list-term-collections/s/media/status-bar/1622172745.png",
+      "output": {
+        "resource": {
+          "relative_path": "styleguide/a-z-word-list-term-collections/s/media/status-bar/1622172745.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "styleguide/a-z-word-list-term-collections/s/media/symbol/1414490202.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "styleguide/a-z-word-list-term-collections/s/media/symbol/1414490202.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "styleguide/a-z-word-list-term-collections/s/media/symbol/1689948149.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "styleguide/a-z-word-list-term-collections/s/media/symbol/1689948149.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "styleguide/a-z-word-list-term-collections/term-collections/media/mouse-mouse-interaction-terms/1502439723.png",
+      "output": {
+        "resource": {
+          "relative_path": "styleguide/a-z-word-list-term-collections/term-collections/media/mouse-mouse-interaction-terms/1502439723.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "styleguide/a-z-word-list-term-collections/term-collections/media/mouse-mouse-interaction-terms/270050385.png",
+      "output": {
+        "resource": {
+          "relative_path": "styleguide/a-z-word-list-term-collections/term-collections/media/mouse-mouse-interaction-terms/270050385.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "styleguide/global-communications/media/currency/1453401234.png",
+      "output": {
+        "resource": {
+          "relative_path": "styleguide/global-communications/media/currency/1453401234.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "styleguide/media/top-10-tips-style-voice/911998365.png",
+      "output": {
+        "resource": {
+          "relative_path": "styleguide/media/top-10-tips-style-voice/911998365.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "styleguide/procedures-instructions/media/describing-alternative-input-methods/1301958590.png",
+      "output": {
+        "resource": {
+          "relative_path": "styleguide/procedures-instructions/media/describing-alternative-input-methods/1301958590.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "styleguide/procedures-instructions/media/describing-interactions-with-ui/1231005595.png",
+      "output": {
+        "resource": {
+          "relative_path": "styleguide/procedures-instructions/media/describing-interactions-with-ui/1231005595.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "styleguide/procedures-instructions/media/describing-interactions-with-ui/721771267.png",
+      "output": {
+        "resource": {
+          "relative_path": "styleguide/procedures-instructions/media/describing-interactions-with-ui/721771267.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "styleguide/procedures-instructions/media/describing-interactions-with-ui/967781121.png",
+      "output": {
+        "resource": {
+          "relative_path": "styleguide/procedures-instructions/media/describing-interactions-with-ui/967781121.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "styleguide/procedures-instructions/media/illustrating-network-traffic-flows/1252879060.png",
+      "output": {
+        "resource": {
+          "relative_path": "styleguide/procedures-instructions/media/illustrating-network-traffic-flows/1252879060.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "styleguide/procedures-instructions/media/illustrating-network-traffic-flows/572369390.png",
+      "output": {
+        "resource": {
+          "relative_path": "styleguide/procedures-instructions/media/illustrating-network-traffic-flows/572369390.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "styleguide/procedures-instructions/media/illustrating-network-traffic-flows/589503366.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "styleguide/procedures-instructions/media/illustrating-network-traffic-flows/589503366.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "styleguide/procedures-instructions/media/illustrating-network-traffic-flows/83067036.png",
+      "output": {
+        "resource": {
+          "relative_path": "styleguide/procedures-instructions/media/illustrating-network-traffic-flows/83067036.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "styleguide/procedures-instructions/media/illustrating-network-traffic-flows/881348326.png",
+      "output": {
+        "resource": {
+          "relative_path": "styleguide/procedures-instructions/media/illustrating-network-traffic-flows/881348326.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "styleguide/procedures-instructions/media/index/1713306812.png",
+      "output": {
+        "resource": {
+          "relative_path": "styleguide/procedures-instructions/media/index/1713306812.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "styleguide/procedures-instructions/media/index/1980906142.png",
+      "output": {
+        "resource": {
+          "relative_path": "styleguide/procedures-instructions/media/index/1980906142.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "styleguide/procedures-instructions/media/index/541572162.png",
+      "output": {
+        "resource": {
+          "relative_path": "styleguide/procedures-instructions/media/index/541572162.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "styleguide/procedures-instructions/media/index/774741777.png",
+      "output": {
+        "resource": {
+          "relative_path": "styleguide/procedures-instructions/media/index/774741777.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "styleguide/procedures-instructions/media/writing-step-by-step-instructions/1122697927.png",
+      "output": {
+        "resource": {
+          "relative_path": "styleguide/procedures-instructions/media/writing-step-by-step-instructions/1122697927.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "styleguide/punctuation/media/ellipses/2036405554.png",
+      "output": {
+        "resource": {
+          "relative_path": "styleguide/punctuation/media/ellipses/2036405554.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "styleguide/punctuation/media/ellipses/2085992510.png",
+      "output": {
+        "resource": {
+          "relative_path": "styleguide/punctuation/media/ellipses/2085992510.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "styleguide/scannable-content/media/headings/190123509.png",
+      "output": {
+        "resource": {
+          "relative_path": "styleguide/scannable-content/media/headings/190123509.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "styleguide/scannable-content/media/pull-quotes/pull-quote.png",
+      "output": {
+        "resource": {
+          "relative_path": "styleguide/scannable-content/media/pull-quotes/pull-quote.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "styleguide/scannable-content/media/sidebars/1416770987.png",
+      "output": {
+        "resource": {
+          "relative_path": "styleguide/scannable-content/media/sidebars/1416770987.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "styleguide/welcome/media/index/401530580.png",
+      "output": {
+        "resource": {
+          "relative_path": "styleguide/welcome/media/index/401530580.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "styleguide/welcome/media/index/WritingStyleGuidebanner.png",
+      "output": {
+        "resource": {
+          "relative_path": "styleguide/welcome/media/index/WritingStyleGuidebanner.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "welcome/media/index/401530580.png",
+      "output": {
+        "resource": {
+          "relative_path": "welcome/media/index/401530580.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "welcome/media/index/WritingStyleGuidebanner.png",
+      "output": {
+        "resource": {
+          "relative_path": "welcome/media/index/WritingStyleGuidebanner.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: it's disabled.",
+        "incrementalPhase": "postProcessing"
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
