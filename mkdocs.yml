@@ -13,8 +13,8 @@ theme:
       toggle:
         icon: material/lightbulb
         name: Switch to light mode
-  # logo: assets/logo.png
-  # favicon: assets/logo.png
+  logo: assets/nordic_logo.png
+  favicon: assets/nordic_logo.png
   features:
     - content.code.annotate
     - content.tooltips
@@ -24,7 +24,6 @@ theme:
     - navigation.tracking
     - search.highlight
     - toc.follow
-
 
 extra_css:
   - stylesheets/style.css
@@ -50,7 +49,6 @@ markdown_extensions:
 plugins:
   - macros
   - search
-
 
 extra:
   test: This is a test abbreviation snippet
