@@ -1,0 +1,108 @@
+/* Primary colors (blue): #6AD1E3 (sky), #00A9CE (blue), #0077C8 (lake), #0033A0 (blue slate) */
+/* Neutral colors (gray): #D9E1E2 (light gray), #768692 (middle gray), #333F48 (dark gray) */
+/* Support colors: #D0DF00 (green), #FFCD00 (yellow), #EE2F4E (red), #F58220 (orange) */
+
+/* LIGHT MODE */
+[data-md-color-scheme="custom-blue"] {
+  /* Default color shades */
+  --md-default-fg-color:               #333F48;
+  --md-default-fg-color--light:        rgb(51, 63, 72, 0.7);
+  --md-default-fg-color--lighter:      #D9E1E2;
+
+  --md-default-bg-color:               #fff;
+  --md-default-bg-color--light:        #D9E1E2;
+  --md-default-bg-color--lighter:      #768692;
+  --md-default-bg-color--lightest:     #333F48;
+
+  /* Primary color shades */
+  --md-primary-fg-color:               #00A9CE;
+  --md-primary-fg-color--light:        #6AD1E3;
+  --md-primary-fg-color--dark:         #0033A0;
+
+  --md-primary-bg-color:               #fff;
+  --md-primary-bg-color--light:        #D9E1E2;
+
+  /* Accent color shades */
+  --md-accent-fg-color:                #00A9CE;
+
+  /* Code color shades */
+  --md-code-fg-color:                  hsla(200, 18%, 26%, 1);
+  --md-code-bg-color:                  rgba(0, 0, 0, 0.05);
+
+  /* Footer color shades */
+  --md-footer-bg-color:                #0077C8;
+  --md-footer-bg-color--dark:          #0033A0;
+
+  /* Typeset */
+  --md-typeset-color:                  var(--md-default-fg-color);
+  --md-typeset-a-color:                var(--md-accent-fg-color);
+}
+
+
+/* DARK MODE */
+[data-md-color-scheme="custom-blue-dark"] {
+  /* Default color shades */
+  --md-default-fg-color:               #fff;
+  --md-default-fg-color--light:        rgba(255, 255, 255, 0.7);
+  --md-default-fg-color--lighter:      #D9E1E2;
+
+  --md-default-bg-color:               #333F48;
+  --md-default-bg-color--light:        #768692;
+  --md-default-bg-color--lighter:      #D9E1E2;
+  --md-default-bg-color--lightest:     #fff;
+
+  /* Primary color shades */
+  --md-primary-fg-color:               #00A9CE;
+  --md-primary-fg-color--light:        #6AD1E3;
+  --md-primary-fg-color--dark:         #0033A0;
+
+  --md-primary-bg-color:               #fff;
+  --md-primary-bg-color--light:        #D9E1E2;
+
+  /* Accent color shades */
+  --md-accent-fg-color:                #00A9CE;
+
+  /* Code highlighting and color shades */
+  --md-code-fg-color:                  var(--md-default-fg-color);
+  --md-code-bg-color:                  hsl(206, 17%, 18%);
+  --md-code-hl-color:                  hsla(#{hex2hsl($clr-yellow-a200)}, 0.5);
+  --md-code-hl-number-color:           rgb(255, 50, 50);
+  --md-code-hl-special-color:          rgb(255, 25, 100);
+  --md-code-hl-function-color:         rgb(230, 100, 255);
+  --md-code-hl-constant-color:         rgb(130, 100, 255);
+  --md-code-hl-keyword-color:          rgb(80, 140, 255);
+  --md-code-hl-string-color:           rgb(70, 255, 165);
+  --md-code-hl-name-color:             var(--md-code-fg-color);
+  --md-code-hl-operator-color:         var(--md-default-fg-color--light);
+  --md-code-hl-punctuation-color:      var(--md-default-fg-color--light);
+  --md-code-hl-comment-color:          var(--md-default-fg-color--light);
+  --md-code-hl-generic-color:          var(--md-default-fg-color--light);
+  --md-code-hl-variable-color:         var(--md-default-fg-color--light);
+
+  /* Typeset */
+  --md-typeset-color:                  var(--md-default-fg-color);
+  --md-typeset-a-color:                var(--md-accent-fg-color);
+
+  /* Typeset `kbd` color shades */
+  --md-typeset-kbd-color:              rgb(80, 80, 80);
+  --md-typeset-kbd-accent-color:       rgb(65, 65, 65);
+  --md-typeset-kbd-border-color:       rgb(135, 135, 135);
+
+  /* Admonition color shades */
+  --md-admonition-fg-color:            var(--md-default-fg-color);
+  --md-admonition-bg-color:            hsl(206, 17%, 18%);
+
+  /* Footer color shades */
+  --md-footer-bg-color:                #0077C8;
+  --md-footer-bg-color--dark:          #0033A0;
+}
+
+.md-banner a {
+  color:                               black !important;
+  text-decoration:                     underline !important;
+}
+
+.md-banner {
+  background-color:                    #CEDD50 !important;
+  color:                               black !important;
+}
