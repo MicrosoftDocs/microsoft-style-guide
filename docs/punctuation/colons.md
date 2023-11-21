@@ -1,48 +1,26 @@
----
-title: Colons - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 07/24/2018
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # Colons
 
-## Preceding lists
+## When to use colons
 
-Include a colon at the end of a phrase that directly introduces a list.<br />
-**Example**  
-We can create a backup of all sorts of things to make the transition easier, including: 
+You may use colons in the following situations.
 
-  - The apps you've installed on your phone, along with high scores and progress from participating apps. 
-  - The passwords for your accounts. 
-  - Your call history. 
+| Situation | Examples |
+|-|-|
+|**To introduce a list**|We can create a backup of all sorts of things to make the transition easier, including:</br> - The apps you've installed on your phone.</br> - The passwords for your accounts.</br> - Your call history.|
+|**Within sentences**</br> Use sparingly and try to use 2 sentences instead.|Microsoft ActiveSync doesn't recognize this device for one of two reasons: the device wasn't connected properly or the device isn't a smartphone.|
+|**In titles and headings**</br> Capitalize the word after it.|Get started with Azure IoT: An interactive developer guide|
+|**Before explanatory text**</br> Indicates the clause will be further explained.|This software package was doomed from the start: Customer requirements were never defined, and management was not committed to the project.|
+|**After an introduction**</br> After an intro to a statement or question.|Here is the choice: Do you want to save the file or delete it?|
+|**With the name of a disk drive**|Insert the CD into drive A: and press Return.|
 
-To learn more, see [Lists](~/scannable-content/lists.md).
+## When not to use colons
 
-## Within sentences
+**Do not** use colons in the following situations.
 
-Use colons sparingly at the end of a statement followed by a second statement that expands on it.<br />
-**Example**  
-Microsoft ActiveSync doesn't recognize this device for one of two reasons:
-the device wasn't connected properly or the device isn't a
-smartphone.
-
-Most of the time, two sentences are more readable.
-
-When you use a colon in a sentence, lowercase the word that follows it unless:
-
-  - The colon introduces a direct quotation.  
-    **Example** <br />What does it mean when I see a message that asks: "Are you trying to visit this site?"  
-    
-  - The first word after the colon is a proper noun.  
-    **Example** <br />We're considering three cities for the event: Los Angeles, Munich, and Tokyo. 
-    
-## In titles and headings  
-
-When you use a colon in a title or heading, capitalize the word that follows it.  
-**Examples**  
-Block party: Communities use Minecraft to create public spaces  
-Why girls lose interest in STEM: New research has some answers  
-Get started with Azure IoT: An interactive developer guide  
+| Situation | Incorrect | Correct |
+|-|-|-|
+|**To introduce a figure or a table**|-|-|
+|**When referring to screen elements in text**|-|-|
+|**To introduce headings**|(H2)Preinstallation Checklist</br>Before you begin the installation, verify several things about your system**:**</br>(H3)Check the Configuration|(H2)Preinstallation Checklist</br>Before you begin the installation, verify several things about your system**.**</br>(H3)Check the Configuration|
+|**At the end of a procedure heading**|To Configure Your System**:**|To Configure Your System|
+|**In a list that is introduced by “includes” or “are” within a sentence**|The colors that are used in four-color printing are**:** cyan, magenta, yellow, and black.|The base colors that are used in four-color printing are cyan, magenta, yellow, and black.|

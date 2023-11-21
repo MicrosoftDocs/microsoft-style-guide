@@ -1,41 +1,21 @@
----
-title: Apostrophes - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 01/19/2018
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # Apostrophes
 
-## Use an apostrophe
+## When to use an apostrophe
 
-  - To form the possessive case of nouns. For singular nouns, add an apostrophe and an *s,* even if the noun ends in *s, x,* or *z.* To form the possessive of plural nouns that end in *s,* add only an apostrophe.  
-    **Examples**  
-    insider's guide   
-    the box's contents  
-    the CSS's flexibility   
-    Berlioz's opera  
-    an OEM's product   
-    users' passwords   
-    the Joneses' computer  
-    
-  - To indicate a missing letter in a contraction.  
-    **Examples**  
-    can't   
-    don't  
-    it's
+You may use an apostrophe in the following situations.
 
-## Don’t use an apostrophe
+| Situation | Examples |
+|-|-|
+| **Singular possessive nouns**</br> If ending in an *s*, add *'s* even if the noun ends in *s, x,* or *z.*| insider's guide</br> the box's contents</br> the CSS's flexibility|
+| **Plural possessive nouns**</br> If ending in an *s,* add only an apostrophe.| users' passwords|
+| **To indicate a missing letter in a contraction** | can't</br> don't</br> it's  |
+|**In place of numerals**</br> Use an apostrophe to replace omitted numerals.|Class of '66 |
 
-  - For the possessive form of *it*.  
-    **Example** <br />Replace a formula with its calculated value.  
-    
-  - With a possessive pronoun.  
-    **Example** <br />The choice is yours.  
-    
-  - To form the plural of a singular noun.  
-    **Example** <br />Play your favorite games on all your devices.
+## When not to use an apostrophe
 
-**Note**  Don't use the possessive form of Microsoft trademarks and product, service, or feature names.
+**Do not** use an apostrophe in the following situations.
+
+| Situation | Incorrect | Correct |
+|-|-|-|
+|**For the possessive form of *it***|Replace a formula with **it's** calculated value.|Replace a formula with **its** calculated value.|
+|**With a possessive pronoun**|The choice is **your's**.|The choice is **yours**.|

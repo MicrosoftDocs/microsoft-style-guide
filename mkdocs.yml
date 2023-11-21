@@ -56,52 +56,55 @@ extra:
 nav:
   - Home: README.md
   - Glossary: glossary.md
-  - Accessibility guidelines and requirements:
-    - Accessibility guidelines and requirements: accessibility/accessibility-guidelines-requirements.md
-    - Writing for all abilities: accessibility/writing-all-abilities.md
-    - Colors and patterns in text, graphics, and design: accessibility/colors-patterns-text-graphics-design.md
-    - Graphics, design, and media: accessibility/graphics-design-media.md
-  - Acronyms: acronyms.md
-  - Bias-free communication: bias-free-communication.md
-  - Capitalization: capitalization.md
-  - Chatbots and virtual agents:
-    - Chatbots and virtual agents: chatbots-virtual-agents/index.md
-    - Structural and technical considerations: chatbots-virtual-agents/structural-technical-considerations.md
-    - Writing for bots: chatbots-virtual-agents/writing-bots.md
-    - Care and feeding of the bot: chatbots-virtual-agents/care-feeding-bot.md
-  - Content planning: content-planning.md
-  - Design planning: design-planning.md
-  - Developer content:
-    - Developer content: developer-content/index.md
-    - Reference documentation: developer-content/reference-documentation.md
-    - Code examples: developer-content/code-examples.md
-    - Formatting developer text elements: developer-content/formatting-developer-text-elements.md
-  - Final publishing review: final-publishing-review.md
-  - Global communications:
-    - Global communications: global-communications/index.md
-    - Art: global-communications/art.md
-    - Currency: global-communications/currency.md
-    - Examples and scenarios: global-communications/examples-scenarios.md
-    - Names and contact information: global-communications/names-contact-information.md
-    - Time and place: global-communications/time-place.md
-    - Web, software, and HTML considerations: global-communications/web-software-html-considerations.md
-    - Writing tips: global-communications/writing-tips.md
-  - Grammar and parts of speech:
-    - Grammar and parts of speech: grammar/grammar-and-parts-of-speech.md
-    - Verbs: grammar/verbs.md
-    - Person: grammar/person.md
-    - Nouns and pronouns: grammar/nouns-pronouns.md
-    - Words ending in -ing: grammar/ing-words.md
-    - Prepositions: grammar/prepositions.md
-    - Dangling and misplaced modifiers: grammar/dangling-misplaced-modifiers.md
-  - Numbers: numbers.md
-  - Procedures and instructions:
-    - Procedures and instructions: procedures-instructions/index.md
-    - Writing step-by-step instructions: procedures-instructions/writing-step-by-step-instructions.md
-    - Describing interactions with UI: procedures-instructions/describing-interactions-with-ui.md
-    - Describing alternative input methods: procedures-instructions/describing-alternative-input-methods.md
-    - Formatting text in instructions: procedures-instructions/formatting-text-in-instructions.md
-  - Illustrating network traffic flows: procedures-instructions/illustrating-network-traffic-flows.md
+  - Units of measurement: units-of-measurement.md
+  - Trademarks: trademarks.md
+  - Typographical conventions: typographical-conventions.md
+  # - Accessibility guidelines and requirements:
+  #   - Accessibility guidelines and requirements: accessibility/accessibility-guidelines-requirements.md
+  #   - Writing for all abilities: accessibility/writing-all-abilities.md
+  #   - Colors and patterns in text, graphics, and design: accessibility/colors-patterns-text-graphics-design.md
+  #   - Graphics, design, and media: accessibility/graphics-design-media.md
+  # - Acronyms: acronyms.md
+  # - Bias-free communication: bias-free-communication.md
+  # - Capitalization: capitalization.md
+  # - Chatbots and virtual agents:
+  #   - Chatbots and virtual agents: chatbots-virtual-agents/index.md
+  #   - Structural and technical considerations: chatbots-virtual-agents/structural-technical-considerations.md
+  #   - Writing for bots: chatbots-virtual-agents/writing-bots.md
+  #   - Care and feeding of the bot: chatbots-virtual-agents/care-feeding-bot.md
+  # - Content planning: content-planning.md
+  # - Design planning: design-planning.md
+  # - Developer content:
+  #   - Developer content: developer-content/index.md
+  #   - Reference documentation: developer-content/reference-documentation.md
+  #   - Code examples: developer-content/code-examples.md
+  #   - Formatting developer text elements: developer-content/formatting-developer-text-elements.md
+  # - Final publishing review: final-publishing-review.md
+  # - Global communications:
+  #   - Global communications: global-communications/index.md
+  #   - Art: global-communications/art.md
+  #   - Currency: global-communications/currency.md
+  #   - Examples and scenarios: global-communications/examples-scenarios.md
+  #   - Names and contact information: global-communications/names-contact-information.md
+  #   - Time and place: global-communications/time-place.md
+  #   - Web, software, and HTML considerations: global-communications/web-software-html-considerations.md
+  #   - Writing tips: global-communications/writing-tips.md
+  # - Grammar and parts of speech:
+  #   - Grammar and parts of speech: grammar/grammar-and-parts-of-speech.md
+  #   - Verbs: grammar/verbs.md
+  #   - Person: grammar/person.md
+  #   - Nouns and pronouns: grammar/nouns-pronouns.md
+  #   - Words ending in -ing: grammar/ing-words.md
+  #   - Prepositions: grammar/prepositions.md
+  #   - Dangling and misplaced modifiers: grammar/dangling-misplaced-modifiers.md
+  # - Numbers: numbers.md
+  # - Procedures and instructions:
+  #   - Procedures and instructions: procedures-instructions/index.md
+  #   - Writing step-by-step instructions: procedures-instructions/writing-step-by-step-instructions.md
+  #   - Describing interactions with UI: procedures-instructions/describing-interactions-with-ui.md
+  #   - Describing alternative input methods: procedures-instructions/describing-alternative-input-methods.md
+  #   - Formatting text in instructions: procedures-instructions/formatting-text-in-instructions.md
+  # - Illustrating network traffic flows: procedures-instructions/illustrating-network-traffic-flows.md
   - Punctuation:
     - Punctuation: punctuation/index.md
     - Formatting punctuation: punctuation/formatting-punctuation.md
@@ -119,29 +122,29 @@ nav:
     - Quotation marks: punctuation/quotation-marks.md
     - Semicolons: punctuation/semicolons.md
     - Slashes: punctuation/slashes.md
-  - Responsive content: responsive-content.md
-  - Scannable content:
-    - Scannable content: scannable-content/index.md
-    - Headings: scannable-content/headings.md
-    - Lists: scannable-content/lists.md
-    - Pull quotes: scannable-content/pull-quotes.md
-    - Sidebars: scannable-content/sidebars.md
-    - Tables: scannable-content/tables.md
-  - Search and writing: search-writing.md
-  - Text formatting:
-    - Text formatting: text-formatting/index.md
-    - Using type: text-formatting/using-type/index.md
-    - Use sentence-style capitalization: text-formatting/using-type/use-sentence-style-capitalization.md
-    - Use left alignment: text-formatting/using-type/use-left-alignment.md
-    - Don't compress line spacing: text-formatting/using-type/dont-compress-line-spacing.md
-    - Formatting common text elements: text-formatting/formatting-common-text-elements.md
-    - Formatting titles: text-formatting/formatting-titles.md
-  - URLs and web addresses: urls-web-addresses.md
-  - Word choice:
-    - Word choice: word-choice/index.md
-    - Use contractions: word-choice/use-contractions.md
-    - Use simple words, concise sentences: word-choice/use-simple-words-concise-sentences.md
-    - Don't use common words in new ways: word-choice/dont-use-common-words-in-new-ways.md
-    - Use technical terms carefully: word-choice/use-technical-terms-carefully.md
-    - Avoid jargon: word-choice/avoid-jargon.md
-    - Use US spelling and avoid non-English words: word-choice/use-us-spelling-avoid-non-english-words.md
+  # - Responsive content: responsive-content.md
+  # - Scannable content:
+  #   - Scannable content: scannable-content/index.md
+  #   - Headings: scannable-content/headings.md
+  #   - Lists: scannable-content/lists.md
+  #   - Pull quotes: scannable-content/pull-quotes.md
+  #   - Sidebars: scannable-content/sidebars.md
+  #   - Tables: scannable-content/tables.md
+  # - Search and writing: search-writing.md
+  # - Text formatting:
+  #   - Text formatting: text-formatting/index.md
+  #   - Using type: text-formatting/using-type/index.md
+  #   - Use sentence-style capitalization: text-formatting/using-type/use-sentence-style-capitalization.md
+  #   - Use left alignment: text-formatting/using-type/use-left-alignment.md
+  #   - Don't compress line spacing: text-formatting/using-type/dont-compress-line-spacing.md
+  #   - Formatting common text elements: text-formatting/formatting-common-text-elements.md
+  #   - Formatting titles: text-formatting/formatting-titles.md
+  # - URLs and web addresses: urls-web-addresses.md
+  # - Word choice:
+  #   - Word choice: word-choice/index.md
+  #   - Use contractions: word-choice/use-contractions.md
+  #   - Use simple words, concise sentences: word-choice/use-simple-words-concise-sentences.md
+  #   - Don't use common words in new ways: word-choice/dont-use-common-words-in-new-ways.md
+  #   - Use technical terms carefully: word-choice/use-technical-terms-carefully.md
+  #   - Avoid jargon: word-choice/avoid-jargon.md
+  #   - Use US spelling and avoid non-English words: word-choice/use-us-spelling-avoid-non-english-words.md
