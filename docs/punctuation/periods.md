@@ -8,10 +8,10 @@ Use a period in the following situations.
 
 | Situation | Examples |
 |-----------|----------|
-| **To end a declarative or imperative sentence**| Computer documentation is always grammatically precise. |
-| **In file and directory names** </br> To separate the file name from a file extension.| The procedures are in the `howto.doc file.`</br> The ls -a command lists `.cshrc` and `.orgrc` among your hidden files. |
+| **To end a declarative or imperative sentence** | Computer documentation is always grammatically precise. |
+| **In file and directory names** </br> To separate the file name from a file extension | The procedures are in the `howto.doc file.`</br> The ls -a command lists `.cshrc` and `.orgrc` among your hidden files. |
 | **With abbreviations** | a.m.</br> U.S. |
-| **When a phrase ending with a colon introduces a bulleted list, use a period after every element if:**</br> • One or more list elements complete the introductory phrase.</br> • One or more list elements are complete sentences even if a list element contains three or fewer words.||
+| **When a phrase ending with a colon introduces a bulleted list, use a period after every element if:**</br> • One or more list elements complete the introductory phrase.</br> • One or more list elements are complete sentences even if a list element contains three or fewer words ||
 
 ## Don't use a period
 

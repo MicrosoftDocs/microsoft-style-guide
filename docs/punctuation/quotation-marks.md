@@ -18,7 +18,7 @@ Use quotation marks in the following situations.
 | **For multiple-paragraph quotations**</br> Put a quotation mark at the beginning of each paragraph and at the end of the last paragraph. If the paragraphs are indented as a block quotation, do not use any quotation marks. | |
 | **Around chapter titles and section headings** | See Chapter 6, “Customizing Advanced Features in Mail,” on page 150. |
 | **For emphasis**</br> To emphasize a word or phrase when it is used in an uncommon way or when it is the subject of discussion. | Use the tee command to take a “snapshot” of your keystrokes. |
-| **Around single letters**</br> Use quotation marks to surround single letters. | The letter “x” denotes the horizontal axis.|
+| **Around single letters**</br> Use quotation marks to surround single letters. | The letter “x” denotes the horizontal axis |
 
 ## Place closing quotation marks
 

@@ -21,4 +21,4 @@ Use a slash in the following situations.
 
 | Situation | Incorrect | Correct  |
 |-----------|-----------|----------|
-| **As a substitute for *or***</br> If the UI uses a slash in this way, follow the interface in describing the label, but use *or* to describe the action in text. | Select Automatic trapping to **add/remove** a check mark. | Select Automatic trapping to **add or remove** a check mark.||
+| **As a substitute for *or***</br> If the UI uses a slash in this way, follow the interface in describing the label, but use *or* to describe the action in text. | Select Automatic trapping to **add/remove** a check mark. | Select Automatic trapping to **add or remove** a check mark ||

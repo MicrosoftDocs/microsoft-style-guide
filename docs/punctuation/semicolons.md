@@ -10,5 +10,5 @@ Use a semicolon in the following situations.
 
 | Situation | Examples |
 |-----------|----------|
-| **Between two independent clauses that aren't joined by a conjunction.** | Select **Options**; then select **Automatic backups**.|
-| **Between contrasting statements that aren't joined by a conjunction.** | What’s considered powerful changes over time; today’s advanced feature might be commonplace tomorrow.|
+| **Between two independent clauses that aren't joined by a conjunction.** | Select **Options**; then select **Automatic backups** |
+| **Between contrasting statements that aren't joined by a conjunction.** | What’s considered powerful changes over time; today’s advanced feature might be commonplace tomorrow |
