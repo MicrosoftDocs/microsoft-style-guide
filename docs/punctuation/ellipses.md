@@ -1,53 +1,21 @@
----
-title: Ellipses - Microsoft Style Guide
-author: pallep
-ms.author: pallep
-ms.date: 01/19/2018
-ms.topic: article
-ms.prod: non-product-specific
----
-
 # Ellipses
 
-In
-general, don’t use an ellipsis (…) except in the situations
-described here or to indicate omitted code in technical content. 
+An ellipsis is a punctuation mark indicating an omission of words or a pause. In general, **do not** use an ellipsis except in the situations
+described here or to indicate omitted code in technical content.
 
-It's OK to use an ellipsis to indicate a pause in conversational UI messages.  
-**Example**  
-*(Hmm ... looks like that link is broken.)*
+## Use an ellipses
 
-When there's an ellipsis in UI, don’t include it in instructions or procedures.  
-**Example**  
-Select **Safety**, and then **Delete browsing history**.
+Use a comma in the following situations.
 
-In quoted material, use an ellipsis to indicate omitted text.
+| Situation | Examples |
+|-----------|----------|
+| **Indicate a pause in conversational UI messages** | Hmm ... looks like that link is broken.|
+| **In quoted material to indicate omitted text**</br> If the ellipsis replaces text within a sentence, include a space before and after the ellipsis</br> If the ellipsis replaces the end of a quoted sentence, include a space before the ellipsis and follow it with a closing period, with no intervening space.|The quick brown fox … lazy dog.</br>The quick brown fox ….|
 
-  - If the ellipsis replaces text within a sentence, include a space before and after the ellipsis.<br />
-    **Example**  
-    The quick brown fox … lazy dog.
+## Don't use an ellipses
 
-  - If
-    the ellipsis replaces the end of a quoted sentence, include a
-    space before the ellipsis and follow it with a closing period,
-    with no intervening space. <br />
-    **Example**  
-    The quick brown fox ….
+**Do not** use an ellipses in the following situations.
 
-It’s OK to use an ellipsis in multiple-part callouts, especially with screenshots or graphics in documentation. 
-
-![](media/ellipses/2036405554.png)![](media/ellipses/2085992510.png)
-
-  - Ensure that the path through the callouts is clear. Document each step.  
-  
-  - Insert a space and then an ellipsis at the end of a phrase that continues later.
-    Insert an ellipsis followed by a space at the beginning of a phrase that's continued from a previous phrase.  
-    
-  - If
-    the callout ends with additional punctuation, such as a
-    period or comma, insert a space between the punctuation mark and
-    the ellipsis.
-
-If
-you're using a font that doesn't have the
-ellipsis character, use three periods with no space between them.
+| Situation | Incorrect | Correct  |
+|-----------|-----------|----------|
+| When there is an ellipsis in UI, don’t include it in instructions|Select **Safety...**, and then **Delete browsing history**. | Select **Safety**, and then **Delete browsing history**. |

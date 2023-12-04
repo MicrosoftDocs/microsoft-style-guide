@@ -106,22 +106,18 @@ nav:
   #   - Formatting text in instructions: procedures-instructions/formatting-text-in-instructions.md
   # - Illustrating network traffic flows: procedures-instructions/illustrating-network-traffic-flows.md
   - Punctuation:
-    - Punctuation: punctuation/index.md
     - Formatting punctuation: punctuation/formatting-punctuation.md
     - Apostrophes: punctuation/apostrophes.md
     - Colons: punctuation/colons.md
     - Commas: punctuation/commas.md
-    - Dashes and hyphens: punctuation/dashes-hyphens/index.md
-    - Em dashes: punctuation/dashes-hyphens/emes.md
-    - En dashes: punctuation/dashes-hyphens/enes.md
-    - Hyphens: punctuation/dashes-hyphens/hyphens.md
+    - Dashes and hyphens: punctuation/dashes-and-hyphens.md
     - Ellipses: punctuation/ellipses.md
     - Exclamation points: punctuation/exclamation-points.md
     - Periods: punctuation/periods.md
-    - Question marks: punctuation/question-marks.md
     - Quotation marks: punctuation/quotation-marks.md
     - Semicolons: punctuation/semicolons.md
     - Slashes: punctuation/slashes.md
+    - Square brackets: punctuation/square-brackets.md
   # - Responsive content: responsive-content.md
   # - Scannable content:
   #   - Scannable content: scannable-content/index.md
