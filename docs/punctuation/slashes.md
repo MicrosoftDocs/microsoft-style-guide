@@ -12,7 +12,7 @@ Use a slash in the following situations.
 |-----------|----------|
 | **To imply a combination**</br> Capitalize the word after the slash if the word before the slash is capitalized. | client/server</br> TCP/IP</br> Use the on/off switch. |
 | **To separate parts of an internet address**</br> Use two slashes after the protocol name. | `ftp://example.com/downloads` |
-| **In server, folder, and file names** | `\\\\mslibrary\\catalog\\collect.doc` |
+| **In server, folder, and file names** | `////mslibrary//catalog//collect.doc` |
 | **Between the numerator and denominator of fractions in equations that occur in text** | a/x + b/y = 1</br>x + 2/3(y) = m |
 
 ## Don't use a slash
