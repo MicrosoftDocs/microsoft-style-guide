@@ -14,4 +14,4 @@ In Windows 8 and Windows 10, use to refer to the area on the taskbar where the c
 
 In Windows 11, this UI element is referred to as the *system tray*.  
 
-**See also** [system tray](https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/n/notification-area) 
+**See also** [system tray](https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/s/system-tray) 
