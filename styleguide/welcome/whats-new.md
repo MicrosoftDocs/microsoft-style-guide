@@ -3,7 +3,7 @@ title: What's new? - Microsoft Style Guide
 description: Provides a table that shows a history of recent updates to the Microsoft Writing Style Guide and outlines the date and changes made to various articles.
 author: pallep
 ms.author: pallep
-ms.date: 12/22/2023
+ms.date: 02/22/2024
 ms.topic: article
 ms.prod: non-product-specific
 ---
@@ -15,6 +15,8 @@ This table shows a history of recent updates to the *Microsoft Writing Style Gui
 
 |     **Date**      |                                                                  **Article**                                                                   |                                                                         **Change**                                                                          |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| February 22, 2024  |        [Formatting titles](https://learn.microsoft.com/en-us/style-guide/text-formatting/formatting-titles)           |               	Streamlined guidance to generally recommend sentence-casing; updated to recommend bold instead of italics for titles for enhanced readability and accessibility.
+| February 22, 2024  |        [multi-](https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/m/multi)           |               Updated to only include examples where the MWSG deviates from the American Heritage Dictionary.
 | December 22, 2023  |        [notification area](https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/n/notification-area)           |               Updated guidance to reflect that this now only applies to OS versions prior to Windows 11.
 | December 22, 2023  |        [system tray](https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/s/system-tray)           |               Updated guidance to reflect change with Windows 11.
 | November 15, 2023  |        [enable, enables](https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/e/enable-enables)           |               Updated guidance to avoid use of enable, provided links to related topics.
