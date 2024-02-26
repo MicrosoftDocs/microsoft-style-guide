@@ -875,7 +875,7 @@
 ### [wildcard character](a-z-word-list-term-collections/w/wildcard-character.md)
 ### [window](a-z-word-list-term-collections/w/window.md)
 ### [Windows, Windows-based](a-z-word-list-term-collections/w/windows-windows-based.md)
-### [Windows 7, Windows 8, Windows 10](a-z-word-list-term-collections/w/windows-7-windows-8-windows-10.md)
+### [Windows 10, Windows 11](a-z-word-list-term-collections/w/windows-10-windows-11.md)
 ### [Windows Explorer](a-z-word-list-term-collections/w/windows-explorer.md)
 ### [wireframe](a-z-word-list-term-collections/w/wireframe.md)
 ### [wireless](a-z-word-list-term-collections/w/wireless.md)
