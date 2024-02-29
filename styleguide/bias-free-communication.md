@@ -22,6 +22,7 @@ Microsoft technology reaches every part of the globe, so it's critical that all 
 |     sales representative     |   salesman   |
 |   synthetic, manufactured    |   manmade    |
 | workforce, staff, personnel |   manpower   |
+| effort hours, person-hours  |   man-hours  |
 
 **Don't use *he, him, his, she, her,* or *hers* in generic references.** Instead:  
 - Rewrite to use the second person (*you*).  
@@ -87,8 +88,23 @@ countries with states or continents.
 | master/subordinate |       master/slave       |
 | perimeter network  | demilitarized zone (DMZ) |
 |  stop responding   |           hang           |
+| Blacklist/Whitelist| Denylist/Allowlist       |
+| Unethical hacker/Ethical hacker | Black hat/White hat |
+| Secondary clock, synced clock | Slave clock |
+| Stop, terminate | Kill (a process)|
 
 **Focus on people, not disabilities.** For example, talk about readers who are blind or have low vision and customers with limited dexterity. Don't use words that imply pity, such as *stricken with* or *suffering from.* Don't mention a disability unless it's relevant. For more information, see the [Accessibility term collection](~/a-z-word-list-term-collections/term-collections/accessibility-terms.md). 
+
+**Clarification Without Assumption.** When explaining concepts, avoid assuming prior knowledge based on the reader's background, thus making your documentation more inclusive to beginners or those transitioning from other fields.
+
+**Ensure inclusivity in depicting roles, user scenarios, and digital engagement.** When illustrating diverse user interactions, consider including a variety of individual and group experiences that go beyond traditional norms.
+
+|    **Use this**    |       **Not this**       |
+|--------------------|--------------------------|
+| Sanity check       | Quick check, initial check |
+| Placeholder variable  |  Dummy variable| 
+|  Legacy policy   |Grandfathered policy           |
+| Plug/socket, connector A/B | Male/female connectors |
 
 **Learn more** For more information about writing that conveys respect to all people and promotes equal opportunities, see the [Guidelines for Inclusive Language](https://www.linguisticsociety.org/content/guidelines-inclusive-language "Linguistic Society of America's guidelines for inclusive language") from the Linguistic Society of America. 
 
