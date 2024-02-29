@@ -41,6 +41,10 @@ phrases verbatim, or include tips or notes found later in the text.
 spell checkers can’t think. It’s up to you to check each
 suggestion. Otherwise you might end up saying *manger* where you meant *manager.* 
 
+**Link Integrity Check** Confirm all internal and external links are functional and lead to the correct pages. Broken links can detract from the user experience and harm your SEO.
+
+**Final Fact-Check and Source Verification.** Verify all facts, figures, and quoted sources one last time. Ensuring accuracy bolsters your credibility and trustworthiness.
+
 **Take a break.** Leave the finished piece alone for a day. Read it again tomorrow—you may see things you missed. 
 
 **Evaluate the voice and personality.** Before you call it done, read it one final time. Can you hear the fresh and modern [Microsoft voice](~/brand-voice-above-all-simple-human.md)? Your writing should sound warm and relaxed, crisp and clear, and ready to lend a hand.
