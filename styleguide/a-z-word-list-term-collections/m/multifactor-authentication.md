@@ -5,7 +5,7 @@ author: mbellthomson
 ms.author: mbellthomson
 ms.date: 03/30/2020
 ms.topic: article
-ms.prod: non-product-specific
+ms.service: microsoft-writing-style-guide
 ---
 # multifactor authentication
 
