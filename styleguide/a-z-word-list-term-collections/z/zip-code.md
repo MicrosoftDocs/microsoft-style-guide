@@ -5,7 +5,7 @@ description: Discusses that it's OK to use ZIP Code in content that's intended f
 ms.author: pallep
 ms.date: 01/19/2018
 ms.topic: article
-ms.prod: non-product-specific
+ms.service: microsoft-writing-style-guide
 ---
 
 # ZIP Code

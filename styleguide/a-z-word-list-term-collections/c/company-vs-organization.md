@@ -5,7 +5,7 @@ author: pallep
 ms.author: pallep
 ms.date: 09/11/2018
 ms.topic: article
-ms.prod: non-product-specific
+ms.service: microsoft-writing-style-guide
 ---
 
 # company vs. organization

@@ -5,7 +5,7 @@ author: pallep
 ms.author: pallep
 ms.date: 05/6/2019
 ms.topic: article
-ms.prod: non-product-specific
+ms.service: microsoft-writing-style-guide
 ---
 
 # Names and contact information

@@ -5,7 +5,7 @@ description: Discusses that in 3D charts, the z-axis shows depth and generally r
 ms.author: pallep
 ms.date: 01/19/2018
 ms.topic: article
-ms.prod: non-product-specific
+ms.service: microsoft-writing-style-guide
 ---
 
 # z-axis
