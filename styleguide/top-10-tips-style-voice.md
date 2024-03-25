@@ -5,7 +5,7 @@ author: pallep
 ms.author: pallep
 ms.date: 01/19/2023
 ms.topic: article
-ms.prod: non-product-specific
+ms.service: microsoft-writing-style-guide
 ---
 
 # Top 10 tips for Microsoft style and voice

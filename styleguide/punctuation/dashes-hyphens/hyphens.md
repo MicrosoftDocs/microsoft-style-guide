@@ -5,7 +5,7 @@ author: pallep
 ms.author: pallep
 ms.date: 05/20/2021
 ms.topic: article
-ms.prod: non-product-specific
+ms.service: microsoft-writing-style-guide
 ---
 
 # Hyphens

@@ -5,7 +5,7 @@ author: pallep
 ms.author: pallep
 ms.date: 12/22/2023
 ms.topic: article
-ms.prod: non-product-specific
+ms.service: microsoft-writing-style-guide
 ---
 
 # notification area

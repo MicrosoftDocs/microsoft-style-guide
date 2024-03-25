@@ -5,7 +5,7 @@ description: Instructs to use "write-protect" as a verb instead of "lock" to ref
 ms.author: pallep
 ms.date: 01/19/2018
 ms.topic: article
-ms.prod: non-product-specific
+ms.service: microsoft-writing-style-guide
 ---
 
 # write-protect, write-protected

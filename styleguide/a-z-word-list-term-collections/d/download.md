@@ -5,7 +5,7 @@ author: pallep
 ms.author: pallep
 ms.date: 10/19/2022
 ms.topic: article
-ms.prod: non-product-specific
+ms.service: microsoft-writing-style-guide
 ---
 
 # download

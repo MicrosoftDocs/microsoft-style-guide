@@ -5,7 +5,7 @@ author: pallep
 ms.author: pallep
 ms.date: 03/12/2018
 ms.topic: article
-ms.prod: non-product-specific
+ms.service: microsoft-writing-style-guide
 ---
 
 # its vs. it's
