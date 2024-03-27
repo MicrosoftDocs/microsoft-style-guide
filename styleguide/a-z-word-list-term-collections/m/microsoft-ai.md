@@ -5,7 +5,7 @@ author: pallep
 ms.author: pallep
 ms.date: 02/21/2019
 ms.topic: article
-ms.prod: non-product-specific
+ms.service: microsoft-writing-style-guide
 ---
 
 # Microsoft AI

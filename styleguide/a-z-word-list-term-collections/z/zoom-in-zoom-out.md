@@ -5,7 +5,7 @@ description: Instructs to use zoom in and zoom out as generic verbs in instructi
 ms.author: pallep
 ms.date: 01/19/2018
 ms.topic: article
-ms.prod: non-product-specific
+ms.service: microsoft-writing-style-guide
 ---
 
 # zoom in, zoom out

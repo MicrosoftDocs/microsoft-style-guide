@@ -5,7 +5,7 @@ author: pallep
 ms.author: pallep
 ms.date: 01/15/2021
 ms.topic: article
-ms.prod: non-product-specific
+ms.service: microsoft-writing-style-guide
 ---
 
 # blacklist

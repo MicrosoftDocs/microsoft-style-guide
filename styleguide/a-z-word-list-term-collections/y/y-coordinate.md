@@ -5,7 +5,7 @@ description: Instructs to lowercase and hyphenate the "y-coordinate" and not to 
 ms.author: pallep
 ms.date: 01/19/2018
 ms.topic: article
-ms.prod: non-product-specific
+ms.service: microsoft-writing-style-guide
 ---
 
 # y-coordinate

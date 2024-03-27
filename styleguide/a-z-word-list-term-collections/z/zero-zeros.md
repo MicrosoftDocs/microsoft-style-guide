@@ -5,7 +5,7 @@ description: Discusses when a measurement includes 0, use the plural form of the
 ms.author: pallep
 ms.date: 01/19/2018
 ms.topic: article
-ms.prod: non-product-specific
+ms.service: microsoft-writing-style-guide
 ---
 
 # zero, zeros

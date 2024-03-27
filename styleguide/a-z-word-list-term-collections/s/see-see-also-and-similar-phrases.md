@@ -5,7 +5,7 @@ author: pallep
 ms.author: pallep
 ms.date: 02/26/2024
 ms.topic: article
-ms.prod: non-product-specific
+ms.service: microsoft-writing-style-guide
 ---
 
 # see, see also, and similar phrases
