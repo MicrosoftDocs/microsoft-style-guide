@@ -912,6 +912,7 @@
 ## [Graphics, design, and media](accessibility/graphics-design-media.md)
 # [Acronyms](acronyms.md)
 # [Bias-free communication](bias-free-communication.md)
+## [Militaristic language](militaristic-language.md)
 # [Capitalization](capitalization.md)
 # [Chatbots and virtual agents](chatbots-virtual-agents/index.md)
 ## [Structural and technical considerations](chatbots-virtual-agents/structural-technical-considerations.md)
