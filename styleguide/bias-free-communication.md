@@ -3,7 +3,7 @@ title: Bias-free communication - Microsoft Style Guide
 description: Describes Microsoft's prioritization of inclusive language and communication being used in content and provides terms to use and avoid in all content.
 author: pallep
 ms.author: pallep
-ms.date: 10/18/2022
+ms.date: 04/18/2024
 ms.topic: article
 ms.service: microsoft-writing-style-guide
 ---
@@ -80,7 +80,7 @@ countries with states or continents.
 
 **Don't use profane or derogatory terms,** such as *pimp* or *bitch.*    
 
-**Don't use terms that may carry unconscious racial bias or terms associated with military actions, politics, or historical events and eras.**
+**Don't use terms that may carry unconscious racial bias or terms associated with military actions, politics, or historical events and eras.** See [Militaristic language](https://learn.microsoft.com/en-us/style-guide/militaristic-language) for more information.
 
 
 |    **Use this**    |       **Not this**       |
@@ -95,4 +95,4 @@ countries with states or continents.
 
 **Learn more** For more information about writing that conveys respect to all people and promotes equal opportunities, see the [Guidelines for Inclusive Language](https://www.linguisticsociety.org/content/guidelines-inclusive-language "Linguistic Society of America's guidelines for inclusive language") from the Linguistic Society of America. 
 
-**See also** [Accessibility guidelines and requirements](https://learn.microsoft.com/en-us/style-guide/accessibility/accessibility-guidelines-requirements), [Global communications](https://learn.microsoft.com/en-us/style-guide/global-communications/)
+**See also** [Militaristic language](https://learn.microsoft.com/en-us/style-guide/militaristic-language), [Accessibility guidelines and requirements](https://learn.microsoft.com/en-us/style-guide/accessibility/accessibility-guidelines-requirements), [Global communications](https://learn.microsoft.com/en-us/style-guide/global-communications/)
