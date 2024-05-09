@@ -3,7 +3,7 @@ title: Accessibility terms - Microsoft Style Guide
 description: Describes accessibility terms and provides examples of inclusive language to include in content and examples of sensitive language to exclude from content.
 author: pallep
 ms.author: pallep
-ms.date: 06/20/2023
+ms.date: 05/09/2024
 ms.topic: article
 ms.service: microsoft-writing-style-guide
 ---
@@ -29,8 +29,9 @@ The following table lists examples of people-first language (preferred), identit
 |                Person without a disability                |                                                       Non-disabled person, able-bodied person                                                       |                                                         Normal person, healthy person                                                         |
 |        Person with a prosthetic limb, person with a limb difference, person with an amputation        |                                        Amputee                                        |                                             Maimed, missing a limb, birth defect                                              |
 |                  Person with a disability                  |                                           Disabled person                                           |                                                               People with handicaps, the handicapped                                                               |
-|     Person with cognitive disabilities, developmental disabilities, learning disabilities, or dyslexia      |                                                                                    Learning disabled, dyslexic person                                                                                     |                                           Slow learner, mentally handicapped, differently abled, Special Ed person, stupid                                            |
+|     Person with cognitive disabilities, developmental disabilities, learning disabilities, or dyslexia      |                                                                                    Learning disabled, dyslexic person                                                                                     |                                           Slow learner, mentally handicapped, differently abled, Special Ed person, stupid, special needs                                            |
 |   Person with autism   |                                                                                               Autistic person, neurodivergent person                                                                                               |                                                                    Asperger’s                                                                    |
+|   functional needs (or paraphrase according to the specific disability)  |                                                                                                                                                                                             |                                                                    special needs                                                                    |
 
 For an overview of Microsoft accessibility policies, see [Accessibility guidelines and requirements](~/accessibility/accessibility-guidelines-requirements.md). 
 
