@@ -3,7 +3,7 @@ title: What's new? - Microsoft Style Guide
 description: Provides a table that shows a history of recent updates to the Microsoft Writing Style Guide and outlines the date and changes made to various articles.
 author: pallep
 ms.author: pallep
-ms.date: 05/09/2024
+ms.date: 06/04/2024
 ms.topic: article
 ms.service: microsoft-writing-style-guide
 ---
@@ -15,7 +15,7 @@ This table shows a history of recent updates to the *Microsoft Writing Style Gui
 
 |     **Date**      |                                                                  **Article**                                                                   |                                                                         **Change**                                                                          |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| MAy 9, 2024  |        [Accessibility terms](https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/accessibility-terms)       |               	Added guidance to avoid the use of "special needs."
+| May 9, 2024  |        [Accessibility terms](https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/accessibility-terms)       |               	Added guidance to avoid the use of "special needs."
 | April 19, 2024  |        [Copilot, copilot](https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/c/copilot-copilot)       |               	Created new topic with information on how to use Microsoft Copilot versus third-party copilots in naming and descriptions.
 | April 18, 2024  |        [Militaristic language](https://learn.microsoft.com/en-us/style-guide/militaristic-language)       |               	Created new topic with guidelines on avoiding overly violent and militaristic language.
 | February 26, 2024  |        [see, see also, and similar phrases](https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/s/see-see-also-and-similar-phrases)       |               	Created new topic regarding visual-based phrases and accessibility.
