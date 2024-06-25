@@ -648,7 +648,7 @@
 ### [profile](a-z-word-list-term-collections/p/profile.md)
 ### [program](a-z-word-list-term-collections/p/program.md)
 ### [program file](a-z-word-list-term-collections/p/program-file.md)
-### [prompt](a-z-word-list-term-collections/p/prompt.md)
+### [prompt, prompting](a-z-word-list-term-collections/p/prompt.md)
 ### [prop](a-z-word-list-term-collections/p/prop.md)
 ### [property](a-z-word-list-term-collections/p/property.md)
 ### [property sheet, property page](a-z-word-list-term-collections/p/property-sheet-property-page.md)
