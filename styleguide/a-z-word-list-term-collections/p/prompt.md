@@ -26,7 +26,9 @@ Do not use *prompt* as a verb, as in "Then prompt Copilot to write your reply."
 If you want quality outputs, you need fine-tuned prompts. To start becoming a prompting pro, check out this guidance we like: 
 
 [Prompts for communicators using the new AI-powered Bing - The Official Microsoft Blog](https://blogs.microsoft.com/blog/2023/03/16/prompts-for-communicators-using-the-new-ai-powered-bing/)
+
 [LearnPrompting.org](https://learnprompting.org/)
+
 [Resources to learn prompting](https://learnprompting.org/docs/additional)
 
 **See also**  [command prompt](~/a-z-word-list-term-collections/c/command-prompt.md)
