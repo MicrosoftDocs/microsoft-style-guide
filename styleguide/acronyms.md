@@ -3,7 +3,7 @@ title: Acronyms - Microsoft Style Guide
 description: This article describes how to write acronyms and abbreviations per Microsoft style guidelines, with examples.
 author: pallep
 ms.author: pallep
-ms.date: 10/19/2022
+ms.date: 08/26/2024
 ms.topic: article
 ms.service: microsoft-writing-style-guide
 ---
@@ -21,7 +21,7 @@ Always spell out Microsoft product and feature names.
 
 ## Only use acronyms that your audience is familiar with
 
-The A–Z word list has guidelines for many common acronyms, and some acronyms are so widely used that they're in *[The American Heritage Dictionary](https://ahdictionary.com/).* 
+The A–Z word list has guidelines for many common acronyms, and some acronyms are so widely used that they're in *[Merriam-Webster Dictionary](https://merriam-webster.com/).*
 
 ## If you have to use an acronym, also spell out the term for clarity
 
@@ -29,7 +29,7 @@ In general, include the acronym in parentheses following the spelled-out
 term. On subsequent mentions in the same article, page, or screen, you can
 use the acronym without spelling it out. 
 
-Some acronyms, like *USB, FAQ,* and *URL,* are more well known than the spelled-out term. Don't spell out the term if the acronym is listed in *[The American Heritage Dictionary](https://ahdictionary.com/)* or if the A–Z word list
+Some acronyms, like *USB, FAQ,* and *URL,* are more well known than the spelled-out term. Don't spell out the term if the acronym is listed in *[Merriam-Webster Dictionary](https://merriam-webster.com/)* or if the A–Z word list
 says to use the acronym without spelling it out. If you're sure your
 audience is familiar with an acronym, it's OK to use it without spelling
 it out.
