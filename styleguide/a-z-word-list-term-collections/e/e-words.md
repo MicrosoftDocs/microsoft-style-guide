@@ -3,7 +3,7 @@ title: e-words - Microsoft Style Guide
 description: Describes guidelines to use 'e-words' in Microsoft documents and provides alternate examples.
 author: pallep
 ms.author: pallep
-ms.date: 01/19/2018
+ms.date: 08/26/2024
 ms.topic: article
 ms.service: microsoft-writing-style-guide
 ---
@@ -12,7 +12,7 @@ ms.service: microsoft-writing-style-guide
 
 Don't create new words with *e-* (for *electronic*). 
 
-It's OK to use e-words, such as *e-book* and *e-commerce,* that are included in this guide and in [*The American Heritage Dictionary*](https://ahdictionary.com/). 
+It's OK to use e-words, such as *e-book* and *e-commerce,* that are included in this guide and in *[Merriam-Webster Dictionary](https://merriam-webster.com/).*
 
 Almost all e-words are hyphenated. *Email* is an exception.
 
