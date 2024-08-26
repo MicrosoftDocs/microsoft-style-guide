@@ -3,7 +3,7 @@ title: Capitalization - Microsoft Style Guide
 description: Microsoft style uses sentence-style capitalization. That means everything is lowercase except the first word and proper nouns.
 author: pallep
 ms.author: pallep
-ms.date: 04/02/2021
+ms.date: 08/26/2024
 ms.topic: article
 ms.service: microsoft-writing-style-guide
 ---
@@ -43,7 +43,7 @@ Follow these guidelines in Microsoft content:
 
   - For information on capitalization in hyphenated compound words see [Hyphens](punctuation/dashes-hyphens/hyphens.md).
   
-**Learn more** To learn more about capitalization, see [*The Chicago Manual of Style*](http://www.chicagomanualofstyle.org/home.html).  If you're not sure whether to capitalize a term, check the A–Z word list and [*The American Heritage Dictionary*](https://ahdictionary.com/). 
+**Learn more** To learn more about capitalization, see [*The Chicago Manual of Style*](http://www.chicagomanualofstyle.org/home.html).  If you're not sure whether to capitalize a term, check the A–Z word list and *[Merriam-Webster Dictionary](https://merriam-webster.com/).*
 
 
 For information about capitalizing UI labels in instructions, see [Formatting text in instructions](~/procedures-instructions/formatting-text-in-instructions.md). 

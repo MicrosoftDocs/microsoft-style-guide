@@ -3,7 +3,7 @@ title: Use technical terms carefully - Microsoft Style Guide
 description: Instructs to use technical terms carefully. Use them when they're the clearest way to communicate your message, but don't use them when an everyday term will do.
 author: pallep
 ms.author: pallep
-ms.date: 01/19/2018
+ms.date: 08/26/2024
 ms.topic: article
 ms.service: microsoft-writing-style-guide
 ---
@@ -36,7 +36,7 @@ healthcare, construction, IT, and project management, for example.
 If
 you're writing for an industry or profession, use the words your
 audience uses. First, verify Microsoft and industry usage. Check
-the A–Z word list and [*The American Heritage Dictionary*](https://ahdictionary.com/). Then look to authoritative industry resources: 
+the A–Z word list and *[Merriam-Webster Dictionary](https://merriam-webster.com/).* Then look to authoritative industry resources: 
 
   - Terminology websites, such as [Webopedia.com](https://www.webopedia.com/), and [Whatis.TechTarget.com](https://whatis.techtarget.com/).  
   
@@ -62,6 +62,6 @@ consistently across our products, services, documents, packaging, and
 marketing. Before you adopt a new term in your content, find
 out whether other groups are using it, and how. 
 
-  - First, check [*The American Heritage Dictionary*](https://ahdictionary.com/).  
+  - First, check *[Merriam-Webster Dictionary](https://merriam-webster.com/).*
   
   - Research the term on *edited* industry websites, such as [Forrester Research](https://www.forrester.com/home/), [Gartner](https://www.gartner.com/technology/home.jsp), [CNET](https://www.cnet.com/), [Recode](https://www.recode.net/), [Mashable](https://mashable.com/), [TechCrunch](https://techcrunch.com/), [WIRED](https://www.wired.com/), [Gizmodo](https://gizmodo.com/), [HuffPost Tech](https://www.huffingtonpost.com/tech/), and [Engadget](https://www.engadget.com/). For emerging industry terminology, check reputable business and trade websites, such as [Fast Company](https://www.fastcompany.com/), [Entrepreneur](https://www.entrepreneur.com/magazine/index.html), [Business Insider](https://www.businessinsider.com/), [Healthcare IT News](https://www.healthcareitnews.com/), [American Banker](https://www.americanbanker.com/bank-technology/), and [GameSpot](https://www.gamespot.com/news/).

@@ -3,7 +3,7 @@ title: What's new? - Microsoft Style Guide
 description: Provides a table that shows a history of recent updates to the Microsoft Writing Style Guide and outlines the date and changes made to various articles.
 author: pallep
 ms.author: pallep
-ms.date: 06/25/2024
+ms.date: 08/26/2024
 ms.topic: article
 ms.service: microsoft-writing-style-guide
 ---
@@ -15,6 +15,7 @@ This table shows a history of recent updates to the *Microsoft Writing Style Gui
 
 |     **Date**      |                                                                  **Article**                                                                   |                                                                         **Change**                                                                          |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| August 26, 2024  |        [Announcement]      |               The Microsoft Writing Style Guide has now aligned with Merriam-Webster as its dictionary of references. Links and mentions have been fixed globally.
 | June 25, 2024  |        [prompt, prompting](https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/p/prompt)       |               	Updated guidance to address new concerns about AI prompts and provide resources for prompt writing.
 | May 9, 2024  |        [Accessibility terms](https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/accessibility-terms)       |               	Added guidance to avoid the use of "special needs."
 | April 19, 2024  |        [Copilot, copilot](https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/c/copilot-copilot)       |               	Created new topic with information on how to use Microsoft Copilot versus third-party copilots in naming and descriptions.
