@@ -3,14 +3,14 @@ title: Hyphens - Microsoft Style Guide
 description: Describes how to use hyphens in various contexts in content including predicate adjectives, noun modifiers, compound nouns, prefixes, and more.
 author: pallep
 ms.author: pallep
-ms.date: 05/20/2021
+ms.date: 08/26/2024
 ms.topic: article
 ms.service: microsoft-writing-style-guide
 ---
 
 # Hyphens
 
-For information about hyphenating specific technology words, see the A–Z word list. For information about hyphenating common words, see [*The American Heritage Dictionary*](https://ahdictionary.com/) and [*The Chicago Manual of Style*](https://www.chicagomanualofstyle.org/home.html).
+For information about hyphenating specific technology words, see the A–Z word list. For information about hyphenating common words, see *[Merriam-Webster Dictionary](https://merriam-webster.com/)* and [*The Chicago Manual of Style*](https://www.chicagomanualofstyle.org/home.html).
 
 ## Predicate adjectives
 
@@ -28,7 +28,7 @@ In compound words that precede and modify a noun as a unit, don’t hyphenate:
    **Example**  
    Very fast test  
    
-  - An adverb ending in *-ly,* such as *completely,* when it precedes another modifier. Check [*The American Heritage Dictionary*](https://ahdictionary.com/) if you're not sure whether the word ending in *-ly* is an adverb.<br />
+  - An adverb ending in *-ly,* such as *completely,* when it precedes another modifier. Check*[Merriam-Webster Dictionary](https://merriam-webster.com/)* if you're not sure whether the word ending in *-ly* is an adverb.<br />
    **Examples**  
    extremely stylized image  
    highly graphical interface  <br /><br />
@@ -103,7 +103,7 @@ Use an en dash (–) instead of a hyphen in a compound adjective when:
 
 ## Prefixes
 
-Avoid creating new words by adding prefixes to existing words. Rewrite to avoid creating a new word. If a word with a prefix is listed in [*The American Heritage Dictionary*](https://ahdictionary.com/) or the A–Z word list, it’s OK to use in Microsoft content. 
+Avoid creating new words by adding prefixes to existing words. Rewrite to avoid creating a new word. If a word with a prefix is listed in *[Merriam-Webster Dictionary](https://merriam-webster.com/)* or the A–Z word list, it’s OK to use in Microsoft content. 
 
 In general, don’t include a hyphen after the following prefixes unless omitting the hyphen could confuse the reader.
 
