@@ -3,7 +3,7 @@ title: Top 10 tips for Microsoft style and voice - Microsoft Style Guide
 description: Instructs to use bigger ideas, fewer words, write like you speak, project friendliness and get to the point fast.
 author: pallep
 ms.author: pallep
-ms.date: 01/19/2023
+ms.date: 09/05/2024
 ms.topic: article
 ms.service: microsoft-writing-style-guide
 ---
@@ -72,7 +72,7 @@ Capitalization (Like This). Never Ever. To learn more, see [Capitalization](~/ca
 With these:<br />Find a Microsoft partner<br />Office 365 customer<br />Limited-time offer<br />Join us online
 
 ## Skip periods (and : \! ?)
-Skip end punctuation on titles, headings, subheads, UI titles, and
+Skip end punctuation on titles, headings, subheadings, UI titles, and
 items in a list that are three or fewer words. Save the periods for
 paragraphs and body copy. To learn more, see [Punctuation](~/punctuation/index.md), [Headings](~/scannable-content/headings.md), and [Lists](~/scannable-content/lists.md). 
 

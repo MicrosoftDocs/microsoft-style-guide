@@ -39,6 +39,7 @@
       ],
       "feedback_system": "GitHub",
       "feedback_github_repo": "MicrosoftDocs/microsoft-style-guide",
+      "no_index_ks": true
     },
     "fileMetadata": {},
     "template": [],
