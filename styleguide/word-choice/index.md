@@ -3,7 +3,7 @@ title: Word choice - Microsoft Style Guide
 description: Instructs that to  improve readability and comprehension, choose your words wisely and use them consistently. If you mean the same thing, use the same word.
 author: pallep
 ms.author: pallep
-ms.date: 01/19/2018
+ms.date: 09/23/2024
 ms.topic: article
 ms.service: microsoft-writing-style-guide
 ---
@@ -24,4 +24,4 @@ This section provides tips for choosing the right words for the job:
   - [Avoid jargon](~/word-choice/avoid-jargon.md)
   - [Use US spelling and avoid non-English words](~/word-choice/use-us-spelling-avoid-non-english-words.md)
 
-For information about specific words and phrases, refer to the A–Z word list and [*The American Heritage Dictionary*](https://ahdictionary.com/).
+For information about specific words and phrases, refer to the A–Z word list and [*Merriam-Webster Dictionary*](https://www.merriam-webster.com/).
