@@ -89,14 +89,13 @@ nav:
   #   - Time and place: global-communications/time-place.md
   #   - Web, software, and HTML considerations: global-communications/web-software-html-considerations.md
   #   - Writing tips: global-communications/writing-tips.md
-  # - Grammar and parts of speech:
-  #   - Grammar and parts of speech: grammar/grammar-and-parts-of-speech.md
-  #   - Verbs: grammar/verbs.md
-  #   - Person: grammar/person.md
-  #   - Nouns and pronouns: grammar/nouns-pronouns.md
-  #   - Words ending in -ing: grammar/ing-words.md
-  #   - Prepositions: grammar/prepositions.md
-  #   - Dangling and misplaced modifiers: grammar/dangling-misplaced-modifiers.md
+  - Grammar and parts of speech:
+    - Verbs: grammar/verbs.md
+    - Person: grammar/person.md
+    - Nouns and pronouns: grammar/nouns-pronouns.md
+    - Words ending in -ing: grammar/ing-words.md
+    - Prepositions: grammar/prepositions.md
+    - Dangling and misplaced modifiers: grammar/dangling-misplaced-modifiers.md
   - Numbers: numbers.md
   # - Procedures and instructions:
   #   - Procedures and instructions: procedures-instructions/index.md
