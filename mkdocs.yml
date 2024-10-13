@@ -29,7 +29,7 @@ extra_css:
   - stylesheets/style.css
 
 copyright:
-  Copyright &copy; 2023
+  Copyright &copy; Nordic Semiconductor 2024
 
 markdown_extensions:
   - abbr
@@ -59,11 +59,9 @@ nav:
   - Units of measurement: units-of-measurement.md
   - Trademarks: trademarks.md
   - Typographical conventions: typographical-conventions.md
-  # - Accessibility guidelines and requirements:
-  #   - Accessibility guidelines and requirements: accessibility/accessibility-guidelines-requirements.md
-  #   - Writing for all abilities: accessibility/writing-all-abilities.md
-  #   - Colors and patterns in text, graphics, and design: accessibility/colors-patterns-text-graphics-design.md
-  #   - Graphics, design, and media: accessibility/graphics-design-media.md
+  - Writing tips:
+      - General writing tips: writing-tips/writing-tips.md
+      - Accessibility tips: writing-tips/accessibility.md
   # - Acronyms: acronyms.md
   # - Bias-free communication: bias-free-communication.md
   - Capitalization: capitalization.md
@@ -80,15 +78,6 @@ nav:
   #   - Code examples: developer-content/code-examples.md
   #   - Formatting developer text elements: developer-content/formatting-developer-text-elements.md
   # - Final publishing review: final-publishing-review.md
-  # - Global communications:
-  #   - Global communications: global-communications/index.md
-  #   - Art: global-communications/art.md
-  #   - Currency: global-communications/currency.md
-  #   - Examples and scenarios: global-communications/examples-scenarios.md
-  #   - Names and contact information: global-communications/names-contact-information.md
-  #   - Time and place: global-communications/time-place.md
-  #   - Web, software, and HTML considerations: global-communications/web-software-html-considerations.md
-  #   - Writing tips: global-communications/writing-tips.md
   - Grammar and parts of speech:
     - Verbs: grammar/verbs.md
     - Person: grammar/person.md
