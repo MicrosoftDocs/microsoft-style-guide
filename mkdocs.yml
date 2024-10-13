@@ -55,29 +55,9 @@ extra:
 
 nav:
   - Home: README.md
-  - Glossary: glossary.md
-  - Units of measurement: units-of-measurement.md
-  - Trademarks: trademarks.md
-  - Typographical conventions: typographical-conventions.md
-  - Writing tips:
-      - General writing tips: writing-tips/writing-tips.md
-      - Accessibility tips: writing-tips/accessibility.md
-  # - Acronyms: acronyms.md
-  # - Bias-free communication: bias-free-communication.md
+  - Acronyms: acronyms.md
   - Capitalization: capitalization.md
-  # - Chatbots and virtual agents:
-  #   - Chatbots and virtual agents: chatbots-virtual-agents/index.md
-  #   - Structural and technical considerations: chatbots-virtual-agents/structural-technical-considerations.md
-  #   - Writing for bots: chatbots-virtual-agents/writing-bots.md
-  #   - Care and feeding of the bot: chatbots-virtual-agents/care-feeding-bot.md
-  # - Content planning: content-planning.md
-  # - Design planning: design-planning.md
-  # - Developer content:
-  #   - Developer content: developer-content/index.md
-  #   - Reference documentation: developer-content/reference-documentation.md
-  #   - Code examples: developer-content/code-examples.md
-  #   - Formatting developer text elements: developer-content/formatting-developer-text-elements.md
-  # - Final publishing review: final-publishing-review.md
+  - Glossary: glossary.md
   - Grammar and parts of speech:
     - Verbs: grammar/verbs.md
     - Person: grammar/person.md
@@ -86,13 +66,6 @@ nav:
     - Prepositions: grammar/prepositions.md
     - Dangling and misplaced modifiers: grammar/dangling-misplaced-modifiers.md
   - Numbers: numbers.md
-  # - Procedures and instructions:
-  #   - Procedures and instructions: procedures-instructions/index.md
-  #   - Writing step-by-step instructions: procedures-instructions/writing-step-by-step-instructions.md
-  #   - Describing interactions with UI: procedures-instructions/describing-interactions-with-ui.md
-  #   - Describing alternative input methods: procedures-instructions/describing-alternative-input-methods.md
-  #   - Formatting text in instructions: procedures-instructions/formatting-text-in-instructions.md
-  # - Illustrating network traffic flows: procedures-instructions/illustrating-network-traffic-flows.md
   - Punctuation:
     - Formatting punctuation: punctuation/formatting-punctuation.md
     - Apostrophes: punctuation/apostrophes.md
@@ -106,6 +79,38 @@ nav:
     - Semicolons: punctuation/semicolons.md
     - Slashes: punctuation/slashes.md
     - Square brackets: punctuation/square-brackets.md
+  - Text formatting:
+    - Use sentence-style capitalization: text-formatting/use-sentence-style-capitalization.md
+    - Use left alignment: text-formatting/use-left-alignment.md
+    - Don't compress line spacing: text-formatting/dont-compress-line-spacing.md
+    - Formatting titles: text-formatting/formatting-titles.md
+    - Typographic conventions: text-formatting/typographic-conventions.md
+  - Trademarks: trademarks.md
+  - Units of measurement: units-of-measurement.md
+  - Writing tips:
+      - General writing tips: writing-tips/writing-tips.md
+      - Accessibility tips: writing-tips/accessibility.md
+  # - Bias-free communication: bias-free-communication.md
+  # - Chatbots and virtual agents:
+  #   - Chatbots and virtual agents: chatbots-virtual-agents/index.md
+  #   - Structural and technical considerations: chatbots-virtual-agents/structural-technical-considerations.md
+  #   - Writing for bots: chatbots-virtual-agents/writing-bots.md
+  #   - Care and feeding of the bot: chatbots-virtual-agents/care-feeding-bot.md
+  # - Content planning: content-planning.md
+  # - Design planning: design-planning.md
+  # - Developer content:
+  #   - Developer content: developer-content/index.md
+  #   - Reference documentation: developer-content/reference-documentation.md
+  #   - Code examples: developer-content/code-examples.md
+  #   - Formatting developer text elements: developer-content/formatting-developer-text-elements.md
+  # - Final publishing review: final-publishing-review.md
+  # - Procedures and instructions:
+  #   - Procedures and instructions: procedures-instructions/index.md
+  #   - Writing step-by-step instructions: procedures-instructions/writing-step-by-step-instructions.md
+  #   - Describing interactions with UI: procedures-instructions/describing-interactions-with-ui.md
+  #   - Describing alternative input methods: procedures-instructions/describing-alternative-input-methods.md
+  #   - Formatting text in instructions: procedures-instructions/formatting-text-in-instructions.md
+  # - Illustrating network traffic flows: procedures-instructions/illustrating-network-traffic-flows.md
   # - Responsive content: responsive-content.md
   # - Scannable content:
   #   - Scannable content: scannable-content/index.md
@@ -115,12 +120,6 @@ nav:
   #   - Sidebars: scannable-content/sidebars.md
   #   - Tables: scannable-content/tables.md
   # - Search and writing: search-writing.md
-  - Text formatting:
-    - Use sentence-style capitalization: text-formatting/use-sentence-style-capitalization.md
-    - Use left alignment: text-formatting/use-left-alignment.md
-    - Don't compress line spacing: text-formatting/dont-compress-line-spacing.md
-    - Formatting titles: text-formatting/formatting-titles.md
-    - Typographic conventions: text-formatting/typographic-conventions.md
   # - URLs and web addresses: urls-web-addresses.md
   # - Word choice:
   #   - Word choice: word-choice/index.md
