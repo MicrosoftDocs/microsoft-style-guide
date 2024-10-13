@@ -56,6 +56,7 @@ extra:
 nav:
   - Home: README.md
   - Acronyms: acronyms.md
+  - Bias-free communication: bias-free-communication.md
   - Capitalization: capitalization.md
   - Glossary: glossary.md
   - Grammar and parts of speech:
@@ -90,7 +91,6 @@ nav:
   - Writing tips:
       - General writing tips: writing-tips/writing-tips.md
       - Accessibility tips: writing-tips/accessibility.md
-  # - Bias-free communication: bias-free-communication.md
   # - Chatbots and virtual agents:
   #   - Chatbots and virtual agents: chatbots-virtual-agents/index.md
   #   - Structural and technical considerations: chatbots-virtual-agents/structural-technical-considerations.md
