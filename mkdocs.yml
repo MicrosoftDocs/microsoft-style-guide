@@ -70,7 +70,9 @@ nav:
   - Planning:
     - Content planning: planning/content-planning.md
     - Design planning: planning/design-planning.md
+    - Final publishing review: planning/final-publishing-review.md
     - Responsive content: planning/responsive-content.md
+    - Search and writing: planning/search-writing.md
   - Punctuation:
     - Formatting punctuation: punctuation/formatting-punctuation.md
     - Apostrophes: punctuation/apostrophes.md
@@ -88,19 +90,19 @@ nav:
     - Code examples: text-formatting/code-examples.md
     - General formatting: text-formatting/general-formatting.md
     - Typographic conventions: text-formatting/typographic-conventions.md
+    - URLs and web addresses: text-formatting/urls-web-addresses.md
   - Trademarks: trademarks.md
   - Units of measurement: units-of-measurement.md
   - Writing tips:
       - General writing tips: writing-tips/writing-tips.md
       - Accessibility tips: writing-tips/accessibility.md
-  # - Final publishing review: final-publishing-review.md
   # - Procedures and instructions:
   #   - Procedures and instructions: procedures-instructions/index.md
   #   - Writing step-by-step instructions: procedures-instructions/writing-step-by-step-instructions.md
   #   - Describing interactions with UI: procedures-instructions/describing-interactions-with-ui.md
   #   - Describing alternative input methods: procedures-instructions/describing-alternative-input-methods.md
   #   - Formatting text in instructions: procedures-instructions/formatting-text-in-instructions.md
-  # - Illustrating network traffic flows: procedures-instructions/illustrating-network-traffic-flows.md
+  #   - Illustrating network traffic flows: procedures-instructions/illustrating-network-traffic-flows.md
   # - Scannable content:
   #   - Scannable content: scannable-content/index.md
   #   - Headings: scannable-content/headings.md
@@ -108,8 +110,6 @@ nav:
   #   - Pull quotes: scannable-content/pull-quotes.md
   #   - Sidebars: scannable-content/sidebars.md
   #   - Tables: scannable-content/tables.md
-  # - Search and writing: search-writing.md
-  # - URLs and web addresses: urls-web-addresses.md
   # - Word choice:
   #   - Word choice: word-choice/index.md
   #   - Use contractions: word-choice/use-contractions.md
