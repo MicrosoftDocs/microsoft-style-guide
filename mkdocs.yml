@@ -60,12 +60,13 @@ nav:
   - Capitalization: capitalization.md
   - Glossary: glossary.md
   - Grammar and parts of speech:
-    - Verbs: grammar/verbs.md
-    - Person: grammar/person.md
-    - Nouns and pronouns: grammar/nouns-pronouns.md
-    - Words ending in -ing: grammar/ing-words.md
-    - Prepositions: grammar/prepositions.md
     - Dangling and misplaced modifiers: grammar/dangling-misplaced-modifiers.md
+    - Grammar tips: grammar/grammar-tips.md
+    - Nouns and pronouns: grammar/nouns-pronouns.md
+    - Person: grammar/person.md
+    - Prepositions: grammar/prepositions.md
+    - Verbs: grammar/verbs.md
+    - Words ending in -ing: grammar/ing-words.md
   - Numbers: numbers.md
   - Planning:
     - Content planning: planning/content-planning.md
@@ -93,9 +94,11 @@ nav:
     - URLs and web addresses: text-formatting/urls-web-addresses.md
   - Trademarks: trademarks.md
   - Units of measurement: units-of-measurement.md
+  - Word choice: word-choice.md
   - Writing tips:
-      - General writing tips: writing-tips/writing-tips.md
       - Accessibility tips: writing-tips/accessibility.md
+      - Jargon: writing-tips/jargon.md
+      - Simple writing: writing-tips/simple-writing.md
   # - Procedures and instructions:
   #   - Procedures and instructions: procedures-instructions/index.md
   #   - Writing step-by-step instructions: procedures-instructions/writing-step-by-step-instructions.md
@@ -110,11 +113,3 @@ nav:
   #   - Pull quotes: scannable-content/pull-quotes.md
   #   - Sidebars: scannable-content/sidebars.md
   #   - Tables: scannable-content/tables.md
-  # - Word choice:
-  #   - Word choice: word-choice/index.md
-  #   - Use contractions: word-choice/use-contractions.md
-  #   - Use simple words, concise sentences: word-choice/use-simple-words-concise-sentences.md
-  #   - Don't use common words in new ways: word-choice/dont-use-common-words-in-new-ways.md
-  #   - Use technical terms carefully: word-choice/use-technical-terms-carefully.md
-  #   - Avoid jargon: word-choice/avoid-jargon.md
-  #   - Use US spelling and avoid non-English words: word-choice/use-us-spelling-avoid-non-english-words.md

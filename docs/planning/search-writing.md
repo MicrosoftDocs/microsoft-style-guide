@@ -38,7 +38,6 @@ Linking to supporting information is a good way to stick to the point and keep c
 
 * Link to background and related information rather than summarizing it.
 
-Backlinks
-are links from other online content to your page. Although search engine algorithms change frequently, backlinks are often part of the criteria that determine search ranking. As you plan, think about promotion and what other sites can appropriately link to your content. The more authoritative the site and the closer it maps to your keywords, the more weight the backlink carries.
+Backlinks are links from other online content to your page. Although search engine algorithms change frequently, backlinks are often part of the criteria that determine search ranking. As you plan, think about promotion and what other sites can appropriately link to your content. The more authoritative the site and the closer it maps to your keywords, the more weight the backlink carries.
 
 Never create backlinks just to improve your site's search ranking. Search practices that don’t make sense for your content rarely work and often backfire.
