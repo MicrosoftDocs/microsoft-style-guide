@@ -1,4 +1,4 @@
-# Simple writing
+# Concise writing
 
 To improve readability and comprehension, choose your words wisely and use them consistently. Concise, clear sentences save space, are easy to understand, and facilitate scanning.
 

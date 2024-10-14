@@ -1,4 +1,4 @@
-# Search and writing
+# Searchability
 
 Customers find content in a variety of ways. One of the most common is search. Search engine optimization (SEO) tactics change rapidly, but good writing that addresses customer needs always helps.
 

@@ -56,8 +56,13 @@ extra:
 nav:
   - Home: README.md
   - Acronyms: acronyms.md
-  - Bias-free communication: bias-free-communication.md
   - Capitalization: capitalization.md
+  - Content structure:
+    - Code examples: content-structure/code-examples.md
+    - General formatting: content-structure/general-formatting.md
+    - Headings: content-structure/headings.md
+    - Lists: content-structure/lists.md
+    - Tables: content-structure/tables.md
   - Glossary: glossary.md
   - Grammar and parts of speech:
     - Dangling and misplaced modifiers: grammar/dangling-misplaced-modifiers.md
@@ -72,8 +77,6 @@ nav:
     - Content planning: planning/content-planning.md
     - Design planning: planning/design-planning.md
     - Final publishing review: planning/final-publishing-review.md
-    - Responsive content: planning/responsive-content.md
-    - Search and writing: planning/search-writing.md
   - Punctuation:
     - Formatting punctuation: punctuation/formatting-punctuation.md
     - Apostrophes: punctuation/apostrophes.md
@@ -87,18 +90,17 @@ nav:
     - Semicolons: punctuation/semicolons.md
     - Slashes: punctuation/slashes.md
     - Square brackets: punctuation/square-brackets.md
-  - Text formatting:
-    - Code examples: text-formatting/code-examples.md
-    - General formatting: text-formatting/general-formatting.md
-    - Typographic conventions: text-formatting/typographic-conventions.md
-    - URLs and web addresses: text-formatting/urls-web-addresses.md
   - Trademarks: trademarks.md
+  - Typographic conventions: typographic-conventions.md
   - Units of measurement: units-of-measurement.md
-  - Word choice: word-choice.md
+  - URLs and web addresses: urls-web-addresses.md
   - Writing tips:
-      - Accessibility tips: writing-tips/accessibility.md
-      - Jargon: writing-tips/jargon.md
-      - Simple writing: writing-tips/simple-writing.md
+    - Accessibility tips: writing-tips/accessibility.md
+    - Bias-free communication: writing-tips/bias-free-communication.md
+    - Concise writing: writing-tips/concise-writing.md
+    - Jargon: writing-tips/jargon.md
+    - Searchability: writing-tips/searchability.md
+    - Word choice: writing-tips/word-choice.md
   # - Procedures and instructions:
   #   - Procedures and instructions: procedures-instructions/index.md
   #   - Writing step-by-step instructions: procedures-instructions/writing-step-by-step-instructions.md
@@ -106,10 +108,3 @@ nav:
   #   - Describing alternative input methods: procedures-instructions/describing-alternative-input-methods.md
   #   - Formatting text in instructions: procedures-instructions/formatting-text-in-instructions.md
   #   - Illustrating network traffic flows: procedures-instructions/illustrating-network-traffic-flows.md
-  # - Scannable content:
-  #   - Scannable content: scannable-content/index.md
-  #   - Headings: scannable-content/headings.md
-  #   - Lists: scannable-content/lists.md
-  #   - Pull quotes: scannable-content/pull-quotes.md
-  #   - Sidebars: scannable-content/sidebars.md
-  #   - Tables: scannable-content/tables.md

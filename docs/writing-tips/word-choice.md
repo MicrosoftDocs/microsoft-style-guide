@@ -16,7 +16,6 @@ Examples:
 * easily
 * effectively
 
-
 ### Be careful with words that can be both nouns and verbs
 
 Use words that can be both nouns and verbs carefully—*file, post, mark, screen, record,* and *report,* for example. Use the sentence structure and context to eliminate ambiguity.
