@@ -1,6 +1,6 @@
-# Grammar tips
+# Grammar and parts of speech
 
-Content that’s easy to read tends to be easy to localize and translate. This helps both machine translations and customers.
+Simple grammar tends to be easy to read and understand, like a conversation. Using simple grammar also tends to be easy to localize and translate, which helps both machine translations and customers. Use the following recommendations to improve your writing.
 
 ## Use American English and avoid non-English words
 

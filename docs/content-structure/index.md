@@ -1,4 +1,4 @@
-# General formatting
+# Content structure
 
 The volume of content available to customers is overwhelming. Part of a writer's job is to help readers find what they need quickly, or recognize just as quickly when they're not where they need to be. Writing to facilitate scanning will help.
 

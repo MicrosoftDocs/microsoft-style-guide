@@ -82,3 +82,37 @@ Use a hyphen in the following situations.
 | **With a compound modifier (adverb) ending in “ly”** | An **easily-remembered** mail alias is a person's first initial and last name | An **easily remembered** mail alias is a person's first initial and last name |
 | **By itself in suspended form** | **8-** and 7-bit characters | **8-bit** and 7-bit characters |
 | **With some prefixes:**</br> auto, bi, co, cyber, exa, giga, inter, kilo, mega, meta, micro, mid, mini, multi, neo, non, over, pan, post, pre, pro, re, sub, tera, under, un</br></br> **Exception:** If the stem word begins with a capital letter. E.g. non-XML | The database's **pre-defined** settings optimize performance and reduce the need for manual configuration | The database's **predefined** settings optimize performance and reduce the need for manual configuration |
+
+## Hyphenation Examples
+
+### Verb, Noun, Adjective (Derived from Phrasal/Prepositional Verbs)
+
+| Verb         | Noun       | Adjective (Compound Modifier) | Example |
+| ------------ | ---------- | ----------------------------- | ------- |
+| to back up   | a backup   | backup                        | A backup system (adj./modifier) |
+| to time out  | a timeout  | timeout                       | Cf. RMF: 'timeout' |
+| to stand by  | a standby  | standby                       | *(Example not provided)* |
+| to sign up   | a sign-up  | sign-up                       | *(Example not provided)* |
+| to start up  | a startup  | startup                       | *(Example not provided)* |
+
+**Nordic exceptions:** to wake up, wakeup (adj.), cf. e.g Webster: 'a wake-up alarm'; Collins: 'be a wake-up to', Oxford: 'the wake-up comes...'
+
+### Noun, Verb, Adjective (Compound Modifier)
+
+| Noun           | Verb            | Adjective (Compound Modifier) | Example |
+| -------------- | --------------- | ----------------------------- | ------- |
+| a short circuit | to short-circuit | short-circuited               | (n.) The fire was caused by a *short circuit*. </br>(v.) The birds caused the electricity to *short-circuit*. </br>(a.) A short-circuited motherboard|
+
+### Compound Adjectives (Compound Modifiers)
+
+Compound modifiers in *Read Me First*, p. 47 (usually compound modifiers hyphenated)
+
+| Single Adjectives </br>(Noun + Verb + Modifier) | Compound Adjectives | Comments |
+| ----------------------------------------- | ------------------- | -------- |
+| The address has 16 bits.</br>It consists of 5 bits. | a 16-bit address</br>a 5-bit sequence | cf. pages 33 and 47 in RMF |
+| The product is well known. | We have a well-known product |  |
+| We work five days a week. | A five-day week. |  |
+| Our generators use wind power. | We use a wind-powered generator. |  |
+| The program is live on air today. | on-air data-rate |  |
+| The document is up to date. | an up-to-date document |  |
+|  | a low-power MCU |  |

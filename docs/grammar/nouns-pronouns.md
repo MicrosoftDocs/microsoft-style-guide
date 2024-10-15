@@ -26,13 +26,13 @@ Capitalize technology terms as proper nouns only when:
 
 * The terms are typically capitalized in the industry. Search *[The American Heritage Dictionary](https://ahdictionary.com/),* reputable internet sites, and industry-specific dictionaries. Don't rely on unedited websites.
 
-If you're not sure whether a term is a proper noun (and thus capitalized) or a common noun (lowercase), check *[The American Heritage Dictionary](https://ahdictionary.com/)* and the A–Z word list. Default to lowercase unless there's a compelling reason to capitalize the term.
+If you're not sure whether a term is a proper noun (and thus capitalized) or a common noun (lowercase), check *[The American Heritage Dictionary](https://ahdictionary.com/)* and the [Glossary](../glossary.md). Default to lowercase unless there's a compelling reason to capitalize the term.
 
-For guidelines for sentence-style and title-style capitalization, see [Capitalization](~/capitalization.md).
+For guidelines for sentence-style and title-style capitalization, see [Capitalization](../capitalization.md).
 
 ## Plural nouns
 
-To check the spelling of plural forms of words derived from Latin and Greek that retain their Latin or Greek endings (typically *-a, -us, -um, -on, -ix,* or -*ex*), see specific entries in the A–Z word list and *[The American Heritage Dictionary](https://ahdictionary.com/).*
+To check the spelling of plural forms of words derived from Latin and Greek that retain their Latin or Greek endings (typically *-a, -us, -um, -on, -ix,* or -*ex*), see specific entries in the [Glossary](../glossary.md) and *[The American Heritage Dictionary](https://ahdictionary.com/).*
 
 | **Noun** | **Plural form** | **Examples** |
 | -------- | --------------- | ------------ |

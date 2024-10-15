@@ -12,10 +12,10 @@ Before adding a new term, check the following sources:
 
 You can also check the following pages:
 
-* For units of measurement, see **[Units of measurement](/wiki/spaces/TECHDOC/pages/120293159/Units+of+measurement)**
+* For units of measurement, see [Units of measurement](units-of-measurement.md)
 * For checking American English spelling, use **[Merriam-Webster](http://www.merriam-webster.com/)**
 * For Nordic product names, see [Product names](/wiki/spaces/MAR/pages/132940950/Product+names)
-* For trademarks, check Infocenter/keydefs/terms and [Trademarks](http://projecttools.nordicsemi.no/confluence/display/TECHDOC/Trademarks). If something is missing from there, add it. See also:
+* For trademarks, check [Trademarks](trademarks.md). If something is missing from there, add it. See also:
   * [Arm Trademarks list](https://www.arm.com/company/policies/trademarks/arm-trademark-list)
   * [Bluetooth brand guide](https://www.bluetooth.com/marketing-branding/brand-best-practices-guidelines)
   * [NFC branding](http://nfc-forum.org/our-work/nfc-branding/)
@@ -44,19 +44,15 @@ Abbreviations used in the list:
 
 Terms in the list that appear in <span style="color:red">red</span> are prohibited.
 
-## Table of Contents
-
-[@, 1](#@, 1) [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) [Q](#q) [R](#r) [S](#s) [T](#t) [U](#u) [V](#v) [W](#w) [X](#x) [Z](#z)
-
 ### @, 1
 
 | Correct Use of Term | Definition |
 | ------------------- | ---------- |
 | @                   | **Usage:** Use only in email addresses.</br>**Example:** [john.doe@nordicsemi.no](mailto:john.doe@nordicsemi.no) |
-| 3D (mod.)           | three-dimensional</br>**Example:** a 3D movie (source: [Wikipedia](https://en.wikipedia.org/wiki/3D) and [Oxford Dictionaries](http://www.oxforddictionaries.com/definition/english/3d?q=3D)) |
+| 3D (mod.)           | three-dimensional</br>**Example:** a 3D movie |
 | 6LoWPAN             |  |
 
-[Back to top](#terms-abbreviations-and-spelling-rules)
+[Back to top](#glossary)
 
 ### A
 
@@ -70,7 +66,7 @@ Terms in the list that appear in <span style="color:red">red</span> are prohibit
 | <span style="color:red">Attribute Database, ATTDB (n.)</span> | Prohibited. </br> Use 'Attribute Table', or 'GATT Server Attribute Table'. |
 | Attribute Table (n., proper) | **Prohibited:** <span style="color:red">*Attribute Database, ATTDB, or Database*</span> |
 
-[Back to top](#terms-abbreviations-and-spelling-rules)
+[Back to top](#glossary)
 
 ### B
 
@@ -79,8 +75,8 @@ Terms in the list that appear in <span style="color:red">red</span> are prohibit
 | to back up (v.) | Phrasal verb: verb preposition always separated by a space</br>**Example:** the reliability of the data being *backed up* (source: Wikipedia)|
 | backup (n., mod.) | Noun + adjective derived from a phrasal verb: a compound, either with a hyphen or parts written together. Here: written together (source: [Webster](http://www.merriam-webster.com/dictionary/backup) and [Collins](http://www.collinsdictionary.com/dictionary/american/backup))</br>**Example:** a *backup* software |
 | baud rate (n.) | **Spelling:** Two words (source: [Collins](http://www.collinsdictionary.com/dictionary/english/baud-rate) and [IATE Termbank (EU languages)](https://55136b85db18b8d4acd0415afe747aacfadc73a4.googledrive.com/host/0Bz-pJulWTGF5S2JTcm16ZThVMjA/popup.html)) |
-| bi- (prefix) | **Spelling:** Usually no hyphen after the prefix bi-. </br>**Examples:** bidirectional, bipolar (source: [Merriam-Webster](http://www.merriam-webster.com/) [and Hyphenation](/wiki/spaces/~sive/pages/69632726/Hyphenation)) |
-| bit</br>(hyphenation of numerals + units) | **Examples**: a *16-bit* address; a *10 kΩ* resistor</br>For rules, see [Hyphenation](http://projecttools.nordicsemi.no/confluence/display/TECHDOC/Hyphenation). |
+| bi- (prefix) | **Spelling:** Usually no hyphen after the prefix bi-. </br>**Examples:** bidirectional, bipolar (source: [Merriam-Webster](http://www.merriam-webster.com/) [and Hyphenation](punctuation/dashes-and-hyphens.md)) |
+| bit</br>(hyphenation of numerals + units) | **Examples**: a *16-bit* address; a *10 kΩ* resistor</br>For rules, see [Hyphenation](punctuation/dashes-and-hyphens.md). |
 | to blink (v.) | Use when referring to LED's. </br>**Example:** *A blinking LED*. (**Prohibited:** to flash); to blink smoothly (Avoid: to softblink) |
 | BLE | **Status:** <span style="color:red">Prohibited.</span> </br>Use: Bluetooth Low Energy &lt;noun&gt;. (Source: [Bluetooth brand guide, July 2018](https://www.bluetooth.com/marketing-branding/brand-best-practices-guidelines)) |
 | *Bluetooth®* Host | **Example:** This stack is split into two core components: the Bluetooth Host and the Bluetooth LE Controller. </br> **Prohibited:** <span style="color:red">BLE Host, Bluetooth LE Host</span> |
@@ -94,7 +90,7 @@ Terms in the list that appear in <span style="color:red">red</span> are prohibit
 | buck regulator (DC/DC) | Not converter |
 | bug fix (n.) | **Spelling:** Two words |
 
-[Back to top](#terms-abbreviations-and-spelling-rules)
+[Back to top](#glossary)
 
 ### C
 
@@ -102,10 +98,10 @@ Terms in the list that appear in <span style="color:red">red</span> are prohibit
 | --------------------- | ---------- |
 | central (n.) | Bluetooth Low Energy roles (Advertiser, Broadcaster, Central, Peripheral) and other similar terms (e.g. Initiator, Observer, Scanner) are capitalized except when they refer to protocol components (e.g. events, links, intervals, time windows).</br>**Example:** The SoftDevice supports up to eight connections as Centrals, up to one connection as a Peripheral, an Advertiser or a Broadcaster, and an Observer or Scanner simultaneously.</br>**Example:** Scanner timing-event is always placed after the central link timing-events. |
 | changelog (n.) | **Spelling:** one word, not two |
-| chip (n.) | **Usage:** *informal* (short for 'microchip'). Can be used to replace a product name in our documentation.</br>**Examples:** nRF52832 --> the *chip*. "on-chip x, silicon chip, test chip, development chip".</br>**Status:** Preferred, in addition to [system on chip](/wiki/pages/resumedraft.action?draftId=120298016#Terms,abbreviations,andspellingrules-systemonchip) |
-| to click (v.) | to *click* a button, link, or other interface element (to select especially in a computer interface by pressing a button on a control device (as a mouse). (source: [Merriam-Webster](http://www.merriam-webster.com/dictionary/click))</br>to *click on* a file, photograph, icon (to select something by [clicking](http://www.merriam-webster.com/dictionary/clicking) —often used with *on* <*click on the icon*>. (source: [Merriam-Webster](http://www.merriam-webster.com/dictionary/click))</br>For touch screen buttons, see [to tap](/wiki/pages/resumedraft.action?draftId=120298016#Terms,abbreviations,andspellingrules-totap) (v.). |
+| chip (n.) | **Usage:** *informal* (short for 'microchip'). Can be used to replace a product name in our documentation.</br>**Examples:** nRF52832 --> the *chip*. "on-chip x, silicon chip, test chip, development chip".</br>**Status:** Preferred, in addition to [system on chip](#s) |
+| to click (v.) | to *click* a button, link, or other interface element (to select especially in a computer interface by pressing a button on a control device (as a mouse). (source: [Merriam-Webster](http://www.merriam-webster.com/dictionary/click))</br>to *click on* a file, photograph, icon (to select something by [clicking](http://www.merriam-webster.com/dictionary/clicking) —often used with *on* <*click on the icon*>. (source: [Merriam-Webster](http://www.merriam-webster.com/dictionary/click))</br>For touch screen buttons, see [to tap](#t) (v.). |
 | cloud-to-cloud (mod.) | Always follow with the noun or verb being modified.</br>**Example:** There are several services available for cloud-to-cloud migration. |
-| co- (prefix) | **Spelling:** Usually no hyphen after the prefix co-. </br>**Examples**: *cooperation, coexist, coauthor* (source: [Merriam-Webster](http://www.merriam-webster.com/) and [Hyphenation](/wiki/spaces/~sive/pages/69632726/Hyphenation)) |
+| co- (prefix) | **Spelling:** Usually no hyphen after the prefix co-. </br>**Examples**: *cooperation, coexist, coauthor* (source: [Merriam-Webster](http://www.merriam-webster.com/) and [Hyphenation](punctuation/dashes-and-hyphens.md)) |
 | CoAP |  |
 | compile time (n.)</br>compile-time (adj.) |  |
 | computer (n.) | **Status:** preferred (Preferable to the term PC ) |
@@ -116,7 +112,7 @@ Terms in the list that appear in <span style="color:red">red</span> are prohibit
 | crystal (n.) | Refers to the physical component. </br>**Prohibited:** <span style="color:red">*Xtal, XTAL*</span> |
 | crystal oscillator (n.) | **Prohibited:** <span style="color:red">*XO, XOSC*</span> |
 
-[Back to top](#terms-abbreviations-and-spelling-rules)
+[Back to top](#glossary)
 
 ### D
 
@@ -127,9 +123,9 @@ Terms in the list that appear in <span style="color:red">red</span> are prohibit
 | <span style="color:red">Database</span>              | Prohibited when referring to '(GATT Server) Attribute Table'. Use 'GATT Server Attribute Table' or 'Attribute Table'. |
 | data rate (n.)        | **Spelling:** Two words. Source: several (Wikipedia, pcmag, Telecom ABC,...) |
 | datasheet (n.)        | **Spelling:** One word. Source: RMF. </br>**Prohibited:** Never refer to our own Product Specifications as datasheets. |
-| de- (prefix)          | Usually no hyphen after the prefix de-. </br>**Examples:** *decoupling, deassert, devalue, demount* (source: [Merriam-Webster](http://www.merriam-webster.com/) and [Hyphenation](/wiki/spaces/~sive/pages/69632726/Hyphenation)) |
+| de- (prefix)          | Usually no hyphen after the prefix de-. </br>**Examples:** *decoupling, deassert, devalue, demount* (source: [Merriam-Webster](http://www.merriam-webster.com/) and [Hyphenation](punctuation/dashes-and-hyphens.md)) |
 | to decouple (v.)</br>(decoupling) | Usually no hyphen after the prefix de-. </br>**Examples:** *decoupling, devalue, demount* (source: [Merriam-Webster](http://www.merriam-webster.com/)) |
-| to demount (v.)</br>(demounting) | Usually no hyphen after the prefix de-. </br>**Examples:** *decoupling, devalue, demount* (source: [Merriam-Webster](http://www.merriam-webster.com/) and [Hyphenation](/wiki/spaces/~sive/pages/69632726/Hyphenation)) |
+| to demount (v.)</br>(demounting) | Usually no hyphen after the prefix de-. </br>**Examples:** *decoupling, devalue, demount* (source: [Merriam-Webster](http://www.merriam-webster.com/) and [Hyphenation](punctuation/dashes-and-hyphens.md)) |
 | device (n.) | Can be used when referring to one of our chips. Should be used in place of the device name after the Intro chapter, where the device is specifically named. |
 | device-to-cloud (mod.) | Always follow with the noun or verb being modified.</br>**Example:** The device-to-cloud (D2C) messaging service is not available. |
 | dongle | **Spelling:** lower case. Cf. Master Emulator. |
@@ -141,7 +137,7 @@ Terms in the list that appear in <span style="color:red">red</span> are prohibit
 | drag-and-drop (mod.) | **Example** A *drag–and–drop* interface (source: RMF and [Merriam-Webster](http://www.merriam-webster.com/)) |
 | drop-down (adj.) | Used along with the noun.</br>**Example:** Click the drop-down menu. |
 
-[Back to top](#terms-abbreviations-and-spelling-rules)
+[Back to top](#glossary)
 
 ### E
 
@@ -154,7 +150,7 @@ Terms in the list that appear in <span style="color:red">red</span> are prohibit
 | Erase all (mode)</br>ERASEALL (register) |  |
 | an event, to generate | **Example:** The STOPPED event will be generated. |
 
-[Back to top](#terms-abbreviations-and-spelling-rules)
+[Back to top](#glossary)
 
 ### F
 
@@ -174,7 +170,7 @@ Terms in the list that appear in <span style="color:red">red</span> are prohibit
 | Force OFF mode        | Nordic proprietary |
 | function              | Something programmers write. Bluetooth Low Energy functions |
 
-[Back to top](#terms-abbreviations-and-spelling-rules)
+[Back to top](#glossary)
 
 ### G
 
@@ -183,7 +179,7 @@ Terms in the list that appear in <span style="color:red">red</span> are prohibit
 | GATT Server Attribute Table (n., proper) | **Prohibited:** <span style="color:red">*Attribute Database, ATTDB, or Database*</span> |
 | to generate an event             | **Example:** The STOPPED event will be generated. |
 
-[Back to top](#terms-abbreviations-and-spelling-rules)
+[Back to top](#glossary)
 
 ### H
 
@@ -196,7 +192,7 @@ Terms in the list that appear in <span style="color:red">red</span> are prohibit
 | High Voltage mode     |  |
 | hot fix (n.)          | **Spelling:** Two words |
 
-[Back to top](#terms-abbreviations-and-spelling-rules)
+[Back to top](#glossary)
 
 ### I
 
@@ -211,7 +207,7 @@ Terms in the list that appear in <span style="color:red">red</span> are prohibit
 | Internet (n., proper) | **Spelling:** uppercase (source: [Merriam-Webster](http://www.merriam-webster.com/dictionary/internet), Wikipedia). **Usage:** usually with the definite article: *the* Internet. |
 | inter- (prefix)      | **Spelling:** Usually no hyphen after the prefix inter-. </br>**Example:** interoperable, interoperability (source: Merriam-Webster and Hyphenation) |
 
-[Back to top](#terms-abbreviations-and-spelling-rules)
+[Back to top](#glossary)
 
 ### J
 
@@ -222,7 +218,7 @@ Terms in the list that appear in <span style="color:red">red</span> are prohibit
 | jumper (n.)           | Definition: See [Merriam-Webster](http://www.merriam-webster.com/dictionary/jumper), [Wikipedia](https://en.wikipedia.org/wiki/Jumper_(computing)), and [PC Mag](http://www.pcmag.com/encyclopedia/term/45701/jumper). See also 'header'. |
 | Just Works (n., proper) | **Examples**: *Just Works* flow, *Just Works* pairing, *Just Works* association model (sources: Bluetooth Core v4.2, [Bluetooth Secure Simple Pairing User Interface Flow Whitepaper](https://www.google.no/url?sa=t&rct=j&q=&esrc=s&frm=1&source=web&cd=3&ved=0ahUKEwiJ7-q7-IDLAhUDCCwKHdUgCEUQFggvMAI&url=https%3A%2F%2Fwww.bluetooth.org%2Fdocman%2Fhandlers%2FDownloadDoc.ashx%3Fdoc_id%3D86173&usg=AFQjCNE0rGlB8rO4o-16vJM5H803mjswcQ)) |
 
-[Back to top](#terms-abbreviations-and-spelling-rules)
+[Back to top](#glossary)
 
 ### K
 
@@ -231,7 +227,7 @@ Terms in the list that appear in <span style="color:red">red</span> are prohibit
 | keystream (n., mod.)  | **Spelling:** One word. |
 | keyword (n., mod.)    | **Spelling:** One word. (source: RMF) |
 
-[Back to top](#terms-abbreviations-and-spelling-rules)
+[Back to top](#glossary)
 
 ### L
 
@@ -246,7 +242,7 @@ Terms in the list that appear in <span style="color:red">red</span> are prohibit
 | lithium iron phosphate (LiFePO<sub>4</sub>) | Use full form in first occurrence. |
 | lithium-polymer (Li-poly)         | Use full form in first occurrence. Use separately from lithium-ion.</br>**Prohibited:** <span style="color:red">*LiPo*</span> batteries, <span style="color:red">*L+*</span> |
 | to log in to (v.)</br>login (n., mod.) | **Example:** Log in as a root user. (source: [Merriam-Webster](http://www.merriam-webster.com/dictionary/log%20in), RMF) Phrasal verb: verb and preposition always separated by a space</br>**Example:** (source: RMF) Noun + adjective derived from a phrasal verb: a compound, either with a hyphen or parts written together. Here: written together (source: RMF) |
-| low-power (mod.)                  | **Spelling:** hyphenated when used as a modifier.</br>**Example:** a *low-power* comparator (source: RMF and [Merriam-Webster](http://www.merriam-webster.com/dictionary/low-power), and [Hyphenation](http://projecttools.nordicsemi.no) |
+| low-power (mod.)                  | **Spelling:** hyphenated when used as a modifier.</br>**Example:** a *low-power* comparator (source: RMF and [Merriam-Webster](http://www.merriam-webster.com/dictionary/low-power), and [Hyphenation](punctuation/dashes-and-hyphens.md)) |
 | Low Voltage mode |  |
 
 ### M
@@ -263,9 +259,9 @@ Terms in the list that appear in <span style="color:red">red</span> are prohibit
 | mode (n.)                         | **Definition:** Explicitly set or configured by the user through writing to a register or similar means. Not to be confused with a 'state'.</br></br>**Specific modes (names/proper nouns):** </br>Aligned mode, </br>Debug Interface mode, </br>Direct Test Mode (DTM), </br>Force-OFF mode (proprietary feature), </br>(Gazell) Device mode, </br>(Gazell) Host mode, </br>Hibernate mode, </br>Low-power mode, </br>Master mode, </br>Power OFF (proprietary feature), </br>Slave mode, </br>Ship mode, </br>(System) ON/OFF mode, </br>Thread mode</br></br>**Categories/types of modes (common nouns):** </br>blocking/non-blocking mode, </br>burst mode, </br>halt mode, </br>normal mode, </br>pull mode, </br>read/write mode, </br>reset mode, </br>retention mode, </br>sleep mode, </br>supplement mode, </br>suspend mode, </br>synchronous mode |
 | module (n.)          | **Usage (in HW documentation):** Precede 'module' by the name of the device in question.</br>**Example:** *nRF24LE1 module*</br>**Prohibited:** <span style="color:red">*nRFgo Development module, radio module*</span></br>If you need to differentiate between a module with an SMA connector and a module with a PCB antenna, then write it out as such. Use a prepositional phrase.</br>**Prohibited:** <span style="color:red">"the SMA connector module"</span> or the <span style="color:red">"PCB antenna module"</span>.</br>Exceptions to this are the carrier board module and the nRFgo Display module.</br>Use capital initial "D" in "Display module" because the word is printed like this on the actual hardware. |
 | motherboard (n.)</br>Motherboard (n., proper) | **Spelling:** Capitalize when referring to our proprietary Motherboard. Precede by 'nRFgo' in the first instance.</br>**Example:** *nRFgo Motherboard* |
-| multi- (prefix)      | **Spelling:** Usually no hyphen after the prefix multi-</br>**Examples:** *multicellular, multiprotocol, multicell* (source: [Merriam-Webster](http://www.merriam-webster.com/) and [Hyphenation](/wiki/spaces/~sive/pages/69632726/Hyphenation)) |
+| multi- (prefix)      | **Spelling:** Usually no hyphen after the prefix multi-</br>**Examples:** *multicellular, multiprotocol, multicell* (source: [Merriam-Webster](http://www.merriam-webster.com/) and [Hyphenation](punctuation/dashes-and-hyphens.md)) |
 
-[Back to top](#terms-abbreviations-and-spelling-rules)
+[Back to top](#glossary)
 
 ### N
 
@@ -283,7 +279,7 @@ Terms in the list that appear in <span style="color:red">red</span> are prohibit
 | Normal Voltage mode  |  |
 | nRF Connect for VS Code extension | Use the related shortcut `|nRFVSC|` in sdk-nrf. VS Code can be expanded to full name if needed. </br>**Prohibited:** <span style="color:red">*nRF Connect extension, nRF Connect extension for VS Code, or similar forms with plural "extensions"*</span> |
 
-[Back to top](#terms-abbreviations-and-spelling-rules)
+[Back to top](#glossary)
 
 ### O
 
@@ -304,7 +300,7 @@ Terms in the list that appear in <span style="color:red">red</span> are prohibit
 | over the air (prepositional phrase as adverbial)</br>over-the-air (mod., adj.) | **Example:** *over-the-air* (OTA) programming (source: [IATE](http://iate.europa.eu/SearchByQuery.do), [Wikipedia](https://en.wikipedia.org/wiki/Over-the-air_programming)) |
 | Overvoltage mode</br>overvoltage |  |
 
-[Back to top](#terms-abbreviations-and-spelling-rules)
+[Back to top](#glossary)
 
 ### P
 
@@ -319,12 +315,12 @@ Terms in the list that appear in <span style="color:red">red</span> are prohibit
 | power-down (n.)      | **Spelling:** Use hyphen |
 | power-fail comparator (n.) | **Spelling:** Use a hyphen and don't capitalize. Abbreviated (POF). |
 | power-on reset (n.)  | **Spelling:** Modifier hyphenated |
-| pre- (prefix)        | **Spelling:** Usually no hyphen after the prefix pre-</br>**Examples:** *prescaler, prescaling, prehistoric* (source: [Merriam-Webster](http://www.merriam-webster.com/) and [Hyphenation](/wiki/spaces/~sive/pages/69632726/Hyphenation))</br>**Exception:** pre-encoded |
+| pre- (prefix)        | **Spelling:** Usually no hyphen after the prefix pre-</br>**Examples:** *prescaler, prescaling, prehistoric* (source: [Merriam-Webster](http://www.merriam-webster.com/) and [Hyphenation](punctuation/dashes-and-hyphens.md))</br>**Exception:** pre-encoded |
 | profile (n., common) | **Spelling:** lower case when common noun. For capitalization of nouns, see [Capitalization](http://projecttools.nordicsemi.no/confluence/display/TECHDOC/Capitalization). |
 | to program (v.)      | **Exception:** Use *configure* instead of *program* when referring to register settings.</br>Use instead of *to flash* (v.) in the following instances.</br>**Example:** Program the software to the hardware.</br>**Example:** Program the hardware with the software. |
 | pull-up/pull-down (n., adj.) | **Spelling:** Always with a hyphen. |
 
-[Back to top](#terms-abbreviations-and-spelling-rules)
+[Back to top](#glossary)
 
 ### Q
 
@@ -332,7 +328,7 @@ Terms in the list that appear in <span style="color:red">red</span> are prohibit
 | --------------------- | ---------- |
 | <span style="color:red">to query</span> (a register) | **Status:** Restricted. </br> **Preferred:** to read a register |
 
-[Back to top](#terms-abbreviations-and-spelling-rules)
+[Back to top](#glossary)
 
 ### R
 
@@ -341,12 +337,12 @@ Terms in the list that appear in <span style="color:red">red</span> are prohibit
 | RAM (abbr.)           | **Usage:** No need to spell out the acronym. (source: RMF, p. 36) |
 | to read (a register)  | **Status:** Preferred instead of 'to query a register' |
 | to read back (v.)</br>readback (n., mod.) | **Example** (mod.): memory *readback* protection (source: [Wiktionary](https://en.wiktionary.org/wiki/readback)) |
-| re- (prefix)          | **Spelling:** Usually no hyphen after the prefix re-. **Example:** *retransmission* (source: [Merriam-Webster](http://www.merriam-webster.com/dictionary/re-) and [Hyphenation](http://projecttools.nordicsemi.no/confluence/display/TECHDOC/Hyphenation)) |
+| re- (prefix)          | **Spelling:** Usually no hyphen after the prefix re-. **Example:** *retransmission* (source: [Merriam-Webster](http://www.merriam-webster.com/dictionary/re-) and [Hyphenation](punctuation/dashes-and-hyphens.md)) |
 | RF transceiver (n., common) | **Spelling:** Lowercase initial 't' for 'transceiver' because it's a common noun. |
 | <span style="color:red">run mode</span> (n.)        | <span style="color:red">Under review.</span> Most instances are a state=RUN |
 | runtime (n., mod.)   | **Example:** The runtime library is required to build a complete application. |
 
-[Back to top](#terms-abbreviations-and-spelling-rules)
+[Back to top](#glossary)
 
 ### S
 
@@ -375,7 +371,7 @@ Terms in the list that appear in <span style="color:red">red</span> are prohibit
 | System in Package (n.)</br>System-in-Package (mod.) | **Example:** nRF9160 is a compact *System in Package* (SiP).</br>**Example:** Nordic Semiconductor's *System-in-Package* solutions are leading the way in low power LTE technology. |
 | System on Chip (n.)</br>System-on-Chip (mod.) | **Example:** nRF52832 is an ultra-low power 2.4 GHz wireless *System on Chip* (SoC). (source: [Wikipedia](https://en.wikipedia.org/wiki/System_on_a_chip))</br>**Example:** *System-on-Chip* (SoC) resources (source: e.g. Wikipedia) |
 
-[Back to top](#terms-abbreviations-and-spelling-rules)
+[Back to top](#glossary)
 
 ### T
 
@@ -394,19 +390,19 @@ Terms in the list that appear in <span style="color:red">red</span> are prohibit
 | Type 2 Near Field Communication (NFC-A) Tag (n., proper) | See also: (NFC) Type 2 Tag (n., proper) |
 | TX/RX                | **Spelling:** Capitalize all letters, use forward slash. |
 
-[Back to top](#terms-abbreviations-and-spelling-rules)
+[Back to top](#glossary)
 
 ### U
 
 | Correct Use of Term  | Definition |
 | -------------------- | ---------- |
-| ultra- (prefix)      | **Spelling:** Usually no hyphen after the prefix ultra-, but an exception is 'ultra-low power'. </br>**Examples:** ultraheavy, ultrasophisticated (source: [Merriam-Webster](http://www.merriam-webster.com/dictionary/ultra-) and [Hyphenation](/wiki/spaces/~sive/pages/69632726/Hyphenation)) |
+| ultra- (prefix)      | **Spelling:** Usually no hyphen after the prefix ultra-, but an exception is 'ultra-low power'. </br>**Examples:** ultraheavy, ultrasophisticated (source: [Merriam-Webster](http://www.merriam-webster.com/dictionary/ultra-) and [Hyphenation](punctuation/dashes-and-hyphens.md)) |
 | undervoltage</br>undervoltage lockout | Spelled as one word.</br>Acronym is UVLO |
 | update               | Use when referring to newer firmware that should be installed. Do not use 'upgrade' unless it's referring to DFU.</br>**Example**:  |
 | up to date (prepositional phrase as adverbial)</br>up-to-date (mod.) | **Example:** The styles are not *up to date*</br>**Example:** *up-to-date* methods |
 | username (n., common) | **Spelling:** Lowercase (all common nouns), one word. (source: [Merriam-Webster](http://www.merriam-webster.com/dictionary/username)) |
 
-[Back to top](#terms-abbreviations-and-spelling-rules)
+[Back to top](#glossary)
 
 ### V
 
@@ -416,7 +412,7 @@ Terms in the list that appear in <span style="color:red">red</span> are prohibit
 | version, v          | **Usage:** v1.0, v1.2.x |
 | to verify (v.)      | **Status:** preferred (**Prohibited:** '<span style="color:red">double-check</span>') |
 
-[Back to top](#terms-abbreviations-and-spelling-rules)
+[Back to top](#glossary)
 
 ### W
 
@@ -433,7 +429,7 @@ Terms in the list that appear in <span style="color:red">red</span> are prohibit
 | writeback (n., mod.) | (matches "readback") Looking for an example. |
 | workaround (n.)      | **Spelling:** No hyphen (RMF style instead of Merriam-Webster) |
 
-[Back to top](#terms-abbreviations-and-spelling-rules)
+[Back to top](#glossary)
 
 ### X
 
@@ -442,7 +438,7 @@ Terms in the list that appear in <span style="color:red">red</span> are prohibit
 | <span style="color:red">XO, XOSC</span>            | **Status:** Prohibited. Use 'crystal oscillator' |
 | <span style="color:red">XTAL, Xtal</span> (abbr.)  | **Status:** Prohibited. Use 'crystal' when referring to the physical component. |
 
-[Back to top](#terms-abbreviations-and-spelling-rules)
+[Back to top](#glossary)
 
 ### Z
 
@@ -450,50 +446,4 @@ Terms in the list that appear in <span style="color:red">red</span> are prohibit
 | ------------------- | ---------- |
 | zip (mod.)</br>.zip (file extension) | **Examples** (mod.): a *zip* file, a *zip* package.(source: [Merriam-Webster](http://www.merriam-webster.com/dictionary/zip%20file))</br>**Example** (extension): nRF51_SDK_9.0.0_1a2b3c4*.zip* |
 
-[Back to top](#terms-abbreviations-and-spelling-rules)
-
-### Hyphenation Examples
-
-#### Verb, Noun, Adjective (Derived from Phrasal/Prepositional Verbs)
-
-| Verb         | Noun       | Adjective (Compound Modifier) | Example |
-| ------------ | ---------- | ----------------------------- | ------- |
-| to back up   | a backup   | backup                        | A backup system (adj./modifier) |
-| to time out  | a timeout  | timeout                       | Cf. RMF: 'timeout' |
-| to stand by  | a standby  | standby                       | *(Example not provided)* |
-| to sign up   | a sign-up  | sign-up                       | *(Example not provided)* |
-| to start up  | a startup  | startup                       | *(Example not provided)* |
-
-****Note:**** Nordic exceptions: to wake up, wakeup (adj.), cf. e.g Webster: 'a wake-up alarm'; Collins: 'be a wake-up to', Oxford: 'the wake-up comes...'
-
-#### Noun, Verb, Adjective (Compound Modifier)
-
-| Noun           | Verb            | Adjective (Compound Modifier) | Example |
-| -------------- | --------------- | ----------------------------- | ------- |
-| a short circuit | to short-circuit | short-circuited               | (n.) The fire was caused by a *short circuit*. </br>(v.) The birds caused the electricity to *short-circuit*. </br>(a.) A short-circuited motherboard|
-
-[Back to top](#terms-abbreviations-and-spelling-rules)
-
-### Compound Adjectives (Compound Modifiers)
-
-Compound modifiers in *Read Me First*, p. 47 (usually compound modifiers hyphenated)
-
-| Single Adjectives </br>(Noun + Verb + Modifier) | Compound Adjectives | Comments |
-| ----------------------------------------- | ------------------- | -------- |
-| The address has 16 bits.</br>It consists of 5 bits. | a 16-bit address</br>a 5-bit sequence | cf. pages 33 and 47 in RMF |
-| The product is well known. | We have a well-known product |  |
-| We work five days a week. | A five-day week. |  |
-| Our generators use wind power. | We use a wind-powered generator. |  |
-| The program is live on air today. | on-air data-rate |  |
-| The document is up to date. | an up-to-date document |  |
-|  | a low-power MCU |  |
-
-[Back to top](#terms-abbreviations-and-spelling-rules)
-
-### Similar Words with Different Meanings
-
-| Term          | Definition |
-| ------------- | ---------- |
-| Send vs. issue | Send implies an intended receiver. </br> **Example:** The system sends a warning to the host.</br>Issue is where something is put out for anything that is looking for it to read it. Ex. An event register and interrupt are available for each measurement and are issued once the measurement has been completed. |
-
-[Back to top](#terms-abbreviations-and-spelling-rules)
+[Back to top](#glossary)

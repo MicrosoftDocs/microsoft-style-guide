@@ -1,4 +1,4 @@
-# Formatting punctuation
+# Punctuation
 
 In general, format all punctuation in the same font style as the main content of a sentence or phrase. Format parentheses and brackets in the same font style as the main text.
 

@@ -5,7 +5,7 @@ Use sentence-style capitalization in most titles and headings. That means capita
 ## Sentence-style capitalization
 
 * Capitalize the first word of a sentence, heading, title, UI label (such as the name of a button or check box), or standalone phrase.
-* Capitalize proper nouns. To learn more about proper nouns, see [Nouns and pronouns](~/grammar/nouns-pronouns.md).
+* Capitalize proper nouns. To learn more about proper nouns, see [Nouns and pronouns](grammar/nouns-pronouns.md).
 * Use lowercase for everything else.
 * Always capitalize the first word of a new sentence. Rewrite sentences that start with a word that's always lowercase.
 
@@ -49,4 +49,4 @@ Do not use capitalization in the following ways:
 |-----------|----------|
 | When words are joined by a slash, capitalize the word after the slash if the word before the slash is capitalized. | Country/Region <br /> Turn on the On/Off toggle. |
 
-For information on capitalization in hyphenated compound words see [Hyphens](punctuation/dashes-hyphens/hyphens.md).
+For information on capitalization in hyphenated compound words see [Hyphens](punctuation/dashes-and-hyphens.md).

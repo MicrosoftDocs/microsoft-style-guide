@@ -398,7 +398,7 @@ E.g. Connect the `GND` pin to pin `P0.05`.
 === "RST"
 
     ```
-	**pinname**
+    **pinname**
     ```
 
 === "Markdown"
@@ -509,7 +509,7 @@ E.g. PINx.DETECT signal
 
 The state name should be followed by the word 'state' when used in running text.
 
-E.g. ALL CAPS	ALL CAPS	ALL CAPS	TXIDLE state
+E.g. TXIDLE state
 
 === "Dita"
 

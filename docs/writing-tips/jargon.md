@@ -1,6 +1,6 @@
 # Jargon
 
-Jargon is the technical terminology or characteristic idiom of a special activity or group. Differentiating jargon from technical terminology is tricky. First, check the [Glossary](glossary.md). If you don’t find the term, the following checklist can help.
+Jargon is the technical terminology or characteristic idiom of a special activity or group. Differentiating jargon from technical terminology is tricky. First, check the [Glossary](../glossary.md). If you don’t find the term, the following checklist can help.
 
 * If you think a term is jargon, it probably is.
 * If it’s an acronym or abbreviation, it may be jargon. Spell it out for clarity.
@@ -8,7 +8,9 @@ Jargon is the technical terminology or characteristic idiom of a special activit
 * If the term is used in *The Wall Street Journal* or *The New York Times,* or in general-interest magazines, such as *Time* or *Newsweek,* it might be appropriate for some audiences.
 * If the term is used in technical periodicals such as *CNET* or *Recode,* it's probably OK to use for technical audiences.
 
-Don’t use jargon if:
+## When to avoid jargon
+
+Don't use jargon if:
 
 * You can use a more familiar term, such as *symbol* instead of *glyph.*
 * The term is familiar to only a small segment of your readers.
@@ -22,7 +24,7 @@ Sometimes everyday words are given new meanings, like *cloud, batch,* or *dashbo
 
 Here are technical terminology resources to check:
 
-* [Glossary](glossary.md)
+* [Glossary](../glossary.md)
 * [*The American Heritage Dictionary*](https://ahdictionary.com/).
 * [W3C](https://www.w3.org/standards/xml)
 * [IEEE](https://www.ieee.org/index.html).

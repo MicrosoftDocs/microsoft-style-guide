@@ -16,9 +16,11 @@ theme:
   logo: assets/nordic_logo.png
   favicon: assets/nordic_logo.png
   features:
+    - content.code.copy
     - content.code.annotate
     - content.tooltips
     - content.tabs.link
+    - navigation.footer
     - navigation.indexes
     - navigation.top
     - navigation.tracking
@@ -58,20 +60,19 @@ nav:
   - Acronyms: acronyms.md
   - Capitalization: capitalization.md
   - Content structure:
+    - Content structure: content-structure/index.md
     - Code examples: content-structure/code-examples.md
-    - General formatting: content-structure/general-formatting.md
     - Headings: content-structure/headings.md
     - Lists: content-structure/lists.md
     - Procedures and instructions:
-      - Procedures and instructions: procedures-instructions/index.md
       - Step-by-step instructions: procedures-instructions/step-by-step-instructions.md
       - UI interactions: procedures-instructions/ui-interactions.md
       - Alternative input methods: procedures-instructions/alternative-input-methods.md
     - Tables: content-structure/tables.md
   - Glossary: glossary.md
   - Grammar and parts of speech:
+    - Grammar and parts of speech: grammar/index.md
     - Dangling and misplaced modifiers: grammar/dangling-misplaced-modifiers.md
-    - Grammar tips: grammar/grammar-tips.md
     - Nouns and pronouns: grammar/nouns-pronouns.md
     - Person: grammar/person.md
     - Prepositions: grammar/prepositions.md
@@ -83,7 +84,7 @@ nav:
     - Design planning: planning/design-planning.md
     - Final publishing review: planning/final-publishing-review.md
   - Punctuation:
-    - Formatting punctuation: punctuation/formatting-punctuation.md
+    - Punctuation: punctuation/index.md
     - Apostrophes: punctuation/apostrophes.md
     - Colons: punctuation/colons.md
     - Commas: punctuation/commas.md
@@ -100,9 +101,8 @@ nav:
   - Units of measurement: units-of-measurement.md
   - URLs and web addresses: urls-web-addresses.md
   - Writing tips:
+    - Writing tips: writing-tips/index.md
     - Accessibility tips: writing-tips/accessibility.md
     - Bias-free communication: writing-tips/bias-free-communication.md
-    - Concise writing: writing-tips/concise-writing.md
     - Jargon: writing-tips/jargon.md
     - Searchability: writing-tips/searchability.md
-    - Word choice: writing-tips/word-choice.md

@@ -58,7 +58,7 @@ def bubble_sort(items):
 
 ## Graphics
 
-![Test image](assets/testimage.jpg "Test image")
+![Test image](assets/nordic_logo.png "Test image")
 
 
 ## Admonitions and collapsible blocks

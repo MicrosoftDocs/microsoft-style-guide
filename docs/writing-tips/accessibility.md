@@ -2,7 +2,7 @@
 
 ## Put the person first
 
-In general, refer to a person who has a kind of disability, not a disabled person. When you must describe specific disabilities or people with specific disabilities, use [approved terminology](~/a-z-word-list-term-collections/term-collections/accessibility-terms.md "Accessibility term collection").
+In general, refer to a person who has a kind of disability, not a disabled person.
 
 ## Write brief, meaningful, and focused text
 
