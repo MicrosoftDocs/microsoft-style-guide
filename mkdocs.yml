@@ -64,9 +64,9 @@ nav:
     - Lists: content-structure/lists.md
     - Procedures and instructions:
       - Procedures and instructions: procedures-instructions/index.md
-      - Writing step-by-step instructions: procedures-instructions/writing-step-by-step-instructions.md
-      - Describing interactions with UI: procedures-instructions/describing-interactions-with-ui.md
-      - Describing alternative input methods: procedures-instructions/describing-alternative-input-methods.md
+      - Step-by-step instructions: procedures-instructions/step-by-step-instructions.md
+      - UI interactions: procedures-instructions/ui-interactions.md
+      - Alternative input methods: procedures-instructions/alternative-input-methods.md
     - Tables: content-structure/tables.md
   - Glossary: glossary.md
   - Grammar and parts of speech:
