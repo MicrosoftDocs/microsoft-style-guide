@@ -1,13 +1,13 @@
 ---
-title: disk resource - Microsoft Style Guide
-description: In Microsoft documents, use 'disk resource' to refer to a disk or part of a disk shared on a server.
+title: drive resource - Microsoft Style Guide
+description: In Microsoft documents, use 'drive resource' to refer to a drive or part of a drive shared on a server.
 author: pallep
 ms.author: pallep
-ms.date: 01/19/2018
+ms.date: 10/16/2024
 ms.topic: article
 ms.service: microsoft-writing-style-guide
 ---
 
-# disk resource
+# drive resource
 
-Use to refer to a disk or part of a disk shared on a server.
+Use to refer to a drive or part of a drive shared on a server.
