@@ -18,4 +18,4 @@ When referring to storage in a partition of space, mention it specifically and u
 
 Storage in local drive (C:) 
 
-**See also** [storage, storage device](~/a-z-word-list-term-collections/s/storage-storage-device.md)
+**See also** [storage, storage space](~/a-z-word-list-term-collections/s/storage-storage-device.md)
