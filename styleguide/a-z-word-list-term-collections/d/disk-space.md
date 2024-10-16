@@ -1,6 +1,6 @@
 ---
 title: disk space - Microsoft Style Guide
-description: In Microsoft documents, use 'disk space' instead of 'storage' or 'memory' to refer to available capacity on a disk.
+description: In Microsoft documents, use 'storage' or 'storage space' to refer to available capacity on a drive. Also, use 'drive' rather than 'disk.'
 author: pallep
 ms.author: pallep
 ms.date: 10/16/2024
