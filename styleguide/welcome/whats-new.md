@@ -3,7 +3,7 @@ title: What's new? - Microsoft Style Guide
 description: Provides a table that shows a history of recent updates to the Microsoft Writing Style Guide and outlines the date and changes made to various articles.
 author: pallep
 ms.author: pallep
-ms.date: 08/26/2024
+ms.date: 10/16/2024
 ms.topic: article
 ms.service: microsoft-writing-style-guide
 ---
@@ -15,6 +15,9 @@ This table shows a history of recent updates to the *Microsoft Writing Style Gui
 
 |     **Date**      |                                                                  **Article**                                                                   |                                                                         **Change**                                                                          |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| October 16, 2024  |        [quotation marks](https://learn.microsoft.com/en-us/style-guide/punctuation/quotation-marks)       |               		Clarified guidance regarding default use of straight quotation marks and the Segoe font. 
+| October 16, 2024  |        [storage, storage space](https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/s/storage-storage-device)       |               	Changed topic title (previously storage, storage device). Updated guidance to use *storage space*.
+| October 16, 2024  |        [disk space](https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/d/disk-space)       |               	Updated guidance to recommend using storage or storage space; updated guidance to recommend use of drive in most cases that are not physical disks.
 | August 26, 2024  |        [Announcement]      |               The Microsoft Writing Style Guide has now aligned with Merriam-Webster as its dictionary of references. Links and mentions have been fixed globally.
 | June 25, 2024  |        [prompt, prompting](https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/p/prompt)       |               	Updated guidance to address new concerns about AI prompts and provide resources for prompt writing.
 | May 9, 2024  |        [Accessibility terms](https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/accessibility-terms)       |               	Added guidance to avoid the use of "special needs."
