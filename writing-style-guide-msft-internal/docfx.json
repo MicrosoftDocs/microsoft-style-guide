@@ -1,0 +1,54 @@
+{
+  "build": {
+    "content": [
+      {
+        "files": [
+          "**/*.md",
+          "**/*.yml"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "_themes/**",
+          "**/docfx.json",
+          "_repo.en-us/**",
+          "README.md",
+          "LICENSE",
+          "LICENSE-CODE",
+          "ThirdPartyNotices.md",
+          "SECURITY.md"
+        ]
+      }
+    ],
+    "resource": [
+      {
+        "files": [
+          "**/*.png",
+          "**/*.jpg"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "_themes/**",
+          "**/docfx.json",
+          "_repo.en-us/**"
+        ]
+      }
+    ],
+    "overwrite": [],
+    "externalReference": [],
+    "globalMetadata": {
+      "breadcrumb_path": "~/breadcrumb/writing-style-guide-msft-internal/toc.yml",
+      "feedback_system": "Standard",
+      "permissioned-type": "private",
+      "authorize_path": "~/authorize.md"
+    },
+    "fileMetadata": {
+      "permissioned-type": {
+        "**/toc.yml": "public",
+        "**/toc.md": "public"
+      }
+    },
+    "template": []
+  }
+}
